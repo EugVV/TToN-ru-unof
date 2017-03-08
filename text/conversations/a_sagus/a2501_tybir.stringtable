@@ -1,0 +1,305 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\a_sagus\a2501_tybir</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>57</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>Когда вы проходите мимо склада с грузом, из-за него выходит знакомая фигура, переодетая в Жреца Вечности, что выглядит не очень убедительно. "Эм, привет, друг", — говорит Тибир. "Я... Я полагал, ты..."
+
+Он резко замолкает, увидев вас поближе. "О. Это ты. Я ищу выход из этого города. Разве я не обещал, что больше с тобой не заговорю?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>"Почему ты хочешь покинуть город?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>"Некоторые друзья Риса обвиняют меня в его смерти, и представители власти хотят, эм, допросить меня. Это все немного... усложнило ситуацию, и я считаю, что для меня лучше сменить обстановку".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>"Я собираюсь покинуть этот город. Если хочешь, пойдем со мной".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>"Постой! Разве я сказал, что хочу пойти с тобой? После того, что ты сделал — вернее, что ты *не* сделал — не уверен, что я хочу идти с тобой".
+
+Он складывает руки. "Почему я должен пойти с тобой?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>"Богатство и слава ждут нас".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>"Это две прекрасные причины, чтобы пойти с тобой. Я прощаю тебя". Он смотрит через свое плечо. "Эм, но в данный момент все ищут меня. Я думаю, мне лучше остаться здесь, пока ты не будешь готов уйти. Я присоединюсь к тебе потом".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>"Я хочу загладить свою вину за смерть Риса".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>"Это очень трогательно", — произносит он, кивая головой. "Я прощаю тебя, и я уверен, что где бы ни был Рис, он тоже тебя прощает". 
+
+Он смотрит через свое плечо. "Эм, но в данный момент все ищут меня. Я думаю, мне лучше остаться здесь, пока ты не будешь готов уйти. Я присоединюсь к тебе потом".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>"Похоже, это я втянул тебя в такую ситуацию. Я все улажу сам".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>"Благородный поступок. Я прощаю тебя". 
+
+Он смотрит через свое плечо. "Эм, но в данный момент все ищут меня. Я думаю, мне лучше остаться здесь, пока ты не будешь готов уйти. Я присоединюсь к тебе потом".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText>"Ты не должен. Прощай".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText>Тибир кривит свои губы. "Хорошо. У меня есть другие варианты".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>14</ID>
+      <DefaultText>"Пока, друг. Мы больше не увидимся".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>15</ID>
+      <DefaultText>"Я не ухожу прямо сейчас. Но если ты подождешь, я возьму тебя с собой".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>16</ID>
+      <DefaultText>"Извини. Мне это неинтересно".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>17</ID>
+      <DefaultText>"И кто сказал, что я хочу пойти с *тобой*? Это все твое самолюбие. Не думаю, что мы сможем с ним вместе ужиться".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>18</ID>
+      <DefaultText>"Да, ты прав. Прощай".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>19</ID>
+      <DefaultText>Тибир фыркает. "Хорошо, если ты этого так хочешь. Прекрасно".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20</ID>
+      <DefaultText>"Я подожду, парень. Пока ты не будешь готов".</DefaultText>
+      <FemaleText>"Я подожду, барышня. Пока ты не будешь готова".</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>21</ID>
+      <DefaultText>Когда вы проходите мимо склада с грузом, из-за него выходит знакомая фигура, переодетая в Жреца Вечности, что выглядит не очень убедительно. "Эм, еще раз привет, парень", — говорит Тибир. "Я... Не думал, что ты можешь передумать насчет того, чтобы взять меня с собой".</DefaultText>
+      <FemaleText>Когда вы проходите мимо склада с грузом, из-за него выходит знакомая фигура, переодетая в Жреца Вечности, что выглядит не очень убедительно. "Эм, еще раз привет, барышня", — говорит Тибир. "Я... Не думал, что ты можешь передумать насчет того, чтобы взять меня с собой".</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>22</ID>
+      <DefaultText>"Почему ты прячешься?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>23</ID>
+      <DefaultText>"Кажется, Рис все еще недоволен, что я оставил его висеть так долго там, на виселице, и он хочет меня придушить моими же собственными кишками, чтобы я почувствовал это на себе. Конечно я не в восторге от такого урока и хотел бы любыми способами его избежать".
+
+Он вздыхает. "Поэтому я надеялся, что ты возьмешь меня с собой, эм, просто это безопаснее, если ты понимаешь, о чем я. Численное превосходство и все такое".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>24</ID>
+      <DefaultText>"Хорошо. Пойдем".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>25</ID>
+      <DefaultText>"Спасибо, парень. Благодарю. Я очень признателен тебе".</DefaultText>
+      <FemaleText>"Спасибо, барышня. Благодарю. Я очень признателен тебе".</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>26</ID>
+      <DefaultText>"Численное превосходство? Ты думаешь, что если ты пойдешь со мной, мы рискуем нарваться на Риса?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>27</ID>
+      <DefaultText>Тибир машет руками. "Нет, нет. Наоборот. Рис очень труслив. Пока ты со мной, он не осмелится напасть. Он даже не покажет своего лица".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>28</ID>
+      <DefaultText>"Возможно. Почему?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>29</ID>
+      <DefaultText>"Мне неинтересно, спасибо".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30</ID>
+      <DefaultText>"Ты уверен? У меня огромный опыт. Я повидал много мест".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>31</ID>
+      <DefaultText>Когда вы снова проходите мимо склада с грузом, Тибир опять выглядывает из-за него. "Привет еще раз, друг. Не думал, что ты передумаешь брать меня с собой. Я в отчаянии".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>32</ID>
+      <DefaultText>Когда вы проходите мимо склада с грузом, старый пузатый солдат, переодетый в Жреца Вечности — что выглядит не очень убедительно — стоит там же на углу, оглядываясь с осторожностью. Кажется, он хочет оставаться незамеченным. "Эм, привет, друг. Я... Не думал, что ты уже покидаешь город".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>33</ID>
+      <DefaultText>"Да, скоро. Почему?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>34</ID>
+      <DefaultText>"Ах.... это долгая история, боюсь, на этот раз я разгневал некоторых очень влиятельных людей, поэтому мне лучше убраться отсюда".
+
+Он смотрит на вас с надеждой. "Итак, эм, тебе нужна помощь опытного солдата?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>35</ID>
+      <DefaultText>"Хорошо. Почему бы и нет?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>36</ID>
+      <DefaultText>"Спасибо, парень. Благодарю. Я очень признателен тебе. Эм, но половина населения Утесов Сагуса ищут меня. Боюсь, что я не смогу присоединиться к тебе, пока ты не будешь готов уйти".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>37</ID>
+      <DefaultText>"Нам будет легче путешествовать вдвоем, друг".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>38</ID>
+      <DefaultText>"Я не знаю. Что ты можешь предложить?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>39</ID>
+      <DefaultText>"Ты имеешь в виду, кроме своего опыта?" Он разводит свои руки. "Итак, я гражданин мира. Я побывал везде. Я умею многое. Я знаю многих людей в каждом городе Запределья, да и не только там. Многие в долгу передо мной. Будет ли это для тебя полезным?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>40</ID>
+      <DefaultText>"Если у тебя есть такие связи, зачем тебе нужна моя помощь?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>41</ID>
+      <DefaultText>Он пожимает плечами. "Все эти люди на Утесах Сагуса... в данный момент злятся на меня. Такое случается".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>42</ID>
+      <DefaultText>"Я так не думаю".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>43</ID>
+      <DefaultText>"Ты уверен? У меня огромный опыт. Я повидал много мест".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>44</ID>
+      <DefaultText>"Хорошо. Ты меня убедил".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>45</ID>
+      <DefaultText>"Нет, спасибо".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>46</ID>
+      <DefaultText>"Не сейчас? Почему?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>47</ID>
+      <DefaultText>"Прощай".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>48</ID>
+      <DefaultText>"Желаю удачи".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>49</ID>
+      <DefaultText>Когда вы снова проходите мимо склада с грузом, переодетый солдат опять выглядывает из-за него. "Привет еще раз. Не думал, что ты передумаешь брать меня с собой. Я в отчаянии".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>50</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>51</ID>
+      <DefaultText>"Ну? Ты готов взять меня с собой?"</DefaultText>
+      <FemaleText>"Ну? Ты готова взять меня с собой?"</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>52</ID>
+      <DefaultText>"Конечно. Пойдем".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>53</ID>
+      <DefaultText>"Пока нет. Сначала надо кое-что уладить".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>54</ID>
+      <DefaultText>"Я не хочу, чтобы ты меня сопровождал".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>55</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>56</ID>
+      <DefaultText>"Конечно, конечно. Я подожду".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>57</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

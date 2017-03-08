@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\x_labyrinth_crisis\x1011_creature_machine_gold_examine</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>4</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>Этот сломанный аппарат скрывают свистящие облака пара. Пока вы его не почините, установить контакт с существом в стоящем рядом резервуаре будет невозможно.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>Вода течет в стоящий рядом резервуар существа. Теперь вы, пожалуй, сумеете установить с ним контакт.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>Тварь вылезла из аппарата, чтобы добраться до вас, и теперь вы, наверное, сумеете установить связь с существом в резервуаре.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>Эти трубки обеспечивают постоянный приток свежей, прозрачной воды к стоящему рядом резервуару.</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

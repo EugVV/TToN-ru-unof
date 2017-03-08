@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\a_sagus\a2311_corpse_castoff</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>10</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>Тело покрыто ветхой тканью, от которой идет сильный запах паленого мяса.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>Тело покрыто тканью, под которой угадываются торчащие кости.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>Оставить тело в покое.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>Поднять покрывало.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>Снова осмотреть тело отверженного.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>Вы осторожно откидываете ткань.
+
+Ошибки быть не может. Покойник был отверженным, и он уже мертвее некуда. Его кожа истончилась, как пергамент, и вся рассечена. Татуировка — вернее, ее останки — прожгла кожу и череп под ней.
+
+И, разумеется, выжженные глазницы и раскрытый в жутком крике рот.
+
+У тела недостает некоторых частей, будто Дендра начали его есть и бросили. Что и неудивительно.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>Взгляд опять притягивают остатки татуировки отверженного. Похоже, что, когда он умер, татуировка загорелась и прожгла кожу и череп под ней.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>Коснуться татуировки.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>Последнее, что вы помните до того, как касаетесь татуировки — это нарастающее жужжание...
+
+Время спотыкается и замирает.
+
+Вы приходите в себя, хватая ртом воздух, и прислоняетесь к носилкам. Рука горит, виски пульсируют, а боковое зрение затуманено белыми помехами.
+
+Кто-то кричал в той бессветной, безвременной пустоте. Больше вы ничего не помните. Но кричали не вы: никто из Дендра не смотрит в вашу сторону.</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

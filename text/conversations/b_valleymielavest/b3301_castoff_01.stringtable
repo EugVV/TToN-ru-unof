@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\b_valleymielavest\b3301_castoff_01</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>8</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>"Ах, если бы наш создатель был здесь..."</DefaultText>
+      <FemaleText>"Ах, если бы наш создатель был здесь..."</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>"В твоем теле остались воспоминания Меняющегося Бога? У меня нет".</DefaultText>
+      <FemaleText>"В твоем теле остались воспоминания Меняющегося Бога? У меня нет".</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>"Как мне надоел этот мир!"</DefaultText>
+      <FemaleText>"Как мне надоел этот мир!"</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>"Я больше не хочу здесь оставаться, но... Я не был в мире уже лет десять".</DefaultText>
+      <FemaleText>"Я больше не хочу здесь оставаться, но... Я не был в мире уже лет десять".</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>"А что, если я *впустую* трачу бессмертие?"</DefaultText>
+      <FemaleText>"А что, если я *впустую* трачу бессмертие?"</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>"Но что толку от бессмертия, если его можно урезать?"</DefaultText>
+      <FemaleText>"Но что толку от бессмертия, если его можно урезать?"</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>"Я должен... Нет, не должен".</DefaultText>
+      <FemaleText>"Я должен... Нет, не должен".</FemaleText>
+    </Entry>
+  </Entries>
+</StringTableFile>

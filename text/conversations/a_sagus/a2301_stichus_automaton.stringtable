@@ -1,0 +1,231 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\a_sagus\a2301_stichus_automaton</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>43</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>Оживший труп выкопанного стихуса возвышается над вами и ждет указаний.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>Оживленный стихус ожидает указаний.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>Осмотреть робота.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>Снова осмотреть робота.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>Нетрудно заметить, что именно изменили рабочие. Раны заполнены радужным металлом, а покалеченный коготь заменен на металлический. От заплаты к заплате тянутся витки ребристого кабеля, который исчезает в груди существа.
+
+Несколько глаз извлечены, и из пустых глазниц виден тусклый свет.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>Радужный металл, покрывающий раны существа, и соединяющие металл кабели тускло поблескивают. Трудно сказать, что рабочие сделали с этим стихусом, но у них явно все получилось.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>"Отведи меня на обрыв на Краю Утеса".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>"Прокопай туннель куда-нибудь".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText>В ответ слышится только тиканье откуда-то из-за моргающих глаз существа. Кажется, оно ждет, пока ему укажут направление.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText>Из-за движущихся глаз существа слышится мягкое тиканье.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>14</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>15</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>16</ID>
+      <DefaultText>"Отведи меня в Пещеру Последних Слов".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>17</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>18</ID>
+      <DefaultText>"Ладно, не обращай внимания".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>19</ID>
+      <DefaultText>Тиканье в глазах существа замолкает. Стихус все так же бесстрастно взирает на вас.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>21</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>22</ID>
+      <DefaultText>Помахать рукой перед глазами стихуса, чтобы проверить реакцию.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>23</ID>
+      <DefaultText>Снова помахать рукой перед лицом существа.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>24</ID>
+      <DefaultText>Когда рука проходит перед глазами существа, они разгораются ярче, но больше ничего не происходит.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>25</ID>
+      <DefaultText>Глаза стихуса светятся, будто угли, но больше он никак не реагирует.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>26</ID>
+      <DefaultText>Оживший труп Ч'кекта высится над вами, без запаха и без звука, ожидающий команд.
+{GAVIN: add this back if Ch'kekt can be converted.}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>27</ID>
+      <DefaultText>Нетрудно заметить, что именно изменили рабочие. Раны заполнены радужным металлом, а покалеченный коготь заменен на металлический. От заплаты к заплате тянутся витки ребристого кабеля, который исчезает в груди существа.
+
+Вы изучаете лицо Ч'кекта: несколько глаз извлечены и заменены мигающими лампочками.
+{GAVIN: add this back if Ch'kekt can be converted.}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>28</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>29</ID>
+      <DefaultText>По лицу существа на миг пробегает невыразимая злоба. Оно помнит вас, и то, что вы сделали. Оно *ненавидит* вас... но не может ослушаться ваших приказов.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>31</ID>
+      <DefaultText>Не трогать механизм.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>34</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>35</ID>
+      <DefaultText>"Копай в случайном направлении".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>36</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>37</ID>
+      <DefaultText>Коготь механического создания сгибается, но оно не отвечает. И не двигается.
+
+Кажется, ему нужно указать точное место, куда можно добраться из-под земли.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>38</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>39</ID>
+      <DefaultText>"В помойке за Пятым Глазом копается стихус-изгой. Выкопай туннель и приведи его сюда в целости".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>40</ID>
+      <DefaultText>Робот долго смотрит на вас. Его механические глазницы мигают каскадом, вверх и вниз, будто он не совсем понимает, что от него хотят. Наконец он поворачивается и зарывается в камень.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>41</ID>
+      <DefaultText>Вскоре робот возвращается, а за ним следует стихус-изгой. Малое существо быстро пробирается по туннелю, стараясь как можно скорее удалиться от робота.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>42</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>43</ID>
+      <DefaultText>"Отведи меня в логово стихусов".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>44</ID>
+      <DefaultText>"Верни меня в логово стихусов".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>45</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>46</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>47</ID>
+      <DefaultText>"Отведи меня в храм Меняющегося Бога".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>48</ID>
+      <DefaultText>"Верни меня в храм Меняющегося Бога".</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

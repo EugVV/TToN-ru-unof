@@ -1,0 +1,375 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\a_sagus\item_a2201_beadsofmothertemaz</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>71</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>Многие бусины на нитке покрыты засохшей кровью. Это может быть кровь, пролившаяся во время родов, что принимала Мать Темаз… или ее собственная.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>Вы пропускает бусины сквозь пальцы и слышите шепот далеких мыслей, отзывающихся в каждой из них.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>Прикоснуться к бусине.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>Отложить бусы.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>"Поверхность холодна, как снег. Изувеченная плоть и сломанные кости. Потрясение медленно расползается, словно ледяное чернильное облако".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>"Она бродит, окутанная чувствами, словно второй кожей. Вдыхает соль, пока та не начинает хрустеть на зубах".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>Вы накрываете рукой случайную бусину. Нити человека, которого она представляет, сплетаются в гобелен из шепотов и заполняют ваши чувства.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>"Обливается потом под тяжестью одежды. Жует кончик загрубевшего пальца, чтобы пошла кровь. Поет".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>"Она сжимает пальцы в кулак, мучимая страхом и желанием попасть в круг, где страх исчезает".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText>Вы выпускаете бусину, и мысли проясняются.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText>"Его рукам больно его держать. Его рукам больно держать ее".
+
+"Оно все слишком нежное. Слишком хрупкое".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>14</ID>
+      <DefaultText>"Восторг. Хитин грубо трется о шелк. Любопытство переполняет с ног до головы".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>15</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>16</ID>
+      <DefaultText>"Он хмурится. Вопросы вызывают все новые вопросы. Ответы не утоляют любопытство и радуют лишь ненадолго".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>17</ID>
+      <DefaultText>"Ни побед. Ни признания. Ни спокойствия. Он закрывает глаза и видит, как его идеи гаснут — или задуваются — одна за одной, словно свечи".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>18</ID>
+      <DefaultText>"Он сделан из птичьих костей, обернутых тонким слоем пятнистой плоти. В нем живет жажда *перемен*. Его наполовину сформулированные мечты грандиозны, словно звездная башня".
+
+"Его сомнение достаточно велико, чтобы ее разрушить".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>19</ID>
+      <DefaultText>"Он разглядывает пятнистую плоть, тонким слоем натянутую поверх толстых сухожилий и плотных мышц. Сомнение скачет и подпрыгивает, наслаждаясь эхом".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20</ID>
+      <DefaultText>"Его пальцы гладят новую, гладкую кожу. Глаза избегают воды и зеркал. Там они видят незнакомца".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>21</ID>
+      <DefaultText>"Его пальцы касаются дна сумки. Они царапают кожу, пытаясь нащупать грубую кромку монеты".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>22</ID>
+      <DefaultText>"Он восхищается книгами. Ими завалены столы и уставлены полки. Он царапает пальцем потертый переплет".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>23</ID>
+      <DefaultText>"Он поникает. Горе окрашивает его воспоминания и его будущее. Цепи обвивают его горло и сердце, связывая его с мертвыми".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>24</ID>
+      <DefaultText>"Он стоит у знакомой кромки воды, под знакомым камнем. Счастье и негодование борются в нем, сталкиваясь, словно бушующие морские волны".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>25</ID>
+      <DefaultText>"Он улыбается, чувствуя принадлежность, бессловесную цель. Его сомневающееся сердце умолкло".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>26</ID>
+      <DefaultText>"Его разум раздирает себя на части. Он обзывает себя дураком. Его пальцы сплелись в крючковатую цепь".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>27</ID>
+      <DefaultText>"Крылья, словно осколки мутного стекла/украденных самоцветов/разбитых закатов. Информация стекается/собирается, будто нектар".
+
+"Она пробует. Буквально".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>28</ID>
+      <DefaultText>"В его животе — колодец, заполненный предками. Они кричат, требуя крови, и не утихают, сколько бы он их ни кормил".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>29</ID>
+      <DefaultText>"Когда-то ее окружали сокровища. Теперь ее окружает страх, сдавливая ей горло, словно руками".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30</ID>
+      <DefaultText>"Она поет своими руками. Музыке вторит эхо".
+
+"Она вторит эху".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>31</ID>
+      <DefaultText>"Он отец, у которого нет детей. Его мысли — переплетенные провода из меди и золота".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>32</ID>
+      <DefaultText>"По ночам она держит брата за руку и слушает, как скрипит дом на краю утеса".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>33</ID>
+      <DefaultText>"Она холодна. Разбита. Неподвижна. Убаюкана волнами".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>34</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>35</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>36</ID>
+      <DefaultText>"Куда бы она ни шла, повсюду слышится голос другой женщины: из воздуха, глубоко из-под земли. Ее голосом говорят незнакомцы. Шепот женщины потопляет ее, словно волна".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>37</ID>
+      <DefaultText>"Она приводит в порядок свои мысли, а женщина шепчет из глубины, сотрясая основы ее личности".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>38</ID>
+      <DefaultText>"Она больше не слышит шепот женщины во тьме. Она и *есть* эта женщина. И она по-прежнему находится в заточении глубоко под землей, взывая к остальным".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>39</ID>
+      <DefaultText>"Разбита, холодна и молчалива. Голос женщины больше не терзает ее. Теперь она во власти только течений".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>40</ID>
+      <DefaultText>"Женщина больше не говорит с ней из темноты. Она одна в своей голове. Наедине со своими мыслями. Заново узнает себя".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>41</ID>
+      <DefaultText>"Ей снятся машины под ее ногами, клетка женщины, ее голос".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>42</ID>
+      <DefaultText>"Даже в моменты покоя он слышит звук преследования и считает, что заслуживает это".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>43</ID>
+      <DefaultText>"Она видит мир, запертый и скованный нержавеющими замками. В руках она держит окровавленный ключ".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>44</ID>
+      <DefaultText>"Он живет в облаке дыма, среди сплетения форм и бесформенной плоти".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>45</ID>
+      <DefaultText>"Она ищет, ищет, вечно ищет. За воротами, под покровом плоти".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>46</ID>
+      <DefaultText>"Он вспоминает треск хрупких костей, кровь в пыли. Он вспоминает вкус и улыбается".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>47</ID>
+      <DefaultText>"Она обнажает чистые зубы, подражая более свирепым зверям, но сердце ее разорвано пополам".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>48</ID>
+      <DefaultText>"Вот половина сердца, разбитого, словно упавшая сосулька. Капли свежей крови блестят по краям".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>49</ID>
+      <DefaultText>"Пустые гнезда. Ледяные шипы выбили глаза и все, что они видели. Горе ослаблено криком".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>50</ID>
+      <DefaultText>"Рваные куски плоти остывают на воздухе, источая вонь".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>51</ID>
+      <DefaultText>"Она — сердце океана. Ее течения кружат рыб в крошечных водоворотах".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>52</ID>
+      <DefaultText>"Слова нанизываются в его голове одно на другое и исходят от него запутанным клубком".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>53</ID>
+      <DefaultText>"Она стремительно проносится по переулку, не обращая внимания на полое кольцо вокруг шеи, которое сжимается все сильнее".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>54</ID>
+      <DefaultText>"Шагает, карабкается среди кабелей, проводов и портов. Бормотание города внизу похоже на шепот волн. Он ни с кем не говорил уже семь лет".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>55</ID>
+      <DefaultText>"Она прижимает ноющую руку к зеркалу, а женщина по ту сторону отталкивает ее и выступает вперед. Ее отражение ничуть не похоже на нее, но никто не замечает разницы".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>58</ID>
+      <DefaultText>"Задыхающийся и ослепленный слезами, он падает на теплые камни поместья. Он медленно проводит пальцами там, где она спала в молодости".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>59</ID>
+      <DefaultText>"Она посылает ему во сне слова, которые цепляются к нему днем, словно паразиты, и крадут его мысли. Она думает, что помогает ему".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>60</ID>
+      <DefaultText>"В жизни его логика была холодна. Имела вид кубиков, уложенных в бесшовные стены. Теперь стены тают".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>61</ID>
+      <DefaultText>"Она несет медный фонарь, шесть раз обернутый черной тканью. Она боится, что его украдут. Боится, что он снова начнет кричать".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>62</ID>
+      <DefaultText>"Он перемалывает алмазы в пыль и высыпает их в воду. Добавляет собственную слюну. Фиал дрожащих хлопьев. Свежерасплавленную иглу".
+
+"Он выпивает".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>63</ID>
+      <DefaultText>"Она думает о кинжалах, брошенных в волны. Ей интересно, успели ли волны смыть с них кровь".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>64</ID>
+      <DefaultText>"Графитовый контур вырезает очертания его шеи. Ее руки. Его губ. Ее ладони. Большой палец, растирая, добавляет тени".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>65</ID>
+      <DefaultText>"Она вырезает в почерневшем дереве тоннель. Сбоку гравирует звезды и извилистые тропинки миров. Грохочущие руины".
+
+"Она тихо напевает в образовавшуюся полость. Воздух дрожит".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>66</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>67</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>68</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>69</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>70</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>71</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>72</ID>
+      <DefaultText>"Его разум — сплетение меди и золота. Его сердце — куча зазубренных костей".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>76</ID>
+      <DefaultText>Многие из необычных бусин покрыты запекшейся кровью. Возможно, это кровь бывшего владельца, а может, и нет.</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

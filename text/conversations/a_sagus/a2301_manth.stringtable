@@ -1,0 +1,961 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\a_sagus\a2301_manth</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>183</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>Он прижимает палец к носу и подмигивает вам. "Че почем, кореш? Есть наколка для жирного скока?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>"Понятия не имею, о чем ты говоришь".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>"Повтори?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>"Гм... возможно".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>"Гм. Обойдешься, ноздря".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>На мгновение его лицо выражает панику, но затем он расплывается в улыбке и заливается смехом: "Ха! Это просто глупая фраза, которой мы приветствовали друг друга в Кьоркериине. Ты похож на моего знакомого, вот я и решил узнать, поймешь ли ты ее. Не обращай внимания".
+
+Он хлопает в ладоши и оценивающе на вас смотрит: "Впервые в Подбрюшье, а? Путешествуешь или ищешь что-то особенное?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>Он легонько толкает вас локтем: "*Ты* в теме, друг. Нужен подельник для танца на стене?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>"Блеск! Скачем с моря или заходим с суши?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>"Прочисти уши, дубина. Спрашиваю, есть хлипкие ставни, за которыми ловкача ждет нажива?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>"Я не совсем тебя понимаю".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText>"Скачем с моря".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText>"Заходим с суши".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>14</ID>
+      <DefaultText>"И то, и другое?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>15</ID>
+      <DefaultText>Он прищелкивает языком. "Не, скакать с моря — не верняк. И я даже не прикоснусь к кирпичу без фомки и страховки, сечешь?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>16</ID>
+      <DefaultText>Он щелкает пальцами. "С суши — это верняк. Я это с закрытыми глазами делаю, но без фомки не обойтись, сечешь?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>17</ID>
+      <DefaultText>Он широко ухмыляется: "Значит, дело верное. Блеск! Для захода с суши понадобится только фомка, а вот для скачка с моря тебе придется поискать веревку, сечешь?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>18</ID>
+      <DefaultText>"Сечешь?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>19</ID>
+      <DefaultText>"Да, секу".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20</ID>
+      <DefaultText>"Нет, не секу".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>21</ID>
+      <DefaultText>Он подозрительно косится на вас: "Ты ведь вообще не говоришь на жаргоне, а? Чего же ты мне голову морочишь?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>22</ID>
+      <DefaultText>"Ты сбил меня с толку".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>23</ID>
+      <DefaultText>"Хотелось узнать, как долго я продержусь".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>24</ID>
+      <DefaultText>"Я просто развлекаюсь".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>25</ID>
+      <DefaultText>Он с ухмылкой качает головой: "Все в порядке, все в порядке. Я сразу должен был понять, что ты не из наших. Забудь".
+
+Он хлопает в ладоши и оценивающе на вас смотрит: "Впервые в Подбрюшье, а? Путешествуешь или ищешь что-то особенное?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>26</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>27</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>28</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>29</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30</ID>
+      <DefaultText>"Что ты можешь рассказать мне об этом месте?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>31</ID>
+      <DefaultText>"Я хочу расспросить тебя о Подбрюшье".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>32</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>33</ID>
+      <DefaultText>Он лукаво улыбается: "А как насчет шинов в твоем кошельке? Может, подкинешь пару монет? Я сейчас на мели, так что память совсем не работает".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>34</ID>
+      <DefaultText>"Что ты хочешь знать?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>35</ID>
+      <DefaultText>"Отлично. Вот тебе [Global: a2301_ManthPocketChange] шинов".
+
+{MONEY}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>36</ID>
+      <DefaultText>"Я не стану тебе платить".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>37</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>38</ID>
+      <DefaultText>Он ловит монеты и прячет их в кармане своей старой рубахи. "Премного благодарен. Итак..." — он чешет безволосый подбородок. — "С чего начать? Хочешь услышать о здешних обитателях? О тоннелях стихусов? О мануфактуре? Или о грязных психах из Дендра О'хур?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>39</ID>
+      <DefaultText>"Тогда я не стану говорить. Ну как, может, передумаешь?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>40</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>41</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>42</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>43</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>44</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>45</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>46</ID>
+      <DefaultText>Он начинает считать, загибая пальцы. "Само собой, есть Толстон. Он всем тут заправляет — ну, не официально, конечно. Он просто самый смышленый каган с самой крутой бандой, вот и все. Есть Микела, она продает разные диковинки в своей лавке. Меук Мясник, который продает, гм... мясо".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>47</ID>
+      <DefaultText>Он хлопает себя по груди: "Если заглянешь к Меуку, скажи, что ты от меня. Он платит мне шин за каждого присланного клиента. Так, кто еще... Есть жрец Вечности Алигерн, который больше не жрец, но знает свое дело. Есть спятивший зануда Атлас, покрытый картами, и..." — он задумывается.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>48</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>49</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>50</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>51</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>52</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>53</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>54</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>55</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>56</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>57</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>58</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>59</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>60</ID>
+      <DefaultText>"Как дела, кореш? Есть..." 
+
+Тут он замечает Тибира и орет: "Тибир! Рад снова тебя видеть! Я слыхал, на вас с Рисом охотилась стража! Улизнули, значит? А это твоя новая шайка? Нужен пронырливый человек? Я сейчас свободен и готов к любым незаконным делишкам".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>61</ID>
+      <DefaultText>"Мант, приятель, вечно ты шутишь!" — цедит он сквозь зубы. — "Да еще так громко!"
+
+Он обхватывает шею юноши рукой и сжимает — пожалуй, слишком сильно. "Однажды твои глупые шутки навлекут стражу на твою — и *мою* голову. И нет, это не моя новая 'шайка'. Это мой *друг*, которому я помогаю освоиться в хитросплетениях нашего славного города".
+
+Тибир поворачивается к вам: "На самом деле Мант самый честный парень в Утесах Сагуса. Верно я говорю, Мант?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>62</ID>
+      <DefaultText>Он сглатывает слюну: "Я... я... Ну да, так и есть! Честнее, чем Мант Па, не найти! Я целыми днями сижу и думаю, как стать еще чест-"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>63</ID>
+      <DefaultText>Тибир накрывает рот Манта своей толстой ладонью: "Чудесно, парень. Очаровательно".
+
+Он улыбается вам: "Знаешь, Мант выполняет самую опасную работу в Утесах Сагуса. Он мойщик окон. Висит над морем и отважно скребет окна домов на утесах. А когда не работает, он приходит сюда, в Подбрюшье, и показывает людям дорогу. Давай, спроси его. Он все знает об этом месте".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>64</ID>
+      <DefaultText>"Так и есть", — выпаливает Мант, как только Тибир убирает руку. — "Спроси меня что хочешь. Хочешь знать о здешних обитателях? О тоннелях стихусов? О мануфактуре? Или грязных психах из Дендра О'хур?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>66</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>67</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>68</ID>
+      <DefaultText>"Привет, Мант. Продолжай мыть окна. Я помогу тебе добиться успеха".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>69</ID>
+      <DefaultText>"Спасибо, капитан. И *тебе* спасибо, друг капитана".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>70</ID>
+      <DefaultText>Веселый юноша приветствует вас кивком: "Снова привет, друг. Хочешь всего за несколько шинов..."
+
+Тут он замечает Тибира и приветствует его салютом. "Капитан Тибир, рад видеть тебя! А что у тебя за дела с такими..." — он замолкает, затем улыбается. — "А, понял. У тебя новый *друг*, да? Мы уже познакомились. Очень приятный человек. Здравствуй, друг!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>71</ID>
+      <DefaultText>Веселый юноша приветствует вас кивком: "Снова привет. Я по-прежнему честнее некуда! Хочешь бесплатно узнать что-нибудь еще?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>72</ID>
+      <DefaultText>Веселый юноша приветствует вас кивком: "Снова привет, друг. Чем могу помочь?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>73</ID>
+      <DefaultText>Веселый юноша приветствует вас и Тибира кивком: "Снова привет, капитан. Вижу, ты все еще в хорошей компании. Что я могу для тебя сделать?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>74</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>75</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>76</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>77</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>78</ID>
+      <DefaultText>"Опиши мне Подбрюшье в общих чертах".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>79</ID>
+      <DefaultText>"Можешь повторить, что ты думаешь о Подбрюшье?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>80</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>81</ID>
+      <DefaultText>"Расскажи мне о здешних обитателях".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>82</ID>
+      <DefaultText>"Я хочу снова услышать о здешних обитателях".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>83</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>84</ID>
+      <DefaultText>"Что тебе известно о тоннелях стихусов?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>85</ID>
+      <DefaultText>"Я хочу снова услышать о тоннелях стихусов".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>86</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>87</ID>
+      <DefaultText>"Что можешь сказать о мануфактуре?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>88</ID>
+      <DefaultText>"Я хочу снова услышать о мануфактуре".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>89</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>90</ID>
+      <DefaultText>"Расскажи мне о Дендра О'хур".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>91</ID>
+      <DefaultText>"Расскажи о Дендра О'хур еще раз".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>92</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>93</ID>
+      <DefaultText>"Ты знаешь что-нибудь о происходящих здесь убийствах?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>94</ID>
+      <DefaultText>"Расскажи мне об убийствах еще раз".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>95</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>96</ID>
+      <DefaultText>Он пожимает плечами: "Это самое дно. Как говорится, ниже падать некуда. Но это и хорошо, так ведь? Это значит, что остается только путь наверх!"
+
+Тут его лицо на миг мрачнеет: "Если, конечно, ты не утонешь, тебя не проглотит Цветение и не случится еще что-то в этом роде".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>97</ID>
+      <DefaultText>"Это хорошее место для начала, но я не хотел бы здесь закончить".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>98</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>99</ID>
+      <DefaultText>Он надувает щеки: "Ну, обо всех я говорить не буду — нас тут много. Я расскажу о самых ярких личностях. Или самых темных... как посмотреть".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>100</ID>
+      <DefaultText>"В общем, есть Толстон, теневой главарь, который всем заправляет. Есть Микела, она продает механизмы и все такое. Есть Меук Мясник. Есть Атлас, покрытый картами, и Кривая Квик, которая уж точно из самых низов. Думаю, это все, кто заслуживают упоминания".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>101</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>102</ID>
+      <DefaultText>"Они тут повсюду. Мы видим лишь их начало, поскольку эти твари заполняют их молотым дритом, сквозь который могут пробиться лишь они сами".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>103</ID>
+      <DefaultText>"Похоже, они изрыли все основание города. Здесь начинается много тоннелей, но я не представляю, куда они ведут".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>104</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>105</ID>
+      <DefaultText>Он растерянно качает головой: "Это мрачное место. Парни, которые решили, что честная работа не для них, пашут у этих горнов... и гигантские конструкты присматривают за ними, словно железные рабовладельцы".
+
+Он поеживается: "Я лишь раз заглянул туда. Так перепугался, что решил больше туда ни ногой!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>106</ID>
+      <DefaultText>"Множество людей работает там в страшной жаре за смешные деньги", — он смеется. — "Да во всем протекторате не найдется столько денег, чтобы уговорить меня там работать!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>107</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>108</ID>
+      <DefaultText>"Людоеды? Ха! Порой мне кажется, они делают это лишь для того, чтобы стать еще безумнее. Думаю, они прикрываются своим мумбо-юмбо, оправдывающим пожирание мертвых, потому что им нравится наводить жуть!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>109</ID>
+      <DefaultText>"Я думаю, они просто наводят жуть. Пожирают мертвых, чтобы казаться безумнее всех нас".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>110</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>111</ID>
+      <DefaultText>"Что-то жуткое творится, точно тебе говорю. Человек пропадает без следа, а потом находят его *руку с содранной кожей*! Кстати, последнее убийство произошло у входа. Ну, это на случай, если захочешь взглянуть своими глазами".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>112</ID>
+      <DefaultText>"Жуткое дело. Люди исчезают, и все, что от них остается — руки с содранной кожей. Иди ко входу, если хочешь взглянуть на место последнего убийства".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>113</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>114</ID>
+      <DefaultText>"Это сердце промышленности в Утесах Сагуса. Горожане считают, что Подбрюшье — место для самых безумных и бесчестных, но именно у этих горнов работают самые трудолюбивые люди в городе".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>115</ID>
+      <DefaultText>"Это место, где кипит самая тяжелая работа в Утесах Сагуса. Она заставляет гордиться тем, что ты живешь здесь, внизу".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>116</ID>
+      <DefaultText>Он хлопает себя по груди: "Если заглянешь к Меуку, скажи, что ты от меня. Он платит мне шин за каждого присланного клиента. Так, кто еще... Есть жрец Вечности Алигерн, который... А, вот и ты, Алигерн! Я как раз собирался рассказать, какой ты выдающийся человек".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>117</ID>
+      <DefaultText>"Не сомневаюсь. Продолжай".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>118</ID>
+      <DefaultText>"Гм, да. Есть Атлас, чокнутый кэркер, по макушку покрытый своими картами и... ну, пожалуй, Кривая Квик. Она не слишком интересная особа, но выглядит забавно, если тебя подобное забавляет".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>119</ID>
+      <DefaultText>Тибир хмурится: "Привет, Мант. Надеюсь, ты вел себя благопристойно.Ты ведь ничего себе не позволял?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>120</ID>
+      <DefaultText>"Нет, капитан!" — восклицает юноша. — "Я просто ангелочек. Просто отвечал на вопросы, ведь правда, господин?"
+
+Он салютует вам: "Хочешь знать что-нибудь еще?"</DefaultText>
+      <FemaleText>"Нет, капитан! — восклицает юноша. — Я просто ангелочек. Просто отвечал на вопросы, ведь правда, госпожа?"
+
+Он салютует вам: "Хочешь знать что-нибудь еще?"</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>121</ID>
+      <DefaultText>"Нет, если, конечно, у моего друга нет больше вопросов", — говорит Тибир.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>122</ID>
+      <DefaultText>"Спрашивай смело", — заявляет Мант. — "Друг капитана Тибира может задавать столько вопросов, сколько пожелает".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>123</ID>
+      <DefaultText>"Ты забыл обо *мне*".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>124</ID>
+      <DefaultText>"О, конечно", — говорит Мант. — "И Алигерн, наш мудрый и щедрый жрец Вечности, которого, похоже, ты уже знаешь".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>125</ID>
+      <DefaultText>"Прощай".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>126</ID>
+      <DefaultText>"Выше нос, приятель".</DefaultText>
+      <FemaleText>"Выше нос, подруга".</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>127</ID>
+      <DefaultText>Судя по босым ногам и грязной куртке, этот шустрый юноша переживает не лучшие времена, но его взгляд полон надежды. Завидев вас, он улыбается и приветственно поднимает руку. При этом вы замечаете инструменты на его поясе.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>128</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>129</ID>
+      <DefaultText>"А где находится Кьоркериин?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>130</ID>
+      <DefaultText>Он кланяется: "Мант Па, профессиональный фенестрашионист. Недавно прибыл в этот большой город из славного Кьоркериина".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>131</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>132</ID>
+      <DefaultText>"Фенестрашионист? Что это?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>133</ID>
+      <DefaultText>"А... ну, я зарабатываю на жизнь тем, что открываю окна".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>134</ID>
+      <DefaultText>Он пожимает плечами: "Как хочешь".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>135</ID>
+      <DefaultText>"Давай поговорим о чем-нибудь другом".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>136</ID>
+      <DefaultText>"Так и есть", — выпаливает Мант, как только Тибир убирает руку. — "Спроси меня что хочешь. Хочешь знать о здешних обитателях? О тоннелях стихусов? О мануфактуре? Или о грязных психах из Дендра О'хур? Я знаю всю подноготную этого места!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>137</ID>
+      <DefaultText>Он ловит монеты и прячет их в кармане своей старой рубахи. "Премного благодарен. Итак..." — он чешет безволосый подбородок. — "С чего начать? Хочешь услышать о здешних обитателях? О тоннелях стихусов? Или о мануфактуре? Или о безумных мерзавцах из Дендра О'хур? Я знаю всю подноготную этого места!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>138</ID>
+      <DefaultText>"А еще есть Кривая Квик. Она не слишком интересная особа, но выглядит забавно, если тебя подобное забавляет".
+
+Он разводит руками: "Это все, заслуживающие упоминания".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>139</ID>
+      <DefaultText>"И, поскольку Кривая Квик мертва, это все".
+
+Он разводит руками: "Да. Это все, кто заслуживает упоминания".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>140</ID>
+      <DefaultText>"Гм, да. Есть Атлас, чокнутый кэркер, по макушку покрытый своими картами и... и поскольку Кривая Квик мертва, это все".
+
+Он разводит руками: "Да. Это все, заслуживающие упоминания".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>141</ID>
+      <DefaultText>Он ловит монеты и прячет их в кармане своей старой рубахи. "Премного благодарен. Итак..." — он чешет безволосый подбородок. — "С чего начать? Хочешь услышать о здешних обитателях? Тоннелях стихусов? О мануфактуре? Или о грязных психах из Дендра О'хур?" Он с подозрением смотрит на вас: "Или до тебя дошли слухи об убийстве и ты хочешь пощекотать нервы?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>143</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>144</ID>
+      <DefaultText>"Ты знаешь что-нибудь об убийстве одного из подопечных Толстона?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>145</ID>
+      <DefaultText>"Я хочу еще раз услышать об убийстве".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>146</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>147</ID>
+      <DefaultText>"Жуткое дело, уж поверь! Кровавый круг на стене, а все, что осталось от жертвы — *рука с содранной кожей*! Это произошло в алькове на другой стороне этого здания. Ну, это на случай, если ты захочешь взглянуть".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>148</ID>
+      <DefaultText>"Жуткое зрелище. Всюду кровь, а от жертвы остается лишь рука с содранной кожей! Если хочешь взглянуть, иди в альков на другой стороне этого здания".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>149</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>150</ID>
+      <DefaultText>"Снова здравствуй. Привет, капитан. Чем могу помочь?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>151</ID>
+      <DefaultText>"Что...?" — он с подозрением косится на вас: "Ты ведь вообще не говоришь на жаргоне, да? Чего же ты мне голову морочишь?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>152</ID>
+      <DefaultText>"Ты не будешь...?" — он с подозрением косится на вас: "Ты ведь вообще не говоришь на жаргоне, да? Чего же ты мне голову морочишь?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>153</ID>
+      <DefaultText>Он с ухмылкой качает головой: "Надо было сразу просечь, что ты не из наших. Не обращай внимания".
+
+Он хлопает в ладоши и оценивающе на вас смотрит: "Впервые в Подбрюшье, да? Путешествуешь или ищешь что-то особенное?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>154</ID>
+      <DefaultText>Он качает головой: "В определенных кругах подобная забава может стоить тебе жизни. Надо было сразу просечь, что ты не из наших. Не обращай внимания".
+
+Он хлопает в ладоши и оценивающе на вас смотрит: "Впервые в Подбрюшье, да? Путешествуешь или ищешь что-то особенное?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>155</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>156</ID>
+      <DefaultText>"Кто ты?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>157</ID>
+      <DefaultText>"Скажи-ка еще раз, кто ты такой?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>158</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>160</ID>
+      <DefaultText>"Скажи еще раз, где находится Кьоркериин".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>164</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>166</ID>
+      <DefaultText>"Мант Па, непревзойденный ловчила. К твоим услугам".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>167</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>168</ID>
+      <DefaultText>"Что? Ты разве не знаешь старую песенку 'Ведом ли тебе путь в Кьоркериин?'"
+
+Он напевает: "На самом краю дальнего края! К востоку от Пика и к западу от Вронда! Там, где девушки красивы и свободны! Там ждет меня любимая моя!"
+
+"Нет? Эта песня не входит в число твоих любимых? Жаль".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>169</ID>
+      <DefaultText>"Далеко у меня за спиной, друг. Я покинул этот город. Теперь это лишь песня".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>171</ID>
+      <DefaultText>"Прощай".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>172</ID>
+      <DefaultText>"В общем, есть Толстон, теневой главарь, который всем заправляет. Есть Микела, она продает механизмы и все такое. Есть Меук Мясник. Есть Атлас, по макушку покрытый картами, и... нет, Кривая Квик мертва, так что это все, заслуживающие упоминания".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>173</ID>
+      <DefaultText>"Хочешь услышать о здешних обитателях? О тоннелях стихусов? О мануфактуре? Или о грязных психах из Дендра О'хур?" Он с подозрением смотрит на вас: "Или до тебя дошли слухи об убийстве и ты хочешь пощекотать нервы?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>174</ID>
+      <DefaultText>"Хочешь услышать о здешних обитателях? О тоннелях стихусов? О мануфактуре? Или о грязных психах из Дендра О'хур? Я всех знаю об этом месте!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>175</ID>
+      <DefaultText>"Хочешь услышать о здешних обитателях? О тоннелях стихусов? О мануфактуре? Или о грязных психах из Дендра О'хур?" Он с подозрением смотрит на вас: "Или до тебя дошли слухи об убийствах и ты хочешь пощекотать нервы?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>176</ID>
+      <DefaultText>"У меня нет столько денег".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>177</ID>
+      <DefaultText>"Что ж, возвращайся, когда будет — и узнаешь все, что тебя интересует".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>178</ID>
+      <DefaultText>"Есть еще вопросы?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>179</ID>
+      <DefaultText>"На этот раз у тебя достаточно денег?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>183</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>184</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>185</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>186</ID>
+      <DefaultText>"Ты знаешь, где можно найти женщину по имени Мэткина?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>187</ID>
+      <DefaultText>"Где, по твоим словам, можно найти Мэткину?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>188</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>189</ID>
+      <DefaultText>"Белая Смерть?" — присвистывает он. — "А ты точно в своем уме?". Он виновато поднимает руки: "Прости, прости. Это не мое дело. Я не знаю, где она, но тебе следует поговорить с Атласом. Он обитает в одной из лачуг неподалеку. Он должен знать, где скрывается та, которую ты ищешь".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>190</ID>
+      <DefaultText>"Советую поговорить с Атласом. Он знает все укромные местечки в этом городе".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>192</ID>
+      <DefaultText>"Я уже встречался с Атласом. Он хочет, чтобы сначала я нашел тайное святилище Меняющегося Бога".</DefaultText>
+      <FemaleText>"Я уже встречался с Атласом. Он хочет, чтобы сначала я нашла тайное святилище Меняющегося Бога".</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>193</ID>
+      <DefaultText>"Неужели? Надо же! Место, о котором не знает сам Атлас", — он чешет подбородок. — "Знаешь, попробуй скорешиться со стихусами. Да, понимаю — кому придет в голову говорить со стихусами? Но, сдается мне, эти твари умнее, чем принято считать".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>194</ID>
+      <DefaultText>"Как, говоришь, отыскать тайное святилище Меняющегося Бога?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>195</ID>
+      <DefaultText>"Ну, я не знаю точно, как его *найти*. Но если кто и знает, так это стихусы. Попробуй подружиться с тем стихусом, что обитает здесь. Вдруг он что-то подскажет?"</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

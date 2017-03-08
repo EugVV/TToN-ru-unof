@@ -1,0 +1,1184 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\x_labyrinth\x6131_fathom13_endgame_thespecter</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>216</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>"Я надеялся, что ты откроешь его для меня. И вот мы здесь", — говорит Призрак. Его голос не привязан к телу, он раздается от стен вокруг и от пола, двигающегося под ногами.
+
+"Настало время горькой правды, дитя".
+
+{SCRIPT: After finishing both Meres, the main door glows and opens. The cage remains, however, and the Specter arrives, walking to the player.}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>"Мне от тебя нужно было одно — открыть дверь, и это сделано. С клеткой я справлюсь сам", — его голос давит на вас, словно пытаясь опустить вас на колени. — "Когда я войду в Резонанс, мои пропавшие дети вернутся в мое сознание, где им и место. Пусти меня, и нам не придется ссориться. Что скажешь?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>"Думаешь, что кто-то, называющий себя Меняющимся Богом, не стал бы учиться на собственных ошибках?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>"Я думаю об этом. Это был нелегкий путь".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>"Я умру, но не пропущу тебя".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>"Как бы то ни было, я пытался тебя предупредить", — говорит он. — "Твоя жизнь составляет чрезвычайно малый отрезок времени по сравнению с моей. Представь, что я только не вынес за эти столетия, чтобы добраться до этого места. До этого *момента*".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>На его прозрачном лице вспыхивает раздражение: 
+
+"Я здесь не для того, чтобы обсуждать, кто я и что сделал. Я здесь, чтобы забрать то, что принадлежит мне!" Земля грозно грохочет под ногами.
+
+
+{SOUND: Metallic rumble.}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>"Пожалуйста", — бормочет Призрак. — "Нет необходимости в ультиматумах и зловещих угрозах. Тебя создали ради этого момента. И скажи мне, чем же лучше твое предложение, как победить Скорбь? И *есть* ли оно вообще?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>"Не все о тебе".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>"Это так?" — ей больше нечего сказать, и ее брови немного хмурятся. Она в замешательстве, как будто она не узнает в этом призраке своего отца.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText>"Твоя правда. Ты этого заслуживаешь".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>14</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>15</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>16</ID>
+      <DefaultText>Прежде чем он успевает закончить, воздух в комнате закручивается, вспыхивает взрыв, и из него выходит покрытый шрамами человек.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>17</ID>
+      <DefaultText>"Правда. Было бы глупо позволить ему уничтожить всех нас, не важно по какой причине".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>18</ID>
+      <DefaultText>"Вот мое решение. Я заодно с Меняющимся Богом".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>19</ID>
+      <DefaultText>"Хорошо", — говорит он с полным отсутствием удивления. — "Приятно узнать, что кто-то из вас образумился".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20</ID>
+      <DefaultText>"За это ты умрешь. Вы оба умрете".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>21</ID>
+      <DefaultText>"Что ты делаешь?" — шипит Мэткина. — "Ты собираешься передать нас всех *ему*?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>22</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>23</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>24</ID>
+      <DefaultText>"Мэткина, не стой на нашем пути. Пожалуйста".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>25</ID>
+      <DefaultText>"Ты права. О чем я только думал?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>26</ID>
+      <DefaultText>"Нашем пути. *Нашем* пути", — она неприятно удивлена и качает головой, затем вздыхает. — "Хорошо. Не тяни".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>27</ID>
+      <DefaultText>"Нашем пути. *Нашем* пути", — она отходит от вас в изумлении. — "После всего сделанного, ты отдаешь нас ему".
+
+Отвращение и печаль делают ее лицо жестче: "Я не смогу тебя победить. Я просто выброшу свою жизнь. Хотя, все равно это сделаешь ты, я полагаю". Она отмахивается от вас рукой: "Делай, что хочешь, но я в этом не участвую".
+
+Уходя, она говорит: "Я надеюсь, он предаст тебя. *Снова*".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>28</ID>
+      <DefaultText>"Вы, отверженные, всегда были слишком податливыми", — говорит он, а выражение его лицо становится жестче. — "Слишком склонны верить не тем людям".
+
+Он разглядывает дверной проем за клеткой: "Что дальше? Что теперь?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>29</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>31</ID>
+      <DefaultText>Призрак глубоко вдыхает. Звук похож на поток ветра, шуршащий верхушками деревьев. 
+
+"Да", — говорит он, кивая вам. — "У меня есть".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>32</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>33</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>34</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>35</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>36</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>37</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>38</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>39</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>40</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>41</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>42</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>43</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>44</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>45</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>47</ID>
+      <DefaultText>"Но что изменилось? Что тебя переубедило встать на сторону разума?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>48</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>49</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>50</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>52</ID>
+      <DefaultText>[Атака] "Мне просто нужно было застать тебя врасплох".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>53</ID>
+      <DefaultText>"Нет... нет. Я не хочу помогать тебе. Мое мнение изменилось".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>54</ID>
+      <DefaultText>"На удивление, тебе удалось меня переубедить. Мне кажется, это единственное логичное решение, если все обдумать".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>59</ID>
+      <DefaultText>"Следуй за мной".
+
+{SCRIPT: End of conversation. Specter opens cage to Resonance.}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>60</ID>
+      <DefaultText>"В этом месте?" — говорит Призрак. В унисон его голосу под вашими ногами гудят опоры. "Невозможно".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>61</ID>
+      <DefaultText>Выражение его лица становится жестче: "Что дальше? Что теперь?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>62</ID>
+      <DefaultText>"Есть еще один вариант. Это полное сознание твоей дочери. Если мы сольем всех отверженных с ней, она, наконец, может быть спасена".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>63</ID>
+      <DefaultText>"Резонанс не твой по праву. Настоящий Меняющийся Бог умер при моем появлении. Ты просто резервная копия его воспоминаний".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>64</ID>
+      <DefaultText>Стоя совершенно неподвижно, Призрак старается избежать взгляда призрачной женщины. 
+
+"Нет", — говорит он. — "Она ненастоящая. Я бы хотел, чтобы это была она, но одно лишь желание ничего не меняет. Моя дочь мертва".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>65</ID>
+      <DefaultText>"Действительно ли ты так уверен, что это не твоя дочь? Ты рискуешь приговорить ее к смерти. Ты приговоришь *всех* нас к смерти".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>66</ID>
+      <DefaultText>"Посмотри в ее глаза. Разве ты ее не узнаешь?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>67</ID>
+      <DefaultText>"Я не говорю ничего нового для тебя. Ты мог бы спасти ее сотни лет назад, соединившись с ней сознанием. Ты боялся умереть".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>68</ID>
+      <DefaultText>"Используй свои знания на благо дочери, как изначально и задумывал. Великое окончание великой жизни".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>69</ID>
+      <DefaultText>"Ты хочешь вернуть ее. Твои эксперименты в Сагусе с вероятностным двигателем доказывают это. Это твой шанс!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>70</ID>
+      <DefaultText>"Это ловушка, господин. Так и есть", — Челседон медленно качает головой. — "Я с радостью отдам за вас жизнь, но она? Кто *она* такая?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>72</ID>
+      <DefaultText>"Продать свое сознание ради нее?" — Таш фыркает. — "Не думаю".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>73</ID>
+      <DefaultText>"Ты позволил ей умереть. У тебя есть шанс все исправить".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>74</ID>
+      <DefaultText>"У тебя тоже был шанс, не так ли? В Сознании". Его взгляд скользит по вашим плечам, а губы вытягиваются в злорадной усмешке. "И в трудный момент спасти себя оказалось для тебя предпочтительнее, чем спасти ее. Что за лицемерие!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>75</ID>
+      <DefaultText>"У тебя тоже был шанс, не так ли? В Сознании". Его взгляд скользит по вашим плечам, а брови приподнимаются. "И твой выбор был отличен от моего". Его губы вытягиваются в тонкую линию.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>76</ID>
+      <DefaultText>Его глаза расширяются, но он не отвечает. Вместо этого он украдкой переводит взгляд на женщину рядом с вами.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>77</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>78</ID>
+      <DefaultText>"Достаточно разговоров", — говорит он, прерывая все аргументы небрежным взмахом руки. — "Понятно, что ты пытаешься отвертеться. Покончим с этим".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>79</ID>
+      <DefaultText>"Достаточно", — бормочет он, но в его голосе больше нет гнева, нет ярости, а только огромная усталость. Его взгляд переходит с вас на других присутствующих в комнате. "Да... твоя правда. Я сделаю это".
+
+Он рассматривает свою дочь, затем отводит взгляд, словно ему больно на нее смотреть, а затем рассматривает ее снова: "Я верну тебя, как и обещал".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>81</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>82</ID>
+      <DefaultText>"Достаточно", — шепчет он, но в его голосе больше нет гнева, нет ярости, а только огромная усталость. "Да... твоя правда. Я сделаю это".
+
+Он рассматривает свою дочь, затем отводит взгляд, словно ему больно на нее смотреть, а затем рассматривает ее снова: "Я верну тебя, как и обещал".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>83</ID>
+      <DefaultText>"Смерть", — рычит Призрак. — "Твои создания и отражения имеют столь высокое мнение о твоем существовании".
+
+Он рассекает рукой воздух: "Это бессмысленно. Если бы она была моей дочерью, я бы знал".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>84</ID>
+      <DefaultText>"Это нелепо. Я..." — Призрак переводит на нее взгляд и замолкает. Он выдвигает челюсть и с трудом заставляет себя отвернуться.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>85</ID>
+      <DefaultText>Он моргает, и на короткий момент вам удается заметить необычное выражение на его лице — вину.
+
+"Я заново сплетал нити реальности, чтобы вернуть ее. Взламывал двери, за которые не следовало заглядывать. И каждый раз терпел неудачу". Он пристально смотрит на вас. "Этот раз не будет исключением".
+
+Но его глаза выдают сомнение.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>86</ID>
+      <DefaultText>"Посмотри же. Это твоя дочь".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>87</ID>
+      <DefaultText>"Ты пожил достаточно. Теперь ее очередь".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>88</ID>
+      <DefaultText>"Так началось дело всей твоей жизни. Помоги мне сохранить твое наследие".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>89</ID>
+      <DefaultText>Его руки сжимаются в дрожащие кулаки.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>90</ID>
+      <DefaultText>"Хотелось бы мне жертвовать собой без уверенности, что она стоит спасения?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>91</ID>
+      <DefaultText>"Я никогда не понимал, как вы, отверженные, думаете", — говорит он, но задумчиво хмурится.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>92</ID>
+      <DefaultText>"Достаточно долго?" — повторяет Призрак. — "И причинил ли я такой вред, который способен перевесить все хорошее?" Он качает головой: "Нет. Моя работа еще не завершена".
+
+Он презрительно смотрит на вас, не мигая: "Теперь ее *очередь*".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>93</ID>
+      <DefaultText>"Я *не* испугался", — огрызается он. — "Я хотел быть там, когда она проснется. Зачем мне жертвовать собой, когда был шанс спасти нас обоих?"
+
+Тем не менее он встревоженно отворачивается.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>94</ID>
+      <DefaultText>"Потому что я так хотел?" — холодно отвечает он. — "Из-за ее отражения, призванного тобой, когда я стою перед воротами к тому, за что боролся все это время?"
+
+Его глаза сужаются: "Ты взываешь к моему сочувствию, но у меня его нет".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>95</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>96</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>97</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>98</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>99</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>100</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>101</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>102</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>103</ID>
+      <DefaultText>"Потоки стали причиной ее болезни. Они же ее и вылечат. Ты *знаешь* это".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>104</ID>
+      <DefaultText>Его лицо искажается от гнева, но не на вас. Может быть, на Потоковое оружие, из-за которого она заболела, или на тех, кто его применил. 
+
+Или на самого себя.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>105</ID>
+      <DefaultText>[Атака] "Ты *не* пройдешь через эту дверь. Я об этом позабочусь".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>106</ID>
+      <DefaultText>"Тогда покончим с этим", — говорит он, и в его взгляде читается облегчение.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>107</ID>
+      <DefaultText>"Я узнаю этого сукиного сына из сотни тел. Это наш творец, наверняка".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>108</ID>
+      <DefaultText>"Чепуха", — рычит Челседон. — "Я сотни лет служил нашему творцу. Это он".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>109</ID>
+      <DefaultText>"Ты оперируешь простыми понятиями", — говорит Призрак, вскидывая бровь. — "Но твоя тупость удивительна даже для отверженного. Я Меняющийся Бог, и ты стоишь у меня на пути".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>110</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>111</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>112</ID>
+      <DefaultText>"Сознание должно быть разумным. Ты просто копия того, кем был Меняющийся Бог".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>113</ID>
+      <DefaultText>"Я знаю, кто я!" — огрызается Призрак, но выглядит встревоженным вашим доводом. — "Это глупо!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>114</ID>
+      <DefaultText>"Рассуждая таким образом, любой, кто провел пьяную бессонную ночь, является копией предыдущего себя" — без раздумий отвечает Призрак. — "Избавь меня от своих философствований, отверженный".</DefaultText>
+      <FemaleText>"Рассуждая таким образом, любой, кто провел пьяную бессонную ночь, является копией предыдущего себя" — без раздумий отвечает Призрак. — "Избавь меня от своих философствований, отверженная".</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>115</ID>
+      <DefaultText>"Это дочь Меняющегося Бога, но она не узнает тебя".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>116</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>117</ID>
+      <DefaultText>"Достаточно разговоров", — говорит он, прерывая все аргументы небрежным взмахом руки. — "Понятно, что ты пытаешься отвертеться. Покончим с этим".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>118</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>119</ID>
+      <DefaultText>"Достаточно", — бормочет он, но в его голосе больше нет гнева, нет ярости, а только огромная усталость. Его взгляд переходит с вас на других присутствующих в комнате. "Да... твоя правда. Впервые я убедился, что я больше не одно целое. Что-то внутри меня сломалось или было забыто".
+
+Он смотрит на свою руку или сквозь нее. "Это логично. Я не он. Я близок, очень близок к нему, но Меняющийся Бог мертв".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>120</ID>
+      <DefaultText>Он опускает руку. Постепенно он начинает исчезать.
+{SCRIPT: If the player ends this conversation in a way that skips the Crisis, then the floors of Fathom 13 should rise such that the player can walk to the main door.}
+{SCRIPT: Specter is fading away.}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>121</ID>
+      <DefaultText>"Достаточно", — бормочет он, но в его голосе больше нет гнева, нет ярости, а только огромная усталость. "Да... твоя правда. Впервые я убедился, что я больше не одно целое. Что-то внутри меня сломалось или было забыто".
+
+Он смотрит на свою руку или сквозь нее. "Это логично. Я не он. Я близок, очень близок к нему, но Меняющийся Бог мертв".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>122</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>123</ID>
+      <DefaultText>Он отступает и поворачивается к ней.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>124</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>125</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>126</ID>
+      <DefaultText>Она встречается с ним взглядом, моргает, и качает головой.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>127</ID>
+      <DefaultText>"Ты не она", — говорит он, затем повторяет еще громче, — "ты не она. Разумеется, ты меня не знаешь".
+
+Он полностью отворачивается от нее, уставившись в темноту.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>129</ID>
+      <DefaultText>"Ты нуждаешься во мне там, где Меняющийся Бог справился бы сам. Без меня ты не запустил бы резонансную камеру и даже не открыл бы эту дверь".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>130</ID>
+      <DefaultText>"Скажи честно, разве у тебя совсем нет сомнений?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>131</ID>
+      <DefaultText>"Тогда я единственный достойный наследник Меняющегося Бога. После пробуждения я мог менять прошлое с помощью Сознания".</DefaultText>
+      <FemaleText>"Тогда я единственная достойная наследница Меняющегося Бога. После пробуждения я могла менять прошлое с помощью Сознания".</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>132</ID>
+      <DefaultText>"Я проиграл много битв", — говорит он, поднимая бровь. — "И я все еще жив, потому что знаю, когда следует отступить и собрать силы. Постоянные победы — это просто никчемная выдумка".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>133</ID>
+      <DefaultText>"Пожалуйста", — рычит он. — "Говорю честно, как просишь. И более того, я верну мои тело и жизнь, даже если мне придется выжечь тебя из моего сознания".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>134</ID>
+      <DefaultText>"Ты не имеешь понятия о собственном пробуждении", — говорит он, явно теряя терпение. — "Ты органическое отражение, остаточные мысли, составляющие сознание. Это бесполезно".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>135</ID>
+      <DefaultText>"Тебя тоже не *рождали*", — фыркнув, говорит он. — "Такое твое определение жизни? Ты пытаешься оспорить и свое существование тоже?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>136</ID>
+      <DefaultText>"Тебя не рождали. Тебя создал Меняющийся Бог".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>137</ID>
+      <DefaultText>"Мое пробуждение было, когда Меняющийся Бог покинул мое тело. Я существую в реальности. Ты — нет".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>138</ID>
+      <DefaultText>"Признай, ты не Меняющийся Бог".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>139</ID>
+      <DefaultText>"Меняющийся Бог не проиграл бы наше сражение".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>140</ID>
+      <DefaultText>"Разумеется, да. Из-за неосторожности при твоем создании я... *я* оказался здесь в ловушке. Мне пришлось бороться за каждый сантиметр, чтобы восстановить управление".
+
+Он всматривается во тьму безжалостным взглядом.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>141</ID>
+      <DefaultText>"Ты слишком упрощаешь. Я заточен здесь из-за несчастного случая. И теперь, спустя некоторое время, я уже восстановил контроль здесь, в самом центре твоего сознания".
+
+Но в его взгляде читается что-то новое — страх.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>142</ID>
+      <DefaultText>"Я не знаю ,*что* ты такое, но знаю, кто я", — рявкает он. Однако становится ясно, что этот факт задевает его.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>144</ID>
+      <DefaultText>"Это больше не твое тело".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>145</ID>
+      <DefaultText>"Да".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>146</ID>
+      <DefaultText>"Нет".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>147</ID>
+      <DefaultText>"Я не уверен".</DefaultText>
+      <FemaleText>"Я не уверена".</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>148</ID>
+      <DefaultText>"Я расцениваю это как «нет», — сухо отвечает Призрак. Его вздох звучит, как отдаленный раскат грома. "Что ж, теперь это не имеет значения, так ведь?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>149</ID>
+      <DefaultText>"Не думаю, что я этому поверю", — холодно отвечает Призрак. — "Даже в те первые несколько минут в тебе была решимость жить, цепляться за то, что твоим не является".
+
+Его вздох звучит, как отдаленный раскат грома. "Что ж, теперь это не имеет значения, так ведь?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>150</ID>
+      <DefaultText>"Я так не думал", — говорит Призрак. Его вздох звучит, как отдаленный раскат грома. "Что ж, теперь это не имеет значения, так ведь?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>151</ID>
+      <DefaultText>"Я расцениваю это как «нет»", — сухо отвечает Призрак. Его вздох звучит, как отдаленный раскат грома. "Что ж, теперь это не имеет значения, так ведь?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>152</ID>
+      <DefaultText>Он смотрит на призрак дочери Меняющегося Бога, словно только что заметил ее. Его удивление — как короткое прохладное дуновение ветра, пронесшееся между вами во тьме. 
+
+"Ты", — бормочет он, — "ты призрак, преследующий меня. Моя дочь *мертва*, слышишь меня? Я не смог ее вернуть, как я не старался".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>153</ID>
+      <DefaultText>Призрак молчит. Он смотрит поверх ваших голов, ожидая ответа.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>154</ID>
+      <DefaultText>"Если ты собираешься его пропустить, я остановлю тебя", — говорит Мэткина, и ее голос не сулит ничего хорошего. — "Не делай этого. Не *заставляй* меня драться с тобой. Не заставляй меня становиться против тебя на сторону Первой".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>155</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>156</ID>
+      <DefaultText>"Трогательно", — насмешливо произносит он. — "Если нет *других* жалоб, то давайте покончим с этим".
+
+Призрак подходит к Резонансу. Вы молча плететесь за ним.
+
+{SCRIPT: Specter opens cage to Resonance.}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>157</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>158</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>159</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>160</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>161</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>162</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>163</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>164</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>165</ID>
+      <DefaultText>"Наконец", — говорит Призрак, вздыхая, — "наконец, хоть один из отверженных образумился".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>167</ID>
+      <DefaultText>"Я восхищаюсь тем, чего ты тут достиг, но это не доказывает, что ты — это *он*".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>168</ID>
+      <DefaultText>Он отворачивается, обдумывая ваши слова, выражение его лица становится жестче.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>169</ID>
+      <DefaultText>Он поднимает на вас взгляд: "Или есть ли он? Ты похож на него... на меня. Возможно, что Скорбь не убила тебя, а просто встряхнула твою память. Даже если дело не в этом, тебе удается обыграть и перехитрить меня на каждом шагу. Если тебе удастся завладеть мной, то я снова присоединюсь к тебе, и вернутся твои потерянные воспоминания".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>170</ID>
+      <DefaultText>"Я помню наш разговор на луне. Ты не Меняющийся Бог. Ты его помощник, самая последняя версия".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>171</ID>
+      <DefaultText>Он медленно отвечает: "И я сказал, что наш разговор уходит в сторону солипсизма. И мы согласились, что нас называли и хуже".
+
+Его голос ожесточается: "И мы также решили, что не питаем иллюзий по поводу священности сознания. С тех пор истина не поменялась".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>172</ID>
+      <DefaultText>"Да. Я овладею твоей памятью".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>173</ID>
+      <DefaultText>"Это какая-то уловка? Нет. Растворись. Исчезни".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>174</ID>
+      <DefaultText>Он печально кивает: "Надеюсь... Надеюсь, тебе удастся исполнить наши желания так, чтобы мы могли гордиться. Останови Скорбь и... Ладно, не важно. Это твое сознание. Твоя жизнь. Прощай". Он постепенно начинает идти на контакт и менять мнение.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>175</ID>
+      <DefaultText>"Протяни руку".
+
+Она кладет на вашу руку свою ладонь, и поток воспоминаний вливается в ваше сознание. Вы вспоминаете дочь, племя табат и осаду города, ужасную болезнь, которую они принесли с собой, ментальное оружие, направленное на город.
+
+Вы вспоминаете, как поместили дочь в стазис, напряженные исследования, открытие Потоков.
+
+...Скорбь.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>176</ID>
+      <DefaultText>Ранние годы были самыми тяжелыми. Бегство сквозь измерения со Скорбью, следующей по пятам. Перемещения во времени перед восстанием табат и открытием мрачной справедливости Черного Куба, и тело, которые вы оставили, чтобы избежать ее. Вы помните улучшения передачи. Вы вспоминаете путешествие по Девятому Миру, советы авгурийцев Сада Имиду. Вы вспоминаете вашу гордость Первой Отверженной (и как вы смеялись над этим именем! Как будто она *была* первой!).</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>177</ID>
+      <DefaultText>Вы помните ярость, которую она вызвала, страх, что она вас уничтожит... и гордость за каждый шаг, ведь это доказывало, что в *вас* еще есть неиспользованный потенциал. Каждый из отверженных — это новая грань вашего гениального ума, изменившего мир.
+
+И вы осознаете, как печально было бы это все потерять. Теперь вы понимаете, почему Призрак шел на такие отчаянные шаги, чтобы сохранить свое, ваше наследие.
+
+Вы открываете глаза. Призрака больше нет. Но теперь он навсегда стал частью вас.
+
+{SCRIPT: If the player ends this conversation in a way that skips the Crisis, then the floors of Fathom 13 should rise such that the player can walk to the main door.}
+{SCRIPT: Specter is fading away.}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>179</ID>
+      <DefaultText>"Ты так сильно хотел ее вернуть, что продолжал использовать вероятностный двигатель, *зная*, что при этом убиваешь невинных женщин".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>181</ID>
+      <DefaultText>"Будь ты проклят! Будь проклят за это!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>182</ID>
+      <DefaultText>"Если ты собираешься его пропустить, я остановлю тебя", — говорит Мэткина, и ее голос не сулит ничего хорошего. — "Не делай этого. Я *убью* тебя".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>183</ID>
+      <DefaultText>Он идет к вам, купаясь в свете заключенного в клетку Резонанса.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>184</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>185</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>186</ID>
+      <DefaultText>"Нет", — говорит она. Скованная маской, она произносит это металлическим тоном. "Не для того я веками терпела его заносчивость и насилие, чтобы отдать ему победу так, словно он ее *заслуживает*".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>190</ID>
+      <DefaultText>"Ты просто *не способен* на правду", — из-под маски доносится ее грубый, будто изношенный голос. "И был ли когда-нибудь?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>191</ID>
+      <DefaultText>Он обезоруживающе улыбается: "Как насчет сейчас?"
+
+Он оборачивается к вам.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>192</ID>
+      <DefaultText>"Время пришло", — она ударяет кулаком по руке. — "Шевелись, старик".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>193</ID>
+      <DefaultText>Он еле слышно рычит.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>194</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>195</ID>
+      <DefaultText>Он вздыхает.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>196</ID>
+      <DefaultText>Он покачивает головой:</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>197</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>198</ID>
+      <DefaultText>Он еле слышно рычит.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>199</ID>
+      <DefaultText>Он вздыхает.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>200</ID>
+      <DefaultText>Он покачивает головой.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>201</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>202</ID>
+      <DefaultText>"Она *твоя* дочь. Она сама мне сказала".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>203</ID>
+      <DefaultText>"Это так?" Но ей, очевидно, больше нечего ему сказать.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>204</ID>
+      <DefaultText>Он качает головой: "С меня хватит. Я не хочу с тобой драться, Отверженный, но ты не оставляешь мне выбора. Как это будет?"</DefaultText>
+      <FemaleText>Он качает головой: "С меня хватит. Я не хочу с тобой драться, Отверженная, но ты не оставляешь мне выбора. Как это будет?"</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>205</ID>
+      <DefaultText>Призрак с трудом поднимает на нее взгляд. 
+
+"Нет", — говорит он. — "Она ненастоящая. Я бы хотел, чтобы это была она, но одно лишь желание ничего не меняет. Моя дочь мертва. А теперь позволишь ли ты мне войти в Резонанс мирно, или мне применить силу?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>206</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>207</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>208</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>209</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>257</ID>
+      <DefaultText>"Она? Ты считаешь, что та, из-за которой возникла вся эта ситуация, заслуживает жизни? Она не столь невинна. Прежде всего, если бы не она, мы бы никогда не привлекли внимание Скорби! Она должна была умереть сотни лет назад, дурачина".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>258</ID>
+      <DefaultText>Она качает головой и обращается к Первой: "Ты не права. Посмотри, что ты сделала и как провела свою жизнь. Посмотри, что делала *я*. Думаешь, проведешь дополнительные годы иначе, чем теша собственное тщеславие? Сомневаюсь".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>259</ID>
+      <DefaultText>"Первая права. Ты не знаешь эту мертвую дочь и на что она способна. Если она похожа на *него*, то может доставить больше проблем, чем мы имеем сейчас".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>260</ID>
+      <DefaultText>"Нет. Он прав, разве не видишь? Миика — единственная причина существования всех вас. Вы и я, мы прожили свои жизни, и что в итоге? Миика же не сделала ничего. У нее не было *шанса* что-то сделать".
+
+Он поворачивается к дочери: "Я пытался быть хорошим отцом и не справился. А для них, отверженных, я даже не старался. Но сегодня мои неудачи закончатся".</DefaultText>
+      <FemaleText>"Нет. Она права, разве не видишь? Миика — единственная причина существования всех вас. Вы и я, мы прожили свои жизни, и что в итоге? Миика же не сделала ничего. У нее не было *шанса* что-то сделать".
+
+Он поворачивается к дочери: "Я пытался быть хорошим отцом и не справился. А для них, отверженных, я даже не старался. Но сегодня мои неудачи закончатся".</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>261</ID>
+      <DefaultText>"Твои собратья мудрее тебя и меня, Маралель. Что бы мы ни говорили твоими устами, в чем бы ни убеждали наших последователей, за что бы мы ни боролись, мы пытались спасти лишь себя".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>262</ID>
+      <DefaultText>Она прикладывает клинок к губам. Вы даже не заметили, как нож появился у нее в руках. "Мы все запутались, так ведь?"
+
+Ее глаза сужаются: "Почему ты думаешь, что она справится лучше? Я имею в виду, уже не говоря о всех нас и бегстве от Скорби и... хорошо. Я тебя поняла. По крайней мере, у нее будет шанс показать себя и сделать собственные ошибки".
+
+Она бросает клинок на пол: "Хорошо. Давай так и сделаем".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>263</ID>
+      <DefaultText>Она усмехается: "Ты не знаешь эту мертвую дочь и на что она способна. Если она похожа на *него*, то может доставить больше проблем, чем мы имеем сейчас".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>264</ID>
+      <DefaultText>Он протягивает вам руку: "Подойди. Открой Резонанс, и мы вместе положим этому конец".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>265</ID>
+      <DefaultText>Она складывает руки, рассматривая вас троих. Наконец, она пренебрежительно машет рукой и отворачивается.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>266</ID>
+      <DefaultText>"Открой его. Моей дочери незачем ждать дольше необходимого".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>267</ID>
+      <DefaultText>"Хорошо. Хорошо!" Она пренебрежительно машет рукой и отворачивается.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>268</ID>
+      <DefaultText>"А что именно?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>269</ID>
+      <DefaultText>"По крайней мере, он действует в интересах других".</DefaultText>
+      <FemaleText>"По крайней мере, она действует в интересах других".</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>270</ID>
+      <DefaultText>"Ложь!" — она поворачивается к вам. — "Я не знаю, что заставило тебя с ним согласиться, но я не для того прошла весь этот путь, чтобы увидеть, как ты прогнешься".
+
+Она указывает пальцем на Призрака: "Я видела достаточно. Твои поступки с потомками и другими людьми говорят о том, что в глубине души ты не заботишься ни о ком, кроме себя. Я знаю лучше других, что отверженные не лучшие из людей, но они *люди*. Они достойны выбора и жизни".
+
+Она достает оружие: "Ты *никого* не заберешь сегодня".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>271</ID>
+      <DefaultText>Она сдавленно смеется, доставая свои клинки: "Я бы не смогла сказать лучше, сестра".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>273</ID>
+      <DefaultText>"Кажется, твои друзья решили за тебя. Да будет так!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>274</ID>
+      <DefaultText>"Посмотри на нее!" — говорит она, привлекая его внимание. — "Посмотри ей в глаза и скажи, что она не твоя дочь!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>275</ID>
+      <DefaultText>"Если бы ты действительно был «Меняющимся Богом», тогда эта женщина..." — она указывает на дочь Меняющегося Бога. — "Даже если эта женщина просто воспоминание, она должна была узнать в тебе отца. Разве нет?"
+
+Рин с добротой смотрит на призрачную женщину, затем обратно на Призрака: "Но я видела, видела по ее лицу, когда ты бросил ей вызов... Ты для нее *незнакомец*".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>276</ID>
+      <DefaultText>Раскатистый голос Каллистеж отражается от стен: "Дитя рискнуло всем ради меня, чтобы я смогла достичь того, что было недоступно человеку тысячи лет. Разве стал бы он рисковать своей жизнью снова, если бы эта девушка того не стоила?"</DefaultText>
+      <FemaleText>Раскатистый голос Каллистеж отражается от стен. "Дитя рискнуло всем ради меня, чтобы я смогла достичь того, что было недоступно человеку тысячи лет. Разве стала бы она рисковать своей жизнью снова, если бы эта девушка того не стоила?"</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>277</ID>
+      <DefaultText>Раскатистый голос Каллистеж отражается от стен: "Тупица. Если кто и заслуживает наследия Меняющегося Бога, так это дитя! Он совершал такие вещи, которые тебе и даже мне были бы не по силам в одиночку".
+
+Ее громкий смех эхом отдается по комнате: "Ну и благодаря ему я теперь сама бог!"</DefaultText>
+      <FemaleText>Раскатистый голос Каллистеж отражается от стен. "Тупица. Если кто и заслуживает наследия Меняющегося Бога, так это дитя! Она совершала такие вещи, которые тебе и даже мне были бы не по силам в одиночку".
+
+Ее громкий смех эхом отдается по комнате: "Ну и благодаря ей я теперь сама бог!"</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>278</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>279</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>280</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

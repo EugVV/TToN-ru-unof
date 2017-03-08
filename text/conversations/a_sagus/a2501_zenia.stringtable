@@ -1,0 +1,226 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\a_sagus\a2501_zenia</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>38</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>Женщина облачена в просторные одеяния ярких цветов. Ее одежда украшена бусинами и побрякушками, изготовленными из материала, который вам ни разу не доводилось видеть в Утесах Сагуса.
+
+Она ходит взад-вперед рядом с одним из дирижаблей и бормочет под нос какие-то слова. Скорее всего, проклятия на чужом языке.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>Эта цветастая женщина по-прежнему ходит туда-сюда, бормоча себе под нос. Она замечает вас и криво улыбается: "А, снова ты? Тебе что-то нужно?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>"Все хорошо?"
+
+{SCRIPT: Should not be available if the player has lifted the travel ban.}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>"Почему Совет запретил всем уезжать?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText>"Ты не из Сагуса, так же?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText>"Расскажи еще раз, откуда ты родом?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>14</ID>
+      <DefaultText>"Можешь подбросить до Оазиса?"
+
+{SCRIPT: Only plays after player returns from the Bloom.}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>15</ID>
+      <DefaultText>Она с сожалением смеется: "Я бы с радостью, господин, но покуда действует запрет на выезд, я ничем не могу помочь. Разве что ты знаешь, как от *него* избавиться. Тогда я к твоим услугам".
+
+{SCRIPT: Trigger addendum to Passage to M'ra Jolios quest.}</DefaultText>
+      <FemaleText>Она с сожалением смеется: "Я бы с радостью, госпожа, но покуда действует запрет на выезд, я ничем не могу помочь. Разве что ты знаешь, как от *него* избавиться. Тогда я к твоим услугам".</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>16</ID>
+      <DefaultText>Она с сожалением смеется: "Я бы с радостью, господин, но покуда действует запрет на выезд, я ничем не могу помочь. К тому же, я слышала, что какие-то оборванцы из Цветения взяли городской Совет в осаду. И пока все не кончится, ничего не изменится".
+
+{SCRIPT: Add conditional for Lascar siege == TRUE.}
+{SCRIPT: Trigger addendum to Passage to M'ra Jolios quest.}</DefaultText>
+      <FemaleText>Она с сожалением смеется: "Я бы с радостью, госпожа, но покуда действует запрет на выезд, я ничем не могу помочь. К тому же, я слышала, что какие-то оборванцы из Цветения взяли городской Совет в осаду. И пока все не кончится, ничего не изменится".</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>17</ID>
+      <DefaultText>"Это благодаря тебе сняли запрет на выезд? Я у тебя в долгу, господин. Поезжай с нами, милости просим! Совершенно бесплатно!" Она делает пометку в документах.
+
+{SCRIPT: Player has permission to leave the city.}</DefaultText>
+      <FemaleText>"Это благодаря тебе сняли запрет на выезд? Я у тебя в долгу, госпожа. Поезжай с нами, милости просим! Совершенно бесплатно!" Она делает пометку в документах.
+
+{SCRIPT: Player has permission to leave the city.}</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>18</ID>
+      <DefaultText>"Мне удалось решить вопрос с запретом на выезд. Отвезешь меня в Оазис?"
+
+{SCRIPT: Player has permission to leave the city.}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>19</ID>
+      <DefaultText>"*Да*, я слышала, слава богам! Разумеется, для человека, спасшего дело моей жизни, поездка бесплатна!"</DefaultText>
+      <FemaleText>"*Да*, я слышала, слава богам! Разумеется, для женщины, спасшей дело моей жизни, поездка бесплатна!"</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>20</ID>
+      <DefaultText>"Могу отправляться в Оазис в любой момент".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>21</ID>
+      <DefaultText>"Чудесно! Я тоже. Поднимайся на борт". Она отворачивается от дирижабля и кричит: "Последняя возможность отправиться в Оазис М'ра Джолиос! Желающих просьба немедленно подняться на борт. Мы отправляемся в Джербоа!"
+
+{SCRIPT: Complete Passage to M'ra Jolios quest.}
+{SCRIPT: Transition party to the Oasis and Stage 5.}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>22</ID>
+      <DefaultText>"Прощай".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>23</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>24</ID>
+      <DefaultText>Она пристально рассматривает вас с головы до ног, и смягчается: "Ты интересуешься искренне, я вижу. Нет, нехорошо. У меня полное хранилище ценных консерв из Сагуса и куча богачей, желающих отправиться в Оазис, но что с того? Городской совет запретил поездки в Оазис до тех пор, пока не урегулирует какие-то дурацкие политические споры. Вот я и застряла здесь".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>25</ID>
+      <DefaultText>Она пристально рассматривает вас с головы до ног: "Ты правда хочешь узнать? Или ты интересуешься чужеземкой из праздного туристического интереса? Нет, нехорошо. У меня полное хранилище ценных консерв из Сагуса и куча богачей, желающих отправиться в Оазис, но что с того? Городской совет запретил поездки в Оазис до тех пор, пока не урегулирует какие-то дурацкие политические споры. Вот я и застряла здесь".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>26</ID>
+      <DefaultText>Она в гневе закидывает голову назад, но не вы тому причиной. "Политическое напряжение", — наконец говорит она. — "Совету не нравится то, как правящие Оазисом Гиаши разрешают некоторые проблемы. Разумеется, страдают от этого не только Гиаши, так? Еще и те, кто просто пытаются вернуться домой или заработать на жизнь".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>27</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>28</ID>
+      <DefaultText>"Значит, ты — *турист*". Она кивает. "Я родом из города Джербоа, незнакомец. Это заброшенный одноэтажный городишко, примечательный лишь тем, что он граничит с великолепным Оазисом М'ра Джолиос".
+
+Она улыбается вам. "Таков мой родной город. Мне бы хотелось вернуться туда, и не *только* потому что мне нужно превратить мой текущий долг в прибыль".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>29</ID>
+      <DefaultText>"Джербоа — это пыльный городок, в котором живут замечательные люди. Наш город существует благодаря живительным водам М'ра Джолиос".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>31</ID>
+      <DefaultText>"Расскажи мне об Оазисе".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>32</ID>
+      <DefaultText>"Расскажи мне об Оазисе еще раз".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>33</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>34</ID>
+      <DefaultText>"Серьезно? Странно, что ты не слышал о нем раньше. Оазис М'ра Джолиос — это украшение пустыни, подводный город среди пустоши, которую у нас называют Затерянным Морем. Это место очень популярно у туристов. Можешь отправиться туда и проверить".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>35</ID>
+      <DefaultText>"Это лазурный рай посреди Затерянного Моря, популярное у туристов место и центр торговли".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>36</ID>
+      <DefaultText>"Почему ты не можешь уйти отсюда?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>37</ID>
+      <DefaultText>"Власти Сагуса запретили путешествия в Оазис до тех пор, пока Гиаш не согласятся с мелочными требованиями Семей Рабов. Мы застряли здесь на все это время, и с каждым днем у меня остается все меньше денег".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>38</ID>
+      <DefaultText>Еле слышно она добавляет: "Если бы только Совет разрешил нам улететь туда..."
+
+{SCRIPT: Does not play if the player has lifted the travel ban.}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>39</ID>
+      <DefaultText>Женщина облачена в просторные одеяния ярких цветов. Ее одежда украшена бусинами и побрякушками, изготовленными из материала, который вам ни разу не доводилось видеть в Утесах Сагуса.
+
+Она ходит взад и вперед, внимательно рассматривая каждую деталь, каждый болт на корпусе одного из дирижаблей, и делает пометки на листке бумаги.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>40</ID>
+      <DefaultText>Ярко одетая женщина быстро движется, осматривая каждый болт, каждую трещинку на корпусе дирижабля, и делает пометки на листе бумаги.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>41</ID>
+      <DefaultText>"И все же это поездка в один конец — в ближайшее время я не собираюсь улетать оттуда. Поэтому сначала убедись, что ты уладил все свои дела здесь. Когда будешь готов, дай мне знать".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>42</ID>
+      <DefaultText>"Я почти готов..."
+
+{SCRIPT: Player has lifted travel ban.}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>43</ID>
+      <DefaultText>"Как мне отсюда выбраться?"</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

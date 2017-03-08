@@ -1,0 +1,448 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\a_sagus\a3121_tomb_console</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>86</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>Есть пять кнопок с нацарапанными на них номерами.
+
+Шестиугольные кнопки окружены выгравированными кнопками, на каждой из которых нацарапана стрелка, указывающая в сторону от центра, а в центре светится маленький шестиугольник.
+
+Если вы правильно понимаете светящиеся символы, то сейчас вы находитесь в гробнице [Backer Tomb Address].</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>Нажать одну из кнопок со стрелкой.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>Отойти.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>Вы нажимаете кнопку в центре и чувствуете покалывание на коже. Вас окружает энергетическое поле и в животе появляется то же тянущее ощущение всасывания.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>Шесть светящихся кнопок окружают внутренние сегменты, по одной кнопке с каждой стороны шестиугольника. На каждой кнопке выгравирована стрелка, указывающая наружу.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>Нажать верхнюю кнопку со стрелкой вверх.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>Нажать верхнюю правую кнопку со стрелкой, указывающей вверх и вправо.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>Нажать нижнюю правую кнопку со стрелкой, указывающей вниз и вправо.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>Нажать нижнюю кнопку со стрелкой вниз.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>Нажать нижнюю левую кнопку со стрелкой, указывающей вниз и влево.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText>Нажать верхнюю левую кнопку со стрелкой, указывающей вверх и влево.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>14</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>15</ID>
+      <DefaultText>Как только вы нажимаете кнопку, вас окружает энергетическое поле. В животе появляется то же тянущее ощущение всасывания, а потом...</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>16</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>17</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>18</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>19</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>21</ID>
+      <DefaultText>Ввести какой-нибудь другой код.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>22</ID>
+      <DefaultText>Вокруг шестиугольника в центре расположены пять кнопок. Внизу, на месте шестой кнопки, светится неразборчивый экран.
+
+На поверхности кнопок нацарапаны цифры.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>23</ID>
+      <DefaultText>Нажать кнопку с цифрой 1.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>24</ID>
+      <DefaultText>Нажать кнопку с цифрой 2.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>25</ID>
+      <DefaultText>Нажать кнопку с цифрой 3.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>26</ID>
+      <DefaultText>Нажать кнопку с цифрой 4.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>27</ID>
+      <DefaultText>Один из расположенных рядом шестиугольников загорается, указывая ваш выбор.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>28</ID>
+      <DefaultText>Нажать кнопку с цифрой 1.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>29</ID>
+      <DefaultText>Нажать кнопку с цифрой 2.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30</ID>
+      <DefaultText>Нажать кнопку с цифрой 3.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>31</ID>
+      <DefaultText>Нажать кнопку с цифрой 4.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>32</ID>
+      <DefaultText>Загорается свет на втором шестиугольнике.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>33</ID>
+      <DefaultText>Нажать кнопку с цифрой 1.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>34</ID>
+      <DefaultText>Нажать кнопку с цифрой 2.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>35</ID>
+      <DefaultText>Нажать кнопку с цифрой 3.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>36</ID>
+      <DefaultText>Нажать кнопку с цифрой 4.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>37</ID>
+      <DefaultText>Третий шестиугольник загорается, отражая ваш выбор.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>38</ID>
+      <DefaultText>Нажать кнопку с цифрой 1.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>39</ID>
+      <DefaultText>Нажать кнопку с цифрой 2.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>40</ID>
+      <DefaultText>Нажать кнопку с цифрой 3.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>41</ID>
+      <DefaultText>Нажать кнопку с цифрой 4.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>42</ID>
+      <DefaultText>Когда загорается четвертый шестиугольник, вокруг вас образуется энергетическое поле и в животе появляется то же тянущее ощущение всасывания.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>43</ID>
+      <DefaultText>Нажать кнопку с цифрой 5.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>44</ID>
+      <DefaultText>Нажать кнопку с цифрой 5.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>45</ID>
+      <DefaultText>Нажать кнопку с цифрой 5.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>46</ID>
+      <DefaultText>Нажать кнопку с цифрой 5.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>47</ID>
+      <DefaultText>Посмотреть на другие кнопки.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>49</ID>
+      <DefaultText>Нажимать кнопки в случайном порядке.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>50</ID>
+      <DefaultText>Вы нажимаете кнопки в произвольном порядке, просто чтобы посмотреть, что произойдет. После нажатия каждой кнопки в центральном шестиугольнике появляется символ.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>51</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>52</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>53</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>54</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>55</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>56</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>57</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>59</ID>
+      <DefaultText>Ввести код места, которое вам уже известно.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>60</ID>
+      <DefaultText>Вы пытаетесь вспомнить коды каких-либо известных вам важных мест.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>61</ID>
+      <DefaultText>Ввести код, чтобы посетить Одвальда.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>62</ID>
+      <DefaultText>Ввести код гробницы Первой Отверженной.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>63</ID>
+      <DefaultText>Ввести код гробницы Чой.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>64</ID>
+      <DefaultText>Ввести код гробницы Роноса Кай'сула.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>65</ID>
+      <DefaultText>Ввести код гробницы Марциса.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>66</ID>
+      <DefaultText>Вы нажимаете кнопки 5-1-4-3. После нажатия каждой кнопки загорается символ на расположенном рядом шестиугольнике.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>67</ID>
+      <DefaultText>Вы нажимаете кнопки 3-4-3-1. После нажатия каждой кнопки загорается символ на расположенном рядом шестиугольнике.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>68</ID>
+      <DefaultText>Вы нажимаете кнопки 4-2-2-1. После нажатия каждой кнопки загорается символ на расположенном рядом шестиугольнике.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>69</ID>
+      <DefaultText>Вы нажимаете кнопки 2-4-1-3. После нажатия каждой кнопки загорается символ на расположенном рядом шестиугольнике.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>70</ID>
+      <DefaultText>Вы нажимаете кнопки 1-2-5-4. После нажатия каждой кнопки загорается символ на расположенном рядом шестиугольнике.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>71</ID>
+      <DefaultText>Нажимать кнопки в случайном порядке.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>72</ID>
+      <DefaultText>Вы нажимаете кнопки в произвольном порядке. После нажатия каждой кнопки загорается расположенный рядом шестиугольник.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>73</ID>
+      <DefaultText>Возможно, вы сможете что-то сделать с другими средствами управления.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>74</ID>
+      <DefaultText>Ввести код, чтобы добраться до Знака Феникса.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>75</ID>
+      <DefaultText>Вы нажимаете кнопки 1-5-3-5. После нажатия каждой кнопки загорается символ на расположенном рядом шестиугольнике.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>76</ID>
+      <DefaultText>Ввести код Бесконечных Врат.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>77</ID>
+      <DefaultText>Ввести код Бесконечных Врат и гробницы Марциса.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>78</ID>
+      <DefaultText>Ввести код гробницы со струнным инструментом.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>79</ID>
+      <DefaultText>Вы нажимаете кнопки 3-5-4-3. После нажатия каждой кнопки загорается символ на расположенном рядом шестиугольнике.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>80</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>81</ID>
+      <DefaultText>Нажать шестиугольную кнопку, расположенную в центре.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>82</ID>
+      <DefaultText>Вернуться ко входу в Некрополь.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>83</ID>
+      <DefaultText>Ввести код кровавой могилы с порталом.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>84</ID>
+      <DefaultText>Панель, установленная здесь, похожа на панель у входа в Некрополь. Здесь пять кнопок с нацарапанными на них номерами. (Может быть, это мемуаристы вырезали эти цифры на каждой гробнице?) Но также есть и другие кнопки.
+
+Светящиеся шестиугольные кнопки окружены выгравированными кнопками. На каждой из них нацарапана стрелка, указывающая в сторону от центра.
+
+В центре светится маленький шестиугольник.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>85</ID>
+      <DefaultText>Попытаться ввести цифры из записки мертвого мемуариста с именем "Найма".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>86</ID>
+      <DefaultText>Вы нажимаете кнопки 4-1-3-5. После нажатия каждой кнопки загорается символ на расположенном рядом шестиугольнике.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>87</ID>
+      <DefaultText>Ввести код гробницы Найма.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>88</ID>
+      <DefaultText>Если вы правильно понимаете светящиеся символы, то сейчас вы находитесь в гробнице [Backer Tomb Address].</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

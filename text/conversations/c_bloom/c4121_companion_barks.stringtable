@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\c_bloom\c4121_companion_barks</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>14</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>"Мне говорят, что *я* пустоголовый".</DefaultText>
+      <FemaleText>"Мне говорят, что *я* пустоголовый".</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>"Зачем помещать людей внутрь каменной головы Чилы?"</DefaultText>
+      <FemaleText>"Зачем помещать людей внутрь каменной головы Чилы?"</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>"Храм в честь девушки, которая придумала о себе столь складную историю, что все остальные решили, что она бог".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>"Есть к чему стремиться, как по мне".</DefaultText>
+      <FemaleText>"Есть к чему стремиться, как по мне".</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>"А внутри пусто, как в головах ее последователей..."</DefaultText>
+      <FemaleText>"А внутри пусто, как в головах ее последователей..."</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>14</ID>
+      <DefaultText>"Я не собираюсь туда. Это слишком похоже на поглощение".</DefaultText>
+      <FemaleText>"Я не собираюсь туда. Это слишком похоже на поглощение".</FemaleText>
+    </Entry>
+  </Entries>
+</StringTableFile>

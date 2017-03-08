@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\c_bloom\c4101_bark_entering_courtyard</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>4</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>"Нужно разбить здесь лагерь. Или открыть нашу собственную торговую точку!"</DefaultText>
+      <FemaleText>"Нужно разбить здесь лагерь. Или открыть нашу собственную торговую точку!"</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>"Напомни рассказать тебе историю о Дворе Бесчисленных Возвращений. Он начинается здесь и заканчивается тоже здесь".</DefaultText>
+      <FemaleText>"Напомни рассказать тебе историю о Дворе Бесчисленных Возвращений. Он начинается здесь и заканчивается тоже здесь".</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>"Нам необходимо создать здесь укрепление".</DefaultText>
+      <FemaleText>"Нам необходимо создать здесь укрепление".</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>{Huffy, to himself}"Интересно, Дракоген все еще здесь? И прежний ли характер... Хм".</DefaultText>
+      <FemaleText>{Huffy, to himself}"Интересно, Дракоген все еще здесь? И прежний ли характер... Хм".</FemaleText>
+    </Entry>
+  </Entries>
+</StringTableFile>

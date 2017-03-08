@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>quests\crisis_objectives\objectives_0206_sticha_lair_both</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>14</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>0</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>Проникнуть в логово стихусов, чтобы похитить их яйца или отыскать туннель, ведущий в святилище Меняющегося Бога
+— Отвлечь стихусов с помощью музыкальных статуй
+— Осталось 3 грозди яиц стихусов</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>Проникнуть в логово стихусов, чтобы похитить их яйца или отыскать туннель, ведущий в святилище Меняющегося Бога
+— Отвлечь стихусов с помощью музыкальных статуй
+— Осталось 2 грозди яиц стихусов</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>Проникнуть в логово стихусов, чтобы похитить их яйца или отыскать туннель, ведущий в святилище Меняющегося Бога
+— Отвлечь стихусов с помощью музыкальных статуй
+— Осталась 1 гроздь яиц стихусов</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>Выбраться из логова и доставить яйца Пелиай или найти святилище Меняющегося Бога</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>Отыскать туннель в святилище Меняющегося Бога</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>Выбраться из логова и доставить яйца Пелиай или отыскать туннель, ведущий в святилище Меняющегося Бога</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10000</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10001</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10002</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10003</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10004</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10005</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10006</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

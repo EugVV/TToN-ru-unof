@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\a_sagus\a2101_piquo_cultist</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>15</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>В этом сектанте трудно узнать беспокойного юного мутанта, которого вы встречали в Краю Утеса. Он приветствует вас безмятежной улыбкой человека, обретшего новое — светлое — будущее.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>"С возвращением", — произносит он, а затем вдруг краснеет. — "Прозвучало глупо, извини. Раньше я здесь не бывал, но теперь я здесь". 
+
+Он явно растерян и пытается собраться с духом, чтобы заговорить первым. "Спасибо, что выбрал меня!" — выдавливает он наконец и густо краснеет.</DefaultText>
+      <FemaleText>"С возвращением, — произносит он, а затем вдруг краснеет. — Прозвучало глупо, извини. Раньше я здесь не бывал, но теперь я здесь". 
+
+Он явно растерян и пытается собраться с духом, чтобы заговорить первым. "Спасибо, что выбрала меня!" — выдавливает он наконец и густо краснеет.</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>Он отскакивает от вас, как ошпаренный. 
+
+"Прости. Моя вина. Я..."
+
+Во время этой тирады его рука как по своей воле взмывает вверх и закрывает ему рот. Он опускает глаза и больше ничего не говорит.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>Его лицо так побагровело, что вы удивляетесь, осталась ли кровь в остальном теле.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>"*Она* не пришла за мной", — хмуро произносит он. — "Ты пришел. Если бы не ты, я до сих пор выбирал бы между двумя ложными путями. Ты наставил меня на истинный путь".</DefaultText>
+      <FemaleText>"Не *она* за мной пришла, — нахмурившись, говорит он, — а ты. Если бы не ты, я бы все еще пытался выбрать между двумя неправильными путями. Ты указала мне нужную дорогу".</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>"Мать Темаз считает, что я сбил тебя с толку".</DefaultText>
+      <FemaleText>"Мать Темаз считает, что я сбила тебя с толку".</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>"Для нас лучше, что ты с нами".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>"Разве я разрешал говорить со мной?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>Вы заключаете мальчика в объятия. Он замирает и вы чувствуете, как дрожат его плечи. Отпустив его, вы видите слезы у него на глазах.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText>Обнять мальчика.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>14</ID>
+      <DefaultText>::бормочет::</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>15</ID>
+      <DefaultText>::фыркает::</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>16</ID>
+      <DefaultText>"Спасибо, что послал меня сюда", — говорит он, опустив голову. — "Спасибо, что помог мне н-найти путь".</DefaultText>
+      <FemaleText>"Спасибо, что послала меня сюда, — говорит он, опустив голову. — Спасибо, что помогла мне н-найти путь".</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>18</ID>
+      <DefaultText>::фыркает::</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>19</ID>
+      <DefaultText>::радостно вздыхает::</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

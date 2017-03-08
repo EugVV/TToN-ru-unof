@@ -1,0 +1,1458 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\a_sagus\a2501_tranquility</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>280</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>Женщина, похожая на иву, такая же высокая и изящная, выходит вперед, чтобы поприветствовать вас. Она склоняет голову, а затем с теплотой смотрит на вас своими золотистыми глазами. 
+
+"Добро пожаловать", — произносит она, — "в «Отдохновение». Я хозяйка этого места. Меня зовут Транквилити. Вы ищите место для ночлега и отдыха?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>Транквилити склоняет голову, когда вы входите. "С возвращением, наш друг. Мы по вам скучали".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>Она нежно улыбается. "Не стоит извиняться. Учитывая мой рост, нет ничего странного, что вы задали такой вопрос. Я не совсем обычный человек. Я мутант. И я рада, что живу на Утесах Сагуса, так как здесь это не считается преступлением. Есть всего несколько мест в этом мире, где кому-то вроде меня позволяется убирать постоялые дворы, не говоря уже о том, чтобы быть хозяином такого двора".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>"Мне кажется, что твой аромат содержит своего рода феромоны. Ты манипулируешь мной?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>Она слегка улыбается. "Если вы считаете, что спокойствие — это манипуляция, то да, вы правы, но ничего более. Я не могу управлять разумом или воздействовать на мысли. Мой аромат просто успокаивает людей. Благодаря этому аромату — и другой уловке, которую я освоила — мой постоялый двор имеет колоссальный успех".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>"Ты используешь свой тон голоса, чтобы успокоить меня. Это то, чему ты научилась?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>Она приподнимает брови. "Очень мало кто замечает это. Молодец. Я действительно манипулирую своим голосом. Когда я открыла это место, я хотела, чтобы оно было самым лучшим постоялым двором в Девятом мире. И я старалась, чтобы каждая частичка этого места была наполнена спокойствием и располагала к отдыху, даже мой голос". Она загадочно улыбается. "Другой мой талант также оказался очень полезным".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>"Могут твои способности успокаивания ввести меня в транс?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText>Она очень озадачена. "Еще никто меня об этом не просил. Возможно, я бы отказалась, опасаясь некоторых... осложнений и последствий. Но я чувствую некую связь между нами, доброту, которая нас объединяет. Я думаю, ничего плохого не случится. Если вы считаете, что вам это поможет, я сделаю это".
+
+Она протягивает руки. "Теперь возьмите мои руки и закройте глаза".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText>Она очень озадачена. "Еще никто меня не просил об этом, я..." Она качает головой. "Это очень интересное предложение, но я вынуждена отказаться. Я просто опасаюсь некоторых осложнений или последствий".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>14</ID>
+      <DefaultText>"Прошу тебя. Я обещаю, ты ни в чем не будешь виновата, если что-то пойдет не так. Разве тебе не интересно посмотреть, что произойдет?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>15</ID>
+      <DefaultText>Она медлит, затем кивает. "Хорошо, если вы готовы освободить меня от подобной ответственности, я сделаю это". Она протягивает руки. "Теперь возьмите мои руки и закройте глаза".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>16</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>17</ID>
+      <DefaultText>Она смеется: "Прекрасно. Ваше любопытство подзадорило меня. Ради новых впечатлений мы сделаем это вместе".
+
+Она протягивает руки. "Теперь возьмите мои руки и закройте глаза".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>18</ID>
+      <DefaultText>Ее спокойствие прерывается вспышкой гнева, которая исчезает так же мгновенно, как и появилась. Она мрачно смотрит на вас. "Я потратила слишком много времени, завоевывая для своего постоялого двора репутацию безопасного и спокойного места. Я не хочу рисковать всем этим ради прихоти незнакомца. Давайте сменим тему".
+
+{SCRIPT: Player can't try the DT on node 234 again.}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>19</ID>
+      <DefaultText>Транквилити улыбается. "Конечно. Ведь теперь мы знаем, что это не несет никакой опасности и последствий".
+
+Она снова берет ваши руки и начинает петь. Почти сразу же ваша голова тяжелеет, и вы закрываете глаза...</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20</ID>
+      <DefaultText>"Прощай".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>21</ID>
+      <DefaultText>"Приятного путешествия".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>22</ID>
+      <DefaultText>"Я ищу женщину по имени Персея. Говорят, она очень красивая, а ее волосы фиолетового цвета. Ты не видела ее?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>23</ID>
+      <DefaultText>Она печально улыбается. "Возможно. Многие люди останавливаются здесь, и эта женщина могла быть среди них. Но я ее не помню. Простите".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>24</ID>
+      <DefaultText>"В одной из твоих комнат я нашел этот гребень для волос. Ты не знаешь, чей он?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>25</ID>
+      <DefaultText>Она качает головой. "Боюсь, что нет. У нас много кто останавливается. Этот гребень мог принадлежать кому угодно".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>26</ID>
+      <DefaultText>"В одной из твоих комнат я нашел гребень для волос. Я показал его Омахдону. Он уверен, что этот гребень принадлежит Персее. Она была здесь?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>27</ID>
+      <DefaultText>"Омахдон уверен, что она его настоящая любовь, но это не любовь, а одержимость. И она сделала из него монстра". 
+
+Она вздыхает. "Судя по тому, что мне рассказала Персея, он нашел ее бездыханной в склепе Долины Павших Героев. В ее теле все еще теплилась жизнь благодаря древней науке. И он сразу влюбился в нее. Из-за своей глупости он мог бы умереть прямо там, однако он тоже обладал знаниями и использовал их, чтобы пробудить ее от смерти".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>28</ID>
+      <DefaultText>"Персея обязана Омахдону жизнью. Все, что он сделал, дорогого стоит".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>29</ID>
+      <DefaultText>"Да. Но нельзя заставить любить из благодарности. Любовь должна быть свободной".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30</ID>
+      <DefaultText>"Вы действительно верите в это?" Она вновь поглядывает на вас, подняв бровь. "После того, как узнали, как Омахдон преследовал ее? Я разочарована".
+
+Она осматривает вас с ног до головы. "Что вы намерены делать?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>31</ID>
+      <DefaultText>"Я верю, что его любовь к ней была настоящей. Он бы никогда не обидел Персею. Он желал для нее лучшего".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>32</ID>
+      <DefaultText>"Ожидал ли он награды или нет, но он спас ей жизнь. Конечно, он заслужил еще один шанс проявить себя за то, что совершил это чудо".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>33</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>34</ID>
+      <DefaultText>Она опускает глаза вниз, взвешивая слова. "Прекрасно. Я думаю, что вы действительно хотите помочь, поэтому если вы ручаетесь за Омахдона, я поверю ему на слово. Я надеюсь, что не пожалею, если скажу вам, где она". 
+
+Она поднимает глаза и смотрит на вас. "Она вернулась в Долину Павших Героев. Он найдет ее там".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>35</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>36</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>37</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>38</ID>
+      <DefaultText>Она надолго задумывается, потом вздыхает. "У меня смешанные чувства по этому поводу, но жизнь — это действительно дар. Я думаю, что она даст ему еще один шанс доказать свою любовь. Так и быть, Персея вернулась в Долину Павших Героев. Он найдет ее там".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>39</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>40</ID>
+      <DefaultText>Она обдумывает идею, затем пожимает плечами. "Так как была только одна попытка похищения, я думаю, что можно разрешить ему доказать свою любовь, и он не причинит ей вреда. Так и быть, Персея вернулась в Долину Забытых Героев. Он найдет ее там".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>41</ID>
+      <DefaultText>"Возможно, она не хочет новой жизни? Из-за того, что он сделал, ей выпал ужасный жребий — жить в чужом мире и времени или самой прервать свою жизнь".
+
+Она качает головой. "Нет. Он должен быть наказан за это, а не награжден. Я не скажу вам, где она. Никогда".
+
+{SCRIPT: Cannot try this argument again.}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>42</ID>
+      <DefaultText>Она облегченно вздыхает. "Я рада, что вы это сказали. Что вы теперь намерены делать?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>43</ID>
+      <DefaultText>"Мне нужна твоя помощь, чтобы разрешить конфликт между Омахдоном и Персеей".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>44</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>45</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>46</ID>
+      <DefaultText>Дать ей денег.
+
+{MONEY}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>47</ID>
+      <DefaultText>"Пожалуй, я отдохну позже. Давай поговорим о чем-нибудь другом".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>48</ID>
+      <DefaultText>Она кивает. "Конечно".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>49</ID>
+      <DefaultText>"Спасибо, друг. Отдыхайте спокойно".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>50</ID>
+      <DefaultText>Она хмурится. "Что вы намерены делать?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>51</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>52</ID>
+      <DefaultText>Легкая дрожь в ее обычно сладко-плавном голосе подсказывает вам, что она лжет.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>53</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>54</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>55</ID>
+      <DefaultText>Она опускает глаза в смущении. "Да. Я солгала вам и Омахдону, и мне стыдно за это. Но, возможно, вы все поймете, когда я расскажу вам историю Персеи".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>56</ID>
+      <DefaultText>"Омахдон не должен найти Персею. Я хочу сбить его со следа".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>57</ID>
+      <DefaultText>"Прекрасная идея".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>58</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>59</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>60</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>61</ID>
+      <DefaultText>"Можешь ввести Омахдона в транс? Это даст Персее больше времени, чтобы скрыться".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>62</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>63</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>64</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>65</ID>
+      <DefaultText>Она колеблется. "Так поступать нечестно, но он нечестный человек, поэтому, возможно, ему нужно платить той же монетой".
+
+Она кивает. "Прекрасно. Отправьте его ко мне, и я все сделаю. Я могу сделать его «гостем» моей гостиницы и держать здесь столько, сколько понадобится".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>66</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>67</ID>
+      <DefaultText>Она довольно улыбается. "Подходящее наказание для того, кто удерживал женщину против ее воли. Отправьте его ко мне, и я все сделаю. Я могу сделать его "гостем" моей гостиницы и держать здесь столько, сколько понадобится".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>68</ID>
+      <DefaultText>Она холодно смотрит на вас. "Вы имеете в виду, что мы погрузим его в сон без его согласия? Так же, как он разбудил Персею без ее согласия? Нет. Я не буду опускаться до его уровня. Найдите другой путь".
+
+{SCRIPT: Cannot try this argument again.}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>69</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>70</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>71</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>72</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>73</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>74</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>75</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>76</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>77</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>78</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>79</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>80</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>81</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>82</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>83</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>84</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>85</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>86</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>87</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>88</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>89</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>90</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>91</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>92</ID>
+      <DefaultText>Действительно, чувство покоя, возникающее в ее присутствии, настолько сильное, что вы сомневаетесь в его естественности. Тогда же вы замечаете успокаивающий запах, который исходит от Транквилити. Наверняка это больше, чем просто духи. Возможно, какой-то тип феромона.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>93</ID>
+      <DefaultText>Вы начинаете догадываться, что чувство спокойствия, которое окружает Транквилити, связано с тем, как она говорит. У нее низкий и звучный голос, и она, кроме того, особым образом изменяет его тональность. Техника неуловима, но имеет сильный эффект. Вы чувствуете спокойствие и легкую сонливость.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>94</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>95</ID>
+      <DefaultText>Она сжимает губы. "Да. Я солгала Омахдону и не жалею об этом, хотя знаю, что вы осудите меня за это. Возможно, вы все поймете, когда я расскажу вам историю Персеи".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>96</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>97</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>98</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>99</ID>
+      <DefaultText>Ее отказ звучит слишком отрывисто и резко, особенно при том, что обычно ее голос так спокоен. Вы подозреваете, что это признак лжи.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>100</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>101</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>102</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>103</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>104</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>105</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>106</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>107</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>108</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>109</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>110</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>111</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>112</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>113</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>114</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>115</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>116</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>117</ID>
+      <DefaultText>Транквилити кивает. "Как пожелаете. Цена ночлега [Global: a2501_TranquilityPissedHostelPrice] шинов за человека".
+
+{MONEY}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>118</ID>
+      <DefaultText>Дать ей денег.
+
+{MONEY}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>119</ID>
+      <DefaultText>"Почему теперь комната стоит больше, чем прежде?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>120</ID>
+      <DefaultText>Транквилити смотрит на вас с насмешкой. "Это моя гостиница, и я могу устанавливать такие цены, какие пожелаю. А для тех, кто обманывает меня, я делаю цену немного больше".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>121</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>122</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>123</ID>
+      <DefaultText>"Я хочу попробовать помирить Омахдона и Персею".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>124</ID>
+      <DefaultText>"Действительно? Но вы говорили, что вы против этого. Почему вы передумали?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>125</ID>
+      <DefaultText>"Я признаю, что Омахдон обращался с ней плохо, но что, если он действительно любит ее?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>126</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>127</ID>
+      <DefaultText>"Если бы не Омахдон, Персея все еще была бы трупом. За это она обязана ему *чем-то*".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>128</ID>
+      <DefaultText>Она смеется: "Она обязана ему чем-то за услугу, о которой не просила? Вам нужно придумать что-то получше, чтобы я сказала вам, где она".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>129</ID>
+      <DefaultText>"Персея никогда не давала Омахдону шанс доказать свою любовь. Нужно дать ему шанс убедить ее".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>130</ID>
+      <DefaultText>Она спокойно смотрит на вас. "У него было много шансов. Но он гнался за ней и мстил за то, что она оставила его, рассказывая всем, что она сошла с ума. Это едва ли убедит ее в его любви".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>131</ID>
+      <DefaultText>"Возможно, он не понимает, как проявлять любовь, но это не значит, что она ненастоящая. Ты считаешь, что он не заслужил второго шанса только потому что вел себя как дурак?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>132</ID>
+      <DefaultText>Она вздыхает. "Если вы верите, что он правда любит ее, я доверюсь ему еще раз. У него должен быть шанс. Персея вернулась в Долину Павших Героев. Он найдет ее там".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>133</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>134</ID>
+      <DefaultText>"Многие мужчины, которые на людях кажутся сильными, в любви ведут себя глупо". Она вздыхает. "Прекрасно. У него должен быть шанс. Персея вернулась в Долину Забытых Героев. Он найдет ее там".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>135</ID>
+      <DefaultText>Она напряженно смотрит на вас. "Если вы верите этой лжи Омахдона, вы — глупец. А если вы знаете, что он врет, вы — негодяй. В любом случае, я не скажу вам, где Персея. Никогда".
+
+{SCRIPT: Cannot try this argument again.}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>136</ID>
+      <DefaultText>"Я не думаю, что это мудрое решение. Какие у вас есть доказательства?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>137</ID>
+      <DefaultText>"Прошу тебя. Любовь Омахдона — настоящая. Он просто должен понять, как выражать ее, чтобы она почувствовала к нему то же самое".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>138</ID>
+      <DefaultText>"Без него она не смогла бы ни слышать, ни говорить, ни даже дышать. Может быть, хотя бы поэтому она может выслушать его еще раз?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>139</ID>
+      <DefaultText>"Возможно, он позволил себе слишком много. Но если его любовь истинная, неужели нельзя простить его?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>140</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>141</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>142</ID>
+      <DefaultText>Follow-up PQ. 142.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>143</ID>
+      <DefaultText>"Прости, что спрашиваю. Ты — человек?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>144</ID>
+      <DefaultText>"Расскажите мне о себе еще раз".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>145</ID>
+      <DefaultText>Follow-up T. 145</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>147</ID>
+      <DefaultText>"Я мутант... и рада жить в городе, где не преследуют таких, как я. Здесь мое дело процветает. В другом месте меня бы побили камнями или убили ни за что".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>148</ID>
+      <DefaultText>"Ты солгала мне. У меня есть устройство, которое показывает, что случилось в прошлом, и я знаю, что ты говорила с Персеей".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>149</ID>
+      <DefaultText>Транквилити краснеет, приходит в замешательство, затем собирается с духом и кивает. "Да, я помогала Персее. Я приношу извинения за ложь, но, возможно, вы поймете ее причины, когда услышите всю историю".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>150</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>151</ID>
+      <DefaultText>"Мне надо подумать над этим".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>152</ID>
+      <DefaultText>"Так и сделайте. Чем дольше вы будете думать, тем больше времени есть у Персеи, чтобы скрыться".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>156</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>158</ID>
+      <DefaultText>"Я все же думаю, что ввести Омахдона в транс — это лучший способ справиться с ним".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>159</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>160</ID>
+      <DefaultText>"Не беспокойся. У меня есть другая идея, как решить эту проблему".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>161</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>162</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>163</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>164</ID>
+      <DefaultText>"Мне нужна твоя помощь. Теперь у меня другое мнение об Омахдоне и Персее".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>165</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>166</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>167</ID>
+      <DefaultText>"В этом случае надо выработать единую версию. Если Омахдон решит допросить нас обоих, окажется, что Персея находится в двух разных местах".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>168</ID>
+      <DefaultText>"Точно подмечено". Она задумывается на мгновение. "Совершенно точно, что Персея не пошла в Хареф, и это очень далеко, поэтому можно сказать Омахдону, что она пошла туда".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>169</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>170</ID>
+      <DefaultText>"Твои способности позволяют узнать характер человека. Разве они не подсказывают тебе, что мне можно доверять?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>171</ID>
+      <DefaultText>"При такой интуиции, как у тебя, ты должна знать, что мне можно доверить секрет".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>172</ID>
+      <DefaultText>Она испытующе смотрит на вас, затем вздыхает. "Я верю вам. Только надеюсь, что потом не пожалею об этом. Персея вернулась в Долину Павших Героев, в то место, где Омахдон воскресил ее из мертвых".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>173</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>174</ID>
+      <DefaultText>Она мрачно кивает. "Это правда, я сразу же почувствовала вашу искренность. Хорошо, я скажу вам. Персея вернулась в Долину Павших Героев, в то место, где Омахдон воскресил ее из мертвых".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>175</ID>
+      <DefaultText>Ее взгляд холодеет. "Я ни капельки вам не верю. Пожалуйста, не задавайте больше мне этот вопрос".
+
+{SCRIPT: Cannot try this argument again.}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>176</ID>
+      <DefaultText>Она принюхивается. "Хм. Эта женщина очаровывает не только длинными ногами и сладкими речами. Она источает какой-то успокаивающий феромон. Интересно".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>177</ID>
+      <DefaultText>Она слегка улыбается. "Если вы считаете, что спокойствие — это манипуляция, то да, вы правы, но ничего более. Я не могу управлять разумом или воздействовать на мысли. Как и мой голос, мой аромат просто успокаивает людей. Это одна из причин, по которой я решила открыть постоялый двор".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>178</ID>
+      <DefaultText>Она приподнимает брови. "Очень мало кто замечает это. Молодец. Я действительно манипулирую своим голосом. Когда я открыла это место, я хотела, чтобы оно было самым лучшим постоялым двором в Девятом Мире. И я старалась, чтобы каждая частичка этого двора была наполнена спокойствием и располагала к отдыху, даже мой голос. Оказалось, у меня к этому талант".
+
+{DP}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>179</ID>
+      <DefaultText>"Хорошо. Давай поговорим о чем-нибудь другом".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>180</ID>
+      <DefaultText>"С удовольствием".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>181</ID>
+      <DefaultText>"Ах", — говорит Транквилити. — "Вы. Да?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>182</ID>
+      <DefaultText>Теплота исчезает из голоса Транквилити. Ее взгляд полон холодного презрения. "Вы сказали Омахдону, куда отправилась Персея. Чем, вы думаете, это закончится?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>185</ID>
+      <DefaultText>Она улыбается. "Это самый спокойный постоялый двор на Утесах Сагуса с красивейшими видами. Окна во всех комнатах выходят наружу, поэтому суета Караван-сарая здесь незаметна и неслышна. Видны только небо, море и крыши домов далеко внизу, а слышен лишь морской бриз. Я единственная владелица, и я предлагаю путешественникам уединение, безопасность и конфиденциальность вот уже двадцать лет. В этом месте люди спят крепче, чем где бы то ни было еще".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>186</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>187</ID>
+      <DefaultText>"Расскажи мне про «Отдохновение»".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>188</ID>
+      <DefaultText>"Расскажи мне еще о своем постоялом дворе".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>189</ID>
+      <DefaultText>"«Отдохновение» — это оазис в небе, место, где можно забыть о заботах путешествий и отдохнуть, словно на руках у матери. Я обеспечиваю покой, безопасность и конфиденциальность".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>190</ID>
+      <DefaultText>Она наклоняет голову. "Правда? Я удивлена. Что вы хотите сделать иначе?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>191</ID>
+      <DefaultText>"Ты сказала, что не видела Персею, но в одной из комнат была эта расческа. На ней фиолетовый волос как у нее".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>192</ID>
+      <DefaultText>Когда она говорит, вы чувствуете, как вас охватывает приятное спокойствие, и вы понимаете, что уже хотите с ней согласиться. Вы ничего так не желаете, как уединиться в спокойной, тихой комнате.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>193</ID>
+      <DefaultText>На самом деле, чувство спокойствия, которое вы испытываете в ее присутствии, настолько сильное, что вы задаетесь вопросом, естественно ли оно. Тогда же вы замечаете успокаивающий запах, который исходит от Транквилити. Наверняка это больше, чем просто духи. Возможно, какой-то тип феромона. 
+
+И ее голос тоже действует успокаивающе. Голос низкий и глубокий, и она, кажется, каким-то образом меняет его тональность. Техника неуловима, но имеет сильный эффект. Вы чувствуете спокойствие и легкую сонливость.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>194</ID>
+      <DefaultText>Как только вы берете ее руку, вас накрывает волна запахов свежеиспеченного хлеба и меда, и она начинает петь мягким, но звонким контральто. Мелодия заполняет мысли, голова становится тяжелой от дремоты, и подбородок падает на грудь. У вас ощущение, будто вас мягко опускают в теплую ванну. 
+
+Вода накрывает вас с головой, но вы не боитесь утонуть. Вы словно вернулись в утробу матери, где существует лишь темнота и постоянный пульс бьющегося сердца...</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>195</ID>
+      <DefaultText>Транквилити опускает голову, скрывая эмоции. "Я помогла Персее найти корабль, но я не хочу говорить вам, куда он отправился. Возможно, вы поймете почему, если я расскажу тебе ее историю".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>196</ID>
+      <DefaultText>"Устройство, которое показывает прошлое, поведало мне, что ты разговаривала с женщиной по имени Персея. Куда она пошла?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>197</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>198</ID>
+      <DefaultText>"Кажется, он думал, что это непрошеное воскрешение сделает его героем в ее глазах, и что она тотчас влюбится в него, но его страсть лишь раздражала ее. Она объяснила, что не разделяет чувства. Он не стал слушать. Он воспринял ее отвращение как временное помешательство. С тех пор Персея скрывается от него, но он не отступает". 
+
+Она поднимает взгляд. "Теперь вы понимаете, почему я помогла ей? И почему солгала ему и вам?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>200</ID>
+      <DefaultText>Он ворчит вам на ухо: "Дурачина с силой бога. Ты не знаешь ничего о таких вещах, не так ли, отверженный?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>201</ID>
+      <DefaultText>"Он преследует бедную девушку", — бормочет он вам на ухо. — "Она не хочет его видеть. Постыдное поведение, это *я* тебе говорю".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>202</ID>
+      <DefaultText>"Я хочу убедить Омахдона перестать преследовать Персею".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>203</ID>
+      <DefaultText>"Благородное намерение, хотя, я боюсь, трудноосуществимое. Я желаю вам удачи".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>204</ID>
+      <DefaultText>"Недавно два дирижабля отправились на Хареф и Сада Имиду. Персеи нет ни на одном из них, и оба города находятся очень далеко. Омахдон потеряет недели в пути и никогда не сможет вновь обнаружить ее след".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>205</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>206</ID>
+      <DefaultText>Она смотрит недоверчиво. "Я знаю многих, кто выдавал злодеяние за безрассудство. Большинство из них лжецы. Не вижу причин считать Омахдона другим. Простите, но я не скажу вам, куда она отправилась".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>207</ID>
+      <DefaultText>"Человек, который начинает строить предположения вместо вопросов, редко узнает истину. Я все равно не собираюсь говорить вам, куда она отправилась".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>208</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>209</ID>
+      <DefaultText>Она хмурится, затем качает головой: "И что, я должна полагаться на ваше доверие к нему? Нет. Я не знаю, почему вы помогаете Омахдону, но я не верю, что он действительно заботится о ее благополучии. Я не скажу вам, где она".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>210</ID>
+      <DefaultText>"И вы уверены, что он *способен* научиться? Нет, я ему не верю. Я все равно не скажу вам, куда она отправилась".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>211</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>212</ID>
+      <DefaultText>Она качает головой: "Я не хочу видеть его гнев, когда он очнется и узнает об обмане. Найдите другой путь".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>213</ID>
+      <DefaultText>"Это слишком опасно. Он может напасть на меня, когда узнает, что я сделала. Я лучше откажусь".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>214</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>215</ID>
+      <DefaultText>"Возможно, она не хочет новой жизни? Это не ее мир и не ее время. С чего бы ей быть счастливой здесь?"
+
+Она качает головой: "Нет. Он ничего не заслуживает. Я не скажу вам, где она".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>216</ID>
+      <DefaultText>"Разве он сделал это для нее? Нет. Он сделал это по своим эгоистическим соображениям. Грош цена такому поступку. Я все равно не скажу вам, где она".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>217</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>218</ID>
+      <DefaultText>Она испытующе смотрит на вас, затем качает головой: "Я верю вам, но зачем отягощать себя ненужными знаниями? Я вам не скажу".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>219</ID>
+      <DefaultText>Она улыбается: "Я знаю, вы можете, но зачем вам это знать, зачем вам такие заботы? Я вам не скажу".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>221</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>222</ID>
+      <DefaultText>"Куда на самом деле отправилась Персея?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>223</ID>
+      <DefaultText>"Ты уверена, что не скажешь мне, куда отправилась Персея?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>225</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>226</ID>
+      <DefaultText>"Простите. Чем меньше людей знают это, тем лучше".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>227</ID>
+      <DefaultText>"Простите, но я лучше оставлю это при себе".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>228</ID>
+      <DefaultText>"Как хочешь".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>229</ID>
+      <DefaultText>"Хорошо. Позволь мне спросить у тебя кое-что еще".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>230</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>231</ID>
+      <DefaultText>"Можешь снова ввести меня в транс?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>232</ID>
+      <DefaultText>"По праву гостя, спрошу тебя снова — ты используешь свои способности, чтобы ввести меня в транс?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>233</ID>
+      <DefaultText>Кажется, на мгновение Транквилити задумывается, но затем она качает головой: "Нет. Как я и говорила, я не уверена, что это безопасно".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>234</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>236</ID>
+      <DefaultText>"Скорее мне это поможет, чем навредит. Если это окажется не так, я беру ответственность на себя".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>237</ID>
+      <DefaultText>"Забудь. Прощай".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>238</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>239</ID>
+      <DefaultText>Она качает головой: "Я боюсь, это невозможно. Я не смогу гарантировать безопасность и покой в этом месте, если мы попытаемся это сделать".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>240</ID>
+      <DefaultText>"Нет. Я приняла решение. Здесь не место таким вещам".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>241</ID>
+      <DefaultText>"Я боялась, что вы это скажете. Какие у вас на это причины?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>242</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>243</ID>
+      <DefaultText>"Часто ли в этом мире кто-то находит истинную любовь? Разве мы можем помешать им *попытать счастья*?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>244</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>245</ID>
+      <DefaultText>"Да, она заслуживает любящего и уважающего ее человека. А если Омахдону можно показать, как его одержимость ранит ее?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>246</ID>
+      <DefaultText>"Может быть, вы и правы. Настоящая любовь — редкая вещь. Но разве это те чувства, которые испытывает к ней Омахдон? Это действия навязчивого преследователя, а не влюбленного".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>247</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>248</ID>
+      <DefaultText>"Наверное... Вы правда думаете, что он ее любит? Он ведет себя как навязчивый преследователь".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>249</ID>
+      <DefaultText>"Возможно, ты права. Позволь мне еще раз подумать над этим".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>250</ID>
+      <DefaultText>"Хорошо".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>251</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>253</ID>
+      <DefaultText>"Нужно дать Омахдону возможность доказать свою любовь".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>254</ID>
+      <DefaultText>"Он хочет, чтобы она принадлежала ему, но это не любовь".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>255</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>257</ID>
+      <DefaultText>"Персея в долгу у Омахдона. Он вернул ее к жизни".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>258</ID>
+      <DefaultText>"Я говорила вам ранее, что Персея никогда не просила об этом. Она ничего не должна ему взамен... Особенно за его любовь к ней".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>259</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>261</ID>
+      <DefaultText>"Я думаю, Омахдон искренне любит ее. Хоть и проявляет свою любовь подобным жалким образом".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>262</ID>
+      <DefaultText>Она прищуривает глаза. "Вы правда думаете, что он любит ее? Настоящая любовь — это когда ты желаешь, чтобы другой был счастлив. Но пока он беспокоится только о *своем* счастье".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>263</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>264</ID>
+      <DefaultText>Транквилити улыбается. "Я так рада, и я уверена, что вам будет здесь комфортно. Цена ночлега [Global: a2501_TranquilityHostelPrice] шинов за человека".
+
+{MONEY}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>265</ID>
+      <DefaultText>Транквилити улыбается. "Конечно! Как и прежде, цена ночлега [Global: a2501_TranquilityHostelPrice] шинов за человека".
+
+{MONEY}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>266</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>267</ID>
+      <DefaultText>"Какая разница, любит он ее или нет? Он одержим и безумен. Она заслуживает лучшего".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>268</ID>
+      <DefaultText>"Мы уже говорили об этом. Омахдон не считается с *ее* чувствами. Она заслуживает кого-то получше, чем он".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>269</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>270</ID>
+      <DefaultText>"Мне нужно место для ночлега".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>271</ID>
+      <DefaultText>"Мне нужна комната для ночлега".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>272</ID>
+      <DefaultText>Внезапно о себе напоминает Тибир: "Вы что, забыли, что если мы ничего не предпримем, Рис погибнет уже завтра? Его убьют, пока вы будете спать. Вы обещали спасти его".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>273</ID>
+      <DefaultText>"У меня есть дела поважнее, чем спасение преступника от казни. Нам надо отдохнуть".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>274</ID>
+      <DefaultText>"Хорошо. Поторопимся".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>275</ID>
+      <DefaultText>"Я очень признателен тебе, друг. Правда. Это очень важно".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>276</ID>
+      <DefaultText>"Если передумаете, двери моего постоялого двора всегда открыты для вас".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>278</ID>
+      <DefaultText>""</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>279</ID>
+      <DefaultText>"Вы вернулись. Очень здорово".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>280</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>281</ID>
+      <DefaultText>"Ожидал ли он награды или нет, но он спас ей жизнь. Конечно, он заслужил еще один шанс проявить себя за то, что совершил это чудо".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>282</ID>
+      <DefaultText>"Без него она не смогла бы ни слышать, ни говорить, ни даже дышать. Может быть, хотя бы поэтому она может выслушать его еще раз?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>283</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>284</ID>
+      <DefaultText>"Возможно, он не понимает, как проявлять любовь, но это не значит, что она ненастоящая. Ты считаешь, что он не заслужил второго шанса только потому что вел себя как дурак?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>285</ID>
+      <DefaultText>"Возможно, он позволил себе слишком много. Но если его любовь истинная, неужели нельзя простить его?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>286</ID>
+      <DefaultText>"Так о чем еще ты хочешь поговорить?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>287</ID>
+      <DefaultText>Она смущенно и осторожно берет в руки гребень. "Да. Я солгала тебе и Омахдону, и мне стыдно за это. Но, возможно, ты все поймешь, когда я расскажу историю Персеи".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>288</ID>
+      <DefaultText>Она берет в руки гребень и, нахмурившись, рассматривает его. "Да. Я солгала Омахдону и не жалею об этом, хотя знаю, что ты осуждаешь меня за это. Но, возможно, ты все поймешь, когда я расскажу историю Персеи".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>290</ID>
+      <DefaultText>"Омахдон придерживался нашего плана. Он направляется в Долину Забытых Героев, как мы и договаривались".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>291</ID>
+      <DefaultText>"Мне удалось убедить Омахдона отказаться от поисков Персеи".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>292</ID>
+      <DefaultText>"Омахдон идет по ложному следу, как ты и просила".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>293</ID>
+      <DefaultText>"Отличные новости", — говорит она, сияя. — "Она тебе очень обязана".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>294</ID>
+      <DefaultText>"Отличные новости", — говорит она, сияя. — "Персея тебе очень обязана".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>295</ID>
+      <DefaultText>Она тяжело вздыхает и опускает голову: 
+
+"Не кори себя. Тут ничего не поделаешь, и я уверена, что Персея ожидала, что ее будут преследовать. Навряд ли Омахдон застанет ее врасплох".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>296</ID>
+      <DefaultText>"Отличная мысль! Я рада, что образумила тебя".</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

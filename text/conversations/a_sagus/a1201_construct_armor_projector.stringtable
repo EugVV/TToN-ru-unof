@@ -1,0 +1,229 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\a_sagus\a1201_construct_armor_projector</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>43</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>В этом месте на земле есть небольшое углубление — таких вокруг конструкта разбросано немало. Но, в отличие от других, по нему через неравные промежутки времени по-прежнему проходят энергетические импульсы. Каждая такая волна энергии вызывает легкое, но неумолимое чувство тревоги.
+
+В центре углубления находится незакрепленная линза. Вы полагаете, что с ее помощью психическое воздействие можно перенаправить в более нужное место, но добраться до линзы в промежутках между энергетическими импульсами будет непросто.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>В небольшом углублении через неравные промежутки времени по-прежнему пульсирует энергия. Линза предупреждает о каждом таком импульсе, но ее, пожалуй, можно также использовать, чтобы перенаправить защитную энергию на что-то более нужное.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>Энергетические импульсы прекратились. Похоже, вся энергия, что еще оставалась, была израсходована.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>При ближайшем рассмотрении незакрепленная деталь в центре оказывается линзой. Перед каждым импульсом она ненадолго загорается. Поглядывая на нее, пожалуй, будет нетрудно увернуться от энергетического поля.
+
+Похоже, линза направляет и фокусирует энергию, но ее кто-то сместил. Возможно, защиту энергетического поля можно перенаправить в более нужное место.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText>Перефокусировать линзу, чтобы направить психическую энергию на врагов.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>14</ID>
+      <DefaultText>Попытаться перефокусировать линзу еще раз.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>15</ID>
+      <DefaultText>Внимательно следя за временем, вы легко поворачивает линзу в более подходящее, хочется надеяться, положение. Она загорается, предупреждая о надвигающемся импульсе. Энергетическое поле расширяется и забивает глаза, уши и рты товарищей Корро. Надежда исчезает с их лиц, сменившись отсутствующим выражением. После этого небольшое углубление становится темным и неактивным.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>16</ID>
+      <DefaultText>Внимательно следя за временем, вы легко поворачивает линзу в более подходящее, хочется надеяться, положение. Она загорается, предупреждая о надвигающемся импульсе. На этот раз энергетическое поле устремляется наружу, но, поскольку линза не направлена на что-то конкретное, энергия выстреливает в пустоту, подняв облако пыли, и уносится прочь, а затем рассеивается.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>17</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>18</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>19</ID>
+      <DefaultText>В небольшом углублении через неравные промежутки времени по-прежнему пульсирует энергия. В его центре находится незакрепленная стеклянная линза, но, чтобы до нее добраться, придется хорошенько рассчитать время.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20</ID>
+      <DefaultText>Оставить ее в покое.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>21</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>22</ID>
+      <DefaultText>Забрать деталь.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>23</ID>
+      <DefaultText>Попытаться забрать деталь еще раз.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>24</ID>
+      <DefaultText>Схватив предмет в перерыве между энергетическими импульсами, вы понимаете, что это своего рода линза, которая крепится к чему-то, расположенному под углублением. Без нее эти импульсы меняют свою форму.
+ 
+Перед каждым импульсом линза ненадолго загорается. Возможно, с ее помощью можно перенаправить защитную энергию в более нужное место.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>25</ID>
+      <DefaultText>Импульс энергии отталкивает от углубления все мелкие объекты, в том числе руки, пытавшиеся извлечь детали нуменеры.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>26</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>27</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>28</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>29</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>31</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>32</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>33</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>34</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>35</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>36</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>37</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>38</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>43</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>44</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>45</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>46</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>47</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>48</ID>
+      <DefaultText>В небольшом углублении через неравные промежутки времени по-прежнему пульсирует энергия.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>49</ID>
+      <DefaultText>В отсутствие врагов, на которых его можно направить, устройство теряет свою значимость.</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

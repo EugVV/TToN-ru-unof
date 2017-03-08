@@ -1,0 +1,154 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\x_labyrinth\x6071_cnpcfathom_village_hoodedstatue_si_backer_obelisk</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>26</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>Вы смотрите наверх. Каменная фигура смотрит вниз, держа в руках дискообразный символ.
+
+Волосы или, возможно, усики, завиваются по краям капюшона, закрывающего большую часть угловатого лица статуи. Абстрактные узоры бегут по складкам ее мантии.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>Фигура держит символ в вытянутых руках, будто предлагая его вам.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>Исследовать статую целиком.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>Снова исследовать статую целиком.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>Снять символ.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>Дотронуться до квадрата.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>Дотронуться до круга.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>Дотронуться до креста.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>Вы берете символ обеими руками, тянете на себя, и...
+
+Вашему взору открывается видение. Вы возвышаетесь над миром, передвигаясь по нему огромными незримыми шагами. Внизу мелькают лица, целый океан лиц, но у всех у них есть общая черта — у них нет татуировок отверженных. Вас и вам подобных нигде не видать.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>Вы кладете руку на квадрат и...
+
+Вас посещает видение, в котором одинокая фигура встает на колени перед грудой изрезанных костей.  Вы не можете определить, мужчина это или женщина, но татуировка отверженного хорошо видна. До вас доносится лишь шепот: "Спасибо. Спасибо. Спасибо".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText>Вы проводите рукой по кругу и...
+
+Вас посещает видение, показывающее вам лицо призрачной женщины — той самой, с которой вы познакомились в Спокойствии своего разума. Сначала ее покидает боль, затем и полупрозрачный свет. Вскоре ее лицо приобретает плотность.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText>Вы проводите пальцем по кресту и...
+
+Перед вашим взором открывается видение огромной, скорчившейся фигуры, вопящей тысячью ртов. Она поедает сама себя. Она жертва, избранная целью отмщения, и она умирает.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>14</ID>
+      <DefaultText>Не подходить к скульптуре.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>15</ID>
+      <DefaultText>Не сразу становится очевидно, кого изображает статуя. Возможно, она играла ключевую роль в жизни другого отверженного и каким-то образом попала сюда. 
+
+Вы никогда этого не узнаете. 
+
+Сам символ представляет собой совокупность фигур — крест, заключенный в квадрат внутри круга.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>16</ID>
+      <DefaultText>Вы по-прежнему не понимаете, кого изображает статуя и как она попала сюда. Символ представляет собой крест, заключенный в квадрат внутри круга.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>17</ID>
+      <DefaultText>Теперь, когда вы его рассмотрели получше, он вам кажется знакомым. Но это не простой камень. Это... вы вздыхаете в раздумьях...
+
+Память, запечатленная в камне.  Скованная сила, которая является эхом самой себя.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>21</ID>
+      <DefaultText>Попытаться снять символ.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>22</ID>
+      <DefaultText>Снова попытаться снять символ.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>23</ID>
+      <DefaultText>Вы с силой тянете символ. Возможно, это ваше воображение или освещение, но вам *показалось*, что статуя сжимает пальцами края удерживаемого в руках символа.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>24</ID>
+      <DefaultText>Вы хватаете символ и тянете на себя со всех сил. Он не двигается с места.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>25</ID>
+      <DefaultText>Вы отпускаете квадрат, и видение покидает вас.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>26</ID>
+      <DefaultText>Вы отпускаете круг, и видение покидает вас.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>27</ID>
+      <DefaultText>Вы отпускаете крест, и видение покидает вас.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>28</ID>
+      <DefaultText>Видение уходит, когда вы вырываете символ из твердых рук статуи. Вы все еще ощущаете острые края символа на своих ладонях, но это длится лишь долю секунды.</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

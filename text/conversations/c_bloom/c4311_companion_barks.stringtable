@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\c_bloom\c4311_companion_barks</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>19</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>:: Свистит :: "Интересно, кто здесь живет".</DefaultText>
+      <FemaleText>:: Свистит :: "Интересно, кто здесь живет".</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>"Красивый вид. За такой нужно деньги брать".</DefaultText>
+      <FemaleText>"Красивый вид. За такой нужно деньги брать".</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>"Это... настоящее золото, как думаете?"</DefaultText>
+      <FemaleText>"Это... настоящее золото, как думаете?"</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>"Хм. Роскошные Апартаменты Якорной Стоянки".</DefaultText>
+      <FemaleText>"Хм. Роскошные Апартаменты Спасения".</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>"Милое колечко, вот".</DefaultText>
+      <FemaleText>"Милое колечко, вот".</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>"Так-так... Это местечко дорогого стоит".</DefaultText>
+      <FemaleText>"Так-так... Это местечко дорогого стоит".</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>14</ID>
+      <DefaultText>"Значит, это планета. Ух ты!"</DefaultText>
+      <FemaleText>"Значит, это планета. Ух ты!"</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>15</ID>
+      <DefaultText>"Зато небольших размеров, что в карман влезет, да?"</DefaultText>
+      <FemaleText>"Зато небольших размеров, что в карман влезет, да?"</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>16</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>17</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>18</ID>
+      <DefaultText>"Дверь запечатана? Но там же был... золотой прииск!"</DefaultText>
+      <FemaleText>"Дверь запечатана? Но там же был... золотой прииск!"</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>19</ID>
+      <DefaultText>"Давайте разберемся, как ее открыть".</DefaultText>
+      <FemaleText>"Давайте разберемся, как ее открыть".</FemaleText>
+    </Entry>
+  </Entries>
+</StringTableFile>

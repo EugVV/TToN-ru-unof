@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\c_bloom\c4111_caravan_guard_02</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>8</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>0</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>"Думаю, нам не стоит отлучаться куда-то сейчас".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>"Смотри, этот фургон здесь? Я должен вытащить его. Я что выгляжу так, как будто у меня есть время на разговоры с тобой? Пойди прочь".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>"Спасибо за то, что помог вытащить этот фургон. Я полагаю. Не думаю, что ты работал так же усердно, как и я".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>"Нет, я не могу разговаривать. Я работаю".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>"Они сказали мне, что ты открыл Торговый пост, а я постоянно говорил, что Цветение может заставить тебя видеть различные вещи".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>"Ну вот, фургон пропал. Но это не выглядит так, как будто на нас напали бандиты. Надеюсь, что мне все же заплатят".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>"Снова ты, да? Я не могу болтать с тобой целый день. У некоторых из нас есть настоящая работа".</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

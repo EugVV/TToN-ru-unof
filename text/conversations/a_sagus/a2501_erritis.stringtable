@@ -1,0 +1,320 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\a_sagus\a2501_erritis</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>59</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>"Если бы это извинение было дуэлью, я бы выиграл ее!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>"Я получу его прощение, или умру пытаясь!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>"Он так счастлив видеть меня снова, что он покраснел в лице и стал слегка дрожать!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>"Извини. Не могу говорить. Нужно помочь мастеру Реннио!"
+{SCRIPT: Script node 17 should only play this barks once Rennio is ready to release Erritis from service.}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>Эрритис смущенно поглядывает то на нового работодателя, то на землю и нервно перебирает пальцами. Золотистая аура вокруг него слегка потускнела, подобно пламени свечи на грани потухания. 
+
+Услышав ваши шаги, он поднимает голову, широко раскрыв глаза.
+
+"Я так рад, что ты здесь! У меня есть... Как они называются? То, что есть у людей, когда у них неинтересная и скучная жизнь без приключений?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>"Бутерброды?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText>"Нет, но это смешно!" — говорит он, хватая вас за руку. — "*Никогда* не понимал, за что их так любят. Это же просто хлеб с начинкой!" 
+
+Он потирает виски. "Ох, мои мысли становятся все *скучнее*. Я про слово на букву «С». Ссссс... са-со-со... Сожаления! Я сожалею! Я!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText>"Страхи?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>14</ID>
+      <DefaultText>"Что? Нет", — он берет вас за руку. "Кто сказал, что я боюсь? Я никогда ничего не боюсь! И я любого, кто посмеет сказать, что я трус, вызову на дуэль!" 
+
+Он потирает виски. "Я про слово на букву «С». Ссссс... са-со-со... Сожаления! Я сожалею! Я!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>15</ID>
+      <DefaultText>"Здесь ничего не происходит! Люди сходят с дирижаблей, жалуются на еду и на долгую поездку. Никто не ругается. Никто не дерется со стражами, не раскачивает с криками корабли и не бросается кинжалами! Мне нужно отсюда сваливать. Нужно..."
+
+Он бьет кулаком в грудь, полный решимости: "Нет! Я поклялся служить Реннио. Я должен отплатить ему! И так я и поступлю!"
+
+Он выпрямляется, кулаки сжаты на уровне бедер. "Ты хороший друг. Давай почаще так говорить!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>16</ID>
+      <DefaultText>::ерзает::</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>17</ID>
+      <DefaultText>"Сожаления?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>18</ID>
+      <DefaultText>"Да! В точку! Как с ними справляются обычные люди? Противные приставучие мысли... Я хочу прыгать! Бегать, сражаться и скакать, но нет!" Он опускает голову. 
+
+"Мне нужно *работать*", — стонет он.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>19</ID>
+      <DefaultText>::вздыхает::</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20</ID>
+      <DefaultText>"Я сомневался, но это новое для меня приключение, и все хорошо, как мне кажется".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>21</ID>
+      <DefaultText>"Только погляди! Работаю как нормальный человек!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>22</ID>
+      <DefaultText>"Я выплачу мой долг за считанные дни!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>23</ID>
+      <DefaultText>::ерзает::</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>24</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>25</ID>
+      <DefaultText>"Мне нужно, чтобы ты написал от моего имени письмо, Эрритис. Ты... ты же *умеешь* писать, да?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>26</ID>
+      <DefaultText>"Конечно умею! Кому пишем? Она красотка? Какие у нее глаза?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>27</ID>
+      <DefaultText>"Это не любовное послание, простофиля!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>28</ID>
+      <DefaultText>"Очень зря".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>29</ID>
+      <DefaultText>"Не могу разобрать, что ты накалякал. Что это за язык?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30</ID>
+      <DefaultText>"Ох, обычный язык. Только все буквы выглядят, как человечки".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>31</ID>
+      <DefaultText>"Это я вижу. А они... что они делают?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>32</ID>
+      <DefaultText>"Сражаются на мечах. А как иначе?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>33</ID>
+      <DefaultText>"Похоже, работать с документами ты не будешь. Отныне ты будешь носильщиком".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>34</ID>
+      <DefaultText>"Ну хорошо. Я буду превосходным телохранителем".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>35</ID>
+      <DefaultText>"Работа носильщика заключается не в этом".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>36</ID>
+      <DefaultText>"Что? Разве нет?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>37</ID>
+      <DefaultText>"Эрритис, почему мне жалуются, что ты скинул багаж пассажира с утеса?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>38</ID>
+      <DefaultText>"Потому что так все и было!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>39</ID>
+      <DefaultText>"Зачем? Зачем ты это сделал?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>40</ID>
+      <DefaultText>"У меня не было выбора. Правда, не было".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>41</ID>
+      <DefaultText>"Мы *не* спускаем багаж пассажиров по трапу!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>42</ID>
+      <DefaultText>"Не волнуйся. С ним все в порядке".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>43</ID>
+      <DefaultText>"С меня хватит! Твоя работа приносит мне больше убытков, чем прибыли! Будешь стоять вот тут, как мой телохранитель".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>44</ID>
+      <DefaultText>"Вы *не* пожалеете!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>45</ID>
+      <DefaultText>"Ты... ударил его! Прямо в лицо!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>46</ID>
+      <DefaultText>"Ах да! Но он что-то замышлял! Я уверен. У телохранителей на такое нюх!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>47</ID>
+      <DefaultText>"Ты *идиот*! Это был один из самых богатых и давних моих клиентов!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>48</ID>
+      <DefaultText>"Печально. Убийцами всегда оказываются те, на кого меньше всего думаешь".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>49</ID>
+      <DefaultText>"С меня хватит! Ты вредишь моему бизнесу! Уничтожаешь мою репутацию! Запугиваешь моих друзей!"
+{SCRIPT: This should play when Rennio is fed up (possibly day 3)}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>50</ID>
+      <DefaultText>"Они бы не убегали, сверкая пятками, если бы и правда были вам друзьями".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>51</ID>
+      <DefaultText>"Прошу тебя, просто уходи! Я прощаю тебе долг!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>52</ID>
+      <DefaultText>"Нет-нет! Так нечестно по отношению к вам. Я остаюсь".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>53</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>54</ID>
+      <DefaultText>"Уведите его, прошу вас".
+{SCRIPT: These three nodes play intermittently once all of the nodes above have played once, signalling that the PC can now recruit Erritis again. See Node 1.}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>55</ID>
+      <DefaultText>"Прошу, пусть он уйдет!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>56</ID>
+      <DefaultText>"Пожалуйста, пусть оставит меня в покое!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>58</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>59</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>60</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

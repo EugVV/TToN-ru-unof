@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\b_valleymielavest\b3302_aadiriis_midcrisis</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>9</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>Она обеспокоенно рассматривает место разрушения и обдумывает, что в первую очередь необходимо сделать. Она бросает на вас взгляд и говорит: "Надо действовать быстро. Нужно эвакуировать как можно больше людей".</DefaultText>
+      <FemaleText>Она обеспокоенно рассматривает место разрушения и обдумывает, что в первую очередь необходимо сделать. Она бросает на вас взгляд и говорит: "Надо действовать быстро. Нужно эвакуировать как можно больше людей".</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>"У меня мало времени. Скажи, что тебе нужно, и я помогу тебе, если смогу!"</DefaultText>
+      <FemaleText>"У меня мало времени. Скажи, что тебе нужно, и я помогу тебе, если смогу!"</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>Она отдает вам умело спроектированное стеклянное устройство. "Возьми это. Это устройство вновь вдохнет в них жизнь и вылечит их раны. Помоги своим братьям и сестрам!"</DefaultText>
+      <FemaleText>Она отдает вам умело спроектированное стеклянное устройство. "Возьми это. Это устройство вновь вдохнет в них жизнь и вылечит их раны. Помоги своим братьям и сестрам!"</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>Спросите, знает ли она что-нибудь, что помогло бы собрать еще больше людей.</DefaultText>
+      <FemaleText>Спросите, знает ли она что-нибудь, что помогло бы собрать еще больше людей.</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>Уйти.</DefaultText>
+      <FemaleText>Уйти.</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>"Сосредоточься на *мне*!"</DefaultText>
+      <FemaleText>"Сосредоточься на *мне*!"</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText>"Пустая трата времени. Все впустую..."</DefaultText>
+      <FemaleText>"Пустая трата времени. Все впустую..."</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText>"Спасай кого можешь и беги!"</DefaultText>
+      <FemaleText>"Спасай кого можешь и беги!"</FemaleText>
+    </Entry>
+  </Entries>
+</StringTableFile>

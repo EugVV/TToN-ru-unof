@@ -1,0 +1,463 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\companions\companion_rhin_stage4</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>87</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>"{испуганно}Ты... что-то хотел?" Рин выглядит бледнее обычного.</DefaultText>
+      <FemaleText>"{испуганно}Ты... что-то хотела?" Рин выглядит бледнее обычного.</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>"Расскажи о себе".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>"Я снова хочу поговорить о тебе".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>"Как у тебя дела?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>"Поговорим о тех, с кем путешествуем".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText>"Нам лучше разделиться".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>14</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>15</ID>
+      <DefaultText>"Продолжим".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>16</ID>
+      <DefaultText>"{Scared}Точно." ::дрожит::</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>17</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>18</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>19</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>21</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>23</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>24</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>25</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>26</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>27</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>28</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>29</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>31</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>32</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>34</ID>
+      <DefaultText>"Мы вернемся за ними, но сейчас это важнее."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>35</ID>
+      <DefaultText>"Я не могу. Мы не знаем как попасть в Эн-тозон, чтобы открыть его Пасть."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>36</ID>
+      <DefaultText>"Все хорошо. Давайте доберемся до дома, пока мы не наделали чего-нибудь еще".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>38</ID>
+      <DefaultText>{взволнованно, почти в панике}"Подожди! Не ходи туда. Сначала ты должен отправить меня домой!" Она хватает вас за руку и удерживает.
+
+{SCRIPT: Needs to force start if the player is about to end the Bloom, so if:
+- Rhin knows Aen-Tozon has her portal home (c4301_AenTozon_RhinAndAenTozon == 2).
+- The player has the Talisman.
+- The party is about to transition to Memovira's Fortress from the Courtyard.
+
+The player should never be able to get to the Memovira with the Talisman and Rhin so long as Rhin knows her way home is here in the Bloom.}</DefaultText>
+      <FemaleText>{взволнованно, почти в панике}"Подожди! Не ходи туда. Сначала ты должна отправить меня домой!" Она хватает вас за руку и удерживает.</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>39</ID>
+      <DefaultText>{в панике}"Стой! {с непониманием, почти сердито}Куда мы? Ты же обещал вернуть меня домой!" — Рин опять хватает вас за руку. На лице ее смесь удивления и гнева.</DefaultText>
+      <FemaleText>{в панике}"Стой! {с непониманием, почти сердито}Куда мы? Ты же обещала вернуть меня домой!" — Рин опять хватает вас за руку. На лице её смесь удивления и гнева.</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>40</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>41</ID>
+      <DefaultText>Вдруг она разворачивается, бежит в темные коридоры Цветения и почти сразу скрывается из вида. Слышно лишь эхо сдавленных рыданий.
+
+{VO/SOUND: Рыдания Рин, звучат на выходе. (Тот же самый звук, как в сцене 4, где она убегает).}
+{SCRIPT: Rhin runs off-screen, or at least fade to black and make Rhin disappear.}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>42</ID>
+      <DefaultText>"Я солгал. Ты нужна мне, Рин".</DefaultText>
+      <FemaleText>"Я солгала. Ты нужна мне, Рин".</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>43</ID>
+      <DefaultText>"Ты прав. Давай же это сделаем".</DefaultText>
+      <FemaleText>"Ты права. Давай же это сделаем".</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>44</ID>
+      <DefaultText>"Верно". Она кивает, ее рот сильно искривляется. "Я не вернусь к этому, что бы там ни было, слышишь меня? Я *возвращаюсь домой*..."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>45</ID>
+      <DefaultText>Ее напряжение заметно спадает. "Спасибо тебе".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>46</ID>
+      <DefaultText>"Я возвращаюсь домой!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>47</ID>
+      <DefaultText>"Я знаю, это важно, но..." Она шаркает ногой по земле. "Что если здесь что-то случиться - с тобой, или со мной? Что если *тварь* придет за тобой снова, как она сделала это в убежище?"
+
+Она смотрит на тебя снизу вверх, ее глаза широко раскрыты, а взгляд умоляющий. "Что если у меня не будет больше такого шанса? Я знаю, что найти Первую Отверженную очень важно для тебя, но это... это мой *дом*, и он *прямо здесь*. Нам нужно попытаться!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>48</ID>
+      <DefaultText>"Тогда нам нужно ее вычислить!" Ее глаза расширились, взгляд умоляющий. "Что если здесь что-то случиться - с тобой, или со мной? Что если *тварь* придет за тобой снова, как она сделала это в убежище?"
+
+Она отворачивается, ее голос дрожит. "Что если у меня не будет больше такого шанса? Мне *нужно* использовать этот шанс".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>49</ID>
+      <DefaultText>"Ты нужна мне, Рин. Я не хочу идти туда без тебя".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>50</ID>
+      <DefaultText>"Я знаю, что ты заботишься обо мне, но это мой *дом*". Она делает глубокий вдох, как будто собираясь с духом. Она встречается с тобой взглядом, более уверенная, чем ты когда-либо ее видел. "Я должна попытаться - но... сама, если я должна. Ты понимаешь? Я *не могу* торчать здесь".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>51</ID>
+      <DefaultText>"Я не нуждаюсь в тебе", говорит она, направив взгляд на свои ноги. "Если ты не поможешь мне, тогда я сама найду способ, как добраться домой. Я *должна*".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>52</ID>
+      <DefaultText>"Тогда иди. И удачи тебе".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>53</ID>
+      <DefaultText>"Тогда иди. Мы не нуждаемся в тебе".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>54</ID>
+      <DefaultText>{в ярости от предательства}"И думать забудь! Ты все обещаешь меня вернуть домой, а сам не возвращаешь. Я больше не верю тебе. Я... {неуверенно, но твердо}Я вернусь домой сама!"</DefaultText>
+      <FemaleText>{в ярости от предательства}"И думать забудь! Ты всё обещаешь меня вернуть домой, а сама не возвращаешь. Я больше не верю тебе. Я... {неуверенно, но твёрдо}Я вернусь домой сама!"</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>55</ID>
+      <DefaultText>"Все будет хорошо. Мы *вернемся* обратно".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>56</ID>
+      <DefaultText>Она качает своей головой. "Я потеряла уже так много. Я не... Я не думаю, что мне следует испытывать судьбу. Только не это".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>57</ID>
+      <DefaultText>Она задерживает дыхание в удивлении, но затем быстро сжимает свой рот в жесткую гримасу и кивает.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>58</ID>
+      <DefaultText>Она кивает, все еще продолжая смотреть на свои ноги.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>61</ID>
+      <DefaultText>"... поможешь ты мне или нет".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>62</ID>
+      <DefaultText>"Ты... что?" Больно видеть на ее лице предательский взгляд. "Я... Нет! Нет, я иду домой... не важно, поможешь ты мне или нет!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>63</ID>
+      <DefaultText>Она терпеливо наблюдает за вами.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>64</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>65</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>66</ID>
+      <DefaultText>"Что?! Но мы уже так близки. Я *знаю* дорогу домой. Мы просто должны открыть ее!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>67</ID>
+      <DefaultText>"Нет! Если ты не поможешь мне, тогда... тогда я сделаю это сама!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>68</ID>
+      <DefaultText>"Ты должна будешь открыть ее сама. Мы закончили".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>69</ID>
+      <DefaultText>"Ты права. Забудь, что я сказал".</DefaultText>
+      <FemaleText>"Ты права. Забудь, что я сказала".</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>71</ID>
+      <DefaultText>"Хорошо". Она вытирает рукой свой нос. "Я просто..."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>72</ID>
+      <DefaultText>"...забудь об этом".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>73</ID>
+      <DefaultText>Она несколько раз открывает и закрывает свой рот, но так ничего и не произносит.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>74</ID>
+      <DefaultText>Затем она плюет куда-то рядом со своим носком и убегает от тебя. Ты теряешь ее из вида практически сразу. Издалека слышаться приглушенные рыдания.
+
+{VO/SOUND: Rhin sobs, plays on exit. (This is the same sound as in her multistage farewell node and in node 41 of this conversation).}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>75</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>76</ID>
+      <DefaultText>"Я не знаю. Я думала..." Она оседает. "Я просто жаждала этого. Я не помню его. Я не помню... но я также не помню многих вещей".
+
+Она качает своей головой. "Может нам следует поговорить с ним снова. Просто на всякий случай".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>77</ID>
+      <DefaultText>"Я не помню... Я не знаю. Я бы вспомнила, если бы видела его раньше, не правда ли? Если бы я бывала в этом ужасном месте?" Она качает своей головой. "Может давайте посмотрим, что мы можем сделать. Просто на всякий случай".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>78</ID>
+      <DefaultText>"Мы должны!" Она смотрит на тебя с интересом, наверняка догадываясь, что ты знаешь, о чем она говорит. "Мы должны открыть эту... Пасть или что там еще в Эн-тозоне. Я могу пойти домой!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>79</ID>
+      <DefaultText>"Я рада, что осталась с тобой. Это было правильное решение". Она кивает сама себе. "Ты что-то хотел?"</DefaultText>
+      <FemaleText>"Я рада, что осталась с тобой. Это было правильное решение". Она кивает сама себе. "Ты что-то хотела?"</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>81</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>82</ID>
+      <DefaultText>"Ч-что?" Она улыбается полуулыбкой. "Ты шутишь, конечно. Мы семья.. не так ли?"
+
+Ее улыбка достаточно быстро исчезает.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>83</ID>
+      <DefaultText>Она нахмуривается. "Это больше уже не смешно".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>84</ID>
+      <DefaultText>"Я не шучу, мы не семья. Я должен оставить тебя здесь. Сейчас".</DefaultText>
+      <FemaleText>"Я не шучу, мы не семья. Я должна оставить тебя здесь. Сейчас".</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>85</ID>
+      <DefaultText>"Извини, я не имел это ввиду. Давай продолжим."</DefaultText>
+      <FemaleText>"Извини, я не имела это ввиду. Давай продолжим."</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>86</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>87</ID>
+      <DefaultText>"Ты вела себя как-то странно возле Эн-тозона. Почему?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>88</ID>
+      <DefaultText>"Почему ты вела себя странно возле Эн-тозона на этот раз?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>89</ID>
+      <DefaultText>"Я не знаю". Она качает своей головой. "Может быть нам следует посмотреть, что он может делать, просто на всякий случай".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>90</ID>
+      <DefaultText>Она выглядит так, как будто хочет что-то сказать, затем она замолкает. Это происходит уже третий раз, прежде чем она прекращает свои попытки.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>91</ID>
+      <DefaultText>"Ты хотела о чем-то поговорить?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>93</ID>
+      <DefaultText>"У меня нет на это времени."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>94</ID>
+      <DefaultText>"Да. Нет." Она прикрывает свой рот ладонью. "Ничего страшного."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>95</ID>
+      <DefaultText>"Прости!"</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

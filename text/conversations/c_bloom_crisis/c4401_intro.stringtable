@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\c_bloom_crisis\c4401_intro</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>2</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>Вы оказываетесь в комнате из сырой пульсирующей плоти. Здесь отчетливо слышно биение.
+
+Слабый шепот доносится до вас, приглашая пройти внутрь комнаты. Плоть Цветения под вашими ногами дрожит от волнения и предвкушения.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>Вы оказываетесь в комнате из сырой пульсирующей плоти. Здесь отчетливо слышно биение.
+
+Плоть Цветения под вашими ногами дрожит и вздымается, словно ваше прикосновение вызывает у нее отвращение. Цветение *возненавидело* вас за то время, пока вы находитесь в нем. Все его сознание теперь сосредоточено на вас и готовится выплеснуть свою ярость.</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

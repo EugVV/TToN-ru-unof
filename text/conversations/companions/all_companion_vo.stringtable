@@ -1,0 +1,6805 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\companions\all_companion_vo</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>1359</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>"Хорошо".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>"Хорошо".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>"За дело".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>"Готово".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>"Это идея".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>"Уже делаю".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>"Уже иду".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>"Приступим".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>"Да".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>"Будет сделано".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText>"Готов учиться новому".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>14</ID>
+      <DefaultText>"Хороший выбор".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>15</ID>
+      <DefaultText>"Я готов к любым испытаниям".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>16</ID>
+      <DefaultText>"Я чувствую себя сильнее. Правильное было решение".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>17</ID>
+      <DefaultText>"Хорошо".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>18</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>19</ID>
+      <DefaultText>"Хочешь еще?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20</ID>
+      <DefaultText>"Какая мелочь".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>21</ID>
+      <DefaultText>"Ты это видел?"</DefaultText>
+      <FemaleText>"Ты это видела?"</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>22</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>23</ID>
+      <DefaultText>"Даже жалко тратить на это время".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>24</ID>
+      <DefaultText>"В следующей жизни..."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>25</ID>
+      <DefaultText>"Кто на очереди? *Кто следующий?*"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>26</ID>
+      <DefaultText>"Черт! Даже не поцарапал!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>27</ID>
+      <DefaultText>"Я почти даже не задел. Попробуй что-то другое!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>28</ID>
+      <DefaultText>"Ну как, больно? То-то!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>29</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30</ID>
+      <DefaultText>"Черт побери!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>31</ID>
+      <DefaultText>"Ты за это заплатишь!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>32</ID>
+      <DefaultText>"Бывало и хуже".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>33</ID>
+      <DefaultText>{angry}"Ты следующий!"</DefaultText>
+      <FemaleText>{angry}"Ты следующая!"</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>34</ID>
+      <DefaultText>"О боги!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>35</ID>
+      <DefaultText>{urgent}"Видишь те клапаны? Проберешься через низ — сможешь попасть внутрь!"</DefaultText>
+      <FemaleText>{urgent}"Ты видела эти клапаны? Пройдешь сквозь них, и ты попадешь внутрь!"</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>36</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>37</ID>
+      <DefaultText>"Разберись с ними! Давай!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>38</ID>
+      <DefaultText>"Сдохни!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>39</ID>
+      <DefaultText>{grim, determined}"Да!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>40</ID>
+      <DefaultText>"Они застряли в своих мыслях. Нам нужно как-то пробраться мимо них".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>41</ID>
+      <DefaultText>"Я не подпущу его к клетке. А ты должен его остановить".</DefaultText>
+      <FemaleText>"Я не подпущу его к клетке. А ты должна его остановить".</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>42</ID>
+      <DefaultText>"Кто-нибудь последует за ним. Остальные могут взять устройство".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>43</ID>
+      <DefaultText>"Не пускайте Первую! Не пускайте ее!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>44</ID>
+      <DefaultText>"Скорбь вообще останавливается? Хоть *когда-нибудь*?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>45</ID>
+      <DefaultText>"Попробуй добраться до генераторов щита — мы здесь долго не продержимся!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>46</ID>
+      <DefaultText>"Может, попробуем поймать или уничтожить эти штуки подручными средствами?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>47</ID>
+      <DefaultText>"Не привлекай их внимание, не глупи!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>48</ID>
+      <DefaultText>"Слишком много шифров... Давно я себя так не чувствовал".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>49</ID>
+      <DefaultText>"Вокруг меня витают энергии шифров. Не к добру это".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>50</ID>
+      <DefaultText>"Эти шифры меня доконают. Нужно избавиться от парочки".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>51</ID>
+      <DefaultText>{корчась от боли}"Это не входило в мои планы".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>52</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>53</ID>
+      <DefaultText>"Спаси меня. Ты должен... меня спасти".</DefaultText>
+      <FemaleText>"Спаси меня. Ты должна... меня спасти".</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>54</ID>
+      <DefaultText>{gasping}"Еще не конец... Я еще жив..."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>55</ID>
+      <DefaultText>{gasping}"Ты... предал... меня".</DefaultText>
+      <FemaleText>{gasping}"Ты... предала... меня".</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>56</ID>
+      <DefaultText>"Пригодится".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>57</ID>
+      <DefaultText>"Хорошая штука".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>58</ID>
+      <DefaultText>"Готов протестировать ее".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>59</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>60</ID>
+      <DefaultText>{grim}"Ты сам напросился".</DefaultText>
+      <FemaleText>{grim}"Ты сама напросилась".</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>61</ID>
+      <DefaultText>"Хочешь отведать силы богатырской?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>62</ID>
+      <DefaultText>{pissed off}"Ты *этого* хотел?"</DefaultText>
+      <FemaleText>{pissed off}"Ты *этого* хотела?"</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>63</ID>
+      <DefaultText>"Тогда умри!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>64</ID>
+      <DefaultText>"Давай покончим с этим!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>65</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>66</ID>
+      <DefaultText>"Ненавижу применять эти штуки — как будто вытягиваешь воспоминания наружу".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>67</ID>
+      <DefaultText>"Как будто вытаскиваешь занозу".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>68</ID>
+      <DefaultText>"Похоже, они никогда не закончатся".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>69</ID>
+      <DefaultText>""</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>70</ID>
+      <DefaultText>"Что?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>71</ID>
+      <DefaultText>"И я далеко не невзрачный".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>72</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>73</ID>
+      <DefaultText>"Мы же ничего не делали, верно?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>74</ID>
+      <DefaultText>"Гадаешь, что происходит в Ормене?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>75</ID>
+      <DefaultText>"Ну же, пошли".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>76</ID>
+      <DefaultText>{through gritted teeth}"Со мной все будет хорошо".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>77</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>78</ID>
+      <DefaultText>"Этот город — настоящая клоака".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>79</ID>
+      <DefaultText>"Ненавижу города — в них слишком людно".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>80</ID>
+      <DefaultText>"Должен признать, они проделали серьезную работу в городе".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>81</ID>
+      <DefaultText>"Когда слишком людно, я начинаю нервничать".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>82</ID>
+      <DefaultText>"Город наверху не смог бы выжить без Подбрюшья".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>83</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>84</ID>
+      <DefaultText>"С тех пор, как я узнал об этом, я старался держаться подальше от этого места".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>85</ID>
+      <DefaultText>"Это что — пищевод?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>86</ID>
+      <DefaultText>"Я ничего не имею против сброда в Цветении".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>87</ID>
+      <DefaultText>"И кто захочет тут править? Это же настоящее захолустье".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>88</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>89</ID>
+      <DefaultText>"Нам лучше здесь не задерживаться".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>90</ID>
+      <DefaultText>"Долина никогда не меняется".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>91</ID>
+      <DefaultText>"Эта Долина всегда казалась мне такой спокойной".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>92</ID>
+      <DefaultText>"Кто разорил это место? Монстры, конечно".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>93</ID>
+      <DefaultText>{short, sharp} "Ха!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>94</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>95</ID>
+      <DefaultText>"Нет".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>96</ID>
+      <DefaultText>"Нет. И больше не спрашивай".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>97</ID>
+      <DefaultText>"Ни за что".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>98</ID>
+      <DefaultText>"Я знал, что не стоит браться за это задание. Я так и *знал*".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>99</ID>
+      <DefaultText>"Черт, Эрритис! Не вздумай умирать!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>100</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>101</ID>
+      <DefaultText>"Тебе не удастся уйти так просто, отверженный".</DefaultText>
+      <FemaleText>"Тебе не удастся уйти так просто, отверженная".</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>102</ID>
+      <DefaultText>"Вставай, отверженный. Ты еще не умер".</DefaultText>
+      <FemaleText>"Вставай, отверженная. Ты еще не умерла".</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>103</ID>
+      <DefaultText>"Это было... Вполне ожидаемо".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>104</ID>
+      <DefaultText>"Черт тебя дери, отверженный! Ну не так же!"</DefaultText>
+      <FemaleText>"Черт тебя дери, отверженная! Ну не так же!"</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>105</ID>
+      <DefaultText>"Мэткина, ты не умерла. Так что, давай, поднимайся".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>106</ID>
+      <DefaultText>"Это штука вообще не *умирает*?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>107</ID>
+      <DefaultText>"Ее кровь на твоих руках, отверженный".</DefaultText>
+      <FemaleText>"Ее кровь на твоих руках, отверженная".</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>108</ID>
+      <DefaultText>{frown} "Я уж точно не буду скучать по этому старому вояке".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>109</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>110</ID>
+      <DefaultText>"Может, отдохнешь еще немного?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>111</ID>
+      <DefaultText>"Не будем терять времени, отверженный. Идем".</DefaultText>
+      <FemaleText>"Не будем терять времени, отверженная. Идем".</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>112</ID>
+      <DefaultText>"Ты пришел в себя. Наконец-то".</DefaultText>
+      <FemaleText>"Ты пришла в себя. Наконец-то".</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>113</ID>
+      <DefaultText>"Тебе действительно нравится все время умирать и воскресать? А то частенько это делаешь".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>114</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>115</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>116</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>117</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>118</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>119</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>120</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>121</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>122</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>123</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>124</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>125</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>126</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>127</ID>
+      <DefaultText>"Видишь, что я страдаю? Может, тебе следует мне помочь?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>128</ID>
+      <DefaultText>{urgent} "Не оставляй меня умирать, отверженный".</DefaultText>
+      <FemaleText>{urgent} "Не оставляй меня умирать, отверженная".</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>129</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>130</ID>
+      <DefaultText>"Спасибо".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>131</ID>
+      <DefaultText>"Так-то лучше".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>132</ID>
+      <DefaultText>"Ты даже не представляешь... Спасибо тебе".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>133</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>134</ID>
+      <DefaultText>"Уф! Так не должно быть."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>135</ID>
+      <DefaultText>"Именем Черной Тройки!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>136</ID>
+      <DefaultText>"Что *это* было? Я чувствую себя ужасно".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>137</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>138</ID>
+      <DefaultText>"Готов бросить вызов миру".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>139</ID>
+      <DefaultText>"Кто нас теперь остановит?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>140</ID>
+      <DefaultText>"Кажется... Все будет хорошо".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>141</ID>
+      <DefaultText>"Ух... Что произошло, пока меня не было?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>142</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>143</ID>
+      <DefaultText>"Ничего не нашел".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>144</ID>
+      <DefaultText>"Здесь ничего нет".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>145</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>146</ID>
+      <DefaultText>"Нашел!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>147</ID>
+      <DefaultText>"Сюда!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>148</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>149</ID>
+      <DefaultText>"Да?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>150</ID>
+      <DefaultText>"Что?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>151</ID>
+      <DefaultText>"Не дави на меня".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>152</ID>
+      <DefaultText>"Хорошо".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>153</ID>
+      <DefaultText>"Что тебе надо?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>154</ID>
+      <DefaultText>"Мне нужно с тобой поговорить".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>155</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>156</ID>
+      <DefaultText>"Я окружен! На помощь!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>157</ID>
+      <DefaultText>"Вытащи меня отсюда!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>158</ID>
+      <DefaultText>"Нам нужно скорее уходить".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>159</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>160</ID>
+      <DefaultText>"На помощь! Сюда!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>161</ID>
+      <DefaultText>"Я себя паршиво чувствую, дружище. Мне нужна помощь".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>162</ID>
+      <DefaultText>"Черт! Запорол!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>163</ID>
+      <DefaultText>"Разобрался".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>164</ID>
+      <DefaultText>"Узнал пару новых приемов".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>165</ID>
+      <DefaultText>"Давай отсидимся, силы восстановим".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>166</ID>
+      <DefaultText>"Так не пойдет".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>167</ID>
+      <DefaultText>"Я это не сниму".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>168</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>169</ID>
+      <DefaultText>"Ну же!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>170</ID>
+      <DefaultText>"Я не хочу делать тебе больно..."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>171</ID>
+      <DefaultText>"Беги пока цел!"</DefaultText>
+      <FemaleText>"Беги пока цела!"</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>172</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>173</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>174</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>175</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>176</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>177</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>178</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>179</ID>
+      <DefaultText>"Черт!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>180</ID>
+      <DefaultText>"Мимо!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>181</ID>
+      <DefaultText>"В следующий раз!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>182</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>183</ID>
+      <DefaultText>"Хорошо".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>184</ID>
+      <DefaultText>"Конечно".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>185</ID>
+      <DefaultText>"Да".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>186</ID>
+      <DefaultText>"Что это еще за *кошмар*?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>187</ID>
+      <DefaultText>"Нам нужно выбираться отсюда. *Быстро*".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>188</ID>
+      <DefaultText>"Боги, Бесконечная Битва... Никогда не хотел сюда попасть".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>189</ID>
+      <DefaultText>"Это оборудование... Я уже видел нечто такое".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>190</ID>
+      <DefaultText>"Обычно Долина не столь... оживленная".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>191</ID>
+      <DefaultText>"Так это *здесь* вы все трудитесь над уничтожением мира, да?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>192</ID>
+      <DefaultText>"Нам придется найти другой выход!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>193</ID>
+      <DefaultText>"Выйдем через ту пирамиду! Вперед!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>194</ID>
+      <DefaultText>"Странные вещи творятся в твоем разуме, дружище".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>195</ID>
+      <DefaultText>"Никогда не был внутри. И никогда не хотел оказаться внутри".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>196</ID>
+      <DefaultText>"Все эти страдания — от ее гордыни".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>197</ID>
+      <DefaultText>"Посмотри на этих двоих. Их ссора превратилась в войну, которая продлилась столетия".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>198</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>199</ID>
+      <DefaultText>"Как угодно".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>200</ID>
+      <DefaultText>"Значит, в этом мире".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>201</ID>
+      <DefaultText>"С радостью".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>202</ID>
+      <DefaultText>"Позволь мне".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>203</ID>
+      <DefaultText>"Да, дитя".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>204</ID>
+      <DefaultText>"Посмотрим".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>205</ID>
+      <DefaultText>"Мигом".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>206</ID>
+      <DefaultText>"Да".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>207</ID>
+      <DefaultText>"Готово".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>208</ID>
+      <DefaultText>"Конечно".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>209</ID>
+      <DefaultText>"Мои знания приносят плоды".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>210</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>211</ID>
+      <DefaultText>"Многообещающий выбор".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>212</ID>
+      <DefaultText>"Достойная цель".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>213</ID>
+      <DefaultText>"Да, я поддерживаю".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>214</ID>
+      <DefaultText>"Теперь меня никто не остановит".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>215</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>216</ID>
+      <DefaultText>"Как и должно было быть!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>217</ID>
+      <DefaultText>"И *тут* вероятность потерпела крах".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>218</ID>
+      <DefaultText>"Ты даже не заметил".</DefaultText>
+      <FemaleText>"Ты даже не заметила".</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>219</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>220</ID>
+      <DefaultText>"Еще один выведен из строя".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>221</ID>
+      <DefaultText>"Бойся моей силы".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>222</ID>
+      <DefaultText>"Передо мной никто не устоит".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>223</ID>
+      <DefaultText>"Бесполезно! Эта реальность бросает мне вызов!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>224</ID>
+      <DefaultText>"Эффект минимальный. Неужели мои расчеты неверны?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>225</ID>
+      <DefaultText>"Как я и предполагала. Давай еще раз!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>226</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>227</ID>
+      <DefaultText>"Это была твоя роковая ошибка!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>228</ID>
+      <DefaultText>"Собака!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>229</ID>
+      <DefaultText>"Ты мне заплатишь за это!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>230</ID>
+      <DefaultText>"Ты не посмеешь!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>231</ID>
+      <DefaultText>"Я тебя уничтожу!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>232</ID>
+      <DefaultText>"Клапаны — это вход. Сосредоточься на них!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>233</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>234</ID>
+      <DefaultText>"Наши друзья хотят поиграть? Так давай развлечем их".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>235</ID>
+      <DefaultText>"Мы победим. Я предвидела это".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>236</ID>
+      <DefaultText>"Вперед, затем к победе!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>237</ID>
+      <DefaultText>"Мы должны как-то пробраться мимо твоих собратьев, отверженный. Это наша единственная надежда".</DefaultText>
+      <FemaleText>"Мы должны как-то пробраться мимо твоих собратьев, отверженная. Это наша единственная надежда".</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>238</ID>
+      <DefaultText>"Мы не можем позволить ему открыть эту клетку, иначе все потеряно!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>239</ID>
+      <DefaultText>"Мы должны попасть в эту камеру, дружище, и кто-то должен последовать за этим ласкаром".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>240</ID>
+      <DefaultText>"Если мы не остановим Мемовиру, вы все умрете. Следи за резонансной камерой!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>241</ID>
+      <DefaultText>"Следи за резонансной камерой, отверженный! Это единственное, что от тебя требуется!"</DefaultText>
+      <FemaleText>"Следи за резонансной камерой, отверженная! Это единственное, что от тебя требуется!"</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>242</ID>
+      <DefaultText>{intent, focused, not letting fear take over} "Оглянись вокруг. Твой создатель хорошо строил, и если нам удастся активировать генераторы щита, мы, возможно, выживем".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>243</ID>
+      <DefaultText>"В машинах заложена информация о том, как победить эти фрагменты. Используй их!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>244</ID>
+      <DefaultText>"Нам лучше избегать открытого столкновения с этими созданиями. Отвлеки их как-нибудь".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>245</ID>
+      <DefaultText>"У меня неприятное ощущение. Убери пару шифров, пожалуйста".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>246</ID>
+      <DefaultText>"Давно я не носила столько шифров. Так и учусь на своих ошибках".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>247</ID>
+      <DefaultText>"Убери эти шифры. Еще немного, и я пострадаю".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>248</ID>
+      <DefaultText>"Я изуродована... во всех своих жизнях".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>249</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>250</ID>
+      <DefaultText>{scream, fading out across the spectrum}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>251</ID>
+      <DefaultText>{whispering} "Ты... подвел меня... отверженный..."</DefaultText>
+      <FemaleText>{whispering} "Ты... подвела меня... отверженная..."</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>252</ID>
+      <DefaultText>{weakly} "Мои сестры... отомстят за меня".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>253</ID>
+      <DefaultText>"Это мое, и никто этого у меня не отнимет".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>254</ID>
+      <DefaultText>"Какая прелестная побрякушка".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>255</ID>
+      <DefaultText>"Полезная штука. Большое спасибо".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>256</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>257</ID>
+      <DefaultText>"Смотри и учись".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>258</ID>
+      <DefaultText>"Ты мне не ровня".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>259</ID>
+      <DefaultText>"Кое-что я узнала..."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>260</ID>
+      <DefaultText>"Иди, вкуси своей смерти".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>261</ID>
+      <DefaultText>"Я владею секретами древних!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>262</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>263</ID>
+      <DefaultText>"Мои сестры передают мне силы".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>264</ID>
+      <DefaultText>"Вероятности рушатся, когда я появляюсь".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>265</ID>
+      <DefaultText>"Волны сталкиваются в единой реальности"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>266</ID>
+      <DefaultText>"Да, дорогуша?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>267</ID>
+      <DefaultText>"Бесполезно".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>268</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>269</ID>
+      <DefaultText>"Все чудеса созидания у нас под рукой, а мы все бездействуем".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>270</ID>
+      <DefaultText>"Не мешай мне. Мне хватает и моих сестер".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>271</ID>
+      <DefaultText>"Зачем мы тратим время? Я думала, ты на задании".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>272</ID>
+      <DefaultText>"Невероятно, меня ранили".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>273</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>274</ID>
+      <DefaultText>"Город переполнен вероятностями".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>275</ID>
+      <DefaultText>"В этом городе так много истории. Жаль, что у нас нет времени, чтобы исследовать его".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>276</ID>
+      <DefaultText>"Жаль, что никто здесь никогда не оценит настоящего гения".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>277</ID>
+      <DefaultText>{satisfied}"Можно *почувствовать* энергию города".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>278</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>279</ID>
+      <DefaultText>"Никогда не понимала, что такого в этом месте. Однако люди по-прежнему живут здесь".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>280</ID>
+      <DefaultText>"Я чувствую голод Цветения. И молюсь, чтобы оно меня не заметило".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>281</ID>
+      <DefaultText>"Ты чувствуешь это? Чувствуешь? Здесь воздух наполнен ненавистью".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>282</ID>
+      <DefaultText>"Боги, Цветение простирается и на мои реальности".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>283</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>284</ID>
+      <DefaultText>"Так много памятников, и так мало заслуживающих, чтобы их помнили".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>285</ID>
+      <DefaultText>"Кто помнит об этих умерших?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>286</ID>
+      <DefaultText>"Как долго мы еще будем здесь?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>287</ID>
+      <DefaultText>"Солько забытых знаний в этих мертвецах".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>288</ID>
+      <DefaultText>::смех::</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>289</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>290</ID>
+      <DefaultText>"И речи быть не может".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>291</ID>
+      <DefaultText>"Я вынуждена отказаться".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>292</ID>
+      <DefaultText>"Ни в этой реальности, ни в любой другой".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>293</ID>
+      <DefaultText>"Тяжелый урок, полученный слишком рано".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>294</ID>
+      <DefaultText>"Жаль, что у меня не было возможности изучить его поближе".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>295</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>296</ID>
+      <DefaultText>{matter of fact, unafraid}"Ты не можешь умереть".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>297</ID>
+      <DefaultText>"Я уже видела, как ты умирал, отверженный. Вставай".</DefaultText>
+      <FemaleText>"Я уже видела, как ты умирала, отверженная. Вставай".</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>298</ID>
+      <DefaultText>"Ты решил наступить на все возможные грабли?"</DefaultText>
+      <FemaleText>"Ты решила наступить на все возможные грабли?"</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>299</ID>
+      <DefaultText>"Я от тебя ожидала большего, дорогуша. Это был... урок".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>300</ID>
+      <DefaultText>"О, Мэткина. Попробуй еще раз".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>301</ID>
+      <DefaultText>"Разве такая штука вообще может умереть? Думаю, мы когда-нибудь узнаем".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>302</ID>
+      <DefaultText>"Ее смерть на твоей совести, отверженный".</DefaultText>
+      <FemaleText>"Ее смерть на твоей совести, отверженная".</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>303</ID>
+      <DefaultText>{droll} "Как жаль, что Тибира нет с нами. Чем бы мы ни занялись".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>304</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>305</ID>
+      <DefaultText>"Мы долго ждали, дорогуша. Продолжим?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>306</ID>
+      <DefaultText>"Идем, хватит мешкать. Впереди нас ждет целый мир!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>307</ID>
+      <DefaultText>"Хватит валяться, дорогуша. Вставай!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>308</ID>
+      <DefaultText>"Должна признать, ты умудрился найти способ умереть почти во всех реальностях".</DefaultText>
+      <FemaleText>"Должна признать, ты умудрилась найти способ умереть почти во всех реальностях".</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>309</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>310</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>311</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>312</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>313</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>314</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>315</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>316</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>317</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>318</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>319</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>320</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>321</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>322</ID>
+      <DefaultText>"Нужна помощь".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>323</ID>
+      <DefaultText>"Исключено... Просто исключено. Я так помирать не собираюсь".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>324</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>325</ID>
+      <DefaultText>"Большое спасибо".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>326</ID>
+      <DefaultText>"Спасибо, дорогуша. Так-то лучше".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>327</ID>
+      <DefaultText>"Отлично. Спасибо".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>328</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>329</ID>
+      <DefaultText>"Отвратительно. Избавь меня от этого".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>330</ID>
+      <DefaultText>"Мне нужно придумать, как избавиться от этого".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>331</ID>
+      <DefaultText>"Невероятно! ...Но, к сожалению, действенно".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>332</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>333</ID>
+      <DefaultText>"Прекрасно".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>334</ID>
+      <DefaultText>{spritely} "Что ж, *я* чувствую себя лучше".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>335</ID>
+      <DefaultText>"Мы согласны".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>336</ID>
+      <DefaultText>"Я даже *не* успела этого заметить".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>337</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>338</ID>
+      <DefaultText>"Я ничего не нашла".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>339</ID>
+      <DefaultText>"Здесь никого нет".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>340</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>341</ID>
+      <DefaultText>"Сюда!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>342</ID>
+      <DefaultText>"Ты от меня не уйдешь!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>343</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>344</ID>
+      <DefaultText>"Да?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>345</ID>
+      <DefaultText>"Хм-м?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>346</ID>
+      <DefaultText>"Так что?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>347</ID>
+      <DefaultText>"Да, дитя?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>348</ID>
+      <DefaultText>"Чем я могу тебе помочь?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>349</ID>
+      <DefaultText>"Случай сюда, дорогуша. Я должна кое-что тебе сказать".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>350</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>351</ID>
+      <DefaultText>"Они думают, что окружили меня". {laughs}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>352</ID>
+      <DefaultText>"Вы не можете остановить меня, тупицы".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>353</ID>
+      <DefaultText>"Нам нужно уходить! Здесь небезопасно!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>354</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>355</ID>
+      <DefaultText>"Моя связь с этой реальностью слабеет!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>356</ID>
+      <DefaultText>"Я должна уйти и восстановиться".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>357</ID>
+      <DefaultText>"Невероятно, но я оплошала".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>358</ID>
+      <DefaultText>"Это было просто".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>359</ID>
+      <DefaultText>"Наши знания преумножаются, сестры".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>360</ID>
+      <DefaultText>"Я устала. Так не пойдет".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>361</ID>
+      <DefaultText>"Я не сниму это ради тебя ни в этой, ни в любой иной реальности".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>362</ID>
+      <DefaultText>"Это мое".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>363</ID>
+      <DefaultText>"Ты не можешь отобрать это у меня".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>364</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>365</ID>
+      <DefaultText>"Ты умрешь, тупица".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>366</ID>
+      <DefaultText>"Тебя от меня ничего не спасет".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>367</ID>
+      <DefaultText>"Ты умрешь, и точка".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>368</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>369</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>370</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>371</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>372</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>373</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>374</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>375</ID>
+      <DefaultText>"А *это* какой мир?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>376</ID>
+      <DefaultText>"Невероятно. Как это получилось?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>377</ID>
+      <DefaultText>"Как *это* произошло?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>378</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>379</ID>
+      <DefaultText>"Несомненно".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>380</ID>
+      <DefaultText>"Естественно".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>381</ID>
+      <DefaultText>"Конечно".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>382</ID>
+      <DefaultText>"Какое завораживающее место. Здесь столько силы!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>383</ID>
+      <DefaultText>{urgent}"Идем, отверженный. Скорбь уже у ворот. Мы должны убраться отсюда, и поскорее!"</DefaultText>
+      <FemaleText>{urgent}"Идем, отверженная. Скорбь уже у ворот. Мы должны убраться отсюда, и поскорее!"</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>384</ID>
+      <DefaultText>"Совместно ваши отверженные умы могли бы создать что угодно, а вместо этого вы предпочли переделать *это*?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>385</ID>
+      <DefaultText>"Лаборатория! Я давно мечтала увидеть, где все началось".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>386</ID>
+      <DefaultText>"Я понимаю, что остальная часть Долины не такая... многолюдная".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>387</ID>
+      <DefaultText>"Какая неприятная женщина. Кто-нибудь должен найти способ от нее избавиться".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>388</ID>
+      <DefaultText>"Это был наш лучший шанс спастись!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>389</ID>
+      <DefaultText>"Через Гробницу! Быстро!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>390</ID>
+      <DefaultText>"Какое странное место. Это *твой* разум, дорогуша?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>391</ID>
+      <DefaultText>"Я люблю вникать в суть древних знаний".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>392</ID>
+      <DefaultText>"Похоже, мы приблизились к нашей цели. Теперь давай найдем выход отсюда".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>393</ID>
+      <DefaultText>"Из-за этого спора столько разрушений. Наверное, им стоило побороть свою гордыню".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>394</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>395</ID>
+      <DefaultText>"Если хочешь сделать все правильно..."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>396</ID>
+      <DefaultText>"Рад помочь!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>397</ID>
+      <DefaultText>"За дело!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>398</ID>
+      <DefaultText>"Дела! Я иду к вам!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>399</ID>
+      <DefaultText>"Я само воплощение действия!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>400</ID>
+      <DefaultText>"Наконец-то!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>401</ID>
+      <DefaultText>"Наконец-то есть чем заняться!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>402</ID>
+      <DefaultText>"Встречайте борца со скукой!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>403</ID>
+      <DefaultText>"Посмотрите вниз! Вверх! {Beat, faltering}По сторонам!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>404</ID>
+      <DefaultText>"Я готов. Всегда готов".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>405</ID>
+      <DefaultText>"Я готов стать еще большим героем!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>406</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>407</ID>
+      <DefaultText>"Я стал намного лучше, чем был когда-то!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>408</ID>
+      <DefaultText>"Об этом дне будут слагать легенды!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>409</ID>
+      <DefaultText>"Я стал еще пуще бить злодеев, чем раньше!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>410</ID>
+      <DefaultText>"Я чувствую себя еще круче!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>411</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>412</ID>
+      <DefaultText>{Smug}"Готов поспорить, что твои предки почувствовали *это*".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>413</ID>
+      <DefaultText>"Героический удар героического масштаба!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>414</ID>
+      <DefaultText>{Heroic fanfare, as if he's humming his theme song}::гул::</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>415</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>416</ID>
+      <DefaultText>"Повержен!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>417</ID>
+      <DefaultText>"Победоносный!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>418</ID>
+      <DefaultText>"У тебя не было шанса!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>419</ID>
+      <DefaultText>{Warning}"Я не знаю, из чего *эта* штука сделана, но она крепче, чем *моя* штука".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>420</ID>
+      <DefaultText>"Как странно — как будто моя атака не имела никакой силы. *Вообще*".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>421</ID>
+      <DefaultText>"Пади пред моим мощным ударом! ... ой, что-то я не то сказал".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>422</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>423</ID>
+      <DefaultText>"Ух!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>424</ID>
+      <DefaultText>"Удачный выстрел!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>425</ID>
+      <DefaultText>"Уф-ф-ф!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>426</ID>
+      <DefaultText>"М-м-м-м! {Frustrated}Кто вообще придумал боль?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>427</ID>
+      <DefaultText>{annoyed}"Давай уже!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>428</ID>
+      <DefaultText>"Быстро! Сквозь хлипкие двери в изысканный интерьер! Я чувствую в воздухе запах судьбы!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>429</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>430</ID>
+      <DefaultText>"Как раз *вовремя*".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>431</ID>
+      <DefaultText>"Так *вот* где ты пряталась, опасность!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>432</ID>
+      <DefaultText>"Милая война, ты по мне скучала? Скажи, что да".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>433</ID>
+      <DefaultText>"Кажется, я видел выход рядом с теми отверженными. О-ох! Сможем ли мы пробиться к выходу? Сможем?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>434</ID>
+      <DefaultText>"По моему опыту, злодей, у которого в руках есть некая штука — опасный злодей.{happy gasp} Возможно, он пытается уничтожить мир!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>435</ID>
+      <DefaultText>"Кто-то менее героический должен проследовать за Женжесом, пока я тут бью и крушу!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>436</ID>
+      <DefaultText>"Забудь о резонансной камере! Мы должны стоять здесь и биться с Мемовирой на смерть!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>437</ID>
+      <DefaultText>{dawning delight}"Неужели это... героический последний рубеж? Да! Поэтому мы должны выжить любой ценой!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>438</ID>
+      <DefaultText>"Эти щиты на вид надежные. Как подлинные искатели приключений, мы должны держаться от них подальше".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>439</ID>
+      <DefaultText>"Если нам удастся заманить в ловушку какого-нибудь монстра, мы его можем оставить в качестве питомца?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>440</ID>
+      <DefaultText>{hushed}"Инстинкт мне подсказывает, что нам стоит применить маскировку, чтобы избежать встречи со стихусами.{warning} Забудь про мои инстинкты."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>441</ID>
+      <DefaultText>"Либо у меня слишком много шифров, либо я просто потею".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>442</ID>
+      <DefaultText>"Мне холодно. Жарко. Вскипаю. Мерзну! У МЕНЯ СЛИШКОМ МНОГО СОКРОВИЩ!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>443</ID>
+      <DefaultText>"Я парю. Разлетаюсь на части. Выброси шифры, Эрритис. Выброси".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>444</ID>
+      <DefaultText>{Alarmed}"Внезапно мне стало больно... {grunts, surprised, in pain}ходить."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>445</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>446</ID>
+      <DefaultText>{Wounded, a little frustrated}"Не о *такой* кончине я мечтал".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>447</ID>
+      <DefaultText>"Я не должен умереть! Я еще столько всего должен сделать!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>448</ID>
+      <DefaultText>"Умирать тяжелее, чем я думал".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>449</ID>
+      <DefaultText>"Я буду это беречь!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>450</ID>
+      <DefaultText>"Я выгляжу победоносным или несокрушимым?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>451</ID>
+      <DefaultText>{excited but frustrated}"Жаль, что у меня всего лишь две руки".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>452</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>453</ID>
+      <DefaultText>"Готовься оценить мои магические руки!".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>454</ID>
+      <DefaultText>{Thinking, to himself, unworried}"Надеюсь, мы от этого не взлетим на воздух".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>455</ID>
+      <DefaultText>"А вот уже кое-что".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>456</ID>
+      <DefaultText>"Немного покалывает".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>457</ID>
+      <DefaultText>"Грубая героическая сила!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>458</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>459</ID>
+      <DefaultText>"Моя судьба сильнее твоей!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>460</ID>
+      <DefaultText>"Назад! Внимание! Встречайте героя!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>461</ID>
+      <DefaultText>"У славы есть новое имя — Эрритис!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>462</ID>
+      <DefaultText>""</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>463</ID>
+      <DefaultText>"Что?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>464</ID>
+      <DefaultText>"Я уже спрятался? Нет? Ох".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>465</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>466</ID>
+      <DefaultText>"Мы здесь простояли вечность! {Grumbles, mutters}Ну, может немного меньше, но все же."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>467</ID>
+      <DefaultText>{ants in pants}"Приключения поджидают нас на каждом шагу. Почему бы на не погнаться за ними?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>468</ID>
+      <DefaultText>"Я бы поспал, если бы это не было еще *скучнее*".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>469</ID>
+      <DefaultText>{Surprised, a little confused}"Что... меня *ранили?*"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>470</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>471</ID>
+      <DefaultText>{cheerful}"Я помню этот город. Я когда-то разбился в нем!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>472</ID>
+      <DefaultText>"Ты только посмотри на нас. Гуляем по городу. Ничего не крушим.{beat, bored groan.}"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>473</ID>
+      <DefaultText>"Я и понятия *не* имел, что город такой большой!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>474</ID>
+      <DefaultText>"Любопытный запах. Кстати о запахах, я когда-нибудь говорил тебе... {happy gasp}эй, у меня есть родинка!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>475</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>476</ID>
+      <DefaultText>"Надеюсь эти губы и рты ничего предпринимать не будут".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>477</ID>
+      <DefaultText>"Что это за жужжание? Как будто миллионы мух роят в моей голове".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>478</ID>
+      <DefaultText>"У меня такое ощущение, что это место не прочь мной закусить".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>479</ID>
+      <DefaultText>"Даже для холла из языков это не самое приятное место".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>480</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>481</ID>
+      <DefaultText>"Здесь вроде не холодно, верно? Странно, что у меня вся кожа покрылась пупырышками".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>482</ID>
+      <DefaultText>"Так много героев! И так мало известных мне имен!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>483</ID>
+      <DefaultText>"Может, здесь найдется бард или министрель, который сможет достойно воспеть мне дифирамбы!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>484</ID>
+      <DefaultText>"Почему это место такое траурное?{suspicious} Мы должны кого-то оплакивать?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>485</ID>
+      <DefaultText>{Laughs, but does it knowingly as if looking at himself in a mirror}"Почему... Ха-ха-ха-ха. Хa".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>486</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>487</ID>
+      <DefaultText>"Нет, конечно, нет".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>488</ID>
+      <DefaultText>{chipper}"Извини, но нет!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>489</ID>
+      <DefaultText>{smiling}"Нет!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>490</ID>
+      <DefaultText>"Некогда прохлаждаться! Ты разве не видишь, что мы боремся за жизнь?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>491</ID>
+      <DefaultText>"О, Алигерн. Кто же теперь будет меня ругать?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>492</ID>
+      <DefaultText>"Мы потеряли одну Каллистеж. Ту, что из нашего мира!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>493</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>494</ID>
+      <DefaultText>"Ты же знаешь, что ты не можешь умереть. Перестань дурить".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>495</ID>
+      <DefaultText>{Impatient}"Возвращайся поскорее — так скучно, когда ты умираешь."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>496</ID>
+      <DefaultText>{Irritated}"Что, серьезно, опять умер? {Scoffs}Да ты просто жаждешь внимания!"</DefaultText>
+      <FemaleText>{Irritated}"Что, серьезно, опять умерла? {Scoffs}Да ты просто жаждешь внимания!"</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>497</ID>
+      <DefaultText>"Жду не дождусь, когда ты придешь в себя! Ой. А ты не приходишь".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>498</ID>
+      <DefaultText>{Alarmed, slightly worried}"Мэтти? {So alarmed he uses her name}Мэткина!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>499</ID>
+      <DefaultText>{Furious}"Сломать *мои* вещи? Да что эта игрушка тебе сделала?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>500</ID>
+      <DefaultText>"Почему Рин лежит на земле? Что случилось?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>501</ID>
+      <DefaultText>{genuinely distressed.}"Тибир! Нет! Я ему денег должен!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>502</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>503</ID>
+      <DefaultText>"Ты очнулся! Приключения ждут нас! {Beat, still eager, but confused}Где-то там!"</DefaultText>
+      <FemaleText>"Ты очнулась! Приключения ждут нас! {Beat, still eager, but confused}Где-то там!"</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>504</ID>
+      <DefaultText>{Pleased}"Решил вернуться к жизни? Я так и знал!"</DefaultText>
+      <FemaleText>{Pleased}"Решила вернуться к жизни? Я так и знал!"</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>505</ID>
+      <DefaultText>{Curious, has no idea}"Ты что, умер? {To himself}А как же я не заметил?"</DefaultText>
+      <FemaleText>{Curious, has no idea}"Ты что, умерла? {To himself}А как же я не заметил?"</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>506</ID>
+      <DefaultText>{Impatient}"Наконец-то! {Under breath to himself, childish}И петухи могут начать нестись, пока ты придешь в себя. {Beat}А вообще было бы круто, на самом деле".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>507</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>508</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>509</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>510</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>511</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>512</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>513</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>514</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>515</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>516</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>517</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>518</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>519</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>520</ID>
+      <DefaultText>"Ох! Кто-нибудь, наложите на меня целебные чары!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>521</ID>
+      <DefaultText>"Дайте мне исцелением прямо по физиономии!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>522</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>523</ID>
+      <DefaultText>{Eager, been healed}"О! Так гораздо лучше!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>524</ID>
+      <DefaultText>{Surprised, then relieved}"Ох! Ох, так намного лучше. Сразу полегчало".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>525</ID>
+      <DefaultText>{Got a happy injection}"Я бы еще от *такого* не отказался".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>526</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>527</ID>
+      <DefaultText>"Я не чувствую себя ни счастливым, ни здоровым".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>528</ID>
+      <DefaultText>"Что со мной происходит?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>529</ID>
+      <DefaultText>"Со мной что-то не то".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>530</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>531</ID>
+      <DefaultText>"Берегитесь, злодеи. Вас ждут неприятности!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>532</ID>
+      <DefaultText>"Я себя чувствую в шесть раз лучше, чем секунду назад!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>533</ID>
+      <DefaultText>"Теперь меня ничто не остановит!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>534</ID>
+      <DefaultText>"От этого шрам останется. Прекрасно!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>535</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>536</ID>
+      <DefaultText>"Хоть я и ищу *усердно*, я пока ничего не нашел".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>537</ID>
+      <DefaultText>"Нет. Ничего не нашел".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>538</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>539</ID>
+      <DefaultText>"Почему? Эй, что это?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>540</ID>
+      <DefaultText>"Враг! Затаился в тени!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>541</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>542</ID>
+      <DefaultText>{Cheerful}"И я рад встрече!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>543</ID>
+      <DefaultText>{Eager}"Что? Так мы отправляемся?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>544</ID>
+      <DefaultText>{Eager}"Вперед!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>545</ID>
+      <DefaultText>{Eager}"Опасности ждут нас!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>546</ID>
+      <DefaultText>{Eager}"Впереди нас ждут новые опасности? Так тому и быть!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>547</ID>
+      <DefaultText>{Slowly, as if not sure what to make of this new feeling}"Странно... Мне тут одна идея пришла".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>548</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>549</ID>
+      <DefaultText>"Я окружен!{heroically satisfied}Отлично!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>550</ID>
+      <DefaultText>{excited}"Смотри! Все шансы сложились против меня!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>551</ID>
+      <DefaultText>"Может, мы и ранены, но мы будем сражаться до последнего вздоха!{suddenly uncertain} Разве нет?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>552</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>553</ID>
+      <DefaultText>{weakening, still cheerful}"Более слабый герой уже был бы мертв!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>554</ID>
+      <DefaultText>{weakening}"Эй! Кто постоянно закрывает мне глаза?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>555</ID>
+      <DefaultText>"Какой у меня успешный провал!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>556</ID>
+      <DefaultText>"Простое упростили... Вот и все!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>557</ID>
+      <DefaultText>"Ха-ха!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>558</ID>
+      <DefaultText>{Phew}"Я себя чувствую немного пьяным".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>559</ID>
+      <DefaultText>"Я не сниму *это*".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>560</ID>
+      <DefaultText>{slightly hurt}"Эй, это мое!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>561</ID>
+      <DefaultText>"Мне это нужно, чтобы выстоять в тяжелые времена!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>562</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>563</ID>
+      <DefaultText>"Попробуй *это*!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>564</ID>
+      <DefaultText>"Наслаждайся кучкой *этого*!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>565</ID>
+      <DefaultText>"Возьми немного *этого* и немного *того*! У меня *много*!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>566</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>567</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>568</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>569</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>570</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>571</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>572</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>573</ID>
+      <DefaultText>"Почти-почти!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>574</ID>
+      <DefaultText>{Uneasy, quiet}"Этого никто не видел, надеюсь? Отлично".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>575</ID>
+      <DefaultText>"Как это я промахнулся?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>576</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>577</ID>
+      <DefaultText>"Почему? Конечно!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>578</ID>
+      <DefaultText>"Почему бы нет!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>579</ID>
+      <DefaultText>"Безусловно!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>580</ID>
+      <DefaultText>{fond}"Ты водишь меня по таким прекрасным местам".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>581</ID>
+      <DefaultText>"Думаю... да, до пожара это место нравилось мне больше".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>582</ID>
+      <DefaultText>"Не знаю, где мы находимся, но мне здесь *нравится*".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>583</ID>
+      <DefaultText>"Где мы? Все выглядит... запутанно".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>584</ID>
+      <DefaultText>{stage whisper}"Думаю, мы им не особо приглянулись".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>585</ID>
+      <DefaultText>"Она была не особо нам рада".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>586</ID>
+      <DefaultText>"Думаешь, это все еще работает? Нет?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>587</ID>
+      <DefaultText>"Гробница открыта!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>588</ID>
+      <DefaultText>"Это здесь ты все свои мысли держишь?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>589</ID>
+      <DefaultText>{casually}"Надеюсь, у меня тоже когда-нибудь будет надгробье. Большое".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>590</ID>
+      <DefaultText>"О-о-о. Какая слава!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>591</ID>
+      <DefaultText>"М-м-м. В воздухе витает недовольство".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>592</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>593</ID>
+      <DefaultText>"Хорошо".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>594</ID>
+      <DefaultText>"Считай, сделано".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>595</ID>
+      <DefaultText>"Я займусь этим".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>596</ID>
+      <DefaultText>"Ты даже не заметишь мое отсутствие".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>597</ID>
+      <DefaultText>"Как шепот".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>598</ID>
+      <DefaultText>"Ты же хочешь, чтобы все было сделано правильно".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>599</ID>
+      <DefaultText>"Я там, в тени".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>600</ID>
+      <DefaultText>"Готово".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>601</ID>
+      <DefaultText>"Всего мгновенье, и все готово".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>602</ID>
+      <DefaultText>"Хорошо".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>603</ID>
+      <DefaultText>"Я готова выбрать свой путь".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>604</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>605</ID>
+      <DefaultText>"Это должно сработать".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>606</ID>
+      <DefaultText>"Я с надеждой смотрю в будущее".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>607</ID>
+      <DefaultText>"Это пригодится".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>608</ID>
+      <DefaultText>"Мои враги будут меня бояться. Бояться еще больше".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>609</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>610</ID>
+      <DefaultText>"Это было всего лишь предпочтением".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>611</ID>
+      <DefaultText>"Я выпущу твои кишки".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>612</ID>
+      <DefaultText>"Ты боишься меня. И ты это знаешь".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>613</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>614</ID>
+      <DefaultText>"Как будто кто-то сомневается в моих навыках".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>615</ID>
+      <DefaultText>"Белой Смертью меня зовут неспроста".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>616</ID>
+      <DefaultText>{exultant} "Да".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>617</ID>
+      <DefaultText>"Это не работает! Попробуй что-то другое!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>618</ID>
+      <DefaultText>"На этой штуке не остается ни царапины!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>619</ID>
+      <DefaultText>"Да! Давай еще!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>620</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>621</ID>
+      <DefaultText>"Ты следующий, тупица".</DefaultText>
+      <FemaleText>"Ты следующая, тупица".</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>622</ID>
+      <DefaultText>"Ты хочешь пустить мне *кровь*?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>623</ID>
+      <DefaultText>"Я тебя переживу, тупица".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>624</ID>
+      <DefaultText>"Никто не может меня ударить. Никто!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>625</ID>
+      <DefaultText>"Я плюну на твой труп!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>626</ID>
+      <DefaultText>"Проберись внутри под клапанами. Это и есть ключ. Вперед!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>627</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>628</ID>
+      <DefaultText>"Ты будешь истекать *кровью*".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>629</ID>
+      <DefaultText>"Смерть как тень".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>630</ID>
+      <DefaultText>"Твоя смерть идет за тобой".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>631</ID>
+      <DefaultText>"Боги, не мудрено, что я никогда не принимала активного участия в этой битве. Нам нужно как-то пробраться мимо них и найти выход".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>632</ID>
+      <DefaultText>"Не подпускай его к клетке. Наш создатель *не* убьет меня!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>633</ID>
+      <DefaultText>"Кто-то должен проследить за Женжесом, пока мы будем пробираться к коре".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>634</ID>
+      <DefaultText>"Останови Первую! Доберись до резонансной камеры!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>635</ID>
+      <DefaultText>"Мы должны выжить! Следи за камерой!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>636</ID>
+      <DefaultText>{terrified, urgent} "Просыпайся! Просыпайся! Скорбь здесь! Доберись до генераторов щита!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>637</ID>
+      <DefaultText>"Фрагменты Скорби! Убить их!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>638</ID>
+      <DefaultText>"Стихусы опасны. Предлагаю держаться в тени. И надо найти способ избавиться от них".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>639</ID>
+      <DefaultText>"Ох. Голова кружится. Слишком много шифров".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>640</ID>
+      <DefaultText>{annoyed, sick} "Я же сказала, что эти шифры отравляют меня".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>641</ID>
+      <DefaultText>{gasping} "Забери у меня эти шифры".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>642</ID>
+      <DefaultText>{sharp whisper}"Вытащи меня отсюда!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>643</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>644</ID>
+      <DefaultText>"Это... Нет... Мне была уготована иная судьба".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>645</ID>
+      <DefaultText>::удушье::</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>646</ID>
+      <DefaultText>"Я... Я умираю..."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>647</ID>
+      <DefaultText>"С удовольствием это попробую".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>648</ID>
+      <DefaultText>"Как будто мне нужны украшения".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>649</ID>
+      <DefaultText>{low-key happy, smile in voice} "Смертельно".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>650</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>651</ID>
+      <DefaultText>"Это должно быть зрелищно".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>652</ID>
+      <DefaultText>"Небольшой сюрприз для тебя!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>653</ID>
+      <DefaultText>"Кое-что, чего ты не ожидал".</DefaultText>
+      <FemaleText>"Кое-что, чего ты не ожидала".</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>654</ID>
+      <DefaultText>"Почувствуй вкус смерти".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>655</ID>
+      <DefaultText>"Ты будешь страдать".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>656</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>657</ID>
+      <DefaultText>"Я ушла".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>658</ID>
+      <DefaultText>"В тень".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>659</ID>
+      <DefaultText>"Тьма принадлежит мне".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>660</ID>
+      <DefaultText>""</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>661</ID>
+      <DefaultText>"Что тебе нужно?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>662</ID>
+      <DefaultText>"Как неловко".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>663</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>664</ID>
+      <DefaultText>"О... Мы чем-то были заняты?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>665</ID>
+      <DefaultText>"Я всего лишь планировала смерти. Не спеши меня хоронить".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>666</ID>
+      <DefaultText>"Может мне стоит научиться жонглировать..."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>667</ID>
+      <DefaultText>"Ненавижу признавать свою боль, но..."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>668</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>669</ID>
+      <DefaultText>"Ах, Утесы Сагуса. Гниль цивилизации".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>670</ID>
+      <DefaultText>"Я люблю и ненавижу этот город одновременно".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>671</ID>
+      <DefaultText>"Городская жизнь... это единственная жизнь".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>672</ID>
+      <DefaultText>"Жизнь в городе имеет свои прелести. Просто нужно игнорировать... всех людей".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>673</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>674</ID>
+      <DefaultText>"Смердит гниющим трупом. То есть, как дома".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>675</ID>
+      <DefaultText>"Я до сих пор не могу поверить, что Скорбь разрушила Миэль Авест".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>676</ID>
+      <DefaultText>"Я вроде как надеялась, что однажды это место станет моим".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>677</ID>
+      <DefaultText>"А я-то думала, откуда взялось Цветение".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>678</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>679</ID>
+      <DefaultText>"Ненавижу это место".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>680</ID>
+      <DefaultText>"Самое лучшее в Долине то, что там почти все умерли".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>681</ID>
+      <DefaultText>"Первая Гробница — моя любимая часть Долины".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>682</ID>
+      <DefaultText>"Я хочу вернуться в нормальный город".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>683</ID>
+      <DefaultText>::смех::</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>684</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>685</ID>
+      <DefaultText>"Нет. Ни за что".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>686</ID>
+      <DefaultText>"Хотеть не вредно".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>687</ID>
+      <DefaultText>"Этого не случится. Не со мной".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>688</ID>
+      <DefaultText>"Наша работа только что стала намного труднее".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>689</ID>
+      <DefaultText>"А кто теперь будет артистично зевать целый день?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>690</ID>
+      <DefaultText>"Уверена, она даже не заметила, что это было".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>691</ID>
+      <DefaultText>"Эрритис, сейчас не время для шуток!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>692</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>693</ID>
+      <DefaultText>"Вставай. *Поднимайся*!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>694</ID>
+      <DefaultText>"Ну же. Я ведь знаю, что ты не умер".</DefaultText>
+      <FemaleText>"Ну же. Я ведь знаю, что ты не умерла".</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>695</ID>
+      <DefaultText>"Если захочешь еще умереть, я могу достать тебе чан с кислотой."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>696</ID>
+      <DefaultText>"...Мы обречены..."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>697</ID>
+      <DefaultText>"Нет! Только не Оом!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>698</ID>
+      <DefaultText>"Найди способ, чтобы вернуть ее обратно, братец, или вас обоих постигнет смерть".</DefaultText>
+      <FemaleText>"Найди способ, чтобы вернуть ее обратно, сестрица, или вас обеих постигнет смерть".</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>699</ID>
+      <DefaultText>"По его блуждающему взгляду я точно скучать не буду".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>700</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>701</ID>
+      <DefaultText>{impatient} "Наконец-то!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>702</ID>
+      <DefaultText>"Хватит валяться. У нас работа есть".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>703</ID>
+      <DefaultText>"Ну, хватит убивать время".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>704</ID>
+      <DefaultText>"Ты умираешь, чтобы просто отдохнуть от мира? Ну же, будь умнее!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>705</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>706</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>707</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>708</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>709</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>710</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>711</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>712</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>713</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>714</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>715</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>716</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>717</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>718</ID>
+      <DefaultText>{determined}"Нет. НЕТ. Я не умираю."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>719</ID>
+      <DefaultText>"Хочешь от меня помощи? Вылечи меня".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>720</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>721</ID>
+      <DefaultText>{grudging} "Спасибо".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>722</ID>
+      <DefaultText>"Так-то лучше".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>723</ID>
+      <DefaultText>"Хорошо. Хорошо".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>724</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>725</ID>
+      <DefaultText>"Чувствую себя так, будто меня в дерьме изваляли".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>726</ID>
+      <DefaultText>"Боги, уберите это от меня".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>727</ID>
+      <DefaultText>"Хватит! Хватит!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>728</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>729</ID>
+      <DefaultText>"Хорошо. Я готова".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>730</ID>
+      <DefaultText>"Я готова ко всему, что может случится".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>731</ID>
+      <DefaultText>"Идем!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>732</ID>
+      <DefaultText>"Ох. Что случилось? Надеюсь, ты не трогал мои вещи?"</DefaultText>
+      <FemaleText>"Ох. Что случилось? Надеюсь, ты не трогала мои вещи?"</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>733</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>734</ID>
+      <DefaultText>"Ничего не нашла".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>735</ID>
+      <DefaultText>"Здесь чисто".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>736</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>737</ID>
+      <DefaultText>"От меня не спрячешься!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>738</ID>
+      <DefaultText>"Тени — моя территория, тупица".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>739</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>740</ID>
+      <DefaultText>"Что?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>741</ID>
+      <DefaultText>"Что еще?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>742</ID>
+      <DefaultText>"Нужна моя помощь?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>743</ID>
+      <DefaultText>"Хорошо, я готова".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>744</ID>
+      <DefaultText>"Если ты настаиваешь..."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>745</ID>
+      <DefaultText>"Я хочу с тобой поговорить".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>746</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>747</ID>
+      <DefaultText>"Позволь мне уйти отсюда".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>748</ID>
+      <DefaultText>"Ты находишься ровно там, где я и хотела".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>749</ID>
+      <DefaultText>"*Ты* можешь остаться и драться, если хочешь".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>750</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>751</ID>
+      <DefaultText>"Иди сюда! Мне требуется лечение!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>752</ID>
+      <DefaultText>"Вытащи меня отсюда, либо вылечи — но сделай что-нибудь!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>753</ID>
+      <DefaultText>"Облажались, черт побери".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>754</ID>
+      <DefaultText>"Готово".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>755</ID>
+      <DefaultText>"Да что ты знаешь? Я еще *более* смертоносная".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>756</ID>
+      <DefaultText>"Остановимся! Ты выглядишь усталым".</DefaultText>
+      <FemaleText>"Остановимся! Ты выглядишь усталой".</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>757</ID>
+      <DefaultText>"Это мое, а не твое".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>758</ID>
+      <DefaultText>"Я так не думаю".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>759</ID>
+      <DefaultText>"Я тебе это не отдам".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>760</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>761</ID>
+      <DefaultText>"Получай!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>762</ID>
+      <DefaultText>"Сдохни!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>763</ID>
+      <DefaultText>"Ты умоешься кровью!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>764</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>765</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>766</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>767</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>768</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>769</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>770</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>771</ID>
+      <DefaultText>"Как *это* произошло?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>772</ID>
+      <DefaultText>"Этого больше не случится".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>773</ID>
+      <DefaultText>"Черт!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>774</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>775</ID>
+      <DefaultText>"Конечно".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>776</ID>
+      <DefaultText>"Хорошо".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>777</ID>
+      <DefaultText>"Как скажешь".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>778</ID>
+      <DefaultText>"О боги, Инифер живет *здесь*? Какой ужас".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>779</ID>
+      <DefaultText>"Скорбь уже здесь. Нам нужно бежать!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>780</ID>
+      <DefaultText>"Ненавижу это место. Ненавижу Бесконечную Битву и все то, ради чего ее затеяли".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>781</ID>
+      <DefaultText>"Так вот где все началось..."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>782</ID>
+      <DefaultText>"Новый способ попасть в Долину, это точно".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>783</ID>
+      <DefaultText>"Боги, как же я ее ненавижу".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>784</ID>
+      <DefaultText>"Черт его побери!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>785</ID>
+      <DefaultText>"Быстрее! Это наш путь к спасению!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>786</ID>
+      <DefaultText>"И очнулся ты здесь? Как... неожиданно".</DefaultText>
+      <FemaleText>"И очнулась ты здесь? Как... неожиданно".</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>787</ID>
+      <DefaultText>"Мы здесь не для осмотра достопримечательностей".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>788</ID>
+      <DefaultText>"Я когда-нибудь говорила, как я презираю нашу старшую сестру?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>789</ID>
+      <DefaultText>"Только глянь на этих двоих. Совершенно не отдают себе отчет, к чему приведет их гордыня".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>790</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>791</ID>
+      <DefaultText>"Ладно. Идем".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>792</ID>
+      <DefaultText>"Идем, Аль. Покажем им, чему мы научились".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>793</ID>
+      <DefaultText>"Я здесь именно для этого".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>794</ID>
+      <DefaultText>"Уже иду".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>795</ID>
+      <DefaultText>"Для тебя? Все, что угодно".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>796</ID>
+      <DefaultText>"Все, что тебе угодно".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>797</ID>
+      <DefaultText>"Конечно. Я здесь, чтобы помочь тебе".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>798</ID>
+      <DefaultText>"Хорошая идея".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>799</ID>
+      <DefaultText>"Это я могу".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>800</ID>
+      <DefaultText>"Мы опираемся на доверие и честность".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>801</ID>
+      <DefaultText>"Знания приходят с опытом".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>802</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>803</ID>
+      <DefaultText>"Да, мне это нравится".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>804</ID>
+      <DefaultText>"Я готова к большему".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>805</ID>
+      <DefaultText>"Давай закончим с этим и пойдем домой".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>806</ID>
+      <DefaultText>"Хорошо. За дело".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>807</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>808</ID>
+      <DefaultText>"Там, откуда я пришла, такого навалом".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>809</ID>
+      <DefaultText>"Ха!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>810</ID>
+      <DefaultText>"*Вот* как мы это делаем дома".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>811</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>812</ID>
+      <DefaultText>"Об одном меньше голова болеть будет".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>813</ID>
+      <DefaultText>"Этот пал. Кто следующий?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>814</ID>
+      <DefaultText>"Прости!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>815</ID>
+      <DefaultText>"Никакого эффекта! Наверно, я не тех богов на помощь призвала".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>816</ID>
+      <DefaultText>"*Это* не особо подействовало".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>817</ID>
+      <DefaultText>"Ха! Вот теперь у тебя будут неприятности!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>818</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>819</ID>
+      <DefaultText>"Вообще-то, я на это не подписывалась".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>820</ID>
+      <DefaultText>"*Это* было некрасиво".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>821</ID>
+      <DefaultText>"Все в порядке. Я уже не ребенок".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>822</ID>
+      <DefaultText>"Хочешь проверить, на что способны мои боги?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>823</ID>
+      <DefaultText>"Ладно, на этот раз было больно".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>824</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>825</ID>
+      <DefaultText>"Я никому не позволю нападать на моих друзей".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>826</ID>
+      <DefaultText>"Мы с тобой знакомы не были, но теперь ты *мой* враг".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>827</ID>
+      <DefaultText>"Познай гнев моих богов!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>828</ID>
+      <DefaultText>"Что с этими людьми? Они как будто... не в своем уме".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>829</ID>
+      <DefaultText>"Я отвлеку его внимание от двери. А ты его убьешь".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>830</ID>
+      <DefaultText>"Я не уверена, что эту штуку можно убить. Понадеемся, что мы как минимум выживем".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>831</ID>
+      <DefaultText>"Эти штуки выглядят недобро. Может, их можно как-то заманить в ловушку, чтобы не сталкиваться с ними в лоб".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>832</ID>
+      <DefaultText>"Уф, я и забыла, насколько здесь все *странно*".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>833</ID>
+      <DefaultText>"Я несу слишком много этих штук. Они... воздействуют".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>834</ID>
+      <DefaultText>"Мне нужно прилечь... и, вероятно, выкинуть весь этот хлам".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>835</ID>
+      <DefaultText>"Фу-х. Скажу честно. Так я долго не протяну".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>836</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>837</ID>
+      <DefaultText>"Жизнь... за жизнь... Достойный обмен".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>838</ID>
+      <DefaultText>"Как хорошо, что я здесь, чтобы помочь тебе".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>839</ID>
+      <DefaultText>"Увидимся... на той стороне, дружище".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>840</ID>
+      <DefaultText>"Крутая безделушка!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>841</ID>
+      <DefaultText>"Мне нравится. Давай попробуем".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>842</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>843</ID>
+      <DefaultText>"Война и сила. Перемены и изменения".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>844</ID>
+      <DefaultText>"Ладно. Покажи им, что ты можешь".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>845</ID>
+      <DefaultText>"Я покажу тебе, как сильны мои боги".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>846</ID>
+      <DefaultText>"У меня влиятельные друзья".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>847</ID>
+      <DefaultText>"Моим богам известно все, что нужно, чтобы уничтожить тебя".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>848</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>849</ID>
+      <DefaultText>"*Это* должно сработать".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>850</ID>
+      <DefaultText>"Мои боги знают, что делают".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>851</ID>
+      <DefaultText>"Знания приходят с опытом, верно, друзья?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>852</ID>
+      <DefaultText>"Мне бы не помешало лечение".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>853</ID>
+      <DefaultText>"Здравствуй, дружище".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>854</ID>
+      <DefaultText>"Не переживай, Аль. Такое с каждым бывает".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>855</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>856</ID>
+      <DefaultText>"Аль говорит, что ты стал привлекательнее, чем раньше".</DefaultText>
+      <FemaleText>"Аль говорит, что ты стала привлекательнее, чем раньше".</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>857</ID>
+      <DefaultText>"Мы разве когда-нибудь приезжали *сюда* вместе? Что-то я не припомню".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>858</ID>
+      <DefaultText>"Мои воспоминания из детства очень... странные. Но четкие".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>859</ID>
+      <DefaultText>"Ого! Это серьезнее, чем я думала. Нужна помощь?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>860</ID>
+      <DefaultText>::смех::</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>861</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>862</ID>
+      <DefaultText>"Извини, не могу этого сделать".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>863</ID>
+      <DefaultText>"Нет!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>864</ID>
+      <DefaultText>"Этому... не бывать".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>865</ID>
+      <DefaultText>"Не сдавайся! Битва еще не окончена!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>866</ID>
+      <DefaultText>"Алигерн!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>867</ID>
+      <DefaultText>"Как жаль. Мне она начала нравиться".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>868</ID>
+      <DefaultText>"Я буду сражаться за тебя, мой сияющий принц".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>869</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>870</ID>
+      <DefaultText>"Нет! Стой. {Laughs}Чуть не забыла: все будет в порядке".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>871</ID>
+      <DefaultText>"Возвращайся к нам скорее, дружище".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>872</ID>
+      <DefaultText>"Ты еще глупее... чем я помнила".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>873</ID>
+      <DefaultText>{Sad}"Я подвела тебя, дружище".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>874</ID>
+      <DefaultText>"Мэткина, нет!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>875</ID>
+      <DefaultText>"Держись там, Оом. Я все еще бьюсь за тебя".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>876</ID>
+      <DefaultText>"Не блудливый шут!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>877</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>878</ID>
+      <DefaultText>"Наконец-то. Я уже думала, что мне придется оставить тебя здесь".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>879</ID>
+      <DefaultText>"Тебе повезло, что я здесь, чтобы защитить тебя".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>880</ID>
+      <DefaultText>"Так вот ты где. Готов идти дальше?"</DefaultText>
+      <FemaleText>"Так вот ты где. Готова идти дальше?"</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>881</ID>
+      <DefaultText>"Я тебе нужна больше, чем я думала, не так ли?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>882</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>883</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>884</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>885</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>886</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>887</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>888</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>889</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>890</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>891</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>892</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>893</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>894</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>895</ID>
+      <DefaultText>"А это действительно больно. То странное лекарственное средство у тебя все еще с собой?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>896</ID>
+      <DefaultText>"Ай. Скоро мне понадобится лечение".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>897</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>898</ID>
+      <DefaultText>"О, так *значительно* лучше".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>899</ID>
+      <DefaultText>"Как раз *то*, что мне нужно было".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>900</ID>
+      <DefaultText>"Спасибо за это. А теперь идем".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>901</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>902</ID>
+      <DefaultText>"Фу-х, что-то мне нехорошо".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>903</ID>
+      <DefaultText>"Я себя плохо чувствую".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>904</ID>
+      <DefaultText>"Со мной все хорошо. Я могу... Нет, мне нехорошо".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>905</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>906</ID>
+      <DefaultText>"Да! За дело".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>907</ID>
+      <DefaultText>"Готов бросить вызов миру".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>908</ID>
+      <DefaultText>"Ха! Мне это *нравится*!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>909</ID>
+      <DefaultText>"Уф. Извини, я вроде как должна была *тебе* помочь".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>910</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>911</ID>
+      <DefaultText>"Здесь никого".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>912</ID>
+      <DefaultText>"Я никого не вижу".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>913</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>914</ID>
+      <DefaultText>"Аль знает все об укрытиях. И это *обоюдно*".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>915</ID>
+      <DefaultText>"Так вот ты где!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>916</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>917</ID>
+      <DefaultText>"Я готова".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>918</ID>
+      <DefaultText>"Да?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>919</ID>
+      <DefaultText>"Что тебе надо?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>920</ID>
+      <DefaultText>"Все, что угодно. Я готова".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>921</ID>
+      <DefaultText>"Давай, за дело".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>922</ID>
+      <DefaultText>"Эй, мы можем поговорить?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>923</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>924</ID>
+      <DefaultText>"Думаешь, ты сможешь меня перехитрить, да? Ошибаешься".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>925</ID>
+      <DefaultText>"Я одержу над тобой победу, несмотря на все твои удары".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>926</ID>
+      <DefaultText>"Это тяжелее, чем я думала!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>927</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>928</ID>
+      <DefaultText>"Я себя неважно чувствую..."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>929</ID>
+      <DefaultText>"Кто-нибудь может мне помочь? Не ты, Аль".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>930</ID>
+      <DefaultText>"Все в порядке. На ошибках учишься".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>931</ID>
+      <DefaultText>"Я закончила. Что дальше?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>932</ID>
+      <DefaultText>"Ты только взгляни на это! Мои боги выучили новые трюки".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>933</ID>
+      <DefaultText>"Хоть я и тороплюсь домой, наверно, стоит передохнуть. Что скажешь?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>934</ID>
+      <DefaultText>"Извини. Мне нужна эта штука".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>935</ID>
+      <DefaultText>"Ты знаешь, что она должна остаться со мной".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>936</ID>
+      <DefaultText>"Я сама ее сделала. Нет, я не отдам ее тебе".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>937</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>938</ID>
+      <DefaultText>"Оставь моего друга в покое!"</DefaultText>
+      <FemaleText>"Оставь мою подругу в покое!"</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>939</ID>
+      <DefaultText>"За Баранта!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>940</ID>
+      <DefaultText>"Ты *не* хочешь этого сделать!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>941</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>942</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>943</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>944</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>945</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>946</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>947</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>948</ID>
+      <DefaultText>"Черт!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>949</ID>
+      <DefaultText>"В следующий раз я *не* промахнусь".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>950</ID>
+      <DefaultText>"Я готовилась к такому, поверь".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>951</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>952</ID>
+      <DefaultText>"Я здесь именно для этого".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>953</ID>
+      <DefaultText>"Не сомневайся".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>954</ID>
+      <DefaultText>"Конечно".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>955</ID>
+      <DefaultText>"Что с этими людьми? Они как будто... не в своем уме".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>956</ID>
+      <DefaultText>"Слишком далеко прыгать. И я не хочу думать, что будет, если мы не допрыгнем".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>957</ID>
+      <DefaultText>"Как тихо. Он наблюдает, я точно знаю".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>958</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>959</ID>
+      <DefaultText>"А вот и я".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>960</ID>
+      <DefaultText>"Идем, Аль. Вдвоем".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>961</ID>
+      <DefaultText>"Знания приходят с опытом... или как-то иначе?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>962</ID>
+      <DefaultText>"Ладно, Рин. Ты сможешь".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>963</ID>
+      <DefaultText>"Знания приходят с опытом, наверно".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>964</ID>
+      <DefaultText>"Если ты уверен, что это не опасно..."</DefaultText>
+      <FemaleText>"Если ты уверена, что это не опасно..."</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>965</ID>
+      <DefaultText>"Конечно, мы можем помочь. Верно, Аль?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>966</ID>
+      <DefaultText>"Если ты считаешь, что так лучше..."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>967</ID>
+      <DefaultText>"Да, я могла бы с этим помочь".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>968</ID>
+      <DefaultText>"Мы опираемся на доверие и честность".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>969</ID>
+      <DefaultText>"Я начинаю понимать это странное место".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>970</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>971</ID>
+      <DefaultText>"Да, мне это нравится".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>972</ID>
+      <DefaultText>"Аль, мы растем".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>973</ID>
+      <DefaultText>"Может, это будет не так сложно, как я думала".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>974</ID>
+      <DefaultText>"Может, я *смогу*".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>975</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>976</ID>
+      <DefaultText>"Эй! Ты это видел? Кто-нибудь это видел?"</DefaultText>
+      <FemaleText>"Эй! Ты это видела? Кто-нибудь это видел?"</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>977</ID>
+      <DefaultText>"Ха!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>978</ID>
+      <DefaultText>"Ого! Как я...?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>979</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>980</ID>
+      <DefaultText>"О! О боги, неужели я только что..."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>981</ID>
+      <DefaultText>"Ты в порядке? Что я наделала?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>982</ID>
+      <DefaultText>"Мне так жаль!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>983</ID>
+      <DefaultText>"Даже не могу повредить его! Я же говорила, что не хочу драться!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>984</ID>
+      <DefaultText>"Что-то это не особо работает".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>985</ID>
+      <DefaultText>"Эй! А это отлично сработало!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>986</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>987</ID>
+      <DefaultText>"Я на это не подписывалась!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>988</ID>
+      <DefaultText>"Это некрасиво!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>989</ID>
+      <DefaultText>"Я всего лишь ребенок!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>990</ID>
+      <DefaultText>"Хочешь проверить, на что способны мои боги?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>991</ID>
+      <DefaultText>"Оставь меня в покое!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>992</ID>
+      <DefaultText>"Ты хочешь пройти *там*? Зачем мы снова это делаем?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>993</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>994</ID>
+      <DefaultText>"Ты же меня защитишь, правда?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>995</ID>
+      <DefaultText>"Жаль, что у нас нет бога войны и силы".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>996</ID>
+      <DefaultText>"Хорошо, я сделаю".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>997</ID>
+      <DefaultText>"Смотри! Эти бедные люди попали в ловушку, как и я когда-то. Может, мы сможем им помочь".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>998</ID>
+      <DefaultText>"Постой. А что случится, если он вломится в ту большую дверь?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>999</ID>
+      <DefaultText>"Эй, и куда этот пилот собрался?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1000</ID>
+      <DefaultText>"Этот кристалл... ты до *него* пытаешься добраться?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1001</ID>
+      <DefaultText>"Аль, спрячь меня! Спрячь нас всех! Пока кристалл не закончит... чего бы он там не делал".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1002</ID>
+      <DefaultText>"Что случилось со щитами? Нам нужно выбираться отсюда!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1003</ID>
+      <DefaultText>"Что это за штуковины? Мы пытаемся их убить?.. А это *возможно*?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1004</ID>
+      <DefaultText>"Я уже видела этих созданий раньше. Лучше нам оставаться в укрытии. Аль нам поможет".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1005</ID>
+      <DefaultText>"Эти штуки у меня в сумке начинают странно пахнуть. И мне дурно".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1006</ID>
+      <DefaultText>"Эм, теперь из моей сумки валит дым, и мне от него... плохо".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1007</ID>
+      <DefaultText>"Мне нужно прилечь... и, вероятно, выбросить все эти теплые сияющие штуки".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1008</ID>
+      <DefaultText>"О, боги! Аль! Аль, спрячь меня!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1009</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1010</ID>
+      <DefaultText>"Мам?.. МАМ?!?! ...Мама!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1011</ID>
+      <DefaultText>"Хотела бы я... {dying gasp}"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1012</ID>
+      <DefaultText>"Но я... я... {dying gasp}"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1013</ID>
+      <DefaultText>"О-о-о, как *это* блестит!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1014</ID>
+      <DefaultText>"*Наверно*, я смогу этим воспользоваться".
+
+{DENNIS: Please edit VO line to remove the word "Okay"}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1015</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1016</ID>
+      <DefaultText>"Перемены и изменения, Варлин".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1017</ID>
+      <DefaultText>"Покажи им, что ты умеешь".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1018</ID>
+      <DefaultText>"Я покажу тебе, насколько реальны мои боги".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1019</ID>
+      <DefaultText>"Кому нужен бог войны и силы, когда у меня есть ты".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1020</ID>
+      <DefaultText>"Варлин знает все об изменениях".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1021</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1022</ID>
+      <DefaultText>"Посмотрим, сработает ли *это*".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1023</ID>
+      <DefaultText>"Я не создана, чтобы творить богов, но... я рада, что я это сделала".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1024</ID>
+      <DefaultText>"Не переживай, Варлин. Знания приходят с опытом".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1025</ID>
+      <DefaultText>"Я себя паршиво чувствую. То есть, хуже чем обычно".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1026</ID>
+      <DefaultText>"Что тебе надо?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1027</ID>
+      <DefaultText>"Аль, что не так? Почему это не сработало?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1028</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1029</ID>
+      <DefaultText>::присвистывает::</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1030</ID>
+      <DefaultText>"Ты никогда не терялся, пока видна луна".</DefaultText>
+      <FemaleText>"Ты никогда не терялась, пока видна луна".</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>1031</ID>
+      <DefaultText>"...Во мгле или заблудившись... она найдет дорогу... домой."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1032</ID>
+      <DefaultText>"Меня... меня... *сильно* ранило. На помощь!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1033</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1034</ID>
+      <DefaultText>"Эта деревня продолжает жить, не так ли?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1035</ID>
+      <DefaultText>"Этот город слишком большой. Я никогда такого не видела".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1036</ID>
+      <DefaultText>"Тут так *просторно*. Как тут хоть *кто-нибудь* что-нибудь находит?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1037</ID>
+      <DefaultText>"Чем дольше я здесь нахожусь, тем больше я скучаю по родной деревне".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1038</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1039</ID>
+      <DefaultText>"Это... Самое странное место, где я когда-либо бывала".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1040</ID>
+      <DefaultText>"Это *сам* монстр или мы находимся *в* монстре, или..."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1041</ID>
+      <DefaultText>"Ух, я только что во что-то наступила. А, нет, это всего лишь пол".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1042</ID>
+      <DefaultText>"Такое отвратительное место, что в нем есть нечто... знакомое".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1043</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1044</ID>
+      <DefaultText>"Все такое... мертвое".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1045</ID>
+      <DefaultText>"Мне не нравится, что рядом находится столько мертвых людей".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1046</ID>
+      <DefaultText>"Здесь действительно живут люди? Зачем?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1047</ID>
+      <DefaultText>"Людей здесь просто хоронят или они *приходят* сюда умирать? Неясно".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1048</ID>
+      <DefaultText>::смех::</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1049</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1050</ID>
+      <DefaultText>"Нет, нет, и нет".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1051</ID>
+      <DefaultText>"Не-а".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1052</ID>
+      <DefaultText>"Этому... не бывать".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1053</ID>
+      <DefaultText>"Ох! О, нет! Что нам делать?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1054</ID>
+      <DefaultText>"Алигерн!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1055</ID>
+      <DefaultText>"Она в порядке? Некоторые ее проявления все еще смотрят на меня, будто готовы дать мне отпор".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1056</ID>
+      <DefaultText>"Он еще немного сияет. Это значит... что с ним все будет хорошо?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1057</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1058</ID>
+      <DefaultText>"Нет, стой! Не бросай меня здесь!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1059</ID>
+      <DefaultText>"С ним все будет в порядке... верно?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1060</ID>
+      <DefaultText>"Я начинаю сомневаться в своем покровителе".</DefaultText>
+      <FemaleText>"Я начинаю сомневаться в своей покровительнице".</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>1061</ID>
+      <DefaultText>"Нет! НЕТ! Ты же обещал защитить меня!"</DefaultText>
+      <FemaleText>"Нет! НЕТ! Ты же обещала защитить меня!</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>1062</ID>
+      <DefaultText>"Нет... О, нет..."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1063</ID>
+      <DefaultText>"Вставай, что расклеился. Поднимайся!"</DefaultText>
+      <FemaleText>"Вставай, что расклеилась. Поднимайся!"</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>1064</ID>
+      <DefaultText>"Тибир, ты в порядке? Мне так жаль, что я о тебе плохо подумала!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1065</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1066</ID>
+      <DefaultText>"Слава богам. А то я уж подумала, что ты бросишь меня здесь".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1067</ID>
+      <DefaultText>"Я знала, что ты вернешься, чтобы защитить меня".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1068</ID>
+      <DefaultText>"Не *делай* этого. Не оставляй меня одну!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1069</ID>
+      <DefaultText>"Наверно, ты не понимаешь, как твои смерти *действуют* на людей?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1070</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1071</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1072</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1073</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1074</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1075</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1076</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1077</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1078</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1079</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1080</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1081</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1082</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1083</ID>
+      <DefaultText>"Мне очень больно. Твои странные штуки мне не помогут?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1084</ID>
+      <DefaultText>"У тебя есть что-нибудь, чтобы остановить кровотечение... или смерть?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1085</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1086</ID>
+      <DefaultText>"О, так *значительно* лучше".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1087</ID>
+      <DefaultText>"Что это? Чувствую себя *отлично*!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1088</ID>
+      <DefaultText>"Голова уже не болит так сильно. Хотя все еще болит".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1089</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1090</ID>
+      <DefaultText>"Я себя... странно чувствую. Это нормально здесь?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1091</ID>
+      <DefaultText>"Что происходит? Что случилось?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1092</ID>
+      <DefaultText>"Кажется, мне нужно прилечь".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1093</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1094</ID>
+      <DefaultText>"Вот *это* крутая штука".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1095</ID>
+      <DefaultText>"Я чувствую, что могу свернуть горы!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1096</ID>
+      <DefaultText>"Не знаю, что это, но мне *понравилось*".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1097</ID>
+      <DefaultText>"Я думала, что я умерла. Моя голова... наверно, я все еще близка к этому".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1098</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1099</ID>
+      <DefaultText>"Здесь никого".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1100</ID>
+      <DefaultText>"Я никого не вижу".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1101</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1102</ID>
+      <DefaultText>"Ох! Ты откуда пришел?"</DefaultText>
+      <FemaleText>"Ох! Ты откуда пришла?"</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>1103</ID>
+      <DefaultText>"Я вижу их! Вон там!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1104</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1105</ID>
+      <DefaultText>"Мы с Алем готовы".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1106</ID>
+      <DefaultText>"Да?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1107</ID>
+      <DefaultText>"Слушаю и повинуюсь".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1108</ID>
+      <DefaultText>"Куда дальше?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1109</ID>
+      <DefaultText>"Я готова, если ты тоже готов".</DefaultText>
+      <FemaleText>"Я готова, если ты тоже готова".</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>1110</ID>
+      <DefaultText>"Я знаю, что у тебя дела, но нам нужно поговорить".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1111</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1112</ID>
+      <DefaultText>"Мне не помешала бы помощь".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1113</ID>
+      <DefaultText>"Мне здесь... не по себе".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1114</ID>
+      <DefaultText>"Боги моего рода, защитите меня!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1115</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1116</ID>
+      <DefaultText>"Я себя неважно чувствую..."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1117</ID>
+      <DefaultText>"Кто-нибудь протянет мне руку помощи? {Pause}Не ты, Аль."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1118</ID>
+      <DefaultText>"Все в порядке. На ошибках учишься".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1119</ID>
+      <DefaultText>"Я же сказала, что справлюсь!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1120</ID>
+      <DefaultText>"Эй! Знания *действительно* приходят с опытом!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1121</ID>
+      <DefaultText>"Нет. Я в порядке. Мы можем... Идти".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1122</ID>
+      <DefaultText>"Эй! Это мое!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1123</ID>
+      <DefaultText>"Он предпочел бы остаться со мной".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1124</ID>
+      <DefaultText>"Думаю, тебе это не подойдет".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1125</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1126</ID>
+      <DefaultText>"Оставь меня в *покое*!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1127</ID>
+      <DefaultText>"*Отойди* от меня!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1128</ID>
+      <DefaultText>"Я не хочу этого делать!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1129</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1130</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1131</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1132</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1133</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1134</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1135</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1136</ID>
+      <DefaultText>"Я думала, это сработает".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1137</ID>
+      <DefaultText>"Может, для этого нужен другой бог".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1138</ID>
+      <DefaultText>"Что я делаю не так?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1139</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1140</ID>
+      <DefaultText>"Конечно".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1141</ID>
+      <DefaultText>"Не сомневайся".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1142</ID>
+      <DefaultText>"Конечно".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1143</ID>
+      <DefaultText>"Я... *совсем* не хочу здесь находиться".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1144</ID>
+      <DefaultText>"Что случилось со щитами? Нам нужно выбираться отсюда!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1145</ID>
+      <DefaultText>"Смотри! Эти бедные люди попали в ловушку, как и я когда-то. Может, мы сможем им помочь".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1146</ID>
+      <DefaultText>"Пол ушел. Что теперь будем делать?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1147</ID>
+      <DefaultText>"Думаю, ты привел меня в *худшее* место".</DefaultText>
+      <FemaleText>"Думаю, ты привела меня в *худшее* место".</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>1148</ID>
+      <DefaultText>"*Красивое* место. Почти как дома... *почти*".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1149</ID>
+      <DefaultText>"Теперь что? Как мы будем выбираться отсюда?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1150</ID>
+      <DefaultText>"Мне не нравится идущий оттуда смрад. А другого пути нет?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1151</ID>
+      <DefaultText>"Тут тихо. Я думала, ты говорил, что он будет тут".</DefaultText>
+      <FemaleText>"Тут тихо. Я думала, ты говорила, что он будет тут".</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>1152</ID>
+      <DefaultText>"Это и есть *могилы*? Тогда понятно, откуда запах".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1153</ID>
+      <DefaultText>"Кем была эта женщина? Почему у нее так много лиц?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1154</ID>
+      <DefaultText>"Эти двое нам случайно не знакомы? У меня такое ощущение, что знакомы".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1155</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1156</ID>
+      <DefaultText>"Хорошо".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1157</ID>
+      <DefaultText>"Справедливо".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1158</ID>
+      <DefaultText>"Уже иду".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1159</ID>
+      <DefaultText>"Конечно".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1160</ID>
+      <DefaultText>"Почему бы и нет".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1161</ID>
+      <DefaultText>"Не обращай на меня внимания".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1162</ID>
+      <DefaultText>"Естественно".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1163</ID>
+      <DefaultText>"Конечно".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1164</ID>
+      <DefaultText>"Иду".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1165</ID>
+      <DefaultText>"Конечно".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1166</ID>
+      <DefaultText>"Я бы попробовал что-то новенькое".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1167</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1168</ID>
+      <DefaultText>"Сойдет".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1169</ID>
+      <DefaultText>"В самый раз".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1170</ID>
+      <DefaultText>"Неплохо".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1171</ID>
+      <DefaultText>"Теперь я ко всему готов".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1172</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1173</ID>
+      <DefaultText>"Ты это видел?"</DefaultText>
+      <FemaleText>"Ты это видела?"</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>1174</ID>
+      <DefaultText>"Да упади ты уже!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1175</ID>
+      <DefaultText>"Ой, больно было?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1176</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1177</ID>
+      <DefaultText>"Вот и все".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1178</ID>
+      <DefaultText>"Не обижайся".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1179</ID>
+      <DefaultText>"Как жаль!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1180</ID>
+      <DefaultText>"Ни царапины!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1181</ID>
+      <DefaultText>"Еле-еле справляюсь".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1182</ID>
+      <DefaultText>"Ха! Что, не нравится?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1183</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1184</ID>
+      <DefaultText>"Ты ведь можешь и получше".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1185</ID>
+      <DefaultText>"Это называется удар? *Позорище* это, а не удар".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1186</ID>
+      <DefaultText>"Бывало и хуже. Гораздо хуже".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1187</ID>
+      <DefaultText>"Ну же! Ну!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1188</ID>
+      <DefaultText>"Ох, больно..."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1189</ID>
+      <DefaultText>"Словам своим не верю, но нам надо забраться *поглубже*".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1190</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1191</ID>
+      <DefaultText>"Давай убьем их".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1192</ID>
+      <DefaultText>"Зря мы не решили все словами".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1193</ID>
+      <DefaultText>"О, ты об этом пожалеешь!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1194</ID>
+      <DefaultText>"Давай выбираться отсюда, а?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1195</ID>
+      <DefaultText>"Мне кажется, что лучше ту клетку не отпирать".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1196</ID>
+      <DefaultText>"Я не то чтобы напрашиваюсь, но *кто-нибудь* должен следить за Женжисом, пока мы бьемся об дверь кортекса".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1197</ID>
+      <DefaultText>"Не трать время на Мемовиру. Нам надо пройти мимо нее".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1198</ID>
+      <DefaultText>"Получается? Я в технике не силен. Но умею оставаться живым, что намерен продолжить".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1199</ID>
+      <DefaultText>"Нужно пробежать через генераторы щитов. Ты же понимаешь, что мы не можем драться с этой штукой?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1200</ID>
+      <DefaultText>"Поищи способ поймать их, если уж убить нельзя".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1201</ID>
+      <DefaultText>"Стихусов без надобности лучше не трогать".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1202</ID>
+      <DefaultText>"Мои шифры что-то затевают".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1203</ID>
+      <DefaultText>"Забери у меня шифры, пока меня наизнанку не вывернуло".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1204</ID>
+      <DefaultText>"Заберите у меня шифр, кто-нибудь! Меня словно раздирает изнутри!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1205</ID>
+      <DefaultText>"Такое никому не нужно".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1206</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1207</ID>
+      <DefaultText>"Нет. Пока рано".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1208</ID>
+      <DefaultText>::рыг::</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1209</ID>
+      <DefaultText>::ох::</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1210</ID>
+      <DefaultText>"Идеально сидит!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1211</ID>
+      <DefaultText>"Вызывающе выглядит, а?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1212</ID>
+      <DefaultText>"Какая опасная штучка!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1213</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1214</ID>
+      <DefaultText>"Ну, попробуем".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1215</ID>
+      <DefaultText>"Отойдите и прикройте все самое ценное".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1216</ID>
+      <DefaultText>"Примерим-ка".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1217</ID>
+      <DefaultText>"О, как приятно!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1218</ID>
+      <DefaultText>"Осторожно. Я сам не знаю, что делаю".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1219</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1220</ID>
+      <DefaultText>"Если постараться, то все получится!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1221</ID>
+      <DefaultText>"Главное — правильно двигать кистью".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1222</ID>
+      <DefaultText>"Пригнись. Скоро мы уйдем".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1223</ID>
+      <DefaultText>"Да?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1224</ID>
+      <DefaultText>"Кажется, я споткнулся о собственную тень".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1225</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1226</ID>
+      <DefaultText>"Мы все еще тут? Пойдем уже!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1227</ID>
+      <DefaultText>"Я бы сейчас предпочел напиваться без штанов".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1228</ID>
+      <DefaultText>"Неплохое местечко, но мне оно надоело".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1229</ID>
+      <DefaultText>"Ничего страшного".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1230</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1231</ID>
+      <DefaultText>"О, смотри! Вот тут мы встретились".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1232</ID>
+      <DefaultText>"Смотрите под ноги. Земля тут непрочная".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1233</ID>
+      <DefaultText>"Год назад я оставил тут на гулянке свои счастливые штаны. Так и не нашел".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1234</ID>
+      <DefaultText>"Ого, сколько моряков на отдыхе!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1235</ID>
+      <DefaultText>"Тут всегда пахнет свежим хлебом и взятками".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1236</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1237</ID>
+      <DefaultText>"Раньше знал Цветение, как свои пять пальцев".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1238</ID>
+      <DefaultText>"Ой! Все такое липкое и странное. Я люблю все липкое и странное".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1239</ID>
+      <DefaultText>"Скорей бы уж уйти из этого города".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1240</ID>
+      <DefaultText>"Я совсем не скучал по этому месту".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1241</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1242</ID>
+      <DefaultText>"Люблю долины! Они как декольте природы".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1243</ID>
+      <DefaultText>"Давненько я не отдыхал на природе".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1244</ID>
+      <DefaultText>"В какие чудесные места мы ходим!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1245</ID>
+      <DefaultText>"А тут пивной нет? Так я и думал..."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1246</ID>
+      <DefaultText>"Хе-хе-хе!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1247</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1248</ID>
+      <DefaultText>"Прости, нет".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1249</ID>
+      <DefaultText>"Хе, нет".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1250</ID>
+      <DefaultText>"Я так не думаю".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1251</ID>
+      <DefaultText>"С тобой все в порядке? Ох, нет, не все".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1252</ID>
+      <DefaultText>"Надеюсь, что он счастлив там, куда отправился".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1253</ID>
+      <DefaultText>"Так она *везде* умерла?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1254</ID>
+      <DefaultText>"Бедняга... Давай обыщем его карманы, вдруг что на память найдем".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1255</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1256</ID>
+      <DefaultText>"Ох, нехорошо..."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1257</ID>
+      <DefaultText>"Ну ничего себе!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1258</ID>
+      <DefaultText>"Такое не пережить!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1259</ID>
+      <DefaultText>"Ох. Вот и все, да?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1260</ID>
+      <DefaultText>"Она ведь *жива*, правда?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1261</ID>
+      <DefaultText>"Кажется... Кажется, все".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1262</ID>
+      <DefaultText>"Девочку ранили!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1263</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1264</ID>
+      <DefaultText>"А, хорошо. Ты больше не мертвый".</DefaultText>
+      <FemaleText>"А, хорошо. Ты больше не мёртвая".</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>1265</ID>
+      <DefaultText>"Бессмертие — полезная штука!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1266</ID>
+      <DefaultText>"С возвращением. Ничего не пропало?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1267</ID>
+      <DefaultText>"Да ты, кажется, любишь смерть!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1268</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1269</ID>
+      <DefaultText>""</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1270</ID>
+      <DefaultText>""</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1271</ID>
+      <DefaultText>""</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1272</ID>
+      <DefaultText>""</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1273</ID>
+      <DefaultText>""</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1274</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1275</ID>
+      <DefaultText>""</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1276</ID>
+      <DefaultText>""</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1277</ID>
+      <DefaultText>""</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1278</ID>
+      <DefaultText>""</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1279</ID>
+      <DefaultText>""</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1280</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1281</ID>
+      <DefaultText>"Мне бы тут помощь не помешала!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1282</ID>
+      <DefaultText>"Что-то колени дрожат..."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1283</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1284</ID>
+      <DefaultText>"Ох, вот здорово!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1285</ID>
+      <DefaultText>"Такого много не бывает".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1286</ID>
+      <DefaultText>"Мило".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1287</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1288</ID>
+      <DefaultText>"Проклятье!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1289</ID>
+      <DefaultText>"Я не очень хорошо себя чувствую, а это говорит о многом".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1290</ID>
+      <DefaultText>"Фу! Словно кого-то вырвало мне в рот".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1291</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1292</ID>
+      <DefaultText>"Хорошо. Хорошо!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1293</ID>
+      <DefaultText>"Никогда себя так хорошо не чувствовал!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1294</ID>
+      <DefaultText>"Я не возражаю!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1295</ID>
+      <DefaultText>"О, так мы еще живы. Отлично!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1296</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1297</ID>
+      <DefaultText>"Ни души".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1298</ID>
+      <DefaultText>"Не везет нам что-то".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1299</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1300</ID>
+      <DefaultText>"Ага! Так-то".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1301</ID>
+      <DefaultText>"Ха! Нашлись".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1302</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1303</ID>
+      <DefaultText>"Да?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1304</ID>
+      <DefaultText>"Что тебе надо?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1305</ID>
+      <DefaultText>"М-м-м?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1306</ID>
+      <DefaultText>"Я нужен?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1307</ID>
+      <DefaultText>"Да?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1308</ID>
+      <DefaultText>"Мы можем... поговорить?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1309</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1310</ID>
+      <DefaultText>"Отодвинься малость, а?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1311</ID>
+      <DefaultText>"По одному! Тибира хватит на всех".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1312</ID>
+      <DefaultText>"Думаю, тут нам не победить. Лучше уйти".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1313</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1314</ID>
+      <DefaultText>"Я тут еле держусь".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1315</ID>
+      <DefaultText>"Мне бы подлечиться..."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1316</ID>
+      <DefaultText>"Ах. Тьфу!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1317</ID>
+      <DefaultText>"Готово".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1318</ID>
+      <DefaultText>"Я кое-чему научился".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1319</ID>
+      <DefaultText>"Сейчас поспать бы..."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1320</ID>
+      <DefaultText>"Есть вещи, которые не сниму даже я".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1321</ID>
+      <DefaultText>"Прости, но это мое и только мое".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1322</ID>
+      <DefaultText>"Я не буду это снимать".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1323</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1324</ID>
+      <DefaultText>"Давай уже закончим с этим, а?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1325</ID>
+      <DefaultText>"Отведай-ка!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1326</ID>
+      <DefaultText>"Не шевелись".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1327</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1328</ID>
+      <DefaultText>""</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1329</ID>
+      <DefaultText>""</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1330</ID>
+      <DefaultText>""</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1331</ID>
+      <DefaultText>""</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1332</ID>
+      <DefaultText>""</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1333</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1334</ID>
+      <DefaultText>"Мда. Неловко получилось".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1335</ID>
+      <DefaultText>"А ты быстрее, чем кажешься!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1336</ID>
+      <DefaultText>"Надеюсь, этого никто не видел".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1337</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1338</ID>
+      <DefaultText>"Почему бы и нет".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1339</ID>
+      <DefaultText>"Конечно".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1340</ID>
+      <DefaultText>"С удовольствием".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1341</ID>
+      <DefaultText>"Это третье или четвертое по отвратительности место, что я когда-либо видел".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1342</ID>
+      <DefaultText>"Мне там нравилось. *Стильно* было".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1343</ID>
+      <DefaultText>"Не скажу, что я рад снова оказаться тут".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1344</ID>
+      <DefaultText>"Ну и лабиринт здесь!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1345</ID>
+      <DefaultText>"Хорошо, что все закончилось".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1346</ID>
+      <DefaultText>"Ну разве не прелесть!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1347</ID>
+      <DefaultText>"Я не специалист, но вряд ли мы отсюда телепортируемся".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1348</ID>
+      <DefaultText>"Гробница открыта!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1349</ID>
+      <DefaultText>"Ну и фантазия. Сколько *резких движений*".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1350</ID>
+      <DefaultText>"Никогда не любил могилы. Только земля пропадает".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1351</ID>
+      <DefaultText>"А ничего так склеп. Повезло дамочке".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1352</ID>
+      <DefaultText>"Знакомое место, но не пойму, почему..."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1353</ID>
+      <DefaultText>"Какой-то я... мертвоватый".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1354</ID>
+      <DefaultText>{Обеспокоено}"Э-э-э... Не мог бы кто-нибудь подойти сюда? И поскорее?.."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1355</ID>
+      <DefaultText>::тихий кашель::</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1356</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1357</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1358</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1359</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\x_labyrinth\x6051_specterfathom_endgame_corpse_si</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>6</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>Призрачный труп принадлежит мужчине, с которым вы уже виделись — он был отцом призрачной женщины, запустившей машину, которая создала ее копии. Но почему он здесь?
+
+Нечто внутри трупа привлекло ваше внимание — темная масса, полная крошечных точек яркого света.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>Вы не узнаете этот призрачный труп, хотя он вам кажется знакомым — но опять же, здесь *все* выглядит знакомо.
+
+Нечто внутри трупа привлекло ваше внимание — темный сгусток, полный крошечных точек яркого света.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>Поднять темный сгусток.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>Не трогать.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>Призрачный труп не оказывает никакого сопротивления, когда вы начинаете в нем ковыряться. Сгусток похож на пузырь теплого воздуха, но вам удается вытащить его из трупа и положить в рюкзак.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>Призрачный труп больше не представляет собой ничего интересного.</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

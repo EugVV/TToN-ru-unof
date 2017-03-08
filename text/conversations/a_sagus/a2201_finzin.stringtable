@@ -1,0 +1,888 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\a_sagus\a2201_finzin</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>176</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>Весь вид этого стройного молодого человека говорил, что он — *разбойник*, начиная от бровей, которые прорезал большой шрам, и заканчивая мозолистой рукой, которая свисала над его бедром, где должен был бы висеть кинжал... но у него не было кинжала. Вместо этого в руках у него были мучные лепешки, а из кармана торчала завязка фартука.   По всей видимости, он — пекарь.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>"Вы что-нибудь выяснили?" — спрашивает он, быстро оглядываясь вокруг в поисках приближающегося стража.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>"Не двигайтесь, хотите, чтоб заметили?" — спрашивает он, смотря поверх вашего плеча. Вы отслеживаете его взгляд и замечаете солдата в доспехах, патрулирующего на площади.  "Тот страж следит за мной уже много дней. Не могу даже справить нужду, не посмотрев по сторонам!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>"Кто такой страж?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>"Вы уверен, что он следит за вами?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>"Вы выглядите сильным. Почему не разберетесь с ним?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>"Скажем так", — говорит он, облизывая губы. — "Я знаю, когда за мной следят. Уже три дня он следует за мной с утра до вечера. Я ничего плохого не сделал!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>"Ш-ш-ш!" — прошипел он, маша своими испачканными в муке руками, в его широко открытых глазах видна паника. — "Лучше не *связываться* со стражем. Даже *говорить* нельзя о нем!" Он облизывает свои губы. "Кроме того, мне не известно... Я хочу сказать, что ничего плохого не сделал!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>"Что за..." — фыркает он. — "Вы новичок в городе? Вот там один из них. Нет, не смотрите!"  Он еще раз бросает нервный взгляд над вашим плечом. "Они – закон, да? Вы должны были их встречать. Всегда улыбаются, даже когда заковывают в цепи".   Он сглатывает слюну. "Но не этот. Нет, он следит за мной с утра до вечера, пялится на меня, пытается подловить меня в переулке. Я ничего плохого не сделал!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>"Но этот еще хуже", — говорит он, сжимая ладони. — "Это *мой* страж".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>"Что значит *ваш* страж?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText>"Почему хуже, если *ваш* страж следит за вами?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText>"Я – гражданин", — говорит он, как будто это что-то объясняет. Когда становится ясно, что это объяснение не понято, он тяжело вздыхает. "Каждый страж изготавливается из гражданина", — говорит он. — "Этот сделан из меня.  Ну я не могу объяснить как, я *знаю*, что этот – мой. Я *чувствую* это, понятно? И теперь он идет за мной!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>14</ID>
+      <DefaultText>"Плохо, когда за тобой следит страж? Но если он был *сделан* из какого-то года твоей жизни, возможно, он знает, где ты ночуешь... о чём ты думаешь". Он издает стон, потирая глаза. "Это хуже. Намного хуже".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>15</ID>
+      <DefaultText>"Поймите, он не оставит меня в покое. Я отдал год своей жизни, чтобы его сделали, и я думал, что так оно и было. Теперь я замечаю его стоящим на улице рядом с пекарней. Он бормочет себе что-то под нос. Играет со своим изваянием".  Его зубы впиваются в губу, когда он склоняется ближе. "Он даже пытался заговорить со мной. Стражи не должны ведь знать, из кого они созданы? Они не должны знать, кто вы!"  Он колеблется, набирается смелости. "Вы бы могли... могли бы поговорить с ним? Выяснить, что он хочет?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>16</ID>
+      <DefaultText>"Вы *уверены*, что ничего плохого не сделали?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>17</ID>
+      <DefaultText>"Клянусь Черной Тройкой, *не сделал*", — его отказ быстрый, и сказал он это очень серьезно. — "Да я и корки хлеба себе не отрежу... больше не отрежу". Он проводит обеими руками по волосам, оставляя полоски муки на них. "Он следит за мной, и я не знаю почему".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>18</ID>
+      <DefaultText>Follow-up PQ. 18</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>19</ID>
+      <DefaultText>"Я говорил с стражем. Он что-то говорил о деле в поместье Гиллема".</DefaultText>
+      <FemaleText>"Я говорила с рекрутом. Он что-то говорил о деле в поместье Гиллема".</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>20</ID>
+      <DefaultText>"Прощай".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>21</ID>
+      <DefaultText>Follow-up PQ. 21</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>22</ID>
+      <DefaultText>"Я не понимаю, почему вы думаете, что ваш страж хочет убить вас".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>23</ID>
+      <DefaultText>"Еще раз скажи, почему вы думаете, что ваш страж хочет убить вас?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>24</ID>
+      <DefaultText>"Послушайте", — начинает он, очевидно пытаясь выдумать объяснение. "Послушайте", — вновь пытается он. — "Послушайте, за человеком не следят целыми днями, если для этого нет причины, ведь так? Может, кому-то нравится ваша обувь или интересно, сколько у вас денег. Теперь у меня нет денег, а моя обувь старше меня. Единственное, что у меня есть ценное – это жизнь!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>25</ID>
+      <DefaultText>"У меня нечего забрать кроме жизни. Это так просто".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>26</ID>
+      <DefaultText>"Я, это. Я буду здесь".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>27</ID>
+      <DefaultText>Follow-up PQ. 27</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>28</ID>
+      <DefaultText>"А *как* обычно ведет себя страж?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>29</ID>
+      <DefaultText>"Еще раз скажите, как обычно ведут себя стражи?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30</ID>
+      <DefaultText>Follow-up T. 30</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>31</ID>
+      <DefaultText>"Они..." — он колеблется, поднимая руки, будто пытаясь сдержать ответ, пока он не вырвался из уст. "Они работают на людей, издающих законы, так? И если кто-то нарушает эти законы, они его выслеживают. Заметьте, при этом они всегда улыбаются. Пожалуй, *мой* страж был бы несчастен".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>32</ID>
+      <DefaultText>"Улыбаются. Выслеживают тех, кто нарушает законы. А как видите, он не улыбается, а я ничего плохого не сделал!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>33</ID>
+      <DefaultText>"Давайте еще поговорим о том, что сказал мне страж".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>34</ID>
+      <DefaultText>"*Что* он сделал?" — говорит Финзин, побледнев. — "Потише говорите. Вы кому-то еще сказали об этом? Нет? *Хорошо*".  Он начинает говорить тихо. "Мне нельзя, это, выдавать подробности, понимаете? До того как стать гражданином, я был... я не был... добропорядочным человеком. Я крал вещи. За деньги. И несколько недель назад, определенные люди сказали, что хотят, чтобы я обокрал поместье Джиллема".  Его лицо искривляется, рукой он потирает шею. "Я собирался это сделать. Но затем я стал гражданином. Отдал год жизни, чтобы создать стража... *того* стража".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>35</ID>
+      <DefaultText>"Замечательно", — говорит он. — "Просто замечательно. Теперь что? Я вам сказал, что я ничего плохого не сделал!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>36</ID>
+      <DefaultText>"Не берите в голову. Давайте поговорим о чем-то другом".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>37</ID>
+      <DefaultText>"Конечно. Я не спешу идти домой, пока это *создание* следит за мной".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>38</ID>
+      <DefaultText>Follow-up PQ. 38</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>39</ID>
+      <DefaultText>"Страж видит, что бы произошло, если бы вы выполнили... задание. Он хочет получить еще один год от вас".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>40</ID>
+      <DefaultText>"Вас беспокоит, что страж это видит."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>41</ID>
+      <DefaultText>"О, я понял", — говорит он, вращая глазами. — "Это шантаж. 'Давай мне год, или я скажу им, что ты сделал'. Ну, я ничего не сделал, я никого не убил, и я ничего ему не должен! Я не могу бесплатно раздавать свои годы".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>42</ID>
+      <DefaultText>""</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>43</ID>
+      <DefaultText>"И? Это было мое решение. Не его".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>44</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>45</ID>
+      <DefaultText>"Ох, за что?" — говорит он раздраженно. "За пару кошмаров? Я ничего не сделал!" Он умолкает, скрестив свои руки будто от холода. "Хорошо. Что он увидел в этом другом будущем? Меня поймают? Может, будут преследовать?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>46</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>47</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>48</ID>
+      <DefaultText>"Как эта штука работает? И надо ли мне выбрать год или что-то еще?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>49</ID>
+      <DefaultText>"От этого ему будет больно? Я не хочу, чтобы это..." {SOUND: On exit, energy flows from Finzin into the Tormented Levy.} {SCRIPT:  We'll probably want VFX here as well. Something bright and painful-looking.}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>50</ID>
+      <DefaultText>"ААААААА!" {SOUND: On exit, energy flows from Finzin into the Tormented Levy.}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>51</ID>
+      <DefaultText>"Эй! Страж!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>52</ID>
+      <DefaultText>"Да, сделайте это. Удачи".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>53</ID>
+      <DefaultText>"Стойте здесь. Я попробую решить этот вопрос".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>54</ID>
+      <DefaultText>Follow-up PQ. 54</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>55</ID>
+      <DefaultText>"Какая польза рассказывать все капитану стражей?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>56</ID>
+      <DefaultText>"Скажите еще раз, где находится капитан стражей?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>57</ID>
+      <DefaultText>Follow-up T. 57</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>58</ID>
+      <DefaultText>"Стражи не должны повсюду следовать за своими гражданами. Но и плакаться они тоже не должны. Рассказав капитану, можно точно решить проблему, но я сам не собираюсь пытаться делать это".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>59</ID>
+      <DefaultText>"Площадь правительства. Там же, как и в то время, когда вы в последний раз спрашивали".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>60</ID>
+      <DefaultText>"Ну, дело сделано", — говорит он. — "Забавно. Когда они забрали первый год, было вовсе не больно. А от этого такое ощущение, что проглотил стекло".  Он потирает голову. "Но страж исчез. Это что-то значит".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>61</ID>
+      <DefaultText>"Вы заставили его уйти!" говорит он. "Не знаю, как вы это сделали, и, возможно, не стоит мне об этом говорить." Он шарит в своих карманах. "Но такая безупречная работа должна быть вознаграждена." {LOOT}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>62</ID>
+      <DefaultText>" Вы заставили его уйти!" — говорит он. — "И *улыбаясь*! Не знаю, как вы это сделали, и, возможно, не стоит мне об этом говорить". Он шарит в своих карманах. "Но такая безупречная работа должна быть вознаграждена".  {LOOT}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>63</ID>
+      <DefaultText>"Ха!" — восклицает он, бросив звенящий мешок в вашу руку. — "Вы заработали это. О, вам стоило бы *посмотреть* на эту сцену. Стражи пришли за нашим приятелем меньше десяти минут назад. Врезали ему, связали и утащили прочь".   Он трясет головой с ухмылкой на лице. "Стражи арестовывают стражей. В былые временя я бы корзину монет отсыпал, чтобы посмотреть на это".  {LOOT}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>64</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>65</ID>
+      <DefaultText>"Врезали?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>66</ID>
+      <DefaultText>"Что вы будете сейчас делать?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>67</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>68</ID>
+      <DefaultText>"Да, видите ли. Ударили. Стукнули. Врезали по башке". Финзин ухмыльнулся от удовольствия. "Наверное, на части его порвали пока мы тут говорим".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>69</ID>
+      <DefaultText>"Вернусь, пожалуй, в пекарню. Там в это время дня много посетителей бывает. Надо украсить много пирожных, понимаете?" Он подмигивает. "Или пойду прогуляюсь, теперь это опять безопасно. А?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>70</ID>
+      <DefaultText>"Прощай".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>71</ID>
+      <DefaultText>"Увидимся".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>91</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>92</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>93</ID>
+      <DefaultText>"Да, я видел это", — говорит он, качая головой. — "Насвистывая... Стражи обычно веселые, но никогда *настолько*".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>94</ID>
+      <DefaultText>"Вернусь, пожалуй, в пекарню. Там в это время дня много посетителей бывает. Надо украсить много пирожных, понимаете?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>95</ID>
+      <DefaultText>"Он больше вас не будет беспокоить".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>96</ID>
+      <DefaultText>"Что вы будете сейчас делать?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>97</ID>
+      <DefaultText>"Прощай".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>98</ID>
+      <DefaultText>"До встречи. {SCRIPT: Finzin exits and despawns.}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>99</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>100</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>101</ID>
+      <DefaultText>"Ну, если будет, то я вас снова найду," говорит он, пожимая плечами. "Не знаю, спугнули вы его или нет, но если это удалось вам один раз..."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>102</ID>
+      <DefaultText>"Нет. Если его можно уговорить уйти, то, возможно, я ошибался на счет убийства."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>103</ID>
+      <DefaultText>"Я уговорил его уйти, но он может вернуться."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>104</ID>
+      <DefaultText>"Вас не беспокоит то, что он может вернуться?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>105</ID>
+      <DefaultText>"Прощай".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>106</ID>
+      <DefaultText>"Тогда до встречи?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>107</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>108</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>109</ID>
+      <DefaultText>"Честно? Нет. У меня виски стучат и мокрота в горле. Надеюсь, что это пройдет".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>110</ID>
+      <DefaultText>"Конечно", — говорит он. — "Но опять же нет. Судя по вашим словам, я задолжал ему некую сумму. А долги надо платить, гражданин ты или нет". Он вздрогнул. "Думаю, мне надо прилечь. Я пошел". Он направился прилечь, но затем остановился.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>111</ID>
+      <DefaultText>"Вы хорошо себя чувствуете?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>112</ID>
+      <DefaultText>"Вы жалеете, что помогли стражу?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>113</ID>
+      <DefaultText>"Прощайте, Финзин".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>114</ID>
+      <DefaultText>"Да, до встречи".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>115</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>116</ID>
+      <DefaultText>"Вам нравится работа пекаря?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>117</ID>
+      <DefaultText>"Вам нравится</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>118</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>119</ID>
+      <DefaultText>"Да", — говорит он, отведя взгляд. — "Не думал, что мне понравится, знаете ли? Моя тетя заставляла меня рано вставать, носить подносы, считать куски теста. Думал, что и недели не выдержу".  Его лицо расплывается в улыбке так медленно, что, возможно, он этого и не чувствует. "Но мне нравится аромат и то, как румянится выпечка. И тетя стала разрешать мне делать сбоку всякие рисунки, цветы, кошек и все такое".  Он замечает, что вы смотрите, и краснеет. "Никому не говорите, ладно?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>120</ID>
+      <DefaultText>""</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>126</ID>
+      <DefaultText>"Что-то изменилось", — говорит он, хмурясь. — "Вдруг голова моя заполнилась мыслями об опасности. Например о том, насколько частыми были патрули стражей, или как капитан начала расследование, э-э, одного из моих старых дел".  Он играет с завязкой фартука, свисающей из кармана. "Поэтому я отказался от дела и начал работать в пекарне своей тетушки. Я так и не пошел на дело Гиллема. И это правда".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>127</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>128</ID>
+      <DefaultText>"Эй!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>129</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>130</ID>
+      <DefaultText>"Пс-с!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>131</ID>
+      <DefaultText>"Идите сюда!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>132</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>133</ID>
+      <DefaultText>"Как был создан ваш страж?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>134</ID>
+      <DefaultText>"Еще раз скажите, как делают стражей?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>135</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>136</ID>
+      <DefaultText>"Я что, похож на ученого? Я только знаю, где мне сказали стоять!"  Он бросил взгляд мимо вашего лица и снова стал смотреть на вас. "Послушайте. Люди, которые хотят быть уважаемыми в этом городе, становятся гражданами. Для *этого* надо зайти в эту... стеклянную камеру. Говорят, что это забирает год жизни. Я думаю, что из этого года они делают человеческую форму. Не знаю, как. Я бы и двух монет не заплатил, чтобы узнать".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>137</ID>
+      <DefaultText>"Они забирают год жизни и делают из него стража. Не знаю, как они это делают или зачем. Не хочу знать!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>138</ID>
+      <DefaultText>"Судя по тому, что он сказал, став гражданином, вы спасли себе жизнь".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>139</ID>
+      <DefaultText>"Это несправедливо. Он страдает за то, что совершили бы вы сами".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>140</ID>
+      <DefaultText>"Я ни в одном городе не видел такой справедливости", — говорит он, качая головой. — "Если найдете, сообщите мне".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>141</ID>
+      <DefaultText>"Этот довод убедительный".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>142</ID>
+      <DefaultText>"Да", — говорит он, кивая головой. — "Может, это несправедливо, но и не так уж неправильно".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>143</ID>
+      <DefaultText>"Вы устроили пожар, от которого погибло *много* людей".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>144</ID>
+      <DefaultText>"Вы... случайно причинили боль некоторым людям".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>146</ID>
+      <DefaultText>"Сколько... много это сколько?" — спрашивает он, потирая рот тыльной стороной ладони. Он видит, что глаза ваши не врут, и вздыхает.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>147</ID>
+      <DefaultText>"Боль?" — спрашивает он, морща лоб. "Сильную боль?" Он видит, что глаза ваши не врут, и вздыхает.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>148</ID>
+      <DefaultText>"Хорошо", — отрезает он. — "*Хорошо*. Но я не собираюсь носиться в поисках способа отдать свою жизнь". Он трет руками глаза. "Машина стражей находится в Ордене Истины. Пойдите поговорите с учеными, если вам не терпится это выяснить. Может, они еще что-то выдумают, заберут *еще один* год моей жизни и отдадут ему". На его лице появляется усмешка, но видно, что она неискренняя. "Желаю удачи".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>149</ID>
+      <DefaultText>Он проворчал. "Я бы отправился на Площадь правительства и рассказал капитану стражей, что он задумал... если бы смог хоть как-то это объяснить. 'Эй, ваш страж следит за мной. Я думаю, что это из-за того, что его преследует мое преступное прошлое".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>150</ID>
+      <DefaultText>"Я... Я уже чувствую себя хорошо, сэр. А вы?" {SCRIPT: Finzin is swaying.}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>151</ID>
+      <DefaultText>"Я в порядке. Оставьте меня в покое, ладно?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>152</ID>
+      <DefaultText>::насвистывание::</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>153</ID>
+      <DefaultText>"Вы сами можете с ним поговорить?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>154</ID>
+      <DefaultText>"Хорошо. Я поговорю с вашим стражем".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>155</ID>
+      <DefaultText>"Извините. Не обещаю".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>156</ID>
+      <DefaultText>Он громко глотает слюну. "Я слышал рассказы. Стражи иногда выходят из строя... становятся одержимыми теми, кто дал им жизнь. Если страж встретит такого человека, то он сходит с ума, разрывает его. Этого со мной не будет, не после всего-" — он внезапно умолкает. — "Не после всего того, что мне довелось пережить".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>157</ID>
+      <DefaultText>Он снова кивает в сторону человека в доспехах, который стоит поодаль на городской площади. "Он – единственный страж в этом районе, поэтому вы мимо него не пройдете. К тому же он не улыбается, как все остальные, а в руках держит какую-то штуку, вырезанную из дерева".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>158</ID>
+      <DefaultText>Его плечи резко опускаются. "Согласен. Я предпочитаю не просить об одолжениях, но... если вы передумаете, он – единственный страж в районе, поэтому его нетрудно найти". Он снова кивает в сторону человека в доспехах, который стоит поодаль на городской площади. "К тому же он не улыбается, как все остальные, а в руках держит какую-то штуку, вырезанную из дерева".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>159</ID>
+      <DefaultText>"Во всяком случае, я слышал истории о том, что делают стражи, когда сходят с ума". Он вздрогнул. "Они становятся одержимыми теми, кто дал им жизнь, и если страж встретит такого человека, это плохо кончается для этого человека".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>160</ID>
+      <DefaultText>"Во всяком случае, я рассказал вам то, что слышал... о сходящих с ума стражах". Он вздрогнул. "Посмотрите на того стража – в нем *все* не так".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>164</ID>
+      <DefaultText>"Он что-то сказал об одном поместье. Поместье Гиллема. Ничего не напоминает?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>168</ID>
+      <DefaultText>Финзин раскашлялся.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>169</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>170</ID>
+      <DefaultText>Финзин раскашлялся и отвернулся, тем самым спрятав свое лицо.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>171</ID>
+      <DefaultText>"Ну, *нет*".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>172</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>173</ID>
+      <DefaultText>"Он что-то сказал об одном поместье. Поместье Гиллема. Ничего не напоминает?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>174</ID>
+      <DefaultText>"Страж казался полностью уверенным в том, что вы знаете о названном им поместье".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>175</ID>
+      <DefaultText>Банк 172</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>176</ID>
+      <DefaultText>Банк 169</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>177</ID>
+      <DefaultText>Финзин раскашлялся и отвернулся, тем самым спрятав свое лицо. "Вроде, ничего!" ответил он тихим голосом. "Сумасшедшие стражи, значит?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>178</ID>
+      <DefaultText>"Ну, *нет*," сказал он, и в этот раз его лицо изобразило саму невинность. "Хорошо, что вы подбодрили его и отправили восвояси. Кто знает, что еще за очередную чушь он бы придумал."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>179</ID>
+      <DefaultText>"Он что-то сказал об одном поместье. Поместье Гиллема. Ничего не напоминает?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>180</ID>
+      <DefaultText>"Рекрут казался полностью уверенным в том, что вы знаете о названном им поместье".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>181</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>182</ID>
+      <DefaultText>(DEBUG) Play the cutscene of Finzin giving his levy a year of his life.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>183</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>184</ID>
+      <DefaultText>"Отдайте стражу еще год своей жизни. Вы еще полны сил. Ему стоит дать такой же шанс".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>185</ID>
+      <DefaultText>"Страж просто хочет получить еще один год вашей жизни. Вы ему столько должны".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>186</ID>
+      <DefaultText>"Он – просто моя копия", — говорит он, смеясь. — "А вообще и не копия. Я ничего ему не должен. Если и кто-то что-то должен, так это он мне!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>187</ID>
+      <DefaultText>"Я принес устройство, которое переведет год вашей жизни вашему стражу".</DefaultText>
+      <FemaleText>"Я принесла устройство, которое переведет год вашей жизни вашему стражу".</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>188</ID>
+      <DefaultText>"Хорошо. Всего один год, да?" Он фыркает от смеха, но в этом смехе не чувствуется радость. "У меня есть немного в запасе. Давайте с этим покончим".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>189</ID>
+      <DefaultText>"Эй! Страж!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>190</ID>
+      <DefaultText>::ворчит::</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>191</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>192</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>193</ID>
+      <DefaultText>"У меня перед ним долг, и на этом все."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>194</ID>
+      <DefaultText>"Почему вы не жалеете о повторной помощи стражу?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>195</ID>
+      <DefaultText>"Вам, э-э, еще что-то нужно?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>196</ID>
+      <DefaultText>"О, это вы. Я тут стою и пытаюсь придумать способ рассказать капитану стражей о нашем приятеле, стоящем там, чтобы не быть закованным в цепи. Мне ничего в голову не приходит".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>197</ID>
+      <DefaultText>Он пожимает плечами. "Вы хотите попытаться поговорить с ней? Она на Площади правительства".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>198</ID>
+      <DefaultText>"Я посмотрю, что могу сделать. Ждите здесь".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>199</ID>
+      <DefaultText>"Я бы не стал".</DefaultText>
+      <FemaleText>"Я бы не стала".</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>200</ID>
+      <DefaultText>"Удачи. Только, знаете, не говорите ей *слишком* много".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>201</ID>
+      <DefaultText>"Не думал об этом", — говорит он угрюмо. — "Я бы не сказал, что тоже осуждаю вас. Что тогда?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>202</ID>
+      <DefaultText>"Удалось что-то выяснить у ученых?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>203</ID>
+      <DefaultText>"Эй, чуть не забыл. Давайте я вам отплачу за ваши старания".  Он кладет вам в руку небольшой кошелек и уходит, спотыкаясь, схватившись за бок и бубня проклятия себе под нос.  {LOOT}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>204</ID>
+      <DefaultText>::бормотание::</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>205</ID>
+      <DefaultText>"Вы, ээ... говорили с Капитаном Стражей обо мне?"</DefaultText>
+      <FemaleText>"Ты, ээ... говорила с Капитаном Стражей обо мне?"</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>206</ID>
+      <DefaultText>"Не скажу, что так!" — глухо произносит он. — "Чокнутые стражи, а?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>207</ID>
+      <DefaultText>На этот раз его лицо — сама невинность.</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

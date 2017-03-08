@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\c_bloom\c4201_companion_barks</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>10</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>"Кристаллы. Я ненавижу кристаллы, всегда острые и мешаются под ногами. Они выглядят так, будто им здесь не место..."</DefaultText>
+      <FemaleText>"Кристаллы. Я ненавижу кристаллы, всегда острые и мешаются под ногами. Они выглядят так, будто им здесь не место..."</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>"...видимо, они всех уже поубивали..."</DefaultText>
+      <FemaleText>"...видимо, они всех уже поубивали..."</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>"...о боже, это те языки?!"</DefaultText>
+      <FemaleText>"...о боже, это те языки?!"</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>"В этом месте сейчас не лучшие времена".</DefaultText>
+      <FemaleText>"В этом месте сейчас не лучшие времена".</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>"По крайней мере, оно все еще существует".</DefaultText>
+      <FemaleText>"По крайней мере, оно все еще существует".</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>"Положи в карман несколько кристаллических осколков".</DefaultText>
+      <FemaleText>"Положи в карман несколько кристаллических осколков".</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>"Удивительно, что люди в Сагусе готовы заплатить за них, если им сказать, что они вылечат их люмбаго".</DefaultText>
+      <FemaleText>"Удивительно, что люди в Сагусе готовы заплатить за них, если им сказать, что они вылечат их люмбаго".</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\c_bloom\c4601_magmatic_annulet</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>1</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>[Lying on a pillar in this strange place is a crystalline object that radiates a faint light. This must be the object that Dracogen seeks. You quickly snatch it up.
+
+NOTE: In the full game you'll need to explore both this exterior area and the interior of the nearby caves in order to acquire the Annulet, so enjoy it while it's so easy!]</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

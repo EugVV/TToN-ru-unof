@@ -1,0 +1,394 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\a_sagus\a2201_nym</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>74</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>Маленькая девочка в залатанной тунике пинает камушек в круг, напевая: "Радость, радость и скорбь, радость и скорбь…"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>"Я с тобой не разговариваю. Ты убил Миттенса".</DefaultText>
+      <FemaleText>"Я с тобой не разговариваю. Ты убила Миттенса".</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>Ним больше не играет в свою игру. Она шмыгает носом и рисует палочкой в грязи. Она поднимает на вас глаза: "Ой. Привет".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>Маленькая девочка по-прежнему играет в свою странную игру со швырянием камней, но теперь приговаривает по-другому: "Вверх и вниз, вверх, вверх и вниз. Ура!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>"Как тебя зовут? Это твой дом?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>"Кто, говоришь, живет в твоем доме?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText>"Расскажи мне про Зебба".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>14</ID>
+      <DefaultText>"Расскажи мне еще раз про Зебба".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>15</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>16</ID>
+      <DefaultText>"Где твой отец?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>17</ID>
+      <DefaultText>"Где, говоришь, твой отец?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>21</ID>
+      <DefaultText>"Привет. Во что ты играешь?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>22</ID>
+      <DefaultText>Понаблюдать за ее игрой.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>23</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>24</ID>
+      <DefaultText>Она топает ножкой: "Ты все испортил! У меня почти вышло пять «радостей» подряд…" Она спохватывается, что только что накричала на незнакомого человека: "М-мой брат обычно говорит со всеми незнакомцами".</DefaultText>
+      <FemaleText>Она топает ножкой: "Ты все испортила! У меня почти вышло пять "радостей" подряд…" Она спохватывается, что только что накричала на незнакомого человека: "М-мой брат обычно говорит со всеми незнакомцами".</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>25</ID>
+      <DefaultText>"Радость! Ура!" — она поднимает на вас глаза. — "Пять подряд!" Она спохватывается, что говорит с незнакомым человеком: "М-мой брат обычно говорит со всеми незнакомцами".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>26</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>27</ID>
+      <DefaultText>"Могу я спросить кое-что у *тебя*?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>28</ID>
+      <DefaultText>"Хорошо. Я поговорю с твоим братом".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>29</ID>
+      <DefaultText>"Прощай".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30</ID>
+      <DefaultText>Она с волнением смотрит на мальчика постарше, который находится неподалеку: "Пожалуй".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>31</ID>
+      <DefaultText>"Позже!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>32</ID>
+      <DefaultText>"Расскажи мне, в какую игру ты играешь".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>33</ID>
+      <DefaultText>"Она называется «Скорбь и радость». Я сама ее выдумала!"
+
+Она снова начинает пинать камушек, сначала левой ногой, затем правой: "Нужно пинать камень левой-правой-левой-правой без остановки. Это радость. Если ты пинаешь его дважды той же ногой, это печаль. Пять радостей подряд — и ты выиграл. Пять печалей подряд — проиграл".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>34</ID>
+      <DefaultText>"В твоей игре новые слова. Ты поменяла правила?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>35</ID>
+      <DefaultText>"Да! Это совсем новая игра", — она пинает камушек. — "Теперь, если ты все делаешь правильно пять раз, твой дом остается на месте. Если ошибаешься пять раз, он падает. Так еще страшнее!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>36</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>37</ID>
+      <DefaultText>"Меня зовут Ним, и это дом моего папы, но его сейчас нет. Теперь здесь живем только я, Зебб, Авина и Монстр Миттенс. Мы ждем, когда папа вернется".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>38</ID>
+      <DefaultText>"Здесь живем я, Зебб и Авина… и мой папа тоже, но он никогда не приходит домой".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>39</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>40</ID>
+      <DefaultText>"Зебб — мой старший брат. Он заботится о нас. У него есть нож!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>41</ID>
+      <DefaultText>"Зебб — мой брат. Он присматривает за нами, пока не вернется папа".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>42</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>43</ID>
+      <DefaultText>"Он несет дозор в Цветении. Вернется домой со дня на день".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>44</ID>
+      <DefaultText>"Он работает на Мемориавиру в Цветении".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>45</ID>
+      <DefaultText>"Ты когда-нибудь слышала про Дом Пустого Времени? Это место для маленьких девочек и мальчиков, у которых нет родителей".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>46</ID>
+      <DefaultText>"Расскажи мне про своих соседей".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>47</ID>
+      <DefaultText>Она таращит глаза: "Это тюрьма? Я не хочу в тюрьму! У меня есть отец!". Она убегает и прячется за своим старшим братом: "Зебб, он хочет забрать меня в Дом Пустых Глаз!"</DefaultText>
+      <FemaleText>Она таращит глаза: "Это тюрьма? Я не хочу в тюрьму! У меня есть отец!". Она убегает и прячется за своим старшим братом: "Зебб, она хочет забрать меня в Дом Пустых Глаз!"</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>48</ID>
+      <DefaultText>Брат хватает ее и обнимает: "Тихо, Ним. Ты никуда не пойдешь. Не волнуйся".
+
+Он поднимает глаза на вас: "Простите, господин, иногда она пугается. Возможно, вам лучше поговорить со мной".</DefaultText>
+      <FemaleText>Брат хватает ее и обнимает: "Тихо, Ним. Ты никуда не пойдешь. Не волнуйся".
+
+Он поднимает глаза на вас: "Простите, госпожа, иногда она пугается. Возможно, вам лучше поговорить со мной".</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>49</ID>
+      <DefaultText>Ним показывает вам язык.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>50</ID>
+      <DefaultText>"Вредина!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>51</ID>
+      <DefaultText>"Кто такой Монстр Миттенс?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>52</ID>
+      <DefaultText>"У нас осталось мало соседей. Большинство спустились в…"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>53</ID>
+      <DefaultText>Ее брат вмешивается: "Я могу вам про это рассказать, господин. Спросите меня".</DefaultText>
+      <FemaleText>Ее брат вмешивается: "Я могу вам про это рассказать, госпожа. Спросите меня".</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>54</ID>
+      <DefaultText>Ним кивает: "Да, Зебб все знает".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>55</ID>
+      <DefaultText>"Спроси его".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>56</ID>
+      <DefaultText>"Он наш друг. Живет в переулке. Он…"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>57</ID>
+      <DefaultText>Внезапно Зебб поворачивается к Ним: "Ним, я запретил тебе говорить про Миттенса". Он смотрит на вас с глуповатой улыбкой: "Простите, господин. Миттенс — воображаемый друг Ним. Его не существует. Быть может, я смогу ответить на ваши вопросы".</DefaultText>
+      <FemaleText>Внезапно Зебб поворачивается к Ним: "Ним, я запретил тебе говорить про Миттенса". Он смотрит на вас с глуповатой улыбкой: "Простите, госпожа. Миттенс — воображаемый друг Ним. Его не существует. Быть может, я смогу ответить на ваши вопросы".</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>59</ID>
+      <DefaultText>"Эй!" — Зебб встает между вами и Ним. — "Не говори с ним, Ним. Это из-за него убили Миттенса".
+
+Он злобно глядит на вас: "Убирайся отсюда, ябеда".</DefaultText>
+      <FemaleText>"Эй! — Зебб встает между вами и Ним. — Не говори с ней, Ним. Это из-за нее убили Миттенса".
+
+Он злобно глядит на вас: "Убирайся отсюда, ябеда".</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>60</ID>
+      <DefaultText>Ним уставилась на вас: "Он убил Миттенса? Почему?"</DefaultText>
+      <FemaleText>Ним уставилась на вас: "Она убила Миттенса? Почему?"</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>61</ID>
+      <DefaultText>"Почему?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>62</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>63</ID>
+      <DefaultText>"Ты использовала слово «скорбь». Почему?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>64</ID>
+      <DefaultText>"Я не знаю. Оно мне нравится. Скорбь! Скорбь! Ра-дость! Ра-дость! Ра-дость!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>65</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>66</ID>
+      <DefaultText>"Кто такая Авина?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>67</ID>
+      <DefaultText>"Расскажи мне еще раз, кто такая Авина".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>68</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>69</ID>
+      <DefaultText>"Она моя сестра, хоть и не сестра. Она играет на флейте!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>70</ID>
+      <DefaultText>"Она моя старшая сестра, хоть и не сестра".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>71</ID>
+      <DefaultText>"Могу ли я задать тебе несколько вопросов?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>72</ID>
+      <DefaultText>"Если хочешь".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>73</ID>
+      <DefaultText>"Эй!" — Зебб встает между вами и Ним. — "Не говори с ним, Ним. Это он убил Миттенса!"
+
+Он злобно глядит на вас: "Убирайся отсюда, убийца".</DefaultText>
+      <FemaleText>"Эй!" — Зебб встает между вами и Ним. — "Не говори с ней, Ним. Это она убила Миттенса!"
+
+Он злобно глядит на вас: "Убирайся отсюда, убийца".</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>74</ID>
+      <DefaultText>Оставить ее.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>75</ID>
+      <DefaultText>"Вверх, вверх, вниз, вверх, вверх и вниз…"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>76</ID>
+      <DefaultText>"Меня зовут Ним, а это дом моего папы, только его сейчас нет. Теперь здесь живем только я, Зебб и Авина. Мы ждем, когда папа вернется".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>77</ID>
+      <DefaultText>"Вы брали что-нибудь из разрушенного дома около хиургического кабинета?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>78</ID>
+      <DefaultText>Ее глаза широко распахиваются: "У нас... у нас *неприятности*?"
+
+Она понижает голос до шепота: "Мы взяли немного еды. И... и Авина нашла маленькую волшебную шкатулку. Это все, честно".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>79</ID>
+      <DefaultText>Ним открывает рот, словно собираясь продолжить, потом смотрит на брата и снова закрывает рот.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>80</ID>
+      <DefaultText>Ее глаза наполняются слезами, и она смотрит вниз, на один из упавших домов: "Там жила моя подруга, но она..."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>81</ID>
+      <DefaultText>Брат перебивает ее: "Все в порядке, Ним. Ты не обязана говорить об этом". Он быстро качает головой, глядя на вас, и осторожно утирает сестре слезы.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>82</ID>
+      <DefaultText>"Он наш друг и живет в долине. Разве он не назвал тебе свое имя?"</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

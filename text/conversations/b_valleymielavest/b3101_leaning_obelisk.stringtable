@@ -1,0 +1,267 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\b_valleymielavest\b3101_leaning_obelisk</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>49</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>Пятиметровая черная плита из базальта или вулканического стекла, разглаженная годами. Каменная статуя держит плиту под углом, поднимая ее к небу... или опуская ее. Невозможно определить, существует ли наклон на самом деле, или это просто обман зрения. 
+ 
+ У верхнего края вы видите окно в другую реальность, портал, достаточно широкий, чтобы в него зайти. По ту сторону расположен какой-то суровый мир с обилием прямых углов.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>На плите почти не действует сила трения, практически невозможно за что-то зацепиться. Вы прижимаете пальцы к поверхности и чувствуете, что при прикосновении плита будто тает. Вы ложитесь на живот и сантиметр за сантиметром подтягиваетесь вверх, ваши пальцы начинают кровоточить.
+ 
+ Вы достигаете отметки в три метра, и блестящая каменная плита начинает содрогаться.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>Перед вами предстает та же картина: статуя со вздымающимися напряженными мышцами, согнувшаяся под тяжестью огромного слитка вулканического стекла, манящий к себе портал на верху склона. Взобраться по плите представляется довольно легким... подняться вверх и узнать, что находится за сверкающими воротами.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>Взобраться по склону к порталу.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>Отойти.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>Поговорить со статуей. "Вы поднимаете плиту или опускаете?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>14</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>15</ID>
+      <DefaultText>Кажется, статуя немного поменяла положение с прошлого раза. Вы не совсем уверены, но что-то в ней слегка изменилось. Из-за уловки скульптора кажется, что статуя следит за вами, куда бы вы не пошли.
+ 
+ И снова у вас странное чувство, что выражение лица скульптуры изменилось.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>16</ID>
+      <DefaultText>Взобраться по склону к порталу.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>17</ID>
+      <DefaultText>Плита лежит на земле, сероватое кровавое пятно и протянутая рука — все, что осталось от скульптуры. Портал наверху закрылся.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>18</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>19</ID>
+      <DefaultText>Однако в руке кое-что есть. Какая-то маска.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20</ID>
+      <DefaultText>Взять маску.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>21</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>22</ID>
+      <DefaultText>Отойти.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>23</ID>
+      <DefaultText>Она серого цвета, как безжизненный камень. Других отличительных черт нет.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>24</ID>
+      <DefaultText>Кроме того, что она представляет собой полоску серой ткани, свободно свисающей с кончиков пальцев. У маски странное оформление, в прорези для глаз вставлены линзы.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>25</ID>
+      <DefaultText>Как только вы поднимаете маску, ее мертвенно-бледный взор устремляется на вас. Серая ткань у вас в руках на ощупь напоминает плоть, полоску сочащегося мяса. В ваши мысли проникает ласковый шепот: "Процветание".
+ 
+ Вы чувствуете бессознательное отвращение и отворачиваетесь от упавшей плиты.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>26</ID>
+      <DefaultText>Статуя вам не отвечает. Может быть, она *не может* ответить.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>27</ID>
+      <DefaultText>Вы ослабляете хватку и соскальзываете на землю, в момент потеряв все завоеванное расстояние. Каменное изваяние падает на землю с громогласным шумом под крик смертельного ужаса. В воздух поднимается огромное облако пыли.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>28</ID>
+      <DefaultText>Подойдя поближе, вы ощущаете тяжелое психологическое давление обелиска, словно надежды и ожидания целой культуры были слиты воедино в этом монументе. Мысль оправдать эти надежды и взобраться по склону... устрашает.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>29</ID>
+      <DefaultText>Пыль оседает, и вы видите, что портал исчез. 
+ 
+ Вы видите торчащую из-под камня руку, которая держит кусок серой ткани, напоминающий маску. Пальцы дергаются один раз... второй... и замирают.
+ 
+ Тонкой струйкой вытекает темная жидкость, образуя лужицу и свертываясь.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>31</ID>
+      <DefaultText>Хотя плита вызывает у вас любопытство, вы понимаете, что изучать ее, потому что вас послало безумное биомеханическое головоногое, не очень разумно.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>32</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>33</ID>
+      <DefaultText>Это серая статуя облаченного в мантию человека с прикрепленным к спине украшенным боевым молотом, держащего мускулистыми руками обелиск (или мягко опускающего его). Он источает свирепую решительность, будто он использует каждую частичку энергии для подъема (или спуска) огромной плиты.
+ 
+ К его спине прикреплен знак, на котором детскими каракулями написано: "Святой Иносказатель".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>34</ID>
+      <DefaultText>Серая статуя напряженно поднимает (или опускает) огромную плиту. Знак на его спине гласит: "Святой Иносказатель".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>35</ID>
+      <DefaultText>Вы что-то слышите, слабый шепот человеческой мысли. Вы не можете разобрать слова, но кажется, что он исходит от самой статуи.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>36</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>37</ID>
+      <DefaultText>Осмотреть плиту.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>38</ID>
+      <DefaultText>Осмотреть плиту еще раз.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>39</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>40</ID>
+      <DefaultText>Осмотреть статую.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>41</ID>
+      <DefaultText>Осмотреть статую еще раз.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>42</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>43</ID>
+      <DefaultText>Она кажется идеально гладкой. Чья-то любящая рука отполировала ее до зеркального блеска, хотя при малейшем движении отражение искажается. Когда вы наклоняетесь, чтобы рассмотреть ее, ваше отражение кажется неописуемо красивым. Подойдя несколькими сантиметрами ближе, вы видите настолько жуткое отражение, что хочется вскрикнуть.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>44</ID>
+      <DefaultText>Ничего не изменилось. Плита осталась такой же черной и гладкой, искажающей ваше отражение при малейшем движении.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>45</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>46</ID>
+      <DefaultText>Должно быть, это та маска, которая нужна отвратительному Слиянию.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>47</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>48</ID>
+      <DefaultText>Осмотреть руку.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>49</ID>
+      <DefaultText>Осмотреть руку еще раз.</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

@@ -1,0 +1,547 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\a_sagus\a2211_ziobe</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>103</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>Лицо этой женщины не выдает ее возраста — по виду не старая, но и не юная, ровное, но какое-то *неидеальное*. Ее темные волнистые волосы как облако спадают с плеч. Она заговорила звонким, почти неестественным голосом: "Я Зиобе. А ты..." — она сосредоточилась, сжав пальцы на висках. 
+
+Когда ее сотрапезники начинают улыбаться, она отстраняется от них. "На самом деле я не умею читать мысли, как эти двое. Я просто шучу".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>"Мне, пожалуй, достаточно и «почти угадала». Тебя сложно прочесть".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>Она улыбается и смотрит вам прямо в глаза. Вы чувствуете легкое давление, и она изрекает: "У тебя острый слух... наряду с другими секретами. Что ж, у каждого в жизни найдется пару тайн. И, думаю, нам стоит оставить их при себе?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>"Я? Меня зовут Зиобе. Я родом их западных районов Часов Калы, из-под Матеуниса". Она слегка кивает головой. "У меня и моих товарищей есть возможность поучаствовать в некоторых противостояниях... хотя, если ты хочешь узнать поподробнее об этих конфликтах, тебе стоит поговорить с Даамой. Я их поддержка и, если придется, их физическая сила".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>(Ложь) "Я вообще-то из города к северу отсюда".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>"Я ищу воинов, готовых присоединиться к Бесконечной Битве. Кларион посчитал бы за честь иметь такого союзника".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>"Ты лингвист? Суда по акценту, ты местная".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>Она молча кивает.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>"Это «Пятый Глаз». Медиумы и псионики Утесов Сагуса на протяжении веков приходили сюда, чтобы закрыться от городского шума. Легче жить среди друзей, среди себе подобных". Она смеется. "Хотя не все здесь такие, как мы. Некоторые из тех, кого ты видишь, всего-лишь проекции нашего разума. Некоторых наш разум призвал сюда. А некоторые даже прибыли из других измерений!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>"Но, если ты не против, я бы предпочла больше не говорить об этом. У нас так не принято".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>14</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>15</ID>
+      <DefaultText>"Думаю, это Даама".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>16</ID>
+      <DefaultText>"Я думаю, это Теборос".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>17</ID>
+      <DefaultText>"Я думаю, это Лето".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>18</ID>
+      <DefaultText>"Я думаю, это Фериок".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>19</ID>
+      <DefaultText>"Я думаю, это ты, Зиобе".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20</ID>
+      <DefaultText>Она весело смеется. "Даже не буду спрашивать, как ты догадался. Если ты угадал, значит, тебе повезло, чутье тебя не подвело".
+
+Затем ее лицо вытянулось.</DefaultText>
+      <FemaleText>Она весело смеется. "Даже не буду спрашивать, как ты догадалась. Если ты угадала, значит, тебе повезло, чутье тебя не подвело".
+
+Затем ее лицо вытянулось.</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>21</ID>
+      <DefaultText>Он тычет пальцем в свои руки и качает головой. "Нет, не я".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>22</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>23</ID>
+      <DefaultText>"Это ты — ментальная проекция?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>24</ID>
+      <DefaultText>"Прощай".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>25</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>26</ID>
+      <DefaultText>"Не могу поверить, что Даамы больше нет. Он был нашим предводителем, тем, кто помогал противостоять Врагам. Но сами мы в состоянии лишь имитировать его жертвенность. Я... надеюсь, что мы сможем продолжить жизнь без него".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>27</ID>
+      <DefaultText>"Для меня с войной покончено. Баста. Я не хочу больше иметь дело с конфликтами. Я свое отслужила. Может, мои соратники помогут, но не я. Можешь больше не спрашивать".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>28</ID>
+      <DefaultText>"Почему ты заплакала, когда Фериок сказал мне, что он слепой?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>29</ID>
+      <DefaultText>Она склонила голову смущенно. "Мне жаль". Вы чувствуете, как волна психического давления накатывает на вас, проходя через весь бар — словно успокаивая или извиняясь. "Мне не стоило так реагировать. Состояние Фериока... я виню себя в том, что он потерял... зрение. Если бы я была лучше подготовлена, я могла бы сфокусировать атаку. И тогда он бы так не пострадал".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30</ID>
+      <DefaultText>"Что это за глаз был у тебя на лбу?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>31</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>33</ID>
+      <DefaultText>"Можешь еще раз рассказать о млоксах?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>34</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>35</ID>
+      <DefaultText>"Ничего уже не изменишь, наверное, так что теперь не страшно, если ты узнаешь об этом, но я буду тебе благодарна, если ты сохранишь мою тайну. Я — млокс, разумная машина в человеческом теле. Млоксы тихие и дружелюбные, и в большинстве своем хотят того же, что и ты — чтобы их оставили в покое. И здесь, среди своих друзей, я могу *быть* такой, как ты. Я могу быть полезной".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>36</ID>
+      <DefaultText>"Нет. Как я уже сказала, мы народ скрытный, и я не хочу предавать доверие себе подобных".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>37</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>38</ID>
+      <DefaultText>"Можешь рассказать поподробнее о себе?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>39</ID>
+      <DefaultText>"Можешь еще раз рассказать о себе?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>40</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>41</ID>
+      <DefaultText>"Что здесь происходит?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>42</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>43</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>44</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>45</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>46</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>47</ID>
+      <DefaultText>"Что ты можешь мне рассказать про Врагов?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>48</ID>
+      <DefaultText>"Можешь рассказать что-нибудь еще о Врагах?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>49</ID>
+      <DefaultText>"Попутного ветра".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>50</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>52</ID>
+      <DefaultText>"Меня зовут Зиобе. Я исполняю роль наемного убийцы в нашей группе ветеранов, я наношу физический урон, после того как мои соратники снимут ментальную защиту врага".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>53</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>54</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>55</ID>
+      <DefaultText>У нее звонкий и чистый голос, без акцента. Так как ваше ухо привыкло к говору жителей Утесов Сагуса, вам кажется необычным, что кто-то из далекого Матеуниса так хорошо владеет местным диалектом.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>57</ID>
+      <DefaultText>"Я по другому вопросу".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>58</ID>
+      <DefaultText>"Спасибо. Прощай".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>59</ID>
+      <DefaultText>"Конечно".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>60</ID>
+      <DefaultText>"Я знаю, кто является ментальной проекцией".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>61</ID>
+      <DefaultText>Она смеется и скрещивает руки. "Кто?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>62</ID>
+      <DefaultText>"Забудь. Прощай".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>63</ID>
+      <DefaultText>"Неважно. Позволь мне спросить о другом".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>64</ID>
+      <DefaultText>"Во мне начала проявляться его сущность после того, как его убили. Он был нашим наводчиком, тем, кто видел Врагов и заманивал их на поле боя. Но последний Враг, с которым мы сражались... он был готов к нашей встрече. Он захватил брошенную ему приманку и следовал за его разумом до самой реальности. Он испепелил", — замолчала она, подавляя рыдание. — "Он испепелил его изнутри".
+
+Она смотрит вдаль. "Он заманил его к нам, и последним усилием воли пригвоздил его к месту".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>65</ID>
+      <DefaultText>Она продолжает. "Враг не обращал никакого внимания на нас, даже когда мы яростно атаковали его. Ему было важнее уничтожить, истребить Фериока, чем защитить себя. Как будто его главной целью было ослепить нас, а не спастись".
+
+Ее голос становится резким. "Тем не менее, мы победили. И пока я жива, я буду хранить память о нем. Он будет продавать напитки и скверно шутить, и здесь всем будут рады. Это наименьшее, что я могу сделать для него".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>66</ID>
+      <DefaultText>"Надо внимательнее слушать" — проворчал он. "Это не я".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>67</ID>
+      <DefaultText>"Как жаль! Это Фериок". Он машет рукой у бара. "Мы все знаем, но..." Она сглатывает. "Мне жаль. Мне трудно говорить об этом".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>68</ID>
+      <DefaultText>"Ты можешь серьезно ответить на мои вопросы?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>69</ID>
+      <DefaultText>"Так у тебя нет ментальных способностей?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>70</ID>
+      <DefaultText>"Так ты не будешь угадывать, кто я?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>71</ID>
+      <DefaultText>"Я *могу*, хотя тебе придется сначала ответить мне на один вопрос".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>72</ID>
+      <DefaultText>"Скажи мне, ты из здешних мест? Из какой-нибудь маленькой деревушки, немного удаленной, но все еще в пределах влияния Протектората Сагуса? Возможно, из-под Арвринского леса?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>73</ID>
+      <DefaultText>"Есть. Но они немного иного характера". Она поднимает бровь, и бокал поднимается со стола и подлетает к ее губам. Она изящно отпивает глоток, и бокал опускается на стол.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>74</ID>
+      <DefaultText>"Я не знаю, *кто* ты, но я могу сказать, *откуда* ты".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>75</ID>
+      <DefaultText>"Почти угадала".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>76</ID>
+      <DefaultText>"Честно сказать, я не знаю, откуда я. Я родом с падающей звезды".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>77</ID>
+      <DefaultText>"Черт возьми", — пожимает она плечами. — "Что ж. Нельзя уметь все и сразу".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>78</ID>
+      <DefaultText>"Твой голос, твоя интонация, твои манеры... Все это указывает, что тебя воспитывали те, кто говорил на более древнем диалекте Утесов Сагуса. Возможно, это был отдаленный алдей или какой-нибудь анклав".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>79</ID>
+      <DefaultText>"А... что? Откуда ты знаешь местный язык? Наверное, ты очень наблюдательный".</DefaultText>
+      <FemaleText>"А... что? Откуда ты знаешь местный язык? Наверное, ты очень наблюдательная".</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>80</ID>
+      <DefaultText>"Более того, в здешних местах считается грубостью давать волю чувствам. Я должна была сдержаться. Этого больше не случится".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>81</ID>
+      <DefaultText>"Это ты — ментальная проекция?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>82</ID>
+      <DefaultText>"Я? Нет. Нет, конечно. Вообще-то я теперь проецирую его. Моя сила делает его проекцию возможной. На твоем месте я бы сконцентрировалась на... хм-м-м... физических качествах. Желаю удачи!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>83</ID>
+      <DefaultText>Она отклоняется, прикладывая палец к губам. "У меня есть для тебя испытание. Один из пятерых владельцев этого бара является проекцией. Поговори с другими ветеранами пси-войн и попробуй догадаться, кто из нас — проекция. Но каждому из нас ты можешь задать лишь один вопрос, так что подумай хорошенько".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>85</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>86</ID>
+      <DefaultText>"Я не знаю, откуда они пришли и чего хотят", — в ее жестком голосе звучат нотки гнева. "Я лишь знаю, что они уничтожают все, к чему прикасаются, и потому я их уничтожу. Мои друзья вытягивают их профили в реальный мир, а затем я отрезаю их от их источника", — она допивает свой напиток. "*Обожаю* это делать".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>87</ID>
+      <DefaultText>"Извини, я пустяками не занимаюсь. Мои друзья указывают мне на проблему, а я ее решаю".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>88</ID>
+      <DefaultText>"Любой из нас пожертвовал бы тем же, Зиобе. Кто бы ни оказался в такой ситуации". Он говорит мягко, будто пытаясь убедить в этом себя.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>90</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>91</ID>
+      <DefaultText>"Твой глаз во лбу похож на тот железный глаз, который мне дали. Что ты о нем знаешь?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>92</ID>
+      <DefaultText>"Ты не расскажешь мне еще раз о металлическом глазе, который мне дали?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>93</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>94</ID>
+      <DefaultText>Она берет у вас глаз и вертит его в руках. Его усики обхватывают ее руку и один из них подключается к потайному разъему. Глаз открывается и смотрит на вас.
+
+"О боже!" — восклицает она. — "Это очень похоже на работу моих предков". Она закрывает свои человеческие глаза. "Бесспорно, очень похоже. Эти цивилизации давно исчезли, но... да, скорее всего, его создала цивилизация машин, которые стремили установить контакт с другими машинами".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>95</ID>
+      <DefaultText>"По виду очень напоминает разработки моих предков. Не на сто процентов, но очень похоже. Судя по конструкции, его создатели хотели наладить связь с другими разумными машинами".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>96</ID>
+      <DefaultText>"Давай обменяемся".
+
+{SCRIPT: Remove Flower Eye from PC, give Ziobe Eye}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>97</ID>
+      <DefaultText>"Не сейчас. Позволь мне задать тебе еще несколько вопросов".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>98</ID>
+      <DefaultText>"Не прямо сейчас. Прощай".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>99</ID>
+      <DefaultText>"Хорошо. Но, если вдруг передумаешь, дай мне знать. Я с удовольствием помогу тебе... избавиться от этого глаза. Если можно так выразиться".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>100</ID>
+      <DefaultText>"Хорошо. Но, если вдруг передумаешь, дай мне знать. Я с удовольствием помогу тебе... избавиться от этого глаза. Если можно так выразиться".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>102</ID>
+      <DefaultText>"Прими мою благодарность". Глаз на ее лбу снова открывается и пялится на вас. Она наклоняет голову вперед, и вы слышите отчетливый щелчок внутри. Глаз выпадает, обнажая провод, но она ловко ловит его. 
+
+Она вставляет глаз обратно в глазницу. Что-то захватывает его и какой-то внутренний механизм вставляет его на место. На мгновенье она смотрит через новый глаз, закрыв человеческие, и кивает. Глаз закрывается.
+
+"Большое спасибо", — шепчет она.
+
+{SCRIPT: This should up Ziobe's power in the Adversary Tussle}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>103</ID>
+      <DefaultText>Хотя Зиобе утверждала, что не умеет читать мысли, ее разум непроницаем. А еще она может быть одной из шпионок владельца бара.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>104</ID>
+      <DefaultText>Она вяло смотрит на вас: "Это был Фериок. Я создала его".
+
+Она рисует линию в пролитой жидкости: "Извини. Это была веселая игра, пока... пока мы не проиграли..."
+
+Она закрывает глаза: "Ты хочешь узнать про Фериока?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>106</ID>
+      <DefaultText>Взгляд у нее суровый: "Мы готовимся к противостоянию с Врагом. Пожалуйста, не мешай мне. Если хочешь помочь, поговори с Даамой".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>107</ID>
+      <DefaultText>"Нам грозит истребление".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>108</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>109</ID>
+      <DefaultText>Ее бокал отрывается от стола сам по себе. "Это великий поступок. Хоть о нем никто никогда не узнает, мы с товарищами всегда будем об этом помнить".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>110</ID>
+      <DefaultText>Она выразительно смотрит на бармена. "Жаль, что не все мои друзья решили остаться. Будем надеяться, что Бесконечная Битва не заберет еще кого-то из нас".</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

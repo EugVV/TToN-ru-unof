@@ -1,0 +1,695 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\c_bloom\c4101_dracogen_intro_new</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>133</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>169</ID>
+      <DefaultText>Он быстро и со знанием дела оглядывает вас: "Есть ли у тебя вопросы? Возможно, я смогу ответить".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>170</ID>
+      <DefaultText>"Как я тут оказался? Я всего лишь коснулся пирамиды".</DefaultText>
+      <FemaleText>"Как я тут оказалась? Я всего лишь коснулась пирамиды".</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>171</ID>
+      <DefaultText>"Что это были за голоса?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>172</ID>
+      <DefaultText>"Расскажи о себе".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>173</ID>
+      <DefaultText>"У меня дела. Прощай".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>174</ID>
+      <DefaultText>"Не спеши, друг мой. Я понимаю в делах, и, если я правильно угадал, наши интересы совпадают".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>176</ID>
+      <DefaultText>"Цветение — живое существо, присутствующее в нескольких измерениях. Его сознание — если это можно так назвать — не похоже ни на что из известного нам. Так что, если я правильно угадал, ты слышал несколько из многих голосов Цветения".</DefaultText>
+      <FemaleText>"Цветение — живое существо, присутствующее в нескольких измерениях. Его сознание — если это можно так назвать — не похоже ни на что из известного нам. Так что, если я правильно угадал, ты слышала несколько из многих голосов Цветения".</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>178</ID>
+      <DefaultText>"Я обмениваю сведения, услуги и нуменеры, и, так уж вышло, что я знаю о тебе и таких, как ты. Ты — отверженный Меняющегося Бога, моего старого приятеля. Я знаю много подобных тебе. Знаю даже о Миэль Авесте, вашем тайном убежище. Так что спрашивай, а я попытаюсь ответить как можно точнее".</DefaultText>
+      <FemaleText>"Я обмениваю сведения, услуги и нуменеры, и, так уж вышло, что я знаю о тебе и таких, как ты. Ты — отверженная Меняющегося Бога, моего старого приятеля. Я знаю много подобных тебе. Знаю даже о Миэль Авесте, вашем тайном убежище. Так что спрашивай, а я попытаюсь ответить как можно точнее".</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>179</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>180</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>181</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>182</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>183</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>185</ID>
+      <DefaultText>"Некогда я должен был получить артефакт, но его унесли в место под названием Вознесение Кех-Ляниша — это мир кристальной красоты. Артефакт нужно вернуть. Он называется «магматический аннулет», это корона из темного глянцевого материала. Она мне очень нужна. *Очень*. Думаю, только ты и можешь вернуть ее".
+
+Он кланяется: "Найди ее и принеси мне, а я гарантирую тебе встречу с Мемовирой".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>186</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>189</ID>
+      <DefaultText>"Я встречал твоего господина. Знаю, что он создает и выбрасывает вас. Знаю, что Меняющегося Бога преследует Скорбь, и, как следствие, уничтожает его отверженных". Он улыбается: "Я знаю и еще кое-что, но сведения — мое ремесло. Быть может, мы позже поговорим о том, что мне известно".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>191</ID>
+      <DefaultText>"Что такое Пасть?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>200</ID>
+      <DefaultText>"Что же это? Что за новое сокровище ждет меня?" — раздается гулкий радостный голос. Вы открываете затуманенные глаза и видите радостного нелюдя с серой кожей, который улыбается всеми зубами. Он высок и широк в плечах, и, видимо, довольно силен. Руки его оканчиваются длинными ногтями.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>201</ID>
+      <DefaultText>"Приложение 201".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>202</ID>
+      <DefaultText>"Но что же это я? Меня зовут Дракоген, а ты находишься в Цветении. Хотя, не думаю, что ты намеревался попасть сюда именно таким способом".</DefaultText>
+      <FemaleText>"Но что же это я? Меня зовут Дракоген, а ты находишься в Цветении. Хотя, не думаю, что ты намеревалась попасть сюда именно таким способом".</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>203</ID>
+      <DefaultText>Его голос теплый и дружелюбный, но есть в его тоне нечто хищное.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>204</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>205</ID>
+      <DefaultText>"Как попасть в Вознесение?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>206</ID>
+      <DefaultText>"Следуй по караванной дороге до торгового поста, найдешь там Пасть, которая и ведет в Вознесение".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>207</ID>
+      <DefaultText>"Запомни: магматический аннулет из Вознесения".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>208</ID>
+      <DefaultText>"Что если я откажусь?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>209</ID>
+      <DefaultText>Дракоген пожимает плечами: "Тогда не попадешь в крепость Мемовиры, и, скорее всего, тебя пожрет Цветение. Останутся лишь воспоминания о несбывшемся. Но, как и все остальное, выбирать тебе".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>210</ID>
+      <DefaultText>Дракоген указывает на большую открытую комнату позади себя: "Поспрашивай. Увидишь, что торгую я честно. Также узнаешь, что я не обманываю". Он сдерживает зевок: "Но у меня есть дела. Если тебе надо попасть к Мемовире, то лучше ступай".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>211</ID>
+      <DefaultText>"Не помнишь? Как жаль. Наверняка знатный был опыт... Если бы ты пришел из крепости Мемовиры или по одной из дорог, то запомнил бы путь. Пути Цветения необычны, и не все из них приятны".</DefaultText>
+      <FemaleText>"Не помнишь? Как жаль. Наверняка знатный был опыт... Если бы ты пришла из крепости Мемовиры или по одной из дорог, то запомнила бы путь. Пути Цветения необычны, и не все из них приятны".</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>212</ID>
+      <DefaultText>"Пасть — один из множества ртов Цветения, тянущий его щупальца по измерениям. Некоторые предприимчивые личности путешествуют по щупальцам, исследуют иные миры и приносят с собой странные и чудесные вещи на обмен".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>214</ID>
+      <DefaultText>На миг он преисполняется гордости: "Я Дракоген. Тот, кто ищет необходимое, даже если ты еще не знаешь, что оно тебе необходимо. Я торгую сведениями и щедро плачу тем, кто работает на меня. Поспрашивай вокруг, и все подтвердят, что я торгую честно".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>219</ID>
+      <DefaultText>"Большинство отверженных предпочитает не возвращаться в Цветение. Оно ведь великий хищник, знаешь ли, и весьма интересуется душевной силой отверженных. Возможно, оно чует остатки жизни вашего создателя".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>220</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>221</ID>
+      <DefaultText>Дракоген шутливо кланяется Мэткине: "Разумеется, Мэткина — исключение, ибо она здесь весьма сведуща. Миледи, как давно я не видел вас!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>222</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>223</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>224</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>227</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>229</ID>
+      <DefaultText>"Жесткая, беспощадная женщина. Она правит Цветением, потому что оно благоволит ей. Она пользуется этим преимуществом, дабы контролировать торговыми путями и доступом к Пастям, ведущим в иные миры. Но Пасти закрываются, и ее средства тают".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>230</ID>
+      <DefaultText>Он смотрит на Мэткину: "Думаю, подруга расскажет тебе больше о ней".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>231</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>232</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>234</ID>
+      <DefaultText>Дракоген натянуто улыбается и склоняет голову: "Я надеялся на это".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>235</ID>
+      <DefaultText>"Я принимаю твои условия".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>236</ID>
+      <DefaultText>Он указывает на дорогу, ведущую прочь со двора: "Ступай по караванному пути до торгового поста. Там есть Пасть, она доставит в Вознесение".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>237</ID>
+      <DefaultText>"Приложение 237".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>238</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>239</ID>
+      <DefaultText>Он указывает на дорогу, ведущую прочь со двора: "Ступай по караванному пути до торгового поста. Там есть Пасть, она доставит в Вознесение".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>240</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>241</ID>
+      <DefaultText>Тибир шепчет вам на ухо: "Не делай этого. Он милый только тогда, когда ему что-то надо. А когда ему что-то от тебя надо, это *всегда* плохо".
+
+{TYBIR}
+
+{SCRIPT: Set Global: Tybir_Dracogen_Intro=1; check this in Dracogen's main dialogue}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>244</ID>
+      <DefaultText>"Спроси своего друга Тибира, что бывает с теми, кто мне вредит. Но, думаю, не стоит начинать отношения с угроз. У нас есть общий интерес, и, возможно, ты сумеешь кое-что сделать для меня".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>245</ID>
+      <DefaultText>"Спроси их, что бывает с теми, кто мне вредит. Но, думаю, не стоит начинать отношения с угроз. У нас есть общий интерес, и, возможно, ты сумеешь кое-что сделать для меня".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>246</ID>
+      <DefaultText>Тибир отшатывается и через силу улыбается: "Ссориться с Дракогеном? Да, лучше не надо".
+
+{TYBIR}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>247</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>249</ID>
+      <DefaultText>Тибир стонет: "Не соглашайся ни на что. Поссориться с Дракогеном — кратчайший путь в могилу. И неважно, порядочный ты, или хочешь его надуть: одна честная ошибка, крохотное недопонимание условий уговора, и нет тебя. Беги от него. Беги".
+
+{TYBIR}</DefaultText>
+      <FemaleText>Тибир стонет: "Не соглашайся ни на что. Поссориться с Дракогеном — кратчайший путь в могилу. И неважно, порядочная ты, или хочешь его надуть: одна честная ошибка, крохотное недопонимание условий уговора, и нет тебя. Беги от него. Беги".
+
+{TYBIR}</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>250</ID>
+      <DefaultText>Дракоген потирает виски: "Луна Раздора. Недоумок".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>253</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>254</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>255</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>256</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>257</ID>
+      <DefaultText>"Тибир! Старинушка!" — голос его дружелюбен, улыбка широка. — "Как поживаешь?"
+
+Дракоген поднимает палец: "Минуточку, еще успеем наговориться. Мне нужно обратиться к твоему спутнику. Есть одно срочное дело, которое совершенно не ждет. Уверен, ты меня поймешь".
+
+Он снова поворачивается к вам.</DefaultText>
+      <FemaleText>"Тибир! Старинушка! — голос его дружелюбен, улыбка широка. — Как поживаешь?"
+
+Дракоген поднимает палец: "Минуточку, ещё успеем наговориться. Мне нужно обратиться к твоей спутнице. Есть одно срочное дело, которое совершенно не ждёт. Уверен, ты меня поймёшь".
+
+Он снова поворачивается к вам.</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>258</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>259</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>260</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>261</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>262</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>263</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>264</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>265</ID>
+      <DefaultText>Дракоген поворачивается к Тибиру: "А теперь, старина, продолжим знакомство! Как Овин? Воссоединились ли вы?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>266</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>267</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>268</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>269</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>271</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>272</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>273</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>274</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>275</ID>
+      <DefaultText>"Послушай, Тибир! Я думаю, что *наша* сделка отлично удалась. Уж ты точно в накладе не остался".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>276</ID>
+      <DefaultText>"Я ищу Первую Отверженную".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>277</ID>
+      <DefaultText>"Она уже больше века мертва. В могиле искал?"</DefaultText>
+      <FemaleText>"Она уже больше века мертва. В могиле искала?"</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>279</ID>
+      <DefaultText>"Понятно. Так что ты хочешь за то, чтобы представить меня Мемовире?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>280</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>281</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>282</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>283</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>284</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>285</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>286</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>287</ID>
+      <DefaultText>"Что ты знаешь об отверженных?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>288</ID>
+      <DefaultText>"Расскажи еще, что ты знаешь об отверженных".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>289</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>291</ID>
+      <DefaultText>"Вы — создания. За вами охотятся. И почти все вы страдаете".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>292</ID>
+      <DefaultText>"Она жива и она здесь, в Цветении. Так мне сказал Мазоф".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>293</ID>
+      <DefaultText>"Хорошо. Где в Цветении можно начать поиски какого угодно отверженного?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>294</ID>
+      <DefaultText>"Тогда, думаю, тебе нечего мне сказать".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>295</ID>
+      <DefaultText>"Это не так, друг мой. Прошу, извини меня. Я говорю о вещах общеизвестных, но они, как правило, неверны. Если бы Первая *была* здесь, то об этом точно знала бы правительница Цветения, Мемовира".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>296</ID>
+      <DefaultText>"Хорошо. Очень хорошо. Ты утверждаешь одно, я — другое, и ты находишь способ обойти мое отрицание. Признаю, пред лицом твоей уверенности, что мои сведения могут оказаться и неверны. Ответа у меня нет. Но я знаю, у кого он может быть".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>297</ID>
+      <DefaultText>"Скорбь уничтожила Миэль Авест".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>298</ID>
+      <DefaultText>На лице Дракогена мелькает потрясение, но он быстро успокаивается: "Мне очень жаль это слышать. Никогда не имел чести побывать там, хотя и очень хотел. Столько накопленного знания! Столько утерянных артефактов! Ценность их, должно быть... ну да неважно. Неважно. Что сделано, то сделано".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>299</ID>
+      <DefaultText>"Если хочешь знать о Цветении, стоит побеседовать с его правительницей, Мемовирой".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>300</ID>
+      <DefaultText>"Мазоф? Как интересно. Но, в любом случае, ты явно веришь в то, что говоришь. Признаю, что общеизвестное не всегда верно, и склоняюсь пред твоей уверенностью. Ответа у меня нет, но я знаю, у кого он может быть".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>301</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>302</ID>
+      <DefaultText>"Дракоген. Удивительно, что ты еще здесь", — прохладно и отстраненно молвит она.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>303</ID>
+      <DefaultText>"Цветение много чего мне приносит, и, кто бы им ни правил, поток сведений и нуменер никогда не иссякает".
+
+Дракоген снова поворачивается к вам: "Но продолжим".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>304</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>307</ID>
+      <DefaultText>"Хорошо. Где мне найти Мемовиру?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>308</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>309</ID>
+      <DefaultText>"В ее крепости. Но она сейчас размышляет над насущными заботами, и закрыла врата от незнакомцев. Попасть к ней могут лишь те, кто принесет что-то ценное".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>310</ID>
+      <DefaultText>"Кто угодно может заполучить этот титул. Вопрос в том, как долго она его удержит".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>311</ID>
+      <DefaultText>Дракоген приподнимает бровь: "До сих пор неплохо".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>312</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>313</ID>
+      <DefaultText>"Расскажи о Мемовире".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>314</ID>
+      <DefaultText>"Расскажи еще раз о Мемовире".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>315</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>316</ID>
+      <DefaultText>"Лучше бы тебе узнать это самому, друг мой. Цветение — плохое место, и каждый должен узнать его сам".</DefaultText>
+      <FemaleText>"Лучше бы тебе узнать это самой. Цветение — плохое место, и каждый должен узнать его сам".</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>320</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>321</ID>
+      <DefaultText>"Я сам найду Первую".</DefaultText>
+      <FemaleText>"Я сама найду Первую".</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>322</ID>
+      <DefaultText>"Напомни, почему мне нельзя самому найти Первую?"</DefaultText>
+      <FemaleText>"Напомни, почему мне нельзя самой найти Первую?"</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>326</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>327</ID>
+      <DefaultText>"Напомню, что я удивился, когда ты сказал, что она жива. Другие бы отреагировали куда как враждебнее. Жители Цветения не выносят глупцов, а к тебе точно будут относиться именно так. *Если* она и жива, как ты думаешь, то лучше всего разузнать об этом у Мемовиры".</DefaultText>
+      <FemaleText>"Напомню, что я удивился, когда ты сказала, что она жива. Другие бы отреагировали куда как враждебнее. Жители Цветения не выносят глупцов, а к тебе точно будут относиться именно так. *Если* она и жива, как ты думаешь, то лучше всего разузнать об этом у Мемовиры".</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>328</ID>
+      <DefaultText>"Я не говорил, что *нельзя*. Я говорил, что беседа с Мемовирой облегчит поиски".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>329</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>330</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>332</ID>
+      <DefaultText>"О! Если вдруг увидишь нашего общего друга Тибира, передай ему, что я хочу поболтать".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>333</ID>
+      <DefaultText>"О, еще минуту. От тебя... пахнет... старым другом. Тибиром. Если вдруг увидишь его, то передай, что я хотел бы увидеться. Нам с ним есть, что обсудить".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>334</ID>
+      <DefaultText>"Удачи".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>335</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>339</ID>
+      <DefaultText>"Чего ты хочешь от меня?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>340</ID>
+      <DefaultText>"У меня деловое предложение. Хочу оказать тебе услугу, а ты окажешь услугу мне".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>341</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>342</ID>
+      <DefaultText>Он кланяется: "Как и я".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>343</ID>
+      <DefaultText>"Я чувствовал, что в Гробницу втянуло еще кого-то вместе со мной. Где они?"</DefaultText>
+      <FemaleText>"Я чувствовала, что в Гробницу втянуло еще кого-то вместе со мной. Где они?"</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>344</ID>
+      <DefaultText>"Кто знает? Мотивы Цветения непонятны. Его щупальца пронизывают бесчисленные миры и измерения. Если само Цветение тебя сюда занесло, то те другие, про которых ты говоришь, могут быть буквально повсюду".</DefaultText>
+      <FemaleText>"Кто знает? Мотивы Цветения непонятны. Его щупальца пронизывают бесчисленные миры и измерения. Если само Цветение тебя сюда занесло, то те другие, про которых ты говоришь, могут быть буквально повсюду".</FemaleText>
+    </Entry>
+  </Entries>
+</StringTableFile>

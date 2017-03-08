@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\x_labyrinth\x6101_andronus</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>17</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>Он смотрит вперед, но не замечает ничего, кроме солдата Меняющегося Бога.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>Его разум все еще затуманен, но ненависть чиста.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>"Андрон, это не Бесконечная Битва. Ты убиваешь братьев и сестер!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>Он покачивает головой. "Где я? Это не..."
+
+Не успевает он закончить фразу, как его тело и сознание растворяются в небытии и переносятся в другую часть Лабиринта.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>Follow-up PQ. 5</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>Он окидывает взглядом битву. "Это не Бесконечная Битва... Что с ними не так?"
+
+Он не дожидается вашего ответа. "Это не имеет значения. Я помогу тебе всем, чем смогу".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>Он моргает в ответ на ваши слова, затем качает головой: "Ложь. Я убью тебя!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>Убедить Андрона, что битва нереальна.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>Снова попытаться убедить Андрона, что битва нереальна.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>Ударить Андрона по лицу.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>Вы с легкостью ударяете медленно движущегося клинка. Ваш удар настолько силен, что выбивает из него все иллюзии.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText>Вы с легкостью ударяете медленно движущегося клинка, но он от этого только больше свирепеет: "Ты заплатишь за это".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>14</ID>
+      <DefaultText>Уйти.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>15</ID>
+      <DefaultText>"Ты... не посланник Создателя. Я... Я помню тебя. Из Миэль Авеста". Когда он говорит, иллюзия немного вздрагивает, теряя свою мощь.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>16</ID>
+      <DefaultText>"Спасибо за освобождение".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>17</ID>
+      <DefaultText>"Включи те опоры. Может, получится их остановить, не убивая".</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

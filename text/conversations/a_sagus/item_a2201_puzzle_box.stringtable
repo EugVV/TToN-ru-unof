@@ -1,0 +1,358 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\a_sagus\item_a2201_puzzle_box</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>66</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>На первый взгляд, этот металлический куб кажется довольно простым. Но затем вы замечаете свет, отражающийся от мириады крошечных серебристых панелей внутри. За ними скрывается замысловатая сеть пружин и катушек.
+
+Внутри что-то гремит.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>Шкатулка вздрагивает в вашей ладони, словно один из механизмов внутри растянулся до предела и схлопнулся.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>Изучить куб.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>Изучить куб еще раз.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>Вы поднимаете куб повыше, чтобы хорошенько рассмотреть, и снова трясете. Ничего не движется, но вы вновь слышите шум, издаваемый заключенным внутри предметом.
+
+Что-то шершавое царапает вам пальцы. Вы поворачиваете куб и видите искусно выгравированную схему в виде запутанной сети контуров.
+
+Это ни о чем вам не говорит. Быть может, один из жителей города, знающий толк в механизмах, поможет вам в этом разобраться.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>Вы продолжаете изучать схему на боковой поверхности шкатулки, но по-прежнему не можете в ней разобраться. Быть может, если показать ее кому-то более сведущему в механизмах, он сумеет помочь.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>Надпись на шкатулке гласит: "Моей дочери. Пусть этот подарок занимает тебя, пока я не вернусь. А я вернусь — обещаю".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>Вы поднимаете куб повыше, чтобы хорошенько рассмотреть, и снова трясете. Ничего не движется, но вы вновь слышите шум, издаваемый заключенным внутри предметом.
+
+Что-то шершавое царапает вам пальцы. Вы поворачиваете куб и видите искусно выгравированную схему в виде запутанной сети контуров.
+
+Нет… Это древний язык машин, который вы узнаете, поскольку изучали старинные технологии. Надпись гласит: "Моей дочери. Пусть этот подарок занимает тебя, пока я не вернусь. А я вернусь — обещаю".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText>Понюхать куб.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>14</ID>
+      <DefaultText>Нажать на мистические символы с изображением соединенных рук.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>15</ID>
+      <DefaultText>Нажать еще раз на мистические символы с изображением соединенных рук.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>16</ID>
+      <DefaultText>Среди ожидаемого маслянистого зловония металла вы различаете… соль. Смешанный запах нагретого металла и камня. На мгновение вас охватывает пугающее чувство ностальгии, не связанной ни с чем из того, что вы помните.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>17</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>18</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>19</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20</ID>
+      <DefaultText>Отложить шкатулку-головоломку в сторону.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>21</ID>
+      <DefaultText>Поначалу кнопка не хочет нажиматься — очевидно, ее не трогали много лет, а может, и вообще никогда. Но когда она все же подается с несколько пугающим *треском*, внутри раздается хор из механических щелчков, похожий на хлопанье множества крыльев вдалеке.
+
+Они затихают, и одна из граней отъезжает — но не в паз, а просто в никуда. Внутри находится темное отверстие, вокруг которого написаны еще слова — на этот раз, на языке Истины. Четыре пронумерованные кнопки расположены вокруг отверстия, словно деления компаса.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>22</ID>
+      <DefaultText>Внутри куба вновь жужжат шестеренки, и панель отъезжает в сторону, открывая глазок, вокруг которого расположена надпись и четыре пронумерованные кнопки.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>23</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>24</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>25</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>26</ID>
+      <DefaultText>Прочесть надпись.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>27</ID>
+      <DefaultText>Прочитать надпись еще раз.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>28</ID>
+      <DefaultText>От отверстия по спирали отходят слова, выгравированные тонким шрифтом: "Вместе с подарком я оставляю воспоминания о счастливых днях. Смотри на него так же, как и я. Качай его в руках. И слушай, как я говорю, что горжусь тобой и надеюсь, что ты больше не злишься на меня".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>29</ID>
+      <DefaultText>"Вместе с подарком я оставляю воспоминания о счастливых днях. Смотри на него так же, как и я. Качай его в руках. И слушай, как я говорю, что горжусь тобой и надеюсь, что ты больше не злишься на меня".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>31</ID>
+      <DefaultText>Посмотреть в отверстие.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>32</ID>
+      <DefaultText>Посмотреть в глазок еще раз.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>33</ID>
+      <DefaultText>Сквозь маленькое отверстие в крошечном кубе видна бескрайняя картинка, передаваемая разноцветными металлическими панелями.
+
+Молодая женщина — ей не более пятнадцати лет — стоит на парапете, выходящем на освещенное закатом море. Она оборачивается к вам, приподняв одну бровь. Бронзовый свет сияет на четверке золотых колец, украшающих ее нежное ухо. Ваша рука лежит на ее плече, а сверху она положила свою.
+
+Она испугана, но при виде вас улыбается.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>34</ID>
+      <DefaultText>Молодая женщина — ей не более пятнадцати лет — стоит на парапете, выходящем на освещенное закатом море. Она оборачивается к вам, приподняв одну бровь. Бронзовый свет сияет на четверке золотых колец, украшающих ее нежное ухо. Ваша рука лежит на ее плече, а сверху она положила свою.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>35</ID>
+      <DefaultText>Возможно, это всего лишь игра света на несовершенном устройстве, но, кажется, рука на ее плече — ваша рука — не просто лежит, а ухватилась за него, словно человек по другую сторону объектива тоже напуган.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>36</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>37</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>39</ID>
+      <DefaultText>Вы приглядываетесь. Возле слова "обещаю" расположены два одинаковых, пересекающихся мистических символа. Две "руки", соединенные вместе. Они выглядят чуть более отчетливо, чем остальные слова.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>40</ID>
+      <DefaultText>Сжать шкатулку руками.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>41</ID>
+      <DefaultText>Вы сжимаете шкатулку ладонями, и она подается, издав серию приятных шипящих щелчков. Когда вы ее отпускаете, она тут же вновь принимает обманчиво жесткую форму.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>42</ID>
+      <DefaultText>::щелк-щелк-щелк::</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>43</ID>
+      <DefaultText>Нажать первую кнопку.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>44</ID>
+      <DefaultText>Нажать вторую кнопку.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>45</ID>
+      <DefaultText>Нажать третью кнопку.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>46</ID>
+      <DefaultText>Нажать четвертую кнопку.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>47</ID>
+      <DefaultText>Внутри шкатулки что-то щелкает.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>48</ID>
+      <DefaultText>Нажать вторую кнопку.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>49</ID>
+      <DefaultText>Нажать третью кнопку.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>50</ID>
+      <DefaultText>Нажать четвертую кнопку.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>51</ID>
+      <DefaultText>Нажать первую кнопку.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>52</ID>
+      <DefaultText>Из центра куба доносится очередной щелчок.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>57</ID>
+      <DefaultText>Нажать первую кнопку.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>58</ID>
+      <DefaultText>Нажать вторую кнопку.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>59</ID>
+      <DefaultText>Нажать третью кнопку.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>60</ID>
+      <DefaultText>Нажать четвертую кнопку.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>61</ID>
+      <DefaultText>::Щелк::
+
+Крышка куба откидывается, открыв спрятанный внутри подарок — кольцо, снятое с удерживавших его креплений. Быть может, оно само слетело. А может, давным-давно дочь разгадала загадку… и отказалась от подарка.
+
+Вы достаете кольцо и прячете его, а затем захлопываете куб.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>62</ID>
+      <DefaultText>Теперь шкатулка пуста. Остались лишь послания отца к своей дочери.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>63</ID>
+      <DefaultText>::бах::</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>64</ID>
+      <DefaultText>::бах::</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>65</ID>
+      <DefaultText>::бах::</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>66</ID>
+      <DefaultText>::бах::</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>67</ID>
+      <DefaultText>::бах::</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>68</ID>
+      <DefaultText>::бах::</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>69</ID>
+      <DefaultText>::бах::</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>70</ID>
+      <DefaultText>::бах::</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>71</ID>
+      <DefaultText>::бах::</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>72</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

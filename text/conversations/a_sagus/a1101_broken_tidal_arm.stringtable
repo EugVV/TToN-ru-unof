@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\a_sagus\a1101_broken_tidal_arm</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>19</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>На полу лежит механическая ручка, предположительно, сломанная в результате вашего падения. Из корпуса разбитой ручки сыпятся искры, источая неприятный запах смазки.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>Проверить корпус.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>Ручка остается лежать на земле, из ее основания сыпятся белые раскаленные искры.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>Заостренный механизм, которым ранее было увенчано устройство, по всей видимости сгорел и уже бесполезен. Но оборудование в основании ручки еще осталось в рабочем состоянии, о чем свидетельствует непрерывный поток обжигающих частиц.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>Попытаться вытащить, что можно, из корпуса ручки.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>Попытаться вытащить еще что-либо из устройства.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>Не трогать устройство.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>После беглого осмотра внутренней части устройства становится понятно, что там ничего нет, но при этом возникают искры.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>Аккуратно проделывая все манипуляции, чтобы не касаться искр, вам удается извлечь неповрежденную деталь из внутренней части корпуса. Вы не видите больше ничего ценного внутри разрушенной машины.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>Вы пытаетесь извлечь деталь, которая выглядит пригодной для использования, но все, что удается сделать, это достать несколько малозначимых деталей.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>14</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>16</ID>
+      <DefaultText>Проверить корпус еще раз.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>17</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>19</ID>
+      <DefaultText>Искры сыпятся в разные стороны от разорванных проводов и других деталей, некоторые из которых могут представлять ценность.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20</ID>
+      <DefaultText>В ходе быстрой проверки основания устройства становится ясно, что внутри не осталось ничего ценного.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>21</ID>
+      <DefaultText>При очередной попытке достать деталь, которая выглядит пригодной для использования, она случайно ломается пополам и становится абсолютно бесполезна. Теперь в аккуратности больше нет нужды и вы ломаете все, что осталось, а затем собираете отломанные детали, которые еще могут пригодиться.</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

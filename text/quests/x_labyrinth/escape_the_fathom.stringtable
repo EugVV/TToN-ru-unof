@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>quests\x_labyrinth\escape_the_fathom</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>11</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>0</ID>
+      <DefaultText>Выход из Измерения</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>Проложить путь наверх.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>Найти Призрака</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>Найти призрачный голос.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10000</ID>
+      <DefaultText>Я упал с огромной высоты. Не знаю, почему я не погиб, но мне нужно найти выход отсюда.</DefaultText>
+      <FemaleText>Я упала с огромной высоты. Не знаю, почему я не погиб, но мне нужно найти выход отсюда.</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>10001</ID>
+      <DefaultText>Я услышал призрачный голос, доносящийся откуда-то сверху. Он велел подняться туда, откуда он раздавался.</DefaultText>
+      <FemaleText>Я услышала призрачный голос, доносящийся откуда-то сверху. Он велел подняться туда, откуда он раздавался.</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>10002</ID>
+      <DefaultText>Голос, который я слышал внизу, принадлежит призрачной фигуре. Он сказал, что поможет мне вернуться в реальный мир и полностью исцелить мой разум.</DefaultText>
+      <FemaleText>Голос, который я слышала внизу, принадлежит призрачной фигуре. Он сказал, что поможет мне вернуться в реальный мир и полностью исцелить мой разум.</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>10003</ID>
+      <DefaultText>Я покинул измерение, в котором находились мои воспоминания. Теперь мне нужно найти владельца этого призрачного голоса, который рассказал мне все это.</DefaultText>
+      <FemaleText>Я покинула измерение, в котором находились мои воспоминания. Теперь мне нужно найти владельца этого призрачного голоса, который рассказал мне все это.</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>20000</ID>
+      <DefaultText>У меня всплыли воспоминания, в которых я был в каком-то подводном хранилище. Я чувствую, что мой выбор определяет, кто я.</DefaultText>
+      <FemaleText>У меня всплыли воспоминания, в которых я была в каком-то подводном хранилище. Я чувствую, что мой выбор определяет, кто я.</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>20001</ID>
+      <DefaultText>У меня всплыли воспоминания о женщине и какой-то конструкции в долине с пышной растительностью. Я начинаю чувствовать себя сильнее.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20002</ID>
+      <DefaultText>У меня всплыли воспоминания о великой битве и поиске пути к странному зеркалу.</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

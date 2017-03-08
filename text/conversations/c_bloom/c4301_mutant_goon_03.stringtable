@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\c_bloom\c4301_mutant_goon_03</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>3</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>0</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>"Тем людям повезло, что вы им помогли. В следующий раз все закончится по-другому для вас и для них".</DefaultText>
+      <FemaleText>"Тем людям повезло, что вы им помогли. В следующий раз все закончится по-другому для вас и для них".</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>"Человеческая кровь сладка. Думаешь, Мемовира пошлет к нам еще кого-нибудь? Я на это надеюсь".</DefaultText>
+      <FemaleText>"Человеческая кровь сладка. Думаешь, Мемовира пошлет к нам еще кого-нибудь? Я на это надеюсь".</FemaleText>
+    </Entry>
+  </Entries>
+</StringTableFile>

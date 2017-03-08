@@ -1,0 +1,288 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\a_sagus\item_shadowring</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>54</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>14</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>15</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>16</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>17</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>18</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>19</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>21</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>22</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>23</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>24</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>25</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>26</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>27</ID>
+      <DefaultText>Вы достаете из сумки первый фрагмент кольца. Поначалу кажется, что второй вы положили не туда. Затем вы обнаруживаете его прижатым к складке в прямо противоположном углу от того, где нашли первый.
+
+Вы наклоняетесь, чтобы его взять, но оказывается, не можете этого сделать — фрагменты отталкиваются с силой, которую не объяснить одним лишь магнетизмом. Вы поднимаете второй фрагмент другой рукой и держите их в разных ладонях.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>28</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>29</ID>
+      <DefaultText>Вы взвешиваете другой фрагмент кольца на ладони, кусая зубами губу. Кажется, что фрагменты должны как-то подходить друг к другу. Что их нужно соединить.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30</ID>
+      <DefaultText>Вы снова вынимаете фрагмент кольца из сумки.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>31</ID>
+      <DefaultText>Вы достаете из сумки оба фрагмента кольца и держите их в разных ладонях. Даже на таком расстоянии они отталкиваются с невероятной силой.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>32</ID>
+      <DefaultText>Перековать кольцо.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>33</ID>
+      <DefaultText>Follow-up PQ. 8</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>34</ID>
+      <DefaultText>Очень медленно вы приближаете фрагменты кольца друг к другу, преодолевая мощную силу отталкивания. Чем ближе вы подносите Ареф и Варет друг к другу, тем сильнее они сопротивляются. На лбу у вас выступают капли пота, а мышцы вопят в агонии, но в тот момент, когда вы наконец заставляете кольца соприкоснуться, сила отталкивания полностью рассеивается и оба фрагмента крепко сцепляются.
+
+В вашей ладони лежит целое Кольцо Теней, бурлящее от едва сдерживаемой мощи.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>35</ID>
+      <DefaultText>Снова зажав фрагменты между большим и указательным пальцами, вы пытаетесь их соединить. Ваши руки дрожат от прикладываемого усилия. На несколько секунд кажется, будто вам удается немного приблизить ладони друг к другу, но, возможно, это лишь игра воображения. Наконец силы ваши иссякают, и вам приходится прекратить попытки —  уж очень сильно фрагменты отталкиваются.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>36</ID>
+      <DefaultText>Соединить фрагменты, используя грубую силу.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>37</ID>
+      <DefaultText>Еще раз попытаться соединить фрагменты.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>38</ID>
+      <DefaultText>Объединить Ареф и Варет.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>39</ID>
+      <DefaultText>Зажав фрагменты между большим и указательным пальцами, вы пытаетесь их соединить. Сила, отталкивающая их, — не магнетизм. Такое чувство, будто чья-то невероятная, полная презрения сила не дает вам соединить руки.
+
+И все же должен быть способ объединить Ареф и Варет. Просто вы его еще не нашли.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>40</ID>
+      <DefaultText>Follow-up PQ. 13.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>41</ID>
+      <DefaultText>Вы подносите фрагмент кольца к глазам. У него грубые края, словно его разделили мощным ударом, но на одном конце все равно заметно углубление, в котором находился драгоценный камень или что-то еще.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>42</ID>
+      <DefaultText>Вы взвешиваете другой фрагмент кольца на ладони. Кажется, что фрагменты должны как-то подходить друг к другу, — углубление и выступ явно совпадают. Они словно кричат, умоляя, чтобы их соединили.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>43</ID>
+      <DefaultText>Вы осторожно подносите фрагмент к глазам еще раз. Помимо замеченного раньше углубления, кажется, не видно больше ничего примечательного.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>44</ID>
+      <DefaultText>Изучить Варет.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>45</ID>
+      <DefaultText>Изучить Варет еще раз.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>46</ID>
+      <DefaultText>Follow-up PQ. 16</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>47</ID>
+      <DefaultText>Вы держите фрагмент кольца одной рукой, хотя это кажется невозможным — эта маленькая вещица невероятно тяжелая.
+
+На одном конце фрагмента заметен выступ.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>48</ID>
+      <DefaultText>На одном конце фрагмента кольца заметен выступ.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>49</ID>
+      <DefaultText>Изучить Ареф.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>50</ID>
+      <DefaultText>Изучить Ареф еще раз.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>51</ID>
+      <DefaultText>Спрятать фрагменты кольца.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>52</ID>
+      <DefaultText>Спрятать кольцо.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>53</ID>
+      <DefaultText>Вы направляете мощный всплеск Потоков на незримую силу, не дающую фрагментам кольца соединиться. Вы представляете ее себе как нечто физически ощутимое, как враждебное, пусть и безымянное, существо.
+
+В тот миг, когда эту силу удается оттолкнуть, фрагменты крепятся друг к другу, и на ваших глазах кольцо с готовностью преобразуется. Теперь стало очевидным, почему его раньше не перековывали — только отверженному или какому-нибудь сверхчеловеку это под силам. В вашей ладони лежит целое Кольцо Теней, бурлящее от едва сдерживаемой мощи.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>55</ID>
+      <DefaultText>Положить кольцо в карман.</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

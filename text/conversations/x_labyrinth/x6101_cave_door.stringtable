@@ -1,0 +1,152 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\x_labyrinth\x6101_cave_door</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>28</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>Полосы желтого света под прозрачным корпусом образуют сетку на грубо отесанной каменной двери перед вами. Лучи сходятся по центру, объединяя энергию и плотно запирая дверь.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>Гигантские камни, из которых сделана дверь, все еще излучают желтое сияние.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>Follow-up PQ. 8</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>Схватившись за край закаленного стекла, вы срываете обшивку с двери. Вместе с этим практически нерушимый материал рассыпается в пыль. Потоки желтого света по-прежнему удерживают дверь закрытой. Обжигающий жар исходит от открытого луча.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>Вам не удается найти точку опоры на расплавленной панели из закаленного стекла.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>Оторвать панели из закаленного стекла, закрывающие желтое свечение.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>Снова попытаться оторвать панели из закаленного стекла от двери.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>Follow-up PQ. 12</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>Вы осторожно просовываете руку в зазор между дверьми. На коже сразу появляются волдыри от жгучего света. По лицу скатываются слезы, но вы держитесь. Когда вы уже готовы сдаться, энергия фыркает, вспыхивает и пропадает. Защита спадает, открывая взгляду тяжелый, но простенький замок.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText>Просунув руку в узкую щель между камнями, вы сразу же чувствуете жгучую боль. Она становится невыносимой, и вам необходимо выдернуть руку, или же вы потеряете сознание.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText>Перекрыть поток света рукой.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>14</ID>
+      <DefaultText>Попробовать перекрыть поток света рукой еще раз.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>15</ID>
+      <DefaultText>Follow-up PQ. 15</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>16</ID>
+      <DefaultText>Вы ловко поднимаете штифты в литом железном замке. Раздается щелчок, и двери раскрываются сами по себе.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>17</ID>
+      <DefaultText>Вы нащупываете штифты в замке, но не можете за них ухватиться, и механизм не открывается.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>18</ID>
+      <DefaultText>Вскрыть механический замок.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>19</ID>
+      <DefaultText>Попробовать вскрыть механический замок еще раз.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20</ID>
+      <DefaultText>Отвернуться от двери.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>22</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>23</ID>
+      <DefaultText>Свет, сочащийся сквозь каменные двери, исчезает, но ворота остаются закрытыми.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>25</ID>
+      <DefaultText>Исполинские камни в двери по-прежнему закрыты.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>26</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>27</ID>
+      <DefaultText>Луч света слишком мощный, и его невозможно отключить без серьезных повреждений. Но вы не видите его источника. Каким-то образом луч подпитывает *сам себя*.
+
+Необязательно его прерывать, поэтому вы преломляете его куском металла. Маленький лучик отражается в небо, и вскоре луч теряет свою мощь. Энергия фыркает, вспыхивает и исчезает.
+
+Под ней скрывается тяжелый, но простенький механический замок.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>28</ID>
+      <DefaultText>Вы рассматриваете механизмы, создающие луч, но все без толку. Вы ни на шаг не приближаетесь к открытию двери.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>29</ID>
+      <DefaultText>Придумать другой способ прервать луч.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30</ID>
+      <DefaultText>Еще раз попытаться придумать другой способ прервать луч.</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

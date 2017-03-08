@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>quests\c_bloom\quest_c4111_anathema</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>22</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>0</ID>
+      <DefaultText>Анафема</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>Решить спор Писаря и Иоксу.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>Поговорить с Писарем.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>Поговорить с Иоксу.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>Вы убедили Иоксу остановиться</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>Сектанты убили Иоксу</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>Напуганные сектанты</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>Убежденные сектанты</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10000</ID>
+      <DefaultText>Эксперименты Иоксу вызвали гнев некоторых сектантов Цветения во главе с Писарем. Вас попросили разрешить эту ситуацию.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10001</ID>
+      <DefaultText>Я оказался в гуще конфликта между исследователем Иоксу, который изучает Цветение, и группой сектантов Цветения, которые хотят положить конец его опытам. Надо любым способом уладить этот конфликт, иначе кровопролития не миновать.</DefaultText>
+      <FemaleText>Я оказалась в гуще конфликта между исследователем Иоксу, который изучает Цветение, и группой сектантов Цветения, которые хотят положить конец его опытам. Надо любым способом уладить этот конфликт, иначе кровопролития не миновать.</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>10002</ID>
+      <DefaultText>Опыты прекращены. Пора сообщить об этом Писарю.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10004</ID>
+      <DefaultText>Вы разобрались с Писарем. Следует сообщить Иоксу, что его жизни больше ничто не угрожает.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10005</ID>
+      <DefaultText>Вы убедили Иоксу прекратить опыты, чем, вероятно, спасли ему жизнь.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10006</ID>
+      <DefaultText>Вы не слишком спешили, поэтому сектанты решили разобраться по-своему и убили Иоксу.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10007</ID>
+      <DefaultText>Вы угрозами заставили сектантов оставить Иоксу в покое.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10008</ID>
+      <DefaultText>Вы убедили сектантов, что Цветение само разберется с Иоксу.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20000</ID>
+      <DefaultText>Писарь, который является лидером сектантов Цветения, утверждает, что опыты Иоксу вредят Цветению. Он попросил меня убедить Иоксу прекратить опыты и изыскания.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20001</ID>
+      <DefaultText>Иоксу говорит, что сектанты Цветения притесняют его. Он хочет, чтобы я прогнал их.</DefaultText>
+      <FemaleText>Иоксу говорит, что сектанты Цветения притесняют его. Он хочет, чтобы я прогнала их.</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>30000</ID>
+      <DefaultText>Вы убедили Иоксу прекратить опыты, чем, вероятно, спасли ему жизнь.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30001</ID>
+      <DefaultText>Вы угрозами заставили сектантов оставить Иоксу в покое.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30002</ID>
+      <DefaultText>Вы убедили сектантов, что Цветение само разберется с Иоксу.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30003</ID>
+      <DefaultText>Вы не слишком спешили, поэтому сектанты решили разобраться по-своему и убили Иоксу.</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

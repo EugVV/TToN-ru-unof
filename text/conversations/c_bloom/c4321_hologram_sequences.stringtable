@@ -1,0 +1,148 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\c_bloom\c4321_hologram_sequences</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>28</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>"Анстолл, смотри! За окном!"</DefaultText>
+      <FemaleText>"Анстолл, смотри! За окном!"</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>"Зачем, Ан? Что там может быть нового?"</DefaultText>
+      <FemaleText>"Зачем, Ан? Что там может быть нового?"</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>"Не хочешь ли поесть, Бндари?"</DefaultText>
+      <FemaleText>"Не хочешь ли поесть, Бндари?"</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>"Середиг, что этот варьеллен делает у окна?"</DefaultText>
+      <FemaleText>"Середиг, что эта варьеллен делает у окна?"</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>"М-м-м. Разбуди меня, когда приедем в интересное место".</DefaultText>
+      <FemaleText>"М-м-м. Разбуди меня, когда приедем в интересное место".</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>"Спасибо, Середиг. А где Метанви?"</DefaultText>
+      <FemaleText>"Спасибо, Середиг. А где Метанви?"</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>"За тобой, дорогая".</DefaultText>
+      <FemaleText>"За тобой, дорогая".</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>"Миледи, я измеряю межпространственную скорость по ориентирам, которые мы проезжаем".</DefaultText>
+      <FemaleText>"Миледи, я измеряю межпространственную скорость по ориентирам, которые мы проезжаем".</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>"Его зовут Торкра, Бндари".</DefaultText>
+      <FemaleText>"Его зовут Торкра, Бндари".</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>"Но катена ведь скажет, если спросить".</DefaultText>
+      <FemaleText>"Но катена ведь скажет, если спросить".</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText>"Думаю, это зависит от того, что вам важнее: дорога или место назначения".</DefaultText>
+      <FemaleText>"Думаю, это зависит от того, что вам важнее: дорога или место назначения".</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText>"Ох! Напугал меня".</DefaultText>
+      <FemaleText>"Ох! Напугал меня".</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>14</ID>
+      <DefaultText>"Смотри, Анстолл. Видишь те полосы света? Они остались от умерших звёзд".</DefaultText>
+      <FemaleText>"Смотри, Анстолл. Видишь те полосы света? Они остались от умерших звёзд".</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>15</ID>
+      <DefaultText>"Умерших звёзд? Что ты имеешь в виду?"</DefaultText>
+      <FemaleText>"Умерших звёзд? Что ты имеешь в виду?"</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>16</ID>
+      <DefaultText>"Это не звёзды и не их останки. Это изменения во времени и притяжении".</DefaultText>
+      <FemaleText>"Это не звёзды и не их останки. Это изменения во времени и притяжении".</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>17</ID>
+      <DefaultText>"Так-то оно так, но чтобы сохранить живость ума, его надо упражнять".</DefaultText>
+      <FemaleText>"Так-то оно так, но чтобы сохранить живость ума, его надо упражнять".</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>18</ID>
+      <DefaultText>"Как скажешь. Но лучше бы мои слуги *прислуживали*".</DefaultText>
+      <FemaleText>"Как скажешь. Но лучше бы мои слуги *прислуживали*".</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>20</ID>
+      <DefaultText>"Принесут ли они деньги или подношения? Приумножат ли моё имущество? Если нет, то мне от них никакой пользы".</DefaultText>
+      <FemaleText>"Принесут ли они деньги или подношения? Приумножат ли моё имущество? Если нет, то мне от них никакой пользы".</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>21</ID>
+      <DefaultText>"Ты многое упускаешь. Когда-нибудь я научу тебя".</DefaultText>
+      <FemaleText>"Ты многое упускаешь. Когда-нибудь я научу тебя".</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>22</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>24</ID>
+      <DefaultText>"А ты не знаешь? С ума сойти. Она не беременна. Она собирается *прорасти*".</DefaultText>
+      <FemaleText>"А ты не знаешь? С ума сойти. Она не беременна. Она собирается *прорасти*".</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>25</ID>
+      <DefaultText>"Какие новости о Тонуре?"</DefaultText>
+      <FemaleText>"Какие новости о Тонуре?"</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>26</ID>
+      <DefaultText>"Какие... прорасти?"</DefaultText>
+      <FemaleText>"Какие ... прорасти?"</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>27</ID>
+      <DefaultText>"Видимо, её любовник был не человеком. Он опылил её, и растёт в ней теперь вовсе не *ребёнок*".</DefaultText>
+      <FemaleText>"Видимо, её любовник был не человеком. Он опылил её, и растёт в ней теперь вовсе не *ребёнок*".</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>28</ID>
+      <DefaultText>"А муж её знает?"</DefaultText>
+      <FemaleText>"А муж её знает?"</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>29</ID>
+      <DefaultText>"Скоро узнает. Такое надолго не скрыть!"</DefaultText>
+      <FemaleText>"Скоро узнает. Такое надолго не скрыть!"</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>30</ID>
+      <DefaultText>"Хоть какое-то развлечение. До ужаса скучная поездка выдалась".</DefaultText>
+      <FemaleText>"Хоть какое-то развлечение. До ужаса скучная поездка выдалась".</FemaleText>
+    </Entry>
+  </Entries>
+</StringTableFile>

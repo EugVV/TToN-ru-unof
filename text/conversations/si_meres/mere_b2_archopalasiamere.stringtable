@@ -1,0 +1,689 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\si_meres\mere_b2_archopalasiamere</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>121</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>Минуту назад вы знали все. Теперь вы ничего не знаете. Даже где вы. Даже *кто* вы.
+
+Вы поднимаете ногу с разбитых останков устройства, которое растоптали, но не помните, зачем вы это сделали. Люди, чьи лица вы должны бы помнить, кричат на вас; они испуганы и рассержены, но вы не знаете, как их зовут.
+
+Пожилой мужчина толкает вас: "Гуриан, болван! Ты что наделал?"
+
+"Из-за него мы застряли тут! — говорит женщина средних лет. — Теперь нам не вернуться!"
+
+"А где мы?" — спрашивает молодая женщина.
+
+"Мы до сих пор в Архопалазии, — отвечает молодой мужчина, оборачиваясь вокруг себя. — В той же комнате, откуда вышли. Правильный вопрос — *когда* мы?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>Признаться, что вы не помните ничего до момента, как сломалось устройство.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>Сказать, что вы не хотите сообщать им эти сведения.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>Убежать.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>Пожилой мужчина смеется: "Это все, что ты сумел придумать? Я тебя умоляю, Гуриан. Сколько лет мы с тобой работали? У тебя лучшая память из всех нас. Если ты думаешь, что я поверю, что ты вот так кстати..."
+
+"Погоди, Дорден, — говорит женщина средних лет. — Он, быть может, и не врет. Я, знаешь ли, и раньше кое-что подозревала в нашем загадочном сотруднике. Дай-ка я..."
+
+Женщина принимается рыться в сумке, а Дорден закатывает глаза: "Ой, не начинай опять, Паэлус! Ты во всех видишь нашу погибель".
+
+"А чего бы мне ее и не видеть, если единственная наша цель — ограбить его? — Паэлус вынимает плоский стеклянный пятиугольник, смотрит на вас сквозь него и вздыхает. — Его спектр полностью изменился. То был *он*. Гуриан был Меняющимся Богом".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>Пожилой мужчина смеется: "Нет, выходит? Ну что ж, нас тут четверо, а ты один, так что..."
+
+"Погоди, Дорден, — говорит женщина средних лет и внимательно смотрит на вас. — С ним что-то не так. Дай-ка я..."
+
+Женщина роется в сумке и вынимает плоский стеклянный пятиугольник. Дорден закатывает глаза: "Ой, не начинай опять, Паэлус!"
+
+"Ну дай попробую-то! — отвечает она. — Знаешь ведь, что у меня и раньше были подозрения насчет нашего загадочного коллеги".
+
+"Ты во всех видишь нашу погибель," — ворчит Дорден.
+
+"А чего бы мне ее и не видеть, если единственная наша цель — ограбить его? — Паэлус смотрит на вас через стекло и вздыхает. — Его спектр полностью изменился. То был *он*. Гуриан был Меняющимся Богом".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>"Хватайте его!" — кричит пожилой мужчина.
+
+Фенне хватает вас сзади и разворачивает, а остальные встают вокруг.
+
+"Погоди, Дорден, — говорит женщина средних лет и внимательно смотрит на вас. — С ним что-то не так. Дай-ка я..."
+
+Она вынимает из сумки плоский стеклянный пятиугольник. Дорден закатывает глаза: "Ой, не начинай опять, Паэлус!"
+
+"Ну дай попробую-то! — отвечает она. — Знаешь ведь, что у меня и раньше были подозрения насчет нашего загадочного коллеги".
+
+"Ты во всех видишь нашу погибель," — ворчит Дорден.
+
+"А чего бы мне ее и не видеть, если единственная наша цель — ограбить его? — Паэлус смотрит на вас через стекло и вздыхает. — Его спектр полностью изменился. То был *он*. Гуриан был Меняющимся Богом".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>"Ну, я тут погибать не собираюсь, — рычит Дорден. — В нашей Архопалазии были и другие пустые сферы. Быть может, несколько сохранилось. Поищем, а потом вернемся и отомстим".
+
+"А кто поведет сферу? — спрашивает Фенне. — Только Гуриан умел ими управлять. Он до сих пор умеет?"
+
+Все четверо поворачиваются и вопросительно смотрят на вас. "Ну? — молвит Дорден. — Умеешь?"
+
+Вы смотрите на сломанное устройство под ногами и пытаетесь припомнить, как оно работает. К вам возвращаются чувства: пальцы, управляющие кольцами, большой палец, нажимающий на кнопку. Кажется, руки помнят больше, чем голова.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>Помочь им в поисках.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>Остаться на месте.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>Поговорить с другими.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText>Возможности поиска.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText>Возможности разговора.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>14</ID>
+      <DefaultText>Поговорить с Элией.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>15</ID>
+      <DefaultText>Поговорить с Фенне.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>16</ID>
+      <DefaultText>Поговорить с Паэлусом.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>17</ID>
+      <DefaultText>Поговорить с Дорденом.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>18</ID>
+      <DefaultText>Обыскать жилой уровень.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>19</ID>
+      <DefaultText>Обыскать общий уровень.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20</ID>
+      <DefaultText>Обыскать лабораторный уровень.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>21</ID>
+      <DefaultText>Жилой уровень. Три комнаты.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>23</ID>
+      <DefaultText>Общий уровень. Три комнаты.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>24</ID>
+      <DefaultText>Лабораторный уровень. Три комнаты.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>25</ID>
+      <DefaultText>Остальные разговаривают в наушниках.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>26</ID>
+      <DefaultText>""</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>27</ID>
+      <DefaultText>""</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>28</ID>
+      <DefaultText>""</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>29</ID>
+      <DefaultText>""</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30</ID>
+      <DefaultText>Спальня незнакомца</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>31</ID>
+      <DefaultText>Спальня другого незнакомца</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>32</ID>
+      <DefaultText>Ваша спальня</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>33</ID>
+      <DefaultText>Столовая</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>34</ID>
+      <DefaultText>Библиотека</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>35</ID>
+      <DefaultText>Больница</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>36</ID>
+      <DefaultText>Растительная лаборатория</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>37</ID>
+      <DefaultText>Техническая лаборатория</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>38</ID>
+      <DefaultText>Химическая лаборатория</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>39</ID>
+      <DefaultText>""</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>40</ID>
+      <DefaultText>""</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>41</ID>
+      <DefaultText>""</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>42</ID>
+      <DefaultText>""</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>43</ID>
+      <DefaultText>""</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>44</ID>
+      <DefaultText>""</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>45</ID>
+      <DefaultText>""</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>46</ID>
+      <DefaultText>""</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>47</ID>
+      <DefaultText>""</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>48</ID>
+      <DefaultText>Второй раз. Снова разговоры в наушниках.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>49</ID>
+      <DefaultText>Третий раз. Еще больше разговоров в наушниках, а потом кто-то находит пилотирующее устройство.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>50</ID>
+      <DefaultText>""</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>51</ID>
+      <DefaultText>""</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>52</ID>
+      <DefaultText>""</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>53</ID>
+      <DefaultText>""</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>54</ID>
+      <DefaultText>""</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>55</ID>
+      <DefaultText>""</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>56</ID>
+      <DefaultText>""</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>57</ID>
+      <DefaultText>""</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>58</ID>
+      <DefaultText>""</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>59</ID>
+      <DefaultText>""</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>60</ID>
+      <DefaultText>""</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>61</ID>
+      <DefaultText>""</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>62</ID>
+      <DefaultText>""</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>63</ID>
+      <DefaultText>""</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>64</ID>
+      <DefaultText>""</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>65</ID>
+      <DefaultText>""</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>66</ID>
+      <DefaultText>""</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>67</ID>
+      <DefaultText>""</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>68</ID>
+      <DefaultText>""</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>69</ID>
+      <DefaultText>Обыскать другой уровень.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>70</ID>
+      <DefaultText>Найти спутников и поговорить с ними.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>71</ID>
+      <DefaultText>""</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>72</ID>
+      <DefaultText>Поговорить с другим спутником.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>73</ID>
+      <DefaultText>Поискать устройство.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>74</ID>
+      <DefaultText>""</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>75</ID>
+      <DefaultText>""</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>76</ID>
+      <DefaultText>НЕ ИГРАЕТ
+
+РАЗГОВОРЫ В НАУШНИКАХ</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>77</ID>
+      <DefaultText>НЕ ИГРАЕТ
+
+ПРЕДУПРЕЖДЕНИЕ ОТ МБ</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>78</ID>
+      <DefaultText>НЕ ИГРАЕТ
+
+ОСТАЛЬНЫЕ ПРОСЯТ ПРИСОЕДИНИТЬСЯ</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>79</ID>
+      <DefaultText>Присоединиться</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>80</ID>
+      <DefaultText>Спрятаться</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>81</ID>
+      <DefaultText>Убить себя</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>82</ID>
+      <DefaultText>Они просятся обратно к вам.
+
+Решить, кого взять.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>83</ID>
+      <DefaultText>Они ловят вас и просятся назад.
+
+Решить, кого взять.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>84</ID>
+      <DefaultText>Умереть.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>85</ID>
+      <DefaultText>Никого не брать.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>86</ID>
+      <DefaultText>Взять всех.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>87</ID>
+      <DefaultText>Взять Элию.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>88</ID>
+      <DefaultText>Взять Фенне.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>89</ID>
+      <DefaultText>Взять Паэлуса.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>90</ID>
+      <DefaultText>Взять Дордена.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>91</ID>
+      <DefaultText>Возьмете еще кого-нибудь?</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>92</ID>
+      <DefaultText>Вы включаете пузырь, и они кричат.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>93</ID>
+      <DefaultText>Они с тревогой ждут, пока вы разберетесь с пилотирующим устройством.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>94</ID>
+      <DefaultText>""</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>95</ID>
+      <DefaultText>""</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>96</ID>
+      <DefaultText>""</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>97</ID>
+      <DefaultText>""</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>98</ID>
+      <DefaultText>Уйти с отобранными.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>99</ID>
+      <DefaultText>""</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>100</ID>
+      <DefaultText>Разбить устройство.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>101</ID>
+      <DefaultText>Они нападают на вас, и убивают.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>102</ID>
+      <DefaultText>КОНЕЦ СОЗНАНИЯ</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>104</ID>
+      <DefaultText>Попытаться вернуться к началу.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>105</ID>
+      <DefaultText>Задать устройству случайный параметр.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>106</ID>
+      <DefaultText>Задать устройству координаты, полученные от МБ.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>107</ID>
+      <DefaultText>Вы возвращаетесь в Архопалазию прошлого.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>108</ID>
+      <DefaultText>Вы отправляетесь в случайное место.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>109</ID>
+      <DefaultText>Вы отправляетесь в случайное место.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>110</ID>
+      <DefaultText>Вы оказываетесь в открытом космосе, и тут же умираете.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>111</ID>
+      <DefaultText>КОНЕЦ СОЗНАНИЯ</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>112</ID>
+      <DefaultText>КОНЕЦ СОЗНАНИЯ</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>113</ID>
+      <DefaultText>КОНЕЦ СОЗНАНИЯ</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>114</ID>
+      <DefaultText>КОНЕЦ СОЗНАНИЯ</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>115</ID>
+      <DefaultText>Пожилой мужчина удивленно оглядывается вокруг. Комната похожа на мастерскую: стены из стекла и синта, столы завалены инструментами и машинами, но комната в руинах. Все изношено, треснуто, покрыто пылью, половина окон выбита, и в них дует холодный ветер, пронизывающий ваши легкие одежды. "Ты прав, Фенне, — говорит мужчина. — Мы не сдвинулись ни на дюйм, но..."
+
+Женщина постарше ахает и бежит к разбитому стеклу. "Равнины! Пропали! Там пустыня!"
+
+К ней присоединяются остальные, и все они смотрят на бесконечные коричневые пустоши далеко внизу. "Так я и знал, — говорит Фенне. — Мы в будущем Архопалазии, после того, как она убила себя. А скоро и нас убьет".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>116</ID>
+      <DefaultText>Молодая женщина поворачивается к вам со слезами на глазах: "Зачем, Гуриан? Зачем ты это сделал? Ты погубил и себя, и всех нас!"
+
+"Да, — говорит пожилой мужчина. — Мы были так близко к бессмертию, уже чувствовали его, а теперь... если только каким-то чудом мы не раздобудем еды, воды и одежды в этом аду, мы не проживем и дня. Зачем ты это сделал?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>117</ID>
+      <DefaultText>"Был? — спрашивает молодая женщина. — А теперь он кто?"
+
+"Оболочка, Элия, — отвечает Паэлус. — Пустая оболочка. С помощью этого тела Меняющийся Бог проник к нам, украл нашу науку и узнал, представляли ли мы для него угрозу. А когда понял, что представляли, он заманил нас в это время, отрезал единственный путь назад и сбежал в другое тело, оставив это на нашу милость".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>118</ID>
+      <DefaultText>Сказать, что вы помните.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>119</ID>
+      <DefaultText>Сказать, что вы можете вспомнить.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>120</ID>
+      <DefaultText>Сказать, что вы не помните.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>121</ID>
+      <DefaultText>Они неуверенно смотрят на вас.
+
+"Что-то мне не нравится то, как быстро ты ответил, — говорит Дорден. — Не забывай, что твоя жизнь зависит от этого так же, как и наша. Если ты не сможешь, то скоро мы все погибнем".
+
+Он поворачивается к двери и жестом зовет вас и остальных за собой: "Идемте. Если не найдем другой пустой диск и пилотирующее яйцо, нам крышка. Включайте воксы, и давайте искать".
+
+Только когда остальные касаются их, вы замечаете, что у всех на скулу около уха прикреплено по чистому диску. Вы трогаете свою щеку и обнаруживаете, что такой диск есть и у вас. Стоит коснуться его, как в ухе слышатся голоса ваших спутников.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>122</ID>
+      <DefaultText>Они неуверенно смотрят на вас.
+
+"Что ж, по крайней мере, честно, — говорит Дорден. — Не забывай, что твоя жизнь зависит от этого так же, как и наша. Если ты не сможешь, то скоро мы все погибнем".
+
+Он поворачивается к двери и жестом зовет вас и остальных за собой: "Идемте. Если не найдем другой пустой диск и пилотирующее яйцо, нам крышка. Включайте воксы, и давайте искать".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>123</ID>
+      <DefaultText>Они понуриваются.
+
+"Плохо, — говорит Дорден. — Остается надеяться, что мы сможем спастись, пока не умерли от излучения или жажды".
+
+Он поворачивается к двери и жестом зовет вас и остальных за собой: "Идемте. Если не найдем другой пустой диск и пилотирующее яйцо, нам крышка. Включайте воксы, и давайте искать".</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

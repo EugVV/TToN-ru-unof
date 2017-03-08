@@ -1,0 +1,1640 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\companions\companion_callistege_multistage</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>308</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText>"Ну вот". Она протягивает руки и грациозно поворачивается. "В стенах Сагуса я была как птичка в клетке, пока не улетела. Образно выражаясь, конечно. Я говорю о знаниях, а не только о материальных вещах. Я научилась всему в большой библиотеке, и вскоре мне стало этого мало, и я начала писать тексты сама".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>14</ID>
+      <DefaultText>"Здесь, в Сагусе. Я училась по книгам в большой библиотеке, пока не перешла к более эзотерическим текстам".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>15</ID>
+      <DefaultText>"Где ты выросла?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>16</ID>
+      <DefaultText>"Можешь рассказать еще раз, где ты выросла?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20</ID>
+      <DefaultText>"Что это за... отражения?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>21</ID>
+      <DefaultText>"Они — это я! Мы часть друг друга, сестры в бесконечных реальностях. Мы обмениваемся опытом... и силой. Как звучит это старое высказывание? Опыт делает нас мудрее? Наверное, я самый мудрый человек в Утесах Сагуса... самый мудрый во всем мире!" Она громко смеется.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>22</ID>
+      <DefaultText>"Расскажи о своих отражениях еще раз".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>23</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>24</ID>
+      <DefaultText>"У меня есть родственные сущности, представляющие Каллистеж в разных реальностях. Мы друг от друга ничего не скрываем и учимся на других жизнях и ошибках".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>25</ID>
+      <DefaultText>"Если они причиняют тебе неудобство, просто не обращай на них внимания, дорогуша".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>26</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>27</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>28</ID>
+      <DefaultText>"У меня есть еще один вопрос".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>29</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30</ID>
+      <DefaultText>"Это все, что мне хотелось узнать. Давай сменим тему".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>31</ID>
+      <DefaultText>"Конечно".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>32</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>33</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>34</ID>
+      <DefaultText>"Ой, да все". Она кажется удивленной вашим вопросом. "Все, что удавалось достать. Небо, землю, воду, тайны самой жизни". Она тепло улыбается воспоминаниям, которыми предпочитает не делиться. "Пока в один день я не натолкнулась на теорию о параллельных мирах. Не тех, что существовали раньше, а тех, что существуют сейчас и продолжают существовать одновременно с нами. Я даже думаю, что твой творец мог каким-то образом ими пользоваться. Само собой разумеется, я стала изучать эту теорию более подробно".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>35</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>36</ID>
+      <DefaultText>"Что ты изучала?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>37</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>38</ID>
+      <DefaultText>"О, ты понимаешь. То и другое. Леди, воспитанные в высшем обществе, становятся прославленными интеллектуалками, продолжают унижать равных себе, и так далее". Она бросает на вас взгляд, словно оценивая заинтересованность. "Конечно, я исключительна, но моя история — едва ли. Не сомневаюсь, она наскучит тебе до смерти".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>39</ID>
+      <DefaultText>"Спрашивай, дорогуша".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>41</ID>
+      <DefaultText>"Когда два великих ума дополняют друг друга, для них нет ничего невозможного. Так и для нас с тобой".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>42</ID>
+      <DefaultText>"Я тебя обожаю. Не знаю, как сказать еще проще".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>43</ID>
+      <DefaultText>"В тебе есть некое очарование. Я бы могла сказать, что мне нравится твоя компания, но мы ведь выше столь банальных признаний".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>44</ID>
+      <DefaultText>"С тобой мне определенно намного легче, чем с большинством людей".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>45</ID>
+      <DefaultText>"Я часто задаюсь вопросом о твоем развитии, ведь твой путь так не похож на мой. Но сколько бы я не пыталась, я вижу в твоем извилистом пути лишь безрассудство".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>46</ID>
+      <DefaultText>"Будь рассудительнее при принятии решений".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>47</ID>
+      <DefaultText>"Если тебе нужны подтверждения моей верности, то у тебя уже есть ответ. Нам лучше расстаться и поскорее".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>48</ID>
+      <DefaultText>"Не думай, что я буду долго терпеть отсутствие ответов на эти вопросы, дитя".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>49</ID>
+      <DefaultText>"Я уверяю, у тебя достаточно интересный способ мышления. Но, дорогуша, я думаю, было бы лучше уменьшить долю... сентиментальности".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>50</ID>
+      <DefaultText>"Конечно у нас есть разногласия, но со временем они исчезнут. Если только ты будешь внимать доводам рассудка".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>61</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>62</ID>
+      <DefaultText>"Разве это важно? Ответь честно".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>63</ID>
+      <DefaultText>"Я бы предпочла *избежать* очередного спора, поэтому просто представь, что я сказала то, что ты хочешь услышать".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>64</ID>
+      <DefaultText>"Давай договоримся этого не делать, ладно?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>65</ID>
+      <DefaultText>"Теперь ты хочешь моего совета? Так спрашивай о делах более важных, чем пустые сплетни".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>66</ID>
+      <DefaultText>"Не притворяйся, что ценишь мое мнение. Ложь так быстро надоедает".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>67</ID>
+      <DefaultText>"Как угодно".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>68</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>69</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>70</ID>
+      <DefaultText>"Видишь сияющее облако вокруг него? Я уверена, под ним что-то спрятано. Я рассмотрю получше, если он меня подпустит. Но тогда мне придется слушать его бред".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>71</ID>
+      <DefaultText>Она закатывает глаза. "Я должна рассказывать? Интерес представляет лишь окружающее его сияние. Под ним скрывается несущий вздор болван. Я его терплю только из-за тебя".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>72</ID>
+      <DefaultText>"Что ты думаешь об Эрритисе?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>73</ID>
+      <DefaultText>"Можешь рассказать еще раз, что ты думаешь об Эрритисе?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>74</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>75</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>76</ID>
+      <DefaultText>"Нет ничего более надоедливого, чем нерешительная убийца, которая отказывается взять контроль над своим будущим. Бессердечность — это требование к работе, а не выбор."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>77</ID>
+      <DefaultText>"Она принимает решения, противоречащие здравому смыслу. Если бы она действительно хотела взять под контроль свое будущее, она бы уже это сделала".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>78</ID>
+      <DefaultText>"Что ты думаешь о Мэткине?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>79</ID>
+      <DefaultText>"Можешь рассказать еще раз, что ты думаешь о Мэткине?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>80</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>81</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>82</ID>
+      <DefaultText>"Милое дитя. Сильная воля, способность мудро мыслить и анализировать свои поступки. Она похожа меня в ее возрасте. Но все же нам следует повнимательнее к ней присмотреться и попытаться выяснить причины ее заблуждений относительно веры в богов".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>83</ID>
+      <DefaultText>"Мне кажется неправильным брать с собой на это задание такое милое дитя. Но если она выживет, то станет сильнее и избавится от этих заблуждений насчет богов".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>84</ID>
+      <DefaultText>"Что ты думаешь о Рин?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>85</ID>
+      <DefaultText>"Можешь рассказать еще раз, что ты думаешь о Рин?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>86</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>87</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>88</ID>
+      <DefaultText>"Этот человек сделан из небылиц. Боюсь, мы никогда не узнаем, кто он на самом деле. А его оружие причиняет ему больший вред, чем нам."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>89</ID>
+      <DefaultText>"Слишком слезливый, по-моему. Горе должно быть движущей силой, а не тянущим ко дну грузом".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>90</ID>
+      <DefaultText>"Что ты думаешь о Тибире?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>91</ID>
+      <DefaultText>"Можешь рассказать еще раз, что ты думаешь о Тибире?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>92</ID>
+      <DefaultText>"Неважно. Давай поговорим о чем-нибудь другом".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>93</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>94</ID>
+      <DefaultText>Ее глаза сужаются.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>95</ID>
+      <DefaultText>"Ты дурачина, и твой опрос закончен. Зачем я только позволила настолько его затянуть".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>96</ID>
+      <DefaultText>"Не стоило мне за тобой идти".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>97</ID>
+      <DefaultText>"Лучше бы я не покидала Орден Истины".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>98</ID>
+      <DefaultText>Она вздыхает.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>99</ID>
+      <DefaultText>"Хорошо. Прощайте. До скорого. Твое отсутствие долго не продлится".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>100</ID>
+      <DefaultText>"Я буду работать здесь, пока ты не опомнишься".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>101</ID>
+      <DefaultText>"Тебе следует опомниться... ладно".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>102</ID>
+      <DefaultText>"В конце концов, ненадежность типична для таких, как ты. Не скажу, что я удивлена, скорее... разочарована".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>103</ID>
+      <DefaultText>"Подожди-ка. У меня есть мысли, которыми я *обязана* поделиться с тобой".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>105</ID>
+      <DefaultText>"В Утесах Сагуса, по большей части. Я перечитала содержимое большой библиотеки, и вскоре мне стало этого мало, и я начала писать тексты сама".
+
+"Конечно существуют и другие более великие работы". Она оглядывается с довольным выражением лица. "Сагус — настоящая тюрьма для разума. Я рада, что удалось оттуда сбежать". Она наклоняет голову в вашу сторону с благодарностью.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>106</ID>
+      <DefaultText>"В Сагусе, где людям с ограниченными умами тяжело дается учение. Я быстро освоила содержание большой библиотеки, и вот мы здесь".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>107</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>108</ID>
+      <DefaultText>"Как ты встретила Алигерна?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>109</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>110</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>111</ID>
+      <DefaultText>"Думаю, нет ничего страшного в том, чтобы доставить тебе удовольствие", — размышляет она. "Ты обладаешь знаниями во многих областях, и эта — не исключение". Она робко поправляет рукав.
+
+"Алигерн и я встретились, когда он пришел в Орден Истины за помощью. Естественно, я заинтересовалась его затруднительным положением. В большей степени, чем самим мужчиной". Она отвлеченно улыбается. "Он потерял семью и хотел ее вернуть. Он принес с собой странную конструкцию неизвестного происхождения, которая занимает ключевое место в этой истории".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>112</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>113</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>114</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>115</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>116</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>117</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>118</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>119</ID>
+      <DefaultText>"Эти чванливые ничтожества из Ордена были больше заинтересованы в критике истории Алигерна, чем в изучении конструкции, которую он принес с собой. Это задание поручили мне, и я его приняла. И с тех пор Алигерн мной очарован".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>120</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>121</ID>
+      <DefaultText>"Впоследствии мы стали любовниками. В постели он был достаточно хорош, хотя ему не хватало энтузиазма. А его рыдания!" Она закатывает глаза, драматично прикладывая руку ко лбу. "Эти жалобные детские всхлипывания по ночам, когда он думал, что я сплю". Она отрицательно покачивает головой.
+
+"Он потерял семью. Это все, что он мог рассказать мне, а я не находила ничего, что стоило рассказать ему. Ты знаешь, чем все закончилось. Я пошла дальше".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>122</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>123</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>124</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>125</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>126</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>127</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>128</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>129</ID>
+      <DefaultText>"Чувство вины", — говорит она. "У него, по крайней мере, он отчаянно хочет кого-нибудь спасти. Для меня это было дело необходимости". Она вздыхает и качает головой.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>130</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>131</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>132</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>133</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>134</ID>
+      <DefaultText>"К этому состоянию меня привело собственное исследование. Но несмотря на доступ к тысячам миров, я не стала ближе к достижению цели, зато мои сестры задумали план моего уничтожения". Она смеется:
+
+"Видишь ли, попытка продлить жизнь привела к тому, что другие мои версии захотели меня прикончить. Это правда! Некоторые мои отражения хотят остаться единственными в своем роде или управлять остальными".
+
+"Итак, я хотела бы найти способ вернуться к основному состоянию и взять под контроль свое будущее".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>135</ID>
+      <DefaultText>"Я нашла некоторые записки твоего творца, в которых содержались упоминания о машине, способной соединить все воплощения человека из разных миров, слить все сознания в одно. Кажется, это поможет найти выход из моего затруднительного положения, но я не смогла извлечь никакой пользы из подсказок, как найти эту машину". Она хмурится.
+
+"Алигерн встретил мужчину. Однажды. Этого я не смогла выдержать, и я чувствовала себя... неспокойно". Она утомленно машет рукой. "Ты знаешь, что было дальше".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>136</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>137</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>138</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>139</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>140</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>141</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>142</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>143</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>144</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>145</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>146</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>147</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>148</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>149</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>150</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>151</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>152</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>153</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>155</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>156</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>157</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>158</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>159</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>160</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>161</ID>
+      <DefaultText>Она вертит вещь в руках, рассматривая каждый дюйм переплета. "Твой творец всегда отличается великолепным мастерством", — бормочет она, медленно распуская завязки.
+
+Она листает страницы, сначала медленно, а затем быстрее, и вы замечаете диаграммы, примечания и рисунки, относящиеся к нуменере.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>162</ID>
+      <DefaultText>"Спасибо", — Каллистеж выдыхает, не поднимая взгляд, и продолжает изучать содержание книги.
+
+"Ничего. Интересно. Хмм".
+
+Она замечает, что вы на нее смотрите. "Его наблюдения о сфере данных очень интересны. Но я еще ничем не могу поделиться — это просто предположения".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>163</ID>
+      <DefaultText>"Пригодилось ли тебе что-нибудь из этих материалов?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>164</ID>
+      <DefaultText>"Безусловно, это сложный труд. На одни только вычисления, должно быть, ушли годы. Разобраться в них..." Она, хмурясь, смотрит на вас.
+
+"Может быть, позже, когда будет время, ты взглянешь на эти записи. Надеюсь, твоя связь с мыслями творца сыграет нам на руку".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>165</ID>
+      <DefaultText>"Как ты думаешь, почему он скрыл лабораторию?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>166</ID>
+      <DefaultText>"У всех есть секреты. А его тайны намного опаснее, чем у большинства. Однако его порок состоит в желании искать и использовать знания для своей и только для своей выгоды. Я полагаю, что тот, кто добывает знания в уединении, на самом деле находится в поисках силы, а не только информации".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>167</ID>
+      <DefaultText>Она снисходительно улыбается: "Поэтому я и работаю одна".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>168</ID>
+      <DefaultText>"Хорошо будет, если мы найдем лабораторию первыми".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>169</ID>
+      <DefaultText>"Да. хорошо". Она поднимает брови, словно собираясь задать вопрос, но ничего не говорит.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>170</ID>
+      <DefaultText>"Люди, что здесь живут, не могут быть столь умными, раз они не обнаружили того, что находится у них прямо под ногами".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>171</ID>
+      <DefaultText>Она фыркает, срываясь на кашель. Вы слышите приглушенный смех. Наконец к ней возвращается спокойствие.
+
+"Хорошо сказано, дорогуша", — говорит она.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>176</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>177</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>178</ID>
+      <DefaultText>"Почему вы с Алигерном были вместе, если у вас сложились столь плохие отношения?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>179</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>180</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>181</ID>
+      <DefaultText>"Почему другие Каллистеж из параллельных миров хотят тебя убить?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>182</ID>
+      <DefaultText>"Можешь рассказать еще раз, почему другие Каллистеж из параллельных миров хотят тебя убить?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>183</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>184</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>185</ID>
+      <DefaultText>Она замолкает на несколько долгих мгновений.
+
+"Я не знаю", — признается она. — "Я пыталась с ними договориться, но они несгибаемы. Они винят меня за открытие наших сознаний друг другу. Но будь это не я, то другая версия меня сделала бы то же самое".
+
+Она смеется: "На самом деле, от меня ничего не зависело. Я действовала не одна. Мы пришли к этому вместе через бесконечные пересечения вселенных".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>186</ID>
+      <DefaultText>"Они хотят наказать меня за то, что ввела их в эту многомерную реальность. Не будь моего открытия, они бы так и не узнали друг о друге и обо мне, они возмущены моими действиями".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>187</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>188</ID>
+      <DefaultText>"По банальной причине, дорогуша", — отвечает она, бросив на вас удивленный взгляд. "Им не сравниться со мной, и некоторые мои сестры завидуют".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>189</ID>
+      <DefaultText>"Зависть, дорогуша. Вечный спутник человечества".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>190</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>191</ID>
+      <DefaultText>"Что такое Аттрактор?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>192</ID>
+      <DefaultText>"Расскажи мне об Аттракторе еще раз".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>193</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>194</ID>
+      <DefaultText>"Изобретение всей моей жизни, на разработку и поиск компонентов ушло много времени. Оно...", — она коротко улыбается. — "В общем, его внутреннее устройство довольно сложное. Достаточно сказать, что оно позволяет видеть другие реальности, как оказалось, наиболее близкие к нам. В физическом смысле".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>195</ID>
+      <DefaultText>"Устройство моего собственного изобретения, позволяющее тому, кто его носит, видеть параллельные реальности".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>199</ID>
+      <DefaultText>"На самом деле..." Она смотрит на вас так, будто видит в первый раз. 
+
+"Тексты твоего творца находятся в большой библиотеке, но один из них неполный". Она гримасничает. "Я не смогла определить, то ли кто-то вырвал страницы, то ли их и не существовало. Но эта работа меня очень заинтересовала, и мне бы очень хотелось понять ее до конца".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>200</ID>
+      <DefaultText>"Твой творец — скрытный человек, я сомневаюсь, что смогу расшифровать его исследования. Но ты!" Она складывает руки вместе и опирается на них подбородком. "Ты его отпрыск, хоть и ничего не помнишь. Я уверена, что перед тобой закрытые двери откроются". Она тепло улыбается вам.
+
+"Одним словом, сейчас ничего не ясно. Но не будем терять бдительность, ладно?"
+
+{ADAM: Maybe move thought from Node 34 here?}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>201</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>202</ID>
+      <DefaultText>"Что тебя заинтересовало в теории параллельных миров?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>203</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>204</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>205</ID>
+      <DefaultText>"Дорогое дитя, какую проблему нельзя решить, получив знания из тысячи миров? Я не знаю ни одной!" 
+
+Она смеется и ее сестры смеются вместе с ней, а их голоса звучат с небольшим опозданием, словно эхо. 
+
+"Любопытство в сочетании с гипертрофированным самолюбием. Я была убеждена, что получив знания от моих сестер, я смогу найти ответы на мучающие меня вопросы".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>206</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>207</ID>
+      <DefaultText>Она раздраженно качает головой: "Я была глупа. Ни в моих самых смелых грезах, ни в усердно составляемых планах я не могла предположить, что связь может установиться — или однозначно устанавливается — в обоих направлениях. Когда пришло время и я получила доступ к сознанию моих сестер, они получили доступ ко мне. С тех пор мы живем в таком состоянии".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>208</ID>
+      <DefaultText>Она ненадолго закрывает глаза. "Я иногда задаюсь вопросом..." Она смотрит на вас, словно пытаясь найти ответ. "Хотела бы я быть одной из других Каллистеж, быть соединенной с другими без возможности выбора, без предупреждения и согласия? Знать, что собственные воспоминания, секреты выставлены напоказ перед тысячами других реальностей, что они *раскрыты*, хотя их и нельзя использовать против меня?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>209</ID>
+      <DefaultText>Она устало прикладывает руку к глазам. "Я понимаю тех, кто против этого изменения. Действительно понимаю. Я бы сама не хотела делиться собой с ними. Но это не значит, что я хочу их уничтожить, и не думаю, что это как-то повлияет на мою жизнь здесь, вот чем я отличаюсь. По этому вопросу мы, наверно, никогда не придем к соглашению. К счастью, многие другие разделяют мою точку зрения".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>210</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>211</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>212</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>213</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>214</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>215</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>216</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>217</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>218</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>219</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>220</ID>
+      <DefaultText>"Для каких проблем ты хотела найти решение в параллельных мирах?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>221</ID>
+      <DefaultText>Она быстро моргает, затем опускает взгляд. "Это было очень давно, ты же понимаешь", — осторожно начинает она, не встретив вашего взгляда, но убедившись, что вы слушаете, продолжает. — "Это... старая рана. Ты правда хочешь все это услышать?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>222</ID>
+      <DefaultText>"Дитя...", — Она вздыхает. "Некоторые столь бесхитростно заданные вопросы заставляют нервничать". Она замолкает.
+
+"Это... старая рана. Ты правда хочешь все это услышать?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>223</ID>
+      <DefaultText>"Обычные. Пространство. Время. Человеческая природа". Она отмахивается от вопроса. "Оказалось, что увеличение количества сознаний только в геометрической прогрессии усложняет процесс поиска ответов. Получалось ли у тебя когда-нибудь подумать, решить серьезную проблему в переполненной комнате?" Она качает головой.
+
+"Некоторые вопросы лучше решать в одиночестве. Тебе повезло, что можешь поучиться на моих ошибках, дитя".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>224</ID>
+      <DefaultText>"Если ты хочешь об этом говорить".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>225</ID>
+      <DefaultText>"Да".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>226</ID>
+      <DefaultText>"Может лучше в другой раз".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>227</ID>
+      <DefaultText>Она не старается скрыть облегчение.
+
+"В другой раз", — быстро соглашается она.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>228</ID>
+      <DefaultText>Она вздыхает.
+
+"Когда я была моложе... *намного* моложе, если ты можешь представить себе, что такое время существовало, я проводила время, охотясь за опасными нуменерами, к которым больше никто не осмеливался прикасаться. Устройства, которые уничтожали камни так же легко, как и плоть, рои насекомых из каленого стекла, которые жалили взрывчатым ядом, загадки природы. Естественно, такое времяпрепровождение привлекает определенный тип людей". Она улыбается странной улыбкой.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>229</ID>
+      <DefaultText>"Через некоторое время, поучаствовав в нескольких торгах, я сблизилась с другой исследовательницей. Сначала наш союз был вынужденным, так как тогда у нас было слишком мало шинов и слишком много любопытства. Но в конце концов мы стали доверять друг другу, полагаться на руку помощи, когда опасность становилась слишком высока. Это было..." Она с силой выдыхает.
+
+"Как это объяснить? Держать мощную нуменеру в руках, понять ее, *приручить ее*. Я была очарована".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>230</ID>
+      <DefaultText>"Когда находишься в поисках силы вместе с другим человеком, ощущаешь чувство, похожее на то, когда идешь в сторону утеса, а в трехстах метрах внизу неистовствует море и бушует шторм..." Она поднимает глаза и встречается с вами взглядом.
+
+"Как будто возвращаешься домой".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>231</ID>
+      <DefaultText>Продолжить слушать.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>232</ID>
+      <DefaultText>"Достаточно на этот раз".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>233</ID>
+      <DefaultText>Она фыркает, стараясь прикрыть этот звук кашлем.
+
+"Ладно, дорогуша", — произносит она. — "Я не удивлена, что тебе не хватило выдержки. Если бы рассказывать это не было в десять раз легче, чем переживать, вряд ли я бы сама захотела повторить". Тон ее голоса спокоен, но глаза холодны.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>234</ID>
+      <DefaultText>"Не стоит так легко отказываться от знаний, дитя", — мягко произносит она. — "Даже если они не кажутся тебе столь полезными. Но ладно. Что я еще могу сказать? Прошлое не изменится из-за того, что тебе не хватило терпения выслушать историю".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>235</ID>
+      <DefaultText>"Боюсь, что мне нужно ненадолго отлучиться".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>236</ID>
+      <DefaultText>"Конечно, все было обречено рассыпаться в прах. Несколько грандиозных провалов подряд, и она исчезла, превратилась в свет, или энергию, или просто в пепел. Останков было не так много, чтобы понять. И со всем этим мне предстояло жить..." Ее голос внезапно затухает, ей приходится прокашляться, прежде чем продолжить.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>237</ID>
+      <DefaultText>"Однажды я тестировала устройства. Это дело было неплохим источником дохода, и я в нем преуспела. Искатели знаний постоянно умирают, поэтому я и не думала продолжать. Вдруг..." Она погружается в себя.
+
+"Я обнаружила себя в другом месте. В той же мастерской, но чужой, как будто кто-то прибрался, пока меня не было, и поменял все местами. И там была она. Живая". Каллистеж смотрит на вас.
+
+"Она улыбнулась мне".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>238</ID>
+      <DefaultText>"Затем, прежде чем я смогла ее предупредить и хоть что-то сказать, я снова очутилась здесь, в мире без нее, с дымящейся сломанной нуменерой под ногами. Но я знала, что она жива. Где-то. Я изучила все тексты на эту тему, что смогла найти, и пришла к выводу, что она от меня не дальше, чем на волосок. И кроме того, это мог быть путь к вечной жизни". Она настолько плотно сжимает пальцы, что белеют костяшки.
+
+"Я должна была ее найти, чего бы это не стоило. И я нашла. Хотя... Нет".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>239</ID>
+      <DefaultText>"Где она?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>240</ID>
+      <DefaultText>"Может она жива где-нибудь в этой реальности?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>241</ID>
+      <DefaultText>"Звучит как обычная, скучная история о потерянной любви".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>242</ID>
+      <DefaultText>"И это все? Ты чахнешь по какой-то девчонке?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>243</ID>
+      <DefaultText>"Я не говорила об уникальности, но оно принадлежало мне!" — огрызается она, а ее щеки заливает краска.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>244</ID>
+      <DefaultText>"Оставь меня, отверженный".</DefaultText>
+      <FemaleText>"Оставь меня, отверженная".</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>245</ID>
+      <DefaultText>Каллистеж пожимает плечами. "Везде. Рядом. В этой ситуации она существует и не существует в одно и то же время. Из этого мира я наблюдаю, как она живет с другими Каллистеж". Она слабо, горько улыбается:
+
+"Тяжело горевать, когда человек, которого потерял, находится рядом. Даже если рядом с ним стоишь вовсе не ты".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>246</ID>
+      <DefaultText>Она, отвернувшись, слегка прикасается к уголкам глаз. Она берет вашу руку с неожиданной нежностью и сжимает пальцы, прежде чем дать вам уйти.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>247</ID>
+      <DefaultText>"Спасибо, отверженный".</DefaultText>
+      <FemaleText>"Спасибо, отверженная".</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>248</ID>
+      <DefaultText>"Тебе удалось предотвратить катастрофу в других мирах с другими Каллистеж?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>249</ID>
+      <DefaultText>"Ты когда-нибудь хотела убить другую Каллистеж и занять ее место?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>250</ID>
+      <DefaultText>"Хорошо, что все закончилось".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>251</ID>
+      <DefaultText>"Спасибо, что поделилась со мной своей историей".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>252</ID>
+      <DefaultText>"Все же эта потеря сделала тебя одним из величайших умов поколения".
+
+{COLIN: PC tone pass, please — along the lines of "consider the legacy she has helped you create".}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>253</ID>
+      <DefaultText>"Приятно слышать от тебя такое", — довольно бормочет она. — "А кто знает? Быть может, я смогу выйти за пределы этого тела и стать величайшим умом всех поколений".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>254</ID>
+      <DefaultText>"Если я смогу преодолеть защиту сферы данных", — добавляет она, немного хмурясь.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>255</ID>
+      <DefaultText>"Если записям твоего творца по поводу сферы данных можно доверять", — говорит она, немного хмурясь.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>256</ID>
+      <DefaultText>"Я подумала над этим", — медленно говорит Каллистеж. — "Это одна из причин, по которой я сфокусировалась на изучении сферы данных. Другая очевидная причина — желание скрыться от моих сестер и принять собственную уникальную форму". Она улыбается. "Посмотрим".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>257</ID>
+      <DefaultText>"Нет. Не для меня", — огрызается она, а ее щеки заливает краска.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>258</ID>
+      <DefaultText>"Открываться тебе было ошибкой. Дай мне немного времени, чтобы подобрать более подходящий тон для нашего общения".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>259</ID>
+      <DefaultText>"Раз уж на то пошло, разве ты не чахнешь по отцу, который бросил тебя?" — резко отвечает она, а ее щеки заливает краска.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>260</ID>
+      <DefaultText>Она зловеще улыбается: "Все, кто осмеливается заглянуть в мое прошлое, без труда находят информацию. И если это уместно, я делюсь своим опытом. Тем не менее, я видела, как она умирает бессчетное количество раз, зная, что этого можно было избежать. Возможно, существует идеальная реальность, где она и я преодолели все трудности". Она пожимает плечами.
+
+"Пока все наши жизни не окончатся, как можно понять, какая реальность безупречна? Может быть, даже эта".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>261</ID>
+      <DefaultText>Она смеется, а звук эхом расходится по тысяче реальностей.
+
+"Так не получится, дорогуша", — говорит она, все еще хихикая, — "но я так и знала, что мы родственные души".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>262</ID>
+      <DefaultText>Она рассеяно кивает: "Я охотилась на опасные нуменеры, скупала артефакты, с которыми никто больше не мог работать из-за непредвиденных последствий. Точнее сказать, летальных последствий. Такая опасная работа привлекала опасных людей".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>263</ID>
+      <DefaultText>"В конце концов, я объединилась с другой исследовательницей. Мы соперничали друг с другом во время торгов, но затем любопытство взяло верх над противостоянием. Мы вместе приобрели одно устройство и начали сотрудничать".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>264</ID>
+      <DefaultText>Она смотрит на вас, ее глаза горят. "Сила, которая была у нас, дитя. Видела бы ты. Мы могли сделать небо кроваво-красным, заставить распуститься цветы в Верксулианской Пустоши, разделить на составляющие плоть и кости с высочайшей точностью... И при этом зарабатывали на скромную жизнь". Она улыбается сама себе.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>265</ID>
+      <DefaultText>"Однако, удача все-таки нас покинула. Исследователи прошлого долго не живут из-за несчастных случаев. Последствия были... катастрофическими". Она отворачивается, терзаемая воспоминаниями.
+
+"Моя напарница не выжила. Она исчезла, превратилась в свет, или энергию, или просто в пепел. Один из наиболее приятных способов умереть при работе со стоящими того нуменерами".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>266</ID>
+      <DefaultText>"Я ничего об этом не думала и продолжала работать. Я оплакивала ее так же, как и других коллег, но, в конце концов, одно из устройств, над которыми я работала, вновь свело нас вместе". Она тепло улыбается. "Если можно так сказать".
+
+"Я проверяла его на себе, не из-за отсутствия других подопытных, а потому что устройство требовало особого подхода. Вдруг я оказалась в каком-то другом месте, в другом измерении. И там была она. Живая".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>267</ID>
+      <DefaultText>"Через мгновение я уже снова очутилась в своей мастерской, но это явление меня очень заинтересовало. Если она все еще жива в другом мире, значит есть способ туда попасть, и, как само собой разумеющееся, получить доступ к другим Каллистеж. И таким образом получить их знания для улучшения моей работы". Она разводит руками, привлекая внимание к своему эхо.
+
+"Как видишь, я была права, но не предположила, что все Каллистеж объединятся друг с другом".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>268</ID>
+      <DefaultText>"Пожалуйста, дорогуша", — говорит она сдержанно. — "Самое время рассказать это".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>269</ID>
+      <DefaultText>"Теперь мы можем продолжить?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>270</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>271</ID>
+      <DefaultText>"Что случилось с устройством, которое ты тестировала?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>272</ID>
+      <DefaultText>"По крайней мере, твоя напарница погибла не зря".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>273</ID>
+      <DefaultText>"Стала ли ты мудрее, соединив свое сознание с сознаниями твоих альтернативных версий?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>274</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>275</ID>
+      <DefaultText>Она качает головой. "Оно разрушилось после моего перемещения. Когда я вернулась в свою реальность, устройство дымилось у моих ног. Однако я сохранила его часть, которая понадобилась мне при создании собственного устройства для перемещения между реальностями. По крайней мере, в этом я добилась успеха".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>276</ID>
+      <DefaultText>"Тебе удалось пообщаться с твоей напарницей с тех пор, как ты ее увидела?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>277</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>278</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>279</ID>
+      <DefaultText>"Спасибо, что поделилась своей историей".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>280</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>281</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>282</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>283</ID>
+      <DefaultText>"Разве?" — она смеется, отмахиваясь от вашего утверждения и ответа. — "В некоторой степени я изменила ход своей жизни, и было бы недобросовестно с моей стороны оставить изучение параллельных миров другим, в то время как я обладаю непосредственным опытом".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>284</ID>
+      <DefaultText>"Интеллект — забавная штука, дорогуша", — говорит она. — "Можно обладать всеми знаниями в мире, но без целенаправленности быть таким же беспомощным, как ребенок в пеленках. Да, я обладаю знаниями. Но применить их ко всем реальностям, в одно и то же время..." Она качает головой.
+
+"Интересно, как я не сошла с ума".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>285</ID>
+      <DefaultText>Она наклоняет голову вбок: "Она все еще со мной, с разными воплощениями меня. Конечно я в курсе ее отношений с моими родственными сущностями". Она встречается с вами взглядом:
+
+"Я не могу с ней поговорить, но мне удавалось спасти ее от той же судьбы в других реальностях. Этого мне достаточно".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>286</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>287</ID>
+      <DefaultText>"Хотелось бы узнать о причинах твоей заинтересованности в параллельных мирах".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>288</ID>
+      <DefaultText>"Может быть, в другой раз, дорогуша", — мягко говорит она. — "Моя история может подождать".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>289</ID>
+      <DefaultText>"Я бы не прочь послушать окончание истории о твоем прошлом".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>290</ID>
+      <DefaultText>"На самом деле?" Она кажется удивленной вашим вопросом. "Хорошо".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>291</ID>
+      <DefaultText>"На чем мы остановились? Ах да! На катастрофе". Она ненадолго закрывает глаза.
+
+"Моя напарница и я на тот момент вместе тестировали нуменеры уже несколько лет, и у нас началась полоса невезения. Несколько грандиозных провалов подряд, и она исчезла, превратилась в свет, или энергию, или просто в пепел. Останков было не так много, чтобы понять. И со всем этим мне предстояло жить..." Ее голос внезапно затухает, ей приходится прокашляться, прежде чем продолжить.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>292</ID>
+      <DefaultText>"На чем мы остановились? Ах да! Моя напарница и я вместе тестировали нуменеры". Она ненадолго закрывает глаза.
+
+"В тот день удача покинула нас. Все наши коллеги, исследователи прошлого, долго не живут из-за несчастных случаев. Последствия были... катастрофическими". Она отворачивается, терзаемая воспоминаниями.
+
+"Моя напарница не выжила. Она исчезла, превратилась в свет, или энергию, или просто в пепел. Один из наиболее приятных способов умереть при работе со стоящими того нуменерами".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>293</ID>
+      <DefaultText>"Я *стою* прямо здесь, ты знаешь".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>294</ID>
+      <DefaultText>"Да? Никто не заметил".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>295</ID>
+      <DefaultText>"И? Что же?" — говорит Эрритис, прекращая рассматривать небо широко раскрытыми глазами. — "Я слышал, вы сказали «несущий вздор». Вы опять говорите обо мне?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>296</ID>
+      <DefaultText>"Мысли недалеки от реальности, дорогуша. Верь мне".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>298</ID>
+      <DefaultText>"Я думаю захватить кого-нибудь прямо сейчас".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>299</ID>
+      <DefaultText>"На самом деле, дорогуша? Хорошо для тебя".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>301</ID>
+      <DefaultText>"Я не уверена, что только у *меня* здесь галлюцинации".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>302</ID>
+      <DefaultText>"Правильно, дорогуша. Подвергай сомнению те утверждения".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>303</ID>
+      <DefaultText>"У меня больше нет вопросов. Давай вернемся к заданию".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>304</ID>
+      <DefaultText>"Как угодно".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>305</ID>
+      <DefaultText>"Что случилось с устройством, которое ты тестировала?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>306</ID>
+      <DefaultText>Она качает головой. "Оно разрушилось после моего перемещения. Когда я вернулась в свою реальность, устройство дымилось у моих ног. Однако я сохранила его часть, которая понадобилась мне при создании собственного устройства для перемещения между реальностями. По крайней мере, в этом я добилась успеха".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>307</ID>
+      <DefaultText>"Что случилось с устройством, которое ты тестировала?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>308</ID>
+      <DefaultText>Она качает головой. "Оно разрушилось после моего перемещения. Когда я вернулась в свою реальность, устройство дымилось у моих ног. Однако я сохранила его часть, которая понадобилась мне при создании собственного устройства для перемещения между реальностями. По крайней мере, в этом я добилась успеха. Я научилась проникать в другие реальности при помощи нового устройства — Аттрактора".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>312</ID>
+      <DefaultText>"Где я остановилась? Ах да! Я встретила прекрасную напарницу и мы начали плодотворное сотрудничество".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>313</ID>
+      <DefaultText>"Это длинная история. Спроси об этом, когда мы покинем город. Может быть, тогда я с тобой поделюсь".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>314</ID>
+      <DefaultText>"В этот момент мои отражения закончили делать то же самое. Квантовая разница между нашими жизнями постоянно колеблется и увеличивается. Мы узнали друг о друге. Некоторые из нас... из нашего спектра сошли с ума. Другие покончили с собой. *Я* не сломалась. Как и сестры, которых ты видишь вокруг меня".
+
+Она ненадолго замолкает. "Поток информации ошеломляет. Поэтому я ищу способ справиться с таким количеством данных".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>315</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>316</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>317</ID>
+      <DefaultText>"Так прямо! Я тогда тоже не буду скромничать. Твой отец, Меняющийся Бог, был нано исключительных способностей. В своем поиске ответов ты вероятно наткнешься на его след в различных местах. Он наверняка исследовал информационную сферу в некоторой степени, и я надеюсь изучать его работы, чтобы разрешить мою собственную конкретную... ситуацию".
+
+Он машет рукой вдоль своего тела. "Я то, что ты неверно называешь зарождающимся, внепространственным коллективным разумом. Что мне предстоит решить сейчас - стоит ли продолжать этот эксперимент".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>318</ID>
+      <DefaultText>"Чтобы понять, как твой отец получил доступ к информационной сфере. Посмотреть, насколько его работы могут быть применимы к моим исследованиям - может быть, получить доступ к информационной сфере самостоятельно, если это возможно".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>319</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>320</ID>
+      <DefaultText>"Какую цель ты преследуешь, путешествуя со мной"?</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>321</ID>
+      <DefaultText>"Скажи мне снова, какой цели ты хочешь достичь, путешествуя со мной".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>322</ID>
+      <DefaultText>"Что ты можешь рассказать мне про информационную сферу"?</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>323</ID>
+      <DefaultText>Она слегка улыбается. "Такое любопытство! Очень хорошо. Я удовлетворю твое любопытство". Она прочищает свое горло. "Какой-то прежний мир или миры установили в атмосфере или околоземном пространстве огромную сеть компьютеризированных и информационных устройств. Я полагаю, что древние люди использовали эту сеть, чтобы устанавливать связь друг с другом на больших расстояниях, и возможно, через космическое пространство с другими измерениями. Вот это последнее применение больше всего интересует меня... как ты можешь предположить".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>324</ID>
+      <DefaultText>"Мои сестры, как ты видишь - они милость Божья и проклятье. Один момент". Она обращается к ним. "Тс, ты знаешь, это правда. Я думала об этом, вот поэтому и *ты* подумал об этом. У нас нет секретов друг от друга".
+
+Она деликатно улыбается. "Ты видишь? Даже в моих мыслях мы не одни. Мы ищем - давай назовем это связью, в каком-то роде. Нашей ассоциации или нашей индивидуальности".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>325</ID>
+      <DefaultText>"Раскрытие знаний твоего отца об информационной сфере может повлиять на мои дальнейшие шаги. Если мы не сможем найти походящий дом в информационной сфере, возможно, нам придется остановить этот процесс - но здесь есть свои подводные камни".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>326</ID>
+      <DefaultText>"Если мы найдем структуру в пределах этого пространства, которая позволит нам наладить непосредственное общением от мозга к мозгу, это позволит мне по-настоящему соединиться с моими сестрами. Допустим. Я наверное буду рада выйти за пределы своего тела, хотя оно хорошо мне послужило. Но разве это возможно? Или даже разумно? На эти вопросы я пока не нашла ответы... если такие ответы вообще существуют".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>327</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>329</ID>
+      <DefaultText>"Давай поговорим об информационной сфере снова".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>330</ID>
+      <DefaultText>"Твой создатель был гением. Многие легко бросают слова на ветер. Я использую их в их истинном смысле. Он знает, как получить доступ к информационной сфере, но пока он не прибегнул к этому знанию. Я пойду по его следу, а затем я превзойду его. Я найду способ, как установить соединение, и я со своими сестрами найду полное понимание".
+
+Она слегка усмехается. "Или мы откажемся от нашего опасного предприятия. Мы все еще не решили".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>331</ID>
+      <DefaultText>"Ее огромные структуры находятся вокруг нас, проникая через реальности. Вот что знал твой отец. Вот почему от создал эти замечательные машины в Погребенном Перекрестке. Похоже, благодаря информации, которую он нашел здесь, знание предков было у него под рукой".
+
+Она постукивает пальцами по своим губам. "Я все же удивляюсь, почему он оставил это направление исследований".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>332</ID>
+      <DefaultText>"Я рассказала тебе все, что могла. Эта невидимая структура вокруг нас наполнена интеллектом, о котором мы можем только догадываться".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>333</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>334</ID>
+      <DefaultText>Как только она отворачивается от тебя, она быстро начинает перелистывать страницы, как будто ища подтверждение этому высказыванию. Два ее отражения нашептывают ей, на их лицах обеспокоенные взгляды.
+
+Она отмахивается от них, а затем еще глубже погружается в размышления.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>335</ID>
+      <DefaultText>Она прислушивается к своему окружению. "Ты понимаешь, что ты не сможешь найти меня снова, не так ли? Я не останусь *здесь* - это точно".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>336</ID>
+      <DefaultText>"Ничего страшного. Оставайся со мной. Давай поговорим о чем-нибудь другом".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>337</ID>
+      <DefaultText>"Мне не понадобится больше тебя искать. До свидания".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>338</ID>
+      <DefaultText>"Я свяжусь с тобой, если ты мне понадобишься. До свидания".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>339</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

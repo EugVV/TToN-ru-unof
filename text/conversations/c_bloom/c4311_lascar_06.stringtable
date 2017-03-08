@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\c_bloom\c4311_lascar_06</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>3</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>"Мы работать. Ты отвлекать".</DefaultText>
+      <FemaleText>"Мы работать. Ты отвлекать".</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>"Ждём корабль. Дом зовёт".</DefaultText>
+      <FemaleText>"Ждём корабль. Дом зовёт".</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>"Много лет. Много жизней ждём корабля".</DefaultText>
+      <FemaleText>"Много лет. Много жизней ждём корабля".</FemaleText>
+    </Entry>
+  </Entries>
+</StringTableFile>

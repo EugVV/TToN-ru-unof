@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\c_bloom\c4111_patrolling_guard_02</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>4</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>0</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>"Молодец, что убил всех этих мерденов. Давно пора было это сделать".</DefaultText>
+      <FemaleText>"Молодец, что убила всех этих мерденов. Давно пора было это сделать".</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>"На твоем месте я бы держался подальше от Старой темницы рабов: мы больше не можем контролировать мерденов".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>"Ты новенький? Не видел тебя раньше".</DefaultText>
+      <FemaleText>"Ты новенькая? Не видел тебя раньше".</FemaleText>
+    </Entry>
+  </Entries>
+</StringTableFile>

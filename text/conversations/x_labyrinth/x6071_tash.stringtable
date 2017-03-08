@@ -1,0 +1,164 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\x_labyrinth\x6071_tash</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>28</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>Терзающие Таша мерцающие образы и окружающие его тени почти невидимы, но когда вы приближаетесь, они обретают форму. Вы видите Мэткину, дающую отпор ополчению Первой Отверженной в Кольне... и Таша, бросающегося на нее с рыком, когда она пытается отменить изменения, который вы внесли в его историю.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>Он пытается наброситься на Мэткину, предать ее, стереть ее память, но силы покидают его.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>Он пытается сбросить с себя узы, которые вы наложили, когда вселились в его тело. Он ворчит и плюется, за то что вы нарушили его жизнь и волю. Его жизнь наполнена непокорностью и унижением.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>Он издает крик и начинает светиться изнутри, пламя вот-вот вырвется изнутри и поглотит его. 
+
+Затем свет тускнеет. Окружающие его призраки исчезают. Он выпрямляет спину в неуверенности и озирается на вас.
+
+"Я страдал. Я пережил твое... твое насилие над разумом. Я вырос и изменился. Ты больше не сможешь управлять мной. Никогда. Я... Я *свободен*".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>Он складывает руки на груди и становится бестелесным. "Я *свободен*", — снова шепчет он и исчезает насовсем.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>Он борется с вашими словами, хотя и не слышит их, но они обрушиваются на его разум, словно хлыст, и повторные возражения не спасают его от вашей ненависти.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>Небольшое устройство — это все, что осталось. Вы поднимаете его.
+
+{LOOT: Add cypher that emulates or improves some ability from Masters Weaponry}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>Борьба Таша продолжается, его унижение от бессилия практически осязаемо.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>15</ID>
+      <DefaultText>"Я заставлю тебя страдать, Таш. Я зажарю тебя за предательство".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>16</ID>
+      <DefaultText>"Это не реальность, Таш. Это всего лишь иллюзия".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>17</ID>
+      <DefaultText>Уйти.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>18</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>19</ID>
+      <DefaultText>"Я заставлю тебя страдать, Таш. Я зажарю тебя за предательство".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>21</ID>
+      <DefaultText>"Это не реальность, Таш. Это всего лишь иллюзия".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>22</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>23</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>24</ID>
+      <DefaultText>Он с силой качает головой. Он слышит ваши слова, но не слышит вашего голоса. Он закрывает уши ладонями. 
+
+"Я отвергаю эту иллюзию. Отвергаю ее. Это мое прошлое. Это не реально". Тени исчезают, голоса притихают. Он смотрит на вас пытливым взглядом. 
+
+"Да", — бормочет он. — "Да. Я свободен". Он выпрямляется, и ткань его тела начинает распускаться.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>25</ID>
+      <DefaultText>"Это я, Таш. Помнишь меня? Это не реально. Это всего-лишь иллюзия".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>26</ID>
+      <DefaultText>Он старается разобрать ваши слова, и на мгновение кажется, что они как-то подействовали.
+
+Но затем его личные тени появляются снова. Он в бессилии переживает момент, когда вы лишили его воли, и ваши слова отметаются его гневом и ненавистью.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>29</ID>
+      <DefaultText>Его тело начинает трястись и искриться. В его груди возникает шар света. Это не хрупкий стеклянный шар, а горящая звезда, солнце, состоящее из ненависти и гнева. Он поднимает руки и смотрит на вас. Боль и растерянность сменяют друг друга на его лице, смешиваясь с легкой ноткой сожаления.
+
+Свет льется из его глаз, словно раскаленная кровь. Свет вспыхнул и затянул Таша внутрь. Он исчез, поглощенный внезапным бесшумным хлопком.
+
+На мгновенье шар воспарил перед тем как исчезнуть в Лабиринте.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>32</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>33</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>quests\c_bloom\quest_c4301_the_newborn_maw</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>12</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>0</ID>
+      <DefaultText>Новорожденная Пасть</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>Открыть новорожденную Пасть.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>Сообщить Гар-кото о том, что новорожденная Пасть открыта.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>Награда за труды</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>Цена свободы</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10000</ID>
+      <DefaultText>Недавно в Малом Нилише открылась новая Пасть. Гар-кото, предводитель тамошних мутантов, попросил вас открыть ее.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10002</ID>
+      <DefaultText>Вы узнали, что данная Пасть питается чувством вины. Осталось отыскать кого-нибудь, кого мучает вина, и скормить его Пасти.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10003</ID>
+      <DefaultText>Гар-кото будет рад узнать, что Пасть открыта.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10004</ID>
+      <DefaultText>Узнав, что Пасть открыта, Гар-кото пришел в восторг и щедро вас наградил.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10005</ID>
+      <DefaultText>Узнав, что Пасть открыта, Гар-кото пришел в восторг и согласился в качестве награды освободить Хирью.</DefaultText>
+      <FemaleText>Узнав, что Пасть открыта, Гар-кото пришел в восторг и согласилась в качестве награды освободить Хирью.</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>30000</ID>
+      <DefaultText>Узнав, что Пасть открыта, Гар-кото пришел в восторг и щедро вас наградил.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30001</ID>
+      <DefaultText>Узнав, что Пасть открыта, Гар-кото пришел в восторг и согласился в качестве награды освободить Хирью.</DefaultText>
+      <FemaleText>Узнав, что Пасть открыта, Гар-кото пришел в восторг и согласилась в качестве награды освободить Хирью.</FemaleText>
+    </Entry>
+  </Entries>
+</StringTableFile>

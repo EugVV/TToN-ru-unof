@@ -1,0 +1,245 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\c_bloom\c4221_second_patrol_01</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>47</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>Когда он понимает, что вы не мерден, его лицо загорается неистовой надеждой: "О, хвала богам, что ты здесь. Если сумеешь нас освободить, можешь просить награду у Браски или у самой Мемовиры".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>"Как ты сюда попал?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>"Возле двери лежит ключ, друг", — говорит он. "Используй его и… отлично", — он заканчивает фразу, когда вы освобождаете его самого и его друга. — "Могу я попросить тебя кое о чем еще? Учитывая состояние Зеббака, нам ни за что не выбраться отсюда живыми… по крайней мере, пока мердены-стражники охраняют вход. Ты можешь как-нибудь это уладить?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>"Прощай".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>"Как к вам относились?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>"Время от времени они дают нам тарелку какой-то бурды, но я не рискую это есть. С таким же успехом это мог быть и ночной горшок. В остальном они не обращают на нас с Зеббаком внимания. Если, конечно, не считать того, когда они приходят, чтобы съесть пару кусочков Пели. Думаю, они держат нас свежими и не дают нам сгнить. Наш черед настанет — в этом я уверен".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>Он толкает своего товарища локтем, и оба смотрят на вас с надеждой в глазах, полных боли: "Путь свободен? Удалось избавиться от мерденов-стражников у входа?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>"Свободен. Думаю, вы сможете добраться до безопасного места".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText>(Ложь) "Свободен. Думаю, вы сможете добраться до безопасного места".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText>"Подождите пока здесь".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>14</ID>
+      <DefaultText>"Мы благодарны тебе, друг. Прощай".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>15</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>16</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>17</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>18</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>19</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>21</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>22</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>23</ID>
+      <DefaultText>"Если спрячетесь в соседней камере, я скажу мерденам-стражникам, что вы сбежали. Это поможет вам выиграть время".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>24</ID>
+      <DefaultText>"Отличный план. Мы будем ждать тебя там. Когда дашь нам знать, что путь свободен, мы будем бежать".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>25</ID>
+      <DefaultText>"Тебе удалось их отвлечь? Мы можем бежать?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>26</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>27</ID>
+      <DefaultText>В камере находятся двое. На обоих доспехи солдат Мемовиры. Третий солдат безжизненно лежит на земле неподалеку.
+
+Один из выживших сильно ранен: он истекает кровью и держится за бок. Второй — помоложе, кажется, невредим. Руки его скованы ржавыми наручниками. Он поднимает на вас изможденные глаза с таким видом, словно ожидает мясника с ножом.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>28</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>29</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30</ID>
+      <DefaultText>"Ты пришел освободить нас? Не знаю, как долго я еще смогу выносить заточение здесь…"</DefaultText>
+      <FemaleText>"Ты пришла освободить нас? Не знаю, как долго я еще смогу выносить заточение здесь…"</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>31</ID>
+      <DefaultText>Освободить их обоих.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>32</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>34</ID>
+      <DefaultText>"Расскажите мне еще раз, как вы здесь очутились".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>35</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>36</ID>
+      <DefaultText>"Ты нас оставляешь? Мы же погибнем здесь!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>37</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>38</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>39</ID>
+      <DefaultText>"Мы расскажем Браске о тебе!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>40</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>41</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>42</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>43</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>44</ID>
+      <DefaultText>"Мы уже давно этим занимаемся. Очень давно. У нас никогда прежде не было проблем с мерденами. Они исправно платили налог, и у нас не было причин думать… что они попытаются нас убить. Мы дали им отпор и победили в бою, но"… — он показывает рукой на товарища. — "Я не знаю, сколько еще он протянет. Помоги нам сбежать".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>45</ID>
+      <DefaultText>"Мы собирали налоги, как обычно. Никогда бы не подумали"… — раненый тихо стонет, и его более молодой товарищ протягивает руку, чтобы его успокоить. — "Держись, Зеббак".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>47</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>48</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>58</ID>
+      <DefaultText>"Только… не бросай нас здесь умирать".</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

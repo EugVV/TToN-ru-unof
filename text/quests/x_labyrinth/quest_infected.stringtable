@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>quests\x_labyrinth\quest_infected</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>16</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>0</ID>
+      <DefaultText>Заражение</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>Снова войти в Измерение Часов.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>Убрать фрагмент из Измерения Часов.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>Найти оставшиеся фрагменты.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>Проследить за фрагментом, от которого избавились.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>Войти в кишащую бездну.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>Разобраться с фрагментами Скорби.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>Фрагменты Скорби нейтрализованы</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10000</ID>
+      <DefaultText>Фрагменты, оставшиеся после вторжения Скорби, проникли глубоко в Лабиринт. Как пластины в моем сознании, они блокировали мои способности.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10001</ID>
+      <DefaultText>Один фрагмент закрыл мне доступ в измерение, где я встретил Дивитиаку, Валлона и Камоса. Пока я не накоплю достаточно опыта и знаний, я не смогу снова попасть в это измерение и противостоять этому существу.</DefaultText>
+      <FemaleText>Один фрагмент закрыл мне доступ в измерение, где я встретила Дивитиаку, Валлона и Камоса. Пока я не накоплю достаточно опыта и знаний, я не смогу снова попасть в это измерение и противостоять этому существу.</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>10002</ID>
+      <DefaultText>Пока портал в Измерение Часов открыт, я могу попытаться уничтожить это существо, которое выталкивало меня оттуда.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10003</ID>
+      <DefaultText>Теперь, когда фрагмент, проникший в Измерение Часов, уничтожен, мне нужно найти, где прячутся его остатки. Спокойствие — лучшее место для начала поисков.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10004</ID>
+      <DefaultText>Теперь, когда фрагмент, проникший в Измерение Часов, устранен, я могу отследить, где попрятались другие. Спокойствие — лучшее место для начала поисков.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10005</ID>
+      <DefaultText>Новый портал Спокойствия ведет в измерение, зараженное фрагментами Скорби. Я должен уничтожить или остановить их, если не хочу допустить проникновения Скорби в мое сознание.</DefaultText>
+      <FemaleText>Новый портал Спокойствия ведет в измерение, зараженное фрагментами Скорби. Я должна уничтожить или остановить их, если не хочу допустить проникновения Скорби в мое сознание.</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>10006</ID>
+      <DefaultText>Я проник в гнездо Скорби в своем разуме. Я могу уничтожить или отловить фрагменты, чтобы обезвредить их.</DefaultText>
+      <FemaleText>Я проникла в гнездо Скорби в своем разуме. Я могу уничтожить или отловить фрагменты, чтобы обезвредить их.</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>10007</ID>
+      <DefaultText>Воздействие Скорби полностью нейтрализовано. Освободившись от ее блокировок, я могу получить доступ к более глубоким ресурсам, использовать силу своего тела и разума.</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\x_labyrinth_crisis\x4061_sorrowfragmentfathom_judgementregret</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>20</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>[The moment slows to a crawl, and you recognize the concerns being retreaded by the foreign thoughts as an interface to the machine's functionality.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>[Resolve to override the Guide to allow The Interpreter to speak while in statis; the machine will manifest a prison encircling the area.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>[Resolve to override the Guide to allow it to harm The Interpreter; The Machine will allow you to focus a beam of energy at a Fragment.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>[Tear your gaze from the scene, and end the memetic broadcast.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>[The functionality of the machine is obscured by the swirling mass of the Sorrow Fragment which has poured into its inner workings.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>Фрагмент Скорби выброшен</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>[You feel the Sorrow Fragment's screech in your mind, feel it in your emotions, before it begins to phsyical form nearby, and you hears its growl in your ears.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>[This machine is projecting a holographic scene on loop. As you study it, you feel it probe your mind, then begin to push into it. You perceive the scene as if from your perspective, foreign thoughts and emotions pouring into you.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>[You came to the obelisk in hopes that you'd find an oasis of civilization in these wastes, but when you arrived found only tribals,ignorant savages living in primitive huts, gathered around it, caterwauling at one of their own hovering in the air, encased in a bubble of energy projected from a trio of emitters near its top. Your arrival did not go unnoticed, and you are approached by an older woman, wearing a crude leather hide.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText>["I am sorry, Traveller. The Guide, bringer of law and abundance, can offer you no assitance. It has imprisoned its chosen Interpreter, the only of us who can commune with its infinite wisdom, for two moons. I fear we have angered The Guide, that it has abandoned us, and wishes us to suffer at the cruelty of the Great Wasteland." Despite their poverty, they offer your a place to stay, and something to eat.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText>[As thanks for their care, you decide to solve their problem, and approach The Guide under cover of night. By dawn, you've come to understand that the numenera detained The Interpreter because he mercy killed a woman, dying and in pain, but is unable to exact its punishment due to the bond they share. You're able to determine a few ways to influence the device, using your Tidal conenction.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>14</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>15</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>16</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>17</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>18</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>19</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

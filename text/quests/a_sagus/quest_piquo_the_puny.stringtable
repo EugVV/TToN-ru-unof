@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>quests\a_sagus\quest_piquo_the_puny</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>19</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>0</ID>
+      <DefaultText>Жалкий Пикво</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>Поговорить с Пикво.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>Помочь Пикво принять решение.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>Улучшенное телосложение</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>Улучшенная внешность</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>Развлекайся</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>Получить образование</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>Кривая Квик</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>Стать сектантом</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10000</ID>
+      <DefaultText>Мать Темаз попросила помочь одному из ее заблудших "детей" — мутанту-подростку по имени Пикво, перед которым стоит сложный выбор. Взамен она обещала дать часть оболочки, которая упала с неба.</DefaultText>
+      <FemaleText>Мать Темаз попросила помочь одному из ее заблудших детей — мутанту-подростку по имени Пикво, перед которым стоит сложный выбор. Взамен она обещала дать часть оболочки, которая упала с неба.</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>10001</ID>
+      <DefaultText>Поговорить с Пикво.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10002</ID>
+      <DefaultText>Помочь Пикво принять решение.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10003</ID>
+      <DefaultText>Вы убедили Пикво улучшить свое телосложение в хиургическом кабинете.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10004</ID>
+      <DefaultText>Вы убедили Пикво улучшить свою внешность в хиургическом кабинете.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10005</ID>
+      <DefaultText>Вы убедили Пикво тратить деньги на развлечения.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10006</ID>
+      <DefaultText>Вы убедили Пикво получить наставления учителей в Ордене Истины.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10007</ID>
+      <DefaultText>Вы убедили Пикво вернуться к Кривой Квик.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10008</ID>
+      <DefaultText>Вы убедили Пикво отдать все его деньги, чтобы стать членом культа Меняющегося Бога.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20000</ID>
+      <DefaultText>Вы встретили мутантку по имени Кривая Квик, которая утверждает, что является единственной выжившей из племени Пикво. Пикво бросил ее в Подбрюшье и отправился искать удачу в других местах.</DefaultText>
+      <FemaleText>Вы встретили мутантку по имени Кривая Квик, которая утверждает, что является единственной выжившей из племени Пикво. Пикво бросил ее в Подбрюшье и отправилась искать удачу в других местах.</FemaleText>
+    </Entry>
+  </Entries>
+</StringTableFile>

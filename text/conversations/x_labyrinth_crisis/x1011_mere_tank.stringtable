@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\x_labyrinth_crisis\x1011_mere_tank</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>23</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>Как только вы прикасаетесь рукой к стеклу, в ваше тело устремляется волна энергии — сила всех пяти созданий Потоков и принятых вами решений.
+
+Как бы вы ни старались, вам не удается удержать этот мощный поток энергии.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>Внутри этого резервуара, соединенного кабелями с остальными резервуарами в камере, находится лишь густой туман.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>Волны текут в вас одна за одной, пока не переполняют.
+
+Затем поток меняет направление: теперь энергия стремится не внутрь, а *наружу*. Она неумолимо ведет вас к камере, а затем каким-то образом рывком протаскивает *сквозь* стекло, просеяв вашу сущность, словно ментальное решето. На том конце, словно в тоннеле, сияет ослепительный свет, а потом…</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText>"Я не могу завершить процесс настройки за тебя, дитя. Ты должен сделать это сам!"</DefaultText>
+      <FemaleText>"Я не могу завершить процесс настройки за тебя, дитя. Ты должна сделать это сама!"</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>14</ID>
+      <DefaultText>"Сначала ты должен настроиться на существ. И активировать камеру тоже должен *ты*, а не я".</DefaultText>
+      <FemaleText>"Сначала ты должна настроиться на существ. И активировать камеру тоже должна *ты*, а не я".</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>15</ID>
+      <DefaultText>Уйти.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>16</ID>
+      <DefaultText>На стенах кристаллической камеры переплетаются сверкающие краски. Похоже, она готова принять вас.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>17</ID>
+      <DefaultText>Положить ладонь на поверхность резервуара.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>18</ID>
+      <DefaultText>Переключить внимание на фрагменты Скорби.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>19</ID>
+      <DefaultText>Резервуар продолжает наполняться яркой сверкающей энергией. Тихое гудение, многократно отражающееся в вашей голове, тянет вас к нему.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20</ID>
+      <DefaultText>Позволить энергии свободно течь.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>21</ID>
+      <DefaultText>Попытаться направить энергию на фрагменты Скорби.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>22</ID>
+      <DefaultText>Волна энергии поднимается по вашей руке в голову, а затем устремляется наружу. Фрагменты Скорби визжат от боли, разбегаясь из лаборатории во все стороны.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>23</ID>
+      <DefaultText>Волна энергии поднимается по вашей руке в голову, а затем устремляется наружу. Вы направляете ее на фрагменты Скорби, одних уничтожив, а других заставив визжать от боли и как можно быстрее сбежать из лаборатории.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>24</ID>
+      <DefaultText>Сознание Таша</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

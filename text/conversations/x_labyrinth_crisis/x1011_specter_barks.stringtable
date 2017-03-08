@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\x_labyrinth_crisis\x1011_specter_barks</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>20</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>"О нет… Она нас нашла. Скорбь здесь".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>"Это всего лишь фрагменты. Мы должны вытащить их из панелей управления, и только потом ты сможешь настроиться. Держи, это должно тебя защитить. Со мной все будет хорошо. Да, со мной все будет хорошо…"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>"Не нужно с ними *бороться*! Иди к резервуарам!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>"Ах, скист, они *все* вылезают. Скорее, иди прямиком к остальным резервуарам!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>"Не волнуйся обо мне, ладно? Со мной все будет хорошо. Начинай настраиваться".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>"Ну все! Видишь вон те резервуары на верхней части платформы? Иди к тому, что светится, живо!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>"Иди к тому резервуару на верхней части платформы, иначе нам конец!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>"Я же *сказал*, что могу лишь наблюдать. Ты должен настроиться сам".</DefaultText>
+      <FemaleText>"Я же *сказал*, что могу лишь наблюдать. Ты должна настроиться сама".</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>"Хотелось бы помочь, но… резервуарами придется заняться *тебе*".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText>"Слушай, я могу помочь тебе с фрагментами Скорби, но не с этим. Давай сам!"</DefaultText>
+      <FemaleText>"Слушай, я могу помочь тебе с фрагментами Скорби, но не с этим. Давай сама!"</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText>"Ты не можешь им навредить! Поверь мне, просто иди к резервуарам".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>14</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>15</ID>
+      <DefaultText>"Пожалуй, я знал, что это ни к чему не приведет. И все же облегчение".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>16</ID>
+      <DefaultText>"Стой! Мы вытащили Скорбь из этого аппарата. Теперь ты можешь настроиться на это существо!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>17</ID>
+      <DefaultText>"Куда ты? Эти существа — вот что важно, помнишь?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>18</ID>
+      <DefaultText>"Держи, это должно тебя защитить. Не волнуйся обо мне. Со мной все будет хорошо. Да, со мной все будет хорошо…"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>19</ID>
+      <DefaultText>"Я не могу помочь с резервуарами, зато могу удерживать этих монстров подальше от тебя. Полагаю, уж лучше я, чем ты".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

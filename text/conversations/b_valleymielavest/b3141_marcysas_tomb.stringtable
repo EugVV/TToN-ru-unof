@@ -1,0 +1,287 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\b_valleymielavest\b3141_marcysas_tomb</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>53</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>Стены и пол гробницы пропитаны невообразимым количеством крови. На покрытых кровью стенах нацарапаны надписи на исковерканном языке истины. По-видимому, сектанты, захватившие Долину, испытывают особое уважение к человеку, покоящемуся в этой капсуле.
+
+Как бы вы ни пытались, вам не удается найти здесь ничего полезного, и вы уходите, так и не узнав ничего нового.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>Внутри находится странная вещь, углы и плоскости которой не подчиняются законам геометрии. Она сплетена из сверхъестественного металла, который словно течет, пока вы рассматриваете эту вещь. Ее ответвления без всякой видимой системы сплетаются в решетку.
+
+От этой вещи исходит энергия Потоков, и на ее основании выдавлен мистический символ Меняющегося Бога. Это не что иное, как Проектор Сознания.
+
+Но вы не можете воспользоваться им, по крайней мере, не сейчас. Кто-то испортил его калибровку, и правильно настроить механизм, основываясь лишь на догадках, невозможно.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>По-видимому, Дети Бесконечных Врат уделили этой гробнице особое внимание. Стены покрыты надписями, больше похожими на кровавые пятна, и клочьями мяса. Несколько надписей, которые вам удается прочесть, восхваляют погибшую женщину и какие-то сущности, которым поклоняются Дети.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText>Вы уже натыкались на эту гробницу, но не могли и помыслить, что вам придется вернуться сюда, следуя указаниям Роноса Кай'сула... возможно, стоило об этом задуматься. 
+
+Теперь, зная имя Марцисы, вы обыскиваете гробницу более тщательно. Может быть, вам удастся найти что-нибудь ценное среди отбросов.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>14</ID>
+      <DefaultText>Гробница выглядит так же, как в прошлый раз.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>15</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>16</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>17</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>18</ID>
+      <DefaultText>Отойти.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>19</ID>
+      <DefaultText>Вас окружают неразборчиво нацарапанные надписи, смысл которых понять невозможно. И все же... почему-то они вызывают у вас ощущение смутного, неописуемого ужаса.
+
+Среди начертанных кровью проповедей и хвалебных песен вы находите вырезанный в камне символ. Вы узнаете мистический символ Детей Бесконечных Врат. Он окружен надписями, прославляющими безымянного чуждого бога.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20</ID>
+      <DefaultText>Вы не можете прочесть имя, так как оно скрыто брызгами крови, смазанной благоговейными прикосновениями бесчисленного множества сектантов.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>21</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>22</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>24</ID>
+      <DefaultText>Вид гробницы изменился. Это больше не памятник Марцисе, верной помощнице Инифира — теперь это святилище того, кто первым открыл Бесконечные Врата. Здесь пребывает живая память вашего собрата-отверженного. На стенах сделаны надписи в его честь.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>25</ID>
+      <DefaultText>Очевидно, что Дети Бесконечных Врат очень дорожат памятью об Инифире. Воздвигнутое в его честь святилище никто не смеет осквернить.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>26</ID>
+      <DefaultText>Обыщите гробницу.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>27</ID>
+      <DefaultText>Рассмотрите надписи.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>28</ID>
+      <DefaultText>Коснитесь символа Бесконечных Врат.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>29</ID>
+      <DefaultText>Отойти.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>31</ID>
+      <DefaultText>Потайное отделение с тихим звуком открывается, но внутри него пустота.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>32</ID>
+      <DefaultText>Со времени вашего последнего визита ничего не изменилось.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>33</ID>
+      <DefaultText>Начертанные кровью бессвязные надписи Детей Бесконечных Врат возносят хвалу какому-то ужасному существу из другого мира. Среди его многочисленных имен такие, как Тот, Кто Ожидает, Наблюдатель, Дарующий Великое Откровение.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>34</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>35</ID>
+      <DefaultText>И все же вы уверены, что это гробница Марцисы, чья близость к Инифиру, должно быть, вдохновила это... выражение того, что сложно назвать "почтением". Тем не менее, все это определенно производит впечатление.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>36</ID>
+      <DefaultText>Гробница выглядит так же, как в прошлый раз, и здесь нельзя узнать ничего нового.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>37</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>38</ID>
+      <DefaultText>Дотроньтесь до символа.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>39</ID>
+      <DefaultText>Еще раз дотроньтесь до символа.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>40</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>41</ID>
+      <DefaultText>Внимательно осмотрите надпись, сделанную Детьми.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>42</ID>
+      <DefaultText>Осмотрите надпись еще раз.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>44</ID>
+      <DefaultText>Едва вы протягиваете руку, чтобы коснуться символа, из него вылетает искра, и ваша татуировка отзывается, вспыхивая в ответ. Камень, в котором вырезан символ, растворяется, словно переходя в иное измерение, и открывается большая ниша.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>45</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>46</ID>
+      <DefaultText>Камень, за которым скрыта ниша, растворяется, но внутри ничего нет.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>47</ID>
+      <DefaultText>Вас окружают неразборчиво нацарапанные надписи, смысл которых понять невозможно. И все же... почему-то они вызывают у вас ощущение смутного, неописуемого ужаса.
+
+Среди начертанных кровью проповедей и хвалебных песен вы находите вырезанный в камне символ. Мистический символ вам незнаком, но тот, кто вырезал его в камне, явно рассчитывал, что символ сохранится на много поколений.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>48</ID>
+      <DefaultText>Надписи и царапины на камне остаются нетронутыми, как и глубоко вырезанный мистический символ.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>49</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>51</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>52</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>53</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>54</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>55</ID>
+      <DefaultText>Однако под следами творившего здесь святотатства видна старая, вырезанная в камне надпись: "Она стояла на страже между надеждой и ужасом и, всеми любимая, умерла на своем посту, продолжая служить нам, страдающим".
+
+Ниже стоит подпись: "Инифир".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>56</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>57</ID>
+      <DefaultText>Попытайтесь прочесть имя.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>58</ID>
+      <DefaultText>Еще раз попытайтесь прочесть имя.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>59</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

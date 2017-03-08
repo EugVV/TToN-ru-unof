@@ -1,0 +1,1424 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\a_sagus\a2501_master_rennio</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>270</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>"Расскажи мне о себе".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>"Можешь еще раз рассказать о себе?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>Небольшая улыбка отобразилась на его лице. "Я собственник этого бизнеса, и капитан корабля. В лучшие времена, я водил флоты судов в различные порты назначения". Он пожимает плечами. "Сейчас не лучшие времена, и мой флот сильно поубавился. Сейчас у меня нет ничего, кроме единственного судна".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>"Я Мастер Реннио, бывший капитан корабля, и собственник 'Мастер Ренниос Аэрофайл Эдвенчес'. Огромное вам спасибо за проявленный интерес".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>От отвлекается от наблюдения за своими рабочими и спрашивает: "Чем я могу помочь вам?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText>Этот капитан дирижабля нервно наблюдает за своим судном. Он невысокий и жилистый, одет в поношенную от путешествий, но добротную одежду. Он мучительно обдумывает что-то, шевеля своими, безупречно постриженными, усами.
+
+Когда вы приближаетесь, от отворачивается от своего судна. "Добро пожаловать в 'Мастер Ренниос Аэрофайл Эдвенчерс'. Я боюсь, что в ближайшее время нам не удастся отправиться. Нет, с момента этой *кражи*".
+
+Он произносит слова аккуратно, как будто постоянно беспокоится о чем-то.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText>"Мое судно будет оставаться на пристани до тех пор, пока вор, ответственный за кражу моего другого дирижабля, не вернет мне его целым и невредимым".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>14</ID>
+      <DefaultText>"Я всегда старался доверять людям", — подытоживает он, тяжело глотая. — "Но это было до тех пор, пока это малорослый, источающий сияние идиот с бледно-желтыми волосами, не украл у меня Коронет — мой самый ценный дирижабль!"
+
+Он качает своей головой, расстроенный не на шутку. "До тех пор, пока не поймают этого вора, мой дирижабль будет оставаться в доке, надежно укрытый и прикованный цепями".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>15</ID>
+      <DefaultText>Он внезапно прекращает свою речь, когда видит Эрритиса, стоящего рядом с вами."Он! Вот он вор!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>16</ID>
+      <DefaultText>"Вор? Я в жизни ничего не крал! Я, разумеется, одолжил его, но всегда хотел вернуть его законному владельцу... хотя, я должен заметить, мне не всегда до конца везло".
+
+{CHRIS: Update for voice}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>17</ID>
+      <DefaultText>"Тем временем, могу ли я оказать вам какую-то другую услугу?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>18</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>19</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>23</ID>
+      <DefaultText>"Я требую компенсацию! Мое судно, мой источник существования, утянул этот... этот... этот бродяга!" — он пристально смотрит на забытого клинка. — "Я требую правосудия. Я возьму его в качестве услуги".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>24</ID>
+      <DefaultText>"Давайте выражаться четко. Эрритис не может отвечать за свои действия. Я в смысле, посмотри на него".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>25</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>26</ID>
+      <DefaultText>"Эрритис, ты в долгу перед Мастером Реннио. Ты должен работать на него, пока ты не погасишь свой долг".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>27</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>28</ID>
+      <DefaultText>"Местная секта думает, что я их бог. Я мог бы убедить их отработать долг".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>29</ID>
+      <DefaultText>"Что, если я откажусь?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30</ID>
+      <DefaultText>"Тогда мое судно не покинет пределы этого дока. И никакой другой капитан не окажет вам услуги. Пока мы не договоримся, мой корабль останется здесь."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>31</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>32</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>33</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>34</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>35</ID>
+      <DefaultText>"Могу ли я оплатить его долг?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>36</ID>
+      <DefaultText>"Еще раз, сколько тебе должен Эрритис?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>37</ID>
+      <DefaultText>"Между тем, что 'Мастер Ренниос Аэрофайл Эдвенчерс' может сделать для вас?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>38</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>39</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>40</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>41</ID>
+      <DefaultText>Волосы торговца взъерошены, а в его глазах читается испуг. "Пожалуйста. Твой друг оплатил его долг сполна. Я освобождаю его от обязательств".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>42</ID>
+      <DefaultText>Руки торговца сложены на его груди. Его лицо хмурое, а уголки рта опущены вниз. "Мальчик представляет угрозу", — он бормочет. — "Я не знаю, в каком случае он бы стоил мне больше — когда он разбил этот корабль или когда он начал отрабатывать свой долг. Таким образом, если..." Он умолкает.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>43</ID>
+      <DefaultText>Торговец наблюдает, как Эрритис несет тяжелые коробки и танцует над канатами. "Парень представляет небольшую угрозу, но мы еще сделаем из него неплохого грузчика, я полагаю", — он усмехается.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>44</ID>
+      <DefaultText>Он бросает хитрый взгляд на Эрритиса, который неистовствует от грузов Реннио. "Я говорил ему, что он может уйти, когда хочет, но... он отказывается уходить. Он заявляет, что он *помогает* мне. Единственная услуга, которую он мне оказывает — это то, что он толкает меня в могилу!"
+
+Он пожимает плечами. "Пожалуйста... забери его!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>45</ID>
+      <DefaultText>"Пожалуйста", — он говорит шепотом.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>46</ID>
+      <DefaultText>Кажется, Реннио уже смирился со своей судьбой, быть начальником Эрритиса, но в его глазах все еще остался слегка шокированный взгляд.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>47</ID>
+      <DefaultText>"Эрритис, ты можешь уйти. Я найду тебя, когда ты мне понадобишься".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>48</ID>
+      <DefaultText>"Эрритис, не составишь ли ты мне компанию в моем путешествии?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>49</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>50</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>52</ID>
+      <DefaultText>"Мы что-нибудь придумаем позже. Между тем, у меня есть другие вопросы".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>53</ID>
+      <DefaultText>"Что я могу сделать для тебя?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>54</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>55</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>57</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>58</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>59</ID>
+      <DefaultText>"Давай поговорим о том, как можно погасить перед тобой долг Эрритиса".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>60</ID>
+      <DefaultText>"Ты готов обсуждать условия для твоего вороватого дружка?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>61</ID>
+      <DefaultText>"Что ты предлагаешь?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>62</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>63</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>64</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>65</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>66</ID>
+      <DefaultText>Он пожимает плечами. "Такова жизнь. Ты стараешься для своей семьи, а превратности судьбы разбивают твои планы о камни. Мое испытывающее трудности предприятие — единственное, что я надеюсь передать моим наследникам. Я пытаюсь учить их преданности, выдержке, справедливости во всех начинаниях".
+
+Он засовывает руки в карманы. "Какую пользу это принесло бы им — видеть, как я воспользуюсь нечестным преимуществом? Я лучше буду разорен, чем буду учить их лжи на пути к успеху".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>67</ID>
+      <DefaultText>Он приглушенно смеется. "Мои извинения. Последнее время у меня голова идет кругом. Ты не спрашивал о моей философии".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>68</ID>
+      <DefaultText>"Ну, прощай".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>69</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>70</ID>
+      <DefaultText>"Куда ты отправляешься?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>71</ID>
+      <DefaultText>"Ты можешь сказать мне, куда ты отправляешься снова?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>72</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>73</ID>
+      <DefaultText>"Однажды я летал аж до самого Аугур-Кала, парил над Арвринским лесом и бездонными глубинами озера Орну, над полями застывшей лавы Оссифагена и равнинами по ту сторону. Я летал на юг над руинами родины Табата и на восток до оазиса М'ра Джолиос".
+
+Он жестом указывает на его одиноко стоящий корабль. "Сейчас я летаю исключительно в Долину Забытых Героев, перевожу скорбящих и составителей мемуаров к вечным могилам".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>74</ID>
+      <DefaultText>Он издает короткий, совсем не горький смех. "В те времена, летал только в долину Забытых Героев. Бесконечная Битва позаботилась об этом, а мой корабль видел лучшие времена".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>75</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>76</ID>
+      <DefaultText>"Что ты можешь рассказать мне про Караван Сарай?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>77</ID>
+      <DefaultText>"Не мог бы ты рассказать мне больше про Караван Сарай?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>78</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>79</ID>
+      <DefaultText>"Мой друг, погрязший в истории, ты пришел к правильному человеку, чтобы спросить об этом. Гм".
+
+Он поправляет одежду и становится выше. "Это был когда-то перевалочный пункт для защиты от наших врагов, племени Табата. Наши предки могли наблюдать отсюда за наступающими врагами и координировать свои силы, чтобы дать им отпор. Говорят, что обороной командовали прямо с этого места". Он указывает в направлении каменистого выступа на дальней стороне плато.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>80</ID>
+      <DefaultText>"Друг, это лучшее в городе место, если ты торговец. Отсюда открывается вид на Лагуну Гарравиа и ты можешь наблюдать, как заходят корабли. Вон там, Цветение. Ты можешь наблюдать за всеми перипетиями торговли, слышать звон монет, и тогда ты понимаешь, что мир функционирует как следует — для нашего общего блага".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>81</ID>
+      <DefaultText>"Прощай".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>82</ID>
+      <DefaultText>"Сейчас, вместо арены войны, он служит местом для торговли, он создан для общего блага — как для нас, так и для иностранных гостей. Утесы Сагуса находятся на вершине огромных запасов нуменеры и ведет процветавший бизнес, купаясь в роскоши. Мы везем продовольствие, специи, текстиль и гостей из далеких стран! Они приезжают к нам из Авгур-Кала, Астарии и Хейреста и многих, многих других мест. Мой друг, это основной центр торговли в Протекторате Сагус". Он улыбается. "Я играю здесь небольшую, но важную роль".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>83</ID>
+      <DefaultText>"Пока нет".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>84</ID>
+      <DefaultText>"Тогда, мне больше нечего вам сказать. Моя репутация построена на честности и справедливости, и не могу, положа руку на сердце, иметь дело с теми, кто не желает соблюдать правила порядочности в бизнесе".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>85</ID>
+      <DefaultText>"До свидания".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>86</ID>
+      <DefaultText>"Мне нужно лететь в Долину Забытых Героев".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>87</ID>
+      <DefaultText>"Прекрасное время," — говорит он, кланяясь. — "Мой корабль скоро отправляется. Обычно, плата достаточно велика для этого времени года, но я не могу без зазрения совести брать с вас плату за поездку, учитывая все то, что вы сделали".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>88</ID>
+      <DefaultText>"Чем... я могу помочь вам сегодня?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>89</ID>
+      <DefaultText>"Вы уже завершили все дела в городе? Скажите только слово и мы покинем порт".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>90</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>91</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>92</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>93</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>94</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>95</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>96</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>97</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>98</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>99</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>100</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>101</ID>
+      <DefaultText>"Я готов. Давайте отправляться в путь".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>102</ID>
+      <DefaultText>"Не сейчас. У меня были еще вопросы".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>103</ID>
+      <DefaultText>"Не сейчас. До свидания".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>104</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>105</ID>
+      <DefaultText>"Очень хорошо, мой друг. Воздух становится свежим, и мы поплывем на гребнях облаков в этот день!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>106</ID>
+      <DefaultText>"Очень хорошо, мой друг, мы отправимся в путь немедленно!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>107</ID>
+      <DefaultText>Он широко улыбается, и напряжение, кажется, покидает его. "Мои любимые слова".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>108</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>109</ID>
+      <DefaultText>"Как ты хочешь, мой друг".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>110</ID>
+      <DefaultText>"Я с нетерпением жду нашего путешествия".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>111</ID>
+      <DefaultText>"Гм. Да. Будь что будет, мой друг был несправедливо обвинен, я должен свидетельствовать от его имени. Настоящие джентльмены не бросают своих друзей, страдать в одиночку!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>112</ID>
+      <DefaultText>"Я покидаю Утесы Сагуса, Тибир — с тобой, или без тебя".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>113</ID>
+      <DefaultText>"Довольно справедливо. Давай же найдем Рис".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>114</ID>
+      <DefaultText>Он хмурится. "Оставлять своего друга прикованного цепями — не самый хороший поступок. То есть, пока этот друг не попадет в руки правосудия".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>115</ID>
+      <DefaultText>"Если ли у твоего друга какие-то сведения, которые могут коснуться тебя потом?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>116</ID>
+      <DefaultText>"Ты на самом деле опасаешься, что твоя честь может быть поставлена под сомнение, Тибир? Полет, возможно, твой лучший вариант, если твоя репутация под вопросом".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>117</ID>
+      <DefaultText>Он еще сильнее хмурит брови и поворачивается к вам: "Мы можем отправится в путь по первому твоему слову".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>118</ID>
+      <DefaultText>"Я вижу, какой оборот принимает этот разговор, и меня не сильно это заботит. Я отправляюсь, чтобы спасти моего друга".
+
+Он уходит.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>119</ID>
+      <DefaultText>"Абсолютно верно. Это точно", — он ударяет кулаком по своей ладони. "Нам нужно найти настоящего джентльмена и рассказать ему, что происходит с твоим другом!"
+
+Он заинтересованно оглядывается. "Может, если они станут друзьями, настоящий джентльмен спасет Рис для тебя!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>120</ID>
+      <DefaultText>Реннио наблюдает, как Тибир отправляется в дорогу и говорит: "Я наблюдал за ним, когда он скрывался здесь последние несколько дней, и меня успокаивает мысль, что ты не общаешься с такими как он. Мы полетим сейчас налегке, и с более веской целью. Мы доставим тебя в место назначения в два счета".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>121</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>122</ID>
+      <DefaultText>"Не так быстро. Я не брошу моего друга Риса".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>123</ID>
+      <DefaultText>"Мы еще не спасли Риса. Мы не можем отправляться сейчас!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>124</ID>
+      <DefaultText>"Я буду рядом, когда тебе понадоблюсь".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>125</ID>
+      <DefaultText>"Все еще хочешь оказать помощь старому солдату, как ты обещал?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>126</ID>
+      <DefaultText>"Да, поторапливайся".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>127</ID>
+      <DefaultText>"Да, поторапливайся".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>128</ID>
+      <DefaultText>"Извини, Тибир. Кажется, этого нет в будущем".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>129</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>130</ID>
+      <DefaultText>Он смотрит на ваших спутников: "Да у тебя здесь целая армия, мой друг". Он через силу смеется. "Не уверен, что здесь найдется достаточно места для меня".
+
+{GEORGE/COLIN: Every Companion has their own reactions to being asked to leave. I think the player should have to back out of this conversation first, ask someone to leave, then ask Tybir to join. - AH}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>131</ID>
+      <DefaultText>"Алигерн, мне нужно, чтобы ты ушел, чтобы освободилось немного места".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>132</ID>
+      <DefaultText>"Калистиж, мне нужно, чтобы ты ушла, чтобы освободилось немного места".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>133</ID>
+      <DefaultText>"Эрритис, ты должен остаться".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>134</ID>
+      <DefaultText>"Маткину, ты можешь остаться".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>135</ID>
+      <DefaultText>"Оом... оставайся!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>136</ID>
+      <DefaultText>"Рин, можешь здесь подождать, пожалуйста?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>137</ID>
+      <DefaultText>"Риастрад, ты и Сатсада должны остаться здесь."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>138</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>139</ID>
+      <DefaultText>"Ты прав — места нет".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>144</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>145</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>146</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>147</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>148</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>149</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>150</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>151</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>152</ID>
+      <DefaultText>"Для *него*? Прекрасно. У меня есть работа, которую нужно сделать в любом случае". Прежде чем уйти, он окидывает тебя холодным пристальным взглядом.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>153</ID>
+      <DefaultText>"Действительно? А я думал, у нас действительно какой-то прогресс. Очень хорошо. Я могу наверстать упущенное на поисках, в любом случае".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>154</ID>
+      <DefaultText>"Я должен сам отыскать опасность!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>155</ID>
+      <DefaultText>"На самом деле. Ты отсекаешь меня из-за этого? Прекрасно. Мне есть чем заняться".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>156</ID>
+      <DefaultText>::воющий звук::</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>157</ID>
+      <DefaultText>"С...самой? Хорошо. Надеюсь, я буду в порядке. Я уверена, что буду".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>158</ID>
+      <DefaultText>"Да уж."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>159</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>160</ID>
+      <DefaultText>"Ты об этом не пожалеешь, парень!"</DefaultText>
+      <FemaleText>"Ты об этом не пожалеешь, красавица!"</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>161</ID>
+      <DefaultText>Он начинает выкрикивать команды своему экипажу, и они отбрасывают швартовый. Дирижабль отрывается от шпиля и город, где вы родились, исчезает под вами.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>162</ID>
+      <DefaultText>"Все здесь? Хороший ветер для нас. Давайте отплывать, друзья".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>163</ID>
+      <DefaultText>"Таким образом, ты нарушаешь свое слово, да? Вот именно. Я имел дела с такими как ты и раньше". Он делает быстрый поклон и уходит.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>164</ID>
+      <DefaultText>"...ой. Как я и говорил. Мы должны быть уже в пути", — он нервно оглядывается. — "Я надеюсь, у тебя нет для меня других сюрпризов".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>165</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>166</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>167</ID>
+      <DefaultText>[You have reached the end of our Beta content. While you're waiting for the rest of the game to be completed, we encourage you to try our Beta content again... but make different choices this time. Torment is a game that is shaped by your choices, and we hope you'll get to see how things might have turned out differently.
+
+Thanks for playing!]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>168</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>169</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>170</ID>
+      <DefaultText>Мастер Реннио наблюдает как Эрритис шатаясь уходит, и делает глубокий и дрожащий вздох.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>171</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>172</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>174</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>175</ID>
+      <DefaultText>"Ты сказал, что освободишь Рин. Если ты не собираешься возвращаться назад, тебе следует закончить все дела. Иначе, я сделаю это вместо тебя".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>176</ID>
+      <DefaultText>"Мы не освободили Рин. Мы найдем ее, или я иду прямо сейчас".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>177</ID>
+      <DefaultText>"Время пришло. Я отправляюсь сейчас, с тобой или без тебя".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>178</ID>
+      <DefaultText>"Хорошо. Давай же найдем ее".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>180</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>181</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>182</ID>
+      <DefaultText>"Ты не можешь рассказать мне, как украли твой корабль?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>183</ID>
+      <DefaultText>"Я помогу тебе найти его".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>184</ID>
+      <DefaultText>"У меня нет на это времени".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>185</ID>
+      <DefaultText>"Конечно, — говорит он, благодарно глядя на вас за то, что вы заинтересовались его проблемой. — Бродяга хотел "позаимствовать" мой дирижабль, можете себе представить? Разумеется, я отказал ему как можно вежливее".
+
+Он медленно качает головой, и печаль появляется на его лице: "Я отвернулся лишь на мгновение, чтобы подписать кое-какие бумаги, а когда повернулся, он уже был на нем! И махал мне рукой, стоя за перилами!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>186</ID>
+      <DefaultText>"Это было бы большим облегчением", — говорит он, вздыхая. — "Если ты наткнешься на него, приведи его ко мне. Я хочу взглянуть этому вору в глаза и спросить его, зачем он это сделал".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>187</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>188</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>189</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>190</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>191</ID>
+      <DefaultText>"Какая жалость", — говорит он, тяжело вздыхая. — "Если ты как-то наткнешься на этого вора, все же... приведи его ко мне. Я хочу взглянуть ему в глаза и спросить его, зачем он это сделал".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>192</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>193</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>194</ID>
+      <DefaultText>"По крайней мере. В конечном счете".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>195</ID>
+      <DefaultText>"Радостно и с благодарностью!"
+{ERRITIS}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>196</ID>
+      <DefaultText>Реннио глубоко дышит и с дрожью делает вздох облегчения.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>197</ID>
+      <DefaultText>Он сделает это. Эрритис подозрительно сморит на пролетающую частицу пыли, как будто она может внезапно напасть на него. 
+
+"Ты прав", — Реннио проворчал в итоге. — "Он разбил мой дирижабль через минуту после того, как мы встретились. Я представляю, что бы произошло, если бы я *нанял* его".
+
+Он угрюмо смотрит на вашего компаньона. "Просто держи его подальше от меня и моего средства существования. Я скоро возобновлю полеты в долину Забытых Героев. Хорошего тебе дня".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>198</ID>
+      <DefaultText>Он сделает это. Эрритис подозрительно сморит на пролетающую частицу пыли, как будто она может внезапно напасть на него. 
+
+"Нет. Он возможно..." — Мастер Реннио понизил свой голос до шепота, — "ну точно как Скаттервит, но он причинил мне ужасный ущерб. Ужасный! Я требую компенсации!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>199</ID>
+      <DefaultText>"Продолжим, пожалуй".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>200</ID>
+      <DefaultText>"Конечно, ты должен компенсировать текущую стоимость воздушного судна, расходы на регистрацию и прочие издержки". Он поднимает свой подбородок. "[Global: a2501_Rennio_ErritisDebt] шин. И не одним меньше".
+{MONEY}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>201</ID>
+      <DefaultText>"[Global: a2501_Rennio_ErritisDebt] шин. Заплатишь?"
+{MONEY}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>202</ID>
+      <DefaultText>"Вот они".
+{MONEY}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>203</ID>
+      <DefaultText>"Может мы можем обсудить другой вариант расчета".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>204</ID>
+      <DefaultText>"Это тупиковый путь. Давай поговорим о чем-нибудь еще".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>205</ID>
+      <DefaultText>"Если нам это нужно".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>206</ID>
+      <DefaultText>"О чем, тогда?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>207</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>208</ID>
+      <DefaultText>"Это даже слишком".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>209</ID>
+      <DefaultText>"Может мы можем обсудить другой вариант расчета".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>210</ID>
+      <DefaultText>"Нет", — говорит он, его ноздри расширяются, — "и я должен сказать, что мне не нравятся намеки. Я не прошу слишком много. Никогда. У меня большие издержки, но мои цены достаточно умеренные".
+
+Он делает явную попытку погасить свой гнев. "Эта часть обсуждения *закончена*. Может ты хотел бы обсудить другие варианты?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>211</ID>
+      <DefaultText>"Возможно." Однако, по его голосу не скажешь, что он убежден.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>212</ID>
+      <DefaultText>Он с удивлением принимает твою плату. Очевидно, он не ожидал, что такая сумма у вас окажется с собой. 
+
+"Очень хорошо", — говорит он, после тщательного пересчета. — "Долг уплачен. Полеты в долину Забытых Героев скоро возобновятся".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>213</ID>
+      <DefaultText>"Работа?" — говорит Эрритис, смотря подозрительно. — "Я выполнил работу. Я никогда ее сильно не любил. Она слишком утомительна".
+
+{ERRITIS}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>214</ID>
+      <DefaultText>"Это как раз то, что нужно сделать. Ты будешь гордиться этим позднее".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>215</ID>
+      <DefaultText>"Это ты говоришь мне, что нельзя превратить работу в *дирижабельном доке* в приключение?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>216</ID>
+      <DefaultText>"Конечно, я могу", — говорит он, оскорбленный самой идеей. Он оборачивается, весь в решительности, и протягивает свою руку внезапно ставшему подозрительным Реннио. — "Я принимаю твое предложение. Мы отправимся на встречу приключениям вместе!" 
+
+{ERRITIS}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>217</ID>
+      <DefaultText>"Давай приступим, Эрритис".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>219</ID>
+      <DefaultText>"Я буду? Хорошо, мне нравится такой поворот событий".
+
+Он оборачивается и протягивает руку Реннио. "Я принимаю твое предложение. Мы будем *работать* вместе. Делиться идеями! Сотрудничать!"
+
+{ERRITIS}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>220</ID>
+      <DefaultText>Вы передаете Реннио сертификат, подтверждающий факт возмещения убытков, который вы получили в местном совете. Он осторожно берет документ, как будто боится, что он его может укусить, и читает его, его губы молчаливо двигаются. 
+
+Они замирают на полуслове.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>221</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>222</ID>
+      <DefaultText>"Я поговорю с ним. Подожди здесь".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>223</ID>
+      <DefaultText>"Ты, возможно, прав. Давай обсудим что-нибудь еще".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>224</ID>
+      <DefaultText>"Конечно", — говорит он, поправляя свою одежду.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>225</ID>
+      <DefaultText>"Действительно?" — говорит он, поднимая свои брови. — "Хорошо. Удачи. С этим джентльменом тяжело работать".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>226</ID>
+      <DefaultText>"Я... Я так полагаю, "говорит он, хмурясь. "Вор должен отвечать за свои преступления, но если ты сможешь убедить их помочь, тогда..." 
+
+Он сдержанно кивает. "Да, это подойдет".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>227</ID>
+      <DefaultText>"Нет", — говорит он, после минуты раздумья. — "Этот вор должен отвечать сам за свои собственные преступления, не зависимо от усилий и прочего. Я боюсь, что мы должны прийти к другому решению".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>230</ID>
+      <DefaultText>"Если они не желают, мы должны обсудить другие условия".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>231</ID>
+      <DefaultText>"'Компенсацию за любой возможный ущерб?'" — он цитирует. — "Как все же тебе удалось... не обращай внимания". Он машет своей рукой. "Это *чудесно*. Я не знаю, как это у тебя получилось".
+
+Он с нежностью окидывает вас взглядом: "Спасибо тебе. Ты спас мой семейный бизнес, и это, несомненно, явилось выходом из положения, я скоро возобновлю полеты в долину Забытых Героев".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>232</ID>
+      <DefaultText>Он бросает нервный взгляд на вашего компаньона.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>233</ID>
+      <DefaultText>"Я все же надеюсь, что ты заберешь своего вороватого друга с собой в Долину. И за ее пределы, если ты сможешь. Далеко за ее пределы".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>234</ID>
+      <DefaultText>"Мастер Реннио!" — говорит он, махая рукой. "Помнишь меня? Я спас твой семейный бизнес!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>235</ID>
+      <DefaultText>Реннио вздрагивает и поворачивается обратно к вам.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>236</ID>
+      <DefaultText>"Я также хотел тебя предупредить, что мы не сможем забрать тебя обратно из Долины. Мы никогда там не задерживаемся. Ее энергия не очень хороша для двигателей нашего корабля".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>237</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>238</ID>
+      <DefaultText>"Неужели все было действительно так плохо?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>239</ID>
+      <DefaultText>"Ты уверен, что не хотел бы подержать его здесь еще какое-то время?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>240</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>241</ID>
+      <DefaultText>"Все до чего этот парень дотрагивается, ломается или сгорает! Он разоряет меня!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>242</ID>
+      <DefaultText>"Нет. Абсолютно нет! Ни одной секунды дольше!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>243</ID>
+      <DefaultText>"Хватит!" — говорит капитан дирижабля, руки крепко сцеплены впереди него, как будто он собирался схватить Эрритиса за его жилет и сбросить его со спусковой платформы. "Ты украл мой дирижабль! Слишком поздно для извинений!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>244</ID>
+      <DefaultText>Эрритис таращится между вами двумя, совершенно озадаченный. Он ожидал или больше споров по этому поводу или открытой борьбы.  Цивилизованная дискуссия, по-видимому, озадачила его. 
+
+"Я возвращаюсь обратно на Край Утеса", — говорит он в конце концов, почти рассерженно. — "Там мне было интереснее".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>246</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>247</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>248</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>249</ID>
+      <DefaultText>Мастер Реннио все еще таращится на Эрритиса. "Извинения не решат эту проблему. Я требую компенсацию за дирижабль, который ты разбил, и за эту нерадивую службу!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>250</ID>
+      <DefaultText>::ворчит::</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>251</ID>
+      <DefaultText>Передать Реннио сертификат о гарантии компенсации убытков.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>252</ID>
+      <DefaultText>Он дружелюбно поднимет руку в приветствии, но его взгляд задерживается на сектанте, приведенному вами.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>253</ID>
+      <DefaultText>"О", — говорит Эрритис, моргая. — "То есть, ты больше не нуждаешься в том, чтобы я оплачивал свой долг?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>254</ID>
+      <DefaultText>"Я уже сказал это", — говорит он, с некоторым напускным спокойствием. — "Несколько раз".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>255</ID>
+      <DefaultText>"О", — Эрритис говорит снова, слегка поникнув. — "Хорошо, ты должен продолжать говорить мне, пока это дойдет до меня. У меня сейчас голова забита". 
+
+Затем, он воспрянул духом и его ореол стал еще больше. "Я возвращаюсь обратно на Край Утеса. Все должно быть будут интересоваться, куда привели меня мои приключения!"
+
+Он бросается прочь.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>256</ID>
+      <DefaultText>::насвистывание::</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>257</ID>
+      <DefaultText>"Есть ли еще другой способ, как мы можем решить этот вопрос?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>258</ID>
+      <DefaultText>"Я бы предпочел, чтобы виновная сторона предоставила компенсацию, и я бы хотел получить денежную компенсацию за причиненные убытки". Он качает своей головой. "Я, однако, сомневаюсь, что у молодого воришки есть с собой деньги".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>259</ID>
+      <DefaultText>Он задевает свою носовую перегородку пальцами, запачканными чернилами. "Я бы предпочел передать рассмотрение вопроса о компенсации секретарю местного совета, но в недавнем прошлом у нас там было много... споров. Я сомневаюсь, что он поможет мне".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>260</ID>
+      <DefaultText>"Ты все еще доволен их работой?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>261</ID>
+      <DefaultText>"Должен ли Эрритис тебе что-нибудь еще?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>262</ID>
+      <DefaultText>"Я бы пожаловался, если бы мог", — говорит он, пожимая плечами, — "но справедливости ради, они охотно брались за каждую работу, которую я давал им. Благодаря твоим, э... последователям... мы скоро возобновим наши полеты в долину Забытых Героев".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>263</ID>
+      <DefaultText>"Думаю, что нет", — говорит он, пожимая плечами. — "Твои, э-э-э, последователи брались за любую работу, которую я давал им. Я более чем доволен. Мы скоро возобновим наши полеты в долину Забытых Героев".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>264</ID>
+      <DefaultText>"На самом деле?" — говорит Эрритис, изумленно. — "Я даже не знаю, где я буду на следующий день".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>265</ID>
+      <DefaultText>"Ты уверен?" — говорит Эрритис, склонив голову набок. — "Я мог бы возместить, по крайней мере, еще за троих, если это как-то поможет".
+
+Но Мастер Реннио не слушает.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>266</ID>
+      <DefaultText>"Перламутровые, ты говоришь? Не могу сказать, что я сейчас озабочен, но в последнее время я был поглощен мыслями, если ты мог заметить. Мои извинения".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>267</ID>
+      <DefaultText>"Не встречал ли ты в последнее время красивую девушку с перламутровыми волосами в этой местности?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>270</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>271</ID>
+      <DefaultText>"Напомни, как выглядел вор дирижабля?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>272</ID>
+      <DefaultText>"Расскажи еще раз, как выглядел вор дирижабля?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>273</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>274</ID>
+      <DefaultText>"Это был худощавый коротышка со светлыми волосами. И еще он светился", — хмурится мастер Реннио. — "Жаль, я не догадался, что он задумал. Ох, видал я таких! Безрассудные. Искатели острых ощущений! Никогда этого не понимал".
+
+Он покусывает тонкие усики.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>275</ID>
+      <DefaultText>"Худощавый светящийся коротышка со светлыми волосами".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>276</ID>
+      <DefaultText>"Секретаря можно найти возле Башни Совета... на площади Правительства".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>278</ID>
+      <DefaultText>"Чудно", — произносит Реннио после молчания, словно стараясь убедить самого себя. "Хорошо".
+
+Он поворачивается к вам и кланяется: "Вскоре мы возобновим полеты в Долину Забытых Героев. Еще раз благодарю за помощь".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>279</ID>
+      <DefaultText>"Разумеется, в данный момент я *никуда* не летаю. И не буду, пока *тот*, кто украл мой другой дирижабль, гуляет на свободе".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>280</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>283</ID>
+      <DefaultText>"Знаешь, я раньше сомневался, но теперь уверен. Отверженные — не люди".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>284</ID>
+      <DefaultText>"Прощай, ничтожество".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>285</ID>
+      <DefaultText>"Позволь мне обсудить кое-что с моими спутниками".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>286</ID>
+      <DefaultText>"Конечно! Я подожду", — он подмигивает. — "Надеюсь... мне не придется ждать слишком долго".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>287</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>288</ID>
+      <DefaultText>"Гм", — голос Тибира звучит весело, но вы улавливаете нотки тревоги. — "Мы ведь отбываем вместе, как и договаривались?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>289</ID>
+      <DefaultText>"Возможно, ты хочешь обсудить что-то с этими джентльменами?" — Реннио делает шаг в сторону. — "Не волнуйся, до отправления корабля еще есть время".</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

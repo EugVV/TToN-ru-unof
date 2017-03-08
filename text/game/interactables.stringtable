@@ -1,0 +1,3993 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>game\interactables</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>797</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>0</ID>
+      <DefaultText>Вид из окна достоин того, чтобы быть увековеченным в произведении великого творца. К сожалению, окно заколочено.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>В этом художественном произведении нет ничего занимательного. Вы жалеете о времени, потраченном на его изучение.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>Скатерть красного цвета.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>На предмете написано: "Рекламные изображения нуменер для загрузки".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>Подделка Крика.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>Этот сундук, без сомнения, содержит великие сокровища; но я не разрешаю тебе открывать его! Ха-ха-ха!</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>В сундуке кроются невообразимо кошмарные вещи.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>Рисунки на стенах пещеры кружатся у вас перед глазами, словно мираж.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>Некая субстанция органического происхождения словно выплеснулась из земли и застыла в форме деревьев. Неудивительно, что все деревья в селении лишены листьев.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>Это угол дома.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>Это стена.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>Велите огню угаснуть.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText>Вид из окна достоин кисти какого-нибудь великого художника.  Жаль, что окно заколочено.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText>Это стена, находящаяся в состоянии проверки.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>14</ID>
+      <DefaultText>По столу разбросаны разные предметы, многие из них изготовлены из серебра.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>15</ID>
+      <DefaultText>На гобелене изображен стилизованный молот — возможно, символ религии, которую исповедовали в этом месте.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>16</ID>
+      <DefaultText>Неясно, для чего предназначены предметы на столе: для приготовления еды, в качестве ритуальных принадлежностей, или то и другое сразу.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>17</ID>
+      <DefaultText>Потрепанный армейский штандарт безжизненно поник в неподвижном воздухе этого помещения внутри Цветения. На штандарте изображен оскалившийся хорек. Безусловно, это животное может быть опасным.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>18</ID>
+      <DefaultText>Вы видите перед собой громоздкую конструкцию из стекла и металла. По трубкам текут разноцветные жидкости, отверстия по всей длине конструкции выбрасывают как приятно пахнущие, так и вонючие газы.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>19</ID>
+      <DefaultText>За огромными железами, загораживающими дверной проем, не видно ничего, кроме сплошной стены плоти. Эта комната отрезана от остальной части Цветения.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20</ID>
+      <DefaultText>Язычки Цветения вяло двигаются, изредка поглаживая оказавшиеся рядом предметы.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>21</ID>
+      <DefaultText>Как ни странно, вход, через который вы попали сюда, куда-то исчез. Дон, дон, ДОН!!!</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>22</ID>
+      <DefaultText>Вы пытаетесь открыть дверь, но она не поддается.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>23</ID>
+      <DefaultText>Рядом с дверью расположено устройство, на котором четко виден контур ладони. Вы нажимаете ладонью на устройство, оно начинает светиться и тут же гаснет. Из ниоткуда раздается мягкий голос: "Последовательность генов не соответствует ведомости посетителей".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>24</ID>
+      <DefaultText>На экране отображается список прибывающих и отправляющихся рейсов. Все они помечены словом "ЗАДЕРЖАНО".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>25</ID>
+      <DefaultText>Вид из окна совершенно умопомрачителен.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>26</ID>
+      <DefaultText>Несколько неказистых лачуг, выстроенных из обломков дерева, тряпок и кусков металла, стоят углом. Очевидно, строителей не особенно заботила безопасность.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>27</ID>
+      <DefaultText>Затоптать огонь.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>28</ID>
+      <DefaultText>По-видимому, тяжелое средство передвижения пробило ближайшую стену. Плоть Цветения перекрыла дыру в стене и начала наползать на машину.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>29</ID>
+      <DefaultText>Над двориком возвышается огромная крепость, выстроенная из материала, напоминающего камень. Ее ворота — одно из последних мест, еще не скрытых плотью Цветения, ползущей вверх по стенам.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30</ID>
+      <DefaultText>Кости и элементы брони сложены в небольшую кучку.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>31</ID>
+      <DefaultText>Вдоль дорожек установлены небольшие осветительные столбики.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>32</ID>
+      <DefaultText>Фургон загружен самыми востребованными товарами, которые ввозятся в Цветение.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>33</ID>
+      <DefaultText>На знаке неразборчивым почерком нацарапано: "К Малому Нилишу".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>34</ID>
+      <DefaultText>Стены жилища покрыты клочками бумаги, которые исписаны угрозами и оскорблениями.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>35</ID>
+      <DefaultText>Огромная статуя, по-видимому, изображающая женщину, почти полностью поглощена плотью Цветения. Вид открытых частей статуи свидетельствует о том, что она изготовлена из серебристого материала.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>36</ID>
+      <DefaultText>В фургон с броской вывеской "Мусоровозка Уогвера" запряжен крупный и злобный анин. Пожалуй, у вас тоже было бы плохое настроение, если бы вам пришлось возить повсюду чужой хлам.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>37</ID>
+      <DefaultText>Скорее всего, когда-то на знаке было написано "Магазин", но недавно кто-то дорисовал в начале букву "Ш".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>38</ID>
+      <DefaultText>Стеллаж забит бесчисленным множеством инструментов для кожевенного ремесла.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>39</ID>
+      <DefaultText>На рабочем столе разбросаны инструменты и куски плоти Цветения, напоминающей кожу.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>40</ID>
+      <DefaultText>По столу разбросаны странные приспособления и устройства непонятного назначения и сомнительной ценности.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>41</ID>
+      <DefaultText>На полках валяются разрозненные записки и старые книги. Чуть в стороне находится заброшенная стойка с пробирками, обросшая плотью Цветения.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>42</ID>
+      <DefaultText>В баках плавают сгустки какой-то субстанции растительного происхождения. Возможно, они служили источником еды (пусть и дурно выглядящей).</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>43</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>44</ID>
+      <DefaultText>Из земли торчит верхняя часть человеческого тела. Похоже на то, что пол вдруг ожил и наполовину поглотил жертву.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>45</ID>
+      <DefaultText>От бедолаги остались только хватающаяся за пустоту рука и лицо, искаженное немым воплем.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>46</ID>
+      <DefaultText>Фургон торговца лежит на боку, частично вросший в землю. Должно быть, его владелец находится где-то неподалеку, и он в том же состоянии.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>47</ID>
+      <DefaultText>Нечто поглотило собратьев этого человека, а сам он хоть и выжил изначально, но затем умер от голода.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>48</ID>
+      <DefaultText>Скорее всего, когда-то это был вход в другую часть, но теперь он закрыт и непроходим.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>49</ID>
+      <DefaultText>Это недра Сердца Цветения, где игрок должен пройти Кризис, противостоя самому Цветению.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>50</ID>
+      <DefaultText>Это внешняя часть Сердца Цветения. В это время вы уже достигли глубин Цветения, и атмосфера весьма напряженная и жутковатая. Если вы еще не поняли, все это временно.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>51</ID>
+      <DefaultText>Полоса препятствий — направо</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>52</ID>
+      <DefaultText>Косогор — налево</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>53</ID>
+      <DefaultText>Узкие проходы — прямо</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>54</ID>
+      <DefaultText>Вы узнаете в этой машине катену — транспортное средство, созданное в прошлом мире и способное перемещаться между измерениями.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>55</ID>
+      <DefaultText>Этот экран показывает нескончаемое количество солнц, с определенного ракурса. Он прокладывает между ними траектории и измеряет расстояния.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>56</ID>
+      <DefaultText>На столе колышется груда плоти Цветения, которую поворачивают гудящие машины. Время от времени одна из машин бьет груду электрическим разрядом и раздается слабый скрипучий звук.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>57</ID>
+      <DefaultText>Это существо было оставлено в частично вскрытом состоянии. Его внутренности сгнили и почернели.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>58</ID>
+      <DefaultText>По столу разбросаны журналы для записи сведений о медицинских экспериментах.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>59</ID>
+      <DefaultText>[TEMP] Этот цилиндрический резервуар заполнен густой, булькающей зеленой жидкостью.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>60</ID>
+      <DefaultText>Сложив несколько листов вместе, вы понимаете, что это карта Цветения.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>61</ID>
+      <DefaultText>Среди разбросанных устройств лежат несколько навигационных приборов, предназначенных главным образом для отслеживания и определения положения объекта относительно опорной точки. Вы задумываетесь над тем, не пытался ли Иоксу наблюдать за Цветением.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>62</ID>
+      <DefaultText>Тайный запас</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>63</ID>
+      <DefaultText>Вдали вы видите другие ярусы Цветения.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>64</ID>
+      <DefaultText>Путь долог, и вы медлите, думая о том, как туда попасть и насколько далеко простираются ярусы.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>65</ID>
+      <DefaultText>Осмотреть</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>66</ID>
+      <DefaultText>Огонь вспыхивает и колеблется, словно озорное существо.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>67</ID>
+      <DefaultText>На полу лежит денежный ящик, закрытый на простой замок.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>68</ID>
+      <DefaultText>Открыть.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>69</ID>
+      <DefaultText>Из пола торчат ужасные клыкастые челюсти, и звук их ритмичного щелканья почти завораживает.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>70</ID>
+      <DefaultText>Перепрыгнуть.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>71</ID>
+      <DefaultText>Прыгнуть назад.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>72</ID>
+      <DefaultText>Старая дверь выглядит так, словно ее не открывали на протяжении тысячелетий.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>73</ID>
+      <DefaultText>Это сооружение более древнее, чем сама деревня.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>74</ID>
+      <DefaultText>Оно древнее, чем погребенные под землей руины, на которых построена деревня, и отличается от них своей архитектурой.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>75</ID>
+      <DefaultText>Вы не видите щелей или петель. Даже если его* можно* открыть, никто не входил сюда в течение тысячелетий или даже дольше. Вы не видите щелей или петель. Даже если его* можно* открыть, никто не входил сюда в течение тысячелетий или даже дольше.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>76</ID>
+      <DefaultText>Вы видите кучу костей и других останков. Взглянув на эту кучу, вы замечаете с краю что-то блестящее.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>77</ID>
+      <DefaultText>Обобрать</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>78</ID>
+      <DefaultText>Варьелленский нано лежит мертвый на полу, убитый, очевидно, сектантами. Он и его телохранитель забрали с собой нескольких сектантов, но потом были повержены.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>79</ID>
+      <DefaultText>Взаимодействовать с книгой.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>80</ID>
+      <DefaultText>Огромная пыльная книга закрыта.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>81</ID>
+      <DefaultText>Возле пруда, заполненного булькающими химикалиями, лежит наполовину разложившийся труп. Это Киан, женщина, которая жила во дворике у катены. Должно быть, она получила ранение и упала в пруд, но сумела наполовину выбраться на берег, прежде чем перестала бороться за жизнь.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>82</ID>
+      <DefaultText>Кругом разбросаны, по всей видимости, куски тела Шинвайза.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>83</ID>
+      <DefaultText>Мертвец одет в форму головорезов Мемовиры. Он был убит острым клинком, и это явно произошло не так давно.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>84</ID>
+      <DefaultText>Книга Знаний</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>85</ID>
+      <DefaultText>Шар Озарения</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>86</ID>
+      <DefaultText>На подставке из синевато-белого мрамора находится яркий разноцветный шар.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>87</ID>
+      <DefaultText>Расколотый кусок коралла. На его поверхности играют лучи света.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>88</ID>
+      <DefaultText>Чаша сине-зеленого стекла, горлышко которой слишком узко для того, чтобы из нее мог испить человек.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>89</ID>
+      <DefaultText>Под куском камня погребен какой-то большой предмет. Он окутан тем же голубым светом, что и большинство других артефактов в деревне.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>90</ID>
+      <DefaultText>Этот обломок настолько тяжелый, что деревенские жители просто оставили его здесь. Вокруг нет ни следа той громадины, от которой он откололся.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>91</ID>
+      <DefaultText>Когда-то это наполовину видное устройство было частью огромного генератора мощности или, быть может, гигантского оружия, но теперь оно служит в качестве ночника.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>92</ID>
+      <DefaultText>Караульня выстроена из огромных каменных блоков. Чтобы поставить их на место, наверняка потребовались усилия невероятного множества людей.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>93</ID>
+      <DefaultText>Что бы это ни было, теперь это лишь необычный элемент пейзажа.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>94</ID>
+      <DefaultText>Это вход в другую часть деревни, но подняться к нему невозможно.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>95</ID>
+      <DefaultText>"Факелы", по-видимому, представляют собой сломанные стержни, закрепленные на чем-то более крупном, что погребено под землей.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>96</ID>
+      <DefaultText>Взаимодействовать со сферой.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>97</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>98</ID>
+      <DefaultText>Что бы это ни было, теперь это лишь необычный элемент пейзажа. Внутрь вделана таинственная емкость.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>99</ID>
+      <DefaultText>Из-под поверхности торчат светящиеся куски битого стекла. Обитатели деревни выстроили вокруг этого места круг и используют его в качестве своего рода сигнального костра.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>100</ID>
+      <DefaultText>Запаянная решетка</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>101</ID>
+      <DefaultText>Открыть клапан.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>102</ID>
+      <DefaultText>Взаимодействовать с чашей.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>103</ID>
+      <DefaultText>Взаимодействовать с кораллом.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>104</ID>
+      <DefaultText>Раздается в точности такой же звук, которого можно ожидать, отпирая дверь во мраке ночи.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>105</ID>
+      <DefaultText>Эти грибы реагируют на пульсацию колец. Каждый раз, когда прорываются споры, воздух наполняется резким цитрусовым запахом.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>106</ID>
+      <DefaultText>Для пещеры в пустыне здесь слишком много воды. Вряд ли здесь можно говорить о ее естественном происхождении.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>107</ID>
+      <DefaultText>Когда-то здесь была панель управления, но ее каким-то образом... стерли.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>108</ID>
+      <DefaultText>"Это последний раз, когда я упускаю тебя из виду. Продолжай работать".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>109</ID>
+      <DefaultText>"Глупый солдат. Дурацкий колодец".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>110</ID>
+      <DefaultText>Тот, кто там находится, храпит, словно скальный червь.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>111</ID>
+      <DefaultText>Этот храп мало похож на человеческий.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>112</ID>
+      <DefaultText>То, что прежде было источником питания, теперь стало лишь необычным элементом пейзажа. Кто-то с помощью механизмов вделал емкость внутрь.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>113</ID>
+      <DefaultText>В боковую часть трубы впаяна решетка, рядом с ней — небольшой маховик клапана.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>114</ID>
+      <DefaultText>Здесь валяется куча деталей, изготовленных из металла, синта и других неизвестных вам материалов.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>115</ID>
+      <DefaultText>Из земли торчит тело крупного насекомоподобного создания, его жвалы раскрыты. Оно кажется мертвым, но иногда подергивается.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>116</ID>
+      <DefaultText>Чумазые рабы смотрят на вас сквозь энергетическую сетку, которой накрыта яма.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>117</ID>
+      <DefaultText>На помосте покоится большой шар из плоти, который слегка перекатывается одновременно с колебаниями пола.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>118</ID>
+      <DefaultText>Вода пахнет отвратительно. Здесь столько погребенных под землей руин, что вы сомневаетесь, действительно ли это вода.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>119</ID>
+      <DefaultText>Обитатели деревни воздвигли примитивные молитвенные врата, опирающиеся на частично закопанные конструкции.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>120</ID>
+      <DefaultText>Обитатели деревни воздвигли врата, опирающиеся на частично закопанные конструкции.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>121</ID>
+      <DefaultText>Обитатели деревни воздвигли примитивные молитвенные врата, опирающиеся на остатки частично закопанных выводов питания.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>122</ID>
+      <DefaultText>Обитатели деревни соорудили примитивные молитвенные врата, опирающиеся на древние электроды.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>123</ID>
+      <DefaultText>Со дна ямы доносится шелест темной воды. Звук эхо говорит о наличии металлического объекта внизу.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>124</ID>
+      <DefaultText>Внизу шелестят темные воды. Судя по звуку, вода заполнила огромное подземное помещение, часть которого находится под деревней.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>125</ID>
+      <DefaultText>В темноте внизу журчит темная вода, и этот звук отдается эхом.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>126</ID>
+      <DefaultText>Мертвый анин</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>127</ID>
+      <DefaultText>Здесь лежит обглоданный скелет анина. На костях осталось немного мяса.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>128</ID>
+      <DefaultText>Подставка была целиком охвачена огнем.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>129</ID>
+      <DefaultText>Коралл Памяти</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>130</ID>
+      <DefaultText>Этот человек давно мертв.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>131</ID>
+      <DefaultText>Открыть емкость.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>132</ID>
+      <DefaultText>Вскрыть емкость.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>133</ID>
+      <DefaultText>Бонус за истинное мужество</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>134</ID>
+      <DefaultText>Вы предпочли бы не вспоминать о "портале", с помощью которого вы, по всей видимости, прибыли в это место.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>135</ID>
+      <DefaultText>Чаша Ветра</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>136</ID>
+      <DefaultText>Подставка пуста.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>137</ID>
+      <DefaultText>От огромной книги не осталось ничего, кроме пустой стойки.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>138</ID>
+      <DefaultText>Стойка была целиком охвачена огнем.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>139</ID>
+      <DefaultText>Стойка чаши была целиком охвачена огнем.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>140</ID>
+      <DefaultText>От странной чаши ничего не осталось.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>141</ID>
+      <DefaultText>От прекрасного коралла остались только разрозненные осколки.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>142</ID>
+      <DefaultText>Коралл был целиком охвачен огнем.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>143</ID>
+      <DefaultText>Эта Пасть огромна, она гораздо больше других, которые вам довелось видеть.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>144</ID>
+      <DefaultText>Атаковать Пасть.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>145</ID>
+      <DefaultText>Атаковать Пасть с помощью межпространственного скальпеля.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>146</ID>
+      <DefaultText>Здесь лежит другая циста, напоминающая ту, которую вы открыли в Безграничных Недрах.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>147</ID>
+      <DefaultText>Всплеск Потоков</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>148</ID>
+      <DefaultText>Собранные в гроздь язычки медленно извиваются.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>149</ID>
+      <DefaultText>Гроздь язычков</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>150</ID>
+      <DefaultText>Поговорить</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>151</ID>
+      <DefaultText>Циста открыта и пуста, ее содержимое расползлось в разные стороны.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>152</ID>
+      <DefaultText>Циста</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>153</ID>
+      <DefaultText>Из пола торчит верхняя часть тела женщины. Ее руки простерты в пустоту, а лицо искажено гримасой ужаса. С ее плеча свисает небольшая сумка.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>154</ID>
+      <DefaultText>Сумка с добычей</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>155</ID>
+      <DefaultText>Из земли торчит пара ног. Иногда они слабо брыкаются.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>156</ID>
+      <DefaultText>Здесь лежит голова юноши, который отрывистым шепотом повторяет слово "голоден".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>157</ID>
+      <DefaultText>Из плоти Цветения торчит рука. Пальцы плотно обхватывают рукоятку ножа, заряженного неведомой потрескивающей энергией.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>158</ID>
+      <DefaultText>Разжать пальцы руки.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>159</ID>
+      <DefaultText>Здесь из плоти Цветения торчит рука, в которой ничего нет.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>160</ID>
+      <DefaultText>Рука, сжимающая нож</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>161</ID>
+      <DefaultText>Здесь лицом вниз лежит труп, врастающий в плоть Цветения.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>162</ID>
+      <DefaultText>Труп.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>163</ID>
+      <DefaultText>Из земли торчат голова и рука. Со стороны кажется, что этот человек пытался ползком спастись от своей судьбы.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>164</ID>
+      <DefaultText>Разрезать мясо.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>165</ID>
+      <DefaultText>Пасть Сердца</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>166</ID>
+      <DefaultText>Над дверью видна какая-то надпись. Она похожа на рисунки, которыми покрыты находящиеся поблизости камни.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>167</ID>
+      <DefaultText>Древнее чудовище. Возможно, именно это находится за дверью.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>168</ID>
+      <DefaultText>Рисунки излучают внутренний свет. Если смотреть краем глаза, то кажется, что они двигаются.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>169</ID>
+      <DefaultText>По-видимому, это задняя часть разбитого средства передвижения, которое вы видели во внутреннем дворике Мемовиры.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>170</ID>
+      <DefaultText>Приколоченный к двери большой знак гласит, что владелец отправился в Утесы Сагуса до тех пор, пока противостояние между Цветением и его соседом не разрешится.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>171</ID>
+      <DefaultText>(TEMP) Писарь просит вас остановиться и поболтать.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>172</ID>
+      <DefaultText>Пламя Скорби</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>173</ID>
+      <DefaultText>Погасить пламя.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>174</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>175</ID>
+      <DefaultText>Боеприпасы</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>176</ID>
+      <DefaultText>Это базовый триггер. При его задействовании знак исчезает.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>177</ID>
+      <DefaultText>Палатка состоит из кусков парусины, натянутых на хлипкие деревянные колышки. Можно ощутить слабый запах пота.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>178</ID>
+      <DefaultText>Кто-то создал эту простую конструкцию из разнокалиберных досок и деревяшек. Дерево гниет во влажном воздухе Цветения.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>179</ID>
+      <DefaultText>Из боковой стены дворика растут два крупных усика. Их можно было бы принять за огромные корни, если бы не рана у основания — разорванная плоть и торчащие кости.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>180</ID>
+      <DefaultText>Со стены свисает мясистая трубка, которая изливает в бассейн желтоватую "воду".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>181</ID>
+      <DefaultText>Выполнить задачу.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>182</ID>
+      <DefaultText>Действие выполнено плохо.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>183</ID>
+      <DefaultText>Действие выполнено хорошо.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>184</ID>
+      <DefaultText>Тестировщик ресурсов</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>185</ID>
+      <DefaultText>Во время последнего нападения на башню панель отошла.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>186</ID>
+      <DefaultText>Оторвав панель, вы видите под помостом темное пространство.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>187</ID>
+      <DefaultText>Оторвать отошедшую панель.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>188</ID>
+      <DefaultText>Заглянуть внутрь темного пространства.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>189</ID>
+      <DefaultText>Панель помоста</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>190</ID>
+      <DefaultText>Межпространственная баллиста</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>191</ID>
+      <DefaultText>Это какое-то *подобие* баллисты. Кажется, если починить это устройство, оно будет достаточно мощным.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>192</ID>
+      <DefaultText>Наспех сделанная баллиста издает низкое гудение, которое с каждой минутой становится все более громким.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>193</ID>
+      <DefaultText>Починить.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>194</ID>
+      <DefaultText>Деревня оказывается больше, чем можно было подумать: она раскинулась в пещерах и на мостах. Это место очень хорошо защищено от нападения.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>195</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>196</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>197</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>198</ID>
+      <DefaultText>Цветение ненавидит вас.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>199</ID>
+      <DefaultText>Трап недавно поднимали.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>200</ID>
+      <DefaultText>Это триггер разговора. При его задействовании начинается разговор с неигровым персонажем внутри триггера.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>201</ID>
+      <DefaultText>Это триггер плавающей строки. При его активации над блоком внутри триггера появляется плавающая строка.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>202</ID>
+      <DefaultText>Это триггер глобальной переменной. В случае его ввода на земле появляется красный шар, так как для глобальной переменной установлено значение, равное единице.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>203</ID>
+      <DefaultText>Обобрать</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>204</ID>
+      <DefaultText>Это триггер скрытия объектов. Неигровой персонаж, который входит в триггер, исчезает. Неигровой персонаж движется достаточно быстро, поэтому во время проверки данного триггера вы можете захотеть переместить PartySpawner непосредственно к триггеру.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>205</ID>
+      <DefaultText>Металлические ворота плотно закрыты. Время оставило на них свой след, но они все еще крепки.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>206</ID>
+      <DefaultText>Вид и запах палаток напоминают гнезда нечисти. Кругом валяются прелые одеяла и гниющие объедки.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>207</ID>
+      <DefaultText>Это мышечное кольцо, через которое вы попали в Цветение. Оно возбужденно сжимается и разжимается.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>208</ID>
+      <DefaultText>Вряд ли символы на вратах высечены представителями любой известной вам народности. Скорее всего, они остались с тех времен, когда Протектората Сагуса еще не было.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>209</ID>
+      <DefaultText>Эти лачуги выстроены из дубленой плоти Цветения, натянутой на каркасы из собранных местными обитателями костей и хрящей.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>210</ID>
+      <DefaultText>На экранах мерцают странные символы. По-видимому, это элементы связи, но они реагируют только на прикосновения Дракогена.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>211</ID>
+      <DefaultText>Это омерзительное образование покрыто пульсирующими язвами. Кажется, что они вот-вот прорвутся.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>212</ID>
+      <DefaultText>"Сандерман и Сандерман, уникальные изделия из цветоплоти"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>213</ID>
+      <DefaultText>Все баки заполнены краской, которую выбрасывают из себя крошечные создания, извивающиеся на дне, собираясь в стайки.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>214</ID>
+      <DefaultText>Иоксу получил напоминание, что у него полно данных, анализ которых займет годы.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>215</ID>
+      <DefaultText>Напоминание, что большинство оружейных систем робота-телохранителя Иоксу не работает.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>216</ID>
+      <DefaultText>Напоминание, что генератор поля Иоксу неисправен.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>217</ID>
+      <DefaultText>Иоксу рассказал, как выключить генератор поля.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>218</ID>
+      <DefaultText>Стало известно, что Коти — мастер на все руки.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>219</ID>
+      <DefaultText>Стало известно, что Младший Сандерман скоро уходит.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>220</ID>
+      <DefaultText>Грисслер посоветовал Мемовире прислушаться к вам.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>221</ID>
+      <DefaultText>Шинвайз освобожден.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>222</ID>
+      <DefaultText>На них использован аннулет.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>223</ID>
+      <DefaultText>На нем использован аннулет.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>224</ID>
+      <DefaultText>На экране одни странные символы и строки текста сменяются другими, но все они кажутся вам бессмысленными.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>225</ID>
+      <DefaultText>Внутри устройства находится большой кусок плоти Цветения. Он лежит на удобной подушке и, по всей видимости, спит.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>226</ID>
+      <DefaultText>Верхняя часть машины покрыта стеклянными линзами разной формы. Похоже, это какое-то контрольное устройство.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>227</ID>
+      <DefaultText>На куске кожи извиваются и сплетаются линии, складываясь в некое подобие карты.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>228</ID>
+      <DefaultText>Ведро заполнено подрагивающими кусками плоти Цветения и органами.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>229</ID>
+      <DefaultText>Постель покрыта пятнами сока Цветения и пахнет консервирующими веществами.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>230</ID>
+      <DefaultText>Металлическая тележка надежно защищена броней. На ее поверхности множество царапин от клинков и метательных снарядов.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>231</ID>
+      <DefaultText>Размер и вид палатки не оставляют сомнений: она принадлежит важной персоне.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>232</ID>
+      <DefaultText>Вид каталки, залитой кровью, заставляет сомневаться в профессионализме ее владельца.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>233</ID>
+      <DefaultText>Пленка, натянутая на металлический каркас, покрыта подробными изображениями различных частей тела.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>234</ID>
+      <DefaultText>Это простая армейская палатка, которую можно быстро поставить и убрать.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>235</ID>
+      <DefaultText>В корзине лежит несколько распухших сгустков. По всей видимости, они медленно поглощают друг друга.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>236</ID>
+      <DefaultText>На ужасном рисунке изображено человеческое тело, которому нанесено множество различных травм. Рядом с каждой раной помещены примечания, например "Сильная реакция!" и "К сожалению, в результате объект преждевременно теряет сознание".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>237</ID>
+      <DefaultText>В углу комнаты находятся схемы строения человеческой головы и мозга.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>238</ID>
+      <DefaultText>Из пола Цветения растет нечто вроде омерзительного столба. С этого растерзанного образования стекают гной и желчь, которые скапливаются в канавке, окружающей основание.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>239</ID>
+      <DefaultText>Огромный столб, образованный переплетением до неузнаваемости изуродованных существ, свидетельствует о паразитической природе Цветения.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>240</ID>
+      <DefaultText>Стены комнаты покрыты странными выступами и отверстиями. Некоторые из них похожи на изуродованные части тела: глаза, языки и разинутые рты. Эти штуки выглядят жутковато... особенно когда двигаются.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>241</ID>
+      <DefaultText>Скопление трубок, выполняющих роль артерий Цветения, пульсирует и источает желчь.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>242</ID>
+      <DefaultText>В большом пруду бурлит отвратительная жидкость.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>243</ID>
+      <DefaultText>Со стены крупными складками свисает плоть Цветения, которая обволакивает конструкцию подобно гигантской грыже.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>244</ID>
+      <DefaultText>На протяжении многовековой истории Цветения фрагменты костей пропитались минералами и образовали что-то вроде пола. При этом под влиянием какого-то другого процесса кости начали превращаться в своего рода коралловый риф.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>245</ID>
+      <DefaultText>Нагромождения костей превращаются в известковый коралловый риф.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>246</ID>
+      <DefaultText>Труп недавно умершего анина неподвижно лежит на полу.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>247</ID>
+      <DefaultText>Чтобы в самом Цветении появились такие огромные разрывы, через которые вываливаются потроха, в обширных внутренностях Цветения должен был появиться невообразимо мощный источник давления.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>248</ID>
+      <DefaultText>Сияющие кольца светящейся энергии вертикально парят в нескольких дюймах от крепостной стены. Об их истинном назначении ничего не известно.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>249</ID>
+      <DefaultText>[TEMP] Это описание костей, лежащих на земле возле Ждущего Жертву.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>250</ID>
+      <DefaultText>Здесь лежат останки огромного насекомого. При ближайшем рассмотрении становится ясно, что они постепенно врастают в стену.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>251</ID>
+      <DefaultText>Здесь стоит огромная статуя женщины, вооруженной молотом, ее нижняя часть скрыта во тьме глубин Цветения.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>252</ID>
+      <DefaultText>На полке лежит множество странных предметов: череп, запечатанная емкость, несколько свечей, металлический сосуд и высохшие останки небольшого безволосого существа.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>253</ID>
+      <DefaultText>На полу лежат мятые одеяла и тряпки, от которых исходит кислый запах пота. Вероятно, здесь спят некоторые сектанты.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>254</ID>
+      <DefaultText>От полированного черепа кое-где откололась кость, во многих местах проделаны отверстия. Как ни странно, у него нет зубов: скорее всего, при жизни это существо проглатывало добычу целиком.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>255</ID>
+      <DefaultText>На поверхности свитка мелькают слова, написанные таким мелким почерком, что их невозможно разобрать. Можно понять только заголовок: "Летопись Чилы Великой, том 6".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>256</ID>
+      <DefaultText>В этих прочных бутылях находится тягучая, вязкая жидкость. В одном из них извивается усик плоти Цветения.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>257</ID>
+      <DefaultText>Земля покрыта кровью и внутренностями. От Коти осталась только маленькая кучка изломанных костей.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>258</ID>
+      <DefaultText>Кажется, эту колесную машину бросили здесь во время военных действий.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>259</ID>
+      <DefaultText>Самодельная кровать состоит из тряпья, грязных перьев и разнообразного мусора.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>260</ID>
+      <DefaultText>[TEMP] Это описание гнезда вожака мерденов.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>261</ID>
+      <DefaultText>В задней части клетки располагается кровать, кое-как слепленная из обломков досок и веревок.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>262</ID>
+      <DefaultText>На древней каменной стене висят оковы, но они уже проржавевшие и бесполезные. Ими давно никого не приковывали.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>263</ID>
+      <DefaultText>На деревянных столбах висят существа с содранной кожей, истекающие кровью. Должно быть, комната служит мерденам кладовой.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>264</ID>
+      <DefaultText>С каменных плит свисают оковы. Пол вокруг них залит кровью и внутренностями.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>265</ID>
+      <DefaultText>Вы не знаете, что это было за создание. На самом деле, вы и не *хотите* знать.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>266</ID>
+      <DefaultText>Под решеткой находится вертикальный шахтный ствол, уходящий в темноту. Оттуда эхом доносится слабое шептание.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>267</ID>
+      <DefaultText>Сначала этот сундук можно исследовать, затем, если щелкнуть на нем один раз, из него можно взять добычу (отображается эффект, показывающий, что нужно повторно щелкнуть на сундуке).</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>268</ID>
+      <DefaultText>Этот сундук использует скрипт, который открывает окно добычи.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>269</ID>
+      <DefaultText>Если щелкнуть на этом сундуке, отображаются сразу и окно осмотра, и окно добычи. Нам нужно еще поработать над их расположением, но идея должна быть понятна.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>270</ID>
+      <DefaultText>Если щелкнуть на этом сундуке, открывается окно осмотра, а затем, когда текст осмотра исчезает, появляется окно добычи.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>271</ID>
+      <DefaultText>Кажется, в сундуке что-то есть.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>272</ID>
+      <DefaultText>Это один из двигателей данного транспортного средства.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>273</ID>
+      <DefaultText>[TEMP] Это описание упавших стульев.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>274</ID>
+      <DefaultText>В металлическую стену встроен сложный экран. Несколько схем отображают, как вам кажется, какие-то координаты. Но язык, на котором написан текст, вам неизвестен, поэтому больше вы ничего не можете понять.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>275</ID>
+      <DefaultText>Статуя изображает безглазого мутанта с множеством грудей. Кажется, он кричит.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>276</ID>
+      <DefaultText>Рядом со статуей стоит еще одна такая же, но с отвалившейся головой.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>277</ID>
+      <DefaultText>Сооружение построено в стиле, невиданном вами ранее. Камень потерт от старости и покрыт выбоинами.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>278</ID>
+      <DefaultText>Часть строения снесена, кажется, что-то пронеслось прямо по центру. Скорее всего, это было средство передвижения, стоящее неподалеку.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>279</ID>
+      <DefaultText>Внутри здания, похожего на пузырь, передвигаются какие-то расплывчатые фигуры. Неясно, как они входят и выходят.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>280</ID>
+      <DefaultText>Здесь на земле неподвижно лежит механическая конструкция, напоминающая нечто среднее между насекомым и улиткой.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>281</ID>
+      <DefaultText>Перед вами возвышается массивная обглоданная кость с отметинами зубов.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>282</ID>
+      <DefaultText>Внутренности этого существа изъедены маленькими челюстями.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>283</ID>
+      <DefaultText>Большой кишечный мешок бурлит и подергивается, как будто внутри находится что-то крупное.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>284</ID>
+      <DefaultText>У данного объекта нет точки пробуждения, но его радиус использования равен 5.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>285</ID>
+      <DefaultText>Точка пробуждения данного объекта расположена слева-внизу.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>286</ID>
+      <DefaultText>Упомянуто знание Вонетиана.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>287</ID>
+      <DefaultText>Переданы сведения Дакора о двойниках Цветения.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>288</ID>
+      <DefaultText>Она уведомлена о том, что Цветение разумно.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>289</ID>
+      <DefaultText>Круглое отверстие обрамлено рядами острых, как бритва, клыков. К некоторым зубам прилипли человеческая плоть и волосы.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>290</ID>
+      <DefaultText>Должно быть, отверстие разверзлось под фургоном и усики Цветения разломали его.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>291</ID>
+      <DefaultText>Зубастое отверстие застыло во время поедания стола. С одной стороны вы замечаете небольшие отметки на дереве, соответствующие продажам... или дням, проведенным в этом кошмарном месте.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>292</ID>
+      <DefaultText>В полу есть широко раскрытые пасти, полные острых клыков. Сейчас они находятся в состоянии покоя, но их зубы влажные от крови.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>293</ID>
+      <DefaultText>В одном месте плоть разорвана, и оттуда видны блестящие, бескостные существа. Неясно, то ли это паразиты, то ли вызывающее отвращение потомство Цветения.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>294</ID>
+      <DefaultText>Это таинственное устройство производит на свет яркие кубические пузырьки, возникающие вследствие непостижимой для вас химической реакции.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>295</ID>
+      <DefaultText>На столе расположены странные инструменты и органы управления.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>296</ID>
+      <DefaultText>Здоровые металлические рычаги выступают из механизма, прикрепленного к полу. Вокруг основания выгравированы символы, означающие положения, в которых может находиться рычаг.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>297</ID>
+      <DefaultText>Вы погибли в Оссифагане.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>298</ID>
+      <DefaultText>Вы вернулись с пустыми руками.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>299</ID>
+      <DefaultText>Вы провели в пути недостаточно времени, чтобы добиться успеха.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>300</ID>
+      <DefaultText>Спасен патруль в Малом Нилише.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>301</ID>
+      <DefaultText>Спасен патруль в старой темнице рабов.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>302</ID>
+      <DefaultText>На месте вашего столкновения с куполом зияет неровное отверстие.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>303</ID>
+      <DefaultText>Овин был впечатлен вашим первым ответом.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>304</ID>
+      <DefaultText>Овин был впечатлен вашим вторым ответом.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>305</ID>
+      <DefaultText>Дверь покрыта затейливыми коваными конструкциями, сплетающимися в безумные, иноземные формы. Она плотно закрыта.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>306</ID>
+      <DefaultText>Труба подключена кабелем к устройству для сбора. Кажется, сопло может быть одновременно подключено к другой машине.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>307</ID>
+      <DefaultText>[Examined Blue object 1]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>308</ID>
+      <DefaultText>[Examined Blue object 2]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>309</ID>
+      <DefaultText>[Examined Blue object 3]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>310</ID>
+      <DefaultText>[Examined Red object 1]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>311</ID>
+      <DefaultText>[Examined Red object 2]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>312</ID>
+      <DefaultText>[Examined Red object 3]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>313</ID>
+      <DefaultText>[Examined Indigo object 1]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>314</ID>
+      <DefaultText>[Examined Indigo object 2]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>315</ID>
+      <DefaultText>[Examined Indigo object 3]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>316</ID>
+      <DefaultText>[Examined Gold object 1]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>317</ID>
+      <DefaultText>[Examined Gold object 2]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>318</ID>
+      <DefaultText>[Examined Gold object 3]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>319</ID>
+      <DefaultText>[Examined Silver object 1]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>320</ID>
+      <DefaultText>[Examined Silver object 2]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>321</ID>
+      <DefaultText>[Examined Silver object 3]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>322</ID>
+      <DefaultText>В воздухе раздаются слова: "Огненная сущность. На самом деле это светящееся существо не бессмертно и не сотворено из огня, имеет сильную связь с Золотым Потоком".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>323</ID>
+      <DefaultText>В воздухе раздаются слова: "Неваджин. Таинственный симбиот со склонностью к Синему Потоку".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>324</ID>
+      <DefaultText>В воздухе раздаются слова: "Нхалсик. Разумное насекомое с сильной склонностью к Потоку Индиго".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>325</ID>
+      <DefaultText>В воздухе раздаются слова: "Квишамис. Кристаллическое существо, связанное с Красным Потоком".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>326</ID>
+      <DefaultText>В воздухе раздаются слова: "Клыкастый грортас. Чрезвычайно сильное животное с предрасположенностью к Серебряному Потоку".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>327</ID>
+      <DefaultText>Под неестественно прозрачной водой на всю ширину взора распростерлись руины.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>328</ID>
+      <DefaultText>Необычные линии и волнистые контуры затопленных зданий сильно отличаются от архитектуры над водой.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>329</ID>
+      <DefaultText>Устройство собирает под водой какое-то черное вязкое вещество и закачивает его в трубу.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>330</ID>
+      <DefaultText>Вы тщательно осмотрели чашу.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>331</ID>
+      <DefaultText>Труба, через которую вы попали в это помещение, исчезла, вместо нее теперь пустая стена.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>332</ID>
+      <DefaultText>Вы не можете понять, что за объект проплывает рядом, но его края покрывают такие же символы, что и на полу.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>333</ID>
+      <DefaultText>Идеально круглый кусок мусора проплывает в нескольких шагах от края, медленно кружась.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>334</ID>
+      <DefaultText>Звезда с острыми краями избегает прикосновения и не пытается приблизиться.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>335</ID>
+      <DefaultText>Время от времени вы замечаете свое отражение на другой стороне предмета. Каждый раз оно выглядит по-разному.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>336</ID>
+      <DefaultText>Поверхность двери испорчена бесчисленными царапинами и порезами. Кто-то пытался проникнуть внутрь... но бесполезно.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>337</ID>
+      <DefaultText>Свет вокруг дверной рамы затухает и разгорается, как костер при сильном ветре.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>338</ID>
+      <DefaultText>Это зеркало выглядит странно, как будто это *вы* — отражение, а то, что видно в нем — реальность.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>339</ID>
+      <DefaultText>Вы не можете достать до этой сферы с того места, где стоите, но замечаете крошечные частицы, которые кружат в жидкости, заполняющей сферу, и погружаются в нее.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>340</ID>
+      <DefaultText>Отражения перемещаются и скользят по поверхности сферы, находящейся на расстоянии. Она следует за вашими движениями.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>341</ID>
+      <DefaultText>Эта парящая сфера переливается энергией, но внутри нее движутся бдительные тени. Вы не можете достать до нее с того места, где стоите.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>342</ID>
+      <DefaultText>По полу проходят металлические волны, передавая вибрацию вашему телу через подошвы.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>343</ID>
+      <DefaultText>Скрученный обломок торчит из верхнего корпуса машины. Выглядит так, будто остальную часть резко сорвали.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>344</ID>
+      <DefaultText>В передней части давно вышедшей из строя конструкции зияет отверстие всасывающего устройства. Металл внутри потерся и почернел от старости.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>345</ID>
+      <DefaultText>Массивный механизм пытался вскарабкаться на верх рифа, когда "умер". Его поверхность покрыта крошечными царапинами и следами ожогов.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>346</ID>
+      <DefaultText>Кажется, что зазубренная рана стала смертельной и "убила" механизм.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>347</ID>
+      <DefaultText>Из трубы выходит длинный кабель, но в точке, где он погружается в воду, он разломлен пополам.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>348</ID>
+      <DefaultText>Крошечные сияющие частицы проплывают через внутреннюю часть башни. Каждая частица окружена еще более маленькими, кружащимися вокруг нее, как планеты вокруг звезд, частицами.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>349</ID>
+      <DefaultText>Кажется, гибкие трубки были присоединены к машине позднее. Кто-то сделал устройство на скорую руку, но его функция непонятна.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>350</ID>
+      <DefaultText>Из корпуса разбитой ручки сыплются искры, источая неприятный запах смазки и нагретого металла.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>351</ID>
+      <DefaultText>Фрагменты потолка разрушенного купола рассыпаны по полу. Кажется, они сделаны из прозрачного синта.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>352</ID>
+      <DefaultText>Это триггер проверки взаимодействия в сценарии, но он еще не полностью установлен. Двигайся, двигайся. Здесь не на что смотреть.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>353</ID>
+      <DefaultText>Этот триггер активируется только при вводе определенным объектом (неигровым персонажем), но он еще не полностью установлен. Прости!</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>354</ID>
+      <DefaultText>Вы смотрите на призматический вихрь, и вас накрывает странная смесь чувств и эмоций — гордость, отчаяние, страстное желание, боль, радость, в которые вы погружаетесь все больше и с трудом отводите взгляд.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>355</ID>
+      <DefaultText>Ни один знак или символ не содержит намека на то, что находится за этой массивной дверью. От ее бронзовой, разделенной на сегменты поверхности исходит слабый холодок, а толстое металлическое колесо, кажется, застыло на месте.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>356</ID>
+      <DefaultText>Неваджин — Синий Поток</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>357</ID>
+      <DefaultText>Огненная сущность — Золотой Поток</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>358</ID>
+      <DefaultText>Нхалсик — Поток Индиго</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>359</ID>
+      <DefaultText>Квишамис — Красный Поток</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>360</ID>
+      <DefaultText>Клыкастый грортас — Серебряный Поток</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>361</ID>
+      <DefaultText>Отсюда и выше к платформе поднимаются извивающиеся дуги чистой энергии. Пыль и мелкие частицы всасываются на одном конце и выбрасываются из другого.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>362</ID>
+      <DefaultText>Отсюда и ниже к платформе опускаются извивающиеся дуги чистой энергии. Пыль и мелкие частицы всасываются на одном конце и выбрасываются из другого.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>363</ID>
+      <DefaultText>Этому знаку соответствуют неигровые персонажи, не относящиеся ни к какой зоне.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>364</ID>
+      <DefaultText>Этому знаку соответствуют неигровые персонажи из Утесов Сагуса.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>365</ID>
+      <DefaultText>Этому знаку соответствуют неигровые персонажи из Цветения.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>366</ID>
+      <DefaultText>Этому знаку соответствуют неигровые персонажи из Оазиса.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>367</ID>
+      <DefaultText>Вы не можете узнать, чье тело в этой комнате, но у этого человека такая же татуировка, как у вас.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>368</ID>
+      <DefaultText>Металлический куб хаотично движется, едва ли не бросаясь на вас. Лучше оставить его в покое.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>369</ID>
+      <DefaultText>Хотя куб парит в воздухе, вы все же ощущаете, как земля дрожит от его вибрации.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>370</ID>
+      <DefaultText>Это простой триггер. При входе в него должен появляться этот знак.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>371</ID>
+      <DefaultText>Это простой триггер. При входе в него этот знак должен исчезать, а при выходе — снова появляться.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>372</ID>
+      <DefaultText>Это очень напоминает резонансную камеру. Эта лаборатория, должно быть, создана по воспоминаниям о первом эксперименте вашего творца.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>373</ID>
+      <DefaultText>* Редактировать *</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>374</ID>
+      <DefaultText>Ваш главный поток — Синий.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>375</ID>
+      <DefaultText>Этот мастерски выполненный рисунок принимает очертания Скорби, вы почти ощущаете, как ее липкие щупальца сжимаются вокруг вашего сердца. Ее нечеловеческие жертвы шевелятся и изгибаются, моля о пощаде, которой не будет.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>376</ID>
+      <DefaultText>[Across this bridge lies the end of the Alpha Systems Test.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>377</ID>
+      <DefaultText>Замечена бусина лорда Вантгена.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>378</ID>
+      <DefaultText>Главный поток — Золотой.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>379</ID>
+      <DefaultText>Вряд ли предприимчивые наемники последуют за вами, если вы отступите перед рифом.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>380</ID>
+      <DefaultText>Алигерн присоединился к группе.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>381</ID>
+      <DefaultText>Каллистеж присоединилась к группе.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>382</ID>
+      <DefaultText>Тибир присоединился к группе.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>383</ID>
+      <DefaultText>Ч'кекту сообщено о более подходящем источнике камней.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>384</ID>
+      <DefaultText>Ч'кекту предложено вознаграждение.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>385</ID>
+      <DefaultText>Получена одна гроздь яиц стихуса.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>386</ID>
+      <DefaultText>Получена одна гроздь яиц стихуса.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>387</ID>
+      <DefaultText>Получена одна гроздь яиц стихуса.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>388</ID>
+      <DefaultText>Предложение вернуть яйца стихуса.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>389</ID>
+      <DefaultText>Месячный слой пыли покрывает знак, на котором написано: "Скура Мудрая, ученый Железного Ветра".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>390</ID>
+      <DefaultText>Далеко внизу вы видите уступ, отходящий от поверхности утеса. Разрушенный тоннель, кажется, уже однажды использовали, чтобы добраться до странных предметов, бережно сложенных в углу.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>391</ID>
+      <DefaultText>Тусклый хочет, чтобы Бригадир-калека жил.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>392</ID>
+      <DefaultText>Орден Истины объяснил принцип передачи энергии.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>393</ID>
+      <DefaultText>Оказана помощь товарищу.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>394</ID>
+      <DefaultText>Толстон и его головорезы оцепили ужасающую сцену убийства.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>395</ID>
+      <DefaultText>Сбежать</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>396</ID>
+      <DefaultText>Сбежать</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>397</ID>
+      <DefaultText>Всплеск Потоков грозди яиц</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>398</ID>
+      <DefaultText>Знание о процессе вылупления</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>399</ID>
+      <DefaultText>Массивная конструкция на стене утеса намного древнее окружающих его зданий.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>400</ID>
+      <DefaultText>На нижней части этих статуй выцарапаны вандальские надписи: признания в любви, оскорбления и фразы, оставленные людьми, побывавшими здесь, которые словно шепчут сквозь столетия.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>401</ID>
+      <DefaultText>Энергия, заключенная в дисках, установленных сверху колонн, обрамляющих стену, кажется, пульсирует по-другому, когда мимо проходят люди.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>402</ID>
+      <DefaultText>За прилавком аккуратно расставлено оружие из совершенно разных материалов.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>403</ID>
+      <DefaultText>Этот прилавок пуст. Глубокие следы на коврике говорят о том, что последний владелец передвигал тяжелую мебель.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>404</ID>
+      <DefaultText>Накрытые балдахином вагонетки одиноко стоят у стены. Лишенные осей и каких-либо других механизмов для движения, вряд ли они в скором времени куда-либо поедут.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>405</ID>
+      <DefaultText>Тысячи скульптур находятся на разных стадиях завершения, рассмотрев их, вы ощущаете чувство глубокого беспокойства.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>406</ID>
+      <DefaultText>Несколько скульптур создают впечатление, что изображенное существо будто выпрыгивает из камня, словно желая броситься на скульптора. Может быть, поэтому они не закончены.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>407</ID>
+      <DefaultText>На трех столах этого прилавка разбросаны различные устройства. Некоторые из них искрятся и трясутся, словно возражая против близости с соседями.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>408</ID>
+      <DefaultText>Незнакомые вам существа-близнецы расположены по бокам от центральной сферы, вы ничего не знаете об их культурном значении.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>409</ID>
+      <DefaultText>Когда вы смотрите на этот символ, вы ощущаете какое-то шевеление на задворках сознания.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>410</ID>
+      <DefaultText>По кабелям течет слабая энергия, но вы не знаете, для чего она годится — для приготовления рыбы или предотвращения кражи.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>411</ID>
+      <DefaultText>Как известно, дирижабли считаются практически безаварийными благодаря их низкой крейсерской скорости и простому управлению. Авария может случиться разве что только при каком-то беспрецедентном стечении обстоятельств.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>412</ID>
+      <DefaultText>Из этих труб извергаются неизвестные жидкости, что говорит о наличии огромных машин и трубопроводов внутри самих утесов.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>413</ID>
+      <DefaultText>Назначение этого выступа неизвестно, но тот факт, что один из них присоединен к каждой сливной трубе, выходящей из стены утеса, не может быть совпадением.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>414</ID>
+      <DefaultText>Непрерывные поступательные движения поршней этого механизма говорят о наличии огромных механических усилий. Структурные сходства с трубами в этой области указывают на то, что они являются частью одной машины.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>415</ID>
+      <DefaultText>Судя по кучам плитки, черепицы и кирпича, это руины разрушенных зданий, предусмотрительно скрытые от глаз.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>416</ID>
+      <DefaultText>Кроме этого люка больше не видно никаких входов в здание. Он плотно закрыт.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>417</ID>
+      <DefaultText>По форме этого стола сложно что-либо понять о физиологии существ, для лечения которых он был изначально создан.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>418</ID>
+      <DefaultText>На этих экранах отображается информация о пациентах, и экраны прекрасно видно из любого места в кабинете.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>419</ID>
+      <DefaultText>Этот фасад — все, что осталось от дома. Остальное рухнуло в море, на сотни метров вниз.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>420</ID>
+      <DefaultText>Книги, которыми забиты полки этого стола, разделены поровну на непонятные медицинские тексты и практические руководства.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>421</ID>
+      <DefaultText>Эти полки заставлены различными колбами, мензурками и множеством других сосудов. Немного беспокоит, что ни на одном из этих сосудов нет никаких этикеток.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>422</ID>
+      <DefaultText>Силуэт, похожий на череп, может быть знаком или, возможно, предупреждает, что ниже вас ждет что-то неопасное, но связанное со смертью.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>423</ID>
+      <DefaultText>Размер человеческой фигуры, которая встречается на территории всего лагеря, весьма необычен. Она используется в качестве символа величия человеческой природы или, может быть, конкретного человека.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>424</ID>
+      <DefaultText>Издалека кажется, что эти книги и свитки беспорядочно свалены, но, если подойти поближе, то можно увидеть маленькие таблички с категориями, которые иллюстрируют порядок в кажущемся хаосе.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>425</ID>
+      <DefaultText>Ряды полок с книгами и свитками уходят в глубину постройки. Сразу понятно, что это истинные ценители печатного слова.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>426</ID>
+      <DefaultText>На рисунке над дверью изображены пять человек, их расположение говорит о товарищеских и доверительных отношениях.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>427</ID>
+      <DefaultText>Этот сферический кокон сделан из серебристого металла, переплетенного энергетическими лентами.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>428</ID>
+      <DefaultText>Устройства, расположенные у изголовья этой кровати, перемещаются в соответствии с текущим временем суток, затеняя глаза их обитателей.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>429</ID>
+      <DefaultText>Ширмы создают иллюзию уединенности жителям комнаты, когда нет такой возможности.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>430</ID>
+      <DefaultText>Запакованные тюки и запечатанные урны выставлены в ряд в ожидании, когда их заберут в город или погрузят на корабль.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>431</ID>
+      <DefaultText>Сплавной лес, поднятый на подвесных платформах, обеспечивает вполне пригодный, хотя и несколько небезопасный мост между пирсом и судами, пришвартованными в этом районе.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>432</ID>
+      <DefaultText>Технология, используемая для подвешивания досок, предусматривает, чтобы они не переворачивались, не выпадали и не двигались. Учитывая данные условия, все сделано достаточно хорошо.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>433</ID>
+      <DefaultText>Стоящие на барной стойке фляги каким-то образом соединены с ней: стойка самостоятельно перемещает фляги и не позволяет забрать их, если не уплачено.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>434</ID>
+      <DefaultText>Этот корабль рассчитан на одного человека, максимум двух. Его интерьер богато украшен атласными подушками, а воздух внутри немного прохладнее.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>435</ID>
+      <DefaultText>Эти растения плотно обвивают верхнюю часть стены, а их корни висят в воздухе. Вам остается непонятно, как они подпитываются.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>436</ID>
+      <DefaultText>Мерден спровоцирован.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>437</ID>
+      <DefaultText>С вершины ближайшего плато вы можете увидеть только верхнюю часть небольшого купола, излучающего голубую энергию.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>438</ID>
+      <DefaultText>На каменной стене нацарапаны последние слова бесчисленного количества мужчин и женщин. Некоторые просили прощения у близких, другие возмущались несправедливости или выражали обиду. Некоторые оставили только свои имена.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>439</ID>
+      <DefaultText>От глиняных сосудов исходит запах дешевого вина и испорченной пищи. На бочке с застоявшейся водой установлен грязный умывальник.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>440</ID>
+      <DefaultText>Когда-то туннель шел в этом направлении, но потолок обрушился.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>441</ID>
+      <DefaultText>Тибир воздействовал на секретаря.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>442</ID>
+      <DefaultText>Этот саркофаг из синта мог бы выдержать огромного человека. Его поверхность покрыта маленькими углублениями, как будто он пережил песчаную бурю, а его первоначальный цвет стерся.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>443</ID>
+      <DefaultText>Свет, исходящий из этой камеры из высокопрочного стекла, имеет холодный и несколько пугающий отблеск. Ее дверь плотно закрыта.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>444</ID>
+      <DefaultText>Перила обвешаны бахромой из кожи и плоти. В его кожу вставлены острые зонды, окруженные гнойными язвами, из которых сочатся зловонные маслянистые выделения.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>445</ID>
+      <DefaultText>Вам неясно назначение этих светящихся экранов, хотя некоторые из них похожи на карты или диаграммы. Это древняя технология, созданная еще до образования Ордена Истины.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>446</ID>
+      <DefaultText>Эти книги небрежно свалены на полу. Они охватывают исследования десятка разных направлений, большинство из которых никак друг с другом не связаны.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>447</ID>
+      <DefaultText>Достигнута договоренность со стихусом.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>448</ID>
+      <DefaultText>На столе все чисто и аккуратно. Книга с названием "Экология биомеханических гибридов" открыта на редкой главе "Неизведанный нихтемерон".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>449</ID>
+      <DefaultText>Этот светящийся экран показывает глобус, вероятно, Девятого Мира. Зелеными линиями отображены траектории, по которым корабль может путешествовать по пустотам между мирами.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>450</ID>
+      <DefaultText>В каменной стене высечены крошечные жилища, в которых из имущества только вонючие скрученные матрасы и тряпье, кишащее клопами.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>451</ID>
+      <DefaultText>Каменные ступени лестницы спускаются в воду. Снаружи грот постепенно расширяется и выходит в море.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>452</ID>
+      <DefaultText>Этот туннель завален мусором, но он достаточно свободный, чтобы через него смогло пробраться какое-нибудь землеройное существо.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>453</ID>
+      <DefaultText>Этот бак заполнен извивающимися хвостами рептилий, спутанными между собой.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>454</ID>
+      <DefaultText>В баке колышется разбухшая груда влажного блестящего мяса.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>455</ID>
+      <DefaultText>Сотни кожаных крыльев бьются друг о друга, будто пытаясь выбраться. Они растут беспорядочно, прорастая одно из другого.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>456</ID>
+      <DefaultText>Энергия этого огромного двигателя поступает в металлические трубы, передается под землей и распределяется по всему Подбрюшью.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>457</ID>
+      <DefaultText>Здесь собраны сотни сломанных нуменер. Рабочие разбирают их на запчасти, если они полезны... или бросают их в печь, если те бесполезны.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>458</ID>
+      <DefaultText>Этот древний корабль вмурован в скалу, и здесь видна только его нижняя часть. Рабочие используют его ревущие двигатели в качестве плавильной печи.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>459</ID>
+      <DefaultText>Эта машина собирает и сравнивает множество образцов, подготавливая полный анализ их физических и психических свойств и размеров.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>460</ID>
+      <DefaultText>На столе установлена пара перчаток. Они выглядят так, как будто бы предназначены для физического мониторинга и анализа любой человеческой руки, помещенной внутрь, которые выполняются в режиме реального времени.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>461</ID>
+      <DefaultText>На полке расположена коллекция тончайших предметных стекол, содержащих поперечные разрезы живой ткани. Некоторые кусочки плоти до сих пор извиваются.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>462</ID>
+      <DefaultText>Скорее всего, это устройство предназначено для хранения мельчайших частиц разума и состояний энергии. Оно покрыто пылью и не используется.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>463</ID>
+      <DefaultText>Из имущества в лачугах остались только скрученные матрасы и несколько разбросанных инструментов. Возможно, рабочие пользовались ими во время особенно длительных смен.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>464</ID>
+      <DefaultText>На скале высечен отвратительный фасад. На нем изображены трупы, гигантские личинки и страшная женщина, которая пирует, восседая на человеческих конечностях.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>465</ID>
+      <DefaultText>Койка этой старой тележки вся запачкана кровью и другими еще более неприятными субстанциями.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>466</ID>
+      <DefaultText>На столе лежит полная женщина средних лет. Из ее головы извлечены все внутренности, а ее глаза лежат на столе рядом с ней.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>467</ID>
+      <DefaultText>Под тканью лежит труп мужчины в грязных доспехах, которые ему совсем не подходят по размеру. Похоже, что на нем десятки колотых ран.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>468</ID>
+      <DefaultText>Этот труп был частично съеден, обглодан человеческими зубами. Брюшная полость распорота, а большинства органов уже нет.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>469</ID>
+      <DefaultText>Этот труп находится в ужасном состоянии, его голова и конечности раздавлены в кашу, а в коже остались застрявшие куски древесины и мусора.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>470</ID>
+      <DefaultText>Этот алтарь сделан полностью из человеческих костей, а на его вершине установлен резной череп. В пустых глазницах извиваются живые личинки насекомых.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>471</ID>
+      <DefaultText>Под простыней лежит труп старика. У него умиротворенное выражение лица, причина его смерти непонятна.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>472</ID>
+      <DefaultText>На этом столе лежит труп девочки-подростка. Большая часть ее костей раздроблены, будто она упала с огромной высоты.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>473</ID>
+      <DefaultText>На этой тележке лежит истощенный труп бедняка. Его пальцы рук и ног обгрызены до костей.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>474</ID>
+      <DefaultText>На витрине этого торговца выставлены дорогая одежда и искусно выкованные доспехи.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>475</ID>
+      <DefaultText>На гладкой металлической двери не видно ни ручки, ни петель. Должно быть, вход контролируется изнутри.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>476</ID>
+      <DefaultText>Из земли торчит верхушка древнего звездного корабля. Поперек площади расположена как будто его копия, только похоже, что внутренняя часть была переделана народом Утесов Сагуса.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>477</ID>
+      <DefaultText>Кажется, это верхушка древнего звездного корабля. Где-то глубоко внизу слышен отдаленный гул его двигателей, но не похоже, что это происходит везде.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>478</ID>
+      <DefaultText>Стилизованная надпись на основании статуи гласит: "Чила Великая, которая освободила нас от оков".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>479</ID>
+      <DefaultText>На основании статуи высечены слова: "Орден Истины".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>480</ID>
+      <DefaultText>Сбоку на голове статуи изображена странная татуировка. Она смутно вам напоминает вашу собственную... но вы понятия не имеете, чья эта статуя.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>481</ID>
+      <DefaultText>Напротив этого здания навалены кучи мусора, как будто кто-то каждый день убирал площадь и оставлял весь мусор здесь.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>482</ID>
+      <DefaultText>Эта конструкция создана из странного материала, напоминающего что-то среднее между камнем и деревом. На стенах начертаны чужеземные символы.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>483</ID>
+      <DefaultText>На поверхности устройства начертаны странные символы. Вы уже видели их раньше...</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>484</ID>
+      <DefaultText>Этот механизм кажется таким знакомым... и значимым. Тяжелые кабели уходят в скалу позади этого механизма, как будто они подключены к другим машинам, расположенным под землей.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>485</ID>
+      <DefaultText>Эта машина, гладкой и обтекаемой формы, гудит от энергии. Вы абсолютно уверены, что она заработала в тот момент, когда вы вошли в камеру.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>486</ID>
+      <DefaultText>Некоторые из светящихся полос на этой машине потемнели. Кажется, она умирает.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>487</ID>
+      <DefaultText>Металлические панели и детали были оторваны от стены, как будто кто-то пытался их выдрать... но безуспешно.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>488</ID>
+      <DefaultText>На этом "стенде" когда-то был металлический резервуар, содержащий нечто вроде жидкости.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>489</ID>
+      <DefaultText>Этот модный диван, скорее всего, был взят из дома какого-то аристократа... если не считать пятен и запаха рвоты.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>490</ID>
+      <DefaultText>Иногда из глубины этой машины раздается необычная мелодичная песня, как будто там внутри заточен музыкант.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>491</ID>
+      <DefaultText>Можно услышать, как по этим древним трубам течет жидкость. Возникает ощущение, что все это здание было создано задолго до Девятого Мира.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>492</ID>
+      <DefaultText>Эти трубы перекачивают жидкость откуда-то с другой стороны перегородки. Позже кто-то установил пробки, видимо потому что эти жидкости не были предназначены для питья.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>493</ID>
+      <DefaultText>Металлическая барная стойка изготовлена из того же материала, что и стены с полом. Кружки наполнены напитками невиданно ярких цветов.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>494</ID>
+      <DefaultText>Многочисленные трещины и углубления этой башни покрыты чахлой растительностью.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>495</ID>
+      <DefaultText>На стойке болтается сферическая головка. Она держится на одной проволочке.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>496</ID>
+      <DefaultText>Эта полуразрушенная конструкция была превращена в дешевый пансионат. В плохо освещенной комнате можно увидеть людей, развалившихся на грязных матрасах.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>497</ID>
+      <DefaultText>Несколько ящиков с отверстиями для воздуха трясутся и подпрыгивают на борту этого корабля, как будто стремятся высадиться на берег, как и экипаж.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>498</ID>
+      <DefaultText>Если говорить о размерах, то существо, которое отложило эти яйца, должно быть действительно огромным.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>499</ID>
+      <DefaultText>Вы предполагаете, что было бы очень сложно подниматься по лестнице с хищным абикосом, хватающим за пятки.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>500</ID>
+      <DefaultText>Кажется, это механическая дверь. Вам сложно сосредоточиться на открытии этой двери, в то время как мердены не оставляют попытки сделать из вас филе.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>501</ID>
+      <DefaultText>Прикосновение к клетке нихтемерона.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>502</ID>
+      <DefaultText>Канаду уведомлен о плане Белеазара.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>503</ID>
+      <DefaultText>Присутствие Каллистеж пугает Белеазара.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>504</ID>
+      <DefaultText>Присутствие Алигерна сердит Белеазара.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>505</ID>
+      <DefaultText>Синий — один из ваших главных потоков.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>506</ID>
+      <DefaultText>Красный — один из ваших главных потоков.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>507</ID>
+      <DefaultText>Индиго — один из ваших главных потоков.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>508</ID>
+      <DefaultText>Золотой — один из ваших главных потоков.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>509</ID>
+      <DefaultText>Серебряный — один из ваших главных потоков.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>510</ID>
+      <DefaultText>Тибир присоединился к группе.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>511</ID>
+      <DefaultText>Алигерн присоединился к группе.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>512</ID>
+      <DefaultText>Каллистеж присоединилась к группе.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>513</ID>
+      <DefaultText>Мэткина присоединилась к группе.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>514</ID>
+      <DefaultText>Эрритис присоединился к группе.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>515</ID>
+      <DefaultText>Рин присоединилась к группе.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>516</ID>
+      <DefaultText>Утратившая Себя испытывает чувство некоторой беспомощности.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>517</ID>
+      <DefaultText>Утратившая Себя испытывает чувство беспомощности.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>518</ID>
+      <DefaultText>Утратившая Себя испытывает чувство полной беспомощности.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>519</ID>
+      <DefaultText>Вероятностные двигатели выключены.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>520</ID>
+      <DefaultText>Получено 2 или более баллов при прохождении испытания Сн'ерфа.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>521</ID>
+      <DefaultText>Пройдено испытание Шатких Основ.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>522</ID>
+      <DefaultText>Ознакомление с памятью механизма.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>523</ID>
+      <DefaultText>Если вам удастся провести группу к этому запасному выходу, вы сможете быстро отступить.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>524</ID>
+      <DefaultText>Похоже, что это устройство является источником низкочастотного гула, который наполняет пещеру. Оно получает питание от двух огромных машин, расположенных у стены.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>525</ID>
+      <DefaultText>Это устройство стоит бесшумно, оставшись без энергии. Оно пахнет горелым синтом. Видимо, оно было серьезно повреждено и уже не подлежит восстановлению.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>526</ID>
+      <DefaultText>Эта машина похожа на ту, что стоит рядом, только без какого-либо интерфейса или панели управления.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>527</ID>
+      <DefaultText>Кажется, в центральном кристалле заточен страх. Он возбужденно мерцает.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>528</ID>
+      <DefaultText>Эта машина обесточена, и три ее кристальных камеры пусты.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>529</ID>
+      <DefaultText>Машина снова вибрирует от энергии.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>530</ID>
+      <DefaultText>Клин'Кар и остальные дали вам понять, что вы не сможете покинуть платформу, пока не найдете мемуаристов.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>531</ID>
+      <DefaultText>Здесь путь внезапно заканчивается, прегражденный огромной клыкастой пастью.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>532</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>533</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>534</ID>
+      <DefaultText>В эту громадную кучу были свалены блестящие безделушки, разнообразные предметы декора и остатки сломанных нуменер. Большая часть этих "сокровищ" не имела совершенно никакой практической ценности.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>535</ID>
+      <DefaultText>Несмотря на то, что сама куча не выглядит устойчивой, составляющие ее кубы связаны друг с другом невидимыми силами. Должно быть, мердены переместили весь объект в один заход.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>536</ID>
+      <DefaultText>Вам непонятно истинное назначение этого предмета. Это может быть якорь, наконечник огромного оружия или просто фрагмент скульптуры.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>537</ID>
+      <DefaultText>Среди этих сокровищ лежат останки скелетов, облаченные в блестящие доспехи. К сожалению, доспехи полностью декоративные.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>538</ID>
+      <DefaultText>Яркое цветное барахло свалено здесь в кучу. Все оно абсолютно бесполезно.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>539</ID>
+      <DefaultText>В водовороте хаоса совершенно невозможно сконцентрироваться на этом сложном устройстве.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>540</ID>
+      <DefaultText>Осыпающаяся кладка является свидетельством когда-то предпринятых попыток укрепить стены, но у Цветения, видимо, были другие планы.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>541</ID>
+      <DefaultText>Делни присутствует здесь.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>542</ID>
+      <DefaultText>[This is some temp. text describing how dark and gappy this dark gap is.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>543</ID>
+      <DefaultText>С этого трупа содраны полосы плоти, а его глазницы пусты. Судя по доспехам, он был одним из головорезов Мемовиры.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>544</ID>
+      <DefaultText>Толь в какой-то степени убеждена.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>545</ID>
+      <DefaultText>Толь немного убеждена.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>546</ID>
+      <DefaultText>Толь полностью убеждена.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>547</ID>
+      <DefaultText>Толь в какой-то степени рассержена.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>548</ID>
+      <DefaultText>Толь немного рассержена.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>549</ID>
+      <DefaultText>Толь сильно рассержена.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>550</ID>
+      <DefaultText>Под видом Меняющегося Бога.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>551</ID>
+      <DefaultText>Грязное знамя Нерегулярных войск Арталио изорвано в клочья и смердит мерденами.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>552</ID>
+      <DefaultText>Процедура частично изучена.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>553</ID>
+      <DefaultText>Процедура изучена.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>554</ID>
+      <DefaultText>Процедура всесторонне изучена.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>555</ID>
+      <DefaultText>Выявлена некоторая закономерность в движениях ласкара.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>556</ID>
+      <DefaultText>Выявлена закономерность в движениях ласкара.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>557</ID>
+      <DefaultText>Выявлена определенная закономерность в движениях ласкара.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>558</ID>
+      <DefaultText>[Мерцающее воплощение памяти, как те, которые вы встречали после первого пробуждения.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>559</ID>
+      <DefaultText>Возможно, вам это только кажется, но вихрящиеся облака словно реагируют на ваши эмоции.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>560</ID>
+      <DefaultText>Сосредоточиться на вратах нелегко. Вам кажется, что их здесь нет, несмотря на то, что они определенно существуют.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>561</ID>
+      <DefaultText>Туннель выглядит металлическим, но его стены пульсируют в такт биению вашего сердца.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>562</ID>
+      <DefaultText>Эти швартовые тумбы используются, чтобы суда не сносило, или, по крайней мере, их использовали ранее, когда суда здесь останавливались.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>563</ID>
+      <DefaultText>Деревянные поддоны были залатаны деталями древних машин, чтобы соорудить самодельные подставки для грузов. И хотя они до сих пор используются, выглядят они заброшенными и запущенными.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>564</ID>
+      <DefaultText>Зловонная жидкость выливается из этих труб на остальную часть Долины, расположенную глубоко внизу. На ярком солнце от этого тумана веет прохладой.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>565</ID>
+      <DefaultText>От этих двух статуй доносится слабый гул.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>566</ID>
+      <DefaultText>Создается впечатление, что в свое время кто-то собирался доделать эту платформу. Но с тех пор этот проект был заброшен.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>567</ID>
+      <DefaultText>Из нечеловеческой головы выливается чистая вода с резким запахом. Выше по склону нет ничего, что бы указывало, откуда поступает эта вода.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>568</ID>
+      <DefaultText>Недавний обвал перекрыл то место, которое когда-то было выходом из долины.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>569</ID>
+      <DefaultText>Этот символ нарисован везде. Изображений так много, что воздух наполнен медным запахом крови — как засохшей, так и свежей.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>570</ID>
+      <DefaultText>Светящаяся жидкость просачивается из трещин откуда-то из глубины холма, расположенного в центре.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>571</ID>
+      <DefaultText>Шелковые ленты и флажки колышутся, слегка задевая камень. Эти украшения появились здесь недавно, возможно, несколько лет назад. Но, как и все остальное здесь, они были заброшены.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>572</ID>
+      <DefaultText>По всей видимости, эти камни были привезены откуда-то извне и уже здесь ими *заложили* этот вход.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>573</ID>
+      <DefaultText>Это то же вязкое вещество, используемое для запечатывания средней двери, но что-то его растопило. Однако некоторая часть осталась на месте.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>574</ID>
+      <DefaultText>Коридор заполнен брошенными чашами, сгнившими фруктами, благовониями и другими диковинными вещами — подношениями в знак почитания умерших.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>575</ID>
+      <DefaultText>Эти зеленые огни, встроенные в стену, являются частью исходной архитектуры.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>576</ID>
+      <DefaultText>Тысячи имен написаны на поверхности сферы. Нигде не сказано, как они погибли, учитывая, что означают эти имена.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>577</ID>
+      <DefaultText>Этот сосуд наполнен пеплом. И пепла там больше, чем от одного человеческого тела.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>578</ID>
+      <DefaultText>Этот сосуд теплый на ощупь и слегка вибрирует.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>579</ID>
+      <DefaultText>Из сосуда то и дело доносится шепот разных голосов.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>580</ID>
+      <DefaultText>Эти огни, изгибающиеся и преломляющиеся между собой, должно быть, принесены в честь какой-то важной персоны. Однако со временем имена были стерты.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>581</ID>
+      <DefaultText>За пределами платформы открывается громадная пещера. Будто бесконечное количество ячейкообразных комнат простирается, покуда хватает взгляда.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>582</ID>
+      <DefaultText>Кажется, этот фриз был поврежден. На нем изображены две фигуры, с гневом обращенные друг к другу, и больше ничего разобрать невозможно.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>583</ID>
+      <DefaultText>Все эти статуи изображают одного и того же человека, по всей видимости, Первую Отверженную. На каждой из них надеты разные маски.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>584</ID>
+      <DefaultText>Там, где не залито кровью, в капсулах видны расплывчатые человекоподобные тени.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>585</ID>
+      <DefaultText>Большинство из этих капсул можно открыть с одной стороны. В некоторых из них находятся люди — жители Сагуса, это видно по их одежде.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>586</ID>
+      <DefaultText>Воздух вокруг этой площадки для телепортации горячий и пахнет серой. Однако не понятно, как она включается.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>587</ID>
+      <DefaultText>На площадке для телепортации видны следы песка и он гораздо теплее, чем температура в убежище. Он пахнет морской водой и костями. Сейчас площадка не работает.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>588</ID>
+      <DefaultText>Воздух над площадкой для телепортации затхлый и отдает внутренностями какого-то мертвого чудовища. Пока неясно, как Пай включил это устройство, потому что у вас оно не работает.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>589</ID>
+      <DefaultText>Эти машины добывают энергию откуда-то из-под земли и используют ее для создания щитов, которые окрашивают небо. Вокруг убежища есть несколько таких щитов.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>590</ID>
+      <DefaultText>Это верхушка некогда гораздо более громадной машины, которая, возможно, питает энергией генераторы щитов, установленных вокруг убежища. От нее исходит слабый мелодичный гул.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>591</ID>
+      <DefaultText>В этом здании располагаются жилые помещения, которые, по всей видимости, служат временным жильем для отверженных. В данный момент двери в эту конструкцию заперты.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>592</ID>
+      <DefaultText>Огромная башня, выступающая из земли, похожа на какое-то оружие или антенну. Она издает слабый свист и слегка пахнет дрожжами.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>593</ID>
+      <DefaultText>С вершины этой зеленой скалы можно было бы наблюдать фантастический вид. Все это кажется чрезвычайно знакомым...</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>594</ID>
+      <DefaultText>Похоже, что внутри этой живой конструкции темно и прохладно. К сожалению, дверь заперта.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>595</ID>
+      <DefaultText>Эта машина издает тихий гул и щелчки, просматривая всю зеленую долину, простирающуюся внизу. Возможно, это какое-то сканирующее устройство.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>596</ID>
+      <DefaultText>Из глубины этого устройства исходит странный булькающий звук. Оно следит за долиной подобно стражу.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>597</ID>
+      <DefaultText>Проходы этой конструкции слишком малы для человека. Густая растительность скрывает от взора то, что лежит внутри.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>598</ID>
+      <DefaultText>Это похоже на часы из Малого Круга, но в то же время чем-то отличается... *Что-то не то*.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>599</ID>
+      <DefaultText>Как и большинство вещей здесь, эта машина выглядит очень знакомо. Кажется, что она обесточена, как будто это только видимость.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>600</ID>
+      <DefaultText>Это здание похоже на те постройки, что вы видели в Утесах Сагуса, за исключением того, что оно выглядит более старомодным.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>601</ID>
+      <DefaultText>Это всего лишь воспоминания, но тепло от камней, а также запах горелого дерева и плоти — все это кажется очень реальным.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>602</ID>
+      <DefaultText>Изнутри этой конструкции доносятся душераздирающие стоны, но нет никакой возможности проникнуть туда.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>603</ID>
+      <DefaultText>Она выглядит очень реалистично. С каждым вдохом ее грудь поднимается и опускается. Очень странно наблюдать эту призрачную женщину одновременно и внутри, и снаружи камеры.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>604</ID>
+      <DefaultText>То, что осталось от женщины внутри, трудно узнать... и пахнет слишком реалистично.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>605</ID>
+      <DefaultText>Эти машины абсолютно бесшумны и неподвижны. Как и другие машины, находящиеся здесь, они как будто только создают видимость.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>606</ID>
+      <DefaultText>Какой бы ни была причина этого разрушения, работа была проделана невероятно тщательно.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>607</ID>
+      <DefaultText>Она выглядит точно так же, как машина в Караван-сарае, но она абсолютно бесшумна и ни на что не реагирует, как будто это модель реальной машины.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>608</ID>
+      <DefaultText>Ковер и сосуд выглядят повседневно, но необычно. Это место было создано не из ваших воспоминаний, но вы *знаете*, что видели все это раньше.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>609</ID>
+      <DefaultText>Необходима колоссальная мощь, чтобы построить дома из этих каменных блоков. Сейчас вы вспоминаете — это дома деревушки Кольн из сознания, которое Мэткина дала вам.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>610</ID>
+      <DefaultText>Эти лачуги заметно отличаются от каменных домов, расположенных ниже, как если бы они были из другой деревни.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>611</ID>
+      <DefaultText>Голоса с золотистых просторов за пределами этой "деревни" шепчут вам. Они не реальны. Это просто воспоминания ваших товарищей отверженных.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>612</ID>
+      <DefaultText>Вокруг этих шаров вода теплее. Их рассеянное сияние освещает часть Оазиса.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>613</ID>
+      <DefaultText>Это похоже на какую-то подводную пещеру. Вода здесь теплее и приятнее.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>614</ID>
+      <DefaultText>Вода пульсирует и переливается, словно темная вуаль, изобличая фальшивость этого подводного сооружения.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>615</ID>
+      <DefaultText>Тусклый свет слабо мерцает под поверхностью этого массивного панциря. Что бы под ним ни скрывалось, оно выходит наружу.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>616</ID>
+      <DefaultText>Кто-то смастерил самодельную пристройку из подручных материалов.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>617</ID>
+      <DefaultText>Эта меняющаяся беспорядочная бесконечность на самом деле — кучи мусора. Это просто место воспоминаний, ничего больше.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>618</ID>
+      <DefaultText>Где-то под обломками шуршат мелкие животные.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>619</ID>
+      <DefaultText>Куча мусора слегка приподнимается и опускается через равные промежутки времени, как если бы под ней кто-то дышал, хотя, конечно же, ничего такого и быть не может...</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>620</ID>
+      <DefaultText>Воздух наполняет резкий лимонный запах. Каждые несколько минут в нос бьет запах разлагающейся плоти, который потом снова заглушается ароматом лимона.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>621</ID>
+      <DefaultText>Кажется, это набор элементов управления камерой. Неясно, помогут ли они вам поднять пол.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>622</ID>
+      <DefaultText>Портал из этого измерения находится вне досягаемости. Вам необходимо найти способ попасть в него.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>623</ID>
+      <DefaultText>* Редактировать *</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>624</ID>
+      <DefaultText>Теборос согласился сражаться в Бесконечной Битве.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>625</ID>
+      <DefaultText>Даама согласился сражаться в Бесконечной Битве.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>626</ID>
+      <DefaultText>Использовано Слово Ка.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>627</ID>
+      <DefaultText>Игровой процесс в некоторой степени освоен.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>628</ID>
+      <DefaultText>Игровой процесс освоен хорошо.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>629</ID>
+      <DefaultText>Игровой процесс освоен очень хорошо.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>630</ID>
+      <DefaultText>Использование стратегии Даамы.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>631</ID>
+      <DefaultText>Из внутренностей мердена капает кровь на пол.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>632</ID>
+      <DefaultText>Перья этого существа обуглены до основания.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>633</ID>
+      <DefaultText>Вокруг мердена кровью выцарапано что-то похожее на детский рисунок.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>634</ID>
+      <DefaultText>Этому существу вырвали оба птичьих глаза, внутриглазная жидкость растеклась по лицу.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>635</ID>
+      <DefaultText>Тело мердена от лба до паха изуродовано ровным рядом рваных отверстий.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>636</ID>
+      <DefaultText>Матовую черную панель на стене можно использовать для открытия и закрытия двери.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>637</ID>
+      <DefaultText>Знакомство со структурой основания утеса.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>638</ID>
+      <DefaultText>Самоуверенность поврежденного Несравненного пошатнулась.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>639</ID>
+      <DefaultText>У этой компании ничего нет, и они, кажется, готовы незамедлительно уйти. Они слегка пахнут травами и озоном.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>640</ID>
+      <DefaultText>Отказ от первого якоря из плоти.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>641</ID>
+      <DefaultText>Отказ от второго якоря из плоти.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>642</ID>
+      <DefaultText>Отказ от третьего якоря из плоти.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>643</ID>
+      <DefaultText>Генераторы щита Миэль Авеста были отключены, и убежище осталось без защиты. Однако в каждом из них, кажется, осталось достаточно энергии, чтобы обеспечить защиту небольшого радиуса.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>644</ID>
+      <DefaultText>* Редактировать *</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>645</ID>
+      <DefaultText>По некогда мирному убежищу разбросаны кучи камней. Большинство из них наверняка можно убрать, но это потребует немалых усилий.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>646</ID>
+      <DefaultText>Снабженные усиками Пасти, кажется, мертвы. Их плоть снова поглощается Цветением.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>647</ID>
+      <DefaultText>Снабженные усиками Пасти, кажется, мертвы. Их плоть снова поглощается Цветением.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>648</ID>
+      <DefaultText>"В Малый Нилиш"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>649</ID>
+      <DefaultText>"В торговый пост"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>650</ID>
+      <DefaultText>Этот конструкт оснащен бесчисленным количеством устройств контроля.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>651</ID>
+      <DefaultText>Портал сузился до маленькой пульсирующей сферы. Что-то в нем вас злит, но вряд ли можно сказать, что именно.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>652</ID>
+      <DefaultText>Свиток покрыт неразборчивыми странными письменами. Вам удается прочесть только заголовок: "Летопись Чилы Великой, том 2".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>653</ID>
+      <DefaultText>Мутанты начинают доверять вам.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>654</ID>
+      <DefaultText>Мутанты доверяют вам.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>655</ID>
+      <DefaultText>Мутанты полностью доверяют вам.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>656</ID>
+      <DefaultText>Проверен генератор поля.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>657</ID>
+      <DefaultText>Таш вынужден действовать против своей воли в собственном сознании.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>658</ID>
+      <DefaultText>Установлена связь с помощью магматического аннулета.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>659</ID>
+      <DefaultText>[Silver: A holographic display on loop. You can't seem to engage with the machine while any Sorrow Fragments remain in the area.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>660</ID>
+      <DefaultText>[Indigo: A holographic display on loop. You can't seem to engage with the machine while any Sorrow Fragments remain in the area.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>661</ID>
+      <DefaultText>[Gold: A holographic display on loop. You can't seem to engage with the machine while any Sorrow Fragments remain in the area.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>662</ID>
+      <DefaultText>[Red: A holographic display on loop. You can't seem to engage with the machine while any Sorrow Fragments remain in the area.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>663</ID>
+      <DefaultText>[Blue: A holographic display on loop. You can't seem to engage with the machine while any Sorrow Fragments remain in the area.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>664</ID>
+      <DefaultText>Варьелленский нано лежит мертвый на полу, убитый, очевидно, маленькими пастями. Пятна гноя неподалеку говорят о том, что он боролся до последнего, но все же был побежден.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>665</ID>
+      <DefaultText>Варьелленский нано лежит мертвый на полу, убитый, очевидно, сектантами.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>666</ID>
+      <DefaultText>Материал упругий на ощупь и очень прочный. За ним вы можете разглядеть лишь расплывчатую тень.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>667</ID>
+      <DefaultText>Панель из синта лежит на одном уровне с землей. Вы не можете найти способ ее открыть.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>668</ID>
+      <DefaultText>Вокруг короткой металлической основы располагаются кобальтовые лопасти. Окаменелые минералы держат древнее оружие закрытым.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>669</ID>
+      <DefaultText>Полоски плоти Цветения лежат на дне корзины. Некоторые выглядят так, будто их покусали человеческими зубами.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>670</ID>
+      <DefaultText>Коти выпил эссенцию насилия.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>671</ID>
+      <DefaultText>Предложение заплатить за снаряжение Коти (у вас есть шины).</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>672</ID>
+      <DefaultText>Предложение заплатить за снаряжение Коти (но у вас нет шинов).</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>673</ID>
+      <DefaultText>У человека была серьезная рана брюшной полости и, возможно, он недавно умер от потери крови. На нем униформа головорезов Мемовиры.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>674</ID>
+      <DefaultText>Хотя портал из Топи Хиургов пропал, он оставил за собой ужасающий шрам.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>675</ID>
+      <DefaultText>Торговцы распаковали вагонетки и починили сломанные столы, которые вы видели раньше.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>676</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>677</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>678</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>679</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>680</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>681</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>682</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>683</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>684</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>685</ID>
+      <DefaultText>Это убежище построено из множества необычных материалов: синтестали, ковких металлов и адамантового шелка. Кажется, оно стоит здесь уже довольно долго и успело послужить многим группам исследователей.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>686</ID>
+      <DefaultText>От устройства исходит тепло, очень приятное после холодного воздуха. Возможно, оно служит заменой костру или имеет другое, давно забытое назначение. Или и то и другое.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>687</ID>
+      <DefaultText>Под шатром накрыта трапеза для двоих, но насладиться ей некому.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>688</ID>
+      <DefaultText>Переливающаяся пленка оказывается прочной, как сталь.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>689</ID>
+      <DefaultText>Вода, льющаяся из труб, имеет вкус чабреца.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>690</ID>
+      <DefaultText>В сосудах и емкостях, словно выставленных на продажу, находятся странные жидкости и даже существа. Однако они неподвижны, как камень.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>691</ID>
+      <DefaultText>Скорбь разбила зеркало, ведущее обратно в Темное Измерение. Осколки стекла шуршат, когда вы их касаетесь.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>692</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>693</ID>
+      <DefaultText>Вращающаяся сердцевина привлекает неизведанными тайнами и силой.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>694</ID>
+      <DefaultText>Портал в Топь Хиургов исчез. После него остался лишь ужасающий шрам.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>695</ID>
+      <DefaultText>Вы нравитесь Тибиру.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>696</ID>
+      <DefaultText>Тибир любит вас.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>697</ID>
+      <DefaultText>Напоминание, что отец — это Рагмин.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>698</ID>
+      <DefaultText>Невмешательство в жизнь Зериана в его Сознании.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>699</ID>
+      <DefaultText>Присоединились к вам в Крепости Мемовиры.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>700</ID>
+      <DefaultText>Светящиеся изображения рассказывают историю о Бесконечной Битве в представлении местных жителей. Два бога сошлись в битве и, не обращая внимания на близлежащие поселения, разрушили их.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>701</ID>
+      <DefaultText>Вы можете пройти вниз только этим путем, но кристаллы, организовав плотный ряд, не дают вам пройти.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>702</ID>
+      <DefaultText>Вы нравитесь Эрритису.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>703</ID>
+      <DefaultText>Эрритис любит вас.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>704</ID>
+      <DefaultText>Одним из ваших главных потоков является синий или серебряный.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>705</ID>
+      <DefaultText>Вы угрожали Дорану, выдавая себя за Меняющегося Бога.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>706</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>707</ID>
+      <DefaultText>Нет двери или портала, чтобы попасть в измерение, откуда вы пришли, вы видите лишь рассеянный свет без различимого источника.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>708</ID>
+      <DefaultText>С каждой вспышкой света вас охватывает холод. По-видимому, эта машина — изобретение вашего творца, сконструированное по воспоминаниям отверженного.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>709</ID>
+      <DefaultText>Древнее каменное сооружение смотрится в Цветении неестественно. По залу разбросаны одинаковые строения, как будто в далеком прошлом Цветение проглотило целый город и оставило здесь на хранение.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>710</ID>
+      <DefaultText>Вы с трудом можете разглядеть безобразную фигуру, съежившуюся под самодельным убежищем. Голова существа, размером почти в два раза больше тела, клонится к земле.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>711</ID>
+      <DefaultText>Трехмерное изображение показывает сложную корневидную систему... или, быть может, органическую структуру данных.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>712</ID>
+      <DefaultText>Как все здесь, это устройство идеально отполированное и является безупречно чистым. То и дело оно испускает громкий сигнал, который эхом разносится по всей комнате.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>713</ID>
+      <DefaultText>От шара расходятся ментальные волны, наполняющие ваш разум странными абстрактными расчетам и математическими формулами. Шар сияет так ярко, что на него невозможно смотреть долго.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>714</ID>
+      <DefaultText>Хотя текст на экране вам непонятен, графические образы показывают атмосферные условия и уровни энергии в комнате. Это всего лишь устройство наблюдения — оно лишено средств управления.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>715</ID>
+      <DefaultText>Низкое гудение, от которого содрогалось все ваше тело, утихло, но машина все еще искрит энергией. Немного энергии еще осталось.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>716</ID>
+      <DefaultText>Проход в следующий отсек транспортного средства завален обломками. Дальше вы пройти не можете.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>717</ID>
+      <DefaultText>Ласкар отвлекся.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>718</ID>
+      <DefaultText>Ей показана книга об ангульских рыцарях.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>719</ID>
+      <DefaultText>Конечности анина закоченели и начали разлагаться. Похоже, его закололи и забили до смерти.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>720</ID>
+      <DefaultText>Найдено резное изображение солнца.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>721</ID>
+      <DefaultText>Мягкая масса раздутой плоти сочится из стены. Некоторые ее складки кажутся настолько большими, что между ними можно без труда пролезть.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>722</ID>
+      <DefaultText>Жидкость течет через гигантские внутренности. Порой через один из органов проходит что-то крупное, и тогда вы слышите булькающий звук или тихий стон.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>723</ID>
+      <DefaultText>Вы видите стену острых изломанных костей, покрытых крошечными выступами, которые способны разорвать незащищенную плоть.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>724</ID>
+      <DefaultText>У вас есть магматический аннулет.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>725</ID>
+      <DefaultText>Один товарищ вошел в скопление язычков Цветения вместе с вами.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>726</ID>
+      <DefaultText>Два товарища вошли в скопление язычков Цветения вместе с вами.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>727</ID>
+      <DefaultText>Три товарища вошли в скопление язычков Цветения вместе с вами.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>728</ID>
+      <DefaultText>Язычки Цветения разрезаны межпространственным скальпелем.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>729</ID>
+      <DefaultText>Абикос в сердце освободился.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>730</ID>
+      <DefaultText>Органы чувств ослаблены.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>731</ID>
+      <DefaultText>Получен контроль над артериями Цветения.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>732</ID>
+      <DefaultText>Получен контроль над органами чувств Цветения.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>733</ID>
+      <DefaultText>Понимание того, что Сердце является биологической системой.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>734</ID>
+      <DefaultText>Понимание образа мыслей Цветения.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>735</ID>
+      <DefaultText>Вы нравитесь Алигерну.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>736</ID>
+      <DefaultText>Алигерн любит вас.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>737</ID>
+      <DefaultText>Вы не нравитесь Алигерну.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>738</ID>
+      <DefaultText>Алигерн ненавидит вас.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>739</ID>
+      <DefaultText>Вы нравитесь Каллистеж.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>740</ID>
+      <DefaultText>Каллистеж любит вас.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>741</ID>
+      <DefaultText>Вы не нравитесь Каллистеж.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>742</ID>
+      <DefaultText>Каллистеж ненавидит вас.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>743</ID>
+      <DefaultText>Вы нравитесь Мэткиной.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>744</ID>
+      <DefaultText>Мэткина любит вас.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>745</ID>
+      <DefaultText>Вы не нравитесь Мэткиной.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>746</ID>
+      <DefaultText>Мэткина ненавидит вас.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>747</ID>
+      <DefaultText>Вы нравитесь Рин.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>748</ID>
+      <DefaultText>Рин любит вас.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>749</ID>
+      <DefaultText>Вы не нравитесь Рин.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>750</ID>
+      <DefaultText>Рин ненавидит вас.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>751</ID>
+      <DefaultText>Вы не нравитесь Тибиру.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>752</ID>
+      <DefaultText>Тибир ненавидит вас.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>753</ID>
+      <DefaultText>Вы не нравитесь Эрритису.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>754</ID>
+      <DefaultText>Эрритис ненавидит вас.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>755</ID>
+      <DefaultText>Вы узнаете в мертвеце Корро, наемника, который пытался напасть на вас на Рифе. На его лице застыло выражение удивления, словно он не в силах смириться с тем, что мертв.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>756</ID>
+      <DefaultText>Сфера темна, мертва, и не излучает ни капли бывшего сияния.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>757</ID>
+      <DefaultText>Корро сердит на вас.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>758</ID>
+      <DefaultText>Корро очень сердит на вас.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>759</ID>
+      <DefaultText>Корро не подозревает, что вы звезда.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>760</ID>
+      <DefaultText>Корро подозревает, что вы звезда.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>761</ID>
+      <DefaultText>Утратившая Себя испытывает чувство беспомощности.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>762</ID>
+      <DefaultText>Утратившая Себя испытывает чувство некоторой беспомощности.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>763</ID>
+      <DefaultText>Утратившая Себя испытывает чувство полной беспомощности.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>764</ID>
+      <DefaultText>Выключить вероятностные двигатели</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>765</ID>
+      <DefaultText>Дом соседа Маделии разрушен.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>766</ID>
+      <DefaultText>Сн'ерф получил точную информацию.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>767</ID>
+      <DefaultText>Достигнуто соглашение со стихусами.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>768</ID>
+      <DefaultText>Вернулось воспоминание о нахождении сферы в Архопалазии.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>769</ID>
+      <DefaultText>Член Дендра О'хур</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>770</ID>
+      <DefaultText>Инифир ставит под сомнение ваши соображения.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>771</ID>
+      <DefaultText>Инифир не согласен с вашими соображениями.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>772</ID>
+      <DefaultText>Инифир прислушивается к вашим соображениям.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>773</ID>
+      <DefaultText>Инифир согласен с вашими соображениями.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>774</ID>
+      <DefaultText>Распознан пришелец.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>775</ID>
+      <DefaultText>Ощущение злобы напоминает о Дракогене.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>776</ID>
+      <DefaultText>Толь получила приказ немедленно удалиться.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>777</ID>
+      <DefaultText>Преобладает Красный Поток, специализация на связи с Потоком.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>778</ID>
+      <DefaultText>Вынесено предложение освободить Толь.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>779</ID>
+      <DefaultText>Мэткина привязана к вам.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>780</ID>
+      <DefaultText>Непроницаемое энергетическое поле преграждает путь в другую часть пещеры.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>781</ID>
+      <DefaultText>Толь отправила голограмму о том, что Киан жива.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>782</ID>
+      <DefaultText>Этот отверженный окружен каким-то стазисным полем. По-видимому, энергетическое поле создает находящаяся рядом огромная машина.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>783</ID>
+      <DefaultText>Во время раскопок стихусов было уничтожено несколько домов.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>784</ID>
+      <DefaultText>Вожака мерденов запугать не удалось.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>785</ID>
+      <DefaultText>Мутанты знают, что помощь не придет.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>786</ID>
+      <DefaultText>Мутанты думают, что придет помощь.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>787</ID>
+      <DefaultText>Мутанты опасаются того, что мемовира будет применять грязные средства.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>788</ID>
+      <DefaultText>Полуразвалившаяся статуя не может испустить достаточно громкий звук, чтобы зачаровать стихусов.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>789</ID>
+      <DefaultText>Пай получила напоминание, что Первая убила Аадирис.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>790</ID>
+      <DefaultText>Пай знает, что Первая разрушила Миэль Авест, чтобы добраться до вас.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>791</ID>
+      <DefaultText>Пай догадалась, что Миэль Авест разрушила Первая.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>792</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>793</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>794</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>795</ID>
+      <DefaultText>Оказано сопротивление Калагату Анвору в Сознании.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>796</ID>
+      <DefaultText>Понесено поражение от Калагата Анвора в Сознании.</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

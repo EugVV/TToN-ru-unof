@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\c_bloom\c4101_dracogen_respawn</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>6</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>Слышится рокочущий хохот и знакомый голос: "Не ожидал, что ты вернешься ко мне вот так, дружище!"
+
+Серая рука с длинными когтями тянется вниз и рывком ставит вас на ноги. Проморгавшись, вы видите зубастое ухмыляющееся лицо Дракогена.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>"Какая мерзость. Так будет всегда, когда я умру в Цветении?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>"Наверное. Прощай".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>"*Всегда*? Как знать? Цветение — странное место, мой отверженный друг, а ты — странный человек. Твоя... уникальная физиология наверняка влияет на это".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>"Кажется, ты не нравишься Цветению на вкус! Большинство из тех, кого оно поглотило, там и остаются. Наверняка причиной — твоя... уникальная физиология".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>"До встречи, друг".</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

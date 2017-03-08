@@ -1,0 +1,826 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\a_sagus\a2621_lan_uring</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>148</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>Худощавый молодой человек нерешительно улыбается, когда вы приближаетесь. Вы замечаете небольшой металлический овал, выходящий из его головы и почти скрытый его растрепанными волосами. Когда он говорит, пальцами левой руки он нервно постукивает по ноге.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>Он потирает овальный имплантат на лбу пальцем, размышляя. Проходит некоторое время, прежде чем он начинает говорить.
+
+"О. Гм. Здравствуй".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>"Я еще не настоящий жрец", — проговаривается он, затем краснеет. — "Все не так, как ты подумал. Обычно посетители просто разговаривают со мной, потому что думают, что я жрец, но я... я пока новичок. Гм".
+
+Он теребит протершуюся часть своего одеяния.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>"Что это за имплантат у тебя на лбу?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>"Напомни мне, зачем нужен имплантат у тебя на лбу".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>"Имплантат не только на лбу", — отвечает он. —  "Я думаю, не только в коже. Он скреплен с моим черепом".
+
+Он некоторое время смотрит на вас, затем понимает, что не ответил на ваш вопрос. "Имплантат помогает мне бодрствовать и оставаться настороже. Я не устану, пока он не израсходует всю мощность".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>"Он помогает мне бодрствовать, и я могу учиться дольше", — робко отвечает он.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>"Чему ты учишься?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>"И чему же ты учишься?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText>"Что?" — спрашивает он, прикрыв глаза и выпрямившись. "Хочешь знать, над чем я работаю? Правда?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText>"Я разрабатываю Интеллект, который может находить, тестировать, определять, классифицировать и использовать все нуменеры в мире".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>14</ID>
+      <DefaultText>"Конечно".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>15</ID>
+      <DefaultText>"Не беспокойся".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>16</ID>
+      <DefaultText>"Конечно", — говорит он, снова сгорбившись. "Конечно".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>17</ID>
+      <DefaultText>"Я передумал. Расскажи, что ты исследуешь?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>18</ID>
+      <DefaultText>На его лице появляется улыбка.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>19</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20</ID>
+      <DefaultText>"Я разрабатываю Интеллект", — говорит он. — "Но не обычного типа. Не... не просто из металла или с управляемой системой настройки. Нет. Он будет шире. Мощнее".
+
+Лан и сам, кажется, становится сильнее по мере того, как говорит. Теперь вы замечаете, что он выше вас ростом.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>21</ID>
+      <DefaultText>"У меня есть идея — создать Интеллект, который может находить, тестировать, определять нуменеры для их полного изучения. Мы можем открыть секреты потерянных цивилизаций!" 
+
+Теперь его глаза сияют, и он сжимает пальцы в кулак и поднимает дрожащую руку вверх. "Ты понимаешь? Если мы сделаем это, мы можем разорвать цепи, связывающие нас с прошлым, и превратить их в средства, с помощью которых можно управлять будущим!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>22</ID>
+      <DefaultText>"Не могу не заметить, что твой план богат на заявления, но в нем мало конкретики".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>23</ID>
+      <DefaultText>"Это будет полезным. Никто больше не пострадает, проверяя действие нуменеры на себе".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>24</ID>
+      <DefaultText>"Если машина будет тестировать нуменеры, не пропадет ли самая интересная часть их исследования?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>25</ID>
+      <DefaultText>"У меня есть проект", — настороженно говорит он, опуская торжествующий кулак. — "Но на это потребуется много времени. И денег. Гм".
+
+Сияние энтузиазма в его глазах медленно угасает. "Это всего лишь теория. На сегодняшний день".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>26</ID>
+      <DefaultText>"Оо", — говорит он, опуская торжествующий кулак. Очевидно, что это преимущество не приходило ему в голову. "Конечно".
+
+Сияние энтузиазма в его глазах медленно угасает. "Это всего лишь теория. На сегодняшний день".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>27</ID>
+      <DefaultText>"Так сказал Мин", — вздыхает он, опуская торжествующий кулак. 
+
+Сияние энтузиазма в его глазах медленно угасает. "Но это всего лишь теория. На сегодняшний день".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>28</ID>
+      <DefaultText>"У меня нет средств. Еще н-н-нет. Но я изучал машины с Мином, когда у него было свободное время. И ему нравились мои идеи, даже если он думал, что они неисполнимы".
+
+Он отворачивается. "Думаю, что он был разочарован, когда узнал, что я еще не стал Жрецом Вечности".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>29</ID>
+      <DefaultText>"Похоже, что Мин был очень добр к тебе".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30</ID>
+      <DefaultText>"А ты хочешь стать Жрецом?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>31</ID>
+      <DefaultText>"«Невозможно» звучит слишком категорично".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>32</ID>
+      <DefaultText>"Да, очень", — вздыхает он. "Это изменит все".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>33</ID>
+      <DefaultText>"Только действующие Жрецы Вечности имеют доступ к капиталу Ордена. Я могу использовать его, чтобы создать прототип. Мин может быть против, но он согласится, если конструкция будет правильной".
+
+Он облизывает губы. Его губы сухие, почти не выделяющиеся на коже. "Мне просто нужно сделать все правильно, вот и все".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>34</ID>
+      <DefaultText>"Я знаю", — говорит он, качая головой. — "Но я вознагражу его. За все это". Он вздрагивает от собственных слов.
+
+"Однажды я буду Жрецом Вечности, и все изменится".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>35</ID>
+      <DefaultText>"И ошибочным!" — говорит он, опять приобретая часть своей потерянной горячности. "Однажды я буду Жрецом Вечности, и все изменится".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>36</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>37</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>38</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>39</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>40</ID>
+      <DefaultText>"Я знаю, что ты шпион Мемовиры".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>41</ID>
+      <DefaultText>"У меня есть еще несколько вопросов о Мемовире".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>42</ID>
+      <DefaultText>"Как ты..." — произносит он, сжимая дрожащие пальцы. "Нет. Это не имеет значения. Это правда, но все не так, как ты думаешь".
+
+Он обводит комнату испуганным взглядом и продолжает говорить шепотом. "Мне нужны деньги для моей работы. Орден не оплачивает ничего, кроме обычных расходов на жизнь. Один из людей Мемовиры пришел ко мне и дал мне денег в качестве «помощи». Я взял их. Конечно!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>43</ID>
+      <DefaultText>Его глаза расширяются.
+
+"Пожалуйста, говори тише!" — шепчет он.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>44</ID>
+      <DefaultText>"Но когда они пришли в следующий раз, они не хотели, чтобы я создавал или изучал что-нибудь. Они хотели, чтобы я стал шпионом Ордена!"
+
+Его губы дрожат. "Я сказал: «Нет», и они начали жестоко меня избивать, а когда я приходил в себя, они опять били меня. Они били меня, пока я не согласился".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>45</ID>
+      <DefaultText>"Позволь помочь тебе".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>46</ID>
+      <DefaultText>"Ты трус. Ты только вредишь Ордену".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>47</ID>
+      <DefaultText>"Ты должен вернуть деньги".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>48</ID>
+      <DefaultText>"Нет", — говорит он, бледнея, — "если они узнают, что кому-то еще известно об этом или что я что-то от них скрываю, меня убьют. Так они сказали".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>49</ID>
+      <DefaultText>"Я знаю", — говорит он. — "Но если я не передам им *каждое* подслушанное мной слово, то меня убьют".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>50</ID>
+      <DefaultText>"Я уже потратил большую часть", — жалуется он. — "К тому же, я *пытался* вернуть то, что осталось, а они не брали!" 
+
+Он закрывает лицо ладонями. "Но если я не передам им каждое подслушанное мной слово, то меня убьют".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>51</ID>
+      <DefaultText>"Но все намного хуже", — говорит он, бесстрашно глядя на вас. — "Я слышал ваш с Мином разговор о резонансной камере. Я уже донес об этом. Мне жаль, но они уже, наверное, здесь".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>52</ID>
+      <DefaultText>"Я недостоин быть жрецом", — говорит он, сжимая кулаки так сильно, что под кожей виднеются белые кости. — "Но я вложил так много сил! Пожалуйста, не говори Мину о том, что я натворил!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>53</ID>
+      <DefaultText>Follow-up PQ. 53</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>54</ID>
+      <DefaultText>"Ты с ней знаком?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>55</ID>
+      <DefaultText>"Напомни, что ты думаешь о Мемовире".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>56</ID>
+      <DefaultText>"Видел один раз", — произносит он, закрывая глаза. — "Надеюсь, и последний. Т-т-ты ведь в курсе, что говорят о жизни в Цветении. О том, как беспощадны люди там".
+
+Он поеживается. "Хуже нее ты и представить никого не сможешь".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>57</ID>
+      <DefaultText>"Она жуткая. Б-б-беспощадная".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>58</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>59</ID>
+      <DefaultText>"С чего ты решил, что она отправила за тобой людей?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>60</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>61</ID>
+      <DefaultText>"Не только за мной", — говорит он. — "Во мне нет ничего особенного. Ей просто нужен абсолютный контроль над всеми". 
+
+Он сжимает зубы. "Я лишь самая легкая добыча".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>62</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>63</ID>
+      <DefaultText>Он переводит взгляд с вас на Мэткину: 
+
+"Разумеется, я знаю, кто ты. Она все еще ищет тебя. И мне придется сообщить ей... сказать, что..."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>64</ID>
+      <DefaultText>"Валяй", — лениво произносит Мэткина. — "Я как раз собиралась к ней в гости".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>65</ID>
+      <DefaultText>""
+{GAVIN: Faction path. Set to blank global for now.}
+{SCRIPT: Only available if Lan is a full Aeon Priest.}
+{SCRIPT: Disables Node 73.}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>66</ID>
+      <DefaultText>""
+{GAVIN: Enable this info in Beleaza's conversation.}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>67</ID>
+      <DefaultText>"Отлично", — говорит он, облегченно вздохнув.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>70</ID>
+      <DefaultText>"Давай поговорим о чем-нибудь другом".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>71</ID>
+      <DefaultText>"Думаю, этой информации достаточно. Прощай, Лан".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>72</ID>
+      <DefaultText>"Прошу, не говори Мину!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>73</ID>
+      <DefaultText>""
+{GAVIN: Faction path. Set to blank global for now.}
+{SCRIPT: Only available if player know Lan is a spy.}
+{SCRIPT: Disables Node 65.}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>75</ID>
+      <DefaultText>""
+{GAVIN: Enable this info in Beleaza's conversation.}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>76</ID>
+      <DefaultText>"Ах, эти сны", — говорит он. "Чем страшнее, тем лучше".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>77</ID>
+      <DefaultText>Он угрюмо кивает. Очевидно он не ожидал от вас такой заинтересованности.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>81</ID>
+      <DefaultText>"Откуда подается энергия?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>82</ID>
+      <DefaultText>"Давай поговорим о чем-нибудь другом".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>83</ID>
+      <DefaultText>"Зачем? Неужели все так сложно?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>84</ID>
+      <DefaultText>"Я так не думаю", — говорит он, опуская взгляд. "Но люди иногда бывают, эммм, нетерпеливы. Или злятся. Или смеются".
+
+Он поднимает взгляд: "Но я все расскажу. Эммм. Если тебе и впрямь это важно знать".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>85</ID>
+      <DefaultText>"Так и есть".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>86</ID>
+      <DefaultText>"Нет, не настолько. Спасибо, что предупредил".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>87</ID>
+      <DefaultText>"Не за что", — несчастным голосом произносит он.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>89</ID>
+      <DefaultText>"Мне придется тебя убить".
+
+{GAVIN: Can the player actually follow up on this? If not, it could be misleading.}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>90</ID>
+      <DefaultText>"Тебя выгонят за это из Ордена".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>91</ID>
+      <DefaultText>"Тебя поставили в безвыходное положение. Ты не виноват".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>92</ID>
+      <DefaultText>"Делай, что должен", — говорит он. — "Но только прошу, не рассказывай Мину. Он меня никогда не простит".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>93</ID>
+      <DefaultText>"Нет!" — восклицает он. — "Прошу, не говори Мину!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>94</ID>
+      <DefaultText>"С-с-спасибо", — говорит он, опуская взгляд. — "Но только прошу, не рассказывай Мину. Он меня никогда не простит".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>95</ID>
+      <DefaultText>"Прощай".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>96</ID>
+      <DefaultText>"Верно. Эммм. Прощай".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>98</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>99</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>100</ID>
+      <DefaultText>"Что нужно сделать, чтобы стать Жрецом Вечности?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>101</ID>
+      <DefaultText>"Повтори, что требуется, чтобы стать полноправным Жрецом Вечности".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>102</ID>
+      <DefaultText>"Нужно сделать великое открытие", — несчастно произносит он. — "Но это уже неважно. Мин ни за что не примет меня в Орден, зная, что я шпионил во вред ему".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>103</ID>
+      <DefaultText>"Нужно сделать великое открытие", — произносит он, отвернувшись. — "Но Мин теперь ни за что не примет меня в Орден".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>104</ID>
+      <DefaultText>"Нужно сделать великое открытие", — произносит он. — "Разгадать тайну, которая долгое время оставалась необъяснимой. Но я провел слишком много времени, занимаясь своим собственным исследованием". Он опускает взгляд. "Но оно оказалось бесполезным".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>105</ID>
+      <DefaultText>"Великое открытие", — говорит он. — "Я планировал отправиться на Риф в экспедицию. Но я постоянно ее откладываю". Он вздыхает: "Я к ней еще не готов".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>109</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>110</ID>
+      <DefaultText>"Я расскажу тебе о том, что мне удалось найти. Можешь присвоить эти знания себе и стать Жрецом Вечности".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>111</ID>
+      <DefaultText>"Давай подумаем, как помочь тебе стать Жрецом Вечности".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>112</ID>
+      <DefaultText>"Правда?" — говорит он, бледнея. "А так... можно?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>113</ID>
+      <DefaultText>"Хорошо", — говорит он осторожно, будто стараясь удержать равновесие на ледяном склоне. "Чтобы вступить в Орден, мне нужно сделать великое открытие. Тебе удалось найти что-нибудь?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>114</ID>
+      <DefaultText>"Нет, но какая разница? У тебя все равно получится".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>115</ID>
+      <DefaultText>"Ты посвятил себя исследованию. Думай о нем, как о коллеге, который поддерживает твои труды".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>116</ID>
+      <DefaultText>"Наверное, нет. Не важно".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>117</ID>
+      <DefaultText>"Ладно", — говорит он, — "Эммм. Если передумаешь..."
+
+Он замолкает.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>118</ID>
+      <DefaultText>"Да! Конечно, да!" — говорит он. "Что тебе удалось найти?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>119</ID>
+      <DefaultText>"Так ты хочешь вступить в Орден или нет?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>120</ID>
+      <DefaultText>"Наверное", — говорит он неуверенно. "Хорошо. Что тебе удалось найти?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>121</ID>
+      <DefaultText>Его щеки вспыхивают так сильно, что удивительно, как при этом не загорается одежда. 
+
+"Спасибо", — говорит он. — "Я готов. Ч-ч-что тебе удалось найти?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>123</ID>
+      <DefaultText>"Под городом есть вероятностные двигатели, которые создают, пусть и с ошибками, копии женщины из прошлого. Они были сконструированы Меняющимся Богом".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>126</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>127</ID>
+      <DefaultText>"На самом деле, я вернусь позже".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>128</ID>
+      <DefaultText>"Ладно, не обращай внимания".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>130</ID>
+      <DefaultText>"Ооо", — говорит он. "Эммм. Как скажешь".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>131</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>132</ID>
+      <DefaultText>"Когда найду что-нибудь стоящее, расскажу".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>133</ID>
+      <DefaultText>"Я еще не нашел то, что тебе может пригодиться".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>134</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>135</ID>
+      <DefaultText>"Что за открытие может помочь тебе?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>136</ID>
+      <DefaultText>"Повтори, какое открытие может помочь тебе".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>139</ID>
+      <DefaultText>"Одно из самых великих", — расстроенно произносит он. — "Например такое, которое является причиной непрекращающихся проблем города. Или разгадка тайны, которая долгое время оставалась необъяснимой".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>140</ID>
+      <DefaultText>"Это должны быть разгадка тайны или решение проблемы, до которых никто не сумел додуматься за *долгие-долгие годы*".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>141</ID>
+      <DefaultText>"Правда?" — говорит он, раскрыв глаза. — "Двигатели? *Невероятно*!" Его взгляд устремляется вдаль: 
+
+"Это подойдет! Я читал об этом явлении. Все читали. Но никто и не догадывался, что вероятностные двигатели были связаны с женщиной до своего появления!"
+
+Он уже улыбается: "Так вот, что ты имеешь в виду? Одна и та же женщина то и дело перерождается? Ооо, Мину это *понравится*!" Он убегает, лучась улыбкой.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>142</ID>
+      <DefaultText>Лан, в конце концов, возвращается. На нем новенькая и чистая одежда, на которой все еще видны складки. Похоже, он на грани обморока. 
+
+"Я стал жрецом", — хрипит он. — "Спасибо. *Огромное* тебе спасибо". 
+
+Он ударяет по столу, пораженный изменениями в своей судьбе. Затем он достает то, что искал: один из своих прототипов искусственного интеллекта. 
+
+"Возьми", — говорит он, протягивая его вам.
+{LOOT}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>143</ID>
+      <DefaultText>"Вы только посмотрите!" — бормочет она. — "Ты сам стал творцом, Лан. Он прекрасен".
+
+Она смотрит на вас: "Можно подержать? Пожалуйста?"
+{RHIN}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>145</ID>
+      <DefaultText>"Конечно, бери".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>146</ID>
+      <DefaultText>"Его подарили мне".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>147</ID>
+      <DefaultText>"Оо", — разочарованно произносит она, — "Хорошо. Не стоило даже просить".
+{RHIN}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>148</ID>
+      <DefaultText>Когда она берет его, ее глаза светятся благоговением. 
+{RHIN}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>149</ID>
+      <DefaultText>Лан похлопывает вас по плечу, затем бледнеет, потрясенный своей дерзостью.
+
+"Дай знать, если понадобится помощь", — говорит он, потупив взгляд.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>150</ID>
+      <DefaultText>[DEBUG: make Lan a priest]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>151</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>152</ID>
+      <DefaultText>"Эммм. Это самое малое, чем я смогу тебя отблагодарить".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>156</ID>
+      <DefaultText>"Могу рассказать, кто и как убивает людей в Подбрюшье".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>157</ID>
+      <DefaultText>"Нет!" — восклицает он встревоженно. — "Эммм. В смысле, это не то открытие, которым заинтересуются в Ордене. Они занимаются древними тайнами. Артефактами". Он беспокойно облизывает губы.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>158</ID>
+      <DefaultText>"Как и все", — говорит он, упав духом. — "Спасибо за попытку".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>159</ID>
+      <DefaultText>"Ты знаешь о стихусах и об ущербе, который они наносят городу?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>162</ID>
+      <DefaultText>"Тебя могут удивить мои слова".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>163</ID>
+      <DefaultText>"Скажи мне, почему ты считаешь ее беспощадной".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>165</ID>
+      <DefaultText>"Сомневаюсь. После того, что я видел, я в этом не уверен".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>166</ID>
+      <DefaultText>"Тогда не бери в голову".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>167</ID>
+      <DefaultText>"Я рад", — говорит он, сглотнув. — "Мне все еще снятся кошмары".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>168</ID>
+      <DefaultText>"Что такое Цветение?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>169</ID>
+      <DefaultText>Он на мгновение запинается. Радость от возможности поделиться интересной информацией вступает в противоречие со страхом, который вызывает у него поднятая тема. 
+
+"Хищник размером с целый город, который лежит у Утесов Сагуса. Внутри него живут люди. Там происходят ужасные вещи, за которыми обычно стоит Мемовира". Его передергивает. "Не стоит переходить ей дорогу".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>170</ID>
+      <DefaultText>"Это не просто *догадки*. Это не теория. Я *видел* ее за работой".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>171</ID>
+      <DefaultText>Он по-детски закрывает глаза. 
+
+"Когда я встретил ее, к разделявшему нас столу был прикован мужчина. Один из ее... п-п-палачей, как мне показалось, трудился над ним. Сдирал с него кожу полоса за полосой. Он кричал и кричал, но..."
+
+Он потирает глаза. "Она говорила в перерывах между криками. Голос она ни разу не повысила. И она так и не сказала, чем же ее разочаровал тот человек. Думаю, она просто решила одновременно разделаться и с ним, и со мной".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>174</ID>
+      <DefaultText>Лан смотрит на вас, потом резко отводит взгляд, словно ваш вид причиняет ему боль. 
+
+"С-с-спасибо, что убедил Мина позволить мне остаться. Не знаю, куда еще я мог бы пойти".</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

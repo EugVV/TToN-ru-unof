@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\c_bloom\c4301_mutant_goon_02</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>3</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>0</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>"Разок... хотя бы разок... показать бы бандитам Мемовиры, насколько они слабы".</DefaultText>
+      <FemaleText>"Разок... хотя бы разок... показать бы бандитам Мемовиры, насколько они слабы".</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>"Жалкие люди. Как только мы позволили вам запугать нас?"</DefaultText>
+      <FemaleText>"Жалкие люди. Как только мы позволили вам запугать нас?"</FemaleText>
+    </Entry>
+  </Entries>
+</StringTableFile>

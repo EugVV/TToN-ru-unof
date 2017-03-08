@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\a_sagus\a2201_mother_temaz_dead</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>11</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>Мать Темаз исчезла. В том, что с ней случилось, нет никакой тайны. С края утеса вы видите руины ее дома и следы окровавленных пальцев, цеплявшихся за камни. Она упала в море далеко внизу вместе со своим домом.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>Обыскать булыжники.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>Уйти.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>В маленькой каменной емкости на сломанной крыше вы находите длинную нитку причудливого вида бус — тех самых бус, которые Мать Темаз сжимала в руках при вашей последней встрече. Вы кладете их в карман и отходите от края обрыва.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>Вы осматриваете руины дома, но не находите больше ничего, что стоило бы забрать.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>Заглянув за край утеса, вы видите руины дома и следы окровавленных пальцев, цеплявшихся за камни. Кто бы здесь ни жил, он упал в море далеко внизу вместе со своим домом.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>Внизу лежат руины дома, стоявшего на краю утеса.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>Но, возможно, после них осталось что-нибудь ценное. И они уж точно не вернутся за этим.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>Возможно, после акушерки осталось что-нибудь ценное, и она уж точно не вернется за этим.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>В маленькой каменной емкости на сломанной крыше вы находите длинную нитку причудливого вида бус. Вы кладете их в карман и отходите от края обрыва.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

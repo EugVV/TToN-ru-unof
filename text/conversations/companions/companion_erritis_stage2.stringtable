@@ -1,0 +1,1329 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\companions\companion_erritis_stage2</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>248</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>Вы видите Эрритиса, задумчиво смотрящего на небо. Его необычайно бледная кожа кажется почти бронзовой в окружающем его золотистом сиянии.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>"Пришло время для нашего разговора? Тогда давай поговорим!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>"Не понимаю, зачем ты продал ту девочку Толь Магуур. Правда, не понимаю".
+{SCRIPT: Only plays if Erritis had already joined the player when Rhin was sold. Doesn't matter if he was in the party. Should display as Erritis wanting to speak to the player.}
+{GAVIN: Should be moved to Rhin.}</DefaultText>
+      <FemaleText>"Не понимаю, зачем ты продала ту девочку Толь Магуур. Правда, не понимаю".
+{SCRIPT: Only plays if Erritis had already joined the player when Rhin was sold. Doesn't matter if he was in the party. Should display as Erritis wanting to speak to the player.}
+{GAVIN: Should be moved to Rhin.}</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>Тускло-бронзовые полосы пронизывают золотистую ауру Эрритиса.
+
+"Возможно, ты не знал этого, но она не хотела уходить", — добавляет он, теребя свой камзол. "Не думаю, что стоило принуждать ее покинуть нас. Люди имеют право идти куда хотят и узнавать новое". Его губа подрагивает. "Они не должны быть рабами".
+
+Он смотрит вам в глаза. "Пожалуйста, скажи мне, зачем ты сделал это".</DefaultText>
+      <FemaleText>Тускло-бронзовые полосы пронизывают золотистую ауру Эрритиса.
+
+"Возможно, ты не знала этого, но она не хотела уходить", — добавляет он, теребя свой камзол. "Не думаю, что стоило принуждать ее покинуть нас. Люди имеют право идти куда хотят и узнавать новое". Его губа подрагивает. "Они не должны быть рабами".
+
+Он смотрит вам в глаза. "Пожалуйста, скажи мне, зачем ты сделала это".</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>"Она сбежит. Она такая же сильная, как и все мы".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText>"В нашем мире нет места добросердечности, Эрритис. Пройдя это испытание, она станет сильнее, чем была прежде".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText>"Я сделал это потому, что мог. Запомни это".</DefaultText>
+      <FemaleText>"Я сделала это потому, что могла. Запомни это".</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>14</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>15</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>16</ID>
+      <DefaultText>"Ты так думаешь?" — спрашивает он, и надежда озаряет его лицо. "Я имею в виду, что наверняка сбежал бы. Но я быстр, силен и сообразителен".
+
+Он вздыхает. "Она тоже быстра. И умна. Но она совсем маленькая по сравнению с нами. Не думаю... Не думаю, что стоило продавать ее. Пожалуй, тебе нужно что-то сделать с этим".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>17</ID>
+      <DefaultText>"Хорошо", — тихо говорит он. "Я этого никогда не забуду".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>18</ID>
+      <DefaultText>"Но мы и сами помогли бы ей стать сильнее!" Эрритис возражает. "Я бы научил ее жонглировать ножами!"
+
+Он делает паузу. "Пожалуй, мы начали бы с острых прутиков. Но теперь это не имеет значения! Она ушла, и больше мы ей ничем не поможем!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>19</ID>
+      <DefaultText>Эрритис смотрит вам в глаза, отводит взгляд и снова смотрит на вас. Кажется, что его гложет чувство вины.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>21</ID>
+      <DefaultText>Когда вы смотрите в его сторону, Эрритис виновато прячет помятый клочок бумаги в свой камзол. Он роняет огрызок карандаша на землю, и тот падает рядом с его ботинком.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>22</ID>
+      <DefaultText>"Я больше не могу скрывать это", — признает он. "Это было письмо. Письмо в стихах. Написанное самыми... самыми поэтичными словами из тех, что мне известны".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>23</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>24</ID>
+      <DefaultText>"Для кого ты пишешь это письмо?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>25</ID>
+      <DefaultText>"Не знал, что ты умеешь писать".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>26</ID>
+      <DefaultText>"А", — отвечает он, нервно сглотнув и не поднимая взгляда от своих ботинок. "Для одной женщины. Я не готов назвать тебе ее имя, но ты тоже знаешь ее. Можно сказать, она похитила мое сердце, но она убийца, а не воровка".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>27</ID>
+      <DefaultText>"О, я умею", — серьезно отвечает он. "За что бы я ни взялся, я оказываюсь лучшим в этом деле, не прикладывая особых усилий. Фехтование, обратные сальто, письмо, приручение зверей... однако следует признать, что у меня возникли сложности с последней строфой". Окружающее его свечение постепенно угасает. "Не могу найти рифму к слову «выпотрошенный»".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>28</ID>
+      <DefaultText>"Великие плачущие механические боги", — бормочет Мэткина, потирая глаза.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>29</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30</ID>
+      <DefaultText>"Я думал о человеке, о котором ты говорил. О господине Реннио. Как ты думаешь, он все еще расстроен?"</DefaultText>
+      <FemaleText>"Я думал о человеке, о котором ты говорила. О господине Реннио. Как ты думаешь, он все еще расстроен?"</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>31</ID>
+      <DefaultText>"Да, и я понимаю, почему. Ты ведь украл его дирижабль и разбил его".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>32</ID>
+      <DefaultText>"Кого это волнует?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>33</ID>
+      <DefaultText>"Наверное, он уже забыл обо всем этом".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>34</ID>
+      <DefaultText>Он несколько раз моргает, начиная осознавать услышанное. 
+
+"Пожалуй, нужно как-нибудь увидеться с ним и рассказать ему о своих удивительных приключениях. Может быть, это развеселит его".
+
+Его лицо светится радостью, и свечение вокруг него становится ярче. "Да! Ладно! Что ты хочешь узнать?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>35</ID>
+      <DefaultText>"Меня", — искренне признается он. "Я не жалею, что украл дирижабль. Это было замечательное приключение. Но мне бы не хотелось, чтобы кто-то был зол на меня". 
+
+Он сжимает губы. "Ладно! Что ты хочешь узнать?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>36</ID>
+      <DefaultText>"Как необычно", — говорит он, нахмурившись. "У меня никак не получается забыть об этом".
+
+Он поднимает голову. "Ладно! Что ты хочешь узнать?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>37</ID>
+      <DefaultText>"Теперь нам нужно разделиться".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>38</ID>
+      <DefaultText>"Что нам теперь делать?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>39</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>40</ID>
+      <DefaultText>"Поговорим в другой раз".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>41</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>42</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>43</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>44</ID>
+      <DefaultText>"Отличная идея!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>45</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>46</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>47</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>53</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>54</ID>
+      <DefaultText>"Разберись!" — кричит он. "Нет! Нам придется участвовать в сражениях! Постойте-ка. Давай откроем эту древнюю тайну!"
+
+Он делает паузу. "Или мы могли бы встретиться с этими сектантами в Малом Круге, о котором говорил наш друг. Долгие серьезные разговоры нагоняют на меня сон, но им может быть известно, где идут сражения и где хранятся древние тайны".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>55</ID>
+      <DefaultText>"Давай поговорим с сектантами в Малом Круге".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>56</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>57</ID>
+      <DefaultText>"Мы же ищем убийцу по имени Мэткина, так?" — обеспокоенно говорит он. "Кто-то говорил об этом или мне снова померещилось?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>58</ID>
+      <DefaultText>"Давай отыщем эту убийцу. Мэткина, я думаю, это была она".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>59</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>60</ID>
+      <DefaultText>"Нам нужно покинуть город и найти Миэль Авест, помнишь?" — говорит он, в волнении переминаясь с ноги на ногу. "Мы найдем открытую дорогу и пойдем по ней! Исследовать древние руины! Взбираться на утесы! Готовить пищу на костре!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>61</ID>
+      <DefaultText>"Пойдем в Миэль Авест!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>64</ID>
+      <DefaultText>"Давай попробуем сомнительной еды!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>65</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>66</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>67</ID>
+      <DefaultText>"Меня интересует твое мнение о людях, с которыми мы путешествуем".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>68</ID>
+      <DefaultText>"Я хочу еще раз обсудить, что ты думаешь о людях, с которыми мы путешествуем".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>69</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>70</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>72</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>73</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>74</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>75</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>76</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>77</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>78</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>82</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>83</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>84</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>85</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>86</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>87</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>88</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>89</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>90</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>91</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>92</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>93</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>94</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>95</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>96</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>98</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>100</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>101</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>102</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>103</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>107</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>108</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>109</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>110</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>111</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>112</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>113</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>114</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>115</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>116</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>117</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>118</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>119</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>120</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>121</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>122</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>123</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>124</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>125</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>126</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>127</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>128</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>129</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>130</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>131</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>132</ID>
+      <DefaultText>"У меня есть к тебе несколько вопросов".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>133</ID>
+      <DefaultText>"Работа на Реннио была скучной?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>134</ID>
+      <DefaultText>"Поначалу", — восторженно произносит он. "Но я считаю, ты должен отыскать свое собственное приключение. А если нет, его надо откопать. И лучше всего лопатой! А если ты там ничего не найдешь..."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>135</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>136</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>137</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>138</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>139</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>140</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>141</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>142</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>143</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>144</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>145</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>146</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>147</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>148</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>149</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>150</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>151</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>152</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>153</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>154</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>155</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>156</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>157</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>158</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>159</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>160</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>161</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>162</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>163</ID>
+      <DefaultText>"Ты серьезно думаешь о поджоге?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>164</ID>
+      <DefaultText>"Звучит забавно. Когда начинаем?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>165</ID>
+      <DefaultText>"Нет!" — в шоке произносит он. "В любом случае, не сегодня. Нам есть чем заняться!"
+
+Снова это отсутствующее выражение лица от осознания надвигающегося голода. "Я просто планирую заранее. Если все получится..."
+
+У него такое выражение лица, будто каждое слово, которое он пытается произнести, причиняет ему боль.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>166</ID>
+      <DefaultText>"О, не сегодня", — произносит он. "Я думаю, нам есть чем заняться. Так ведь?"
+
+Снова это отсутствующее выражение лица от осознания надвигающегося голода. "Ладно. Я просто планирую заранее. Если все получится... хм..."
+
+У него такое выражение лица, будто каждое слово, которое он пытается произнести, причиняет ему боль.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>167</ID>
+      <DefaultText>"А ты нет?" — уныло произносит он. "Это звучало многообещающе. Но ты прав. В последнее время я беру на себя слишком много. Я бы не хотел увязнуть в колее".
+
+Снова это отсутствующее выражение лица от осознания надвигающегося голода. "Я думаю, нам будет очень весело вместе. Я *чувствую* это. В любом случае, я просто планирую заранее. Если все получится... "
+
+У него такое выражение лица, будто каждое слово, которое он пытается произнести, причиняет ему боль.</DefaultText>
+      <FemaleText>"А ты нет?" — уныло произносит он. "Это звучало многообещающе. Но ты права. В последнее время я беру на себя слишком много. Я бы не хотел увязнуть в колее".
+
+Снова это отсутствующее выражение лица от осознания надвигающегося голода. "Я думаю, нам будет очень весело вместе. Я *чувствую* это. В любом случае, я просто планирую заранее. Если все получится... "
+
+У него такое выражение лица, будто каждое слово, которое он пытается произнести, причиняет ему боль.</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>168</ID>
+      <DefaultText>"Мне не нравится, чем это все может завершиться".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>169</ID>
+      <DefaultText>"Скучно?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>170</ID>
+      <DefaultText>"Безопасно до поры до времени?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>171</ID>
+      <DefaultText>"Медленно?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>172</ID>
+      <DefaultText>"Да!" — вздрагивает он. "Мне нужно движение. Унылые секунды превращаются в минуты, и целыми *часами* ничего не происходит! А потом ты умираешь от старости", — говорит он, утирая слезы. 
+
+"Но ты здесь не для того, чтобы говорить обо мне", — произносит он, прищуриваясь. "Или для этого?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>173</ID>
+      <DefaultText>"Да. Или, что еще хуже, *скукотища*". Его передергивает:
+
+"Но ты здесь не для того, чтобы говорить обо мне". Он щурится. "Или для этого?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>174</ID>
+      <DefaultText>"Хорошо сказано!" — с восторгом произносит он. "Я бы не смог сказать лучше. Я *знал*, что ты собирался рассказать мою историю", — радостно растягивая слова, продолжает он. "Но ты здесь не для того, чтобы говорить обо мне". Он щурится. "Или для этого?"</DefaultText>
+      <FemaleText>"Хорошо сказано!" — с восторгом произносит он. "Я бы не смог сказать лучше. Я *знал*, что ты собиралась рассказать мою историю", — радостно растягивая слова, продолжает он. "Но ты здесь не для того, чтобы говорить обо мне". Он щурится. "Или для этого?"</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>175</ID>
+      <DefaultText>"Ты что-то скрываешь?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>176</ID>
+      <DefaultText>Вернуть ему его карандаш.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>177</ID>
+      <DefaultText>"Нет", — говорит он, отводя взгляд. Золотистое сияние вокруг него тускнеет и он вздрагивает. "Да!" — заявляет он через мгновение. "Я не могу ничего скрывать от тебя".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>178</ID>
+      <DefaultText>Вы подбираете карандаш с земли и молча отдаете ему. 
+
+"Спасибо", — бормочет он, отводя взгляд. "Я вел точные записи. Сочинял мемуары. Чертил на листе".
+
+Его золотистое сияние тускнеет, и он вздрагивает. "Нет. Я не могу тебя обманывать".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>179</ID>
+      <DefaultText>Забудь об этом.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>180</ID>
+      <DefaultText>Он наклоняется, прячет карандаш в карман и кивает одновременно с благодарностью и опаской. 
+
+"Ничего важного. Ничего интересного. Вообще ничего. В любом случае, еще не готово". 
+
+Он опускает невинный взгляд. "Ладно. О чем ты хочешь поговорить?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>181</ID>
+      <DefaultText>Он смотрит на вас, специально давая понять, что не обращает внимания на Мэткину. 
+
+"Я больше не могу скрывать это", — признает он. "Это было письмо. Письмо в стихах. Написанное самыми... самыми поэтичными словами из тех, что мне известны".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>182</ID>
+      <DefaultText>Он наклоняется, прячет карандаш в карман и украдкой бросает взгляд на Мэткину. 
+
+"Ничего важного", — говорит он вам, расправляя свой камзол. "Ничего интересного. Вообще ничего. В любом случае, еще не готово". 
+
+Он опускает невинный взгляд. "Ладно. О чем ты хочешь поговорить?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>183</ID>
+      <DefaultText>"Не беспокойся. Это не мое дело".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>184</ID>
+      <DefaultText>"Нет?" — встревоженно произносит он. "Ладно, не беспокойся. Я сделаю это твоим делом!" 
+
+Волнуясь, он опускает взгляд на свои ботинки. "Это письмо... для особой женщины. Я не готов назвать тебе ее имя, но ты тоже знаешь ее. Можно сказать, она похитила мое сердце, но она убийца, а не воровка".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>185</ID>
+      <DefaultText>"Не думаю, что ты ей интересен, Эрритис".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>186</ID>
+      <DefaultText>"Удачи, Эрритис. Ты должен слушать свое сердце".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>187</ID>
+      <DefaultText>"Я так и делаю", — говорит Эрритис, кивая. "Даже если мне придется покинуть утес". Он выпрямляется. "Особенно если это произойдет!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>188</ID>
+      <DefaultText>"Да", — говорит Эрритис, жмурясь. "Ты стар. Должно быть, ты одерживал тысячи романтических побед".</DefaultText>
+      <FemaleText>"Да", — говорит Эрритис, жмурясь. "Ты стара. Должно быть, ты одерживала тысячи романтических побед".</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>189</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>190</ID>
+      <DefaultText>"Постой. «Более опытный в делах любовных»?"</DefaultText>
+      <FemaleText>"Постой. «Более опытная в делах любовных»?"</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>191</ID>
+      <DefaultText>"Откуда тебе знать?" — говорит Эрритис, хмурясь. "Я никогда не говорил тебе ее имя. Впрочем, это не имеет значения. Я должен слушать свое сердце, даже если мне придется покинуть утес".
+
+Он выпрямляется. "Особенно если это произойдет!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>192</ID>
+      <DefaultText>Мэткина бубнит себе под нос.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>193</ID>
+      <DefaultText>"Ладно!" — говорит он, убирая серьезное выражение лица, как уже ненужную завесу. "Что тебе было нужно?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>195</ID>
+      <DefaultText>"Должно быть, ты думаешь, я странно себя веду", — вздыхая, произносит Эрритис. "Ты старше и опытнее в любовных делах". Он бьет его по руке своей ладонью. "Я лучший во всем, за что берусь. Она полюбит меня, если я скажу правильные слова! Я уверен!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>199</ID>
+      <DefaultText>"Ты скрывал это от нас?" — возмущенно произносит Тибир. "Там, откуда я родом, неприлично держать свои грязные истории в секрете, парень".</DefaultText>
+      <FemaleText>"Ты скрывала это от нас?" — возмущенно произносит Тибир. "Там, откуда я родом, неприлично держать свои грязные истории в секрете, барышня".</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>200</ID>
+      <DefaultText>"О, *неужели* это так?" — говорит она, поворачиваясь к вам. Ее глаза блестят с усмешкой. "Иногда тебе придется нам их рассказывать. А я буду отвечать взаимностью, конечно же. История за историю".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>202</ID>
+      <DefaultText>На Алигерна нападает приступ кашля. Или смеха. Ему сложно говорить, он только хрипит.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>203</ID>
+      <DefaultText>"О причинах я умолчу".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>204</ID>
+      <DefaultText>"О", — произносит он и его аура тускнеет еще больше. Он пытается улыбаться, но это не совсем уместно. 
+
+"Может быть, ты изменишь свое мнение на этот счет", — говорит он. В его словах прослеживается явная надежда. "Хотя бы насчет чего-нибудь".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>205</ID>
+      <DefaultText>"Поговорим в другой раз. Я устал".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>206</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>207</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>208</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>209</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>210</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>211</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>212</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>213</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>214</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>215</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>216</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>217</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>218</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>219</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>220</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>221</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>222</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>223</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>235</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>236</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>237</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>238</ID>
+      <DefaultText>"Теперь это сделано, дитя".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>239</ID>
+      <DefaultText>"О, ну вот. Похоже, ты настроил его".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>240</ID>
+      <DefaultText>"Отлично. Ты настроил его"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>241</ID>
+      <DefaultText>"Он собирается продолжить разговор, не так ли?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>242</ID>
+      <DefaultText>"О, великолепно. Ты настроил его"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>243</ID>
+      <DefaultText>Он умолкает. 
+
+"Ну что я *тебе* говорил?" — радостно произносит он. "Ты знаешь все это. Мы оба — искатели приключений!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>244</ID>
+      <DefaultText>"О той лопате, что я говорил...", — продолжает Эрритис, не подозревая ни о каких перебоях. "И если ничего не происходит, скорее всего, тебя окружили духи машин. Со мной такое случалось однажды. В такой ситуации нужно быть осторожным. Во-первых, нужно снять с себя всю одежду. Этот совет может показаться странным, но это будет необходимо в..." 
+
+Он умолкает, растерявшись. "Я забыл, о чем я говорил".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>251</ID>
+      <DefaultText>"Приключение".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>252</ID>
+      <DefaultText>"Слава богам".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>254</ID>
+      <DefaultText>Алигерн ворчит.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>255</ID>
+      <DefaultText>Каллистеж вздыхает.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>256</ID>
+      <DefaultText>Мэткина бурчит.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>257</ID>
+      <DefaultText>Рин усмехается.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>258</ID>
+      <DefaultText>Тибир тяжело вздыхает.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>259</ID>
+      <DefaultText>"Я? Ну что я *тебе* говорил?" — радостно произносит он. "Ты знаешь об этом все. Мы оба — искатели приключений!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>260</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>262</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>263</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>264</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>265</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>266</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>267</ID>
+      <DefaultText>Эрритис замолкает с выражением боли на лице и больше ничего не говорит.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>268</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>270</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>271</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>272</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>273</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>274</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>275</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>276</ID>
+      <DefaultText>"А что насчет всего этого между нами?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>277</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>279</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>281</ID>
+      <DefaultText>"Постой. Кажется, за нами следят. Я такое сразу чую!"
+{SCRIPT: General note: all Matkina/Erritis bark conversations need to be gated with g_erritis_meets_matkina=1. He needs to spot her 'for the first time' before they can have their miscellaneous banters.}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>282</ID>
+      <DefaultText>Он берет вас за плечи, оглядываясь вокруг, и явно впервые замечает Мэткину. У него отвисает челюсть.
+
+"Хм".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>283</ID>
+      <DefaultText>"Что? Почему ты так смотришь на меня?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>284</ID>
+      <DefaultText>Эрритис делает вдох и вновь пытается заговорить. 
+
+"Мм", — только и удается ему выдавить, как будто он тонет. Его золотистая аура пульсирует, скорее всего, в такт с сердцебиением.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>285</ID>
+      <DefaultText>Она немигающим взглядом смотрит на него и поворачивается к вам. "Почему он так смотрит на меня?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>286</ID>
+      <DefaultText>"Я рискнул бы предположить, почему, но не думаю, что это необходимо".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>287</ID>
+      <DefaultText>Она пристально смотрит на вас, пытаясь понять ваш ироничный намек. На ее лице отражается понимание, которое медленно сменяется ужасом. 
+
+"Не надо", — говорит она Эрритису. — "Правда, не надо. Если у меня и *есть* любимый типаж, ты к нему не относишься".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>288</ID>
+      <DefaultText>Эрритис делает прерывистый вдох и моргает. Все его тело напряжено, с видимым усилием он отводит взгляд от Мэткины. 
+
+"О чем... о чем мы говорили?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>289</ID>
+      <DefaultText>"Из вас двоих получилась бы прекрасная парочка".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>290</ID>
+      <DefaultText>Ее глаза расширяются, в них написан ужас. Потом она переводит враждебный взгляд на Эрритиса. 
+
+"Не надо", — говорит она Эрритису. — "Правда, не надо. Если у меня и *есть* любимый типаж, ты к нему не относишься".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>291</ID>
+      <DefaultText>"Мне нужно подняться на крышу какого-нибудь здания. Нет. На крышу башни. И спрыгнуть с самого верха. Было бы неплохо, если бы башня горела. Да. Да и еще раз да".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>292</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>293</ID>
+      <DefaultText>Его глаза сияют изможденным блеском. "Пожалуй, пора это сделать".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>294</ID>
+      <DefaultText>Эрритис моргает.</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

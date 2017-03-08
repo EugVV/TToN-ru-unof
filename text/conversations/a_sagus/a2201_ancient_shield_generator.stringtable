@@ -1,0 +1,196 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\a_sagus\a2201_ancient_shield_generator</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>36</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>Только одна их этих консолей в машине работает. Мерцающие огоньки гаснут под слоями грязи и ржавчины.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>Эта безмолвная и древняя машина отбрасывает длинную тень. Когда вы начинаете ее изучать, дыхание в вашей груди учащается, а ваши руки начинают дрожать. Вас не будет покидать чувство, что вы как будто уже стояли на этом самом месте и раньше.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>Осколки памяти струятся из этой поломанной машины, возбуждая ваши чувства.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>Тусклый свет мерцает по краям ржавого монолита.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>Follow-up PQ. 31</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>Вы проводите рукой по кое-как скрепленным деталям и грязным кабелям. Кнопки стерты от частых нажатий. Удивительный механизм! Такой неповоротливый, но исполнительный. На вид неказистый, но работает мастерски. Только гению под силу собрать рабочее устройство из столь не сочетающихся друг с другом деталей. 
+
+Вы слышите шепот чужих воспоминаний. Это устройство использовали — хоть вы и не знаете как — для создания поля, которое выдергивает из времени все, что попадает в него.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>Вы чувствуете, что кожа на пальцах огрубела. Вы рассматриваете руку и видите круглые знаки, будто кто-то поставил на них клеймо.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>... совсем как на часах, понимаете вы.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>Этот когда-то работающий генератор состоит из груды несовместимых деталей. Ты замечаешь кольцеобразный символ, вкрапленный в металл, похожий на клеймо изготовителя.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>Изучить устройство.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText>Осмотреть устройство еще раз.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText>Рассмотреть клеймо получше.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>14</ID>
+      <DefaultText>Вы проводите рукой по этому спиралевидному знаку. Здесь находится панель, но она изъедена ржавчиной.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>16</ID>
+      <DefaultText>Follow-up PQ. 5</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>17</ID>
+      <DefaultText>Вы закрываете свои глаза, чтобы лучше сконцентрироваться, погружаетесь в потоки памяти, которые не принадлежат вам — или, по крайней мере, телу в котором вы находитесь... и вы слышите оглушительное сердцебиение рабочего генератора, посылающего вам сигналы через столетия. 
+
+{SOUND: Slow, deep, bassy THUMMING}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>18</ID>
+      <DefaultText>Вы открываете глаза, ваш взгляд холодный и пристальный. Вы не обращаете внимания на крики и замысловато кружащийся в воздухе дым. Вы думаете только об исправности механизма. 
+
+Генератор шипит изнутри, и вы ремонтируете и настраиваете его. Надеетесь, что получится.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>19</ID>
+      <DefaultText>Рокот генератора смолкает. Ваша рука — рука этого тела — лежит на ржавой поверхности давно вышедшего из строя генератора.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20</ID>
+      <DefaultText>В памяти возникает разобранное по частям устройство... Больше вы ничего не можете вспомнить.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>21</ID>
+      <DefaultText>Попытаться понять, почему механизм кажется таким знакомым.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>22</ID>
+      <DefaultText>Попытаться понять еще раз, почему механизм кажется таким знакомым.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>23</ID>
+      <DefaultText>Follow-up PQ. 11</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>24</ID>
+      <DefaultText>Вы нажимаете кнопку под мерцающим огоньком и чувствуете странное, болезненное ощущение под вашим пупком. Это, как будто, кто-то продел крюк в вашу плоть, и тянет его с другого конца тремя очень длинными тросами. 
+
+Один пытается тянуть вас в направлении Малого Круга. Другой тащит вас в направлении к вершине города. А третий — который по ощущению кажется туго натянутым — проводит невидимую нить обратно к Караван-сараю, там где была панель управления телепортации.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>25</ID>
+      <DefaultText>Переместиться в Караван-сарай.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>26</ID>
+      <DefaultText>Невидимая нить резко затягивает вас в абсолютную темноту.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>27</ID>
+      <DefaultText>Переместиться к Малому Кругу.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>28</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>29</ID>
+      <DefaultText>Переместиться на верхнюю точку города.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>31</ID>
+      <DefaultText>Не перемещаться.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>32</ID>
+      <DefaultText>Вы делаете шаг назад. Неприятное чувство пропадает.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>33</ID>
+      <DefaultText>Невидимый крюк проникает вглубь живота и тянет в три разных стороны.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>34</ID>
+      <DefaultText>Воспользоваться рабочей панелью.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>35</ID>
+      <DefaultText>Воспользоваться панелью для телепортации.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>36</ID>
+      <DefaultText>Не подходить к генератору.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>37</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

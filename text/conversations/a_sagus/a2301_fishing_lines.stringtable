@@ -1,0 +1,207 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\a_sagus\a2301_fishing_lines</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>36</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>Эта тонкая сверкающая нить пронизывает поверхность воды и уходит далеко в темную глубину, словно белая линия, нарисованная блестящими чернилами.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>Сверкающая леска пронзает в воду, словно тонкое копье, выкованное из солнечного света.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>Осмотреть леску.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>Оставить рыбацкую леску в покое.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText>Снова потянуть за леску.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText>Потянуть за леску.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>14</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>15</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>16</ID>
+      <DefaultText>Вы пытаетесь дернуть за сверкающую леску, но ваш палец проходит сквозь нее.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>17</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>18</ID>
+      <DefaultText>"Попробуешь поймать что-нибудь для меня? А то мне сегодня не везет. К тому же здешняя рыба куда сильнее меня".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>19</ID>
+      <DefaultText>Вы берете удочку и начинаете вытягивать леску...</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20</ID>
+      <DefaultText>На крючке извивается рыба. Воздух наполняется легким ароматом аниса.
+{LOOT}
+{SOUND: Splash}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>21</ID>
+      <DefaultText>На зазубренном крючке висит внимательная (и даже отчасти саркастическая) рыба.
+{LOOT}
+{SOUND: Splash}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>22</ID>
+      <DefaultText>На крючке висит покрытая какой-то дрянью диковинка. Вы хватаете ее. 
+{LOOT}
+{SOUND: Splash}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>23</ID>
+      <DefaultText>На крючке висит заляпанный тиной шифр. Вы забираете его.
+{LOOT}
+{SOUND: Splash}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>24</ID>
+      <DefaultText>Вы вытягиваете из воды пылающее слово. Хотя язык вам незнаком, вы понимаете, что это слово значит 'потеря'.
+
+Слово плюхается обратно в темную воду и исчезает в глубине, унося с собой почерневший крючок. 
+{SOUND: Splash, sizzling}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>25</ID>
+      <DefaultText>...но, кажется, крючок за что-то зацепился. Вы тянете изо всех сил. Глубоко внизу что-то громко смеется, пуская пузыри. Ваш крючок вылетает из воды, пролетает мимо носа и плюхается обратно рядом с вами.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>26</ID>
+      <DefaultText>Крючок выпрыгивает из воды, оставляя тонкий, противоречащий законам физики столбик воздуха, тянущийся до самого дна. За тот миг, после которого вода обрушивается в пустое пространство, вы успеваете услышать печальную мелодию, что звучит из глубины. 
+{SOUND: Splash, "forlorn melody"}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>27</ID>
+      <DefaultText>...но на крючке ничего нет. Сегодня вода совершенно неподвижна, и в ее глубине не плавают рыбы.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>32</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>33</ID>
+      <DefaultText>Попытаться поймать что-нибудь для Кривой Квик.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>34</ID>
+      <DefaultText>Вы тянете леску, но что-то в толще воды тянет ее *назад*. Вы сжимаете зубы и с трудом вытаскиваете свой улов.
+
+На конце лески болтается грязный шифр.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>35</ID>
+      <DefaultText>"Прелестно!" — восклицает Кривая Квик. — "Я-то надеялась всего лишь на рыбу! Если продам эту штуку, смогу несколько недель покупать еду!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>36</ID>
+      <DefaultText>"Я оставлю это себе".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>37</ID>
+      <DefaultText>Отдать добычу Кривой Квик.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>38</ID>
+      <DefaultText>Радость сходит с ее лица, но она кивает.
+
+"Это твой улов", — тихо произносит она. — "Все честно".
+{LOOT}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>39</ID>
+      <DefaultText>Вы даете шифр ей, и она блаженно жмурится, не скрывая радости.
+
+"Спасибо! Можешь пользоваться моей удочкой, когда пожелаешь!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>41</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>42</ID>
+      <DefaultText>...но на крючке ничего нет. Быть может, завтра вам повезет больше.</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

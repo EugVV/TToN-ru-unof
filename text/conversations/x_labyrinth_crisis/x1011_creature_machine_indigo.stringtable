@@ -1,0 +1,220 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\x_labyrinth_crisis\x1011_creature_machine_indigo</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>42</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>Из аппарата доносится сдавленный звук. Под его обшивкой вы видите две сдувшиеся пневматические камеры, расположенные бок о бок, а также переплетение шнуров и трубок. С первого взгляда сложно понять, где скрывается фрагмент Скорби или каким образом он перекрывает подачу воздуха к стоящему рядом резервуару существа.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>Follow-up PQ. 19</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText>Вы видите шланги, идущие от камер к сплетению проводов, откуда доносится тихое щелканье.
+
+Позади проводов находится прочно закрепленный шестиугольный цилиндр, заполненный крошечными скоплениями движущихся облаков… окутанных сетью иссиня-черных молний — того же цвета, что и фрагменты Скорби. Щелчком пальца вы раскручиваете цилиндр, аппарат кашляет, и воздух начинает свободно поступать в резервуар существа. Теперь оно, пожалуй, достаточно успокоилось, чтобы с ним можно было установить контакт.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText>Внутри этого аппарата царит хаос: идущие во все стороны шланги пересекаются, а иногда и соединяются с проводами. Прежде чем вы успеваете внимательно изучить аппарат, захватившее его существо сгущается и устремляется в вашу сторону, а его конечности обрушиваются на ваш разум.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>14</ID>
+      <DefaultText>Изнутри сплетения проводов доносится тихое щелканье. Позади проводов находится прочно закрепленный шестиугольный цилиндр. В каждой из его шести камер содержится стеклянная трубка, заполненная крошечными скоплениями движущихся облаков… окутанных сетью иссиня-черных молний — того же цвета, что и фрагменты Скорби. Щелчком пальца вы раскручиваете цилиндр, аппарат кашляет, и воздух начинает свободно поступать в резервуар существа. Теперь оно, пожалуй, достаточно успокоилось, чтобы с ним можно было установить контакт.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>15</ID>
+      <DefaultText>Беспорядочное скопление шнуров и шлангов внутри аппарата слишком запутанно — невозможно понять, куда они ведут и для чего предназначены.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>16</ID>
+      <DefaultText>Выяснить, как фрагмент Скорби перекрывает подачу кислорода.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>17</ID>
+      <DefaultText>Еще раз поискать фрагмент Скорби внутри аппарата.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>18</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>19</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>21</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>22</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>23</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>24</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>25</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>26</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>27</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>28</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>29</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>31</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>32</ID>
+      <DefaultText>Уйти.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>33</ID>
+      <DefaultText>Пневматические камеры внутри этого аппарата по-прежнему неподвижны, и находящееся рядом существо, лишенное доступа воздуха, дергается все слабее.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>34</ID>
+      <DefaultText>Воздух свободно поступает в стоящий рядом резервуар существа. Теперь оно, пожалуй, достаточно успокоилось, чтобы с ним можно было установить контакт.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>35</ID>
+      <DefaultText>Цепочки пузырьков чистого кислорода устремляются из этого аппарата к стоящему рядом резервуару существа.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>36</ID>
+      <DefaultText>Фрагмент Скорби, сдавливавший это устройство, покинул его, и трубка, которая ведет к стоящему рядом резервуару существа, наполняется кислородом.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>37</ID>
+      <DefaultText>С трескучим рычанием из этого аппарата выпрыгивает маслянистая тварь с голодными глазами.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>39</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>41</ID>
+      <DefaultText>Cascade 49</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>43</ID>
+      <DefaultText>Встряхивание мехов выбивает изогнутый металлический прут, который вываливается на землю. Похоже, аппарат больше в нем не нуждается. Это был какой-то проводник данных, бесполезный здесь, но, если соединить концы двух оголенных проводов, из него может получиться удобный одноразовый телепорт.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>44</ID>
+      <DefaultText>Встряхивание мехов выбивает из маленького гнезда светящийся купол из каленого стекла, внутри которого кружатся сверкающие энергетические потоки. Он может стать полезным оружием против фрагментов Скорби.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>47</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

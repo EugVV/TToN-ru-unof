@@ -1,0 +1,622 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\a_sagus\a2101_canadu</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>116</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>Высокий широкоплечий лысый мужчина оборачивается к вам. Вы замираете от страха. Ужасает вовсе не его темный плащ или кувалда. Все дело в том, что скрывается под его усами и бородкой. Он настолько уродлив, что даже родная мать испугается его, встретив в темном переулке.
+
+Он коротко кивает вам, и вы ясно понимаете, что *перед* вами человек, получающий наслаждение от одиночества и скучного ремесла охранника.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>Этот удивительно уродливый человек кивает вам, но не решается посмотреть вам в глаза.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>"Не подходи близко к чудовищу", — говорит он, понимая, что вы не собираетесь уходить. — "Сейчас темно, а значит, он присядет тебе на уши, если почувствует, что ты слушаешь. Он станет задавать вопросы, но ты не отвечай".
+
+Он проводит обветренной рукой по лысине. "Впрочем, ты все равно сперва должен заплатить Эль-Джинто", — добавляет он. С этими словами он обращает свой взор к городу.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>"Вначале заплати Эль-Джинто, потом приходи смотреть", — говорит он, когда становится понятно, что вы не собираетесь уходить. С этими словами он обращает свой взор к далекому морю.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>::кивает::</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>"Прощай".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>"Как вам удалось создать клетку, способную сдержать чудовище?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>14</ID>
+      <DefaultText>"Откуда родом вы с компаньоном?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>15</ID>
+      <DefaultText>"Повтори, откуда родом вы с компаньоном?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>16</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>17</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>18</ID>
+      <DefaultText>"Я ищу мастера, который сможет починить устройство".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>19</ID>
+      <DefaultText>"Мне нужно узнать кое-что о городе".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>21</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>22</ID>
+      <DefaultText>"Спроси того, кто здесь живет", — отвечает он, подняв руку. — "Мы город не знаем и знать не хотим".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>23</ID>
+      <DefaultText>Он качает головой, не дожидаясь, пока вы закончите предложение. 
+
+"Мы никого здесь не знаем. Мы не местные".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>24</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>25</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>26</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>27</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>28</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>29</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30</ID>
+      <DefaultText>"Проваливай, кэркер".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>31</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>32</ID>
+      <DefaultText>Он сопит носом, давая понять, что на вас он тратит больше усилий, чем ему хотелось бы на этой работе. 
+
+"Из Лаурика. Это город в Запределье. Кишит жадными до крови жрецами, гигантскими саблезубыми котами и дритом. Последнего особенно много". Его тяжелый взгляд устремляется к горизонту. "Я по нему не скучаю. А Эль-Джинто еще как скучает! Поэтому за историями обращайся к нему".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>33</ID>
+      <DefaultText>"Из города Лаурик в Запределье", — отвечает он. — "Не советую туда ехать, если тебе дорога твоя шкура".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>36</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>37</ID>
+      <DefaultText>"Долго рассказывать", — медленно произносит Канаду и замолкает. Очевидно, он не собирается продолжать, лишь сообщает причину. 
+
+Он видит, что вы все еще смотрите на него, и говорит: "Спроси Эль-Джинто. Он любит поболтать. Я просто слежу за зверем".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>38</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>39</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>40</ID>
+      <DefaultText>"Не знаю", — отвечает он. В этот раз он даже не смотрит на вас. "Клетку сделал Эль-Джинто".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>41</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>42</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>43</ID>
+      <DefaultText>"Верно", — говорит Канаду и улыбается, оскалив зубы. — "Все делает он, потому что умный, а я бездельничаю". 
+
+Он отворачивается. "Ну что, разговор окончен?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>44</ID>
+      <DefaultText>"Конечно", — говорит Канаду, криво ухмыльнувшись. — "Он красавчик, с ним любят поговорить. Засыпают его вопросами. Не дают побыть наедине с мыслями. Везунчик он, наш Эль-Джинто". 
+
+Он отворачивается. "Ну что, разговор окончен?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>45</ID>
+      <DefaultText>"Он мастер на все руки", — наконец отвечает Канаду. — "Он может построить что угодно, развести зевак на лишний шин, выпросить еду за красивые глаза. Он много работает. Я ему за это приплачиваю, чтобы не работать самому. И быть наедине со своими мыслями".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>46</ID>
+      <DefaultText>"Умник?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>47</ID>
+      <DefaultText>"Красавчик?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>48</ID>
+      <DefaultText>Не перебивать.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>49</ID>
+      <DefaultText>"Эль-Джинто не против, чтобы я посмотрел на нихтемерона".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>50</ID>
+      <DefaultText>"Хорошо", — говорит Канаду, нахмурившись. Очевидно, он не понимает, почему вы до сих пор с *ним* разговариваете.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>52</ID>
+      <DefaultText>"Он должен", — говорит Канаду, сурово глядя на вас, тем самым показывая, что у этого с виду спокойного человека бурный нрав. "Его доля больше моей. Я всего лишь охранник. А он..." — он умолкает, подыскивая нужное слово.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>53</ID>
+      <DefaultText>"Похоже, Эль-Джинто работает за вас обоих".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>55</ID>
+      <DefaultText>Охранник чудовища не сдвинулся с места с того момента, как вы ушли. Вы замечаете в его лице напряженность, скорее всего, вызванную бесконечным потоком вопросов нихтемерона. 
+
+Канаду замечает ваш взгляд. "Он любит поболтать ночью", — сказал он. — "Но я ему не отвечаю".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>56</ID>
+      <DefaultText>"Это бесполезно", — поясняет он. — "В первую ночь после поимки он забросал нас самыми разными вопросами. И мы отвечали ему, надеясь, что так с ним будет проще совладать. Зря надеялись. Когда настал день, он снова попытался растерзать нас в клочья".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>57</ID>
+      <DefaultText>"Почему ты не хочешь отвечать на вопросы чудовища?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>58</ID>
+      <DefaultText>Он обращает взор к городу и смиренно замолкает.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>59</ID>
+      <DefaultText>"Не подходи близко к чудовищу", — говорит он, понимая, что вы не собираетесь останавливаться. — "Сейчас темно, а значит, он присядет тебе на уши, если почувствует, что ты слушаешь. Он станет задавать вопросы, но ты не отвечай". 
+
+С этими словами он обращает взор к городу и смиренно замолкает.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>60</ID>
+      <DefaultText>Follow-up PQ. 60</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>61</ID>
+      <DefaultText>"Эль-Джинто попросил меня разузнать подробнее о твоем молоте".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>62</ID>
+      <DefaultText>"Можешь рассказать мне подробнее о твоем молоте?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>63</ID>
+      <DefaultText>"Неужели", — говорит Канаду, уставившись на Эль-Джинто. Его спутник весело машет рукой. — "Как великодушно с его стороны".
+
+Канаду берет кузнечный молот и бросает его прямо перед вашим носом. Бесчисленные рубцы, засечки и трещины украшают его блеклую поверхность. "Спроси лучше про все эти следы повреждений. И я тебе расскажу, откуда они".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>64</ID>
+      <DefaultText>"Вот", — говорит он, с проникновенным вздохом протягивая вам из-за спины кузнечный молот и предлагая взглянуть. — "Спроси, откуда эти повреждения, и я расскажу".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>68</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>69</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>70</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>71</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>72</ID>
+      <DefaultText>"Я пережидал бурю в трактире у колокольни. Вдруг из камина появился человек, весь из зеленого огня, и попросил подержать молот. Я к тому моменту был довольно пьян, поэтому был не против".
+
+Канаду закатывает глаза. "Тут он закричал: «Узри, Молот Рассвета по праву мой. Ведь я Повелитель Бури!». Как-то так. Не открывая глаз, владелица трактира встала и с силой воткнула в него вилку так, что он исчез, и вернулась в постель. Никогда больше его не видел".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>73</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>74</ID>
+      <DefaultText>"Есть ли у молота какие-либо сила или проклятие?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>75</ID>
+      <DefaultText>"Как этот молот протянул столько лет?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>76</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>77</ID>
+      <DefaultText>"Нет. Это просто молот. Он у меня почти всю жизнь".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>78</ID>
+      <DefaultText>"Его сделал мой отец", — говорит он, и в его глазах мелькает темная искра. — "Кто, как не отец, смог бы сделать такой?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>79</ID>
+      <DefaultText>"Я наступил, как сначала показалось, в лужу на Пустоши Кристальных Небес. Но это оказался квишамис. Он поднялся и выпустил шип мне в лодыжку. Затем выстрелил еще, но я закрылся молотом. И, прихрамывая, размозжил его на кусочки".
+
+Он сплевывает. "Ходят слухи, что с помощью их сердец можно увидеть прошлое человека, которого любишь. Неправда. Хоть я и выручил за вещицу немного шинов".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>80</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>81</ID>
+      <DefaultText>"Откуда эти три выемки на головке молота сбоку?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>82</ID>
+      <DefaultText>"Расскажи мне об этих трех выемках на головке молота сбоку еще раз".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>85</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>86</ID>
+      <DefaultText>"Откуда этот прожог на рукоятке?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>87</ID>
+      <DefaultText>"Расскажи мне об этих прожогах на рукоятке еще раз".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>88</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>89</ID>
+      <DefaultText>"А что это за трещина на лицевой стороне?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>90</ID>
+      <DefaultText>"Расскажи мне о трещине на лицевой стороне еще раз".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>94</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>95</ID>
+      <DefaultText>"А откуда эта глубокая царапина на рукоятке?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>96</ID>
+      <DefaultText>"Расскажи мне о глубокой царапине на рукоятке еще раз".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>97</ID>
+      <DefaultText>"Эль-Джинто угодил в ловушку за поющей дверью, сделанной полностью из сияющего белого камня. Попытки ее выбить только делали звонкую песню еще громче. Наконец, мне пришло в голову запеть вместе с ней".
+
+Канаду фыркает: "Дверь заныла и распахнулась. Эль-Джинто стоял там, хлопая глазами и пытаясь объяснить, что он увидел внутри. Но три дня у него изо рта вылетали лишь бабочки".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>98</ID>
+      <DefaultText>Он выглядит смущенным.
+
+"Я сделал это", — признает он. — "Эль-Джинто и я провели несколько лет, скрываясь от наемных убийц Короля-Жреца Тарималлеса. Один из них успел дунуть мне в лицо сверкающей пылью, прежде чем я проломил ему череп".
+
+Канаду прокашливается. "Неделю мне чудилось, что все вокруг залито кровью. Камни, деревья, вода — все. Однако я не так уж ошибался. Оказывается, все истекает кровью, если хорошенько ударить. Все, кроме моего молота".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>99</ID>
+      <DefaultText>"Достаточно о молоте".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>100</ID>
+      <DefaultText>Follow-up PQ. 100</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>101</ID>
+      <DefaultText>"Жрец Вечности хочет, чтобы я помог ему украсть нихтемерона".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>102</ID>
+      <DefaultText>"Скажи еще раз, что мне делать с Белеазаром?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>103</ID>
+      <DefaultText>Follow-up T. 103</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>104</ID>
+      <DefaultText>Лицо Канаду темнеет, и его глаза блестят, но не останавливаются на Белеазаре. "Передай Эль-Джинто", — говорит он, —  "в его распоряжении все кэркеры. Я позабочусь о звере".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>105</ID>
+      <DefaultText>"Передай Эль-Джинто", — говорит Канаду, — "он берет плату за управление толкателями. Я присмотрю за зверем".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>106</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>107</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>108</ID>
+      <DefaultText>"Прощай".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>109</ID>
+      <DefaultText>::кивает::</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>110</ID>
+      <DefaultText>"Как раз вовремя. Я уже закончил говорить об этом".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>113</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>114</ID>
+      <DefaultText>"Что это в клетке?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>115</ID>
+      <DefaultText>"Как ты поймал нихтемерона?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>116</ID>
+      <DefaultText>"Нихтемерон", — говорит он. — "Эль-Джинто расскажет тебе об этом. Если ты этого хочешь".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>117</ID>
+      <DefaultText>"Расскажи, как ты поймал нихтемерона еще раз".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>118</ID>
+      <DefaultText>"Я сказал, спроси Эль-Джинто. Он рассказчик лучше, чем я".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>119</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>120</ID>
+      <DefaultText>"Жрец Вечности хочет, чтобы я помог ему украсть нихтемерона".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>121</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>122</ID>
+      <DefaultText>Тибир свистит при упоминании Лаурика, но ничего больше не говорит.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>123</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>124</ID>
+      <DefaultText>"А где же Эль-Джинто?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>125</ID>
+      <DefaultText>"Где, говоришь, Эль-Джинто?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>126</ID>
+      <DefaultText>Он указывает подбородком на стоящего рядом человека в остроконечной шляпе.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>127</ID>
+      <DefaultText>Он несколько секунд пристально смотрит на вас, а затем указывает подбородком на стоящего рядом человека в остроконечной шляпе.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>128</ID>
+      <DefaultText>"Я уже дважды сказал тебе", — хмурится он. — "Знаешь что? Иди-ка поищи его сам. Я тут занят".
+
+Он скрещивает руки, сердито уставившись в небо.</DefaultText>
+      <FemaleText>"Я уже дважды сказал тебе, — хмурится он. — Знаешь что? Иди-ка поищи его сама. Я тут занят".
+
+Он скрещивает руки, сердито уставившись в небо.</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>129</ID>
+      <DefaultText>"Сам его ищи".</DefaultText>
+      <FemaleText>"Сама его ищи".</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>130</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

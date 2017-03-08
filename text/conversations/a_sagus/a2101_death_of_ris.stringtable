@@ -1,0 +1,183 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\a_sagus\a2101_death_of_ris</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>32</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>Странный гомункул не обращает на вас внимания. Кажется, он сделан из неестественных потрохов, что торчат изо рта у Риса и переплетаются так, что напоминают человека. Пока вы смотрите, существо обвивает Риса еще несколькими щупальцами, словно пытаясь сделать из него копию себя.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>Оставить его в покое.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>Странный гомункул занят своим делом. Кажется, он не видит ни вас, ни чего-либо еще.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>Вы пытаетесь вынуть из рук у Риса жилы, но те вдруг опутывают ваше запястье, и от вспышки невыносимой боли вы падаете навзничь на помост.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>У вас кружится голова, и вдруг вы оказываетесь глубоко в шахтах близ некоего места под названием Хареф. Ваши слуги выкапывают древнюю машину, ценности которой не ведали местные глупцы. Зорус и Наал, наконец, высвобождают артефакт, и мир тут же темнеет по краям. Вы слышите то, чего боитесь больше всего на свете: быстрый шепот Скорби. Как, во имя Девяти Миров, она нашла вас здесь?</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>Вы приходите в себя и видите над собой лицо надсмотрщика Йина. Он качает головой: "А сил-то тебе не занимать! От касания смерти умирали мужики вдвое больше тебя. Не советую снова ее трогать. И давай уже, вали отсюда. Тебе нельзя тут быть, я за это головой отвечаю".
+
+Топоча, он возвращается на пост.
+
+{SCRIPT: Animation. Yeen starts above the PC, then walks back to his post.}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>На этот раз смерть Риса касается вас лишь пальцем, но боль так же сильна. Вы камнем валитесь на землю. Сердце так зашлось от боли, что забыло, что должно делать, и прекратило биться.
+
+В глазах темнеет...</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText>Надсмотрщик Йин фыркает: "Умно, дружище".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>14</ID>
+      <DefaultText>"И правда умно".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>15</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>16</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>17</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>18</ID>
+      <DefaultText>"Ты что делаешь?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>19</ID>
+      <DefaultText>"Ты меня слышишь? Я с тобой говорю".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>21</ID>
+      <DefaultText>Двойник не отвечает. Кажется, он ничего не слышал.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>22</ID>
+      <DefaultText>Гомункул все равно не отвечает. Кажется, он вообще лишен слуха.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>23</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>24</ID>
+      <DefaultText>Попытаться остановить его.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>25</ID>
+      <DefaultText>Снова попытаться остановить смерть Риса.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>26</ID>
+      <DefaultText>Гомункул занят своим делом. Он не замечает, как вы отходите.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>27</ID>
+      <DefaultText>Он пожимает плечами и отворачивается. "Говорят, что это кошмары из него выходят. У меня у самого кошмары от того, что я стою так близко".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>28</ID>
+      <DefaultText>Он с отвращением мотает головой: "Власти говорят, что он проговаривает свои кошмары. Они вообще не знают, что это такое, и о чем он толкует. Знают только, что людям страшно на это смотреть".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>29</ID>
+      <DefaultText>Она поджимает губы: "Воплощенные сны? Надо же. Или его слова идут откуда-то еще?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30</ID>
+      <DefaultText>Из тьмы змеятся темные щупальца, и вы бежите от них в туннели, не обращая внимания на крики остальных. Нужно вернуться в лагерь, под защиту. Только так можно спасти "себя". Вам бы только дотянуться, прикоснуться, и вы в безопасности. Оболочка может и погибнуть, но ваш разум будет жить.
+
+Щупальца догоняют. Голову заполняет шепот. Вы врезаетесь в стену и, шатаясь, отскакиваете от нее. Куда идти? Неужто вы заблудились?</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>31</ID>
+      <DefaultText>Впереди свет. Ура! Лагерь! Вы мчитесь туда, а щупальца уже поглаживают вашу спину и ноги, причиняя невыносимую боль.
+
+Сверток! Коробка! Замок! Вы лихорадочно открываете все и хлопаете по устройству как раз в тот момент, когда щупальца проникают в вас, мягкие, как туман, и острые, как лезвия. Они по волокнам рвут вас на части.
+
+И тут вы исчезаете. Оболочка кричит, но вы на свободе.
+
+{SCRIPT: Fade to black. Fade up on next node.}
+{SCRIPT: Player currently takes 3 Intellect damage here — may need to be balanced.}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>32</ID>
+      <DefaultText>Попытаться пробудиться от видения.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>33</ID>
+      <DefaultText>Дать видению продолжиться, пусть вы точно знаете, что будет больно.</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

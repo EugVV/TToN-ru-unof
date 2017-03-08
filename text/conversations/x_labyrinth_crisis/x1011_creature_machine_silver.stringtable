@@ -1,0 +1,218 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\x_labyrinth_crisis\x1011_creature_machine_silver</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>41</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>В передней части этого аппарата установлен вращающийся диск с прорезями. Позади него быстро крутятся и вертятся темные маслянистые потоки. Вам придется вытащить из аппарата этот бесформенный, отвратительный фрагмент Скорби, чтобы существо в стоящем рядом резервуаре успокоилось и вы могли установить с ним контакт.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>Follow-up PQ. 19</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText>Позади вращающегося диска вы видите бурлящее тело вредителя. Отпрянув от вашего прикосновения, он внезапно изливается из аппарата черным блестящим потоком.
+
+С удовлетворительным *щелчком* диск встает на место, и водоворот в стоящем рядом резервуаре утихает. Теперь существо, пожалуй, достаточно успокоилось, чтобы с ним можно было установить контакт.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText>Вы осторожно снимаете вращающийся диск и видите, как внутри бурлит влажная, темная масса. Она с шипением набрасывается на вас, атакуя холодной энергией. Ее ледяные щупальца пронзают ваш разум, когда она вылетает из аппарата.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>14</ID>
+      <DefaultText>Щелчком пальца вы сбиваете диск.
+Бурлящее тело вредителя отскакивает, а затем изливается из аппарата черным блестящим потоком.
+
+С удовлетворительным *щелчком* диск встает на место, и водоворот в стоящем рядом резервуаре утихает. Теперь существо, пожалуй, достаточно успокоилось, чтобы с ним можно было установить контакт.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>15</ID>
+      <DefaultText>Диск вращается слишком быстро, в опасной близости рассекая воздух и не давая себя снять.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>16</ID>
+      <DefaultText>Осторожно снять вращающийся диск и вытащить фрагмент из аппарата.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>17</ID>
+      <DefaultText>Еще раз попытаться снять вращающийся диск и вытащить фрагмент Скорби из аппарата.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>18</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>19</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>21</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>22</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>23</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>24</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>25</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>26</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>27</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>28</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>29</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>31</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>32</ID>
+      <DefaultText>Уйти.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>33</ID>
+      <DefaultText>Фрагмент Скорби позади вращающегося серебряного диска похож на темный вихрь со множеством когтей.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>34</ID>
+      <DefaultText>Вы изгнали фрагмент Скорби из этого аппарата и теперь, пожалуй, сможете установить связь с разумом находящегося рядом существа.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>35</ID>
+      <DefaultText>Серебряный диск с прорезями, установленный в передней части этого аппарата, медленно вращается, и за его движущимися прорезями вам удается разглядеть внутри миниатюрную светящуюся копию существа в резервуаре. Судя по кабелям, ведущим к резервуару, этот аппарат каким-то образом подключен к существу и, возможно, поддерживает в нем жизнь.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>36</ID>
+      <DefaultText>Фрагмент Скорби больше не портит это устройство — ремонт ему не нужен.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>37</ID>
+      <DefaultText>Фрагмент Скорби сгущается, зловеще уставившись на вас отсутствующими глазами.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>38</ID>
+      <DefaultText>Cascade 38</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>40</ID>
+      <DefaultText>Когда сверкающий калейдоскоп начинает вращение, изогнутый металлический прут, выступающий из консоли, вываливается на землю. Похоже, аппарат больше в нем не нуждается. Это был какой-то проводник данных, бесполезный здесь, но, если соединить концы двух оголенных проводов, из него может получиться удобный одноразовый телепорт.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>41</ID>
+      <DefaultText>Когда сверкающий калейдоскоп начинает вращение, из гнезда на мигающей консоли появляется светящийся купол из каленого стекла, внутри которого кружатся сверкающие энергетические потоки. Он может стать полезным оружием против фрагментов Скорби.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>42</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

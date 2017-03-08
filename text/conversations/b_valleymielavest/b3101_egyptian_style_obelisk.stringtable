@@ -1,0 +1,469 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\b_valleymielavest\b3101_egyptian_style_obelisk</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>87</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>Уйти от статуи.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>14</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>15</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>16</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>17</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>18</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>19</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>21</ID>
+      <DefaultText>Спрятавшись в зарослях, вы с ужасом наблюдаете, как последователи божества-птицы сносят великие каменные статуи и преследуют монахов, убегающих из горящего храма.
+ 
+ "Безбожники!" — кричит их лидер. — "Почитатели ложных богов! Убить их всех!" 
+ 
+ Человек-птица замечает вас. Он кричит: "Сетурл! Мы должны его убить. Монахи прячутся, переселяя души в маленьких зверьков. Если мы не уничтожим их всех, монахи вернутся и будут еще сильнее, чем прежде!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>22</ID>
+      <DefaultText>Опустив ветку, вы наблюдаете, как расхитители гробниц разбирают обломки разрушенного храма в поисках древних катакомб. Их лидер восседает на каменной голове упавшей статуи, похлопывая и поглаживая ее заостренные уши. Он смеется: 
+ 
+ "Вот кого старые монахи почитали, прежде чем Джаруди всех их уничтожил. Принца Сетурлов. Говорят, тайна, произнесенная рядом с одним из этих шестиглазых вредителей, всегда доходила до его больших ушей".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>23</ID>
+      <DefaultText>Спрятавшись под кустом ганду, вы наблюдаете, как отец и мать приносят две охапки молодой древесины и бросают на месте руин храма, затем они садятся и вытирают лбы, а трое их детей начинают очищать стебли от коры. 
+ 
+ "Ну, тут хотя бы есть много строительных материалов", — говорит отец. 
+ 
+ "Да... Нам понадобится все, что удастся раздобыть", — отвечает мать. "Без ограждения для защиты от баулей и костяных псов мы не проживем и недели".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>24</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>25</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>26</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>27</ID>
+      <DefaultText>Вы бросаете лаака к его ногам и изгибаете спину, пока он гладит ваш мех и поправляет воротник: 
+ 
+ "Ты хорошая девочка, но работа еще не закончена. В зернохранилище еще полно лааков. Принеси мне еще дюжину, прежде чем я разберусь с этими хао, и я дам тебе твое любимое лакомство".
+ 
+ Расправиться с дюжиной лааков — раз плюнуть для охотника вашего уровня. Вы крадетесь в зернохранилище, готовясь к битве.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>28</ID>
+      <DefaultText>Вы бежите в джунгли от толпы разъяренных людей, которые преследуют вас, и обелиск снова всплывает в вашем сознании.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>29</ID>
+      <DefaultText>Вы шипите в ответ на оскорбление. Он поднимает взгляд: "Эй, а вот и один из них. Монахи уже сотни лет не приручали сетурлов".
+ 
+ Он подзывает вас: "Иди сюда, малыш. Не дашь ли мне посмотреть на твой роскошный воротник? Выглядит как искусная ручная работа".
+ 
+ Вы бросаете на него презрительный взгляд и забираетесь еще выше на дерево, и тут возвращается обелиск.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30</ID>
+      <DefaultText>"А что делать с лааками?" — кричит ребенок.
+ 
+ Отец смеется: "Помолись Гуни, дочка. Может он пошлет нам одного из слуг. Ты ведь знаешь, что он принц всех Сетурлов!"
+ 
+ Вы навострили уши. Наконец-то вы стали нужны. Время охоты!</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>31</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>32</ID>
+      <DefaultText>То была часть секретного кода замка шептания, с помощью которого можно попасть в Некрополь.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>33</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>34</ID>
+      <DefaultText>Должно быть, секретный код к замку шептания Некрополя — Гуни.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>35</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>36</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>37</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>38</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>39</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>40</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>41</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>42</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>43</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>44</ID>
+      <DefaultText>Хвост мертвого лаака в ваших зубах волочится по земле, пока вы пробираетесь к храму сквозь густые заросли. Вы выглядываете из-за листов ганду и видите Ниму, старого монаха, который сидит на потертых ступенях и очищает хао от шелухи. Вы идете поприветствовать его, и он улыбается беззубым ртом при виде вас. 
+ 
+ "Вот и она", — говорит он, хихикая. — "Вот она, моя смелая охотница, да еще и с подарком. Какая умница".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>45</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>46</ID>
+      <DefaultText>Осмотреть каменную голову.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>47</ID>
+      <DefaultText>Осмотреть каменную голову еще раз.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>49</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>50</ID>
+      <DefaultText>Осмотреть иероглифы.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>51</ID>
+      <DefaultText>Осмотреть иероглифы еще раз.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>53</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>54</ID>
+      <DefaultText>Осмотреть основание обелиска.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>55</ID>
+      <DefaultText>Осмотреть основание обелиска еще раз.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>56</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>57</ID>
+      <DefaultText>В отличие от других потертых временем руин, основание обелиска гладкое.
+ 
+ Его окружает пруд едкой жидкости. Жидкость издает отвратительный щелочной запах, но обелиск совершенно не испорчен. Невозможно понять, какая еще часть обелиска скрывается под толщей жидкости.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>58</ID>
+      <DefaultText>Основание обелиска гладкое, нетронутое временем и воздействием едко пахнущей жидкости, в которой оно стоит.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>59</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>60</ID>
+      <DefaultText>Резная голова, установленная на верху обелиска, смотрит вдаль пустыми и печальными глазами.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>61</ID>
+      <DefaultText>Взгляд резной головы, установленной на верху обелиска, устремлен вдаль.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>62</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>63</ID>
+      <DefaultText>За исключением четырех стилизованных изображений того же остроухого существа, голова которого увенчивает обелиск, пиктограммы не несут для вас никакого смысла.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>64</ID>
+      <DefaultText>Четыре пиктограммы изображают то же животное, что установлено на обелиске, но смысл иероглифов вам непонятен.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>65</ID>
+      <DefaultText>Кажется, что голова статуи поворачивается, но ее глаза пристально смотрят на вас. Они все еще печальны, но не пусты. Слабый манящий огонек мерцает в них.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>66</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>67</ID>
+      <DefaultText>Вы поворачиваетесь к своим товарищам, но они, судя по всему, не замечают ничего странного.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>68</ID>
+      <DefaultText>Вы поворачиваетесь к своему товарищу, но он, судя по всему, не замечает ничего странного.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>69</ID>
+      <DefaultText>Перед вами возвышается большой обелиск конической формы, увенчанный резной каменной головой какого-то животного с шестью глазами и острыми ушами. Вокруг обелиска выгравированы странные иероглифы.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>70</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>71</ID>
+      <DefaultText>Посмотреть в глаза статуи.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>72</ID>
+      <DefaultText>Посмотреть в глаза статуи, возможно, вы еще что-нибудь заметите.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>73</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>74</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>75</ID>
+      <DefaultText>Когда вы смотрите в глаза статуи, на вас накатывает волна головокружения. Вы больше не можете смотреть на обелиск. Более того, вы уже и не человек...</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>76</ID>
+      <DefaultText>Вы окунаетесь в воспоминания статуи, и на вас накатывает следующая волна головокружения.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>77</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>78</ID>
+      <DefaultText>Глаза статуи тускнеют, но в них еще осталась капля жизни, как будто она освободилась от контроля. Почему она это сделала, остается загадкой.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>79</ID>
+      <DefaultText>Заново пересмотреть воспоминания. Еще раз посмотреть в глаза статуи.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>80</ID>
+      <DefaultText>Обелиск снова появляется, и вы понимаете, что помните только одно чувство радости.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>81</ID>
+      <DefaultText>Этот большой обелиск увенчан резной, каменной головой какого-то животного с шестью глазами и острыми ушами. Вокруг него выгравированы иероглифы.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>82</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>83</ID>
+      <DefaultText>Когда вы приближаетесь, вам кажется, что голова обелиска поворачивается и его глаза смотрят прямо на вас.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>84</ID>
+      <DefaultText>Ваш товарищ, кажется, этого не замечает.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>85</ID>
+      <DefaultText>Ваши товарищи, кажется, этого не замечают.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>86</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>87</ID>
+      <DefaultText>Воспоминания исчезают, и обелиск опять стоит перед вами.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>88</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>89</ID>
+      <DefaultText>Сетурл. Так называют это существо.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>90</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

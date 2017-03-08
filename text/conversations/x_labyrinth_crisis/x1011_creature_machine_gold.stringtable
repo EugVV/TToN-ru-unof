@@ -1,0 +1,256 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\x_labyrinth_crisis\x1011_creature_machine_gold</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>48</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>Аура рассеянного света окутывает этот грохочущий аппарат. Вода плещется в трубках, которые ведут к стоящему рядом резервуару, но не доходит до него. Существо сильно страдает и не пойдет на контакт, пока фрагмент Скорби не покинет аппарат и водоснабжение не восстановится.
+
+У аппарата нет внешний приборов управления или порта доступа, но в клубящихся облаках сияющего пара виднеется что-то необычное — очертания прозрачного колеса, висящего в воздухе.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>14</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>15</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>16</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>17</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>18</ID>
+      <DefaultText>Уйти.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>19</ID>
+      <DefaultText>С громким *треском* от свистящего аппарата что-то отваливается. После секундного молчания насос, влажно кашлянув, возобновляет работу, и чистая вода устремляется по трубкам в резервуар существа. Теперь оно, пожалуй, достаточно успокоилось, чтобы с ним можно было установить контакт.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20</ID>
+      <DefaultText>Обшивка аппарата издает глухой *ЛЯЗГ*, и существо внутри шипит и корчится, а затем стремительным движением высовывает свои конечности и хватает вас за голову. Сжав виски, вы слышите, как внутри аппарата свистит пар. Тварь пришла в движение.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>21</ID>
+      <DefaultText>Источник жуткого лязга содрогается от удара. Что-то тихонько звякает, и ровное жужжание набирает обороты, становясь все быстрее и быстрее…
+
+Чистая вода устремляется по трубкам в резервуар существа — намного быстрее, чем прежде. Вполне возможно, что резкий пинок усовершенствовал этот аппарат. Теперь существо, пожалуй, достаточно успокоилось, чтобы с ним можно было установить контакт.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>22</ID>
+      <DefaultText>Получив пинок по неожиданно прочной части обшивки, аппарат издает печальный *лязг*. Водоснабжение не восстанавливается.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>23</ID>
+      <DefaultText>Изгнать фрагмент Скорби и восстановить водоснабжение, пнув аппарат. Сильно.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>24</ID>
+      <DefaultText>Еще раз пнуть аппарат.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>25</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>26</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>27</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>28</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>29</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>31</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>32</ID>
+      <DefaultText>Уйти.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>33</ID>
+      <DefaultText>В застывших внутренностях захваченного Скорбью аппарата усиливается влажный лязг. В воздухе среди клубящихся облаков сияющего пара висит прозрачное колесо.
+
+Пылающее существо в стоящем рядом резервуаре истаяло и теперь больше напоминает рой язычков пламени, нежели человека.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>34</ID>
+      <DefaultText>Фрагмент Скорби изгнан из аппарата, и водоснабжение стоящего рядом резервуара восстановилось. Теперь существо, пожалуй, в порядке, и с ним можно установить контакт.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>35</ID>
+      <DefaultText>Этот аппарат обеспечивает стоящий рядом резервуар постоянным притоком свежей, прозрачной воды. Вместо того чтобы превратиться в маслянистый дым, светящееся существо, кажется, впитывает воду через плоть.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>36</ID>
+      <DefaultText>Тварь вылезла из аппарата, чтобы напасть, и вода свободно потекла из него в стоящий рядом резервуар существа.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>37</ID>
+      <DefaultText>С громким треском из боковой части устройства выпрыгивает фрагмент Скорби.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>38</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>39</ID>
+      <DefaultText>Повернуть колесо из пара.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>40</ID>
+      <DefaultText>Еще раз попытаться повернуть колесо из пара.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>41</ID>
+      <DefaultText>Колесо почти невидимое, но на ощупь напоминает теплый металл. Оно быстро крутится. Постепенно облако пара рассеивается и ужасный лязг внутри аппарата затихает. Когда колесо превращается в зыбкий туман, чистая вода устремляется по трубкам в резервуар существа. Теперь оно, пожалуй, достаточно успокоилось, чтобы с ним можно было установить контакт.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>42</ID>
+      <DefaultText>Внезапно из облака вырывается струя пара, не позволяя подойти к колесу. Неожиданно позади, совсем близко, возникает фрагмент Скорби. Его извивающиеся щупальца впиваются вам в голову и, минуя кожу и кость, поражают ваш разум.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>43</ID>
+      <DefaultText>Колесо почти невидимое, но на ощупь напоминает теплый металл. Оно делает три быстрых оборота, после чего облако пара исчезает внутри аппаратов, смягчая ужасный лязг. Колесо, похоже, тоже рассеивается.
+
+Чистая вода устремляется по трубкам в резервуар существа. Теперь оно, пожалуй, достаточно успокоилось, чтобы с ним можно было установить контакт.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>44</ID>
+      <DefaultText>Из облака вырывается яростная струя раскаленного пара и больно ударяет вам в лицо. Невозможно подойти ближе.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>46</ID>
+      <DefaultText>Cascade 49</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>48</ID>
+      <DefaultText>Теперь, когда вода течет свободно, расположенный под ней изогнутый металлический прут вываливается на землю. Похоже, аппарат больше в нем не нуждается. Это был какой-то проводник данных, бесполезный здесь, но, если соединить концы двух оголенных проводов, из него может получиться удобный одноразовый телепорт.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>49</ID>
+      <DefaultText>Теперь, когда вода течет свободно, из гнезда аппарата появляется светящийся купол из каленого стекла, внутри которого кружатся сверкающие энергетические потоки. Он может стать полезным оружием против фрагментов Скорби.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>51</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

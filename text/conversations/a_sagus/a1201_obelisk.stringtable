@@ -1,0 +1,320 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\a_sagus\a1201_obelisk</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>53</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>Матово-черный обелиск появляется в воздухе над водой. Его крутые изогнутые стороны сходятся в пылающем пике, который разгорается ярче или затухает под дуновениями легкого бриза с залива.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>Протянуться и потрогать обелиск.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>Дотянуться до обелиска снова.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>Вы поднимаете руку и тянетесь к обелиску. Черный камень излучает тусклый зеленый свет, который сосредоточен на вас, словно свирепый взгляд.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>Прикоснуться.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>Отдернуть руку от обелиска.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>Из вершины обелиска по направлению к вашей руке исходит луч света, но вы оказываетесь быстрее и ощущаете лишь покалывание в пальцах.
+
+{SOUND: Laser sound effect.}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>Луч света исходит из вершины монумента и пронзает вашу руку. Вы кричите от боли и отступаете, пошатываясь.
+
+{DAMAGE}
+{SCRIPT: This needs to call LaunchProxyAbilityAtPlayer(oei_user, LaserSourceNode)}
+{SOUND: Laser sound effect.}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>Бритвенно-острый пик сооружения начинает светиться изумрудным светом, а затем пучок этого сияющего света летит прямо к вашей протянутой руке. 
+
+Вы успеваете отдернуть руку с его траектории, и луч проскальзывает мимо вас прямо в воду, оставляя за собой серебряный след. Зловещее свечение обелиска затухает. 
+
+{SCRIPT: This needs to call LaunchProxyAbility(oei_user, LaserSourceNode, 0)}
+{SOUND: Laser sound effect.}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>Луч света исходит из вершины монумента, пронзая вашу ладонь и прорываясь через запястье. Вы кричите от боли и отступаете, пошатываясь. 
+
+{DAMAGE}
+{SCRIPT: This needs to call LaunchProxyAbilityAtPlayer(oei_user, LaserSourceNode)}
+{SOUND: Laser sound effect.}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText>Вы протягиваете к нему руку, и снова из сердцевины монумента поднимается изумрудное свечение. Инстинкты берут свое, и вы отдергиваете руку, а луч света с шипением пронзает пространство, где только что была ваша рука. 
+
+{SOUND: Laser sound effect.}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText>Не подходить к обелиску.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>14</ID>
+      <DefaultText>Обелиск безмятежно парит над водой.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>15</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>16</ID>
+      <DefaultText>"Однажды мне повстречался человек, который пытался сделать то же самое", — буднично говорит Алигерн. — "Это был Жрец Вечности. Из той штуки вырвался луч, и он поймал его кристальной решеткой. Меня чуть не стошнило, когда второй луч расплавил кожу на его лице".
+
+"Но я верю, что ты знаешь, что делаешь".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>17</ID>
+      <DefaultText>"Осторожней с этим устройством, дорогуша. Оно поражает лучами тех, кто подходит близко".
+
+Ее глаза светятся от приятных воспоминаний. "Один мой знакомый молодой и красивый Жрец Вечности сумел заключить луч в кристальное ожерелье. В одном из измерений он был *безмерно* доволен собой. Во всех остальных луч продырявил ему голову через глаз. Красивым он больше не был, впрочем, как и живым".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>18</ID>
+      <DefaultText>"Ну перестань. Зато бедняга погиб, желая утолить свое любопытство, а не блуждая бесцельно по берегу, жалея себя".
+
+"Иди, если так надо", — говорит она, не обращая внимания на взгляд Алигерна. — "Но будь осторожен".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>19</ID>
+      <DefaultText>Вытянуть руку с обломком кристалла в сторону обелиска.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20</ID>
+      <DefaultText>Вы осторожно направляете осколок к обелиску, и из устройства вырывается сверхгорячий луч. Он попадает в кристалл, и осколок заливается теплым зеленым светом. Вы чувствуете в руке легкую вибрацию. 
+
+{ANIM: Green laser shoots player... or just in front of player. As [B] or [C] priority, the player could stretch out his hand, wielding the crystal shard, and the beam hits the shard.}
+{SOUND: Laser sound effect.}
+{DP}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>21</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>22</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>23</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>24</ID>
+      <DefaultText>Луч света исходит из вершины монумента и пронзает вашу руку. Вы кричите от боли и отступаете, пошатываясь.
+
+{SCRIPT: This needs to call LaunchProxyAbilityAtPlayer(oei_user, LaserSourceNode)}
+{SOUND: Laser sound effect.}
+{DAMAGE}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>25</ID>
+      <DefaultText>Дотронуться до обелиска во что бы то ни стало.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>26</ID>
+      <DefaultText>Отойти от обелиска.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>27</ID>
+      <DefaultText>На вершине монумента разгорается яркое свечение.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>28</ID>
+      <DefaultText>Свечение обелиска затухает, когда вы отступаете.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>29</ID>
+      <DefaultText>Алигерн недоволен: 
+
+"Надеюсь, оно того стоило".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30</ID>
+      <DefaultText>"Что ж, есть более безболезненные способы избавиться от пальца. Если ты этого хочешь".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>31</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>32</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>33</ID>
+      <DefaultText>Алигерн одобрительно свистит.
+
+"Не каждый день увидишь, как ловят луч света".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>34</ID>
+      <DefaultText>"Поосторожней с этими чудесными ручками. Запасных пальцев *ведь* не купишь".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>36</ID>
+      <DefaultText>"Однажды мне повстречался человек, который пытался сделать то же самое", — буднично говорит Алигерн. — "Это был Жрец Вечности. Из той штуки вырвался луч и расплавил ему лицо. Зато из его кристального ожерелья вышел неплохой ночник".
+
+"Но знаешь что? Я в тебя верю".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>38</ID>
+      <DefaultText>Алигерн одобрительно свистит.
+
+"Не каждый день увидишь, как ловят луч света".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>39</ID>
+      <DefaultText>"Поосторожней с этими чудесными ручками. Запасных пальцев *ведь* не купишь".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>41</ID>
+      <DefaultText>Алигерн недоволен: 
+
+"Надеюсь, оно того стоило".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>42</ID>
+      <DefaultText>"Что ж, есть более безболезненные способы избавиться от пальца. Если ты этого хочешь".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>43</ID>
+      <DefaultText>Алигерн недоволен: 
+
+"Надеюсь, оно того стоило".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>44</ID>
+      <DefaultText>"Что ж, есть более безболезненные способы избавиться от пальца. Если ты этого хочешь".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>45</ID>
+      <DefaultText>Свечение обелиска затухает.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>46</ID>
+      <DefaultText>Вы ожидаете нового нападения, но свечение затухает.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>47</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>48</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>49</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>50</ID>
+      <DefaultText>Прикоснуться.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>51</ID>
+      <DefaultText>Вы кладете руку на поверхность обелиска. Яркий зеленый луч вырывается из вершины устройства и бьет вам в грудь. 
+
+Ощущения неприятные, но, к счастью, длятся недолго.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>52</ID>
+      <DefaultText>Свечение усиливается и концентрируется на вершине устройства, и вы чувствуете, как на ваших руках волосы встают дыбом. 
+
+Вы инстинктивно отрываете руку. Чувство и свечение пропадают.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>55</ID>
+      <DefaultText>Вы отрываете руку как можно быстрее, но поздно. Зеленый луч бьет из вершины обелиска вам в грудь. Ощущения неприятные, но, к счастью, длятся недолго.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>56</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>57</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>58</ID>
+      <DefaultText>Протянув руку к обелиску еще раз, вы замечаете, как зловещий свет вновь загорается на вершине.</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

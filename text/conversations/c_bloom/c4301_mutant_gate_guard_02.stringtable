@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\c_bloom\c4301_mutant_gate_guard_02</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>3</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>0</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>[If any more of the Memovira's people come in here, nobody's going to stop me from killing them (or something like that).]</DefaultText>
+      <FemaleText>[If any more of the Memovira's people come in here, nobody's going to stop me from killing them (or something like that).]</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>[He sure hopes more of the Memovira's guards come looking for their dead friends.]</DefaultText>
+      <FemaleText>[He sure hopes more of the Memovira's guards come looking for their dead friends.]</FemaleText>
+    </Entry>
+  </Entries>
+</StringTableFile>

@@ -1,0 +1,911 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\a_sagus\a2101_execution_official</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>174</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>На эшафоте стоит тучный мужчина средних лет. У него значок городского чиновника, а с головы до плеч свисают косички, хотя имеется и плешь. Он без интереса глядит на вас: "Прошу отойти к остальным".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>Чиновник недовольно глядит на вас: "Ну что опять?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>"Прощай".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>"Мы казним заключенного, Риса из Плосководья".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>"Почему Пожиратель Неправых ест казненных преступников?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>14</ID>
+      <DefaultText>На эшафоте стоит тучный мужчина средних лет. У него значок городского чиновника, а с головы до плеч свисают косички, хотя имеется и плешь. Уставившись в темное небо, он едва замечает вас: "Э-э-э... Да?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>15</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>16</ID>
+      <DefaultText>"Прошу вас! Это мой отец, я хочу проститься с ним".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>17</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>18</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>19</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>21</ID>
+      <DefaultText>Он качает головой: "Что ж, простись. Только ответа не жди, он тебя и не услышит. Поздно".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>22</ID>
+      <DefaultText>"Понимаю, но пустить не могу. Места лишусь. Если кто увидит, или ты помрешь от его же смерти, мне несдобровать".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>23</ID>
+      <DefaultText>Он пожимает плечами и машет рукой: "Я сегодня добрый. Иди, простись. Только ответа не жди, он тебя и не услышит. Поздно.
+
+И смерть его не тронь, а то она и твоей станет".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>24</ID>
+      <DefaultText>"Ага, как же. Еще один зевака, пришел на мясо поглазеть. Иди отсюда, надоел".</DefaultText>
+      <FemaleText>"Ага, как же. Еще одна зевака, пришла на мясо поглазеть. Иди отсюда, надоела".</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>25</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>26</ID>
+      <DefaultText>Он вздыхает: "Ох уж эти селяне... Все очень просто, господин. Нано вызывают у него галлюцинации, довольно кошмарные. Он говорит о том, что видит, и выходящие из его рта слова обращаются в плоть. Вышедшая плоть складывается в подобие человека — вон она, смерть, около него". Он показывает на омерзительное существо, будто сделанное из гниющих кишок.
+
+"Слова выходят, смерть опутывает его ими, и потихоньку он лишается жизни".</DefaultText>
+      <FemaleText>Он вздыхает: "Ох уж эти селяне... Все очень просто, госпожа. Нано вызывают у него галлюцинации, довольно кошмарные. Он говорит о том, что видит, и выходящие из его рта слова обращаются в плоть. Вышедшая плоть складывается в подобие человека — вон она, смерть, около него". Он показывает на омерзительное существо, будто сделанное из гниющих кишок.
+
+"Слова выходят, смерть опутывает его ими, и потихоньку он лишается жизни".</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>27</ID>
+      <DefaultText>Он мрачно улыбается: "Он из Дендра О'хур, что умеют высасывать воспоминания мертвецов из их костного мозга. И в тех воспоминаниях есть не только доказательство вины, но и имена подельников и сообщников. Много кого переловили благодаря воспоминаниям из Подбрюшья".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>28</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>29</ID>
+      <DefaultText>"Можно спросить еще кое-что?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30</ID>
+      <DefaultText>"Как можно освободить Риса?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>31</ID>
+      <DefaultText>Он смеется, но быстро себя одергивает: "Единственное, что может освободить его, это помилование Совета. Но помиловать какого-то там неудачника? Да скорей у меня крылья вырастут".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>32</ID>
+      <DefaultText>"Мое терпение не бесконечно... Ну да как знаешь".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>33</ID>
+      <DefaultText>"Добрый день. Ээ, ночь. Ээ..."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>34</ID>
+      <DefaultText>"До свидания".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>38</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>39</ID>
+      <DefaultText>"Мне бы поговорить с Рисом".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>40</ID>
+      <DefaultText>"Я все равно хочу поговорить с Рисом".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>46</ID>
+      <DefaultText>"Почему вы смотрите в небо?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>47</ID>
+      <DefaultText>Он глядит на вас сверху вниз: "Не видишь? День вмиг стал ночью. Что это такое? Опасно ли? Неужто Табат возвращается? И что мне, городскому чиновнику, делать?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>48</ID>
+      <DefaultText>"Что он говорит?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>49</ID>
+      <DefaultText>Он пожимает плечами: "Говорят, что в этой белиберде есть какая-то мудрость, но я никогда ничего такого не замечал. Еще говорят, что самому приговоренному пытка вроде как и не страшна, зато других преступников заставляет задуматься. И *такого* я тоже никогда не замечал, если подумать".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>52</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>53</ID>
+      <DefaultText>Он таращит глаза: "Нет, слишком опасно. Не видишь что ли, что происходит? Небо потемнело! На нас либо напали, либо еще что похуже..."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>54</ID>
+      <DefaultText>"Нет, извини уж. Пока не пройдет ночь, я должен глядеть в оба. Что угодно может произойти!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>55</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>56</ID>
+      <DefaultText>Он фыркает: "И думать забудь. К приговоренным никого не пускают, такие правила".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>57</ID>
+      <DefaultText>"Говорю же, это запрещено правилами. Забудь".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>58</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>59</ID>
+      <DefaultText>"Все, или еще вопросы будут?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>60</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>61</ID>
+      <DefaultText>"Тогда мне тем более надо! Прошу, он мой отец! Дайте хоть проститься..."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>62</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>63</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>64</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>65</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>66</ID>
+      <DefaultText>Он качает головой: "Ладно, ладно. Если уж конец света, то какая разница... Иди, простись. Только ответа не жди, он тебя и не услышит. Поздно".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>67</ID>
+      <DefaultText>"Нет, нет. Нельзя. Я не знаю, что происходит. А ну как это конец света? Сейчас нельзя!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>68</ID>
+      <DefaultText>Он машет рукой: "Ладно, ладно. Если уж конец света, то какая разница... Иди, простись. Только ответа не жди, он тебя и не услышит. Поздно.
+
+И смерть его не тронь, а то она и твоей станет".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>69</ID>
+      <DefaultText>"Ага, как же. Еще один зевака, пришел на мясо поглазеть. Если ты вдруг не заметил, то, похоже, настает конец света. Некогда мне тут с тобой! Вали".</DefaultText>
+      <FemaleText>"Ага, как же. Еще одна зевака, пришла на мясо поглазеть. Если ты вдруг не заметила, то, похоже, настает конец света. Некогда мне тут с тобой! Вали".</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>70</ID>
+      <DefaultText>Он смотрит поверх вас, на сердитую толпу. На лбу у него выступает пот, и чиновник говорит: "Подстрекаешь их против нас, шельма... Ничего у тебя не выйдет! А если и выйдет, власти узнают".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>71</ID>
+      <DefaultText>Увидев ваш официальный значок, удивленный чиновник спрашивает: "Чем могу помочь вам, господин?"</DefaultText>
+      <FemaleText>Увидев ваш официальный значок, удивленный чиновник спрашивает: "Чем могу помочь вам, госпожа?"</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>72</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>73</ID>
+      <DefaultText>Пока вы идете к нему, чиновник смотрит на темное небо и бормочет: "Забери нас всех Табат..."
+
+Наконец он опускает глаза и недовольно глядит на вас: "Ну, чего еще?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>74</ID>
+      <DefaultText>"Отзови их! Отзови!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>75</ID>
+      <DefaultText>"Этот человек помилован. Отпустите его".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>76</ID>
+      <DefaultText>"Этот человек помилован. Отпустите его".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>77</ID>
+      <DefaultText>Он сурово глядит на вас: "Ты тут уже был, но без значка. Так ты из властей, или как?"</DefaultText>
+      <FemaleText>Он сурово глядит на вас: "Ты тут уже была, но без значка. Так ты из властей, или как?"</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>78</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>79</ID>
+      <DefaultText>Чиновник опять смотрит на ваш значок и учтиво кивает: "Чем могу помочь, господин?"</DefaultText>
+      <FemaleText>Чиновник опять смотрит на ваш значок и учтиво кивает: "Чем могу помочь, госпожа?"</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>80</ID>
+      <DefaultText>Он читает приказ. Тщательно изучает подпись, и, наконец, пожимает плечами: "Все так. Минуту".
+
+Он поворачивается к стражам: "Уберите смерть приговоренного и отпустите его. Он помилован".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>81</ID>
+      <DefaultText>Он поворачивается к вам и кланяется: "Вот, господин. Все готово".</DefaultText>
+      <FemaleText>Он поворачивается к вам и кланяется: "Вот, госпожа. Все готово".</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>82</ID>
+      <DefaultText>"Я маскировался, чтобы проверить вас. Вы работаете хорошо, но пленника надо освободить. Сейчас же".</DefaultText>
+      <FemaleText>"Я маскировалась, чтобы проверить вас. Вы работаете хорошо, но пленника надо освободить. Сейчас же".</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>83</ID>
+      <DefaultText>"Давай поговорим о чем-нибудь другом".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>84</ID>
+      <DefaultText>Он сурово глядит на вас: "Не было ли тебя тут раньше, без значка? Ты что это..."
+
+Он замолкает и опять глядит на темное небо: "Тьфу, да и пес с ним. Забирай этого Риса, а я пойду домой, к жене. Она, небось, от темноты сама не своя. Погоди".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>85</ID>
+      <DefaultText>"Прощай".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>86</ID>
+      <DefaultText>"Вот уж нет. Отвечай: ты работаешь на городские власти, или нет?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>87</ID>
+      <DefaultText>"Вот уж нет. Отвечай: ты работаешь на городские власти, или нет?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>88</ID>
+      <DefaultText>"Все, надоел ты мне", — вздыхает он. — "По хорошему, натравить бы на тебя стражей, но, видимо, этот Рис тебе сдался просто позарез. Мне на него плевать, так что, быть может, и договоримся. Скажем... шинов этак [Global: a2101_ExecutionOfficialDemand], и валите с ним на все четыре стороны".</DefaultText>
+      <FemaleText>"Все, надоела ты мне, — вздыхает он. — По хорошему, натравить бы на тебя новобранцев, но, видимо, этот Рис тебе сдался просто позарез. Мне на него плевать, так что, быть может, и договоримся. Скажем... шинов этак [Global: a2101_ExecutionOfficialDemand], и валите с ним на все четыре стороны".</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>89</ID>
+      <DefaultText>Он скептически смотрит на вас, а потом на приказ. Тщательно изучает подпись, и, наконец, пожимает плечами: "Ладно. Минуту".
+
+Он поворачивается к стражам: "Уберите смерть приговоренного и отпустите его. Он помилован".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>90</ID>
+      <DefaultText>Он читает приказ. Тщательно изучает подпись, и, наконец, качает головой и возвращает приказ: "Простите, но я не могу рисковать. А ну как это тоже какая-то проверка? Я не отпущу его".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>91</ID>
+      <DefaultText>Он нервно сглатывает: "А, понятно. Внезапная проверка. Что ж, посмотрим". Он читает приказ. Тщательно изучает подпись, и, наконец, улыбается: "Да, все по форме. Минуту".
+
+Он поворачивается к новобранцам: "Уберите смерть приговоренного и отпустите его. Он помилован".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>92</ID>
+      <DefaultText>Он читает приказ. Тщательно изучает подпись, и, наконец, качает головой и сминает бумагу: "Бумага такая же странная, как и ты. Уходи, пока я не приказал и тебя задержать".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>93</ID>
+      <DefaultText>"Спасибо. Я заплачу".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>94</ID>
+      <DefaultText>"Я не стану платить".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>95</ID>
+      <DefaultText>"У меня столько нет".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>96</ID>
+      <DefaultText>"Прощай".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>97</ID>
+      <DefaultText>Чиновник берет шины: "Большое спасибо. Минуту".
+
+Он поворачивается к стражам: "Уберите смерть приговоренного и отпустите его. Он помилован".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>98</ID>
+      <DefaultText>"Тогда и Риса не получишь. Подумай".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>99</ID>
+      <DefaultText>"Что же, возвращайся, как найдешь. Иначе я твоего приятеля не отпущу".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>100</ID>
+      <DefaultText>"Ну, если передумаешь, то цену ты знаешь".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>101</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>102</ID>
+      <DefaultText>Чиновник ухмыляется: "Все-таки решил договориться?"</DefaultText>
+      <FemaleText>Чиновник ухмыляется: "Все-таки решила договориться?"</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>103</ID>
+      <DefaultText>"Да, вот шины, все [Global: a2101_ExecutionOfficialDemand]. Отпустите его".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>104</ID>
+      <DefaultText>"Пока нет".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>105</ID>
+      <DefaultText>Он поворачивается к вам и кланяется: "Вот, господин. Все готово. Ой, погодите!"
+
+Из карманов своих одеяний чиновник достает небольшой сверток: "Вот его личные вещи. Мы собирались... э-э-э... отдать их бедным".
+{LOOT}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>106</ID>
+      <DefaultText>Он поворачивается к стражам: "Уберите смерть приговоренного и отпустите его. Он помилован".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>107</ID>
+      <DefaultText>Он поворачивается к вам: "Вот и все. Я домой".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>108</ID>
+      <DefaultText>"Добрый день. Ээ, ночь. Ээ..."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>109</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>110</ID>
+      <DefaultText>"Что здесь происходит?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>111</ID>
+      <DefaultText>"Напомните, что тут происходит?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>112</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>113</ID>
+      <DefaultText>Он бросает на Риса быстрый взгляд через плечо: "Приговоренный, Рис из Плосководья, подлежит публичной казни в назидание всем, кто решит нарушить законы Утесов Сагуса".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>114</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>115</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>116</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>117</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>118</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>119</ID>
+      <DefaultText>"Как проводится казнь?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>120</ID>
+      <DefaultText>"Напомните, как проводится казнь?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>121</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>122</ID>
+      <DefaultText>"Кто ты такой?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>123</ID>
+      <DefaultText>"Так кто же ты?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>124</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>125</ID>
+      <DefaultText>"Напомните, в чем преступление Риса?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>126</ID>
+      <DefaultText>"В чем преступление Риса?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>127</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>128</ID>
+      <DefaultText>Он слегка кланяется: "Меня зовут Йин, руководитель столичных наказаний. Советом я уполномочен организовывать публичные казни и следить за тем, чтобы они проходили спокойно".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>129</ID>
+      <DefaultText>"Йин, руководитель столичных наказаний. Я провожу все публичные казни в городе".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>130</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>131</ID>
+      <DefaultText>"Государственная измена. Он выдавал государственные тайны врагам Утесов Сагуса".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>132</ID>
+      <DefaultText>"Выдача государственных тайн. В Утесах Сагуса это считается за государственную измену".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>133</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>135</ID>
+      <DefaultText>"Пожалуйста. У приговоренного вызывают галлюцинации, и он начинает описывать свои видения. Слова выходят у него изо рта и обращаются в эту гниль, которая обертывается вокруг тела. Потихоньку эти щупальца удушивают его, а тело потом съедает Пожиратель Неправых".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>139</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>141</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>142</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>144</ID>
+      <DefaultText>"Этого я и боюсь! Дайте поговорить с отцом, пока еще не поздно!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>145</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>147</ID>
+      <DefaultText>"Это вопрос жизни и смерти! Прошу, дайте поговорить с отцом!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>148</ID>
+      <DefaultText>"Что? Подкупать меня? В такой час?" — на мгновение кажется, что он сейчас бросится на вас, но тут он вздыхает. — "Ладно, отвяжись только от меня. Плати [Global: a2101_ExecutionOfficialDemand] шинов и болтай с ним, сколько хочешь".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>149</ID>
+      <DefaultText>"Спасибо. Я заплачу".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>150</ID>
+      <DefaultText>Он выхватывает шины: "Ладно, иди. Но знай, что говорить с ним бесполезно, он ни услышит тебя, ни ответит. А если тронешь его двойник, то можешь и умереть. Так что держись подальше".
+
+{MONEY}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>151</ID>
+      <DefaultText>"Я не стану платить".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>152</ID>
+      <DefaultText>"Меньше не возьму. Подумай".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>153</ID>
+      <DefaultText>"У меня столько нет".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>154</ID>
+      <DefaultText>"Тогда ничем не могу помочь. Уходи".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>155</ID>
+      <DefaultText>"Забудь. Прощай".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>156</ID>
+      <DefaultText>"Да. Хорошо. До свидания".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>157</ID>
+      <DefaultText>"Несколько шинов?" — фыркает он. — "Несколько шинов? Ты, видать, недавно в Утесах. За несколько шинов тебе тут разве что в рожу не плюнут. А вот за [Global: a2101_ExecutionOfficialDemand] можно и потолковать".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>158</ID>
+      <DefaultText>"Спасибо. Я заплачу".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>159</ID>
+      <DefaultText>Он берет шины и машет рукой: "Ладно, иди. Но знай, что говорить с ним бесполезно, он ни услышит тебя, ни ответит. А если тронешь его двойника, то можешь и умереть. Так что держись подальше".
+
+{MONEY}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>160</ID>
+      <DefaultText>"Я не стану платить".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>161</ID>
+      <DefaultText>"Меньше не возьму. Подумай".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>162</ID>
+      <DefaultText>"У меня столько нет".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>163</ID>
+      <DefaultText>Он пожимает плечами: "Так раздобудь".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>164</ID>
+      <DefaultText>"Прощай".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>165</ID>
+      <DefaultText>"Если надумаешь, то предложение остается в силе. Пока он не умрет, конечно".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>166</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>167</ID>
+      <DefaultText>"Я рискну, если вы пропустите меня за несколько шинов".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>168</ID>
+      <DefaultText>"Насчет платы".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>169</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>171</ID>
+      <DefaultText>"Достал [Global: a2101_ExecutionOfficialDemand]? Или опять пустая болтовня?"</DefaultText>
+      <FemaleText>"Достала [Global: a2101_ExecutionOfficialDemand]? Или опять пустая болтовня?"</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>172</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>173</ID>
+      <DefaultText>"Может, несколько шинов помогут вам забыть о правилах?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>174</ID>
+      <DefaultText>"Насчет платы".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>175</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>177</ID>
+      <DefaultText>"Достал [Global: a2101_ExecutionOfficialDemand]? Или опять пустая болтовня?"</DefaultText>
+      <FemaleText>"Достала [Global: a2101_ExecutionOfficialDemand]? Или опять пустая болтовня?"</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>178</ID>
+      <DefaultText>"Я не имею отношения к властям. Это была отчаянная попытка обмануть вас и вызволить друга".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>179</ID>
+      <DefaultText>Он вздыхает: "Наконец-то, честность. Ладно. Теперь хоть понятно, что к чему. Тебе очень надо, а мне очень мало платят. Давай договоримся".
+
+Почесав подбородок и что-то прикинув, он говорит: "Допустим... [Global: a2101_ExecutionOfficialDemand] шинов, и делай с ним что хочешь".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>180</ID>
+      <DefaultText>По его приказу один из стражей вынимает устройство, похожее на круглое зеркало, и сжимает его раму. Зеркало крутится, пуская блики по смерти и мерзким жилам, которыми та опутала Риса. Скоро все это исчезает, Рис остается на помосте один, и лишь красная пыль вьется вокруг него.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>181</ID>
+      <DefaultText>По его приказу один из стражей вынимает устройство, похожее на круглое зеркало, и сжимает его раму. Зеркало крутится, пуская блики по смерти и мерзким жилам, которыми та опутала Риса. Скоро все это исчезает, Рис остается на помосте один, и лишь красная пыль вьется вокруг него.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>182</ID>
+      <DefaultText>По его приказу один из стражей вынимает устройство, похожее на круглое зеркало, и сжимает его раму. Зеркало крутится, пуская блики по смерти и мерзким жилам, которыми та опутала Риса. Скоро все это исчезает, Рис остается на помосте один, и лишь красная пыль вьется вокруг него.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>183</ID>
+      <DefaultText>"Ладно. Я не имею отношения к властям. Это была отчаянная попытка обмануть вас и вызволить друга".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>184</ID>
+      <DefaultText>"Ладно, ладно. Могу я просто подкупить вас?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>185</ID>
+      <DefaultText>"Забудь. Прощай".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>187</ID>
+      <DefaultText>Он смеется: "Так бы сразу! Давай договоримся".
+
+Почесав подбородок и что-то прикинув, он говорит: "Допустим... [Global: a2101_ExecutionOfficialDemand] шинов, и делай с ним что хочешь".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>188</ID>
+      <DefaultText>"Вы сказали, что не отпустите Риса. Может, шины заставят вас передумать?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>189</ID>
+      <DefaultText>"Велел же тебе убраться. А не то задержу!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>190</ID>
+      <DefaultText>"Пока ничего не нужно. До свидания".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>191</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>192</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>193</ID>
+      <DefaultText>"Когда приговоренный умрет, его тело съест Пожиратель Неправых".
+
+Он гордо вскидывает голову: "Вот так в Утесах вершится справедливость!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>194</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>195</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

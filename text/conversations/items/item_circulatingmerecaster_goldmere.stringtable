@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\items\item_circulatingmerecaster_goldmere</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>7</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>Вы достаете извитый проектор сознания из своих вещей и взвешиваете его рукой. Он легче, чем кажется. Жидкость внутри него успокаивается от вашего прикосновения. 
+
+Сознание, заключенное в устройстве, *не* успокаивается. Оно шипит и бурлит, наполняя ваш разум маленькими когтистыми тенями. Вас ослепляет головная боль, но несмотря на это — именно поэтому — вы чувствуете, что обязаны погрузиться в это сознание, чтобы оно полностью поглотило вас.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>Как только вы снова касаетесь устройства, сознание, заключенное в нем, заполоняет ваш разум, разрывая вашу защиту и требуя подчиниться.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>Рассмотреть проектор сознания.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>Жидкость внутри труб совершенно недвижна, как бы вы ни наклоняли это приспособление. Изредка к поверхности стекла всплывает пузырек, и что-то вздрагивает внутри устройства.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>Войти в сознание.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>Убрать проектор сознания.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

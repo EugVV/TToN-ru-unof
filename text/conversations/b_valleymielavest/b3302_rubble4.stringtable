@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\b_valleymielavest\b3302_rubble4</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>13</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>Несколько мелких раздробленных камней лежат под кучей валунов. Если их убрать, развалины рухнут.</DefaultText>
+      <FemaleText>Несколько мелких раздробленных камней лежат под кучей валунов. Если их убрать, развалины рухнут.</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>Несколько мелких камней удерживают на себе кучу валунов.</DefaultText>
+      <FemaleText>Несколько мелких камней удерживают на себе кучу валунов.</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>Несколько камней можно убрать. Те оставшиеся не смогут удержать валуны над ними. Куча рушится, и камни летят в вашу сторону.</DefaultText>
+      <FemaleText>Несколько камней можно убрать. Те оставшиеся не смогут удержать валуны над ними. Куча рушится, и камни летят в вашу сторону.</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>Куча не двигается с места.</DefaultText>
+      <FemaleText>Куча не двигается с места.</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>Выбить мелкие камни, чтобы сдвинуть валуны.</DefaultText>
+      <FemaleText>Выбить мелкие камни, чтобы сдвинуть валуны.</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText>Еще раз попытаться выбить мелкие камни.</DefaultText>
+      <FemaleText>Еще раз попытаться выбить мелкие камни.</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText>Отойти назад.</DefaultText>
+      <FemaleText>Отойти назад.</FemaleText>
+    </Entry>
+  </Entries>
+</StringTableFile>

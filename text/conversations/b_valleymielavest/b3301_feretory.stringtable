@@ -1,0 +1,147 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\b_valleymielavest\b3301_feretory</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>19</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>Ветер, овевающий это сооружение, необычно влажный и пахнет чем-то незнакомым. Каким-то мясом, гниющем на солнце. 
+
+В воздухе есть еще что-то. Тихий назойливый звон. Ощущение силы, тянущей в обратном направлении.  
+
+{COLIN (and possibly others): Setting global here so the PC can ask other people about this weird thing, as described in the ZDD. May not end up being necessary, but seems like it'd be a good thing to have.}</DefaultText>
+      <FemaleText>Ветер, овевающий это сооружение, необычно влажный и пахнет чем-то незнакомым. Каким-то мясом, гниющем на солнце. 
+
+В воздухе есть еще что-то. Тихий назойливый звон. Ощущение силы, тянущей в обратном направлении.  
+
+{COLIN (and possibly others): Setting global here so the PC can ask other people about this weird thing, as described in the ZDD. May not end up being necessary, but seems like it'd be a good thing to have.}</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>Волосы на ваших руках постепенно встают дыбом, когда вы приближаетесь к зданию.</DefaultText>
+      <FemaleText>Волосы на ваших руках постепенно встают дыбом, когда вы приближаетесь к зданию.</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>Рассмотреть здание.</DefaultText>
+      <FemaleText>Рассмотреть здание.</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>Еще раз рассмотреть здание.</DefaultText>
+      <FemaleText>Еще раз рассмотреть здание.</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>Вы протягиваете руку, чтобы дотронуться до пологой стены, но мешкаете. Странно. 
+
+Поверхность гладкая. Приятная. Но ваш инстинкт подсказывает вам, что нечто внутри здания *хочет*, чтобы вы коснулись стен, вошли внутрь. Поддались, упали на землю, остались без защиты...
+
+Вы отступаете назад, тряся головой.</DefaultText>
+      <FemaleText>Вы протягиваете руку, чтобы дотронуться до пологой стены, но мешкаете. Странно. 
+
+Поверхность гладкая. Приятная. Но ваш инстинкт подсказывает вам, что нечто внутри здания *хочет*, чтобы вы коснулись стен, вошли внутрь. Поддались, упали на землю, остались без защиты...
+
+Вы отступаете назад, тряся головой.</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>Вы протягиваете руку к сооружению, но вы по-прежнему не можете заставить себя дотронуться до него.</DefaultText>
+      <FemaleText>Вы протягиваете руку к сооружению, но вы по-прежнему не можете заставить себя дотронуться до него.</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>Отойти.</DefaultText>
+      <FemaleText>Отойти.</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText>"Да, не стоит этого делать. Никто из нас не знает, что это и почему Первая бросила его. Я *думаю*, что это последняя линия обороны от Скорби на случай, если все остальное не сработает. Другие считают иначе".
+
+Она фыркает. "Противно, не так ли?"</DefaultText>
+      <FemaleText>"Да, не стоит этого делать. Никто из нас не знает, что это и почему Первая бросила его. Я *думаю*, что это последняя линия обороны от Скорби на случай, если все остальное не сработает. Другие считают иначе".
+
+Она фыркает. "Противно, не так ли?"</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>15</ID>
+      <DefaultText>Сжав зубы, вы игнорируете волны отвращения, охватывающие вас, и прижимаете ладонь к поверхности здания. 
+
+Вы теряете зрение и падаете, проваливаясь в бездонную темноту сквозь груды липких мерзких тел. Они следят за вашими губами, всасывают влагу вокруг них и рьяно трут ваши глаза...
+
+Что-то хватает вас за сердце и *сдавливает* его. Это последнее, что вы чувствуете.
+
+{SOUND: PC screaming.}
+{SOUND: Slimy movement noises, matching the icky description above.}</DefaultText>
+      <FemaleText>Сжав зубы, вы игнорируете волны отвращения, охватывающие вас, и прижимаете ладонь к поверхности здания. 
+
+Вы теряете зрение и падаете, проваливаясь в бездонную темноту сквозь груды липких мерзких тел. Они следят за вашими губами, всасывают влагу вокруг них и рьяно трут ваши глаза...
+
+Что-то хватает вас за сердце и *сдавливает* его. Это последнее, что вы чувствуете.
+
+{SOUND: PC screaming.}
+{SOUND: Slimy movement noises, matching the icky description above.}</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>16</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>17</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>18</ID>
+      <DefaultText>Дотронуться до здания вопреки плохим предчувствиям.</DefaultText>
+      <FemaleText>Дотронуться до здания вопреки плохим предчувствиям.</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>19</ID>
+      <DefaultText>Пусть оно убьет вас снова.</DefaultText>
+      <FemaleText>Пусть оно убьет вас снова.</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>20</ID>
+      <DefaultText>Вы снова протягиваете руку к поверхности здания, несмотря на волны отвращения,. Вы сразу теряете зрение и падаете в бездонную темноту сквозь груды липких мерзких тел.
+
+Что-то с *силой* сдавливает ваше сердце прямо в груди, и вы больше ничего не чувствуете.
+
+{SOUND: PC screaming.}
+{SOUND: Slimy movement noises, matching the icky description above.}</DefaultText>
+      <FemaleText>Вы снова протягиваете руку к поверхности здания, несмотря на волны отвращения,. Вы сразу теряете зрение и падаете в бездонную темноту сквозь груды липких мерзких тел.
+
+Что-то с *силой* сдавливает ваше сердце прямо в груди, и вы больше ничего не чувствуете.
+
+{SOUND: PC screaming.}
+{SOUND: Slimy movement noises, matching the icky description above.}</FemaleText>
+    </Entry>
+  </Entries>
+</StringTableFile>

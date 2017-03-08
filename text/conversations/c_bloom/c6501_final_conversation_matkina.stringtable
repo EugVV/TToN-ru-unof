@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\c_bloom\c6501_final_conversation_matkina</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>14</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>{смеется}"Вот уж не думал, что доведется сразиться с Цветением, но у тебя, похоже, все под контролем. Может, когда придет твоя очередь быть съеденным, я вернусь. Побегаю от Скорби еще немного".</DefaultText>
+      <FemaleText>{смеётся}"Вот уж не думал, что доведётся сразиться с Цветением, но у тебя, похоже, всё под контролем. Может, когда придёт твоя очередь быть съеденной, я вернусь. Побегаю от Скорби ещё немного".</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText>{тяжело вздыхает}"Мне нужно отдохнуть от протектората Сагуса. Может, пойду в М'ра Джолиос, научусь дышать под водой".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>14</ID>
+      <DefaultText>Она задумывается, оглядывая двор. Затем сбрасывает капюшон и потягивается, после чего смеется.</DefaultText>
+      <FemaleText>Она задумывается, оглядывая двор. Затем сбрасывает капюшон и потягивается, после чего смеется.</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>15</ID>
+      <DefaultText>"Для начала верну Цветение. А там посмотрим".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>16</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>17</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\companions\respawn barks\a2332_respawn_barks</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>11</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>"Забыл, как работают твои машины, а?"</DefaultText>
+      <FemaleText>"Забыла, как работают твои машины, а?"</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>"Жаль, Алигерн этого не видит: он бы убедился, что ты ничуть не похож на своего предка".</DefaultText>
+      <FemaleText>"Жаль, Алигерн этого не видит: он бы убедился, что ты ничуть не похожа на своего предка".</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>"Убит изделиями нашего предка? Уж лучше ты, чем я".</DefaultText>
+      <FemaleText>"Убита изделиями нашего предка? Уж лучше ты, чем я".</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>"Я много чего странного в жизни повидал, но первый раз вижу, чтобы кого-то убило зеркало".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>"Смерть от зеркала не очень-то... героическая".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>"Умирать *больно*?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>Затуманенным зрением вы пытаетесь рассмотреть комнату, в которой находитесь. Когда вещи приобретают очертания, а цвета проясняются, ваш разум возвращается из Лабиринта, и вы чувствуете, как ваше тело собирается. В нос бьет резкий запах грязной воды и соленых стоков.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>Один шифр лежит возле вашей вытянутой руки. Его тщательно пожевали, погрызли и искусали, так что он явно больше не работает. Зубы абикоса привели шифр в полную негодность.
+
+{SCRIPT: PC has at least one cypher in his/her possession}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText>Вы поднимаетесь на ноги.</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

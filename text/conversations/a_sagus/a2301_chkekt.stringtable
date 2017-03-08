@@ -1,0 +1,2058 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\a_sagus\a2301_chkekt</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>395</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>Когда вы приходите в себя, Ч'кект наклоняется вперед. "Ч'кект чувствовать гранит. Знания", — рокочет он. Из его дыхальца исходит тонкая струя газа. Стихус смотрит на вас, а его поза и осторожные движения выдают его вопрос: "Человек говорит на языке стихусов?"
+
+В дело вступает ваша мышечная память. Вы показываете правильный ответ.
+
+Ч'кект создает запах молнии.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>Ч'кект молча смотрит на вас, затем начинает свою пантомиму. Запах тоннелей и металла заполняет воздух.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>Это огромное существо возвышается над вами. Запах молнии и подземной пещеры обрушивается на вас, и отчетливо говорит вам о любопытстве. Он чирикает и грохочет, махая своими большими лапами в выразительном танце.
+
+Что-то в этих запахах, звуках и движениях кажется вам знакомым, вызывает что-то в глубинах вашего разума.
+
+Но теперь вы хотя бы определили классификацию: это стихус — огромное землеройное насекомообразное.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>Вы направляете Потоки на себя, развеивая остатки амнезии, поразившей ваш разум. Легкие вспышки в поле зрения, мандалы, танцующие перед глазами и куча изображений, мельтешащие в вашей памяти.
+
+Вы видите, как вы взаимодействуете со стихусом, обмениваясь знаками, маленькую коробку между вами, переводящую ваши слова и мысли, заставляющая ваши мышцы реагировать.
+
+Информация врывается в ваш мозг. Запах гранита касается ваших ноздрей: *знания*.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>Фигура Ч'кекта нависает над вами, когда вы подходите ближе, и легкий запах свежего воздуха и цветочного аромата подсказывает вам, что стихус *не* рад вашей встрече. "Вор яиц. Сородичи двигаться быстро. Но рытье занимать время. Новый дом ждать".</DefaultText>
+      <FemaleText>Фигура Ч'кекта нависает над вами, когда вы подходите ближе, и легкий запах свежего воздуха и цветочного аромата подсказывает вам, что стихус *не* рад вашей встрече. "Воровка яиц. Сородичи двигаться быстро. Но рытье занимать время. Новый дом ждать".</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>Он указывает на себя и произносит "Ч'кект", сопровождая это потоком писклявых звуков.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>Теперь вы вспомнили. Этот ломаный язык похож на смешанный диалект, но вы достаточно хорошо понимаете его, чтобы общаться. "Я Ч'кект. Говорящий коричневым личинкам — человекам. Ты говорить мне, я говорить стихусам".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>14</ID>
+      <DefaultText>"Человек вернуться. Что ты хотеть?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>15</ID>
+      <DefaultText>Как обычно, чириканье вам ни о чем не говорит. Но ему удается выдать несколько слов Истины. "Что ты хотеть?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>16</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>17</ID>
+      <DefaultText>Попытаться вспомнить, как говорить на языке стихусов.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>18</ID>
+      <DefaultText>Откопать в памяти забытые знания об языке стихусов.
+
+{GEORGE/ADAM: Ch'kekt is Oblivious, so this is an exception to the Tidal Surge rule — the PC uses a Tidal Surge on himself to unlock his own knowledge.}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>19</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>23</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>24</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>25</ID>
+      <DefaultText>Ваш разум мутнеет, на вас накатывает воспоминание из забытых глубин.
+
+Вы видите, как терпеливо общаетесь со стихусом жестами. И видите маленькую коробку между вами, переводящую ваши слова и мысли.
+
+Каждый раз, когда он передает мысль, устройство отправляет импульс к соответствующему участку вашего мозга, который затем передает его вашим конечностям, превращая вас в марионетку.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>26</ID>
+      <DefaultText>Вы уходите вглубь своего разума, блокируя внешние отвлекающие факторы, чтобы дать волю воспоминаниям. Должна быть причина, почему этот язык кажется вам знакомым. *Должна*.
+
+Но сколько бы вы ни старались, вы лишь видите перед собой небольшую мигающую коробку. Больше никаких мыслей.
+
+В итоге вы прекращаете попытки. Бесполезно.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>27</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>28</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>29</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>31</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>32</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>33</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>34</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>35</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>36</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>37</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>38</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>39</ID>
+      <DefaultText>"Что ты можешь рассказать мне об этом месте?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>40</ID>
+      <DefaultText>"Можешь рассказать мне об этом месте еще раз?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>44</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>45</ID>
+      <DefaultText>Он смотрит на вас пристально, затем его лопатовидные пальцы начинают медленный и завораживающий танец. При этом он производит звуки, похожие на медленное заливистое чириканье, сопровождающееся запахом озона. "Хорошая скала. Полная электричества".
+
+"Это наш дом". Слово «дом» также означает «тоннель» или «святилище», смысл неоднозначен".
+
+"Принести сюда яйца, выводить. Рыть здесь ради безопасности и еды. Хорошая скала". Он ударяет по стене тоннеля, и куски камня крошатся под натиском его огромной клешни. "Найти тайное место для новых яиц. Личинки людей могут украсть или раздавить".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>46</ID>
+      <DefaultText>"Это наш дом". Слово «дом» также означает «тоннель» или «святилище», смысл неоднозначен.
+
+"Принести сюда яйца, выводить. Рыть здесь ради безопасности и еды. Хорошая скала". Он ударяет по стене тоннеля, и куски камня крошатся под натиском его огромной клешни. "Найти тайное место для новых яиц. Личинки людей могут украсть или раздавить".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>47</ID>
+      <DefaultText>"Хороший тоннель. Много скрытых ходов. Места для хранения яиц. Мощное электричество во время рытья ходов — хорошо для питания".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>48</ID>
+      <DefaultText>"Хороший дом. Надежный". Он качается взад и вперед.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>49</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>50</ID>
+      <DefaultText>"Я хочу узнать, как попасть в Пещеру Последних Слов".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>51</ID>
+      <DefaultText>"Отведи меня в Пещеру Последних Слов".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>52</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>53</ID>
+      <DefaultText>"Я слышал, что у Меняющегося Бога есть святилище под городом. Можешь отвести меня туда?"</DefaultText>
+      <FemaleText>"Я слышала, что у Меняющегося Бога есть святилище под городом. Можешь отвести меня туда?"</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>54</ID>
+      <DefaultText>"Я хочу попасть в святилище Меняющегося Бога".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>55</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>56</ID>
+      <DefaultText>Существо внимательно слушает вас, затем медленно поворачивается всем телом, вытянув руки вперед. От Ч'кекта исходит резкий запах медленно переваривающихся внутренних органов. "Нет", — каркнул он. — "Людям нельзя".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>57</ID>
+      <DefaultText>Он продолжил. "Он соединяться с тоннелями, где отложить яйца. Человеки неосторожны. Наступать на яйца, наносить вред личинкам".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>58</ID>
+      <DefaultText>"Нет. Я уже сказать. Нужно остановить рыбоголовых. Нельзя видеть яйца".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>59</ID>
+      <DefaultText>Он качает головой, и вы чувствуете запах застывающей магмы. Он приносит вам сожаление... и понимание того, что настаивать нельзя.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>60</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>61</ID>
+      <DefaultText>Стихус щелкает и свистит, испуская запах теплого гравия . Вы разбираете только "да" и "шины".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>62</ID>
+      <DefaultText>"Возможно отвести", — бурчит он, хотя его запах говорит о его нежелании и осторожности. — "Нужно заплатить. [Global: a2301_StichusTravel] шинов".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>63</ID>
+      <DefaultText>Он смотрит на вас подозрительно. "За путешествие надо платить. Нужны шины. Цена [Global: a2301_StichusTravel] шинов".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>64</ID>
+      <DefaultText>Стихус показывает, что понимает вас, и вытаскивает несколько шинов из скрытой трещины в панцире. Он показывает на шины, затем на вас. От него начинает исходить запах, очень похожий на свежеиспеченный хлеб, и вы понимаете, что нужно заплатить за услугу.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>65</ID>
+      <DefaultText>"Человеки", — ворчит он. — "Человеки приходить в тоннели, убивать личинки. Кто? Кто убивать стихусов? Больше не быть человекам в тоннелях. Хватит!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>68</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>69</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>70</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>71</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>73</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>75</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>77</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>78</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>79</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>80</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>81</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>82</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>83</ID>
+      <DefaultText>"Ты можешь отвести меня к Краю Утеса?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>84</ID>
+      <DefaultText>"Ты можешь отвести меня назад к Краю Утеса?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>85</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>86</ID>
+      <DefaultText>"Что ты думаешь о Пелиай?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>87</ID>
+      <DefaultText>"Мы можем еще раз поговорить о Пелиай?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>88</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>89</ID>
+      <DefaultText>Стихус выглядит слегка растерянным. "Кто?" И снова задумывается.
+
+Затем он распыляет феромоны, и вы чувствуете сильный едкий запах кислоты и ослабленного камня. Пахнет недоверием.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>90</ID>
+      <DefaultText>"Пелиай. Рыбоголовая личинка. Плохой". Он наклоняется поближе. "Он хотеть яйца. Я чувствовать желание".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>91</ID>
+      <DefaultText>"Рыбоголовый. Неправильная личинка. Странно сиять в глазах стихуса. И плохо пахнуть в мозгу. Походить на других людей". Рукой он отрывает кусок камня от стены.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>92</ID>
+      <DefaultText>Стихус выпускает едва заметное облако пара, и от него исходит запах протухших яиц. Похоже, Ч'кект совершенно не доверяет Пелиай.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>93</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>94</ID>
+      <DefaultText>"Можешь рассказать мне о стихусах?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>95</ID>
+      <DefaultText>"Можешь рассказать поподробнее о стихусах?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>96</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>97</ID>
+      <DefaultText>Он легонько царапает стену и несколько вспышек молний отлетают от антенн на его голове. Он пожимает плечами, вы чувствуете запах пыли.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>98</ID>
+      <DefaultText>"Мы стихусы. Жить в камнях, рыть глубоко, питаться электрическими зарядами. Не враги человекам, держаться общинами. Мы вырасти в новом доме. Еще? Можно. Но это частности, долго. Человеку не интересно".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>99</ID>
+      <DefaultText>Он ненадолго задумывается, затем выпускает облако феромонов, которое пахнет мягким грунтом, крошащимся под твердой рукой. Запах говорит вам о его покорном согласии.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>100</ID>
+      <DefaultText>Его чириканье и рокот все еще непостижимы для вас. Он кивает головой в вашу сторону и, когда вы не в состоянии ответить, он заливается трелью: "Говорить следующий вопрос".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>101</ID>
+      <DefaultText>"Я нашел мертвого стихуса неподалеку. Тебе что-то известно об этом?"</DefaultText>
+      <FemaleText>"Я нашла мертвого стихуса неподалеку. Тебе что-то известно об этом?"</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>102</ID>
+      <DefaultText>"Я нашел стихуса на Краю Утеса. Он прячется в шахтном отвале, а люди хотят убить его. Ты можешь помочь?"</DefaultText>
+      <FemaleText>"Я нашла стихуса в Утесах Сагуса. Он прячется в шахтном отвале, а люди хотят убить его. Ты можешь помочь?"</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>103</ID>
+      <DefaultText>"Ты просил меня убедиться, что изгнанный стихус мертв. Так вот, он мертв".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>104</ID>
+      <DefaultText>"Я хотел бы задать еще несколько вопросов".</DefaultText>
+      <FemaleText>"Я хотела бы задать еще несколько вопросов".</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>105</ID>
+      <DefaultText>"Смертоносный тоннель. Сородич ослаблен. Не может кормить себя. Не может кормить яйца. Рыть тоннель, чтобы обрушить его на себя. Не хотеть быть обузой семье стихусов".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>106</ID>
+      <DefaultText>Он пристально смотрит на вас, как будто сам не может поверить в то, что услышал. "Слабый. Изгой. Не кормить себя, обуза для сородичей. Должен быть *мертвым*".
+
+От стихуса начинает исходить сухой заплесневелый запах, мерзкий запах трупа насекомого на подоконнике.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>107</ID>
+      <DefaultText>"Слаб или нет, он не заслужил смерть от рук бандита. Он же из твоего *рода*".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>108</ID>
+      <DefaultText>"Если это обуза для твоего народа, я не буду вмешиваться".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>109</ID>
+      <DefaultText>Стихус снова надолго уставился на вас. У вас ощущение, будто его глаза способны видеть то, что недоступно человеческому зрению.
+
+"Странная у человеков забота. Почему так много чести для стихуса?" Легкий ветерок недоумения проносится мимо вашего носа.
+
+"Но пусть. Если человеку не все равно, Ч'кект не все равно. Будем спасать".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>110</ID>
+      <DefaultText>"Нет. Иногда жизнь пуста. Паразитарна. Не приносит ничего. Если стихус спасти изгоя, он все равно умереть от голода".
+
+Он остановился. "Человек убить изгоя? Полезно для всех. Нужно наградить".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>111</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>112</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>113</ID>
+      <DefaultText>Его антенны дернулись в вашу сторону, а он откинулся назад с довольным видом. "Да. На тебе есть запах смерти. Вот награда как обещать". Он кладет вам в руку странный механизм. "Найти в камне. Еще работать".
+{LOOT}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>114</ID>
+      <DefaultText>"Согласен. Дела стихусов касаться стихусов". Он отворачивается, совершенно теряя интерес к данному вопросу.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>115</ID>
+      <DefaultText>Его когтистая лапа сгибается и сжимается. "Спрашивать".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>116</ID>
+      <DefaultText>"Пока это все. Прощай".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>117</ID>
+      <DefaultText>"Пока это все. Прощай".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>118</ID>
+      <DefaultText>::чк-клт::</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>119</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>120</ID>
+      <DefaultText>"Как вы оказались под Утесами Сагуса?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>121</ID>
+      <DefaultText>"Расскажи мне еще раз, как вы оказались под Утесами Сагуса".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>122</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>123</ID>
+      <DefaultText>Он пожимает плечами, скрежеща пластинами своего увесистого панциря. "Недостаточно древний, чтобы сказать. Всего четыре поколения в пещерах. Мы жить инстинктом. Только угадывать наследие. Воспоминания украдены" — сокрушается он.
+
+Он хлопает по стене рядом с собой. "Стихус вылупиться из яйца. Да? Да. Торговцы приходить из злого Соцветия. Другие миры".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>124</ID>
+      <DefaultText>"Не помнить. Украденные яйца предков принести сюда. Никогда не видеть родины. Никогда не видеть природных небес. Знать только этот мир. Это не наш мир". Он завел песенку и аромат потери и неудачи окутал его.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>125</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>126</ID>
+      <DefaultText>"Зачем вы здесь роете?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>127</ID>
+      <DefaultText>"Можешь еще раз объяснить, зачем вы здесь роете?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>128</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>129</ID>
+      <DefaultText>"Эта рука..." — Ч'кект поднимает свою массивную руку, — "...рыть. Извлекать энергию из трения камня. Есть электрические заряды. Заряжаться электричеством". Он указывает на острые наросты на своем панцире.
+
+"Здесь хороший камень. Твердый. Много электричества. Лучшее из найденных. Другие места... нехорошие".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>130</ID>
+      <DefaultText>"Здесь еда. Твердый камень хорошо. Больше электричества есть. Больше энергии. Стихусы не голодать здесь".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>131</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>132</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>133</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>134</ID>
+      <DefaultText>"Раз мы с этим разобрались, я хотел бы задать еще несколько вопросов о стихусах".</DefaultText>
+      <FemaleText>"Раз мы с этим разобрались, я хотела бы задать еще несколько вопросов о стихусах".</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>135</ID>
+      <DefaultText>"Я хотел бы спросить о другом".</DefaultText>
+      <FemaleText>"Я хотела бы спросить о другом".</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>136</ID>
+      <DefaultText>"У меня больше нет вопросов. Прощай".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>137</ID>
+      <DefaultText>"Говори. Ч'кект ответить".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>138</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>139</ID>
+      <DefaultText>"Зачем вы копаете под жилыми районами?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>140</ID>
+      <DefaultText>"Ты утверждал, что живущие под землей не наделены разумом. Это неправда".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>141</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>142</ID>
+      <DefaultText>Стихус смотрит на вас безучастно, его глаза мерцают. Кажется, он пытается сформулировать свои мысли так, чтобы вы могли понять. "Стихусы должны выжить. Должны жить там, где еда, да?"
+
+Он не дожидается ответа. "Человеки смотреть свой каждый шаг? Они не наступать на насекомых? Не влиять на жизни других? Жертвовать это естественно".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>143</ID>
+      <DefaultText>Стихус раскачивается взад и вперед. "Человеки простые. Воевать. Кушать. Убивать. Пытаться украсть яйца. Нет гармонии. Они разумны?" В его голосе слышна насмешка.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>144</ID>
+      <DefaultText>"Спрашивать".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>145</ID>
+      <DefaultText>"Спрашивать".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>146</ID>
+      <DefaultText>"Но яйца в надежном месте. Тайном. Не дать врагам забрать яйца, нанести вред сородичам".
+
+Вы чувствуете исходящий от стихуса запах затвердевших раковин, кальция и плавящегося кремния, аромат решимости и безопасности. "Не дать *никому* нанести вред яйцам без боя".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>147</ID>
+      <DefaultText>Стихус резко наклоняется, и от его спины начинает исходить теплый запах раскаленного камня. "Друг стихусов. Да. Для тебя без денег. Бесплатно".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>148</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>149</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>150</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>151</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>152</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>153</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>154</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>155</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>156</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>157</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>158</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>159</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>160</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>161</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>162</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>163</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>164</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>165</ID>
+      <DefaultText>"Зачем стихусам шины?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>166</ID>
+      <DefaultText>"Человек продавать нуменеры. Звать Микела. Она обменивать стихусам шины и нуменеры. Стихусы менять шины на нуменеры для раскопок. Если встроить в стены и тоннели, они усиливать их. Поэтому шины".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>167</ID>
+      <DefaultText>Он указывает на ваш пояс с инструментами и на вас, и вы полагаете, что стихус хочет купить у вас вещи.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>168</ID>
+      <DefaultText>"Я понимаю твою озабоченность, но я не буду трогать яйца".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>169</ID>
+      <DefaultText>"Ладно. Теперь я могу спросить о другом?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>170</ID>
+      <DefaultText>"Отлично. Прощай".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>171</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>172</ID>
+      <DefaultText>Стихус кивает. "Человек знать язык. Это хорошо. Но рыбоголовые люди хотеть получить яйца. Нельзя рисковать. Реши проблему, тогда говорить".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>173</ID>
+      <DefaultText>"Позволь спросить о другом".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>174</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>175</ID>
+      <DefaultText>Стихус терпеливо ждет.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>176</ID>
+      <DefaultText>Существо начинает чирикать и испускать запахи, говорящие о его глубоком, но сдерживаемом гневе. Он завершает свою проповедь резким взмахом руки и абсолютно четко произносит: "Нет. Человеки. Кто убивать стихусов?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>177</ID>
+      <DefaultText>(Ложь) "Понятия не имею, кто это делает, но я хотел бы задать пару вопросов".</DefaultText>
+      <FemaleText>(Ложь) "Понятия не имею, кто это делает, но я хотела бы задать пару вопросов".</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>178</ID>
+      <DefaultText>"Это я разорил ваше гнездо. Я убил твоих сородичей и растоптал их тела".</DefaultText>
+      <FemaleText>"Это я разорила ваше гнездо. Я убила твоих сородичей и растоптала их тела".</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>179</ID>
+      <DefaultText>"Прощай, Ч'кект".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>180</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>181</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>182</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>183</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>184</ID>
+      <DefaultText>Широкоплечий стихус расхаживает взад-вперед, размахивая своими огромными руками. Замечая, как вы приближаетесь, он издает низкий, грохочущий звук.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>185</ID>
+      <DefaultText>Ч'кект не сдвинулся с места. Он осматривает Подбрюшье своей дюжиной глаз, как будто мысленно очищая его от врагов. Наконец его пристальный взгляд останавливается на вас. "Человеки. Тут вам не рады".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>186</ID>
+      <DefaultText>Издавая гневное чириканье, Ч'кект атакует!</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>187</ID>
+      <DefaultText>"Кто убивать стихусов? Уходи!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>188</ID>
+      <DefaultText>Стихус отворачивается от вас. Его ответ очевиден. "Нет. Человеки должны уйти".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>189</ID>
+      <DefaultText>"Уходи".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>190</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>191</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>192</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>193</ID>
+      <DefaultText>"Я сказать уже, нет! Куда мы идти?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>194</ID>
+      <DefaultText>Ч'кект машет руками, и воздух наполняется ароматом медленно растущих грибов. Вам кажется, что он спрашивает: "Почему?", и снова следует поток непонятного чириканья. Затем он произносит медленно и твердо: "Не знать наш язык. Не работать для нас. Нет. Не сейчас. Мы копать".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>197</ID>
+      <DefaultText>"Я знаю место получше, где в могли бы копать — пик из черного камня недалеко отсюда, полный энергий былых миров".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>198</ID>
+      <DefaultText>"Вы могли бы уйти глубже под город".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>199</ID>
+      <DefaultText>"Я могу обещать тебе, что город будет платить регулярную дань в виде энергии вашему народу".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>200</ID>
+      <DefaultText>"Люди на поверхности страдают".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>201</ID>
+      <DefaultText>Дыхальце стихуса подергивается, и аромат мрамора и глины наполняет воздух. "Лучше камень?" Похоже, он задумался над вашими словами. "Мы могли найти пик... если хотеть".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>202</ID>
+      <DefaultText>"Были. Плохой камень. Мягкий. Неэффективный. Слабое электричество". Он откинулся назад. "Что еще?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>203</ID>
+      <DefaultText>Стихс тянется вперед с заинтересованным видом, и от него начинает исходить запах искр. "Почему они не предложить раньше? Это хорошо. Что еще?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>204</ID>
+      <DefaultText>"Когда люди копать, они о нас думать? Нет? Почему мы думать о них?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>205</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>206</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>207</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>208</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>209</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>210</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>211</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>212</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>213</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>214</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>215</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>216</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>217</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>219</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>220</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>221</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>222</ID>
+      <DefaultText>Он кивает. "Да. Для друга стихусов, да. Я отвести в тоннель с яйцами. Затем пойти на место, да?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>223</ID>
+      <DefaultText>"Мы обязаны другу яиц за помощь. Только не трогать ничего. Идем".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>224</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>225</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>226</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>227</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>228</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>229</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>230</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>231</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>232</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>233</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>234</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>235</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>236</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>237</ID>
+      <DefaultText>"Забудь. Прощай".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>238</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>239</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>240</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>241</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>242</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>243</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>244</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>245</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>246</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>247</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>248</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>249</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>250</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>251</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>252</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>253</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>254</ID>
+      <DefaultText>Атаковать стихуса.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>255</ID>
+      <DefaultText>"Прощай тогда".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>256</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>257</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>258</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>259</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>260</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>261</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>262</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>263</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>264</ID>
+      <DefaultText>::щелк-чк::</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>265</ID>
+      <DefaultText>"Враг яиц хотеть путешествовать? Нет. Никогда".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>266</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>268</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>269</ID>
+      <DefaultText>Некоторое время он размышляет над вашими словами, и исходящие от него ароматы, от пугающих до обычных, сменяют друг друга. В итоге запах синтетики и каленого стекла касается вашего носа, и Ч'кект изрекает: "Человек дать веский довод. Да. Стихусы согласны".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>270</ID>
+      <DefaultText>Некоторое время он размышляет над вашими словами, затем нависает над вами с угрожающим видом. "Нет. Это дом. Человеков можно остановить, если надо. Может люди переселиться? Они строить на еде и удивляться, что мы ее есть? Мы оставаться".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>271</ID>
+      <DefaultText>Он кладет руку на стену и начинает барабанить пальцами. "Мы переселить народ в новый дом в черном шпиле. Стихусы не беспокоить коричневые личинки. Мы уходить".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>272</ID>
+      <DefaultText>Он царапает стену и начинает стучать по ней пальцами. "Стихусы уйти глубже, зарыться где меньше камня. Голодать ради человеков. Лучше не воевать с человеками".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>274</ID>
+      <DefaultText>"Куда идти?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>275</ID>
+      <DefaultText>Стихус смотрит на вас и издает низкий, опасный горловой скрежет. "Вор яиц", — грохочет он. Его окружает зловонный запах протухшего озона. Его когти дергаются, он отрывает от стены большую глыбу камня и стирает ее в порошок.</DefaultText>
+      <FemaleText>Стихус смотрит на вас и издает низкий, опасный горловой скрежет. "Воровка яиц", — грохочет он. Его окружает зловонный запах протухшего озона. Его когти дергаются, он отрывает от стены большую глыбу камня и стирает ее в порошок.</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>276</ID>
+      <DefaultText>Из глотки Ч'кекта вырывается глухой рык. "Вор яиц. Красть будущее. Стирать прошлое. Отдать будущее стихусов рыбоголовой личинке, Пелиай? Его здесь не ждать. Никогда".</DefaultText>
+      <FemaleText>Из глотки Ч'кекта вырывается глухой рык. "Воровка яиц. Красть будущее. Стирать прошлое. Отдать будущее стихусов рыбоголовой личинке, Пелиаю? Его здесь не ждать. Никогда".</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>277</ID>
+      <DefaultText>"Друг яиц", — свистит Ч'кект. Запах пыли и спертого воздуха окружает его. Он явно рад вас видеть.
+
+"Стихусы копать глубоко, как обещать. Камень там не такой хороший". Он выпускает облако защемленного газа, как будто расправляя плечи. "Но Ч'кект обещать, стихусы переехать".
+
+"Человек хочет путешествовать?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>279</ID>
+      <DefaultText>Его плечи опущены, но от него исходит аура уверенности... и запах мумифицированных трупов. "Яйца возвратить. Мы уходить".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>280</ID>
+      <DefaultText>Ч'кект щебечет, распевая: "Вор яиц. Ты отдать детей. Хорошо". Он выглядит отрешенным, но аромат древних ядовитых грибов заполняет воздух, напоминая вам о подавляемом гневе. "Мы скоро уходить".</DefaultText>
+      <FemaleText>Ч'кект щебечет, распевая: "Воровка яиц. Ты отдать детей. Хорошо". Он выглядит отрешенным, но аромат древних ядовитых грибов заполняет воздух, напоминая вам о подавляемом гневе. "Мы скоро уходить".</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>281</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>282</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>283</ID>
+      <DefaultText>Фигура Ч'кекта нависает над вами, когда вы подходите ближе, и легкий аромат свежего воздуха и цветов подсказывает вам, что стихус *не* рад вашей встрече. "Мы уходить" — прощебетал он. "Что ты хотеть?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>284</ID>
+      <DefaultText>Хотя его поведение выдает его ярый гнев, Ч'кект изо всех сил пытается изобразить беспечную позу. "Ч'кект чувствовать яйца. Человек не вредить яйцам. Что ты хотеть?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>285</ID>
+      <DefaultText>"Друг яиц" — свистит Ч'кект. Запах пыли и спертого воздуха окружает его. Он явно рад вас видеть. 
+
+"Стихусы переехать в новый дом. Хорошее место. Ч'кект скоро уходить. Человек хотеть путешествовать перед тем как Ч'кект уходить? Для хорошего человека бесплатно".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>286</ID>
+      <DefaultText>Стихус держит свои крупные когти широко раскинутыми и медленно двигается. Он него исходит слабый запах *терпения*. "Не вредить яйцам", — грохочет Ч'кект .</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>287</ID>
+      <DefaultText>"Человек говорит на языке стихусов", — бурчит Ч'кект. — "Ч'кект будет говорить".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>288</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>289</ID>
+      <DefaultText>"Если вы не прекратите копать, вы пострадаете".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>291</ID>
+      <DefaultText>"Ладно. Позволь мне спросить о другом".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>292</ID>
+      <DefaultText>Он ждет, что вы скажете.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>293</ID>
+      <DefaultText>Стихус покачивает своей большой головой и делает шаг назад, испуская запах гниения, канализации и рушащихся тоннелей.
+
+"Нет угрозы", — прочирикал он. — "Мы не должны страдать".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>294</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>295</ID>
+      <DefaultText>"Если вы не прекратите рыть под городом, я обещаю вам, что вы будете страдать".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>296</ID>
+      <DefaultText>"Я отдам ваши яйца".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>297</ID>
+      <DefaultText>Стихус застыл на мгновенье. "Сильный аргумент. Что еще?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>299</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>300</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>301</ID>
+      <DefaultText>Стихус аккуратно забирает у вас яйца, пряча их в глубокий альков в камне неподалеку. "Теперь уходить, человек. Покидать тоннели".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>302</ID>
+      <DefaultText>Стихус аккуратно забирает у вас яйца, пряча их в глубокий альков в камне неподалеку. "Теперь уходить, человек. Покидать тоннели".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>303</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>304</ID>
+      <DefaultText>"Никогда Ч'кект не говорить так человекам. Слышать от предков, не верить. Человек почти разумный? Представь! Личинки думать как стихусы!"
+
+Он сложил руки вместе. "Говори мудро. Лучше сейчас".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>310</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>311</ID>
+      <DefaultText>"Эта рука..." — Ч'кект поднимает свою массивную руку, — "...рыть. Извлекать энергию из трения камня. Есть электрические заряды. Заряжаться электричеством". Он указывает на острые наросты на своем панцире.
+
+"Здесь хороший камень. Твердый. Много электричества. Лучшее из найденных. Другие места... нехорошие".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>312</ID>
+      <DefaultText>"Здесь еда. Твердый камень хорошо. Больше электричества есть. Больше энергии. Стихусы не голодать здесь".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>313</ID>
+      <DefaultText>"Да. Рад перевозить друзья людей. Бесплатно".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>314</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>315</ID>
+      <DefaultText>Под запах теплого гравия стихус щелкает и свистит. Вы разбираете только "да" и "платить".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>316</ID>
+      <DefaultText>"Может отводить", — бурчит он, хотя его запах говорит о его нежелании и осторожности. "Надо платить. [Global: a2301_StichusTravel] шинов".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>317</ID>
+      <DefaultText>"Путешествие стоить денег. [Global: a2301_StichusTravel] шинов. Да или нет?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>321</ID>
+      <DefaultText>"Если вы не прекратите рыть под городом, я обещаю вам, что вы будете страдать".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>322</ID>
+      <DefaultText>Стихус испускает гнилой запах, машет своими огромными руками и причитает своими маленькими ротовыми отверстиями. Вы не разбираете ничего из того, что он говорит.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>323</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>324</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>325</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>326</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>327</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>328</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>329</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>330</ID>
+      <DefaultText>::ч-т-к-КЛКТ::</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>331</ID>
+      <DefaultText>"Ч'кект путешествовать куда хотеть друг яиц. Мы идти".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>332</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>333</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>334</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>335</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>336</ID>
+      <DefaultText>"Спрашивать", — рычит он.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>337</ID>
+      <DefaultText>"Почему нет?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>338</ID>
+      <DefaultText>Он обдумывает следующую фразу, и его глаза сверкают зеленым в тусклом свете пещеры. "Доверять людям. Нет. Воры яиц. Заставь рыбоголовую личинку уйти, может говорить".
+
+Запах затхлой воды ударяет вам в нос. Он говорит об опасности.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>339</ID>
+      <DefaultText>Из груди стихуса вырывается глубокий рокот, и запах разлагающегося мяса обволакивает его.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>340</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>341</ID>
+      <DefaultText>"Вор яиц. Как ты".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>342</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>343</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>344</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>345</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>346</ID>
+      <DefaultText>Заплатить [Global: a2301_StichusTravel] шинов.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>347</ID>
+      <DefaultText>"Мы идти".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>348</ID>
+      <DefaultText>"Нет. Я хочу спросить тебя о другом".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>349</ID>
+      <DefaultText>"Забудь. Прощай".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>350</ID>
+      <DefaultText>Стихус тяжело качает головой. "Недостаточно сильный, чтобы обрушить тоннель. Неудачник. Слишком слабый, наверно".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>351</ID>
+      <DefaultText>"Она попросила меня вернуть ваши яйца".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>352</ID>
+      <DefaultText>"Я думаю, ей можно доверять".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>353</ID>
+      <DefaultText>"У меня есть еще несколько вопросов".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>354</ID>
+      <DefaultText>"Хорошо. До свидания".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>355</ID>
+      <DefaultText>Тяжелый камень крошится в пыль в кулаке Ч'кекта. "Да. Знания". Вас охватывает тяжелое чувство, как будто в ожидании удара молнии посреди летнего зноя. "Не доверять. Рыбоголовые личинки уничтожать стихусов ради еды, а не ради преступления".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>356</ID>
+      <DefaultText>Стихус отворачивается, и вас внезапно окутывает цветочный аромат — невероятный, забавный запах. Ч'кект вам явно не верит.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>357</ID>
+      <DefaultText>"Спрашивать".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>358</ID>
+      <DefaultText>"Думаю люди украсть яйца. Люди принести яйца в мир. Люди выводить стихусов из яиц... тайна для покупателя. Выпустить здесь".
+
+Ч'кект выпускает воздух из дыхальца. "Должен думать о предназначении. Должен думать об обществе. Может, когда-то быть развитая. Может, великая цивилизация. Теперь? Теперь только копать. Копать подсказки".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>359</ID>
+      <DefaultText>Он тыкает вам в грудь "Умный для человека". Он показывает в сторону остального Подбрюшья. "Не умные. Зачем беспокоиться? Нет..." Он пытается подобрать слова "Не разумные".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>360</ID>
+      <DefaultText>"Ваше рытье доставляет неудобства людям наверху".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>361</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>362</ID>
+      <DefaultText>"Не проблема стихусов".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>363</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>364</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>365</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>366</ID>
+      <DefaultText>"Я здесь, чтобы попросить вас не копать под городом".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>367</ID>
+      <DefaultText>"Я здесь, чтобы снова попросить вас не копать под городом".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>368</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>369</ID>
+      <DefaultText>"Вы копаете под городом, верно? Можешь отвести меня кое-куда?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>370</ID>
+      <DefaultText>"Можешь провести меня в подземелье под городом?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>371</ID>
+      <DefaultText>"Говори. Ч'кект ответить".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>372</ID>
+      <DefaultText>"Человек брать яйца. Пусть сам найдет ответ".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>373</ID>
+      <DefaultText>"Я хочу вернуть ваши яйца".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>374</ID>
+      <DefaultText>Стихус застывает в удивлении. Затем он рассматривает ваше лицо и изучает ваш запах. "Вор яиц вернуть яйца?"
+
+"Стихусы уходить. Ч'кект уходить. Больше не быть стихусы здесь. Благодарность". Его запах начал сгущаться. "Не убить *тебя*".</DefaultText>
+      <FemaleText>Стихус застывает в удивлении. Затем он рассматривает ваше лицо и изучает ваш запах. "Воровка яиц вернуть яйца?"
+
+"Стихусы уходить. Ч'кект уходить. Больше не быть стихусы здесь. Благодарность". Его запах начал сгущаться. "Не убить *тебя*".</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>375</ID>
+      <DefaultText>Стихус застывает в удивлении. Затем он рассматривает ваше лицо и изучает ваш запах. "Благодарность" — изрекает он.
+
+Он пожимает своими огромными плечами и указывает на вас своей когтистой лапой. "Ты в безопасности. *Ты*"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>376</ID>
+      <DefaultText>Он аккуратно и трепетно собирает украденные яйца. Он прячет их в глубокой шахте поблизости, и вы слышите хруст уходящего вниз грунта, как будто яйца переместили куда-то еще дальше от вас.
+
+"Скоро не увидите, человек".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>378</ID>
+      <DefaultText>"Я отправить сородичей спасать изгоя".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>379</ID>
+      <DefaultText>"Ч'кект снова говорить нет". Вас окатывает тошнотворный гнилостный запах. Стихус сжимает свою огромную лапу, его рокочущий голос разносится но всему тоннелю, сотрясая камни. "Почему человек спрашивать и спрашивать?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>380</ID>
+      <DefaultText>"Другие обещать страдание". Он машет своей огромной лапой. "Стихусы все еще здесь. Мы *не* прекратить копать. Нужно *есть*".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>381</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>382</ID>
+      <DefaultText>"Ты хочешь, чтобы у твоего народа было будущее? Или ты хочешь войны с людьми наверху? Они обрушат ваши тоннели. Они вас уничтожат".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>383</ID>
+      <DefaultText>"Я уже все объяснил. Если вы не прекратите копать, у твоего народа нет будущего в этом городе".</DefaultText>
+      <FemaleText>"Я уже все объяснила. Если вы не прекратите копать, у твоего народа нет будущего в этом городе".</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>384</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>385</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>386</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>387</ID>
+      <DefaultText>"Мы это позже обсудим. До встречи".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>388</ID>
+      <DefaultText>"Это был я. Прости, но у меня не было выбора".</DefaultText>
+      <FemaleText>"Это была я. Прости, но у меня не было выбора".</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>389</ID>
+      <DefaultText>Ваши мышцы сочувствующе сжимаются от этих воспоминаний, и вы понимаете, что язык стихусов — это смесь запахов, жестов и звуков.
+
+И с этим воспоминанием в ваш мозг хлынул поток информации, словно прорвав дамбу. Вы ощущаете запах гранита.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>390</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>394</ID>
+      <DefaultText>[Start Tussle]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>395</ID>
+      <DefaultText>Пока существо наблюдает за вами, вы ощущаете в нем присутствие сознания, но разум его для вас пуст, словно оно — обычное животное.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>396</ID>
+      <DefaultText>Пока существо наблюдает за вами, вы ощущаете в нем присутствие сознания, но разум его для вас пуст, словно оно — обычное животное.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>397</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>398</ID>
+      <DefaultText>"Можешь отвести меня туда, где вы откладываете яйца?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>399</ID>
+      <DefaultText>"Ты точно не сможешь отвести меня туда, где вы откладываете яйца?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>400</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>401</ID>
+      <DefaultText>От стихуса исходит омерзительный запах, словно что-то съели, переварили, а затем снова съели и снова переварили.
+
+Он сжимает кулаки и скрежещет: "Нет".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>402</ID>
+      <DefaultText>Воздух становится грязным. Ч'кект замирает.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>403</ID>
+      <DefaultText>"Зачем? Куда мы идти? Почему мы должны остановиться".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>404</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>405</ID>
+      <DefaultText>"Собратья! Убить разрушителей!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>406</ID>
+      <DefaultText>"::клк клк скриии чк сллллк::"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>407</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>408</ID>
+      <DefaultText>"Если ваш народ ушел глубже под землю, можешь отвести меня в ваше старое логово?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>409</ID>
+      <DefaultText>"Можешь отвести меня в ваше старое логово?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>414</ID>
+      <DefaultText>"Отвести друга яиц. Платить не надо".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>417</ID>
+      <DefaultText>"Путешествие стоить [Global: a2301_StichusTravel] шинов. Да или нет?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>418</ID>
+      <DefaultText>Заплатить [Global: a2301_StichusTravel] шинов.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>421</ID>
+      <DefaultText>"Мы идти".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>422</ID>
+      <DefaultText>"Теперь пусто. Нет стихусов. Нет яиц". Он внимательно изучает вас, будто пытаясь понять вашу цель. Затем до вас доносится запах, как будто в тоннель ворвалась волна свежего воздуха — видимо, в знак одобрения.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>423</ID>
+      <DefaultText>"Близко к поверхности, в верхней части города", — он замолчал. — "Однажды повести туда другого человека".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>424</ID>
+      <DefaultText>"Путешествие стоить денег. [Global: a2301_StichusTravel] шинов. Да или нет?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>425</ID>
+      <DefaultText>Заплатить [Global: a2301_StichusTravel] шинов.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>426</ID>
+      <DefaultText>"Мы идти".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>427</ID>
+      <DefaultText>Вы буквально чувствуете этот язык — его структуру, ощущение, звук и запах. Зуд у вас в голове усиливается. Вы чувствуете, что воспоминание о языке стихусов готовится возникнуть.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>428</ID>
+      <DefaultText>Вы буквально чувствуете этот язык — его структуру, ощущение, звук и запах. Зуд у вас в голове усиливается. Вы чувствуете, что воспоминание о языке стихусов готовится возникнуть.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>429</ID>
+      <DefaultText>Вы буквально чувствуете этот язык — его структуру, ощущение, звук и запах. Зуд у вас в голове усиливается. Вы чувствуете, что воспоминание о языке стихусов готовится возникнуть.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>430</ID>
+      <DefaultText>Вы буквально чувствуете этот язык — его структуру, ощущение, звук и запах. Зуд у вас в голове усиливается. Вы чувствуете, что воспоминание о языке стихусов готовится возникнуть.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>431</ID>
+      <DefaultText>Гигантский стихус грустно пыхтит: "Надо выслать другую личинку. Пелиай, рыбоголовую личинку. Скажи ей, что мы договорились, и заставь ее уйти".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>432</ID>
+      <DefaultText>::ч-к-к-т::</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>433</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>434</ID>
+      <DefaultText>Стихус машет руками и неразборчиво бормочет. Вы не понимаете его слов... Но очевидно, что он хочет остановить раскопки.</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

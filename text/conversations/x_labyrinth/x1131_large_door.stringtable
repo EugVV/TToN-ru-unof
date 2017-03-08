@@ -1,0 +1,237 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\x_labyrinth\x1131_large_door</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>43</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>Вы снова подходите к огромной двери, стиснув зубы от холода.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>Вы подходите к двери через пульсирующие волны тепла и слышите низкий непрерывный шум, напоминающий что-то среднее между вздохом и мелодией.
+
+Колесо снизу двери довольно ярко *светится* даже при таком слабом освещении. При взгляде на него вы чувствуете дрожь в ладонях.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>Из-за двери доносится мягкий мелодичный гул, который по мере приближения становится все громче, будто приветствует ваше возвращение.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>Повернуть колесо.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>Попытаться повернуть колесо еще раз.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>Отойти от двери.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>Вы хватаетесь за холодный безжизненный металл и поворачиваете его. Колесо легко поворачивается, громыхая сломанными механизмами. Дверь не двигается.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText>Вы поворачиваете бесполезное колесо еще несколько раз, после чего оно с грохотом останавливается. Это никак не действует на дверь.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>14</ID>
+      <DefaultText>Приложить ухо к двери.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>15</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>16</ID>
+      <DefaultText>Вы закрываете глаза и слушаете, прислонившись к неровной поверхности двери. Помимо гула механизмов внутри вы слышите звук, похожий на стремительный поток воды или шум толпы, доносящийся с другого конца темного поля. 
+
+{DP}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>17</ID>
+      <DefaultText>Как бы вы ни старались, не слышно ничего, кроме гула механизмов внутри.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>23</ID>
+      <DefaultText>Вы закрываете глаза и слушаете, прислонившись к неровной поверхности двери. Помимо гула механизмов внутри вы слышите звук, похожий на шум воды...
+
+Или нет. Это похоже на шепот собравшейся толпы на другом конце темного поля. 
+
+{DP}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>24</ID>
+      <DefaultText>Вы изо всех сил пытаетесь услышать хоть что-то, кроме гула механизмов внутри двери, но отходите, не получив ничего, кроме слабой головной боли.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>25</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>26</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>27</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>28</ID>
+      <DefaultText>Руками вы чувствуете вибрацию механизмов, работающих внутри.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>29</ID>
+      <DefaultText>Даже когда вы смотрите, дверь немного дрожит, как бы пытаясь открыться.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30</ID>
+      <DefaultText>Стиль этой архитектуры отличается от стиля всех известных вам городов Девятого Мира.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>31</ID>
+      <DefaultText>Что-то подсказывает, что эта дверь была не сделана, она была *выращена*.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>32</ID>
+      <DefaultText>Этот металл похож на окрашенную синтесталь, но он намного безупречнее, чище того, что вы когда-либо видели.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>33</ID>
+      <DefaultText>Отойти от двери.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>37</ID>
+      <DefaultText>Повернуть колесо.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>38</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>39</ID>
+      <DefaultText>Осмотреть дверь.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>40</ID>
+      <DefaultText>Осмотреть дверь еще раз.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>41</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>43</ID>
+      <DefaultText>Вы изучаете дверь, но не находите ничего нового.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>44</ID>
+      <DefaultText>""</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>45</ID>
+      <DefaultText>Вы упираетесь ногами в пол, хватаетесь за колесо и поворачиваете его так, что под кожей выпирают сухожилия. В ваших руках колесо поворачивается медленно, но охотно. Внутри двери и в стенах щелкают детали блокировочных механизмов, словно тысячи ключей в тысяче замков... 
+
+Но потом сопротивление становится слишком сильным и колесо перестает двигаться, как бы вы ни старались.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>46</ID>
+      <DefaultText>Вы упираетесь ногами в пол, хватаетесь за колесо и толкаете так, что под кожей выпирают сухожилия. Как бы вы ни старались, колесо не двигается ни на миллиметр.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>47</ID>
+      <DefaultText>Вы упираетесь ногами в пол, хватаетесь за колесо и поворачиваете его так, что под кожей выпирают сухожилия. В ваших руках колесо поворачивается медленно, но охотно. Внутри двери и в стенах щелкают детали блокировочных механизмов, словно тысячи ключей в тысяче замков... 
+
+Но потом сопротивление становится слишком сильным. Вам удается немного сдвинуть колесо, и из двери раздается пронзительный скрежет металла или чего-то еще, прежде чем онемевшие руки соскальзывают с колеса.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>48</ID>
+      <DefaultText>Вы упираетесь ногами в пол, хватаетесь за колесо и толкаете так, что под кожей выпирают сухожилия. Оно не двигается, ни на миллиметр.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>49</ID>
+      <DefaultText>Нет никаких знаков или символов, по которым можно было бы понять, что скрывается за этой украшенной дверью. От сегментированной бронзовой поверхности и массивного металлического колеса, установленного в нижней части двери, веет холодом.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>50</ID>
+      <DefaultText>Когда вы, наконец, убираете свои руки, дверь вздыхает, как будто с разочарованием.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>51</ID>
+      <DefaultText>Вы проводите руками по полированной поверхности, пытаясь почувствовать ее всеми возможными способами.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>52</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>53</ID>
+      <DefaultText>Эта дверь уже не просто холодная безжизненная вещь, которую вы видели раньше. Пульсирующие волны тепла скатываются по ступеням, и вы слышите низкий непрерывный шум, напоминающий что-то среднее между вздохом и мелодией.
+
+Колесо снизу двери довольно ярко *светится* даже при таком слабом освещении. При взгляде на него вы чувствуете дрожь в ладонях.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>54</ID>
+      <DefaultText>Вы ощущаете покалывание на коже и то, как в нее проникает тепло.</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

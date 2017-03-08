@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\x_labyrinth_crisis\x4061_crisis_end</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>3</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>Когда последний из фрагментов Скорби уничтожен, вы ощущаете, как по вашему телу и разуму проносится прохладный ветерок. Мышцы обретают скорость и силу, которых вы прежде не чувствовали, а разум изящно скользит от одной мысли к другой, исследуя возможности и ощущения быстрее, чем когда-либо.
+
+Постепенно вы осознаете присутствие в своем разуме тени — где-то в Лабиринте остался еще один оплот Скорби. Вы почти полностью изгнали ее… но пока не до конца.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

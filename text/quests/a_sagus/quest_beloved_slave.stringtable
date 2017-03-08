@@ -1,0 +1,296 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>quests\a_sagus\quest_beloved_slave</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>56</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>0</ID>
+      <DefaultText>Любимая рабыня</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>Найти пропавшую рабыню Рин.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>Убедить Рин присоединиться к группе.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>Вернуть Рин Толь Магуур в Малом Круге.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>Найти способ заставить Толь снять "проклятие".</DefaultText>
+      <FemaleText>Найти способ заставить Толь снять проклятие.</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>Снова отыскать Рин.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>Вернул Рин</DefaultText>
+      <FemaleText>Вернула Рин</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>Выкупил свободу Рин</DefaultText>
+      <FemaleText>Выкупила свободу Рин</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>Убил Толь, чтобы снять проклятие</DefaultText>
+      <FemaleText>Убила Толь, чтобы снять проклятие</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>Передал Рин, чтобы снять проклятие</DefaultText>
+      <FemaleText>Передала Рин, чтобы снять проклятие</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>Заплатил Толь, чтобы она сняла проклятие</DefaultText>
+      <FemaleText>Заплатила Толь, чтобы она сняла проклятие</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>Убедил Толь отпустить Рин и снять проклятие</DefaultText>
+      <FemaleText>Убедила Толь отпустить Рин и снять проклятие</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText>"Потерял" Рин</DefaultText>
+      <FemaleText>"Потеряла" Рин</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText>Убил Толь</DefaultText>
+      <FemaleText>Убила Толь</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>14</ID>
+      <DefaultText>Убедил Толь отпустить Рин и снять проклятие</DefaultText>
+      <FemaleText>Убедила Толь отпустить Рин и снять проклятие</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>15</ID>
+      <DefaultText>Убил Толь, чтобы снять проклятие</DefaultText>
+      <FemaleText>Убила Толь, чтобы снять проклятие</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>16</ID>
+      <DefaultText>Позволил бандитам увести Рин обратно к Толь</DefaultText>
+      <FemaleText>Позволила бандитам увести Рин обратно к Толь</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>17</ID>
+      <DefaultText>Разобраться с Рин и Толь Магуур.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>18</ID>
+      <DefaultText>Убил Толь</DefaultText>
+      <FemaleText>Убила Толь, но не получил проклятия.</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>19</ID>
+      <DefaultText>Выкупил Рин</DefaultText>
+      <FemaleText>Выкупила Рин</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>20</ID>
+      <DefaultText>Убедил Толь отпустить Рин</DefaultText>
+      <FemaleText>Убедила Толь отпустить Рин</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>21</ID>
+      <DefaultText>Тибир убедил Толь</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>22</ID>
+      <DefaultText>Сказать Толь Магуур, что Рин сбежала.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>23</ID>
+      <DefaultText>Вы покинули Сагус, не завершив задание (Рин нет в группе)</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>24</ID>
+      <DefaultText>Вы покинули Сагус, не завершив задание (Рин в группе)</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>25</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10000</ID>
+      <DefaultText>Толь Магуур, работорговка с Малого Круга, попросила меня помочь найти ее "подопечную", девочку по имени Рин. Если я приведу к ней Рин, Толь поделится со мной ценной информацией.</DefaultText>
+      <FemaleText>Толь Магуур, работорговка с Малого Круга, попросила меня помочь найти ее подопечную, девочку по имени Рин. Если я приведу к ней Рин, Толь поделится со мной ценной информацией.</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>10001</ID>
+      <DefaultText>Толь думает, что Рин прячется в районе Края Утеса. По ее словам, Рин — костлявая с темными вьющимися волосами. Также она сказала, что Рин получила травму головы и теперь постоянно болтает о своих богах.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10002</ID>
+      <DefaultText>Я нашел Рин в разрушенном доме на Крае Утеса, но ее все еще нужно убедить пойти со мной, чтобы я мог вернуть ее Толь.</DefaultText>
+      <FemaleText>Я нашла Рин в разрушенном доме на Крае Утеса, но ее все еще нужно убедить пойти со мной, чтобы я могла вернуть ее Толь.</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>10003</ID>
+      <DefaultText>Рин согласилась пойти со мной. Нужно отвести ее к Толь Магуур и разрешить сложившуюся между ними ситуацию.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10004</ID>
+      <DefaultText>Я отказался отдавать Рин Толь Магуур. В ответ Толь использовала против меня Потоки и наложила на меня своего рода проклятие.</DefaultText>
+      <FemaleText>Я отказалась отдавать Рин Толь Магуур. В ответ Толь использовала против меня Потоки и наложила на меня своего рода проклятие.</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>10005</ID>
+      <DefaultText>Вы приводите Рин на привязи к Толь, но девочка убегает и прячется. Очевидно, она не хочет возвращаться к бывшей госпоже. Она снова где-то спряталась, но только уже в другом месте.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10006</ID>
+      <DefaultText>"Я передал Рин в руки Толь Магуур. Рин была не особенно рада, но у Толь, по крайней мере, она будет в безопасности. 
+
+В ответ на мою помощь Толь научила меня использовать Потоки в качестве инструмента, всплеска силы."</DefaultText>
+      <FemaleText>Я передала Рин в руки Толь Магуур. Рин была не особенно рада, но у Толь, по крайней мере, она будет в безопасности. 
+
+В ответ на мою помощь Толь научила меня использовать Потоки в качестве инструмента, всплеска силы.</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>10007</ID>
+      <DefaultText>Вы предложили Толь достаточно шинов, чтобы она отпустила Рин на свободу.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10008</ID>
+      <DefaultText>Я убил Толь Магуур, освободил Рин от нее, а себя от "проклятия".</DefaultText>
+      <FemaleText>Я убила Толь Магуур, освободил Рин от нее, а себя от проклятия.</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>10009</ID>
+      <DefaultText>"У вас было мало шансов спастись, и вы отвели Рин обратно к Толь. Толь тут же сняла проклятие, которое наложила на вас.
+
+ДОПОЛНЕНИЕ:  Вы пообещали Рин, что вернетесь, чтобы освободить ее."</DefaultText>
+      <FemaleText>У вас было мало шансов спастись, и вы отвели Рин обратно к Толь. Толь тут же сняла проклятие, которое наложила на вас.
+
+ДОПОЛНЕНИЕ:  Вы пообещали Рин, что вернетесь, чтобы освободить ее.</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>10010</ID>
+      <DefaultText>Вы с лихвой заплатили Толь за свободу Рин, и она сняла с вас проклятие.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10011</ID>
+      <DefaultText>Мне удалось убедить Толь освободить Рин и снять проклятие. Толь также научила меня использовать Потоки в качестве инструмента, всплеска силы.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10012</ID>
+      <DefaultText>Я рассказал Толь, что Рин сбежала. Она была недовольна и отказалась сообщать мне обещанные сведения.</DefaultText>
+      <FemaleText>Я рассказала Толь, что Рин сбежала. Она была недовольна и отказалась сообщать мне обещанные сведения.</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>10013</ID>
+      <DefaultText>От споров с Толь о Рин мы перешли к драке. В результате Толь погибла, а Рин стала свободна.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10014</ID>
+      <DefaultText>Мне удалось убедить Толь освободить Рин и снять с меня проклятие.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10015</ID>
+      <DefaultText>Толь Магуур мертва, и наложенное ею проклятие спало.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10016</ID>
+      <DefaultText>Я нашел Рин, но вмешалась банда головорезов. Мне пришлось отдать им Рин, чтобы они отвели ее к Толь. И мою награду получили они.</DefaultText>
+      <FemaleText>Я нашла Рин, но вмешалась банда головорезов. Мне пришлось отдать им Рин, чтобы они отвели ее к Толь. И мою награду получили они.</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>10017</ID>
+      <DefaultText>Работорговка Толь Магуур утверждает, что Рин, девочка, которую я нашел на Краю Утеса, — ее собственность. Она потребовала, чтобы я немедленно вернул ей Рин.</DefaultText>
+      <FemaleText>Работорговка Толь Магуур утверждает, что Рин, девочка, которую я нашла на Краю Утеса, — ее собственность. Она потребовала, чтобы я немедленно вернул ей Рин.</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>10018</ID>
+      <DefaultText>Я убил Толь Магуур, и Рин больше не рабыня.</DefaultText>
+      <FemaleText>Я убила Толь Магуур, и Рин больше не рабыня.</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>10019</ID>
+      <DefaultText>Я заплатил Толь Магуур столько, сколько она потребовала, и она больше не претендует на Рин.</DefaultText>
+      <FemaleText>Я заплатила Толь Магуур столько, сколько она потребовала, и она больше не претендует на Рин.</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>10020</ID>
+      <DefaultText>Я убедил Толь Магуур освободить Рин.</DefaultText>
+      <FemaleText>Я убедила Толь Магуур освободить Рин.</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>10021</ID>
+      <DefaultText>Тибир *что-то* сделал, чтобы убедить Толь Магуур освободить Рин. Толь покинула город, а Тибир остался собой доволен.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10022</ID>
+      <DefaultText>Рин сбежала от меня, и вряд ли я ее еще когда-нибудь увижу. Нужно вернуться к Толь Магуур на Малый Круг и рассказать ей, что случилось.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10023</ID>
+      <DefaultText>Я покинул Утесы Сагуса. Не думаю, что когда-нибудь вернусь в этот город. Толь придется самой искать Рин.</DefaultText>
+      <FemaleText>Я покинула Утесы Сагуса. Не думаю, что когда-нибудь вернусь в этот город. Толь придется самой искать Рин.</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>10024</ID>
+      <DefaultText>Я покинул Утесы Сагуса вместе с Рин. Не думаю, что когда-нибудь вернусь в этот город. Толь не скоро доберется до девочки.</DefaultText>
+      <FemaleText>Я покинула Утесы Сагуса вместе с Рин. Не думаю, что когда-нибудь вернусь в этот город. Толь не скоро доберется до девочки.</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>10025</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20000</ID>
+      <DefaultText>Отеро, болтливый местный ребенок, утверждает, что знает Рин. Он говорит, что она мастер прятаться, особенно в разрушенных зданиях. Он также рисует перед вами более удручающую картину взаимоотношений Толь Магуур и Рин.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20001</ID>
+      <DefaultText>Айдан Ситабо видел девочку, подходящую под описание Рин. Она пряталась в разрушенном доме на Краю Утеса.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20002</ID>
+      <DefaultText>Утратившая Себя видела, как девочка, подходящая под описание Рин, забиралась в разрушенный дом. Этот дом находится рядом с лестницей, ведущей с Края Утеса в Караван-сарай.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20003</ID>
+      <DefaultText>Я пообещал Рин, что вернусь позже и освобожу ее.</DefaultText>
+      <FemaleText>Я пообещала Рин, что вернусь позже и освобожу ее.</FemaleText>
+    </Entry>
+  </Entries>
+</StringTableFile>

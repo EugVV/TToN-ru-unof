@@ -1,0 +1,138 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\c_bloom\c4111_companion_barks</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>26</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>"Что ж, а теперь... еще... больше. А вот и очередной караван!"</DefaultText>
+      <FemaleText>"Что ж, а теперь... еще... больше. А вот и очередной караван!"</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>"Похоже, это место нужно почесать. Или же, наоборот, его слишком часто чешут".</DefaultText>
+      <FemaleText>"Похоже, это место нужно почесать. Или же, наоборот, его слишком часто чешут".</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>"Все... все переменилось. Что случилось с...?"</DefaultText>
+      <FemaleText>"Все... все переменилось. Что случилось с...?"</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>"О. вижу, Цветение снова атакует".</DefaultText>
+      <FemaleText>"О. вижу, Цветение снова атакует".</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText>"Только взгляните на эти гневные комментарии".</DefaultText>
+      <FemaleText>"Только взгляните на эти гневные комментарии".</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>14</ID>
+      <DefaultText>"У тех, кто это пишет, должно быть, слишком много свободного времени".</DefaultText>
+      <FemaleText>"У тех, кто это пишет, должно быть, слишком много свободного времени".</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>15</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>16</ID>
+      <DefaultText>"Вот за что я не люблю Цветение. Вечно оно изменяется".</DefaultText>
+      <FemaleText>"Вот за что я не люблю Цветение. Вечно оно изменяется".</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>17</ID>
+      <DefaultText>"Что, если мы уже здесь были?"</DefaultText>
+      <FemaleText>"Что, если мы уже здесь были?"</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>18</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>19</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20</ID>
+      <DefaultText>"Это памятник великой Чиле. Она местный герой".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>21</ID>
+      <DefaultText>"Похоже, Цветение за это ударило ее в лицо. Не терпит соперничества".</DefaultText>
+      <FemaleText>"Похоже, Цветение за это ударило ее в лицо. Не терпит соперничества".</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>22</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>23</ID>
+      <DefaultText>"Военные. Их форма мне незнакома".</DefaultText>
+      <FemaleText>"Военные. Их форма мне незнакома".</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>24</ID>
+      <DefaultText>"Точно не местные, как пить дать".</DefaultText>
+      <FemaleText>"Точно не местные, как пить дать".</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>25</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>26</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>27</ID>
+      <DefaultText>"Что за придурки?"</DefaultText>
+      <FemaleText>"Что за придурки?"</FemaleText>
+    </Entry>
+  </Entries>
+</StringTableFile>

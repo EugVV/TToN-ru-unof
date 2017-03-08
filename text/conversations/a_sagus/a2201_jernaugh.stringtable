@@ -1,0 +1,659 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\a_sagus\a2201_jernaugh</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>129</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>Кожа этого старика тщательно покрыта краской с рисунком, напоминающим темный камень. Его глаза на мгновение расширяются, когда он замечает вас, а лицо и шея застывают и становятся похожими на обсидиан. Затем он улыбается и кивает вам, черты лица вновь становятся подвижными.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>"Вы вернулись!" — произносит он, расставляя руки, как будто хочет обнять вас. "Может, вам будут интересны мои предметы и услуги по крайне высоким ценам?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>"Добро пожаловать, добро пожаловать!" — говорит он. "Извините за камень. Полиморфное изменение тканей, видите ли. Я не заметил, как вы подошли, и подумал, что вы хотите перерезать мне горло и забрать себе мой хиургический кабинет!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>"Как вы приобрели этот кабинет?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>"Напомните, как вы приобрели этот кабинет?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>"Сначала у меня были партнеры", — говорит он. — "Мы с коллегами два года потратили, чтоб его откопать и привести в рабочее состояние".  Он вздыхает. "Конечно, нам пришлось сначала самим проверить дронов прежде чем пробовать их на ком-то еще. Если в день открытия живьем содрать кожу с посетителей, то это бизнесу не поможет. Оказалось, что это было мудрое решение".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>"Все мои партнеры умерли ужасной смертью, тестируя дронов", — говорит он, широко улыбаясь. — "Мне до сих пор кошмары снятся!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>Вы приходите в себя, задыхаясь. Ваше новое приобретение уже плотно установлено, а раны затянулись. Джернау склонился над вами с восхищением. "Вы были мертвы", — говорит он. — "Я собирался продать вас Дендра О'Хур, как и всех остальных. А потом вы вновь начали *дышать*. Удивительно".   {SCRIPT: Plays the first time the player dies from the procedures.}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>"Покажите перечень ваших предметов и услуг".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText>"Еще раз покажите перечень ваших предметов и услуг".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText>"Конечно", — говорит он, нажимая несколько кнопок на широком устройстве вокруг запястья. Из линз устройства вырывается конус света и бьет прямо в ваш глаз, который сразу начинает слезиться.   Моргая, вы видите меню предметов, которые кажутся парящими в воздухе.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>14</ID>
+      <DefaultText>"Конечно", — говорит он, нажимая на устройстве, прикрепленном к его запястью, и луч света с меню заведения бьет прямо в ваш глаз, от чего вы чувствуете жжение.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>15</ID>
+      <DefaultText>"Отлично подмечено", — говорит он, кивая. Четкие кварцевые прожилки проходят вверх по его выступающим скулам, открывая мышцы. "Это побочные эффект моих модификаций. Я бы не смог вам солгать, если бы вы меня попросили".   Он пожал плечами. "Честность обычно мешает вести дела, но людям, похоже, она нравится".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>16</ID>
+      <DefaultText>"Не могу не отметить, что вы очень честный человек".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>17</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>19</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20</ID>
+      <DefaultText>"Насколько болезненны эти процедуры?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>21</ID>
+      <DefaultText>"Еще раз скажите, насколько болезненны эти процедуры?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>22</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>23</ID>
+      <DefaultText>"Перчатки с когтями".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>24</ID>
+      <DefaultText>"Вообще, меня все же интересуют перчатки с когтями".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>25</ID>
+      <DefaultText>"Я знал, что это привлечет ваше внимание", — говорит он, тыча вас в ребра. — "Мы имплантируем длинные полые стержни в предплечья со стальными лезвиями, спрятанными внутри. Просто взмахните кистью, и они выскочат наружу к удивлению любого, кто будет считать вас безоружным!"  Он показывает движения свободной рукой, произнося звуки *шик*. "[Global: a2201_JernaughClawedGauntletsPrice] монет за оружие и работу".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>26</ID>
+      <DefaultText>"Ага, потайные запястные лезвия", — говорит он. — "[Global: a2201_JernaughClawedGauntletsPrice] шин, и они ваши".  {MONEY}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>27</ID>
+      <DefaultText>"Я возьму их".  {MONEY}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>28</ID>
+      <DefaultText>"Нет, спасибо".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>29</ID>
+      <DefaultText>"Зря отказываетесь", — говорит он. — "Интересует что-то еще?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30</ID>
+      <DefaultText>Наконец, вас высвобождают, и вы шлепаетесь на пол, последние струйки крови сочатся из ужасного месива, в которое машины превратили ваши кулаки. Последнее, что вы видите перед смертью, как чистые лезвия выскакивают из ваших дергающихся рук. Они выглядят *потрясающе*.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>31</ID>
+      <DefaultText>Наконец, вас высвобождают. Вздрагивая от боли, вы взмахиваете кистями, как было сказано. Длинные, стильные лезвия выскакивают рядом с вашими изувеченными, но уже заживающими костяшками рук. Они выглядят *потрясающе*.  "Они выглядят *потрясающе*", — говорит Джерноф. — "Еще что-нибудь хотите?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>32</ID>
+      <DefaultText>"Пришли в себя?" спрашивает Джернау, когда вы делаете глубокий вздох и возвращаетесь к жизни. "Я уже начал думать о продаже вашей обуви!" {SCRIPT: Plays the rest of the time the player dies from procedures.}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>33</ID>
+      <DefaultText>"Это самый распространенный вопрос", — говорит он. — "Все зависит от конкретной процедуры, но если вы хотите получить общий ответ..."  В задумчивости он потирает подбородок. "Обычно среди моих заказчиков есть те, кто кричит, моля о безболезненной смерти, и те, кто стонет, обделавшись. Если эта информация поможет вам. Но они практически всегда довольны результатами. Когда им удается выжить".  Он улыбается. "Теперь вы готовы что-то купить?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>34</ID>
+      <DefaultText>"Невыносимо", — говорит он. — "Но только относительно недолго или достаточно долго. В любом случае, что вас интересует?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>35</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>36</ID>
+      <DefaultText>"Это," — он говорит, подняв палец вверх, — "хитроумное оружие. Это сетка, которая вплавляется через кожу, оставляя рваные отметены, как от татуировки. При атаке вы всегда будете попадать в старые раны противника, даже если... э-э, их там до этого не было. Как я и сказал, хитроумное оружие." Он гордо улыбается. "Будет вашим за [Global: a2201_JernaughJaggedMemoryPrice] шин!" {MONEY} {THOMAS/GAVIN: This item doesn't quite make sense mechanically. The text describes it as a separate weapon that strikes your opponent when they were unarmored in the past. What about the weapon you currently have equipped? How much damage should the attack do? This should be rethemed as somehow either causing your currently equipped weapon to travel through time, or somehow shift your opponent to an unarmored point in time at the moment of impact, so that the affect applies to your current equipment. -JF}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>37</ID>
+      <DefaultText>"Имплантат, перемещающий или не перемещающий во времени и наносящий увечья?" — говорит он. "Будет вашим за [Global: a2201_JernaughJaggedMemoryPrice] шин!" {MONEY}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>38</ID>
+      <DefaultText>"Я возьму".  {MONEY}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>39</ID>
+      <DefaultText>Вы падаете на колени, задыхаясь, сетка плотно имплантирована в вашу руку. Эфирное оружие, пришедшее из отдаленного времени, мерцает на фоне вашей ладони и ждет пока вы не воспользуетесь им. Но к сожалению, у вас остановилось сердце. Возможно, надо сперва решить эту проблему.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>40</ID>
+      <DefaultText>Ваше зрение становится четким по мере рассеивания дыма, поднимающегося от вашей обуглившейся плоти. Эфирное оружие, пришедшее из отдаленного времени, мерцает на фоне вашей ладони. Силой мысли вы его убираете туда, откуда оно появилось. Еще раз вызываете его. Убираете. Интересно. "Все готово?" — спрашивает Джернау. "Хорошо. Может, вас еще что-то заинтересует?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>41</ID>
+      <DefaultText>"Нет, спасибо".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>42</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>43</ID>
+      <DefaultText>"Рваная память".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>44</ID>
+      <DefaultText>"Давайте еще раз поговорим о Рваной памяти".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>45</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>46</ID>
+      <DefaultText>"Оружие простое", — говорит он. — "Дроны наполняют вашу кровь миллионами крошечных машин, которые быстро начинают вас заживо пожирать, пока не научатся отличать ваш организм от всего того, чего в нем быть *не* должно. После этого они принимаются наиболее эффективно выводить токсины и болезни из вашего организма с каждым ударом вашего сердца!"  Он делает паузу. "Если я вдруг плохо объяснил, эта операция будет действительно болезненной. [Global: a2201_JernaughBloodNanitesPrice] шин, оплата вперед, пожалуйста".  {MONEY}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>47</ID>
+      <DefaultText>"Крошечные, прожорливые машины, которые борются с болезнями и токсинами в кровеносной системе. Необыкновенные монстрики. [Global: a2201_JernaughBloodNanitesPrice] шин".  {MONEY}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>48</ID>
+      <DefaultText>"Я хочу их".  {MONEY}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>49</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>50</ID>
+      <DefaultText>В конечно итоге машины понимают, что ваше тело не является едой. В какой-то момент во время операции вы падаете. Теперь вы встаете, тяжело дыша. "Теперь вы точно выглядите здоровыми!" — объявляет Джернау. "Хотя. По всему телу у вас собственная кровь. Но у вас точно есть еще!" Он потирает ладони. "Что-нибудь еще?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>51</ID>
+      <DefaultText>"Нет, спасибо".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>52</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>53</ID>
+      <DefaultText>"Что такое Кровяные наниты?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>54</ID>
+      <DefaultText>"Скажите еще раз, что такое Кровяные наниты?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>55</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>56</ID>
+      <DefaultText>"Это вполне безопасная операция", — отвечает он, кивая головой. — "В большинстве случаев. Почти что в трех случаях из пяти. А проще этой операции нет ничего. Дроны просто вскрывают пилой вам череп, вставляют имплантат в нужное место и приделывают все на место".  Он хлопает в ладоши. "После этого имплантат поможет вам распознавать для чего служит неизвестная нуменера. Приспособление стоит [Global: a2201_JernaughNumeneraAnalyzerPrice] шин, но оно оправдает себя!"   {MONEY}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>57</ID>
+      <DefaultText>"Они по-другому не смогут добраться до вашего мозга", — говорит он. — "И они редко отрезают неправильные части. [Global: a2201_JernaughNumeneraAnalyzerPrice] монет, и анализатор ваш".  {MONEY}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>58</ID>
+      <DefaultText>"Я возьму".  {MONEY}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>59</ID>
+      <DefaultText>После восстановления вскрытого черепа, машины вас отпускают, и вы падаете на пол. Все темнеет по краям вашего поля зрения. Ваше сердце не выдержало шока от операции. Вы делаете несколько последних вздохов на залитом кровью полу кабинета, когда имплантат начинает жужжать в вашей голове.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>60</ID>
+      <DefaultText>После восстановления вскрытого черепа, машины вас отпускают. Вы шатаетесь, но удерживаетесь на ногах, когда имплантат начинает жужжать. Вихри текстовых строк проходят перед вашим взором, когда устройство начинает работу.   "Интересная маленькая штучка, да?" — спрашивает Джернау. — "Оно не всегда, э-э, справляется с крупными нуменерами, но оно должно разгадать замыслы большинства более мелких существ, снующих вокруг".  Он чешет свой нос. "Может, еще что-то желаете приобрести?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>61</ID>
+      <DefaultText>"Нет, спасибо".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>62</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>63</ID>
+      <DefaultText>"Нуменерский анализатор кажется самым... безопасным".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>64</ID>
+      <DefaultText>"Расскажите еще раз о Нуменерском анализаторе. Вы сказали, что дроны вскроют пилой мой *череп*?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>65</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>66</ID>
+      <DefaultText>"Это очень популярное приспособление", — говорит он, кивая. — "Плоть легко изнашивается. А это устройство никогда, и оно поможет вам обнаруживать вещи, не заметные для невооруженного глаза. Всего-то за него один раз надо заплатить [Global: a2201_JernaughArtificialEyeballPrice] шин и выдержать очень неприятную операцию".  {MONEY}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>67</ID>
+      <DefaultText>"Вы не пожалеете! Ну, можете пожалеть во время операции. Но после вы *не будете* об этом жалеть".  {MONEY}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>68</ID>
+      <DefaultText>"Я возьму Глаз".  {MONEY}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>69</ID>
+      <DefaultText>Дроны отпускают вас, и вы падаете на спину, бьетесь в конвульсиях и задыхаетесь. Организм не выдержал полученных по время операции повреждений. Новый глаз ввинчивается в глазницу, подсоединяясь там к нервам. За мгновение до смерти вы невольно замечаете, насколько более отчетливо выглядят облака.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>70</ID>
+      <DefaultText>Дроны отпускают вас. Стоная и обхватив руками голову, вы чувствуете, как новый глаз ввинчивается в глазницу, подсоединяясь там к нервам. Затем боль прекращается. Вы изучаете свою руку, замечая на *ней* шрам, которого до этого не видели. "Потрясающе, не правда ли?" спрашивает Джернау. "Вам что-нибудь еще нужно?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>71</ID>
+      <DefaultText>"Нет, спасибо".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>72</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>73</ID>
+      <DefaultText>"Искусственный глаз? Что, правда?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>74</ID>
+      <DefaultText>"Возможно, я буду жалеть об этом, но думаю, что закажу Искусственный глаз".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>75</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>76</ID>
+      <DefaultText>"Обманчивое название, да?" — сказал он, и его морщинки от смеха стали четче. — "Я рад, что вам это понравилось, э-э, но я не до конца выяснил, что оно делает. Это живое существо, знаете ли, которое ползает вокруг вас, когда вы спите. В конце концов, оно укореняется в вашей нервной системе и, э-э, что-то делает".  Он пожимает плечами. "Может, хорошее что-то, может, плохое, а может, *и то, и другое*. Но точно скучать не придется с ним. [Global: a2201_JernaughEncroachingDarknessPrice] монет".  {MONEY}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>77</ID>
+      <DefaultText>"А, живые татуировки загадочного назначения", — говорит он. — "Всего [Global: a2201_JernaughEncroachingDarknessPrice] шин".  {MONEY}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>78</ID>
+      <DefaultText>"Я возьму Тьму".  {MONEY}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>79</ID>
+      <DefaultText>В результате, у вас кончается запас воздуха. Вы умираете от удушья, а усики продолжают свою ужасную работу, и новые татуировки появляются по всей вашей коже...</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>80</ID>
+      <DefaultText>Усики внезапно расплетаются и отступают от вашего лица, давая вам вдохнуть воздух. На одно мгновение вы остаетесь лежать неподвижно, чувствуя, как ваш новый питомец вплетается в темные каналы вашего тела, оставляя после себя переплетенные отметины на поверхности кожи.
+
+"Вы знаете", — говорит Джернау, — "что вы первый человек, который купил это улучшение? Ну, я говорю 'улучшение', но, как я уже сказал, я не совсем уверен".
+
+Он хлопает в ладоши. "Ну что ж. Может, вас еще что-то интересует?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>81</ID>
+      <DefaultText>"Нет, спасибо".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>82</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>83</ID>
+      <DefaultText>"Захватывающая тьма?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>84</ID>
+      <DefaultText>"Не могу выбросить из головы Захватывающую тьму".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>85</ID>
+      <DefaultText>Дроны устремляются к вам и прижимают ваши руки к бокам. С неоправданной скоростью они вставляют одну за другой длинные стальные трубки между костяшками ваших пальцев. {SCRIPT: Chiurgical drone close in on the PC.} {SOUND: See above SCRIPT note. During fade out, surgery is happening. Rhythmic CHUNKing, gruesome meat squishing. , screams.}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>86</ID>
+      <DefaultText>Дроны проносятся мимо вас, набрасывая слои тонкой, гибкой сетки на ваше предплечье. Появляется шипение, и вы понимаете, что ваша плоть плавится. Вы не до конца понимаете, отчего появились стреляющие ощущения в локте, но вам не до выяснения этого, поскольку вы кричите. {SCRIPT: On exit: Chiurgical drone close in on the PC, Fade out. Sounds occur (see below). On fade in, PC is either on the ground (dying) or alive. See following nodes.} {Sound: See above SCRIPT note. During fade out, surgery is happening. Sizzling flesh, screams.}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>87</ID>
+      <DefaultText>Все начинается вполне спокойно. Дроны делают несколько инъекций и удаляются на приличное расстояние. Вы дышите. Воздух кажется окрашенным от света заходящего солнца. Затем вы чувствуете первый укус. Рои машин движутся через вас как волна металла, сжимая и разрывая, пожирая плоть, мышцы и органы. Вы открываете рот, чтобы кричать, а они выливаются из него мерцающим потоком. {SCRIPT: PC gets permanent +1 to Might Defense.} {SCRIPT: On exit: Chiurgical drone close in on the PC, Fade out. Sounds occur (see below). On fade in, PC is either on the ground (dying) or alive. See following nodes.} {Sound: See above SCRIPT note. During fade out, surgery is happening. Metallic buzzing, crunching, muffled screams.}}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>88</ID>
+      <DefaultText>Металлические руки дронов пригвоздили вас к месту, и вы слышите, как циркулярная пила вращается все быстрее и быстрее... Ну, вы не можете жаловаться на то, что Джернау не предупреждал вас. Диск прорезает ваш череп в одно мгновение, и пинцеты отодвигают в сторону отрезанную часть черепа. Вы смутно осознаете борьбу с неподатливыми руками дронов, прежде чем металлический шип не вонзается в ваш мозг. Все белеет. {SCRIPT: PC gets permanent +1 asset on all identification (adapted from Technology Compendium)}{SCRIPT: On exit: Chiurgical drone close in on the PC, Fade out. Sounds occur (see below). On fade in, PC is either on the ground (dying) or alive. See following nodes.} {Sound: See above SCRIPT note. During fade out, surgery is happening. Buzzsaws, a single THUNK, screams.}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>89</ID>
+      <DefaultText>Один из дронов безжалостно держит вашу голову в неподвижном положении, когда к вам приближается другой дрон с раздвинутыми клещами... *ПЛЮХ* Ваша голова кричит на вас, и вы вполне уверены, что кричите ей в ответ. Третий дрон, который на фоне боли выглядит как блестящее пятно, приближается с новым глазом, аккуратно зажатом в своих клещах. *ШАНК* {SCRIPT: PC gets permanent +1 Perception (adapted from Technology Compendium)} {SCRIPT: On exit: Chiurgical drone close in on the PC, Fade out. Sounds occur (see below). On fade in, PC is either on the ground (dying) or alive. See following nodes.} {Sound: See above SCRIPT note. During fade out, surgery is happening. Meaty pop, Meaty PLOK, screaming, meaty SHUNK.}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>90</ID>
+      <DefaultText>Дроны приближаются, открывают разные отсеки. Усики выныривают из углублений, извиваясь вокруг вашей головы. Ледяные, промасленные ножи врезаются в ваш позвоночник, прорываются через ваши руки и ноги. Ваши приглушенные крики слышны очень отдаленно. {SCRIPT: On exit: Chiurgical drone close in on the PC, Fade out. Sounds occur (see below). On fade in, PC is either on the ground (dying) or alive. See following nodes.} {Sound: See above SCRIPT note. During fade out, surgery is happening. Grisly ripping, muffled screams.}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>91</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>93</ID>
+      <DefaultText>Вы переворачиваетесь, дергаясь в конвульсиях, пока озадаченные машины медленно начинают понимать, что вы – не еда. Все темнеет.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>94</ID>
+      <DefaultText>Дрон проносится мимо вас, набрасывая тонкую, гибкую сетку на ваше предплечье. Появляется шипение, и вы понимаете, что ваша плоть плавится. Вы не до конца понимаете, отчего появились стреляющие ощущения в локте, но вам не до выяснения этого, поскольку вы кричите. {SCRIPT: On exit: Chiurgical drone close in on the PC, Fade out. Sounds occur (see below). On fade in, PC is either on the ground (dying) or alive. See following nodes.} {Sound: See above SCRIPT note. During fade out, surgery is happening. Sizzling flesh, screams.}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>96</ID>
+      <DefaultText>Дроны устремляются к вам и прижимают ваши руки к бокам. С неоправданной скоростью они вставляют одну за другой длинные стальные трубки между костяшками ваших пальцев. {Sound: See above SCRIPT note. During fade out, surgery is happening. Rhythmic CHUNKing, gruesome meat squishing. , screams.}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>98</ID>
+      <DefaultText>Дроны приближаются, открывают разные отсеки. Усики выныривают из углублений, извиваясь вокруг вашей головы. Ледяные, промасленные ножи врезаются в ваш позвоночник, прорываются через ваши руки и ноги. Ваши приглушенные крики слышны очень отдаленно. {SCRIPT: On exit: Chiurgical drone close in on the PC, Fade out. Sounds occur (see below). On fade in, PC is either on the ground (dying) or alive. See following nodes.} {Sound: See above SCRIPT note. During fade out, surgery is happening. Grisly ripping, muffled screams.}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>99</ID>
+      <DefaultText>Все начинается вполне спокойно. Дроны делают несколько инъекций и удаляются на приличное расстояние. Вы дышите. Воздух кажется окрашенным от света заходящего солнца. Затем вы чувствуете первый укус. Рои машин движутся через вас как волна металла, сжимая и разрывая, пожирая плоть, мышцы и органы. Вы открываете рот, чтобы кричать, а они выливаются из него мерцающим потоком. {SCRIPT: PC gets permanent +1 to Might Defense.} {SCRIPT: On exit: Chiurgical drone close in on the PC, Fade out. Sounds occur (see below). On fade in, PC is either on the ground (dying) or alive. See following nodes.} {Sound: See above SCRIPT note. During fade out, surgery is happening. Metallic buzzing, crunching, muffled screams.}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>100</ID>
+      <DefaultText>Металлические руки дронов пригвоздили вас к месту, и вы слышите, как циркулярная пила вращается все быстрее и быстрее... Ну, вы не можете жаловаться на то, что Джернау не предупреждал вас. Диск прорезает ваш череп в одно мгновение, и пинцеты отодвигают в сторону отрезанную часть черепа. Вы смутно осознаете борьбу с неподатливыми руками дронов, прежде чем металлический шип не вонзается в ваш мозг. Все белеет. {SCRIPT: PC gets permanent +1 asset on all identification (adapted from Technology Compendium)}{SCRIPT: On exit: Chiurgical drone close in on the PC, Fade out. Sounds occur (see below). On fade in, PC is either on the ground (dying) or alive. See following nodes.} {Sound: See above SCRIPT note. During fade out, surgery is happening. Buzzsaws, a single THUNK, screams.}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>101</ID>
+      <DefaultText>Один из дронов безжалостно держит вашу голову в неподвижном положении, когда к вам приближается другой дрон с раздвинутыми клещами... *ПЛЮХ* Ваша голова кричит на вас, и вы вполне уверены, что кричите ей в ответ. Третий дрон, который на фоне боли выглядит как блестящее пятно, приближается с новым глазом, аккуратно зажатом в своих клещах. *ШАНК* {SCRIPT: PC gets permanent +1 Perception (adapted from Technology Compendium)} {SCRIPT: On exit: Chiurgical drone close in on the PC, Fade out. Sounds occur (see below). On fade in, PC is either on the ground (dying) or alive. See following nodes.} {Sound: See above SCRIPT note. During fade out, surgery is happening. Meaty pop, Meaty PLONK, screaming.}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>102</ID>
+      <DefaultText>Он прерывается и смотрит на вас искоса, кварц постепенно угасает.   "И не будет ли лучше для нас всех быть честным друг с другом?" — наконец проговорил он. — "Чтобы мы могли бы безбоязненно говорить то, что у нас на уме?"  Он смотрит вниз. "Я так думаю".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>103</ID>
+      <DefaultText>"Могу я вам задать несколько вопросов о чем-то еще?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>104</ID>
+      <DefaultText>"Все в порядке", — говорит он, выключая луч, спроецированный от его запястья.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>105</ID>
+      <DefaultText>"По вам я скучать не буду, а вот по вашим деньгам буду!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>106</ID>
+      <DefaultText>"Прощайте".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>107</ID>
+      <DefaultText>"Пико, вон тот малец, не может решить, какую услугу ему купить".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>108</ID>
+      <DefaultText>"Дети", — говорит он, качая головой. — "Я посоветовал ему выбрать мышцы снаружи. Мир жесток и становится еще более жестоким. Люди будут уважать его, если он сможет *сломать* им шею одной рукой".  Он подмигивает. "Или боятся. Фактически это одно и то же".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>109</ID>
+      <DefaultText>"Я от Лорда Вантгена".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>110</ID>
+      <DefaultText>"Правда?" — переспросил он. "Ну это меняет дело. Я не могу брать полную стоимость с друга Лорда Вантгена".  {SCRIPT:  Activate a discount on Jernaugh's services.}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>111</ID>
+      <DefaultText>"Поговорите с Кларион в таверне «Пятый Глаз», — шепчет он. — Она расскажет, как попасть на службу".
+
+Он отступает, широко улыбаясь: "Ну вот, плечо чистое — и без всяких дронов!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>114</ID>
+      <DefaultText>На его лице на долю секунды вспыхивает обсидиановый блеск, потом оно покрывается медным румянцем. Старик покраснел.   "Мои извинения", — говорит он. — "*Я* знал, что вы шутите, но мои модификации более чувствительны к таким вещам. И в самом деле мне нравится эта особенность. Если бы я был моложе и искал славы в этом городе, я бы тоже себя убил".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>115</ID>
+      <DefaultText>"У меня здесь хорошо идут дела", — пожал плечами старик. — "Если бы я был моложе и искал славы в этом городе, я бы тоже себя убил".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>116</ID>
+      <DefaultText>"Эй, это начало дня".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>117</ID>
+      <DefaultText>"Почему вы так считаете?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>118</ID>
+      <DefaultText>"Видите ли, мой хиургический кабинет кажется чудесным для предыдущего мира. Вы просто выбираете предмет или услугу, оплачиваете их по безумным ценам и всего-то после короткого или длинного периода достаточно безопасной, но неописуемой агонии, выходите из кабинета с одним из ужасных нуменерянских изобретений, жужжащих внутри вашего тела".  Он нажимает несколько кнопок на устройстве, пристегнутом к его запястью, и по всей его длине мигают огоньки. Темная, стекловидная линза фокусируется на вас.  "Ну что? Интересно?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>119</ID>
+      <DefaultText>"Горнах выбрал модификацию интеллекта, и дроны отрезали ему голову, чтобы непосредственно с ней работать. Миор выбрала силу, и дроны отсекли ей руки. В то время у них была программа по отрезанию." Он нежно улыбнулся. "Как бы то ни было, после шести партнеров я стал единственным владельцем. Я устранил недостатки, и вот так теперь обстоят дела, без смертей в течение..." он задумался. "Месяцев. Не было смертей несколько месяцев".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>121</ID>
+      <DefaultText>"Могу я купить модификацию всего тела, например такую, какую вы предложили Пико?" {SCRIPT: Maybe look into the condition on this node. Does it always make sense? Might have to create a new global. -JF}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>122</ID>
+      <DefaultText>"Нет, нет", — отвечает он. — "Вы слишком стары. Уж очень стары. Практически древний по сравнению с тем несчастным, неуклюжим мальчиком. Те улучшения подходят больше для молодого организма. Но здесь в продаже есть множество других улучшений. Какое из них вас интересует?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>124</ID>
+      <DefaultText>"Вы собирались продать мой труп, когда думали, что я был мертв?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>125</ID>
+      <DefaultText>"Только за деньги", — говорит он, пожимая плечами. — "Вам тело было не нужно, как я подумал. А Дендра О'хур не любят, когда еда портится".  Он хлопает вас по плечу. "Но вот вы здесь, на ногах и дышите. Невредимы ведь, да?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>126</ID>
+      <DefaultText>Addend. 126</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>127</ID>
+      <DefaultText>"Ой, погодите секунду. У вас что-то на плече", — он наклоняется, чтобы это смахнуть.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>128</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>129</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>130</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>131</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>132</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>133</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>134</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>135</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>136</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>137</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

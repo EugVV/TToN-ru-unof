@@ -1,0 +1,151 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\a_sagus\a1201_steel_tendrils</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>23</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>Из водных глубин появляются спутанные металлические усики. Они сильно напоминают когтистые руки пришельцев с семью или восемью пальцами.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>'Руки' этого подобного растению существа легонько звенят, соприкасаясь. На каждой руке у него по семь-восемь пальцев — больше, чем у любого человека.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>Оторвать одну руку.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>Вы хватаетесь за ближайшую руку и выдергиваете ее. 
+
+Отступив, вы делаете ей несколько выпадов. Сбалансирована на славу — может выйти неплохое оружие. 
+
+{LOOT}
+{SOUND: One of the metal hands is snapped off the steel "vine". The hand is about the size of a mace.}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>Вы хватаете за одно запястье и тянете со всей силы, но рука не поддается. Скрытые ряды тонких, но невероятно острых шипов, служащих своего рода защитным механизмом, выступают из металла и прокалывают плоть, проникая глубоко под кожу. 
+
+Боль стихает быстро, сменяясь странным и приятным онемением. Вы чувствуете, как кости и сухожилия руки омывает, застывая, ледяная жидкость. Сжимая кулак, вы видите, как под окровавленной кожей проступают полные стали вены. 
+
+{DAMAGE}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>Вы хватаетесь за ближайшую руку и тянете. Она легко отрывается.
+
+Вы делаете ей несколько выпадов. Сбалансирована на славу — может выйти неплохое оружие. 
+
+{LOOT}
+{SOUND: One of the metal hands is snapped off the steel "vine." The hand is about the size of a mace.}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>Вы хватаете за одно запястье и тянете со всей силы, но 'рука' не поддается. Скрытые ряды тонких, но невероятно острых шипов, служащих своего рода защитным механизмом, выступают из металла и разрывают плоть, проникая глубоко под кожу.
+
+Пульсирующая боль стихает медленно, сменяясь странным и приятным онемением. Вы чувствуете, как кости и сухожилия руки омывает, застывая, ледяная жидкость. Сжимая кулак, вы видите, как под окровавленной кожей проступают полные стали вены. 
+
+{DAMAGE — More?}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>Follow-up PQ. 11</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>Вы пытаетесь опереться на ближайшую ладонь, но она движется вместе с тобой, будто уносится ветром, которого нет. Вы делаете отвлекающий маневр и уходите в другом направлении. Как раз в эту секунду вы замечаете то, что рука пыталась что-то спрятать. 
+
+Одна из нижних рук передает другой руке крошечный серебристый предмет — серебряный стручок.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>Другие руки не передают между собой стручки. Наверное, они прячут их от вас.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText>'Руки' легонько покачиваются, но за их движениями сложно проследить. Если на них долго смотреть, то может начать тошнить. 
+
+Кроме самих 'рук' в этой совокупности нет ничего интересного.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText>Осмотреть эту совокупность.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>14</ID>
+      <DefaultText>Осмотреть эту совокупность еще раз.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>15</ID>
+      <DefaultText>Отойти.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>16</ID>
+      <DefaultText>"Похоже, у тебя появился враг. Поздравляю, дорогой".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>17</ID>
+      <DefaultText>"Для тебя нет большего счастья, чем крушить все вокруг, верно?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>18</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>19</ID>
+      <DefaultText>Вы хватаетесь руками за одно из запястий и тянете изо всех сил. 
+
+В конце концов, вы сдаетесь. Похоже, усики стали толще и сильнее, защищаясь от вас.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20</ID>
+      <DefaultText>Пробовать вырвать другую руку из этой совокупности.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>21</ID>
+      <DefaultText>Пробовать отобрать стручок.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>22</ID>
+      <DefaultText>Вы выжидаете момент, затем выхватываете стручок, когда он передается из одной руки в другую. Внезапно вас окатывает волна негодования, исходящая от этой совокупности. 
+
+{LOOT}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>23</ID>
+      <DefaultText>Вы пытаетесь схватить стручок, но руки замечают ваше движение. Стручок быстро скрывается среди других рук, и вы не успеваете вырвать его.
+
+Больше вы стручков не видите. Похоже, руки поняли, что вам доверять нельзя.</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

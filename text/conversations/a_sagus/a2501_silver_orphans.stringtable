@@ -1,0 +1,366 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\a_sagus\a2501_silver_orphans</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>67</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>Два серебряных гуманоида стоят рядом с небольшим средством передвижения неизвестного происхождения. На их коже — сверкающий металлический покров, в котором мелькают отражения. Благодаря этому они сливаются с окружающим пейзажем, но остаются заметными. Вы приближаетесь, оба поворачивают головы в вашу сторону. У них нет ртов, их глаза непроницаемо темны и ничего не выражают. 
+
+В памяти всплывает название этих существ — серебряные сироты. Наверно, сами они называют себя не так, но это название использует Орден Истины.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>Серебряные сироты молча повторяют предыдущие действия — тот, что стоит справа, делает сложную серию жестов, затем тот, что стоит слева, опускается на колени и рисует пояснения на земле.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>Видя ваше недоумение, стоящий слева опускается на колени. Указательным пальцем он чертит линии и круги в пыли у ваших ног. От центра исходит рябь: вначале в форме квадрата, затем в форме человеческого глаза, и в конце в виде хитросплетенной паутины взаимосоединенных точек. Серебряный сирота поднимает на вас взгляд, ожидая ответ.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>"Я не понимаю тебя!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>Вы смотрите на рисунок, следуя глазами за линиями и формами. Так, здесь волна... слов? А здесь человеческий глаз, еще узнаваемый среди точек и линий, окружающих его. Ниже глаза изображен квадрат и что-то знакомое, как будто инструмент, который вы когда-то держали в руках...</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>Несмотря на ваши усилия, вы не можете понять значение рисунка. Серебряные сироты не кажутся ни огорченными, ни обрадованными вашей неудачей, они продолжают смотреть на вас даже после того, как вы оставили попытки понять изображения.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>Вы чертите рисунок, начав с той же серии символов, которые рисовал стоявший слева гуманоид. Он следит за вашими руками, почти не глядя в лицо, сканируя линии, которые появляются в пыли. В решающий момент он протягивает руку и исправляет нарисованную вами линию, и значение рисунка в целом приобретает более глубокое значение, чем вы предполагали.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>Как бы вы ни старались, все попытки воссоздать рисунок заканчиваются ничем. Сирота, стоящий слева, некоторое время смотрит на вас, затем встает и смотрит на другого гуманоида. Они смотрят на вас с презрением, затем отводят глаза. У вас появляется неприятное чувство, что вас прогоняют.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>14</ID>
+      <DefaultText>Две сироты наблюдают за вами, не двигаясь.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>15</ID>
+      <DefaultText>Рассказать сиротам о Мастерах в Подбрюшье.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>16</ID>
+      <DefaultText>Рассказать сиротам о Сильф.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>17</ID>
+      <DefaultText>Рассказать сиротам о боге Караван-сарая.
+
+{SCRIPT: Conditional — PC has learned the true nature of the god that protects the abandoned airship.}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>18</ID>
+      <DefaultText>Рассказать сиротам о Зиобе.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>19</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20</ID>
+      <DefaultText>Серебряные сироты наблюдают за вами без малейшей тени любопытства или понимания.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>21</ID>
+      <DefaultText>Как бы расшифровав бессмысленный поначалу шум в припеве давно знакомой песни, вы внезапно *понимаете*, что именно ищут серебряные сироты —искусственный интеллект, вне зависимости от того, когда и где он мог быть спрятан.
+
+Сироты бесстрастно наблюдают за вашим озарением. Стоящий справа протягивает руку, прося передать им сведения.
+
+{JOURNAL: A note should be added to the journal here that the silver orphans are seeking machine intelligences and will reward the player for news of each one they find and report.}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>22</ID>
+      <DefaultText>"В другой раз, позже".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>23</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>24</ID>
+      <DefaultText>Вы схематично чертите городскую фабрику, приблизительно изображаете Мастеров, отмечая, как они возвышается над работниками-людьми. Затем вы чертите линию, соединяющую их со знаком искусственного интеллекта, который изобразили сироты. Серебряные сироты внимательно следят за рисунком.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>25</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>26</ID>
+      <DefaultText>Вы приблизительно изображаете Сильф рядом с рисунком сирот, еще видимым в пыли. Когда вы заканчиваете рисунок, вам кажется, что сироты выглядят довольными.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>27</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>28</ID>
+      <DefaultText>С некоторыми трудностями вы изображаете бога Караван-сарая рядом с обозначением искусственного интеллекта. Это занимает немного времени, но в итоге сирота, стоящий слева, рисует в пыли короткий завиток. Как вы поняли, это символ благодарности.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>29</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30</ID>
+      <DefaultText>Вы рисуете символ таверны Пятый Глаз и приблизительно изображаете Зиобе. Затем вы чертите линию, соединяющую свой рисунок со знаком искусственного интеллекта, который изобразили сироты. Вы на мгновение начинаете сомневаться, понимают ли они.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>31</ID>
+      <DefaultText>Они отворачиваются и смотрят друг на друга. Затем правый гуманоид просовывает руку внутрь своего тела, его серебряная рука легко сливается со сверкающим металлом корпуса. Мгновение спустя его рука выглядит так же, как раньше, и в ней он держит предмет странной конструкции. Гуманоид передает предмет вам. Вы понимаете, что это плата.
+{LOOT}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>32</ID>
+      <DefaultText>Затем сирота, стоящий справа, вновь просовывает руку внутрь своего тела и достает другой объект, который кладет в ваши подставленные ладони.
+{LOOT}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>33</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>34</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>35</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>36</ID>
+      <DefaultText>Попытаться понять рисунок.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>37</ID>
+      <DefaultText>Попытаться понять рисунок еще раз.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>38</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>39</ID>
+      <DefaultText>Скопировать рисунок, пытаясь начать общение.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>40</ID>
+      <DefaultText>Попытаться скопировать рисунок еще раз, чтобы установить связь.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>41</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>42</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>43</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>45</ID>
+      <DefaultText>Серебряные сироты смотрят друг над друга несколько секунд, затем тот, что справа, показывает жестами какой-то сложный знак.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>46</ID>
+      <DefaultText>Серебряные сироты молчаливо наблюдают за вами, пока вы безуспешно пытаетесь разобраться в их рисунке. Вы все еще не понимаете, что он означает.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>47</ID>
+      <DefaultText>Оба существа без интереса наблюдают за тем, как вы чертите линии и символы на земле. Вам вновь не удается воспроизвести их рисунок.
+
+ Рабочие и моряки удивленно поглядывают на вас, проходя мимо.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>48</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>49</ID>
+      <DefaultText>Постараться повторить жесты того, что справа.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>50</ID>
+      <DefaultText>Когда сироты понимают, что вы пытаетесь сделать, тот, что справа, хватает вас за руки и держит их, а тот, что слева, указывает на свой рисунок. Вам кажется, что их раздражает то, что приходится учить вас пользоваться их жестами для общения, или вы и вовсе показали руками нечто оскорбительное.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>51</ID>
+      <DefaultText>Поведать сиротам о дронах Несравненного.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>52</ID>
+      <DefaultText>Вы схематично изображаете Риф Падших Миров, помечая крестом, где вы встретили дронов Несравненного, и воспроизводите рядом рисунок сироты.
+
+Сирота, что слева от вас, наклоняется и добавляет несколько штрихов, которые, как вам кажется, являются просьбой о подробностях.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>53</ID>
+      <DefaultText>Проходит много времени, прежде чем они одновременно поворачиваются к вам, затем они достают из себя части непонятного устройства. Они соединяют детали и отдают вам загадочную нуменеру, подобных которой вы еще не видели. Вам кажется, что они довольны полученным интеллектом.
+{LOOT}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>54</ID>
+      <DefaultText>Пусть вы и не понимаете их жесты, вы *можете* слышать их мысли.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>57</ID>
+      <DefaultText>"Вы имеете в виду искусственный интеллект?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>58</ID>
+      <DefaultText>"Вы умеете говорить?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>59</ID>
+      <DefaultText>"Зачем вам разумы устройств?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>60</ID>
+      <DefaultText>Их лица ничего не выражают, будто они вовсе вас и не слышат. Один из них опускается на колени и рисует у вас под ногами линии и круги. От центра исходит рябь: вначале в форме квадрата, затем в форме человеческого глаза, и в конце в виде хитросплетенной паутины взаимосоединенных точек. Серебряный сирота поднимает на вас взгляд, ожидая ответ.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>61</ID>
+      <DefaultText>Не произнося ни слова, серебряные сироты смотрят, как вы подходите. И снова тот, что справа, обращается к вам с помощью каких-то сложных жестов.
+
+К своему удивлению, вы хоть и не понимаете их жесты, но *можете* читать их мысли.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>62</ID>
+      <DefaultText>Немного подумав, вы рисуете одного из повстречавшихся вам дронов, затем второго, соединяете их линией, чтобы показать их взаимосвязь. Сирота справа от вас наклоняется и останавливает вашу руку, затем поворачивается к близнецу.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>63</ID>
+      <DefaultText>"Я еще ничего не нашел, простите".
+
+{SCRIPT: Only available if the PC actually hasn't found any — will require an additional condition if the Peerless are implemented and if the PC can discover the true nature of the god of the Caravanserai.}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>64</ID>
+      <DefaultText>"Я сообщу вам, когда найду искусственный интеллект".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>65</ID>
+      <DefaultText>"Неужели?" — бормочет Каллистеж. — "Что будет с теми интеллектами, если ты их доставишь?" Серебряные сироты не реагируют на ее слова.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>66</ID>
+      <DefaultText>Каллистеж слегка прикасается ладонью к вашей руке.
+
+"Узнай их мотивы, дорогуша, но помни, что знания теряют силу, когда ими делятся". Серебряные сироты не реагируют на ее слова.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>67</ID>
+      <DefaultText>"Я ищу женщину с сиреневыми волосами. Вы не видели ее?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>68</ID>
+      <DefaultText>Они смотрят на вас широко открытыми черными глазами и не отвечают.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>69</ID>
+      <DefaultText>В этот раз сирота, стоящий слева от вас, просовывает руку внутрь себя, достает какой-то предмет и кладет его вам в руки.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>70</ID>
+      <DefaultText>Сироты долго смотрят друг на друга. Затем они оба извлекают из себя по предмету. Сирота справа берет оба предмета и соединяет их, затем передает вам.
+
+{THOMAS: If this could conceivably be something that was fit together from multiple parts (as in the text), that would be ideal.)</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

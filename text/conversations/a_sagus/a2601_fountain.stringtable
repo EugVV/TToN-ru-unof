@@ -1,0 +1,134 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\a_sagus\a2601_fountain</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>24</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>Этот фонтан построен из материала, напоминающего что-то среднее между камнем и деревом. В нем нет воды, чего и следовало ожидать. Вместо этого он кишит маленькими существами, похожими на рыб. Они прыгают и барахтаются в живой массе, издавая такой звук, будто болтают друг с другом на тысяче разных языках.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>Эти рыбоподобные существа в каменно-деревянном фонтане скользят и прыгают друг над другом, болтая на своих разномастных языках.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>Это джалейс, вполне безобидные существа, которые обычно обитают в облаках над морем. Что они делают в этом фонтане — совершенно непонятно.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>Послушать, о чем болтают эти существа.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>Послушать этих существ подольше.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>Вы складываете руки, внимательно вслушиваясь в рыбью болтовню. Это напоминает какофонию бессмысленных звуков вперемешку с детским лепетом.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>Рыбоподобные существа продолжают свое бормотание, напоминающее песню с мелодичными звуками и исковерканными словами.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>Ваше внимание привлекают несколько часто повторяемых звуков. Это уже не непонятное бормотание. Они говорят на множестве языков, но вы никогда не слышали ни один из них.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>Несколько часто повторяемых звуков пробуждают вашу память, прежде чем удается что-то разобрать. 
+
+Вы стоите перед ржавым терминалом, обладающим разумом. Он окружен перекошенными развалинами. Положив незнакомые руки на треснувшее стекло, вы произносите слова на всех известных вам языках. Проходит некоторое время. 
+
+Терминал пробуждается в ответ на гортанный звук древнего приветствия. Вы сразу узнаете его. Это одно из слов, которые рыбоподобные существа бормотали друг другу.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText>Осмотреть каменно-деревянный фонтан.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText>Осмотреть каменно-деревянный фонтан еще раз.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>14</ID>
+      <DefaultText>Теперь, когда вы смотрите на фонтан, он выглядит необъяснимо древним. Медные украшения, похожие на языки, выгибаются и переплетаются по краю конструкции, как будто плескаясь в бесконечном потоке этих существ.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>15</ID>
+      <DefaultText>Вы снова поражаетесь тому, как превосходно сохранился этот древний фонтан.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>16</ID>
+      <DefaultText>Вы осматриваете окружающие строения, прежде чем снова взглянуть на фонтан. Эта конструкция, бесспорно, намного древнее зданий на площади и, возможно, всего города. 
+
+Возможно, даже древнее Девятого Мира.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>21</ID>
+      <DefaultText>Поймать одно из существ.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>22</ID>
+      <DefaultText>Попытаться поймать какое-либо из существ еще раз.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>23</ID>
+      <DefaultText>Вы ловко вылавливаете одну рыбу из искрящегося и извивающегося потока. Бурлящая масса остальных существ издает пронзительный крик, похожий на нелепое возмущение.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>24</ID>
+      <DefaultText>Вы погружаете руку в слизистую массу существ, но они с легкостью проскальзывают сквозь пальцы.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>25</ID>
+      <DefaultText>Не подходить к фонтану.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>28</ID>
+      <DefaultText>Еще раз попробовать поймать какое-нибудь существо.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>29</ID>
+      <DefaultText>Вы хватаете рукой другую рыбу. Крошечные зубы вгрызаются между пальцами, и вы со злостью выбрасываете ее.</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

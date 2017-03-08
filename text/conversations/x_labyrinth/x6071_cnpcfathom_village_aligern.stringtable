@@ -1,0 +1,275 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\x_labyrinth\x6071_cnpcfathom_village_aligern</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>49</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>Подойдя ближе, вы замечаете, что Алигерн застрял в петле мучительного времени. Тень темной металлической рамы мелькает за его спиной, и из нее начинают валить полчища черных монстров с красными глазами и клыками. Невидимые местные жители разбегаются с криками, когда монстры набрасываются на них. Их лица становятся различимыми на момент, и на них читается страх и агония.
+
+Из толпы выделяются двое — женщина и ее дочь.
+
+Алигерн всхлипывает от своей беспомощности. Эти существа приближаются.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>Он встает, открывает глаза, и жуткие твари исчезают. Жители деревни исчезают. Последними уходят его жена и дочь. Он протягивает к ним руку, будто сможет дотронуться до тумана, и татуировки на его руках начинают гореть и шипеть. Когда все видение проходит, он опускает руку, рыдая.
+
+Спустя мгновенье он вытирает слезы, и грусть сменяется привычной желчью. "Наверно я должен сказать спасибо. А теперь что?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>"Это не твоя вина, Алигерн, это вина Меняющегося Бога. Отпусти боль".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>"Это была случайность, Алигерн. Ты не виноват".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>"Это твоя вина, Алигерн, да. Но теперь их нет. Можешь отпустить их".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>"Монстры не разрушили твою деревню, Алигерн. Мы найдем код и освободим их".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>15</ID>
+      <DefaultText>Вы пытаетесь снова войти в контакт с Алигерном, и снова погружаетесь в пучину ужасов, охвативших его разум.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>16</ID>
+      <DefaultText>Уйти и оставить его в страданиях.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>17</ID>
+      <DefaultText>Взгляд Алигерна переметнулся на вас. "Что ты здесь делаешь?" — спрашивает он скрипучим голосом. — "Нет, моя! Моя вина! Моя боль!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>18</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>19</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>21</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>22</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>23</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>24</ID>
+      <DefaultText>Но вы знаете, что здесь происходит на самом деле — твари, напавшие на семью Алигерна, не уничтожили их.  Звери копируют жителей деревни, превращая их в данные, которые будут скопированы в руки Алигерна. Может, если напомнить ему правду, его страдания прекратятся.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>25</ID>
+      <DefaultText>По его лицу видно, что он размышляет над вашими словами, и парализующий страх отступает. Выливающаяся из рамы чернота исчезает.
+
+Он кладет одну руку на татуировку и сдирает ее с кожи наполовину. "Я знаю тебя. Я *знаю* тебя".
+
+Он радостно смеется. "Я всех вас знаю!" Он погружает руку в кожу и поднимает в воздух пригоршню татуировок. "О, друзья мои. Изатрина! Авия! Я... Я..."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>26</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>27</ID>
+      <DefaultText>"Алигерн, что с тобой?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30</ID>
+      <DefaultText>Он дрожит. "Нет... Я... это..." Он закрывает глаза. "Это была ошибка. Не нужно было активировать раму. Я..." Он опускает плечи.
+
+"Ладно. Ладно".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>33</ID>
+      <DefaultText>"Ты можешь отправиться в место, называемое Спокойствием. Там ты будешь в безопасности".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>34</ID>
+      <DefaultText>"Ты хочешь снова присоединиться ко мне?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>35</ID>
+      <DefaultText>"У тебя их уже слишком много с собой. Если захочешь освободить немного места — я только за. Я бы с радостью присоединился к тебе снова. Но если нет, я и сам найду путь".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>36</ID>
+      <DefaultText>"Так как мне здесь нечем особо заняться... Ладно".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>37</ID>
+      <DefaultText>"Давай отправляться в путь".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>38</ID>
+      <DefaultText>"Не с тобой. Хоть ты и освободил меня от этого кошмара, но жизнь мою превратил в ад. Хватит с меня. Выход я найду сам".
+
+Он отворачивается и медленно уходит.</DefaultText>
+      <FemaleText>"Не с тобой. Хоть ты и освободила меня от этого кошмара, но жизнь мою превратила в ад. Хватит с меня. Выход я найду сам".</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>39</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>40</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>41</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>42</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>43</ID>
+      <DefaultText>"Просто дай мне знать".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>44</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>45</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>46</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>47</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>48</ID>
+      <DefaultText>"... Мне жаль, что я этого не знал раньше. Я должен был найти решение. Я..."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>49</ID>
+      <DefaultText>"... Надеюсь, я не слишком ранил тебя за эти годы. Скажи мне, что ты все еще жив, что у тебя все еще есть чувства".</DefaultText>
+      <FemaleText>"... Надеюсь, я не слишком ранил тебя за эти годы. Скажи мне, что ты все еще жива, что у тебя все еще есть чувства".</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>50</ID>
+      <DefaultText>"Я старался быть хорошим хозяином. Я последовал за тем, за кем стоило последовать". Он шепчет: "Пожалуйста... вернись ко мне в целости".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>51</ID>
+      <DefaultText>"Я... должен был знать. Я проклял тебя. Я ненавидел тебя. Я хотел, чтобы ты исчез. Но я получил свои ответы. Мне так искренне жаль".</DefaultText>
+      <FemaleText>"Я... должен был знать. Я проклял тебя. Я ненавидел тебя. Я хотел, чтобы ты исчезла. Но я получил свои ответы. Мне так искренне жаль".</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>52</ID>
+      <DefaultText>Он позволяет татуировкам вновь слиться с его кожей. "Как это возможно? Как мне теперь узнать ответ? Как мне..." Он поворачивается к вам, и понимание озаряет его лицо. "Так это был ты. Ты открыл ответ".
+
+"Ты показал мне секрет, как высвобождать их из своей кожи. Когда мы вернемся в мир, я их отпущу".
+
+Он жадно глотает воздух. "Спасибо, дружище. Спасибо тебе. И... Что теперь?"</DefaultText>
+      <FemaleText>Он позволяет татуировкам вновь слиться с его кожей. "Как это возможно? Как мне теперь узнать ответ?" Как мне..." Он поворачивается к вам, и понимание озаряет его лицо. "Так это была ты. Ты открыл ответ".
+
+"Ты показала мне секрет, как высвобождать их из своей кожи. Когда мы вернемся в мир, я их отпущу".
+
+Он жадно глотает воздух. "Спасибо, дружище. Спасибо тебе. И... Что теперь?"</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>53</ID>
+      <DefaultText>Его глаза горят. "Я знаю, что это была не моя вина. Просто я... Я ненавижу себя за то, что дотронулся до этой рамки".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>54</ID>
+      <DefaultText>Он инстинктивно скалится, обнажая свои белые зубы. "Я знаю это. Лишь боль позволяет мне держаться". Он разжимает кулаки усилием воли.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>55</ID>
+      <DefaultText>"Хорошо. Спасибо за подсказку".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>57</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>59</ID>
+      <DefaultText>"Что с тобой происходит, Алигерн?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>60</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>62</ID>
+      <DefaultText>"Я страдаю", — скрежещет он. — "Я нахожусь в аду, созданном собственными руками".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>63</ID>
+      <DefaultText>"Я рад". Он похлопывает вас по плечу.</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

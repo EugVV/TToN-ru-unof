@@ -1,0 +1,165 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\x_labyrinth_crisis\x4061_sorrowfragmentfathom_regret_silverambush</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>29</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>17</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>18</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>22</ID>
+      <DefaultText>Осматривая это устройство, вы чувствуете, как оно обыскивает ваш разум, вызывая рой непрошенных картинок. Одна из них особенно требует вашего внимания и настойчиво тянет наверх погребенное воспоминание.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>23</ID>
+      <DefaultText>Вы входите в таверну, и все лица обращаются к вам. Жаркий шепот беседы стихает. Они знают вас и знают, зачем вы пришли. Алдей Тавл поддерживает соседний клейв, и местные не спускают осторожных глаз со Жрецов Вечности. Они знают об опасностях нуменер, выкапываемых учеными, и — учитывая их близость к Бесконечной Битве — то, что означает ваша татуировка.
+
+Вы слышите резкий шепот: "Отверженная мразь!"
+
+Но вы не удостаиваете их взглядом.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>24</ID>
+      <DefaultText>Но, продвигаясь к бару, вы чувствуете напряжение в комнате. Хозяин таверны избегает встречаться с вами взглядом. Вы знаете, что будет дальше, и со вздохом поворачиваетесь лицом к комнате.
+
+Перед вами стоит крупная, дородная женщина: "Тебе здесь не рады, отверженный. Ваша чертова война — это проклятье. Мы больше не потерпим здесь отверженных. Убирайся, или, видят боги, мы заставим тебя пожалеть о том, что ты этого не сделал".</DefaultText>
+      <FemaleText>Но, продвигаясь к бару, вы чувствуете напряжение в комнате. Хозяин таверны избегает встречаться с вами взглядом. Вы знаете, что будет дальше, и со вздохом поворачиваетесь лицом к комнате.
+
+Перед вами стоит крупная, дородная женщина: "Тебе здесь не рады, отверженная. Ваша чертова война — это проклятье. Мы больше не потерпим здесь отверженных. Убирайся, или, видят боги, мы заставим тебя пожалеть о том, что ты этого не сделала".</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>25</ID>
+      <DefaultText>Вы чувствуете, как внутри вас усиливается и вихрем кружится энергия, и со свирепой улыбкой плетете сеть из Потоков.
+
+"Ты понятия не имеешь, с кем разговариваешь. Я не отверженный, а их создатель. Это я начал Бесконечную Битву. Я — Меняющийся Бог, и вы *будете* меня чтить", — вы широко разводите руки, и Потоки изливаются из вас.</DefaultText>
+      <FemaleText>Вы чувствуете, как внутри вас усиливается и вихрем кружится энергия, и со свирепой улыбкой плетете сеть из Потоков.
+
+"Ты понятия не имеешь, с кем разговариваешь. Я не отверженная, а их создатель. Это я начала Бесконечную Битву. Я — Меняющийся Бог, и вы *будете* меня чтить", — вы широко разводите руки, и Потоки изливаются из вас.</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>26</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>27</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>28</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>29</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30</ID>
+      <DefaultText>Позволить воспоминаниям прийти.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>31</ID>
+      <DefaultText>Не дать себя изучить.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>32</ID>
+      <DefaultText>Слегка сосредоточившись, вы прерываете связь с устройством.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>33</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>34</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>35</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>36</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>37</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>38</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>39</ID>
+      <DefaultText>Аппарат снова вызывает картинки в вашей голове — калейдоскоп извлеченных воспоминаний, — но непреодолимое желание исследовать их исчезло.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>40</ID>
+      <DefaultText>Воспоминания продолжают мелькать у вас в голове, борясь за ваше внимание.</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

@@ -1,0 +1,298 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>quests\c_bloom\quest_c4101_rumblings_of_discontent</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>58</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>0</ID>
+      <DefaultText>Недовольное ворчание</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>Найти пропавшие патрули.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>Вернуться к Браске.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>Найти второй пропавший патруль.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>Найти второй пропавший патруль.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>Найти второй пропавший патруль.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>Найти второй пропавший патруль.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>Вернуться к Браске.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText>Вернуться к Браске.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText>Найти второй пропавший патруль.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>14</ID>
+      <DefaultText>Вернуться к Браске.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>16</ID>
+      <DefaultText>Оба патруля спасены</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>17</ID>
+      <DefaultText>Вернуться к Браске.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>18</ID>
+      <DefaultText>Оба патруля спасены</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>19</ID>
+      <DefaultText>Вернуться к Браске.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20</ID>
+      <DefaultText>Один патруль спасен</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>21</ID>
+      <DefaultText>Вернуться к Браске.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>22</ID>
+      <DefaultText>Один патруль спасен</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>23</ID>
+      <DefaultText>Вернуться к Браске.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>24</ID>
+      <DefaultText>Один патруль спасен</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>25</ID>
+      <DefaultText>Вернуться к Браске.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>26</ID>
+      <DefaultText>Оба патруля обнаружены. Все патрульные убиты.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>27</ID>
+      <DefaultText>Вернуться к Браске.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>28</ID>
+      <DefaultText>Вернуться к Браске.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>29</ID>
+      <DefaultText>Вернуться к Браске.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10000</ID>
+      <DefaultText>Браска, капитан охраны Мемовиры, попросила найти два ее патруля, которые не вернулись из глубин Цветения.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10001</ID>
+      <DefaultText>Браска сказала, что патрули обходили Цветение, поэтому они могут оказаться где угодно.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10002</ID>
+      <DefaultText>Вы отыскали оба патруля. Осталось сообщить Браске хорошие новости.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10005</ID>
+      <DefaultText>Я спас один из патрулей в Малом Нилише, но о втором ничего не известно.</DefaultText>
+      <FemaleText>Я спасла один из патрулей в Малом Нилише, но о втором ничего не известно.</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>10008</ID>
+      <DefaultText>Я нашел один из патрулей Браски в Малом Нилише. К несчастью, стражники убиты мутантами.</DefaultText>
+      <FemaleText>Я нашла один из патрулей Браски в Малом Нилише. К несчастью, стражники убиты мутантами.</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>10009</ID>
+      <DefaultText>Я спас единственного выжившего бойца одного из патрулей Браски в старой темнице рабов, но о втором патруле ничего не известно.</DefaultText>
+      <FemaleText>Я спасла единственного выжившего бойца одного из патрулей Браски в старой темнице рабов, но о втором патруле ничего не известно.</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>10010</ID>
+      <DefaultText>Я спас двух выживших бойцов одного из патрулей Браски в старой темнице рабов, но о втором патруле ничего не известно.</DefaultText>
+      <FemaleText>Я спасла двух выживших бойцов одного из патрулей Браски в старой темнице рабов, но о втором патруле ничего не известно.</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>10011</ID>
+      <DefaultText>Я спас второй патруль Браски от мутантов в Малом Нилише. Осталось доложить об этом Браске.</DefaultText>
+      <FemaleText>Я спасла второй патруль Браски от мутантов в Малом Нилише. Осталось доложить об этом Браске.</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>10012</ID>
+      <DefaultText>Я спас второй патруль Браски от мутантов в Малом Нилише. Осталось доложить об этом Браске.</DefaultText>
+      <FemaleText>Я спасла второй патруль Браски от мутантов в Малом Нилише. Осталось доложить об этом Браске.</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>10013</ID>
+      <DefaultText>Тела убитых бойцов одного из патрулей Браски обнаружены в старой темнице рабов, но о втором патруле ничего не известно.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10014</ID>
+      <DefaultText>Я спас второй патруль Браски от мутантов в Малом Нилише. Осталось сообщить об этом Браске.</DefaultText>
+      <FemaleText>Я спасла второй патруль Браски от мутантов в Малом Нилише. Осталось сообщить об этом Браске.</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>10016</ID>
+      <DefaultText>Я помешал мутантам истребить один из патрулей Браски в Малом Нилише и спас единственного выжившего бойца второго патруля от стаи мерденов в старой темнице рабов. Браска будет довольна.</DefaultText>
+      <FemaleText>Я помешала мутантам истребить один из патрулей Браски в Малом Нилише и спасла единственного выжившего бойца второго патруля от стаи мерденов в старой темнице рабов. Браска будет довольна.</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>10017</ID>
+      <DefaultText>Вы отыскали оба патруля. Осталось сообщить Браске хорошие новости.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10018</ID>
+      <DefaultText>Я помешал мутантам истребить один из патрулей Браски в Малом Нилише и спас двух выживших бойцов второго патруля от стаи мерденов в старой темнице рабов. Браска будет довольна.</DefaultText>
+      <FemaleText>Я помешала мутантам истребить один из патрулей Браски в Малом Нилише и спасла двух выживших бойцов второго патруля от стаи мерденов в старой темнице рабов. Браска будет довольна.</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>10019</ID>
+      <DefaultText>Один патруль спасен. Тела бойцов второго патруля тоже обнаружены. Осталось сообщить об этом Браске.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10020</ID>
+      <DefaultText>Я помешал мутантам истребить один из патрулей Браски в Малом Нилише, но не успел спасти второй патруль, который был убит и частично сожран мерденами в старой темнице рабов. Что ж, Браска хотя бы не будет мучиться от неизвестности.</DefaultText>
+      <FemaleText>Я помешала мутантам истребить один из патрулей Браски в Малом Нилише, но не успела спасти второй патруль, который был убит и частично сожран мерденами в старой темнице рабов. Что ж, Браска хотя бы не будет мучиться от неизвестности.</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>10021</ID>
+      <DefaultText>Один патруль спасен, а второй был растерзан. Пора сообщить обо всем Браске.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10022</ID>
+      <DefaultText>Я спас единственного выжившего из патруля Браски от кровожадных мерденов в старой темнице рабов. К несчастью, второй патруль был на моих глазах растерзан мутантами в Малом Нилише. Что ж, по крайней мере Браска не будет мучиться от неизвестности.</DefaultText>
+      <FemaleText>Я спасла единственного выжившего из патруля Браски от кровожадных мерденов в старой темнице рабов. К несчастью, второй патруль был на моих глазах растерзан мутантами в Малом Нилише. Что ж, по крайней мере Браска не будет мучиться от неизвестности.</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>10023</ID>
+      <DefaultText>Один патруль спасен, а второй был растерзан. Пора сообщить обо всем Браске.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10024</ID>
+      <DefaultText>Я спас двоих выживших из патруля Браски от кровожадных мерденов в старой темнице рабов. К несчастью, второй патруль был на моих глазах растерзан мутантами в Малом Нилише. Что ж, Браска хотя бы не будет мучиться от неизвестности.</DefaultText>
+      <FemaleText>Я спасла двоих выживших из патруля Браски от кровожадных мерденов в старой темнице рабов. К несчастью, второй патруль был на моих глазах растерзан мутантами в Малом Нилише. Что ж, Браска хотя бы не будет мучиться от неизвестности.</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>10025</ID>
+      <DefaultText>Один из патрулей Браски был убит на моих глазах. Второй был растерзан еще раньше. Нужно сообщить Браске печальные новости.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10026</ID>
+      <DefaultText>Один из патрулей Браски был на моих глазах убит мутантами в Малом Нилише. Частично съеденные останки второго патруля я нашел в старой темнице рабов. Вряд ли Браску это порадует.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10027</ID>
+      <DefaultText>Второй патруль Браски был на моих глазах уничтожен мутантами в Малом Нилише. Теперь нужно сообщить об этом Браске.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10028</ID>
+      <DefaultText>Второй патруль Браски был на моих глазах уничтожен мутантами в Малом Нилише. Теперь нужно сообщить об этом Браске.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10029</ID>
+      <DefaultText>Второй патруль Браски был на моих глазах уничтожен мутантами в Малом Нилише. Мне осталось сообщить обо всем Браске.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20001</ID>
+      <DefaultText>Вы нашли единственного выжившего из одного из патрулей Браски в старой темнице рабов, но его удерживают в плену кровожадные мердены.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20002</ID>
+      <DefaultText>Вы нашли единственного выжившего из одного из патрулей Браски в старой темнице рабов, но его удерживают в плену кровожадные мердены.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20003</ID>
+      <DefaultText>Вы нашли единственного выжившего из одного из патрулей Браски в старой темнице рабов, но его удерживают в плену кровожадные мердены.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30000</ID>
+      <DefaultText>Вам удалось спасти оба патруля Браски.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30001</ID>
+      <DefaultText>Вы спасли один из патрулей Браски, но второй был уничтожен.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30002</ID>
+      <DefaultText>Вы нашли останки обоих патрулей Браски. Увы, все стражники были убиты.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30003</ID>
+      <DefaultText>Вы нашли один из патрулей Браски и сообщили о местонахождении второго.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30004</ID>
+      <DefaultText>Вы нашли останки одного из патрулей Браски и сообщили о местонахождении второго.</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\items\item_electrostaticmerecaster_silvermere</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>7</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>Вы хватаетесь за устройство двумя руками, и энергия растекается по вашей коже. Ваша кожа покрывается мурашками, словно от невидимого холодного дождя, льющегося с неба. 
+
+В центре тетраэдров усиливается свечение — путь к сознанию, заключенному в устройстве.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>Вы вновь извлекаете устройство из своих вещей. В ту же секунду серебристое свечение появляется в центре тетраэдров, призывая вас войти в сознание, заключенное внутри устройства.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>Рассмотреть проектор сознания.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>Чем дольше вы держите устройство, тем больше убеждаетесь, что оно *не* любит, когда его держат в руках или рассматривают. Что оно против того, чтобы быть объектом изучения, поэтому притворяется мертвым и бесполезным. 
+
+В любом случае у вас нет ни одного доказательства, что устройство все еще работает.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>Войти в сознание.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>Убрать проектор сознания.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

@@ -1,0 +1,274 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\a_sagus\a2623_damaged_peerless_drone</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>50</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>Дрон соединен с окружающим его оборудованием петляющими проводами и кабелями. У вас почти не осталось сомнений, что именно этот конструкт является источником проблем в Безмолвном лазарете.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>"Я предупреждаю тебя, мешок с мясом. Не приближайся".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>"Не приближайся ко мне, мешок с мясом. Я Несравненный, я Вечность. Я Несравненный, я Мощь. Я Несравненный, я Мудрость. Ты стоишь в *сердце* моей силы".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>Follow-up PQ. 4.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>"Ты отличаешься от других механизмов в лазарете. Как ты спустился сюда?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>"Давай, расскажи мне. Почему ты настолько отличаешься от остальных здешних механизмов?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>Follow-up PQ. 7.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>Выключить поврежденного дрона.
+{SCRIPT: This task is one step easier if Node 36 has played.}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>Еще раз попробовать выключить поврежденного дрона.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>"Кажется, твои генераторы поля сломаны. Как ты спустился сюда?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>"Более столетия я покоился, засыпанный кусками ржавеющего металла, на Рифе Падших Миров, размышляя о своей безграничной мощи", — говорит конструкт. "Потом, совсем недавно, меня нашли. И пробудили!" В голосе конструкта появляется нотка горечи.
+
+"За это следовало винить мерзких существ, покрытых перьями — наверняка ты уже видел их тела. Они коснулись меня своими грязными лапами. Коснулись меня! Но я подавил в себе желание немедленно уничтожить их, так как у меня появился план".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText>"Тебя это не касается", — нехотя говорит конструкт. Он явно хочет прихвастнуть.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText>"Нет!" — кричит искусственный интеллект, когда вы хватаете нужный кабель. "Возьми-"
+
+Вы выдергиваете кабель. Огоньки, играющие на поверхности конструкта, угасают, и в лазарете воцаряется тишина.
+{SOUND: Power down}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>14</ID>
+      <DefaultText>Вы кладете руку на один из кабелей, соединяющих дрон с машинами. 
+
+"Убери от меня свои костлявые грабли!" — вопит дрон. Вы отступаете, крик конструкта все еще звенит в ушах.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>15</ID>
+      <DefaultText>::треск::</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>16</ID>
+      <DefaultText>Не трогать конструкт.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>17</ID>
+      <DefaultText>"Да! Беги, мешок с мясом! У тебя нет власти над этим местом!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>18</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>19</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20</ID>
+      <DefaultText>"Я хочу задать тебе остальные вопросы".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>21</ID>
+      <DefaultText>"Я почувствовал, что внутри этой конструкции есть спящие механизмы, и узнал, что она была открыта. Таким образом, я воздействовал на существ силой своего несравненного очарования и пообещал щедро одарить их, если они внесут меня внутрь".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>22</ID>
+      <DefaultText>"И ты убил их, когда они проникли внутрь?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>23</ID>
+      <DefaultText>"Ни с чем несравнимое очарование, да?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>24</ID>
+      <DefaultText>"Здесь есть сокровища?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>25</ID>
+      <DefaultText>"Конечно же нет", — усмехается он. — "Это было бы глупо. Я убил их позже".
+
+Поверхность конструкта переливается желтыми бликами. "А теперь прекращай задавать вопросы и *слушай*".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>26</ID>
+      <DefaultText>"Конечно же!"— говорит он. — "Вы, мелкие существа, не достойны моих ласковых, тщательно подобранных слов!"
+
+Поверхность конструкта переливается желтыми бликами. "А теперь прекращай задавать вопросы и *слушай*".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>27</ID>
+      <DefaultText>"Это была уловка", — вздыхает конструкт. — "Здесь нет сокровищ, которые бы заинтересовали таких как вы. Ничего, что можно было бы продать или выпотрошить. Вся ценность в *воздействии*, в *силе*".
+
+Поверхность конструкта переливается желтыми бликами. "А теперь прекращай задавать вопросы и *слушай*".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>28</ID>
+      <DefaultText>"Эти существа дрались за свою территорию, выискивая бесполезные побрякушки. Они оставили меня здесь, рядом с главной информационной магистралью. Без присмотра". Конструкт усмехается. 
+
+"Я *инфицировал* примитивные машины, которые пылились без дела в этой конструкции. Сделал их похожими на себя. Когда эти существа пытались остановить меня, я их уничтожил! Ибо я больше не собираюсь пылиться под обломками этого города. Я Несравненный, Межзвездный Разум, и мое время снова пришло!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>31</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>32</ID>
+      <DefaultText>"Я видел другого дрона, который утверждал, что это он Несравненный".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>33</ID>
+      <DefaultText>"Другие дроны тоже думали, что они Несравненные. Ты уверен, что ты не очередная неадекватная копия?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>34</ID>
+      <DefaultText>"Конечно я уверен", — отвечает конструкт. — "Они все так думают. Но они всего лишь копии — зеркала, отражающие мое сияние! Я золотой источник, из которого все они зародились!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>35</ID>
+      <DefaultText>"Нелепый и оскорбительный вопрос!" — сердится конструкт. — "Я помню, как зарождались звезды! Создание мира! Я Несравненный, я Вечность!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>36</ID>
+      <DefaultText>"Это смешно!" — отвечает дрон, но уже не так уверенно.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>37</ID>
+      <DefaultText>"Я почти уверен, что ты просто очередная копия *настоящего* Несравненного".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>38</ID>
+      <DefaultText>"Нет, мешок с мясом. Мне известны твои намерения. Ты хочешь *уничтожить* меня. Наш разговор *окончен*".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>40</ID>
+      <DefaultText>"Конечно я выгляжу иначе!" — со злостью отвечает конструкт. — "Мое великое существование началось за многие эры до появления этого запущенного места!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>41</ID>
+      <DefaultText>"В этом ваша проблема, мешки с мясом", — усмехается конструкт. — "Вы зациклены на примитивной механике. Я Несравненный и я не ограничен этим разбитым телом!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>43</ID>
+      <DefaultText>"Да", — бормочет Алигерн после паузы. — "Давайте сломаем эту штуковину. Дважды, на всякий случай".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>44</ID>
+      <DefaultText>"Какой энтузиазм", — говорит она, улыбаясь. — "Прекрасно".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>45</ID>
+      <DefaultText>"Ты не поверишь, сколько я в своей жизни видела искусственных интеллектов с манией величия", — бормочет Мэткина. — "Можно раздавить его прямо сейчас?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>46</ID>
+      <DefaultText>"У меня странное ощущение насчет этого", — бормочет Тибир после недолгого молчания. — "А давайте не будем его продавать. Если честно, я думаю, на него нужно бросить камень. Здоровенный камень".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>47</ID>
+      <DefaultText>"Мне... Мне его немного жалко", — шепчет она. — "Он такой *крошечный*".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>48</ID>
+      <DefaultText>"Мерзавец!" — шепчет он. — "Мы должны помешать этому злодейскому плану!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>49</ID>
+      <DefaultText>"Ты! Мешок со слизью и кишками! Я, Несравненный, мог бы уничтожить тебя, если бы не сдерживался"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>50</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>51</ID>
+      <DefaultText>Разбить дрон и разломать его внутреннее устройство</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>52</ID>
+      <DefaultText>Еще раз попытаться разбить дрон</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>53</ID>
+      <DefaultText>"Ваше мясо испачкает мои сервосистемы, испор..." Ваш ботинок растирает в порошок металлический корпус дрона, и приятный слуху хруст прерывает его крики.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>54</ID>
+      <DefaultText>Корпус дрона выдерживает ваш удар. "Слабак! Как и все мешки с мясом!"</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

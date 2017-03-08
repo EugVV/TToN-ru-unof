@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\x_labyrinth_crisis\x1011_creature_red_examine</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>5</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>В сверкающей жидкости бесцельно плавают два сверкающих осколка.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>В этих двух осколках, плавающих внутри резервуара, искрится свет. Теперь вы, пожалуй, сможете установить связь с разумом этого существа.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>Существо внутри этого резервуара мечется от боли, которую ему каким-то образом причиняет фрагмент в стоящем рядом аппарате.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>Фрагмент выпрыгнул из стоящего рядом аппарата, чтобы добраться до вас, и теперь вы, пожалуй, сможете установить контакт с созданием Потока.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>Вы уже настроились на Красный Поток и больше не нуждаетесь в общении с этим существом.</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

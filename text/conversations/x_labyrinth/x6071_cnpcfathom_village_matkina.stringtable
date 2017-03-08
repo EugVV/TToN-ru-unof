@@ -1,0 +1,460 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\x_labyrinth\x6071_cnpcfathom_village_matkina</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>84</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>Мэткина крепко держит оружие и издает крик.
+
+Когда вы приближаетесь, тени вокруг нее становятся четче. Она заново переживает ужасы атаки на Кольн, и на долю секунды, вы переноситесь туда вместе с ней. Солдаты Первой Отверженной пускают в ход оружие, и жители деревни снова превращаются в монстров. Ее оружие не действует, кровь ее умирающих друзей заливает ее обувь.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>"Ты не виновата в этих смертях, Мэткина".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>"Мэткина, ты все еще жива. Ты можешь отомстить за свою общину".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>"Их смерть оставит на тебе отпечаток, Мэткина, но только тебе решать *какой* именно. Ты можешь зациклиться на этом или стать сильнее".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>"Мэткина, я помогу тебе отомстить за их смерть. Но для этого тебе нужно проснуться!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>Она не смотрит на вас. Она не *разговаривает* с вами. Затем она поднимает голову и впервые видит вас. "Что ты... что ты здесь... делаешь?.." 
+
+Она высвобождается из ваших рук и одним махом прячет оружие. "Во имя Черной Тройки, как неудобно. Наверно, я должна поблагодарить тебя за то, что ты меня вытащил".</DefaultText>
+      <FemaleText>Она не смотрит на вас. Она не *разговаривает* с вами. Затем она поднимает голову и впервые видит вас. "Что ты... что ты здесь... делаешь?.." 
+
+Она высвобождается из ваших рук и одним махом достает оружие из ножен. "Именем Черной Тройки, это неудобно. Наверно, я должна поблагодарить тебя за то, что ты меня вытащила".</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText>Таш стоит рядом, его лицо перекосило от ярости. Каким-то образом он причастен к этому.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText>"У тебя есть какой-нибудь план?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>14</ID>
+      <DefaultText>"Ты хочешь снова присоединиться ко мне?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>15</ID>
+      <DefaultText>Она смеется, в ее голосе чувствуется нотка сарказма.
+
+Затем она добавляет три простых слова.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>16</ID>
+      <DefaultText>"Слишком много людей, дружище. Я собираюсь осмотреть место. Если тебе нужно исследовать какую-нибудь местность, обращайся".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>17</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>18</ID>
+      <DefaultText>"Между этим и той гнилью внизу... нет особой разницы". Она похлопывает вас по плечу. "Я с тобой".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>19</ID>
+      <DefaultText>"Идем. Сквозь, вниз, наружу... в общем, за дело".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>21</ID>
+      <DefaultText>Лица из ее кошмара начинают меняться и извиваться. Вы видите маску Первой, лицо Пай, Мельмота, Мемовиру, Идущего Без Страха... бессчетное количество лиц, насмехающихся, издевающихся, презирающих ее...
+
+Она яростно сражается с ополчившимися на нее лицами, каждое из которых — еще один камень в стене предательства и недоверия.
+
+Она бормочет и стонет, будто в ожившем сне, и вы слышите ее шепот. "Предатель... убийца мечт. Палач. Моя вина. Я должна уничтожить... сжечь тебя!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>25</ID>
+      <DefaultText>"Мэткина, это сон. Помни, Таш пытался тебе помочь!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>26</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>27</ID>
+      <DefaultText>"Мэткина, ты мой друг. Ты мне ничего не должна".</DefaultText>
+      <FemaleText>"Мэткина, ты моя подруга. Ты мне ничего не должна".</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>28</ID>
+      <DefaultText>"Скоро мне понадобится вся помощь, которую только смогу получить".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>29</ID>
+      <DefaultText>"Я придумаю, чем ты меня отблагодаришь".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30</ID>
+      <DefaultText>На долю секунды ее глаза округлились. "Ловлю на слове, хорошо? Забыл о той горсти шинов, что я забрала у тебя ранее?"
+
+Она смеется. "Ладно".</DefaultText>
+      <FemaleText>На долю секунды ее глаза округлились. "Ловлю на слове, хорошо? Забыла о той горсти шинов, что я забрала у тебя ранее?"
+
+Она смеется. "Ладно".</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>31</ID>
+      <DefaultText>По ее лицу пробегает ухмылка. "Парочка лишних клинков — хороший аргумент в переговорах, не так ли? Пожалуй, да".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>32</ID>
+      <DefaultText>Она бормочет: "Конечно понадобится. Ладно".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>33</ID>
+      <DefaultText>"Это все моя вина! Я смотрела, как они умирают. Я не могла их спасти, и я так и не... вернулась... и..."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>34</ID>
+      <DefaultText>Она приоткрывает рот в грубой усмешке. "Я отплачу. Когда я найду Первую Отверженную, я ее так покромсаю, что никакая маска не скроет ее шрамов".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>35</ID>
+      <DefaultText>Ее глаза по-прежнему рассредоточены. Она делает глубокий вдох и шумно выдыхает.  "Сильнее — эти тени ничто иное, как страх".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>36</ID>
+      <DefaultText>Ее глаза сосредоточены на призраках из прошлого, и они наполняют ее яростью: "Да. Мы выпотрошим их и оставим лаакам".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>37</ID>
+      <DefaultText>"Отправляйся в Спокойствие, если найдешь способ. Это самый центр этого сновидения".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>38</ID>
+      <DefaultText>"Разделиться и осмотреть место? Хороший план. Если... если мы больше не увидимся, то прощай".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>39</ID>
+      <DefaultText>"И удачи".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>40</ID>
+      <DefaultText>{с ненавистью} "Нет. Никогда".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>41</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>42</ID>
+      <DefaultText>"Нет! Нет! Только не Ненг!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>43</ID>
+      <DefaultText>"Гори ты в вечном аду, Пай!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>44</ID>
+      <DefaultText>"Спаси детей, Ненг! Спаси их!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>45</ID>
+      <DefaultText>"Ты убиваешь их! Оставь мою семью в покое!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>46</ID>
+      <DefaultText>Мэткина переживает кошмар предательства снова и снова, наблюдая, как ее друзья умирают от рук тех, которые издевались над ней много лет.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>47</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>48</ID>
+      <DefaultText>Потрясти ее, чтобы привести в чувства. "Ну же, Мэткина".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>49</ID>
+      <DefaultText>Попытаться снова потрясти ее.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>50</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>51</ID>
+      <DefaultText>"Мэткина, я здесь. Тебе больше не нужно сражаться".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>52</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>53</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>54</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>55</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>56</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>57</ID>
+      <DefaultText>Вы кладете руку ей на плечо, чтобы погладить, но она молниеносно наносит удар. Вы еле успеваете убрать руку. 
+
+"Ну что, жалкие трусы!" — кричит она. — "Давайте драться! Идите сюда и *умрите* за то, что вы натворили!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>58</ID>
+      <DefaultText>Вы снова тянете руку и едва успеваете убрать ее из-под удара клинка. Так не пойдет. Вероятно, вам понадобится дополнительная помощь, чтобы привести ее в чувства.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>59</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>60</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>61</ID>
+      <DefaultText>"Я здесь, Ненг", — зовет она.
+
+Тени смотрят искоса и извиваются вокруг них, а в воздухе возникает искаженное лицо Пай. Она поднимает огненное копье высоко над головой и резко бросает его. Мэткина отбрасывает его в сторону, вонзая нож в тело тени. 
+
+Вас обдает жаром от пролетевшего над головой копья даже после того, как оно исчезает. Иллюзия *сильна* — слишком сильна, чтобы просто вывести ее из нее.
+
+Внезапно вам слышится едва различимый шепот Мэткины: "Я не хочу больше сражаться".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>62</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>63</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>64</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>65</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>66</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>67</ID>
+      <DefaultText>Вы делаете шаг вперед с протянутыми руками. Заметив движение, она набрасывается на вас и бьет ножом в живот. Она слишком измотана, чтобы серьезно вас ранить, но все равно *больно*. Вы подходите ближе и обнимаете ее.
+
+"Что?.." — она моргает, впервые замечая вас. "Таш? Нет... кто ты?"
+
+Она смотрит по сторонам на тени, которые вы едва видите. "Они все мертвы". На ее глазах появляются слезы. "*Все*. Это я сделала. Если бы не я..."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>68</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>69</ID>
+      <DefaultText>"Нет!" — он размахивается, и, хотя удар проходит мимо, этого достаточно, чтобы остановить вас. "Убирайся отсюда. Ты — *не я*!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>70</ID>
+      <DefaultText>Он снова размахивается, ударом удерживая вас подальше от Мэткины. Сначала вам придется разобраться с ним.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>71</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>72</ID>
+      <DefaultText>Попытаться сообразить, чем вы можете ей помочь.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>73</ID>
+      <DefaultText>Снова попытаться сообразить, как вы можете ей помочь.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>74</ID>
+      <DefaultText>Ее видение сильнее, чем ожидалось. Она осознает ваше присутствие, но очень смутно. Но ей *нужно* прекратить бой, и добиться этого можно лишь заставив ее поверить, что ее враги мертвы.
+
+Возможно, вам нужно превратиться в одного из ее врагов.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>75</ID>
+      <DefaultText>Она снова переживает атаку на деревню Кольн, это довольно очевидно. Но она уже достала оружие, а вы сами не можете сражаться с тенями. Вы не можете понять, как ее можно освободить от видения.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>76</ID>
+      <DefaultText>Вы продолжаете наблюдать за ней, и делаете новые выводы.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>77</ID>
+      <DefaultText>Она уворачивается от его атаки, размахивая в ответ собственным клинком. "Ты у меня трижды труп, предатель!"</DefaultText>
+      <FemaleText>Она уворачивается от его атаки, размахивая в ответ собственным клинком. "Ты у меня трижды труп, предательница!"</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>78</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>79</ID>
+      <DefaultText>Подойти ближе и позволить ей 'убить' вас.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>80</ID>
+      <DefaultText>Снова попытаться приблизиться и позволить ей 'убить' вас.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>81</ID>
+      <DefaultText>Уйти от нее.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>82</ID>
+      <DefaultText>"А ну вернитесь! Я вас всех прикончу!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>83</ID>
+      <DefaultText>"Таша больше нет. Мэткина, теперь ты свободна!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>84</ID>
+      <DefaultText>"Таша больше нет", — бормочет она про себя.  — "Я его убила. Я *уверена* в этом... *Тогда почему он все еще здесь?*"
+
+Она с трудом воспринимает ваши слова, не будучи в состоянии избавиться от видений. Ее кошмары необычайно сильны. Вам понадобится дополнительная помощь, чтобы привести ее в чувства.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>85</ID>
+      <DefaultText>Попытаться сообразить, чем вы можете ей помочь.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>86</ID>
+      <DefaultText>Посмотреть на Таша.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>87</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

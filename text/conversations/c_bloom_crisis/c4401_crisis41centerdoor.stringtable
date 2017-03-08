@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\c_bloom_crisis\c4401_crisis41centerdoor</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>16</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>Толстые, венозные мешки, наполненные жидкостью и воздухом, создают препятствия для вашего прохода. Возможно вам удастся их разорвать, но в этом случае вам придется разозлить Цветение.</DefaultText>
+      <FemaleText>Толстые, венозные мешки, наполненные жидкостью и воздухом, создают препятствия для твоего прохода. Возможно тебе удастся их разорвать, но в этом случае тебе придется разозлить Цветение.</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>Эти кожаные, жилистые мешки блокируют вам проход.</DefaultText>
+      <FemaleText>Эти кожаные, жилистые мешки блокируют твой проход.</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>Вскрыть мешки с помощью Межпространственного Скальпеля.</DefaultText>
+      <FemaleText>Вскрой мешки с помощью Многомерного Скальпеля.</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>Мешки взрываются. Ужасная вонь потоком бьет в твое лицо, и вы непроизвольно закрываете рот. По крайней мере, путь сейчас свободен.
+
+Приглушенный рокот раздается в кишках Цветения, который сотрясает камеру. Голоса Цветения шипят и пронзительно воют в ярости.
+
+{SOUND: Bloom-voices shrieking in rage.}</DefaultText>
+      <FemaleText>Мешки взрываются. Ужасная вонь потоком бьет в твое лицо, и ты непроизвольно закрываешь рот. По крайней мере, путь сейчас свободен.
+
+Приглушенный рокот раздается в кишках Цветения, который сотрясает камеру. Голоса Цветения шипят и пронзительно воют в ярости.
+
+{SOUND: Bloom-voices shrieking in rage.}</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText>Мясистая кожа поглощает ваши удары. Единственный эффект, который вы ощущаете — это сильный запах газа.</DefaultText>
+      <FemaleText>Мясистая кожа поглощает твои удары. Единственный эффект, который ты ощущаешь - это сильный запах газа.</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>14</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>15</ID>
+      <DefaultText>Оставить мешки в покое.</DefaultText>
+      <FemaleText>Оставить мешки в покое.</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>16</ID>
+      <DefaultText>Разорвать мешки.</DefaultText>
+      <FemaleText>Разорви мешки.</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>17</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

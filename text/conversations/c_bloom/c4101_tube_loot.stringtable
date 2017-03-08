@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\c_bloom\c4101_tube_loot</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>10</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>Эта труба из плоти источает по-настоящему вонючий газ. Ты замечаешь обрывок ткани, свисающий с ее губ.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>Проверить эту трубу.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>Проникнуть в эту трубу.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>Отойти.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>Труба высотой почти в человеческий рост. Она немного изгибается, когда ты смотришь на нее, наклоняясь из стороны в сторону.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>Когда ты пытаешься просунуть свою руку в трубу, ты слегка касаешься ее губ. Труба резко закрывается, сильно сжимаясь. Если вы твоя рука была внутри, ты бы мог лишиться ее.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>Дотянуться низа трубы, но осторожно, чтобы не касаться ее стенок.
+
+{CRIT}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText>Дальше внизу трубы, твои пальцы натыкаются на сверток ткани с каким-то твердым предметом внутри. Дальше труба оказывается не такой чувствительной как прежде, и тебе удается извлечь сверток без особых проблем. Внутри ты находишь небольшую пачку шин! Кто-то должно быть припрятал ее в трубе на черный день.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText>На полпути, вниз по трубе, ты случайно трешься о ее стенку и быстро пытаешься одернуть руку обратно. Как выясняется, не достаточно быстро, так как отверстие сжимается вокруг твоей руки, распространяя боль вверх по руке, прежде чем тебе удается извлечь ее полностью.
+
+{DAMAGE}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>18</ID>
+      <DefaultText>В трубе больше нет ничего ценного.</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

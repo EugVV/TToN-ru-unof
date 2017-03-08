@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\a_sagus\a2623_murden_closet_door</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>6</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>С другой стороны по краям двери выделяется липкий желтый гель. Чем бы ни было это вещество, вы еще нигде его не видели. Оно заклеивает дверной проем.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>Теперь дверь плотно запечатана желтым веществом, похожим на эпоксидную смолу. Вы чувствуете, как в ваше сознание откуда-то извне пробирается страх.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>Из-за двери доносится слабый скрежет. В ваше сознание проникает отравляющий страх, исходящий от кого-то, кто прячется в этой комнате.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>Остались только высохшие следы желтого клея, который ранее удерживал дверь закрытой. По мере вашего приближения она открывается.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>Дверной проем облеплен остатками странного желтоватого вещества. По мере вашего приближения она открывается.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

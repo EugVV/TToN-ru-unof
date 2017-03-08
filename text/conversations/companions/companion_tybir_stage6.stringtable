@@ -1,0 +1,206 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\companions\companion_tybir_stage6</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>38</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>"Ну и бардак у тебя в голове! Хоть бы прибрался, прежде чем людей приглашать".</DefaultText>
+      <FemaleText>"Ну и бардак у тебя в голове! Хоть бы прибралась, прежде чем людей приглашать".</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>"Не думай так сильно. У меня голова болит".
+
+{GAVIN: Tybir should still have his other global Responses (e.g. "Tell me about you," "I'd like to ask about other people," "How you holding up," etc). Even if his answers are basically "Not now, lad," the Responses should still be there to be consistent with the other CNPCs.}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>"Я не ожидал гостей".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>"Ты можешь уйти, если тебе грустно".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>"Грустно? Нет, не грустно. Я бы сказал беспокойно".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>Надавливая большим пальцем на уголок своих глаз, он говорит: "У меня такое чувство, как будто я бьюсь о камень, ты забываешь, как есть заварной крем. И пачкаешься. Ни один из вариантов не привлекает".
+
+Он потирает свой затылок. "В любом случае. Тебе что-то было нужно?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>"Хорошо, я постараюсь не заглядывать в твои многочисленные шкафчики. Скажем так".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>"Продолжим".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>"Подожди меня здесь".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText>::ворчит::</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText>"Я с тобой".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>14</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>15</ID>
+      <DefaultText>"Кажется, тебя не смущает все это".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>16</ID>
+      <DefaultText>"Все это не выглядит странным для тебя?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>17</ID>
+      <DefaultText>"По правде говоря, нет. Я провел столько времени в головах людей, и не только в традиционном смысле. Один раз ходил на танцы в воображении моего умирающего друга. Не весело, скажу я вам. Слегка мрачновато, танцевальная площадка все время сжималась".
+
+Он осматривается вокруг. "И ее разум был меньше, чем этот. Ничего не имею против нее, но она могла бы взять у тебя несколько советов о том, как украсить себя".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>18</ID>
+      <DefaultText>"О, это определенно странно, но не необычно. Ты знаешь как это бывает".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>19</ID>
+      <DefaultText>"А, вот и ты". Он складывает руки на груди. "Хочешь чтобы я был с тобой?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20</ID>
+      <DefaultText>"Конечно".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>21</ID>
+      <DefaultText>"Еще нет".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>22</ID>
+      <DefaultText>"Хорошо, сперва избавься от некоторых других", говорит он, складывая руки на груди. "Иначе, у нас будут проблемы с прохождением через дверные проемы".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>23</ID>
+      <DefaultText>Он подмигивает тебе и соглашается.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>24</ID>
+      <DefaultText>"Ты найдешь меня здесь, когда будешь готов".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>25</ID>
+      <DefaultText>"Давай, пойдем уже. Дневной свет идет на убыть, как говориться".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>26</ID>
+      <DefaultText>"Я хочу кое-что узнать о тебе".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>27</ID>
+      <DefaultText>"Как у тебя дела?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>28</ID>
+      <DefaultText>"У меня есть несколько вопросов о тех, с кем мы путешествуем".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>29</ID>
+      <DefaultText>"Очень соблазнительно, но нет, благодарю тебя. Ты знаешь, мне нравится говорить о себе, но мне кажется, что сейчас не самое хорошее время для этого".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30</ID>
+      <DefaultText>"Лучшее, чем можно ожидать". Он безрадостно пожимает плечами.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>31</ID>
+      <DefaultText>"Давай оставим сплетни на потом, а?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>33</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>34</ID>
+      <DefaultText>Он пожимает плечами. "Почему бы и нет? Может быть мне придется побродить по твоему сознанию. Посмотрим, какие непристойные тайны ты хранишь под замком".
+
+Он посылает тебе легкое приветствие.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>35</ID>
+      <DefaultText>::присвистывает::</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>36</ID>
+      <DefaultText>"Хорошо. Допустим. Пожалуй, я подожду здесь".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>37</ID>
+      <DefaultText>Он моргает. "Мне нравятся хорошие проходы, которые пытаются приспособится также как и все, но, кажется, это не самое подходящее время".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>38</ID>
+      <DefaultText>"Сюда? Нет", говорит он, ухмыляясь. "Я доведу это до конца, нежели потеряюсь где-то в глубинах твоего разума, огромное тебе спасибо".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>39</ID>
+      <DefaultText>"Давай же, парень. Делай то, зачем ты пришел сюда".</DefaultText>
+      <FemaleText>«Давай же, девушка. Делай то, зачем ты пришла сюда".</FemaleText>
+    </Entry>
+  </Entries>
+</StringTableFile>

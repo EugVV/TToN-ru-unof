@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\c_bloom\c4311_stuck_airlock</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>11</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>0</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>Дверь сделана из незнакомого блестящего металла, отполированного до зеркального блеска. По поверхности двери идёт магнитная полоса другого, более тусклого металла, на котором выбита руническая надпись. Кажется, это инструкция по пользованию дверью.
+
+Безуспешно попытавшись открыть дверь, вы понимаете, что надпись, должно быть, гласит "Дверь заклинило" или что-то в этом роде. Быть может, у вас получится открыть дверь силой... но это будет нелегко.</DefaultText>
+      <FemaleText>Дверь сделана из незнакомого блестящего металла, отполированного до зеркального блеска. По поверхности двери идёт магнитная полоса другого, более тусклого металла, на котором выбита руническая надпись. Кажется, это инструкция по пользованию дверью.
+
+Безуспешно попытавшись открыть дверь, вы понимаете, что надпись, должно быть, гласит "Дверь заклинило" или что-то в этом роде. Быть может, у вас получится открыть дверь силой... но это будет нелегко.</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>Открыть дверь силой.</DefaultText>
+      <FemaleText>Открыть дверь силой.</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>Оставить дверь в покое.</DefaultText>
+      <FemaleText>Leave the door alone.</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>Кажется, какой-то механизм в двери заклинило, но вам удаётся преодолеть его сопротивление. Что-то трещит, и дверь с небольшим усилием открывается.</DefaultText>
+      <FemaleText>Кажется, какой-то механизм в двери заклинило, но вам удаётся преодолеть его сопротивление. Что-то трещит, и дверь с небольшим усилием открывается.</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>Вы бросаетесь на дверь, пытаетесь сдвинуть её в сторону, вверх, вниз... но всё тщетно.</DefaultText>
+      <FemaleText>Вы бросаетесь на дверь, пытаетесь сдвинуть её в сторону, вверх, вниз... но всё тщетно.</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>Блестящая дверь остаётся закрытой.</DefaultText>
+      <FemaleText>Блестящая дверь остаётся закрытой.</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>Follow-up PQ. 11</DefaultText>
+      <FemaleText>Follow-up PQ. 11</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText>Попытаться открыть люк еще раз.</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

@@ -1,0 +1,216 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\a_sagus\a2301_murder_scene_4</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>35</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>В центре кровавой лужи покоится освежеванная рука. Она указывает прямо на алый круг, нарисованный на стене поодаль.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>Обрубленный конец руки в центре лужи указывает на центр кровавого круга на стене, будто присоединен к нему невидимой рукой.
+
+Почему-то вам кажется, что если долго смотреть на руку, она задвигается.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>Follow-up PQ. 5</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>Ладошка разжата и направлена вверх. Кончики пальцев жестоко изрезаны ножом.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>Ладошка разжата и направлена вверх. Кончики пальцев жестоко изрезаны ножом. Трудно сказать, получила ли Микела эти раны, защищаясь, или убийца просто спешил.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>Лужа крови покрыта коркой и почти высохла. Оторванная рука тоже сохнет и по одному пальцу сжимается в кулак.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText>Осмотреть руку в луже крови.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText>Снова осмотреть освежеванную руку.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>14</ID>
+      <DefaultText>Осмотреть кровавый круг на стене.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>15</ID>
+      <DefaultText>Это символ Детей Бесконечных Врат, дочерней секты Дендра О'хур.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>16</ID>
+      <DefaultText>Follow-up PQ. 16</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>17</ID>
+      <DefaultText>Вы подходите к кругу. Есть в нем что-то знакомое...
+
+{GAVIN: Bonus task, depending on time: break this out into a separate tree with PQs for each companion.}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>18</ID>
+      <DefaultText>"Давно такого не видела", — мягко говорит она, подходя ближе. — "Это не просто круг. Это знак Детей Бесконечных Врат".
+
+Микела фыркает: "Это секта Дендра О'хур, которая вместо трупоедства промышляет убийствами. Говорят, что они «клетки открывают». Дендра давным-давно выгнали их из города, но, кажется, ничего из этого не вышло. Или так, или..." Она замолкает и призадумывается: "Кто-то из Дендра О'хур устал ждать, пока люди умрут сами".
+{MATKINA}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>19</ID>
+      <DefaultText>Вы собираетесь ответить, как вдруг в мысли болезненно врывается воспоминание — и оно не ваше.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20</ID>
+      <DefaultText>Поддаться воспоминаниям, как бы ни было больно.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>21</ID>
+      <DefaultText>Свежая кровь течет из круга и вдруг утягивает вас через него в другой мир. 
+
+Полоса выветренной земли идет через пустоту, черную, будто разверстая пасть. Воздух спертый, душный и скользкий, как личинки. Волна тошноты ударяет вас, заполняет голову, заражает мысли. 
+
+И этой бездонной пустоте вы чувствуете некий разум, тянущийся к вам, ищущий, пробующий. Радостный. Голодный. 
+{SOUND: Wind with soft, gross slobbering behind it. Could be the same as the sounds the player hears in the Endless Gate scene.}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>22</ID>
+      <DefaultText>Вы отталкиваете ужасное воспоминание и захлопываете разум, будто дверь. С трудом проглатываете подступившую к горлу тошноту.
+
+После видения того мира лужа крови у ног выглядит почти буднично.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>23</ID>
+      <DefaultText>Свежая кровь течет из круга и вдруг утягивает вас через него в другой мир. 
+
+Полоса выветренной земли идет через пустоту, черную, будто разверстая пасть. Воздух спертый, душный и скользкий, как личинки. Волна тошноты ударяет вас, заполняет голову, заражает мысли... 
+{SOUND: Wind with soft, gross slobbering behind it. Could be the same as the sounds the player hears in the Endless Gate scene.}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>24</ID>
+      <DefaultText>Оттолкнуть.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>25</ID>
+      <DefaultText>Вы захлопываете разум, будто дверь. Воспоминание наползает на вас, и на миг появляется мир за кровавым кругом — выветренная полоска земли, вьющаяся через голодную пустоту...
+
+Видение тут же пропадает, оставляя вас без сил и со сбитым дыханием.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>26</ID>
+      <DefaultText>Вы узнаете начертанные на стене знаки. Это и межпространственный портал, и символ Детей Бесконечных Врат, дочерней секты Дендра О'хур.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>28</ID>
+      <DefaultText>Прежде, чем вы можете отвести взгляд от круга, в ваши мысли болезненно *врывается* воспоминание. Чужое.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>29</ID>
+      <DefaultText>Рука сама тянется к линиям и пузырькам крови, и виски будто прошивает железной иглой.
+
+Перед вами чистая стена. Из-за угла льется гадкий фиолетовый свет. Это *ваш* храм, и *она* загнала вас в тупик.
+
+Через стену начинает проступать кровь. Она сливается в знакомую фигуру. Вы, напуганный и удивленный, проводите рукой по линии... и с влажным треском открываются врата.</DefaultText>
+      <FemaleText>Рука сама тянется к линиям и пузырькам крови, и виски будто прошивает железной иглой.
+
+Перед вами чистая стена. Из-за угла льётся гадкий фиолетовый свет. Это *ваш* храм, и *она* загнала вас в тупик.
+
+Через стену начинает проступать кровь. Она сливается в знакомую фигуру. Вы, напуганная и удивлённая, проводите рукой по линии... и с влажным треском открываются врата.</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>30</ID>
+      <DefaultText>Вы изучаете штрихи и точки, украшающие — *связывающие* — круг. Ни в одном человеческом языке нет таких знаков, но вы уверены, что они начертаны со смыслом.
+
+Кругу был не отсюда. Эти знаки *ухватили* его форму и *продавили* его через время и пространство. Здесь был, хоть и недолго, межпространственный портал в другое место. Но больше его нет.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>31</ID>
+      <DefaultText>Круг на стене — межпространственные врата — вроде бы потускнел.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>32</ID>
+      <DefaultText>Сразу видно, что линии и кровавые точки на круге нарисованы не просто так. Это некий знак, выполненный с большим усердием.
+
+К сожалению, вы его не узнаете.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>33</ID>
+      <DefaultText>Чем дольше вы смотрите на круги и линии, тем неразборчивей они становятся. Узор так ничего и не напоминает.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>34</ID>
+      <DefaultText>Осмотреть кровавый круг на стене.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>35</ID>
+      <DefaultText>Снова осмотреть кровавый круг на стене.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>36</ID>
+      <DefaultText>Уйти.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>37</ID>
+      <DefaultText>"Надо поговорить с Толстоном. Он... работает тут".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>38</ID>
+      <DefaultText>"О нет", — тихо говорит Алигерн. — "Это Микела. То, что от нее осталось".
+
+{ALIGERN}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>39</ID>
+      <DefaultText>Видение пропадает, но воспоминания, похоже, еще остались с вами. Еще одно болезненно пронизывает ваши мысли и смыкается вокруг.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>40</ID>
+      <DefaultText>Видение рассеивается. Вы тяжело дышите.</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

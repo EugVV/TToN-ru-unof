@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\c_bloom\c4211_slump_native_01</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>3</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>"Полоснем здесь, разрежем там... и ты даже не поймешь, когда я закончу..."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>"Я могу сделать тебя красивым, очень красивым. Дай мне только разрезать твое лицо..."</DefaultText>
+      <FemaleText>Я могу сделать тебя красивой, очень красивой. Дай мне только разрезать твое лицо...</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>"Я могу сделать тебя красивым, очень красивым. Дай мне только разрезать твое лицо..."</DefaultText>
+      <FemaleText>Я могу сделать тебя красивой, очень красивой. Дай мне только разрезать твое лицо...</FemaleText>
+    </Entry>
+  </Entries>
+</StringTableFile>

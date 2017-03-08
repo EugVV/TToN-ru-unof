@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>quests\critical_path\quest_stop_the_sorrow</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>6</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>0</ID>
+      <DefaultText>Остановить Скорбь</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>Включить резонансную камеру</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>Починить резонансную камеру</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10000</ID>
+      <DefaultText>Скорбь стремится уничтожить меня. Нужно найти способ остановить ее.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10001</ID>
+      <DefaultText>Мне нужно найти резонансную камеру — полупрозрачный саркофаг внутри кристаллического купола — и активировать ее. Это даст мне силу навсегда остановить охотящуюся на меня Скорбь.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10002</ID>
+      <DefaultText>Я пришел в себя рядом с резонансной камерой, но она была разрушена, когда я ударился о землю. Надо найти способ починить ее.</DefaultText>
+      <FemaleText>Я пришла в себя рядом с резонансной камерой, но она была разрушена, когда я ударилась о землю. Надо найти способ починить ее.</FemaleText>
+    </Entry>
+  </Entries>
+</StringTableFile>

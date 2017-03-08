@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\a_sagus\a1201_intrusion_sprayflesh</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>16</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>Корро тяжело дышит из-за полученных серьезных ран: "Ты крепкий орешек, я это признаю. Но я еще не закончил". Он достает банку распылителя плоти и быстро наносит средство на раны.
+
+В это время вы ощущаете, как от конструкта распространяется регенерирующее энергетическое поле, способное усилить целительное воздействие. Вы чувствуете всплеск энергии, как тогда, когда развеяли фрагменты Скорби. Вы не в силах помешать Корро исцелиться, зато можете разрушить поле.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>Корро спешит на помощь к своему раненому союзнику.
+
+"Ты крепкий орешек", — говорит он, — "я это признаю. Но мы еще не закончили". Он достает банку распылителя плоти и быстро наносит средство на раны союзника.
+
+В это время вы ощущаете, как от конструкта распространяется регенерирующее энергетическое поле, способное усилить целительное воздействие. Вы чувствуете всплеск энергии, как тогда, когда развеяли фрагменты Скорби. Вы не в силах помешать действиям Корро, зато можете разрушить поле.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>Напрячь свой разум и разрушить энергетическое поле, чтобы оно не могло усилить действие распылителя плоти.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>Из вашего тела исходит волна энергии, и поле рассеивается.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText>Заставить Корро вместо этого исцелить себя.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText>Вы искусно направляете свою силу в разум Корро, изменяя его в соответствии с собственной волей. Вы не в силах помешать ему исцелиться, но можете заставить его обратиться к своей эгоистичной природе.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>14</ID>
+      <DefaultText>Позволить этому произойти. Им это никак не поможет. [+[Global: DP_GainIntrusion] XP]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>15</ID>
+      <DefaultText>Регенерирующее поле взаимодействует с распылителем и делает его более эффективным, чем обычно.
+
+Корро ухмыляется: "Я разве не говорил вам, ребята? Со мной такое уже случалось. Готов поспорить, что Риф как-то взаимодействует с распылителем. А теперь хватайте их!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>22</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>23</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>24</ID>
+      <DefaultText>"Черт! Обычно распылитель плоти действует лучше!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>25</ID>
+      <DefaultText>"Извини, друг. Мне это нужно больше, чем тебе".</DefaultText>
+      <FemaleText>"Извини, подруга. Мне это нужно больше, чем тебе".</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>26</ID>
+      <DefaultText>"А теперь посмотрим, из какого теста ты сделан".</DefaultText>
+      <FemaleText>"А теперь посмотрим, из какого теста ты сделана".</FemaleText>
+    </Entry>
+  </Entries>
+</StringTableFile>

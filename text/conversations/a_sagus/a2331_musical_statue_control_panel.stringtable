@@ -1,0 +1,160 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\a_sagus\a2331_musical_statue_control_panel</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>30</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>Это устройство больше, оно гораздо древнее, чем другие скульптуры, которые вы видели в этих туннелях. Два круглых барабана вмонтированы глубоко в каменный пол. На их поверхности кружатся блики света, совмещаясь в головокружительные узоры, проникая друг в друга и сплетаясь в тугие спирали.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>Прикоснуться рукой к световым узорам, чтобы активировать машину.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>Еще раз попробовать прикоснуться рукой к световым узорам, чтобы активировать машину.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>Попробовать ударить в барабаны, чтобы получился гармоничный звук.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>Еще раз попробовать ударить в барабаны, чтобы получился гармоничный звук.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>Отойти от скульптуры.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText>Вы скользите пальцами по поверхности барабанов, рисуя янтарные полосы по направлению к центру. В пустотах скульптуры собирается пульсирующая энергия. 
+
+Ваши руки, рисующие узоры на отдельных барабанах, соединяются. Из машины вырывается вспышка золотистого цвета. На долю секунды вы ошеломлены, ваш разум пуст.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText>Полосы света следуют за вашими пальцами, движущимися по поверхности барабанов. Вам не удается найти узор, который бы вызвал отклик устройства.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>14</ID>
+      <DefaultText>Вы одновременно кладете раскрытые ладони на барабаны, и через вас проходит отклик, похожий на звук гонга. Из машины вырывается вспышка золотистого цвета. На долю секунды вы ошеломлены, ваш разум пуст.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>15</ID>
+      <DefaultText>Вы ударяете в барабаны, выбрав не тот угол, и воздух прорезает нестройный *звон*.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>16</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>17</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>18</ID>
+      <DefaultText>По-прежнему слышен мягкий звук *вррр*, и спиралевидные полосы света не изменяются.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>19</ID>
+      <DefaultText>Наконец машина выпускает давно хранившиеся излишки энергии.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20</ID>
+      <DefaultText>Воздух наполняется почти неразличимым гудением.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>25</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>26</ID>
+      <DefaultText>Эти сияющие полосы похожи на лучи на других, более сложных скульптурах, которые вы видели.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>27</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>28</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>29</ID>
+      <DefaultText>Активировать силу привлечения скульптуры.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30</ID>
+      <DefaultText>Как только вы приближаетесь к сияющей скульптуре, вы замечаете, что на вас пристально смотрят несколько стихусов. Они общаются без слов, что выдает их тревогу. Они не хотят, чтобы вы трогали устройство.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>31</ID>
+      <DefaultText>Не обращать внимания на предупреждения и продолжать исследования.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>32</ID>
+      <DefaultText>Отойти.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>33</ID>
+      <DefaultText>Когда стихусы бросаются в атаку, из их Логова начинает доноситься визг.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>34</ID>
+      <DefaultText>Воздух наполняется почти неразличимым гудением.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>35</ID>
+      <DefaultText>Вряд ли стихусы способны так быстро восстановиться.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>37</ID>
+      <DefaultText>Вы слышите скрежет и стук — стихусы в соседних залах пустили в ход свои кирки — вернее, их хитиновые эквиваленты.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>38</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

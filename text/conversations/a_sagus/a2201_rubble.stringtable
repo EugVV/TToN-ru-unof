@@ -1,0 +1,260 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\a_sagus\a2201_rubble</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>46</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>Соленый воздух лишь отчасти приглушает гниловато-сладкий запах, смешанный с запахом поваленных деревьев, камня и железа.
+
+Еще недавно это был чей-то дом, но он, наверное, рухнул из-за нестабильности почвы.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>Вонь гниющего мяса все еще висит над этой грудой развалин.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>Вы отбрасываете в сторону куски разбитой мебели и мелкие обломки, но не находите ничего ценного. Вскоре вы понимаете, что случилось: кто-то уже рылся среди руин и забрал все самое ценное.
+
+Вы отступаете в раздумье. Ничто в этой куче камней не кажется знакомым... А вот вид, открывающийся с того места, где раньше была дверь, — бесконечный горизонт, уходящий в море, — кажется.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>Изучить горизонт.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>Изучить горизонт еще раз.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>Ветер хлещет вас по лицу. Вы щуритесь на солнце, пытаясь вспомнить. Вы уже стояли здесь — знаете, что стояли. Позволяя мыслям свободно бродить…
+
+Горизонт покачнулся, а с ним пошатнулись и вы, когда вас поглотили воспоминания.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText>Обрывки воспоминаний проносятся в вашей голове, пока вы глядите с края утеса… но картинка не складывается.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText>Сомнений почти не осталось: Меняющийся Бог — и отверженный, убитый Скорбью, — когда-то жили здесь.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>14</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>15</ID>
+      <DefaultText>Порыться в куче, чтобы найти источник вони.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>16</ID>
+      <DefaultText>Продолжить рыться в руинах, чтобы найти источник вони.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>17</ID>
+      <DefaultText>Запах усиливается, когда вы отшвыриваете в сторону кусок потолка. Рой испуганных насекомых взмывает в воздух, открывая…
+
+Тело молодой женщины, разорванное и искалеченное. Невидимая рука вырывает воздух из вашей груди и лишает силы ваши ноги. Вы падаете, ощущая чье-то близкое присутствие. По спине прокатывается горячая волна.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>18</ID>
+      <DefaultText>Вам удается убрать несколько камней, после чего приходится передохнуть.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>19</ID>
+      <DefaultText>Внезапно жар исчезает.
+
+Вы оборачиваетесь вокруг. Поблизости никого нет.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20</ID>
+      <DefaultText>Труп молодой женщины, никем не потревоженный, лежит среди руин дома, ставших ее надгробием.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>21</ID>
+      <DefaultText>""</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>22</ID>
+      <DefaultText>""</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>23</ID>
+      <DefaultText>""</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>24</ID>
+      <DefaultText>Отойти.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>25</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>27</ID>
+      <DefaultText>Обыскать обломки в поисках ценных вещей.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>28</ID>
+      <DefaultText>Вы тщательно обыскиваете пыльные кучи камней и дерева в поисках чего-нибудь любопытного, но нет — кажется, эти руины начисто обобрали.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>29</ID>
+      <DefaultText>Еще раз обыскать обломки в поисках ценных вещей.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30</ID>
+      <DefaultText>Вы ничего не находите. Предыдущие мародеры потрудились на славу.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>31</ID>
+      <DefaultText>Наконец вы обнаруживаете что-то стоящее под вдавленной в землю кучей каменных обломков.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>32</ID>
+      <DefaultText>Вы ничего не находите. Этот дом начисто разграблен.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>33</ID>
+      <DefaultText>Вы хватаетесь за край грубых перил и, скривившись, смотрите в море. Спокойствие этого пейзажа не трогает вас, как прежде. Вы понимаете, что и это *тело* тоже.
+
+Вы улыбаетесь собственному нетерпению — ваша неугомонность может поспорить с самим океаном.
+
+Порыв соленого ветра уносит фрагменты воспоминаний, оставляя в вашем мозгу лишь пустоту и боль, царящие над руинами дома.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>34</ID>
+      <DefaultText>"Кто здесь?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>35</ID>
+      <DefaultText>Закрыть глаза.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>36</ID>
+      <DefaultText>Восстановить дыхание.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>37</ID>
+      <DefaultText>Вы дрожащими пальцами убираете с ее лица окровавленные волосы и прикрываете ей глаза. По спине проносится волна жара, словно от костра.
+
+Внезапно прохладная ладонь прикрывает ваши горящие глаза. Мягкая рука обнимает ваш живот.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>38</ID>
+      <DefaultText>Вы медленно и размеренно дышите, чувствуя, как по спине разливается жар, словно от пылающего костра.
+
+Внезапно прохладная ладонь прикрывает ваши горящие глаза. Мягкая рука обнимает ваш живот.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>39</ID>
+      <DefaultText>Ваши слова превращаются в шепот. Вы едва можете дышать, и вас наполняет жар, словно при лихорадке.
+
+Внезапно прохладная ладонь прикрывает ваши горящие глаза. Мягкая рука обнимает ваш живот.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>40</ID>
+      <DefaultText>Вы разбираете еще несколько обломков, но не находите ничего стоящего. Кажется, вы ничуть не продвинулись.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>41</ID>
+      <DefaultText>Порыв соленого ветра уносит воспоминания, разорвав их в клочья, оставляя вас с головной болью среди развалин дома.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>42</ID>
+      <DefaultText>Похоже, в этом доме когда-то жил отверженный, но он либо намеренно не оставил никаких следов своего пребывания... либо их унесли падальщики.
+
+Возможно, имеет смысл расспросить местных обитателей — возможно, кто-то видел тех, кто ограбил этот дом.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>43</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>44</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>45</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>47</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>48</ID>
+      <DefaultText>Бесформенная куча камней и дерева — это все, что осталось от дома, который когда-то здесь стоял.</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

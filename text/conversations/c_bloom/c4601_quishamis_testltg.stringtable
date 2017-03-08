@@ -1,0 +1,934 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\c_bloom\c4601_quishamis_testltg</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>170</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>Квишамис представляет собой кристаллическую структуру высотой больше трех метров и на первый взгляд кажется неподвижным. Но вы продолжаете наблюдать и замечаете, что он медленно *раскрывается* изнутри, напоминая распускающийся цветок. Он перемещается вперед с лязгом и скрипом шлифующихся кристаллов, его центр бесконечно раскручивается в невероятном гипнотическом потоке.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>Квишамис остается на том же месте, и его поведение все так же непонятно. От его присутствия в ваших мыслях хочется зевать.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>Изучить движения Квишамиса.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>Изучить рисунки Квишамиса.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>14</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>15</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>16</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>17</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>18</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>19</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>21</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>22</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>23</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>24</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>25</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>26</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>27</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>28</ID>
+      <DefaultText>Уйти.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>29</ID>
+      <DefaultText>Attack.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>31</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>32</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>33</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>34</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>35</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>36</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>37</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>38</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>39</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>44</ID>
+      <DefaultText>Вы заворожены и не можете оторвать взгляд. В сердце кристалла, который формирует тело Квишамиса, лучи света странно отражаются и преломляются вокруг одной неподвижной точки.
+
+Когда вы, наконец, через несколько минут приходите в себя, вы ощущаете странную боль в горле, как будто плакали.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>45</ID>
+      <DefaultText>Вы также ощущаете необычную тяжесть мыслей. Перед глазами появились рваные линии, изогнувшиеся вокруг Квишамиса, продолжающего выбранный путь, по-видимому не замечая вашего присутствия.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>50</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>51</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>52</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>53</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>54</ID>
+      <DefaultText>Через несколько минут вы выявляете некую закономерность среди хаотичных движений Квишамиса. На следующем повороте он подойдет ближе к вашей стороне плато, и тогда можно попытаться привлечь его внимание.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>56</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>57</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>58</ID>
+      <DefaultText>Вы отворачиваетесь от Квишамиса, и мир выпрямляется. Возвращается ясность осознания. Вы видите, что плато изрезано глубокими канавами, которые соединяются друг с другом, образуя невероятные углы и формируя одновременно возвышенные и похабные рисунки.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>59</ID>
+      <DefaultText>"Эй! Ты!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>60</ID>
+      <DefaultText>Давление на ваш разум возрастает на долю секунды, затем ослабевает. Квишамис, кажется, не услышал вас.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>61</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>62</ID>
+      <DefaultText>Вы приближаетесь к Квишамису с оружием наготове.
+
+{SCRIPT: This would start a Tussle with the Quishamis.}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>63</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>64</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>65</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>67</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>69</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>70</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>71</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>72</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>73</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>74</ID>
+      <DefaultText>Попытаться понять назначение рисунков Квишамиса.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>75</ID>
+      <DefaultText>Снова попытаться понять назначение рисунков Квишамиса.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>76</ID>
+      <DefaultText>Вы пристально смотрите на рисунок, но по прошествии времени так и не оказываетесь ближе к пониманию того, что делает Квишамис. Однако вы замечаете, что каждая линия является серией надрезов, а не непрерывной отметиной на земле. Кажется, что Квишамис недавно был здесь.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>77</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>78</ID>
+      <DefaultText>Вы, кажется, часами разглядываете рисунок. Когда вы моргаете, вы видите линии и завитки работы Квишамиса, словно их выгравировали на внутренней стороне век. Наконец, вас озаряет ошеломляющая мысль.
+
+Квишамис рисует портал, чтобы отправиться домой. Вы не в курсе, как вам удалось это понять, но вы знаете, что если бы вы переместили *этот* камень и завершили *ту* линию, то чертеж-схема был бы завершен.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>79</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>80</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>81</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>82</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>83</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>84</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>85</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>86</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>87</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>88</ID>
+      <DefaultText>Отнести Квишамиса в маленькое, огороженное пространство, которое вы заметили ранее.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>89</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>90</ID>
+      <DefaultText>Освободить путь и дать Квишамису продолжить.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>91</ID>
+      <DefaultText>Как только вы отступаете, Квишамис продолжает свой обход. Давление на ваш разум ослабевает.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>92</ID>
+      <DefaultText>Отнести Квишамиса к краю плато и скинуть его.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>93</ID>
+      <DefaultText>Квишамис падает, становясь все меньше, и в конце концов превращается в маленькую, сияющую частичку пыли. Вы видите, как далеко внизу он беззвучно сталкивается с землей. Отсюда не видно, двигается ли Квишамис, или это сила удара о землю вызвала серию небольших толчков с летящими искрами.
+
+{SCRIPT: Quest complete!}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>94</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>95</ID>
+      <DefaultText>Вы относите Квишамиса в огороженное пространство. Когда вы аккуратно отпускаете его и отступаете, он остается на том же месте без движения. Вы немного ждете, даже исчезаете из виду, чтобы узнать, реагирует ли Квишамис на ваше отсутствие.
+
+Ничего не происходит. Квишамис остается застывшим, стоит неподвижно, как и кристаллы, окружающие его.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>96</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>97</ID>
+      <DefaultText>Оставить Квишамиса на месте.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>99</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>100</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>101</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>102</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>103</ID>
+      <DefaultText>Но вы также видите, что все линии являются серией надрезов, каждый из которых глубже предыдущего. Если вы сотрете рисунок в правой стороне углубления, Квишамису придется переместиться туда и восстанавливать свой путь неделями, если не годами, прежде чем ему снова повезет оказаться на плато.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>104</ID>
+      <DefaultText>Завершить рисунок Квишамиса.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>105</ID>
+      <DefaultText>Давление воздуха меняется, как будто низко над головой собрались штормовые облака, но в небе ничего нет. Квишамис останавливается, и, несмотря на его чуждую внешность, вы четко ощущаете, что он ищет.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>106</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>107</ID>
+      <DefaultText>Стереть рисунок Квишамиса в огороженном пространстве.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>108</ID>
+      <DefaultText>Дом? 
+
+Мысль с шумом врывается в ваш разум в тот самый момент, когда Квишамис исчезает, а трещины в земле дрожат и прорываются сквозь друг друга в немыслимом, мучительном рисунке. Через несколько невыносимых секунд движение прекращается, и рисунок с Квишамисом исчезают.
+
+{SCRIPT: Quest complete!}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>109</ID>
+      <DefaultText>Огороженное пространство справа было бы идеальным местом для Квишамиса. На безопасном удалении, но и недалеко от Сариссы и ее группы, на случай, если они захотят изучать Квишамиса. Квишамису понадобятся месяцы, если не годы, на восстановление рисунков в этом месте.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>110</ID>
+      <DefaultText>Вы оставляете Квишамиса в углублении и возвращаетесь в лагерь Сариссы.
+
+{SCRIPT: Quest complete!}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>112</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>114</ID>
+      <DefaultText>Попытаться понять назначение рисунков Квишамиса.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>115</ID>
+      <DefaultText>Вы проводите некоторое время, изучая рисунки, но безуспешно. Как только вы собираетесь бросить это занятие, вас охватывает волна вдохновения. Вы открываете правый глаз, позволяя альтернативной, разбитой на осколки реальности заполнить ваше сознание.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>116</ID>
+      <DefaultText>Хаотичное переплетение цвета и звука врывается в вашу голову, выбивая все мысли из сознания, как холодная вода выбивает воздух из легких. Вы пытаетесь подняться, но на вас обрушивается поток бурлящей энергии, вы судорожно вдыхаете, но он накрывает вас, и вы задыхаетесь.
+
+Под поверхностью вы слышите слабый звук, напоминающий песню, заимствованную из чьей-то памяти.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>117</ID>
+      <DefaultText>Плыть на звук.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>118</ID>
+      <DefaultText>Попытаться освободиться.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>119</ID>
+      <DefaultText>Отдаться потоку энергии.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>120</ID>
+      <DefaultText>Уйти в себя.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>121</ID>
+      <DefaultText>Вы создаете для себя кокон, и о беспорядочном зрелище неясных очертаний света, оставшихся снаружи, напоминает только бесконечный стук. Вы поддерживаете состояние покоя, даже когда кажется, что мысли Квишамиса вот-вот прорвутся. Наконец, они отступают.
+
+Вместе этого вы слышите звук, похожий на плач обиженного брошенного ребенка. Вы поворачиваете голову в направлении звука, но куда бы вы не смотрели, звук всегда раздается сзади. Терзающая, чуждая тревога охватывает ледяной рукой ваше сердце.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>122</ID>
+      <DefaultText>Вы обнаруживаете себя в месте, похожем на пещеру, темном, как беззвездная ночь. Холодный бриз сдувает волосы с лица, вы осознаете, насколько огромно помещение, по эхо, отражающемуся, как рябь от далекого берега.
+
+Вы никак не можете найти источник тепла, и у вас замерзло все тело. Как только вы поворачиваетесь к нему, он перемещается, исчезая и появляясь, как проблески света в дождливый день.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>123</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>124</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>125</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>126</ID>
+      <DefaultText>Вас охватывает странное чувство, смесь зрительных, слуховых и каких-то еще ощущений. Вы концентрируетесь на этом чувстве, позволяя ему проникнуть глубже в подсознание, где оно сворачивается, как змея в клубок, среди ваших мыслей.
+
+Вы робко дотрагиваетесь до него.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>127</ID>
+      <DefaultText>Он никак не реагирует, когда вы кладете на него руку, хотя давление в вашем сознании возрастает. Робко подтолкнув и попробовав поднять Квишамиса, вы осознаете, что он легче, чем кажется. Вы могли бы его перенести.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>128</ID>
+      <DefaultText>Вернуть Квишамиса туда, где вы его нашли.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>129</ID>
+      <DefaultText>Вы ждете конца этого переполоха, мысли и воспоминания уносятся от вас, как пузырьки воздуха изо рта утопающего.
+
+Поверхность располагается прямо перед вами, мелькая актиниевым светом. Затем оказывается, что она под вами, и все это время вы от нее удалялись. Потом она снова появляется справа, светясь, как полуденное солнце, замутненное бурными водами.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>130</ID>
+      <DefaultText>Чувство борьбы стихает. Вы плывете в спокойных, утешающих водах, и мысли больше не вьются вокруг, а проходят сквозь вас. Каждый новый берег приносит приятное головокружение, словно вы погружаетесь в сон, медленно и аккуратно спускаясь по ступеням. Забвение опускается на ваше сознание тонкими, как лепестки, слоями.
+
+Через некоторое время вы слышите звонкий клич, от которого по коже и спине идут мурашки. Куда бы вы не посмотрели, звук все время оказывается вне пределов досягаемости.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>131</ID>
+      <DefaultText>Потянуться за спину и зацепить.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>132</ID>
+      <DefaultText>Оставить закрепленным на месте.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>133</ID>
+      <DefaultText>Совсем не обращать внимание на чувство.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>134</ID>
+      <DefaultText>Раскрыть руки и обнять его.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>136</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>137</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>138</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>139</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>140</ID>
+      <DefaultText>Вы цепляетесь за мысль и вертите ее перед собой. За мгновение до того, как идея растворяется в жидкости, похожей на согретый в руках мед, вы успеваете заметить то, что ускользало от вас все это время:</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>141</ID>
+      <DefaultText>Усилием одних лишь мыслей вы заставляете идею остаться на месте до тех пор, пока вы не схватите ее рукой. Скользкая и холодная, мысль прилипает к вам, как засохшая кровь, заполняя трещины в вашей коже чувством того, что она содержит:</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>142</ID>
+      <DefaultText>Вы перекрываете ваши чувства одно за другим, приходя в состояние покоя, замыкаясь на одной точке в себе. Медленно вы осознаете идею, которая бьет ключом внутри вас, как талая вода в нетронутом источнике:</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>143</ID>
+      <DefaultText>Видение безоблачного неба, голубизна столь резкая, что разрезает тени на ленты. Повсюду отражения, как стражи, охраняющие блеск солнца. И посреди этого всего гнездится одно глубокое, всеохватывающее слово.
+
+Дом.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>144</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>145</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>147</ID>
+      <DefaultText>Поговорить с Квишамисом о доме.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>148</ID>
+      <DefaultText>Вы чувствуете, как мысли Квишамиса вихрятся вокруг вас, и быстро возвращаетесь к точке соединения сознаний.
+
+"Дом?" — спрашивает Квишамис, мысль с оттенком тоски.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>149</ID>
+      <DefaultText>Представить портал, который вы использовали, чтобы попасть сюда, восстановив в памяти ваши шаги через Цветение и в бесконечное небо. "Дом".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>150</ID>
+      <DefaultText>Представить углубление с правой стороны, в отдалении от пути Сариссы и ее товарищей. "Дом".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>151</ID>
+      <DefaultText>Ложь: Представить углубление с правой стороны, в отдалении от пути Сариссы и ее товарищей. "Дом".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>152</ID>
+      <DefaultText>Уйти.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>153</ID>
+      <DefaultText>Вы отделяете свое сознание от мыслей Квишамиса.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>154</ID>
+      <DefaultText>Дом!
+
+Чувство неистово и радостно, и Квишамис готов тотчас отправиться туда.
+
+Однако ваш опыт в Цветении подсказывает вам, что путешествие Квишамиса домой будет нелегким, если и вовсе удастся. Он может многим причинить вред, и многие могут причинить вред ему, если он пойдет по пути, который вы предлагаете.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>155</ID>
+      <DefaultText>Let it go.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>156</ID>
+      <DefaultText>Квишамис мчится мимо вас вниз по кристаллическим ступеням. Когда Квишамис пересекает лагерь, вы слышите испуганный крик Сариссы, а затем глухое гудение заработавшего портала. Квишамис отправлен в Цветение.
+
+{SCRIPT: Quest complete!}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>157</ID>
+      <DefaultText>Дом? 
+
+Кажется, Квишамис сомневается. Он не идет в сторону углубления.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>158</ID>
+      <DefaultText>Дом?
+
+Квишамис не воодушевлен вашей настойчивостью, но все равно следует в углубление. Он усаживается там, как собака в ожидании команды отсутствующего хозяина, и ждет. Он, кажется, осознает, что вы не собираетесь ничего говорить или делать, но он вроде бы не собирается в ближайшее время возвращаться на плато.
+
+По крайней мере, Сарисса должна остаться довольной.
+
+{SCRIPT: Quest complete!}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>159</ID>
+      <DefaultText>Нет. Нет.
+
+Квишамис, взволнованный вашим предложением, начинает двигаться по плато быстрее, еще более яростно выделывая рисунок в кристалле.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>161</ID>
+      <DefaultText>В возникшем беспорядочно переплетенном, многофазном изображении вы улавливаете две детали, прежде чем приходится закрыть оба глаза, чтобы не сойти с ума. Рисунок Квишамиса может стать порталом, и его можно завершить... или разрушить, добавив всего несколько черточек.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>163</ID>
+      <DefaultText>С пронзительным воплем, похожим на визг тормозов, Квишамис устремляется в углубление и пытается спасти остатки своего творения. Новые линии глубоки и правильны, но тон вопля Квишамиса повышается с каждой обнаруженной помаркой, и звон в ушах заставляет вас уйти.
+
+{SCRIPT: Quest complete!}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>164</ID>
+      <DefaultText>Вы разрушаете рисунок, просто добавив новые линии на кристалл, полностью уничтожив следы кропотливого труда Квишамиса.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>165</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>166</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>167</ID>
+      <DefaultText>Вы пристально смотрите на рисунок, стараясь угадать его смысл. Чем больше вы следите за невообразимыми углами и идущими внахлест линиями, тем больше вам удается распутать. Вы закрываете глаза, и изображение постепенно исчезает из сознания, пока не остается лишь темнота.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>168</ID>
+      <DefaultText>Ваши глаза начинают слезиться, как только вы смотрите на рисунок, превращая линии в неразличимое пятно.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>169</ID>
+      <DefaultText>Взять Квишамиса еще раз.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>170</ID>
+      <DefaultText>Снова вы ждете на пути Квишамиса. Снова вы терпите жалящие укусы кристаллов. Квишамис движется на вас.
+
+{SCRIPT: The Player would take minor damage here.}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>171</ID>
+      <DefaultText>(Note: I've omitted a step here. Ideally, at the point the player would be able to choose between all of the places they've visited so far in the game, to show the Quishamis that they understand the concept of 'home.' This choice would then also factor into the tide increase at the end. However, for this test, I thought a short explanation would suffice.)</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>172</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>173</ID>
+      <DefaultText>Стать на пути Квишамиса.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>174</ID>
+      <DefaultText>Снова стать на пути Квишамиса.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>175</ID>
+      <DefaultText>По мере приближения Квишамиса вы ощущаете укусы тысяч крошечных кристаллов, впивающихся в вашу плоть. Вы продолжаете стоять, стиснув зубы от боли, пока Квишамис не останавливается перед вами. Вблизи его величие потрясает.
+
+{SCRIPT: The Player would take minor damage here.}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>176</ID>
+      <DefaultText>Вы стоите перед Квишамисом, а крошечные осколки кристаллов врезаются в кожу, создавая неприятный звук и причиняя боль. Но в конце концов, боль становится невыносимой и вам приходится отойти. Квишамис без промедления продолжает путь.
+
+{SCRIPT: The Player would take minor damage here.}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>178</ID>
+      <DefaultText>Вы стоите на пути Квишамиса, и он начинает атаковать. Вы не двигаетесь, даже когда со всех сторон на вас обрушиваются невидимые осколки кристаллов, жалящие кожу.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>179</ID>
+      <DefaultText>Внезапно правый глаз пронзает острая боль. Вы освобождаете путь, и Квишамис проходит мимо вас, завершая круг. Когда вы нерешительно открываете глаз, чтобы оценить повреждение, вы видите ту же местность, но причудливо множество раз отраженную.
+
+{SCRIPT: Player takes moderate damage here.}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>180</ID>
+      <DefaultText>Дом?
+
+Квишамис охотно проходит в углубление и устраивается посередине, как собака в ожидании угощения. Он, кажется, осознает, что вы не собираетесь ничего говорить или делать, но он вроде бы не собирается в ближайшее время возвращаться на плато.
+
+По крайней мере, Сарисса должна остаться довольной.
+
+{SCRIPT: Quest complete!}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>181</ID>
+      <DefaultText>Нет.
+
+Воздух вокруг Квишамиса наполняется маленькими кристаллическими осколками, похожими на неподвижные хлопья снега. Два осколка атакуют вас, обрушиваясь на вашу броню с невероятной силой.
+
+Квишамис отходит от вас. Он отвергает дальнейшие попытки общения, вызывая помехи в ментальном поле. Помехи вызывают у вас боль и заставляют отскакивать.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>182</ID>
+      <DefaultText>Вы стоите на пути Квишамиса, изучая его. Приблизившись, вы видите, что его движение — это, по сути, результат непрерывного преобразования: Квишамис не двигается, а разделяется на части в линейном пространстве.
+
+Вы так увлеченно его рассматриваете, что едва замечаете, как осколки кристалла врезаются в вашу кожу, пока замолкший и жуткий Квишамис внезапно не останавливается перед вами.
+
+{SCRIPT: The Player would take minor damage here.}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>187</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>188</ID>
+      <DefaultText>Вы смотрите на узор, пока линии не начинают сплетаться, невероятные углы пересекаются в прекрасном танце разрушения. Вы теряетесь в этом мире неевклидового хаоса, ваше сознание проваливается в бездну *промежуточного состояния*.
+
+Вы возвращаетесь к полному владению своим телом. Но тут же на вас нападает сильная тошнота, и вы становитесь слабым, кажется, на целые часы. Ваш рот еще болит от непрерывных приступов рвоты, вы стоите, из всех сил стараясь не смотреть на отметки у вас под ногами.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>189</ID>
+      <DefaultText>Когда вы опять фокусируетесь на рисунках, следует немедленная сильная реакция. В страхе, бессвязно лепеча, вы падаете на землю и обхватываете руками колени, трясясь, как испуганный ребенок. Затем страх отступает, и его место занимает усталость.
+
+Вы, пошатываясь, встаете на ноги, прикрываете рукой нижнюю часть поля зрения, чтобы больше не видеть то, что сделал Квишамис.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>193</ID>
+      <DefaultText>Снова попытаться понять назначение рисунков Квишамиса.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>194</ID>
+      <DefaultText>Сначала вы не чувствуете ничего. Затем вы наполовину слышите, наполовину чувствуете порывистый звук, и вместе с ним вас обволакивает новая мысль, вы успокаиваетесь в напоенной солнцем теплоте и медленно движетесь в этом свете к полному взаимному пониманию:</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>195</ID>
+      <DefaultText>Сосредоточиться на появившейся у вас идее.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>197</ID>
+      <DefaultText>Еще рано.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>198</ID>
+      <DefaultText>Квишамис колеблется, приблизиться ли к вам или к ступеням, но наконец останавливается в середине, испуская волны сильного мучительного стремления.</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

@@ -1,0 +1,340 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\a_sagus\a2332_callistegesi</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>64</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>"Сюда!" — Каллистеж отчаянно жестикулирует тебе движениями, которые подхватываются ее эхом с различными оттенками откровенности. "Твой отец сохранил доступ к информационной сфере! Я должна узнать как!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>"Как это работает?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>"Я не знаю", — она двигается вокруг странного прибора, изучая его с разных углов. — "Похоже, что он не работает, или, возможно, у него отсутствует источник питания". Она оглядывается. "Если бы я знала что-то о твоем отце, что он все документировал. Ну и где его записи?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>"Ты хочешь получить доступ к информационной сфере сейчас?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>"Я не могу", — она изучает нуменеру, меланхолично постукивая пальцем по своим губам. — "Хорошо, я могла бы, но это было бы абсолютно безрассудно, пытаться передавать воспоминания, не понимая четко процесса. Должно быть, твой отец *что-то* записал!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText>"Забудь об этом. Давай продолжим".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText>"Забыть?" — она смотрит на тебя, ничего не понимая. — "Конечно, ты имеешь ввиду, мы еще не уходим".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>14</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>15</ID>
+      <DefaultText>Попытаться вспомнить, где находятся заметки.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>16</ID>
+      <DefaultText>Еще раз попытаться вспомнить, где находятся заметки.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>17</ID>
+      <DefaultText>В основании черепа вы чувствуете зуд. Внезапно ваша правая рука начинает двигаться сама по себе и бьет по полу. Каким бы безумным ни казалось это действие, оно не бесцельно. Рядом с вами открывается каменный отсек. Внутри лежит дневник в кожаной обложке.
+
+{SFX: sliding stone}
+
+{LOOT}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>18</ID>
+      <DefaultText>Вы чувствуете жуткий зуд в основании черепа, но ничего не происходит. Вы лишь пытаетесь перебороть противное ощущение, словно кто-то пытается прогрызть путь из вашей головы наружу.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>19</ID>
+      <DefaultText>Вы вновь сосредотачиваетесь, но и эта попытка тщетна.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20</ID>
+      <DefaultText>Каллистеж приближается к вам с почтением.
+
+"Можно мне?" — говорит она, протягивая руки к книге.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>21</ID>
+      <DefaultText>Дай ей книгу.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>22</ID>
+      <DefaultText>"Что? Книгу?" Положить книгу в свою сумку.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>23</ID>
+      <DefaultText>"Я думаю, мне лучше попридержать ее сейчас."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>24</ID>
+      <DefaultText>"Используй ее разумно."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>25</ID>
+      <DefaultText>Она стоит в оцепенении в течение нескольких секунд, затем мрачно склоняет голову. Ее рот искривляется от злобы, она, не оборачиваясь, продолжает смотреть на нуменеру.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>26</ID>
+      <DefaultText>Она вращает ее в своих руках, изучая каждый сантиметр переплета. "У твоего отца всегда были такие изумительные предметы искусства", — бормочет она, медленно ослабляя шнурок, который связывает страницы вместе.
+
+Она начинает пролистывать страницы, вначале медленно, затем быстрее, и ты замечаешь изображения диаграмм, условных знаков и рисунков, все из них относятся к нуменере, кроме тебя.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>27</ID>
+      <DefaultText>"Спасибо", — Калистиж дышит, не поднимая глаз, и отходит в сторону, чтобы продолжить изучать содержание книги.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>28</ID>
+      <DefaultText>"Я вижу." Она рассматривает тебя, скромно сложив свои руки на груди. "И когда ты думаешь ты мог бы спокойно доверить мне знания, которые в ней содержаться? Нет, не отвечай. Я не знаю, но я почему-то ожидаю нечто иное, чем как твой отец выйдет из одного из своих тайников." Она возвращает свой взгляд к нуменере, не оборачиваясь.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>29</ID>
+      <DefaultText>"Нет, ты права. Мы будем продолжать смотреть".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30</ID>
+      <DefaultText>"Здесь нет больше ничего такого, что мы еще можем обнаружить".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>31</ID>
+      <DefaultText>Она дарит тебе короткую улыбку и возвращается к изучению нуменеры.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>32</ID>
+      <DefaultText>"Очень хорошо, дорогой", — говорит она несколько секунд спустя. — "Мы продолжим".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>33</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>34</ID>
+      <DefaultText>"Я уверена, твой создатель именно здесь спрятал свои заметки".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>35</ID>
+      <DefaultText>"Мы уже нашли то, что нам нужно, дорогуша".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>36</ID>
+      <DefaultText>"Ты меня очень разочаровываешь".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>37</ID>
+      <DefaultText>Вы лениво обходите вокруг устройства, бесцельно тыкая в него. Вам оно кажется знакомым, но воспоминания избегают вас.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>38</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>39</ID>
+      <DefaultText>На ум приходит словосочетание "сфера данных", но... нет. Вы не можете вспомнить.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>40</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>41</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>42</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>44</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>45</ID>
+      <DefaultText>Внимательно рассмотреть устройство.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>46</ID>
+      <DefaultText>Еще раз внимательно рассмотреть устройство.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>47</ID>
+      <DefaultText>Уйти.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>48</ID>
+      <DefaultText>Вы проводите по устройству руками, пытаетесь поднять и взаимодействовать с ним любым другим образом, но ничего не выходит. Вы отступаете.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>49</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>50</ID>
+      <DefaultText>В основании черепа вы чувствуете зуд. Внезапно ваша правая рука начинает двигаться сама по себе и бьет по полу. Каким бы безумным ни казалось это действие, оно не бесцельно. Рядом с вами открывается каменный отсек. Внутри лежит дневник в кожаной обложке.
+
+{SFX: sliding stone}
+
+{LOOT}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>51</ID>
+      <DefaultText>Вы чувствуете жуткий зуд в основании черепа, но ничего не происходит. Вы лишь пытаетесь перебороть противное ощущение, словно кто-то пытается прогрызть путь из вашей головы наружу.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>52</ID>
+      <DefaultText>Вы вновь сосредотачиваетесь, но и эта попытка тщетна.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>53</ID>
+      <DefaultText>Попытаться вспомнить, где находятся заметки.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>54</ID>
+      <DefaultText>Еще раз попытаться вспомнить, где находятся заметки.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>55</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>56</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>57</ID>
+      <DefaultText>Вы рассматриваете этот древний механизм. Он кажется странно знакомым, но мучительные попытки ухватить обрывки воспоминаний ни к чему не приводят. Перед мысленным взором проносятся образы и фрагменты информации, но они лишены смысла и длятся не более миллисекунды.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>58</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>59</ID>
+      <DefaultText>Мерцания и бессмысленные данные напоминают вам о Каллистеж. Возможно, она поймет, что это за устройство.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>60</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>61</ID>
+      <DefaultText>Вы не узнали об этой машине ничего нового.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>62</ID>
+      <DefaultText>"Мы вернемся сюда позднее".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>63</ID>
+      <DefaultText>"Хорошо бы".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>64</ID>
+      <DefaultText>"Но я не забуду".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>65</ID>
+      <DefaultText>"Не думай, что я забуду".</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

@@ -1,0 +1,166 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\x_labyrinth_crisis\x4061_sorrowfragmentfathom_regret_blueapprentice</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>30</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>14</ID>
+      <DefaultText>В воздухе мерцают проецируемые этим аппаратом картинки, повторяющие одну и ту же сцену вновь и вновь. Изучая устройство, вы чувствуете, как она забирается к вам в голову и вытаскивает на поверхность воспоминания.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>15</ID>
+      <DefaultText>Вы смотрите на экран, проецируемый кристаллическими призмами. Изображения и краски сливаются в рваную радугу, как и на всех предыдущих повторах, хотя должны были сложиться в одну светящуюся картинку — так бы и случилось, если бы это устройство работало как надо. Вы разочарованно шипите, стиснув зубы. Сколько лет нужно потратить в попытках выстроить эти энергии? Или все усилия тщетны?
+
+"Выключи его", — ворчите вы, но ученик не обращает на вас внимание.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>16</ID>
+      <DefaultText>"Еще секунду", — бормочет он. — "Всего секунду". Он стоит на коленях перед панелью управления и, засунув руку внутрь, что-то поправляет.
+
+Изображения и краски у него над головой выравниваются. Он садится на корточки, и лицо его расплывается в широченной улыбке. "Я знал", — смеется он. — "Я слышал, как устройство мне *шепчет*, словно… словно оно *хочет*, чтобы его починили. Это мой шедевр. Что теперь?" Вы не уверены, кому ваш одаренный отверженный задает свой вопрос: вам или устройству.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>17</ID>
+      <DefaultText>Вы разглядываете его затылок. Он несомненно талантлив, а кое в чем, надо признать, даже превосходит вас. В конце концов, отчасти поэтому вы сконструировали его тело таким. Но теперь, когда у него получилось… хватит ли у вас духу отпустить его? Он узнал ваши самые потаенные секреты, и ваше будущее — в его руках.
+
+…но вы испытываете определенную привязанность к нему. К тому же, его убийство было бы черной неблагодарностью. Вместо этого вы заговариваете.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>18</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>19</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>21</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>22</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>23</ID>
+      <DefaultText>Позволить этому воспоминанию завладеть вами.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>24</ID>
+      <DefaultText>Не поддаваться этому воспоминанию.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>25</ID>
+      <DefaultText>Как только вы отводите взгляд от картинки, связь прерывается.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>26</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>27</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>28</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>29</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>32</ID>
+      <DefaultText>Проектор продолжает проигрывать повторяющиеся картинки, пытаясь вовлечь вас в изображаемую сцену.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>34</ID>
+      <DefaultText>"Мазоф", — шепчете вы. Он оборачивается, и, когда ваши взгляды встречаются, вы всей мощью своей ментальной силы пробиваете его слабую защиту. Вы проникаете в его воспоминания и стираете подробности работы за весь прошедший год. Это грубый метод — все равно что огреть дубинкой, — но вы говорите себе, что это милосерднее, чем убийство.
+
+И сами почти верите в это.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>35</ID>
+      <DefaultText>Картинки продолжают мелькать, зато ноющий зуд памяти исчез.</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

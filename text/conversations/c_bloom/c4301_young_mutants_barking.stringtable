@@ -1,0 +1,167 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\c_bloom\c4301_young_mutants_barking</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>31</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>"*Давай же*, Алопо".
+
+{COLIN:  This is the restored form of an earlier version of this conversation, cut down to seven nodes. The initial sequence for the slave auction barks goes on for seven nodes and we probably don't want to go much longer than that.}</DefaultText>
+      <FemaleText>"*Давай же*, Алопо".
+
+{COLIN:  This is the restored form of an earlier version of this conversation, cut down to seven nodes. The initial sequence for the slave auction barks goes on for seven nodes and we probably don't want to go much longer than that.}</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>"Ты *боишься*, Алопо?"</DefaultText>
+      <FemaleText>"Ты *боишься*, Алопо?"</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>"Я... Я не боюсь! Я думаю!"</DefaultText>
+      <FemaleText>"Я... Я не боюсь! Я думаю!"</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>"Думаешь о том, насколько ты испуган?"</DefaultText>
+      <FemaleText>"Думаешь о том, насколько ты испуган?"</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>"Нет?"</DefaultText>
+      <FemaleText>"Нет?"</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>"Думаешь о том, как бы сбежать обратно в питомник?"</DefaultText>
+      <FemaleText>"Думаешь о том, как бы сбежать обратно в питомник?"</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>"Нет?"</DefaultText>
+      <FemaleText>"Нет?"</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>17</ID>
+      <DefaultText>"Думаешь о том, как бы сбежать обратно в питомник?"</DefaultText>
+      <FemaleText>"Думаешь о том, как бы сбежать обратно в питомник?"</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>19</ID>
+      <DefaultText>"Потрогай это!"</DefaultText>
+      <FemaleText>"Потрогай это!"</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>20</ID>
+      <DefaultText>"*Сам* это трогай!"</DefaultText>
+      <FemaleText>"*Сам* это трогай!"</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>21</ID>
+      <DefaultText>"...что если оно ударит меня током?"</DefaultText>
+      <FemaleText>"...что если оно ударит меня током?"</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>22</ID>
+      <DefaultText>"Ты это видел?"</DefaultText>
+      <FemaleText>"Ты это видел?"</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>23</ID>
+      <DefaultText>"Что видел?"</DefaultText>
+      <FemaleText>"Что видел?"</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>24</ID>
+      <DefaultText>"Что-то там *шевельнулось*".</DefaultText>
+      <FemaleText>"Что-то там *шевельнулось*".</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>25</ID>
+      <DefaultText>"Тихо! Я что-то слышал!"</DefaultText>
+      <FemaleText>"Тихо! Я что-то слышал!"</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>26</ID>
+      <DefaultText>"Ч... что это было?"</DefaultText>
+      <FemaleText>"Ч... что это было?"</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>27</ID>
+      <DefaultText>"Похоже на какое-то... живое существо".</DefaultText>
+      <FemaleText>"Похоже на какое-то... живое существо".</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>28</ID>
+      <DefaultText>"Тогда мы над тобой посмеемся".</DefaultText>
+      <FemaleText>"Тогда мы над тобой посмеемся".</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>29</ID>
+      <DefaultText>"Я не видел".</DefaultText>
+      <FemaleText>"Я не видел".</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>30</ID>
+      <DefaultText>"Я тоже".</DefaultText>
+      <FemaleText>"Я тоже".</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>31</ID>
+      <DefaultText>"...ты ведь просто пошутил, да?"</DefaultText>
+      <FemaleText>"...ты ведь просто пошутил, да?"</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>32</ID>
+      <DefaultText>"Пожалуй, нам не стоит продолжать. Кто хочет пойти домой?"</DefaultText>
+      <FemaleText>"Пожалуй, нам не стоит продолжать. Кто хочет пойти домой?"</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>34</ID>
+      <DefaultText>"Видишь? Призраки тебя не сожрут, если забраться туда".</DefaultText>
+      <FemaleText>"Видишь? Призраки тебя не сожрут, если забраться туда".</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>35</ID>
+      <DefaultText>"Да, Алопо! Иди туда! Если только ты не *досси*".</DefaultText>
+      <FemaleText>"Да, Алопо! Иди туда! Если только ты не *досси*".</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>36</ID>
+      <DefaultText>"Если причин для страха нет, почему бы вам двоим не полезть туда?"</DefaultText>
+      <FemaleText>"Если причин для страха нет, почему бы вам двоим не полезть туда?"</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>37</ID>
+      <DefaultText>"... Хм..."</DefaultText>
+      <FemaleText>"... Хм..."</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>38</ID>
+      <DefaultText>"...эмм".</DefaultText>
+      <FemaleText>"...эмм".</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>39</ID>
+      <DefaultText>"Так я и думал".</DefaultText>
+      <FemaleText>"Так я и думал".</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>40</ID>
+      <DefaultText>"Ну и что ты собираешься делать сейчас".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>41</ID>
+      <DefaultText>"Я просто... набираюсь смелости. Я совсем не боюсь".</DefaultText>
+      <FemaleText>"Я просто... набираюсь смелости. Я совсем не боюсь".</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>42</ID>
+      <DefaultText>"Нет. Я тоже не собираюсь ничего делать. Просто... смотрю".</DefaultText>
+      <FemaleText>"Нет. Я тоже не собираюсь ничего делать. Просто... смотрю".</FemaleText>
+    </Entry>
+  </Entries>
+</StringTableFile>

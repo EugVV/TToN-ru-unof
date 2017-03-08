@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\b_valleymielavest\b3141_gateclosed</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>14</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>Из-за решения Инифира закрыть Врата вас почему-то выбрасывает наружу. Инифир исчез — неизвестно, где он сейчас, — и Врата за вашей спиной закрыты. Теперь у сектантов нет причин для убийства.
+
+Во всяком случае, у них *меньше* причин для этого.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>Со смертью Инифира Врата вдруг исторгают вас наружу и закрываются за вашей спиной. Теперь сектантам нечего здесь делать, у них нет причин для убийства.
+
+Во всяком случае, у них *меньше* причин для этого.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>Вы снова изменили прошлое одного из своих собратьев. Врат больше нет. Их *никогда* не было, хотя вы ясно помните все случившееся. Если с Мэткиной произошло нечто подобное, другие тоже могут это помнить — хотя бы обрывочно. Но вы добились кое-чего — Врата исчезли.
+
+Трупы и лужи крови остались, значит вы изменили реальность *не так уж* и сильно. По крайней мере, теперь у сектантов нет причин для убийства.
+
+Во всяком случае, у них *меньше* причин для этого.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>Из Врат вытолкнуло не только вас. У ваших ног лежит небольшая кучка предметов.</DefaultText>
+      <FemaleText>Из Врат вытолкнуло не только вас. У ваших ног лежит небольшая кучка предметов.</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>В ней есть и кое-какие новые вещицы. У ваших ног лежит небольшая кучка предметов.</DefaultText>
+      <FemaleText>В ней есть и кое-какие новые вещицы. У ваших ног лежит небольшая кучка предметов.</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>14</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

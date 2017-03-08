@@ -1,0 +1,229 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\c_bloom\c4221_murden_intro</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>43</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>Мердены снова останавливают вас, топорща перья при вашем приближении. Своим оружием они указывают в сторону выхода.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>"Отойдите в сторону, или я повыдергиваю ваши перья и поджарю вас на вертеле".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>Достать оружие и атаковать их.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>Существа медленно опускают свое оружие и, ни на секунду не сводя с вас глаз, отходят к углам комнаты.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>Помехи в вашей голове становятся громче, настойчивее и испуганнее. Существа поворачиваются и выбегают через дверь в соседнюю комнату. Путь свободен… пока.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>Отойти от мерденов.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>"Я заплачу, чтобы вы отошли в сторону".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>Мердены щелкают клювами и протягивают свои когтистые лапы, сверкая глазами в тусклом свете.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>Заплатить мерденам [Global: c4221_MurdenSentryBribeAmount] шин.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>Ментальные помехи становятся громче и настойчивее по мере того, как растет восторг мерденов, пересчитывающих свое новообретенное богатство. Щелкая клювами и кусая друг друга, они дерутся за то, кому достанется больше. Наконец один ранит другого, тот сдается, и они оба уходят в свои гнезда.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>Использовать магматический аннулет для общения с мерденами.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText>Вы дотрагиваетесь до аннулета, и мердены тут же хватаются за головы и сгибаются пополам, жалобно каркая от обрушившихся на них ужасных мучений.
+
+Как только вы отпускаете аннулет, они качают головами, очевидно, избавившись от боли. Они пока не уходят с дороги, но теперь относятся к вам с настороженностью.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>14</ID>
+      <DefaultText>Один из них указывает клинком на соседнюю комнату. Они медленно отступают, заметно нервничая и ни на секунду не сводя с вас глаз.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>15</ID>
+      <DefaultText>Их перья встают дыбом, и они с неприкрытой угрозой трясут перед вами оружием.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>16</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>17</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>18</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>19</ID>
+      <DefaultText>В ответ они топорщат перья, демонстрируя свой размер и силу. Одновременно с этим усиливаются их ментальные помехи, и вы ощущаете, что они насмехаются над вами.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>21</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>22</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>23</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>24</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>25</ID>
+      <DefaultText>"Я не причиню вам вреда. Я пришел забрать штандарт нерегулярных войск Арталио".</DefaultText>
+      <FemaleText>"Я не причиню вам вреда. Я пришла забрать штандарт нерегулярных войск Арталио".</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>26</ID>
+      <DefaultText>"Повторяю, я хочу забрать штандарт Арталио. Я не причиню вам вреда".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>33</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>34</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>35</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>36</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>37</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>38</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>39</ID>
+      <DefaultText>На вас смотрят двое сгорбленных, похожих на птиц гуманоидов. Их яркие, полные ненависти глаза сверкают над грязными желтыми клювами. Вы сразу же узнаете их… *мердены*. От них исходит какой-то ментальный шум — пелена помех, из-за которой вам сложно сосредоточиться.
+
+Один из них топорщит свои сальные черные перья, чтобы казаться больше, а второй царапает землю. Они машут руками, и значение этого жеста очевидно: *ни шагу дальше*.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>40</ID>
+      <DefaultText>Ваша способность читать мысли только усиливает помехи, делая шум почти невыносимым. Чтобы абстрагироваться от шума, требуется недюжинное волевое усилие.
+
+Очевидно, пытаться читать мысли мерденов — плохая идея.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>41</ID>
+      <DefaultText>Они снова трясут перед вами оружием, очевидно, по-прежнему вам не доверяя.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>42</ID>
+      <DefaultText>"Забудьте. Я не собираюсь платить вам прямо сейчас".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>43</ID>
+      <DefaultText>Шипя, мердены убирают лапы и топорщат перья, давая понять, что не уйдут с дороги.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>44</ID>
+      <DefaultText>Предложить все шины, что у вас есть.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>45</ID>
+      <DefaultText>Вы кладете оставшиеся шины в лапы мерденов. Они снова щелкают клювами, требуя еще, но, так ничего и не дождавшись, яростно визжат и швыряют монеты вам в лицо.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>46</ID>
+      <DefaultText>Мердены выбегают вперед и выхватывают у вас шины. Щелкая клювами и кусая друг друга, они дерутся за то, кому достанется больше. Наконец один ранит другого, тот сдается, и они оба уходят в свои гнезда.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>47</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>49</ID>
+      <DefaultText>"Я передумал. Я заплачу, чтобы вы отошли в сторону".</DefaultText>
+      <FemaleText>"Я передумала. Я заплачу, чтобы вы отошли в сторону".</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>50</ID>
+      <DefaultText>"Вы примете [Global: c4221_MurdenSentryBribeAmount] шина(-ов) в качестве платы?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>51</ID>
+      <DefaultText>Мердены переглядываются, словно сомневаясь в ваших намерениях, но все же протягивают лапы.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>52</ID>
+      <DefaultText>С ненавистью глядя на вас, мердены снова убирают лапы.</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

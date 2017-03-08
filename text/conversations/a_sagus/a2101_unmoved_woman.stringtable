@@ -1,0 +1,431 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\a_sagus\a2101_unmoved_woman</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>81</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>Эта женщина стоит позади толпы. Скрестив на груди руки, она бесстрастно наблюдает за медленной казнью, но, в отличие от прочих зевак, она посматривает и на людей в толпе.
+
+Она качает головой: "Унылое зрелище".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>"Печально, но что поделаешь?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>"Систему не изменить".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>"Очень плохо".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>"У меня есть, что сказать, но кто будет слушать?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>"Почему я на это смотрю?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>16</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>17</ID>
+      <DefaultText>"Я просто шла мимо. Даже не знаю, почему я остановилась". Но что-то в ее тоне говорит о том, что все не так просто.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>18</ID>
+      <DefaultText>"Да, конечно".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>19</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20</ID>
+      <DefaultText>"Если ты находишь зрелище унылым, почему ты смотришь?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>21</ID>
+      <DefaultText>"Прощай".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>22</ID>
+      <DefaultText>"Банальное любопытство. Поэтому я и остановилась. Но теперь мне пора идти".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>23</ID>
+      <DefaultText>"Ты остановилась, потому что у тебя доброе сердце. Ты не могла пройти мимо".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>24</ID>
+      <DefaultText>"Ты остановилась, поскольку мечтаешь чего-то добиться. Ты хочешь стать женщиной, которая что-то изменит".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>25</ID>
+      <DefaultText>"Я вижу, что ты осматриваешь толпу. Людей раза в четыре больше, чем стражи. Им лишь нужен предводитель".
+
+{GEORGE: Changed this to Very Hard, with failure requiring you to turn two other people and return to her. -JF}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>26</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>28</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>29</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>31</ID>
+      <DefaultText>Она задумывается, затем качает головой: "Я не стану рисковать своей шеей в одиночку. Вот если пара других людей начнет действовать... Тогда может быть".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>32</ID>
+      <DefaultText>Она вздрагивает: "Предводитель? Но я никогда... Нет. Твоя правда. Вот почему я здесь — кто-то должен что-то предпринять. Почему бы мне не стать этим кем-то? Хотя бы на миг стать героиней!"
+
+Она делает шаг вперед: "Я готова!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>33</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>34</ID>
+      <DefaultText>"Я вижу, как ты осматриваешь толпу. Людей раза в четыре больше, чем стражи. Им лишь нужен предводитель".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>35</ID>
+      <DefaultText>Она вздрагивает: "Предводитель? Но я никогда... Нет. Твоя правда. Вот почему я здесь — кто-то должен что-то предпринять. Почему бы мне не стать этим кем-то? Хотя бы на миг стать героиней!"
+
+Она делает шаг вперед: "Я готова!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>36</ID>
+      <DefaultText>"Давай покончим с этим!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>37</ID>
+      <DefaultText>"Удачи".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>38</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>39</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>40</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>42</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>44</ID>
+      <DefaultText>Люди в толпе качнулись, будто по ним прошла невидимая волна силы. Их кулаки сжимаются, а в глазах разгорается огонь.
+
+Женщина перед вами тоже преобразилась. Она улыбается вам в каком-то отрешенном восторге: "О чем я думала? Конечно, мы можем его спасти!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>45</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>46</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>47</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>48</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>49</ID>
+      <DefaultText>"Чего же мы ждем? Надо действовать".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>50</ID>
+      <DefaultText>"Я же сказала, что не буду помогать. Оставь меня в покое".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>51</ID>
+      <DefaultText>Женщина продолжает наблюдать за казнью и за толпой. "Какое унылое зрелище".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>52</ID>
+      <DefaultText>"Я сказала, что не буду помогать, пока пара других людей не начнет действовать. Я все еще жду".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>53</ID>
+      <DefaultText>"Многие в этой толпе готовы действовать. Людей в четыре раз больше, чем стражи. Тебе нужно лишь возглавить их".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>54</ID>
+      <DefaultText>Она смотрит на тех, кого вы уговорили, и собирается с духом. "Да, согласна. Необходимо действовать. Нас больше, значит мы добьемся успеха".
+
+Она делает шаг вперед: "Я готова!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>55</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>56</ID>
+      <DefaultText>Она кивает: "Я тоже пойду. Ну, через несколько минут".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>57</ID>
+      <DefaultText>"Может и так, какая разница? Это не остановить... уж точно не мне".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>58</ID>
+      <DefaultText>Она расправляет плечи, но произносит: "Я? А что я могу? Я никто. Смотреть — это все, что я могу".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>59</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>60</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>61</ID>
+      <DefaultText>"Освободить пленника!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>62</ID>
+      <DefaultText>"Справедливости!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>63</ID>
+      <DefaultText>"Отпустить! Отпустить!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>64</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>65</ID>
+      <DefaultText>"Очередная из длинной череды бессмысленных казней", — она указывает на мужчину, изо рта которого тянется лента из плоти. — "Они вводят несчастного негодяя в транс, в котором тот болтает невесть что, выплевывая собственные внутренности. Скоро жизнь покинет его, и громила сожрет его тело. Отвратительно".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>66</ID>
+      <DefaultText>"Еще одна казнь. Некоторые считают, что приговоренный произносит пророчества во время казни, но я в это не верю. Это лишь спектакль. Печальный и омерзительный".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>67</ID>
+      <DefaultText>"Что здесь происходит?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>68</ID>
+      <DefaultText>"Напомните, что тут происходит?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>69</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>70</ID>
+      <DefaultText>"Почему все смотрят?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>71</ID>
+      <DefaultText>"Напомните, почему все на это смотрят?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>72</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>73</ID>
+      <DefaultText>Он вздыхает: "Вот что в этом городе считается развлечением. Людям нравится смотреть, как страдают другие. Видимо, это отвлекает их от собственных страданий".
+
+"Но я здесь не поэтому! Я... меня... меня просто потянуло сюда".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>74</ID>
+      <DefaultText>"Просто больше нечего делать".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>75</ID>
+      <DefaultText>Ее пессимизм натолкнул вас на интересную мысль. Будет несложно манипулировать этой женщиной — *и всей толпой* — чтобы потребовать освобождения Риса. Людей нужно лишь немного *подтолкнуть*.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>76</ID>
+      <DefaultText>Раззадорить толпу. *Потребовать* освобождения Риса.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>77</ID>
+      <DefaultText>Чувства внутри вас растут. Вы формируете из них комок праведного гнева и выпускаете его, позволив ему распространиться от вас во все стороны.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>79</ID>
+      <DefaultText>Алигерн в ужасе смотрит на вас: "Это *твоя* работа?! Ты навязал свою волю этакой толпе? Ты бессердечный... безмозглый..."
+
+Он отворачивается, дрожа от гнева: "И чего еще было ожидать, в самом деле..."</DefaultText>
+      <FemaleText>Алигерн в ужасе смотрит на вас: "Это *твоя* работа?! Ты навязала свою волю этакой толпе? Ты бессердечная... безмозглая..."
+
+Он отворачивается, дрожа от гнева: "И чего еще было ожидать, в самом деле..."</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>80</ID>
+      <DefaultText>"Это еще как понимать?" — Тибир в восторге качает головой. — "Не знаю, что произошло, но было похоже на... волшебство. Молодец!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>81</ID>
+      <DefaultText>Тибир ошеломленно трясет головой и шепчет: "Блестящая работа, приятель. Я уж думал, ты ее упустил. Не знаю, что ты сделал, но это почти... магия".</DefaultText>
+      <FemaleText>Тибир ошеломленно трясет головой и шепчет: "Блестящая работа, подруга. Я уж думал, ты ее упустила. Не знаю, что ты сделала, но это почти... магия".</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>82</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>86</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>87</ID>
+      <DefaultText>"Кто-то должен остановить эту казнь".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>88</ID>
+      <DefaultText>"Вообще-то, я думаю, ты *могла бы* остановить казнь".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>89</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>90</ID>
+      <DefaultText>"Да, но кто? Уж точно не я!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>91</ID>
+      <DefaultText>"Я? Но что я могу, кроме того, что смотреть?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>93</ID>
+      <DefaultText>"Ты права. Давай поговорим о чем-нибудь еще".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>94</ID>
+      <DefaultText>Она качает головой и снова поворачивается к толпе.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>95</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>96</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

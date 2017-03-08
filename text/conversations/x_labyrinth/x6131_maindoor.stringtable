@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\x_labyrinth\x6131_maindoor</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>3</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>Пульсирующие волны тепла скатываются по ступеням, и вы слышите низкий непрерывный шум, напоминающий что-то среднее между вздохом и мелодией. Дверь *поет*, приглашая вас внутрь.
+
+Колесо снизу двери довольно ярко *светится* даже при таком слабом освещении. При взгляде на него вы чувствуете дрожь в ладонях. 
+{SOUND: Melodious humming.}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>Что-то в вашем сознании *щелкает*, и дверь отвечает. Невидимые за клеткой шестеренки приходят в действие. Дверь открывается для вас и только для вас. 
+
+{SOUND: Hum continues, smooth clockwork whirring.}
+{SCRIPT: Currently doing the scene transition here. If/when art is hooked up to show the door opening, we can remove the scene transition here and add a scene transition trigger to the scene itself.}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

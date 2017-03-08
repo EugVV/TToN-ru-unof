@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\si_meres\mere_is1_towerofbirdsmere</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>13</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>[You are in the body of a castoff named Endira Thirdloss, a caretaker of an ancient tower. A construct hovers next to you, informing you that your commander, the First, is trying to enter the tower. Unfortunately, it has been so long since anybody entered the tower, that even the construct no longer remembers how to activate the portal.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>[Figure out how to open the portal.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>[Dick around.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>[Let me out of this Mere already.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>[You do so. It's not that hard - this is a placeholder.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>[You do so. While you are dicking around, you accidentally open the portal anyway... because this is placeholder.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>[The First enters, yells at you for a bit about plot-interesting information, then leaves.
+
+Shortly after she leaves, the tower comes under attack by Oorgolian soldiers. The means to fend them off turns out to be similar to how you opened the portal, but your choices there affect what you can do here.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>[Fend off the attack.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>[Try and fail to fend off the attack.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>[Dick around some more.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>[It is extremely effective! For solving the Mere, you get some DP and other rewards, push back the Sorrow a bit, trigger some cool Mere-related reactivity for later in the world, and learn valuable lessons about love and friendship.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText>[You activate some of the defenses, fighting off some of the soldiers, but eventually they overcome your defenses. You don't solve the Mere, but you get some cool Mere-related reactivity for later in the world and learn valuable lessons about love and friendship.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText>[You succeed at dicking around. The attack destroys Endira, but what do you care? You're just using his body to dick around. You get some cool Mere-related reactivity for later in the game, but you missed out on the lessons about love and friendship.]</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

@@ -1,0 +1,1599 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\a_sagus\a1101_aligern_and_callistege</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>309</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>"О, да, это *несомненно*, Каллистеж". Его голос звучит мрачно и отрывисто. Затем он видит, что вы смотрите на него.  
+
+"Ты не простой смертный, это все, что нам известно. Говори". Выражение его каменного лица недружелюбное.</DefaultText>
+      <FemaleText>"О, да, это *несомненно*, Каллистеж". Его голос звучит мрачно и отрывисто. Затем он видит, что вы смотрите на него.  
+
+"Ты не простая смертная, это все, что нам известно. Говори". Выражение его каменного лица недружелюбное.</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>"Алигерн, ты же знаешь, что он — не Меняющийся Бог".</DefaultText>
+      <FemaleText>"Алигерн, ты же знаешь, что она — не Меняющийся Бог".</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>"Это *его* лицо! Я никогда не видел людей, которые могли бы так восстанавливаться. Только Меняющийся Бог смог бы исцелиться так быстро".
+
+Он вздыхает и вытирает лицо, пытаясь сохранять самообладание. "Может быть, ты сможешь *мне* помочь. Ты же знаешь, что это значит для меня".</DefaultText>
+      <FemaleText>"Это *ее* лицо! Я никогда не видел людей, которые могли бы так восстанавливаться. Только Меняющийся Бог смог бы исцелиться так быстро".
+
+Он вздыхает и вытирает лицо, пытаясь сохранять самообладание. "Может быть, ты сможешь *мне* помочь. Ты же знаешь, что это значит для меня".</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>14</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>15</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>16</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>17</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>18</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>19</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20</ID>
+      <DefaultText>Алигерн усмехается. А затем твердо произносит: "Вряд ли. Хотя и нельзя сказать, что это *невозможно*. Тебе нужны люди, обладающие особыми знаниями. Уверен, секта Меняющегося Бога поможет найти ответ".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>21</ID>
+      <DefaultText>"Орден Истины? Ты сошла с ума? Они скорее разорвут *нас* на куски".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>22</ID>
+      <DefaultText>Хотя ее лицо и остается абсолютно невозмутимым, но в ее отражениях легко прочитывается неприязнь. "Ты отправишься к безумцам, чтобы помочь возродившемуся? Где твое благоразумие, Алигерн? Я отведу его к Ордену Истины".</DefaultText>
+      <FemaleText>Хотя ее лицо и остается абсолютно невозмутимым, но в ее отражениях легко прочитывается неприязнь. "Ты отправишься к безумцам, чтобы помочь возродившейся? Где твое благоразумие, Алигерн? Я отведу ее в Орден Истины".</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>23</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>24</ID>
+      <DefaultText>"Я остался в живых после этого падения, у меня есть способности и сила, хоть я и не помню, как научился всему этому. А что, если *я* действительно Меняющийся Бог?"</DefaultText>
+      <FemaleText>"Я осталась в живых после этого падения, у меня есть способности и сила, хоть я и не помню, как научилась всему этому. А что, если *я* действительно Меняющийся Бог?"</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>25</ID>
+      <DefaultText>"Я столько всего не знаю или не помню. Должно быть, я отверженный".</DefaultText>
+      <FemaleText>"Я столько всего не знаю или не помню. Должно быть, я отверженная".</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>26</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>27</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>28</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>29</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>31</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>32</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>33</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>34</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>35</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>36</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>37</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>38</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>39</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>40</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>41</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>42</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>43</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>47</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>48</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>49</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>50</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>51</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>52</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>53</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>54</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>55</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>56</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>57</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>58</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>59</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>60</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>62</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>63</ID>
+      <DefaultText>"Я, честно, не знаю".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>64</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>65</ID>
+      <DefaultText>"Что это за Орден Истины?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>66</ID>
+      <DefaultText>"Расскажите мне еще про этот Орден Истины".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>67</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>68</ID>
+      <DefaultText>"Что такое секта Меняющегося Бога?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>69</ID>
+      <DefaultText>"Расскажите мне про Секты Меняющегося Бога".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>70</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>71</ID>
+      <DefaultText>"Несмотря на то, что она сказала, они не безумцы. Они просто немного странные". 
+
+Она смеется, но он не отступает. "Они поклоняются... как бы это сказать? Они поклоняются тебе... или Вашему Величеству. Меняющемуся Богу. Они посвящают всю свою жизнь осмыслению *таких, как вы*".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>72</ID>
+      <DefaultText>"Благородство? Идиоты. Просто Алигерну нравится в их компании. Они находят божественные черты в человеке, одержимо следят за каждым его движением и канонизируют все, что он делает. В любом случае, они *тебя* полюбят".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>73</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>74</ID>
+      <DefaultText>"Ученые, ищущие знания, пытаются вырвать тайны из сердца прежних миров. Они собираются в городе, чтобы поделиться своими открытиями и помочь человечеству построить более светлое будущее". Она широко улыбается. "Наш друг Алигерн когда-то был одним из них".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>75</ID>
+      <DefaultText>Впервые его маска невозмутимости спадает, и он сердится: "Глупцы, которые не принимают истину, если она не придумана ими! Они называют себя учеными и хиургами, но их истинной целью является уничтожение правды, а не служение ей".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>76</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>77</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>78</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>79</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>80</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>81</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>82</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>83</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>84</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>85</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>86</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>87</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>88</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>89</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>90</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>91</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>92</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>93</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>94</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>95</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>96</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>97</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>98</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>99</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>100</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>101</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>102</ID>
+      <DefaultText>Он был не до конца откровенен, но было очевидно, что он вам не верит. "Вы забыли, что привело к началу Бесконечной Битвы? Разве вы забыли, что повело народ Утесов Сагуса против племени табат, когда они пришли уничтожить нас много веков назад?"
+
+Его голос немного дрожит, но лицо его невозмутимо. "Неужели ты не помнишь *меня*?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>103</ID>
+      <DefaultText>"Я знал это". Он смотрит на Каллистеж торжествующим взглядом. "Я *знал* это".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>104</ID>
+      <DefaultText>Она пренебрежительно качает головой. "Он сказал «а что, если», Алигерн. Честно! Смог бы тот, кто жил так осмотрительно в течение многих лет, так легко открыться таким людям, как мы?"</DefaultText>
+      <FemaleText>Она пренебрежительно качает головой. "Она сказала "а что, если", Алигерн. Честно! Смогла бы та, кто жила так осторожно в течение многих лет, так легко открыться таким людям, как мы?"</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>105</ID>
+      <DefaultText>"Увидим. Если *ты* действительно Меняющийся Бог, то у тебя есть множество ответов для многих людей".
+
+Его голос звучит решительно и он пристально смотрит на нее. Каждая морщинка на его лице выдает обиду. Он скрещивает руки и вздыхает.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>106</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>107</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>108</ID>
+      <DefaultText>Она пренебрежительно усмехается. "Даже если бы он *был* Меняющимся Богом, тебе вряд ли бы удалось сбить его с толку такими простыми вопросами. Ты должен помочь ему и проводить его. Так или иначе, это самое мудрое решение. *Я* думаю, этот вариант самый лучший, Алигерн". Она ехидно улыбается.</DefaultText>
+      <FemaleText>Она пренебрежительно усмехается. "Даже если бы она *была* Меняющимся Богом, тебе вряд ли бы удалось сбить ее с толку такими простыми вопросами. Ты должен помочь ей и проводить ее. Так или иначе, это самое мудрое решение. *Я* думаю, этот вариант самый лучший, Алигерн". Она ехидно улыбается.</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>109</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>110</ID>
+      <DefaultText>Он отводит взгляд и на мгновение теряет самообладание. "Боги, ты иногда бываешь такой язвой, Каллистеж".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>111</ID>
+      <DefaultText>"Откуда он свалился? Его тело перенесло сильнейший удар. Это чудо, что он все еще дышит".</DefaultText>
+      <FemaleText>"Откуда она свалилась? Ее тело перенесло сильнейший удар. Это чудо, что она все еще дышит".</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>112</ID>
+      <DefaultText>"Я видела только ореол, но не исходную точку. Только посмотри! Его тело уже заживает! Это саморегенерация!"</DefaultText>
+      <FemaleText>"Я видела только ореол, но не исходную точку. Только посмотри! Ее тело уже заживает! Это саморегенерация!"</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>113</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>114</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>115</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>116</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>117</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>118</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>119</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>120</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>121</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>122</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>123</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>124</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>125</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>126</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>127</ID>
+      <DefaultText>На его лице появляется еле заметная улыбка, как будто это была его шутка, только взгляд его остается таким же жестким. "Он прожил дольше, чем кто-либо в Девятом Мире. За все это время не было ни одного такого филантропа. Конечно, он помогал некоторым людям, хотя это не всегда было в его интересах. За долгие годы ему сошло с рук множество его злодеяний".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>128</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>129</ID>
+      <DefaultText>"Мошенники, жулики и шарлатаны. У них нет всех ответов. И я не верю ничему, что они говорят про тайны Меняющегося Бога".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>130</ID>
+      <DefaultText>"Ты просто злишься на то, что они не смогли тебе помочь". Ее отражения звонко смеются. "Но я вынуждена быть более жесткой, дорогой Алигерн. Давай отдадим нашего нового друга Ордену".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>131</ID>
+      <DefaultText>"Вы только посмотрите на... Подожди... *Я знаю это лицо*!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>132</ID>
+      <DefaultText>"Эй. Что это *было*? Что ты сделала, Каллистеж?" В его голосе звучат обвинение и подозрение. Вы открываете глаза.
+
+Первое, что вы замечаете, это человек, руки которого покрыты узором движущихся татуировок. Он одет в длинный темный плащ, подпоясанный ремнем, а его карманы набиты припасами. Его ботинки изношены и покрыты следами многолетних путешествий.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>133</ID>
+      <DefaultText>"Ты думаешь, это моя вина? У него сработала внутренняя физиологическая реакция в ответ на падение. Вероятно, это связано с этим фантастическим процессом заживления. *Это очевидно,* Алигерн".
+
+Ее шипящий голос звучит громко. Вам нужно протереть глаза и убедиться, что у вас не двоится то, что вы видите. За ней следуют расплывчатые отражения, практически полностью повторяющие ее движения, хотя некоторые действия и возникающие реакции невозможно воспринимать. Только ее яркие волосы и эпатажная одежда остаются неизменными в этих тенях.</DefaultText>
+      <FemaleText>"Ты думаешь, это моя вина? У нее сработала внутренняя физиологическая реакция в ответ на падение. Вероятно, это связано с этим фантастическим процессом заживления. *Это очевидно,* Алигерн."
+
+Ее шипящий голос звучит громко. Вам нужно протереть глаза и убедиться, что у вас не двоится то, что вы видите. За ней следуют расплывчатые отражения, практически полностью повторяющие ее движения, хотя некоторые действия и возникающие реакции невозможно воспринимать. Только ее яркие волосы и эпатажная одежда остаются неизменными в этих тенях.</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>134</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>135</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>136</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>137</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>138</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>139</ID>
+      <DefaultText>"Постой. Я пойду с тобой. Ты же не хочешь заблудиться?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>140</ID>
+      <DefaultText>"Ты как всегда недоверчив, Алигерн. Дитя, этот мир — очень увлекательное место, но он полон опасностей. Можешь не сомневаться, *один* из нас благополучно доставит тебя туда, где тебе следует находиться. Я буду осторожна". Радостная улыбка озаряет ее лицо.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>141</ID>
+      <DefaultText>Он натянуто улыбается и неуклюже по вам похлопывает. Но его брови по-прежнему нахмурены. "Ты не знаешь? Может, тогда поговорим о том, что ты знаешь?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>143</ID>
+      <DefaultText>Она пренебрежительно усмехается. "Ему известно достаточно, чтобы ускользнуть от твоих неуклюжих обвинений, Алигерн. У тебя нет ничего, что помогло бы продвинуться вперед, только обида и предубежденность".</DefaultText>
+      <FemaleText>Она пренебрежительно усмехается. "Ей известно достаточно, чтобы ускользнуть от твоих неуклюжих обвинений, Алигерн. У тебя нет ничего, что помогло бы продвинуться вперед, только обида и предубежденность".</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>144</ID>
+      <DefaultText>"Почему ты так ненавидишь Меняющегося Бога?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>145</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>146</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>147</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>150</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>151</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>152</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>153</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>154</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>155</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>157</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>158</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>159</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>160</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>161</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>162</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>163</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>164</ID>
+      <DefaultText>Его лицо сохраняет спокойствие, но голос наполнен горечью и усталостью. "Тебе следует знать, не так ли? Ты разрушал жизни. Совершал преступления. А теперь, похоже, ты забыл все зло, которое причинил. За тобой тянется след смерти".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>165</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>166</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>167</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>168</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>169</ID>
+      <DefaultText>Она и ее отражения одновременно удивлены и потрясены. "Он — не Меняющийся Бог, Алигерн".</DefaultText>
+      <FemaleText>Она и ее отражения одновременно удивлены и потрясены. "Она — не Меняющийся Бог, Алигерн".</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>170</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>171</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>172</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>173</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>174</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>175</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>176</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>177</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>178</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>179</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>180</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>181</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>182</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>183</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>184</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>185</ID>
+      <DefaultText>"Спасибо за помощь, но я как-нибудь сам с этим разберусь".</DefaultText>
+      <FemaleText>"Спасибо за помощь, но я как-нибудь сама с этим разберусь".</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>186</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>187</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>188</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>189</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>190</ID>
+      <DefaultText>"Алигерн, ты проводишь меня в секту Меняющегося Бога?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>191</ID>
+      <DefaultText>"Правильное решение. Твои почитатели вряд ли растерзают тебя. Иногда они бывают глупы, но они собирают информацию и знания. Они расскажут тебе больше, чем тебе захочется узнать... Кем бы ты ни был. Они смогут дать тебе хороший совет".</DefaultText>
+      <FemaleText>"Правильное решение. Твои почитатели вряд ли растерзают тебя. Иногда они бывают глупы, но они собирают информацию и знания. Они расскажут тебе больше, чем тебе захочется узнать... Кем бы ты ни была. Они смогут дать тебе хороший совет".</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>192</ID>
+      <DefaultText>"Ты окажешься в канаве, голый и искалеченный, а она как следует позабавится и превратит все в забавный эксперимент. Полагаю, будет лучше, если я пойду с тобой".</DefaultText>
+      <FemaleText>"Ты окажешься в канаве, голая и искалеченная, а она как следует позабавится и превратит все в забавный эксперимент. Полагаю, будет лучше, если я пойду с тобой".</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>193</ID>
+      <DefaultText>"Конечно! Как только я приведу тебя к жрецам, твоя камера будет сразу же отремонтирована".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>194</ID>
+      <DefaultText>Она фыркает и бросает на Алигерна едкий взгляд. "Хороший совет? Самый верный совет — это пойти со мной. Я буду сопровождать вас двоих. *Когда* вы передумаете, вам понадобится допуск к Ордену Истины".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>195</ID>
+      <DefaultText>"Каллистеж, ты отведешь меня в Орден Истины?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>196</ID>
+      <DefaultText>"Ладно, пойдем вместе. Но не удивляйся, когда Каллистеж бросит тебя искалеченного в канаве с пустым кошельком, превратив все в забавный эксперимент".</DefaultText>
+      <FemaleText>"Ладно, пойдем вместе. Но не удивляйся, когда Каллистеж бросит тебя искалеченную в канаве с пустым кошельком, превратив все в забавный эксперимент".</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>197</ID>
+      <DefaultText>[DEBUG: Skip this dialog.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>198</ID>
+      <DefaultText>"Хорошо. Пойдемте".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>199</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>200</ID>
+      <DefaultText>"Как говорил один мой «коллега», это была своего рода физиологическая реакция. Я никогда раньше не видела рождения отверженного, но было бы очень хорошо, если это вызвано твоим зарождающимся сознанием. Не беспокойся. Я не думаю, что это могло нанести серьезный вред. Не мне, по крайней мере".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>201</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>202</ID>
+      <DefaultText>"Я видел себя в другое время и в другом месте. Вы это не видели?"</DefaultText>
+      <FemaleText>"Я видела себя в другое время и в другом месте. Вы это не видели?"</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>203</ID>
+      <DefaultText>"Я видел, как ты смотрел в пространство в то время, пока Каллистеж красочно описывала все варианты твоей возможной смерти, но что об этом говорить". 
+
+Он смеется: "Я это заметил, только потому что делал то же самое".</DefaultText>
+      <FemaleText>"Я видел, как ты смотрела в пространство в то время, пока Каллистеж красочно описывала все варианты твоей возможной смерти, но что об этом говорить". 
+
+Он смеется: "Я это заметил, только потому что делал то же самое".</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>204</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>205</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>206</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>207</ID>
+      <DefaultText>"Кому-нибудь из вас известно что-либо о Скорби?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>208</ID>
+      <DefaultText>"Я получил свою долю неприятностей, но никогда *не* слышал о Скорби. Что это? Недуг?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>209</ID>
+      <DefaultText>Ее губы плотно сжимаются. "Я ничего об этом не знаю".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>210</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>211</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>212</ID>
+      <DefaultText>"Почему вы хотите пойти со мной? Зачем вам это?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>213</ID>
+      <DefaultText>"Не буду отрицать, ты очень *интересная* находка. Но дело не в этом. Я просто хочу, чтобы ты был в безопасности за пределами Рифа".</DefaultText>
+      <FemaleText>"Не буду отрицать, ты очень *интересная* находка. Но дело не в этом. Я просто хочу, чтобы ты была в безопасности за пределами Рифа".</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>214</ID>
+      <DefaultText>"Дитя, здесь небезопасно. И не только потому что ты «новорожденный». Охотники за сокровищами прочесывают Риф. Эти мусорщики продадут тебя по частям, если узнают, откуда ты пришел и кто ты такой".</DefaultText>
+      <FemaleText>"Дитя, здесь небезопасно. И не только потому что ты "новорожденная". Охотники за сокровищами прочесывают Риф. Эти мусорщики продадут тебя по частям, если узнают, откуда ты пришела и кто ты такая".</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>215</ID>
+      <DefaultText>"Если ты не помнишь, кто *Я*, ты еще эгоистичнее, чем я себе представлял".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>216</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>217</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>218</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>219</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>220</ID>
+      <DefaultText>Ее самое плотное проявление делает реверанс, в то время как другие наклоняются или поворачиваются. "Я и мои сестры — это и есть Каллистеж. Это — Алигерн. Мы исследователи, ищущие знания. Вот так мы оказались в этой комнате".
+
+"Если я не ошибаюсь, *ты* из тех, кого мы называем отверженными. Меняющийся Бог создал тебя, твое тело и разум. Твой творец использовал твое тело некоторое время, а потом оставил его по каким-то своим причинам. И когда его ум отправился за новым опытом, *ты* появился на свет в этой оболочке отверженного".</DefaultText>
+      <FemaleText>Ее самое плотное проявление делает реверанс, в то время как другие наклоняются или поворачиваются. "Я и мои сестры — это и есть Каллистеж. Это — Алигерн. Мы исследователи, ищущие знания. Вот так мы оказались в этой комнате".
+
+"Если я не ошибаюсь, *ты* из тех, кого мы называем отверженными. Меняющийся Бог создал тебя, твое тело и разум. Твой творец использовал твое тело некоторое время, а потом оставил его по каким-то своим причинам. И когда его ум отправился за новым опытом, *ты* появилась на свет в этой оболочке отверженной".</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>221</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>222</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>223</ID>
+      <DefaultText>"Если Меняющийся Бог оставил мое тело, то где он сейчас?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>224</ID>
+      <DefaultText>"Как вы можете утверждать, что это тело отверженного?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>225</ID>
+      <DefaultText>"Если падение с неба не убило меня, то есть что-нибудь, что *сможет* это сделать?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>226</ID>
+      <DefaultText>"Я использовал шифры, чтобы замедлить твое падение, но для обычного человека такие повреждения все равно были бы смертельны. Но подумай об этом. Если ты тот человек, который может превратить свое тело во все, что пожелает, то в чем заключаются твои способности? Если ты столетиями создавал тела, ты захочешь, чтобы каждое следующее тело было совершеннее предыдущего. Ты хочешь жить вечно и не позволишь, чтобы твоя жизнь закончилась из-за *несчастного случая*. Нет, ты будешь создавать сильные тела — быстрые, мощные. Может быть, процесс регенерации запускается, пока ты в этом теле".</DefaultText>
+      <FemaleText>"Я использовал шифры, чтобы замедлить твое падение, но для обычного человека такие повреждения все равно были бы смертельны. Но подумай об этом. Если ты тот человек, который может превратить свое тело во все, что пожелает, то в чем заключаются твои способности? Если ты столетиями создавала тела, ты захочешь, чтобы каждое следующее тело было совершеннее предыдущего. Ты хочешь жить вечно и не позволишь, чтобы твоя жизнь закончилась из-за *несчастного случая*. Нет, ты будешь создавать сильные тела — быстрые, мощные. Может быть, процесс регенерации запускается, пока ты в этом теле".</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>227</ID>
+      <DefaultText>"Меняющийся Бог всегда был тщеславен. Он редко оставался в оболочке, которая не подходила его... идеальному образу".
+
+Она осматривает вас с ног до головы и ее улыбка неожиданно пропадает. "Возможно, Меняющийся Бог покинул твое тело, потому что ему не нравились эти шрамы".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>229</ID>
+      <DefaultText>"Десятки. Сотни. Кто может сказать? Твой творец занимался этим несколько столетий".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>230</ID>
+      <DefaultText>"Хотя если все они появились на свет таким же образом, как и ты, то удивительно, что *все* они выжили".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>231</ID>
+      <DefaultText>"*Если*. Если он покинул твое тело, значит, его сознание перешло в чье-то еще", — он пристально смотрит на вас.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>232</ID>
+      <DefaultText>"Ой, *прекрати*!" Она смотрит на Алигерна колким взглядом одновременно с растворяющимися взглядами ее сестер. "Единственное, что нам известно о Меняющемся Боге, дорогой, это то, что он *всегда* непредсказуем. Это дитя было рождено здесь. Тот, кем ты так одержим, возродится где-то еще".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>233</ID>
+      <DefaultText>"Он мог бы притвориться. Ты не сможешь прожить сотни лет, не научившись убедительно врать".</DefaultText>
+      <FemaleText>"Она могла бы притвориться. Ты не сможешь прожить сотни лет, не научившись убедительно врать".</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>234</ID>
+      <DefaultText>"Ах, если бы..." Она раздраженно вздыхает и обращается к вам: "А *ты* как считаешь? Ты новорожденное дитя или могущественный бессмертный, который лишился памяти после смерти?"</DefaultText>
+      <FemaleText>"Ах, если бы..." Она раздраженно вздыхает и обращается к вам: "А *ты* как считаешь? Ты новорожденное дитя или могущественная бессмертная, которая лишилась памяти после смерти?"</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>235</ID>
+      <DefaultText>Алигерн скрещивает руки и ворчит: "Хорошо. Как *ты* считаешь?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>236</ID>
+      <DefaultText>"Несомненно, что ты был знаком с Меняющимся Богом, Алигерн. Как *ты* считаешь? Я — это он?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>237</ID>
+      <DefaultText>"Это именно *тот* вопрос, который бы он задал". Он разглядывает вас еще внимательнее, чем прежде.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>238</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>239</ID>
+      <DefaultText>"Ты ведешь себя так высокомерно, как будто знаешь все об этом мире и предыдущих мирах".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>240</ID>
+      <DefaultText>"Я признаю, что ты ведешь себя немного иначе. Меняющийся Бог, с которым я был знаком, владел знаниями обо всем в этом мире и предыдущих мирах".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>241</ID>
+      <DefaultText>"Твоя личность... очень сильное сходство".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>242</ID>
+      <DefaultText>"Твоя личность... нет, ты не действуешь так же, как он".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>243</ID>
+      <DefaultText>"Но если ты *не* он, то ты, черт возьми, его точная копия", — он говорит с шипением, словно подчеркивая свои слова. — "Тебе придется за многое ответить перед множеством людей".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>244</ID>
+      <DefaultText>"Ты мог бы быть им. Но я надеюсь, что это не так. Ради тебя. Тебе пришлось бы за многое ответить перед множеством людей".</DefaultText>
+      <FemaleText>"Ты могла бы быть им. Но я надеюсь, что это не так. Ради тебя. Тебе пришлось бы за многое ответить перед множеством людей".</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>245</ID>
+      <DefaultText>Он качает головой. "Я не знаю".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>246</ID>
+      <DefaultText>"А на чем тогда основаны твои выводы, Алигерн? На *чувствах*?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>248</ID>
+      <DefaultText>"Ты не знаешь? Ты только что сказал, что он был совершенно другим! Все-таки, Алигерн, с возрастом ты теряешь свое хладнокровие ученого. Где все то *хладнокровие*, с которого все начиналось?"</DefaultText>
+      <FemaleText>"Ты не знаешь? Ты только что сказал, что она была совершенно другой! Все-таки, Алигерн, с возрастом ты теряешь свое хладнокровие ученого. Где все то *хладнокровие*, с которого все начиналось?"</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>249</ID>
+      <DefaultText>"Отличный вопрос! Увидев твои способности к восстановлению, я предположила, что они имеют исключительно физическую природу — это регенерация. Если бы это было так, тебе бы не удалось выжить в большинстве случаев физического или молекулярного разрушения, таких как расчленение, сожжение и тому подобное. Дегенеративные заболевания стали бы серьезной проблемой. И я знаю *нескольких* лиц, обладающих возможностями психического уничтожения..."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>250</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>251</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>253</ID>
+      <DefaultText>Пока она говорит, у вас в уме возникают видения. И они точно не *ваши*. Но каким-то образом вы знаете, что это память Меняющегося Бога.
+
+Вы находитесь в темной комнате, освещенной мириадами мигающих огней и голограмм от множества машин, окружающих вас. "Как насчет тела, которое сможет выдержать нападение Скорби?" — произносит голос. Кажется, что он раздается от одной из машин.
+
+"Нет!" — отвечаете вы. "Для этой вещи не существует никаких барьеров — психических, временных, физических... *Это* — единственный способ".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>254</ID>
+      <DefaultText>Несколькими жестами вы создаете образ кристаллической конструкции. "Если резонансная камера работает, она даст нам силы, чтобы *остановить* охоту Скорби раз и навсегда. Нам только нужна правильная фокальная точка, катализатор..."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>255</ID>
+      <DefaultText>Воспоминания постепенно исчезают. Каллистеж все еще продолжает говорить. Вы понимаете, что устройство, которое вы видели в воспоминаниях, похоже на то, которое сейчас находится у вас за спиной. Оно выглядит точно так же, как в видении — прозрачный саркофаг внутри кристаллического купола с механическими ручками, установленными вокруг него на металлическом кольце. К сожалению, купол разрушен, саркофаг треснул, а одна из ручек лежит на полу, разломанная на части.
+
+Какими бы ни были его функции, но это устройство точно нуждается в ремонте.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>256</ID>
+      <DefaultText>"...или пожирающие плоть вирусы. Можно предположить, что уродство, наносимое Железным Ветром, будет настолько же губительным..."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>257</ID>
+      <DefaultText>"Я *думаю*, он что-то понял, Каллистеж".</DefaultText>
+      <FemaleText>"Я *думаю*, она что-то поняла, Каллистеж".</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>258</ID>
+      <DefaultText>"У меня появились новые вопросы".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>260</ID>
+      <DefaultText>"Конечно, только поторопись. Было бы безопаснее покинуть это место как можно скорее".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>261</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>262</ID>
+      <DefaultText>"Вы сказали, что я родился, когда ушел Меняющийся Бог. Но почему я не умер?"</DefaultText>
+      <FemaleText>"Вы сказали, что я родилась, когда ушел Меняющийся Бог. Но почему я не умерла?"</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>263</ID>
+      <DefaultText>"Могу ли я задать еще несколько вопросов про это тело отверженного?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>264</ID>
+      <DefaultText>"Сильное и прекрасное. Каждое из них было более совершенно, чем предыдущее. Мне любопытно узнать про *твои* способности, дитя. Я полагаю, мы о них узнаем".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>265</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>266</ID>
+      <DefaultText>"Есть ли другие отверженные?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>267</ID>
+      <DefaultText>"Расскажите мне про них".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>268</ID>
+      <DefaultText>"Их сотни, скорее всего. Учитывая тот невероятный факт, что ты выжил после падения, многие из них должны быть все еще живы. И некоторые из них — на протяжении многих веков".</DefaultText>
+      <FemaleText>"Их сотни, скорее всего. Учитывая тот невероятный факт, что ты выжила после падения, многие из них должны быть все еще живы. И некоторые из них — на протяжении многих веков".</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>269</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>270</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>271</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>272</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>276</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>277</ID>
+      <DefaultText>"Кто-нибудь из вас знает, как починить эту кристаллическую камеру?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>278</ID>
+      <DefaultText>"Кто, по вашим словам, смог бы починить эту камеру?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>279</ID>
+      <DefaultText>"Орден Истины, милый. Я с радостью отведу тебя туда".</DefaultText>
+      <FemaleText>"Орден Истины, милая. Я с радостью отведу тебя туда".</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>280</ID>
+      <DefaultText>"*Или* культ Меняющегося Бога. В Ордене Истины о таких вещах не знают. Я покажу тебе, где найти оккультистов".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>281</ID>
+      <DefaultText>"Конечно, милый".</DefaultText>
+      <FemaleText>"Конечно, милая".</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>282</ID>
+      <DefaultText>"Я не простой смертный? Что вы хотели этим сказать?"</DefaultText>
+      <FemaleText>"Я не простая смертная? Что вы хотели этим сказать?"</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>283</ID>
+      <DefaultText>"Кто *вы*?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>284</ID>
+      <DefaultText>"Где я? Как я сюда попал?"</DefaultText>
+      <FemaleText>"Где я? Как я сюда попала?"</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>285</ID>
+      <DefaultText>"Я был мертв?"</DefaultText>
+      <FemaleText>"Я была мертва?"</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>286</ID>
+      <DefaultText>"Ты построил купол. Не узнаешь его?" — ворчит он.</DefaultText>
+      <FemaleText>"Ты построила купол. Не узнаешь его?" — ворчит он.</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>287</ID>
+      <DefaultText>"Тебе известно слово *меняющийся*, Алигерн? Это означает непостоянный. Так что Меняющийся Бог запросто мог... измениться".
+
+Несколько ее отражений пожимают плечами, и она обращается к вам. "Тебе не стоит на него обижаться. Он уверен, что ты тот, с кем он был когда-то знаком. Даже несмотря на то, что *любому* до боли очевидно, что ты новорожденный".</DefaultText>
+      <FemaleText>"Тебе известно слово *меняющийся*, Алигерн? Это означает непостоянный. Так что Меняющийся Бог запросто мог... измениться".
+
+Несколько ее отражений пожимают плечами, и она обращается к вам. "Тебе не стоит на него обижаться. Он уверен, что ты та, с которой он был когда-то знаком. Даже несмотря на то, что *любому* до боли очевидно, что ты новорожденная".</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>290</ID>
+      <DefaultText>"Ты действительно не знаешь?" Он склоняет голову набок. "Я начинаю думать, что ты не он".</DefaultText>
+      <FemaleText>"Ты действительно не знаешь?" Он склоняет голову набок. "Я начинаю думать, что ты не она".</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>291</ID>
+      <DefaultText>"*Начинаю думать*, Алигерн? Скажи мне... это что, новый опыт?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>292</ID>
+      <DefaultText>"Ты упал с неимоверной высоты. Тем не менее ты здесь, разговариваешь. Но на самом деле тебя нет..." Он склоняет голову набок. 
+
+"Ты не знаешь, да? Я начинаю думать, что ты не он".</DefaultText>
+      <FemaleText>"Ты упала с неимоверной высоты. Тем не менее ты здесь, разговариваешь. Но на самом деле тебя нет..." Он склоняет голову набок. 
+
+"Ты не знаешь, да? "Я начинаю думать, что ты не она".</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>293</ID>
+      <DefaultText>"Ты имеешь в виду, кроме твоего чудесного восстановления? Прежде всего, это твоя татуировка. Она есть у всех отверженных, хотя ее назначение мне неизвестно. Ну и, конечно, твоя *очаровательная* наивность".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>294</ID>
+      <DefaultText>"Разумеется, милый. Что ты хочешь узнать?"</DefaultText>
+      <FemaleText>"Разумеется, милая. Что ты хочешь узнать?"</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>295</ID>
+      <DefaultText>"Я хочу еще кое-что спросить".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>296</ID>
+      <DefaultText>"Конечно, дитя. Должно быть, ты сбит с толку".</DefaultText>
+      <FemaleText>"Конечно, дитя. Должно быть, ты сбита с толку".</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>297</ID>
+      <DefaultText>"На что похожи тела Меняющегося Бога?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>298</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>299</ID>
+      <DefaultText>"Какой был энергетический взрыв, когда я пробудился?"</DefaultText>
+      <FemaleText>"Какой был энергетический взрыв, когда я пробудилась?</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>300</ID>
+      <DefaultText>"Вы уверены, что этот взрыв не причинил вам вреда?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>301</ID>
+      <DefaultText>"Мы знаем, что как минимум Алигерну он вреда не причинил. *Его* череп крепкий как камень".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>302</ID>
+      <DefaultText>"Если бы это было так, то повредило бы наш разум. Хотя как проверить, повредило ли это *ее* разум, я не знаю. Тут вообще сложно найти что-то нормальное".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>303</ID>
+      <DefaultText>"Вам известно что-либо о Потоках?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>304</ID>
+      <DefaultText>"Я слышала это слово. Тема, которую изучал твой создатель, очень глубокая. Боюсь, она выходит за пределы моего понимания".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>305</ID>
+      <DefaultText>"Прежде чем я пробудился, я был в каком-то фантастическом лабиринте с сияющим призраком".</DefaultText>
+      <FemaleText>"Прежде чем я пробудилась, я была в каком-то фантастическом лабиринте с сияющим призраком".</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>306</ID>
+      <DefaultText>"Учитывая, как сильно ты ударился о землю? Я удивлен, что ты *все* это видел".</DefaultText>
+      <FemaleText>"Учитывая, как сильно ты ударилась о землю? Я удивлен, что ты *все* это видела".</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>307</ID>
+      <DefaultText>"Правда? Когда мы сюда пришли, твое тело было очень сильно ободрано".
+
+Он бросает на нее косой взгляд. "Просто она не может сопереживать другим людям, если только не ставит на них эксперименты".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>308</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>309</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>310</ID>
+      <DefaultText>"Где мы? Что это за место?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>311</ID>
+      <DefaultText>"Убежище твоего творца. Говорят, что у него несколько таких мест по всему Девятому Миру, а может быть и в других мирах. Нам удалось сюда попасть только благодаря созданному тобой входу".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>312</ID>
+      <DefaultText>"Так кто же вы?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>313</ID>
+      <DefaultText>"Исследователи", — произносит он сухо. "Когда ты пробил купол, мы поняли, что это возможность. Хотя тогда мы еще не знали, что *это* за возможность".</DefaultText>
+      <FemaleText>"Исследователи", — произносит он сухо. "Когда ты пробила купол, мы поняли, что это возможность. Хотя тогда мы еще не знали, что *это* за возможность".</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>314</ID>
+      <DefaultText>"Спасибо вам за помощь. Я сам с этим разберусь. Прощайте".</DefaultText>
+      <FemaleText>"Спасибо вам за помощь. Я сама с этим разберусь. Прощайте".</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>315</ID>
+      <DefaultText>"Постой. Я пойду с тобой. Ты же не хочешь заблудиться?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>316</ID>
+      <DefaultText>"Ты как всегда недоверчив, Алигерн. Дитя, этот мир — очень увлекательное место, но он полон опасностей. Можешь не сомневаться, *один* из нас благополучно доставит тебя туда, где тебе следует находиться. Я буду осторожна". Радостная улыбка озаряет ее лицо.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>317</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>318</ID>
+      <DefaultText>"Кто такой Меняющийся Бог?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>319</ID>
+      <DefaultText>"Кто же этот Меняющийся Бог?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>320</ID>
+      <DefaultText>"Ха! *Это* то, что произошло от *тебя*".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>321</ID>
+      <DefaultText>Она бросает на него косой взгляд. "Меняющийся Бог — это твой творец, милый. Уже давно он нашел путь к бессмертию — способ *перехода* в новое созданное им тело. Не думаю, что ему известно о том, что когда он оставил это тело, был создан другой ум, чтобы заполнить пустоту".</DefaultText>
+      <FemaleText>Она бросает на него косой взгляд. "Меняющийся Бог — это твой творец, милая. Уже давно он нашел путь к бессмертию — способ *перехода* в новое созданное им тело. Не думаю, что ему известно о том, что когда он оставил это тело, был создан другой ум, чтобы заполнить пустоту".</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>322</ID>
+      <DefaultText>"Да ну, он знал, что все в порядке". Он спокойно осматривает вас сверху вниз. "Единственное, что заботит Меняющегося Бога, это он сам. Тем, кто остается после него, он не оставляет ни единой зацепки".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>323</ID>
+      <DefaultText>"Твой творец, дитя. Он создал твое тело и жил в нем некоторое время, прежде чем покинуть его и создать *тебя*".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>324</ID>
+      <DefaultText>"Если вы знаете Меняющегося Бога в *моем* обличье, то почему все время говорите о моем творце как о нем?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>325</ID>
+      <DefaultText>"Мы знаем твоего создателя по легендам и найденным сведениям. Он принимал обличье мужчин, женщин, пришельцев и... других объектов. Его обличье изменчиво — отсюда и его имя. Но в рассказах о Меняющемся Боге всегда говорят как о *нем*".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>326</ID>
+      <DefaultText>"Так проще", — пожимает плечами Алигерн. — "*Ты* женщина, а Меняющийся Бог — он... такой, как есть".</DefaultText>
+      <FemaleText>"Так проще, — пожимает плечами Алигерн. — *Ты* женщина, а Меняющийся Бог — он... такой, как есть".</FemaleText>
+    </Entry>
+  </Entries>
+</StringTableFile>

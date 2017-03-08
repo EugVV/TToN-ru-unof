@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\b_valleymielavest\b3101_omahdon</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>3</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>Вы сразу же вспоминаете, что видели этого человека в очках в Караван-сарае в Утесах Сагуса. Его звали... Омахдон.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>"Спасибо за все, что ты сделал, друг".</DefaultText>
+      <FemaleText>"Спасибо за все, что ты сделала, подруга".</FemaleText>
+    </Entry>
+  </Entries>
+</StringTableFile>

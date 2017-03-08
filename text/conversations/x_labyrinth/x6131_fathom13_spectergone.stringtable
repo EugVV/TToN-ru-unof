@@ -1,0 +1,145 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\x_labyrinth\x6131_fathom13_spectergone</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>27</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>Видимо, теперь мы враги. В ее голосе появились знакомые нотки иронии. Вполне возможно, она так шутит, сложно сказать.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>Создатель! Для меня честь служить тебе.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>Откуда мне знать, что ты — это он. Он пренебрежительно машет рукой. "Да мне и все равно".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>Значит... Ты Меняющийся Бог. Я так и думал с самого начала. Каллистеж пыталась меня переубедить. Он фыркает. "Жаль, что ее с нами нет, и она не узнает, насколько я был прав".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>Она приподнимает брови. "Значит... Теперь ты — это *он*? Или нет?" Она качает головой. "Вот что я скажу: путешествовать с тобой было одновременно интересно и странно".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>Ничего себе! Я под *впечатлением*. Но давайте уже с этим покончим.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>Так значит... Ты теперь злодей или... Смотрите-ка! Осталась последняя дверь!</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>Это было странно, и не отрицай. Пойдем. Пора положить этому конец.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>Тут становится все страннее и страннее. То же самое можно и о тебе сказать.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText>Я все тот же человек, Алигерн. Только у меня теперь есть... виды на будущее.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText>Ты была права. А мне даже в голову не приходило насколько.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>14</ID>
+      <DefaultText>Если это имеет значение, прошу прощения за его... Мои действия.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>17</ID>
+      <DefaultText>Полагаю, это не имеет значения. Путешествие с тобой было полезным. Ты ничего, кем бы ни был. Он отворачивается от вас и откашливается. "Кажется, нам надо еще кое-что уладить. Пойдем. Вместе справимся".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>18</ID>
+      <DefaultText>Он с опаской смотрит на вас. "Правда всегда всплывает. Так или иначе".
+
+Он одергивает пальто. "Пойдем. Мы почти закончили".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>21</ID>
+      <DefaultText>Доведем дело до конца.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>22</ID>
+      <DefaultText>Я столько лет представлял себе этот день. Он оказался именно таким, как я и предполагал. Даже лучше. Спасибо.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>23</ID>
+      <DefaultText>Получилось! Он исчез. Она издает короткий смешок. "Тебе удалось то, чего я бы никогда не добилась. Наверное, я должна сказать "спасибо".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>24</ID>
+      <DefaultText>Может, ты и лучше, чем я себе представлял. Но не буду торопиться с выводами.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>25</ID>
+      <DefaultText>Так это правда? Наш создатель все это время был мертв? Он внимательно смотрит на вас. "Похоже, нам с тобой больше не о чем спорить".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>26</ID>
+      <DefaultText>Я никогда... Никогда не думала, что он действительно умрет. И теперь даже не знаю, что чувствовать по этому поводу.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>28</ID>
+      <DefaultText>Мы победили! Да?</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>31</ID>
+      <DefaultText>А разве есть разница, Алигерн? Ты хочешь начать все сначала?</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>32</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>33</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>34</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

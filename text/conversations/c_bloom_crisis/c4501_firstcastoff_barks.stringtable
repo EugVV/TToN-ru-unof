@@ -1,0 +1,148 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\c_bloom_crisis\c4501_firstcastoff_barks</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>28</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>"Тогда, давай же! Я готова встретиться с тобой!"</DefaultText>
+      <FemaleText>«Тогда, давай же! Я готова встретиться с тобой!»</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>"Черт возьми. *Черт возьми*!"</DefaultText>
+      <FemaleText>«Черт возьми. *Черт возьми*!»</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>"Мазоф! Поспеши!"</DefaultText>
+      <FemaleText>"Мазоф! Поспеши!"</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>"Активируй камеру, Мазоф! Верни меня... обратно..."</DefaultText>
+      <FemaleText>«Активируй камеру, Мазоф! Верни меня... обратно...»</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>"Ты предаешь *меня*? У тебя есть стержень, я дам тебе это".</DefaultText>
+      <FemaleText>«Ты предаешь *меня*? У тебя есть позвоночник, я дам тебе это».</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>"За это ты умрешь".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>"Сейчас? Ты набросишься на меня *сейчас*?</DefaultText>
+      <FemaleText>«Сейчас? Ты набросишься на меня *сейчас*?</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>"Хватит уже. Иди *сюда*".</DefaultText>
+      <FemaleText>«Хватит уже. Иди *сюда*».</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText>"Да. *Да*. В конце концов!"</DefaultText>
+      <FemaleText>«Да. *Да*. В конце концов!»</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText>"Это *моё*".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>14</ID>
+      <DefaultText>"О, это *все*, о чем я мечтал".</DefaultText>
+      <FemaleText>«О, это *все*, о чем я мечтал».</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>15</ID>
+      <DefaultText>"Н-нет. Нет!"</DefaultText>
+      <FemaleText>«Н-нет. Нет!»</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>16</ID>
+      <DefaultText>"Это не первая моя смерть. Не сотая. Попытайся *сильнее*".</DefaultText>
+      <FemaleText>«Это не первая моя смерть. Не сотая. Попытайся *сильнее*».</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>17</ID>
+      <DefaultText>"Вот ты *где*".</DefaultText>
+      <FemaleText>"Вот ты *где*".</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>18</ID>
+      <DefaultText>"Жалит, не правда ли? Чтобы быть слабым. Беспомощным".</DefaultText>
+      <FemaleText>«Жалит, не правда ли? Чтобы быть слабым. Беспомощным».</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>19</ID>
+      <DefaultText>"Это... это не убило тебя? Камера работает!"</DefaultText>
+      <FemaleText>«Это... это не убило тебя? Камера работает!»</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>20</ID>
+      <DefaultText>"Ты не получишь меня. Сперва, я сотру тебя с лица этого мира!"</DefaultText>
+      <FemaleText>«Ты не получишь меня. Сперва, я сотру тебя с лица этого мира!»</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>21</ID>
+      <DefaultText>"Я не боюсь тебя. Ты не похож на *него*".</DefaultText>
+      <FemaleText>«Я не боюсь тебя. Ты не похож на *него*».</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>22</ID>
+      <DefaultText>"Прочь от меня!"</DefaultText>
+      <FemaleText>"Прочь от меня".</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>24</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>25</ID>
+      <DefaultText>"Она идет сейчас. Я надеюсь, ты удовлетворен. Мы все умрем здесь!"</DefaultText>
+      <FemaleText>«Она идет сейчас. Я надеюсь, ты удовлетворен. Мы все умрем здесь!»</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>26</ID>
+      <DefaultText>"Ты чувствуешь это? Порывы ветра? Пальцы на твоем горле? Скорбь идет".</DefaultText>
+      <FemaleText>«Ты чувствуешь это? Порывы ветра? Пальцы на твоем горле? Скорбь идет».</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>27</ID>
+      <DefaultText>"Тебе не удастся скрыться от нее, не так ли?"</DefaultText>
+      <FemaleText>«Тебе не удастся скрыться от ее, не так ли?»</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>28</ID>
+      <DefaultText>"Не сейчас!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>29</ID>
+      <DefaultText>"Ч-что-то не так. Что ты сделал?"</DefaultText>
+      <FemaleText>«Ч-что-то не так. Что ты сделал?"</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>30</ID>
+      <DefaultText>"Посмотрим, кровоточишь ли ты".</DefaultText>
+      <FemaleText>"Посмотрим, если вы кровоточить".</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>32</ID>
+      <DefaultText>"Я почти готов!"</DefaultText>
+      <FemaleText>«Я почти готов!»</FemaleText>
+    </Entry>
+  </Entries>
+</StringTableFile>

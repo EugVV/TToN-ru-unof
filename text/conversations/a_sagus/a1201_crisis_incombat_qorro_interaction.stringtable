@@ -1,0 +1,172 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\a_sagus\a1201_crisis_incombat_qorro_interaction</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>32</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>"Валите их", — кричит своим напарникам Корро. — "Нам нужна Падающая Звезда!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>"Валите их", — кричит своим напарникам Корро. — "Нам нужна Падающая Звезда!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>"Никаких больше разговоров. Я уже достаточно знаком с одним из вас".</DefaultText>
+      <FemaleText>"Никаких больше разговоров. Я уже достаточно знаком с одной из вас".</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>Оставить его в покое.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>Оставить его в покое.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>14</ID>
+      <DefaultText>Рассказать ему, что он и его друзья могут погибнуть.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>16</ID>
+      <DefaultText>"Корро, дорогуша, это глупо: тебе не могли заплатить столько, чтобы ты дрался с возрождающимся отверженным и *мной*".</DefaultText>
+      <FemaleText>"Корро, дорогуша, это глупо: тебе не могли заплатить столько, чтобы ты дрался с возрождающейся отверженной и *мной*".</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>17</ID>
+      <DefaultText>"Корро, дорогуша, это глупо: ты станешь рисковать собственной жизнью и нашей дружбой за пригоршню шинов?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>21</ID>
+      <DefaultText>"Не волнуйся, Кал, мы не станем впутывать в это тебя".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>22</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>23</ID>
+      <DefaultText>Корро смотрит на вас и ваших спутников другими глазами. Вы буквально видите, как желание драться уходит из него: "Да, пожалуй, ты права на этот счет, Кал".
+
+Он кричит своим напарникам: "Нам не платили, чтобы мы дрались насмерть. Предоставим этих исследователей самим себе".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>24</ID>
+      <DefaultText>Корро на секунду опускает свой арбалет: "Ты права, Кал: мы слишком давно знакомы, чтобы убивать друг друга".
+
+Он поворачивается к своим напарникам: "Не трогайте Кал, но хватайте Падающую Звезду!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>29</ID>
+      <DefaultText>Напомнить ему, что он сражается с тем, кто упал с неба и *выжил*. Ему не победить.</DefaultText>
+      <FemaleText>Напомнить ему, что он сражается с той, что упала с неба и *выжила*. Ему не победить.</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>30</ID>
+      <DefaultText>"Издержки профессии", — он напускает на себя беспечный вид, но лицо выдает овладевший им страх. — "И вообще, поздно оправдываться: начатое нужно заканчивать".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>31</ID>
+      <DefaultText>"Ха! Пытаешься меня запугать? Из всех вас я боюсь только Кал, и то лишь потому, что ее так много", — он озорно ухмыляется Каллистеж.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>32</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>33</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>34</ID>
+      <DefaultText>"Валите их, *живо*!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>35</ID>
+      <DefaultText>"Двадцать шинов тому, кто завалит Падающую Звезду!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>36</ID>
+      <DefaultText>"Видимо, я тут размахиваю этой палкой ради смеха!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>37</ID>
+      <DefaultText>"*Тебе* уж точно хватит ума понять, что не стоит рисковать своей жизнью".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>38</ID>
+      <DefaultText>"Я не *это* имела в виду".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>39</ID>
+      <DefaultText>"Чертовски удобно, однако... для *тебя*".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>40</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

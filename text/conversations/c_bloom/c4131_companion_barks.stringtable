@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\c_bloom\c4131_companion_barks</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>17</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>"Здесь... сдавлено немного. Зато выдуватель мыльных пузырей работает как надо".</DefaultText>
+      <FemaleText>"Здесь... сдавлено немного. Зато выдуватель мыльных пузырей работает как надо".</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>"Я человек необразованный, но наука меня всегда привлекала".</DefaultText>
+      <FemaleText>"Я человек необразованный, но наука меня всегда привлекала".</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>"И что делает эта штуковина?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>"Не трогай!"</DefaultText>
+      <FemaleText>"Не трогай!"</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>"Ой! Прошу прощения, профессор".</DefaultText>
+      <FemaleText>"Ой! Прошу прощения, профессор".</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>"Это уникальная вещь, да?"</DefaultText>
+      <FemaleText>"Это уникальная вещь, да?"</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>14</ID>
+      <DefaultText>"Что это? Еще один? Неужели ты хочешь бросить мне вызов, друг? Я слишком стар для этого. Я..."</DefaultText>
+      <FemaleText>"Что это? Еще один? Неужели ты хочешь бросить мне вызов, друг? Я слишком стар для этого. Я..."</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>15</ID>
+      <DefaultText>"Хм. это работает?"</DefaultText>
+      <FemaleText>"Хм. это работает?"</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>16</ID>
+      <DefaultText>"Что это? Хмм, точно такой же есть еще за пределами логова Мемовиры. Рвется в драку с каждым, кого видит..."</DefaultText>
+      <FemaleText>"Что это? Хмм, точно такой же есть еще за пределами логова Мемовиры. Рвется в драку с каждым, кого видит..."</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>17</ID>
+      <DefaultText>"Этот воинственным не кажется".</DefaultText>
+      <FemaleText>"Этот воинственным не кажется".</FemaleText>
+    </Entry>
+  </Entries>
+</StringTableFile>

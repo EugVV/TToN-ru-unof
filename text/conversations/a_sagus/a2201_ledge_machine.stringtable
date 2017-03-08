@@ -1,0 +1,261 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\a_sagus\a2201_ledge_machine</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>50</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>Когда вы приближаетесь к этой странной машине, слабое гудение превращается в ритмичное жужжание бура.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>Машина по-прежнему вмурована в поверхность утеса. Вы слышите, как внутри вращается и хлюпает жидкость.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>Изучить устройство.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>Почти всю переднюю часть устройства занимает овальное отверстие, обшитое металлической проволочной сеткой, через которую вам замечаете, как внутри вращается какая-то жидкость. Сверху на машине расположены полупрозрачный купол и ярко освещенная сфера.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>Изучить проволочную сетку.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText>Оказывается, сетка закрывает доступ к жидкости, болтающейся внутри устройства. Но, по-видимому, любопытство в ком-то взяло верх, поскольку в нижней части сетки аккуратно прорезана полоска. Размеров вырезанного отверстия примерно хватает для того, чтобы просунуть внутрь руку.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>15</ID>
+      <DefaultText>Изучить купол.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>16</ID>
+      <DefaultText>При ближайшем рассмотрении вы замечаете, что внутри купола находится что-то похожее на человеческий мозг, только в несколько раз больший по размеру. Он спокойно плавает внутри сосуда, изредка пульсируя, но вы не знаете, как с ним можно взаимодействовать.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>17</ID>
+      <DefaultText>Изучить сферу.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>18</ID>
+      <DefaultText>Светящаяся сфера оказывается прочно прикрепленной к машине. Когда вы подносите руки ближе, свет меркнет.
+
+Вы несколько секунд водите руками вокруг сферы и наконец понимаете, что ее свет тускнеет, когда ваша рука оказывается рядом с неподвижной точкой точно в передней ее части.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>19</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20</ID>
+      <DefaultText>Постучать по куполу.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>21</ID>
+      <DefaultText>Постучать по куполу еще раз.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>23</ID>
+      <DefaultText>Провести рукой перед сферой.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>24</ID>
+      <DefaultText>Еще раз провести рукой перед сферой.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>26</ID>
+      <DefaultText>Свет сферы тускнеет, а затем снова разгорается, когда ваша рука завершает движение. Изнутри машины доносится приглушенный звук сливаемой жидкости.
+Непрерывное жужжание машины прекратилось.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>27</ID>
+      <DefaultText>Свет сферы тускнеет и разгорается, как обычно, но, кроме раздающегося сухого щелчка, ничего больше не происходит.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>28</ID>
+      <DefaultText>Свет сферы тускнеет и разгорается, сопровождаемый тем же звуком сливающейся жидкости, что и прежде.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>29</ID>
+      <DefaultText>Постучать по куполу еще раз.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30</ID>
+      <DefaultText>Вы легонько стучите по куполу, отчего находящийся внутри мозг слегка дергается. Больше, однако, ничего не происходит.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>31</ID>
+      <DefaultText>Вы легонько стучите по куполу, отчего находящийся внутри мозг слегка дергается. Изнутри устройства вырывается свистящий звук, а затем оно вновь принимается ритмично жужжать.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>32</ID>
+      <DefaultText>Вы стучите по куполу еще раз, и мозг снова реагирует. Но, помимо мучений, которые вы, вероятно, причиняете заключенному внутри органу, вы больше ничего не добиваетесь.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>33</ID>
+      <DefaultText>Вы стучите по куполу еще раз. Мозг дергается, а затем изнутри устройства вновь доносится звук стремительно текущей жидкости.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>34</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>35</ID>
+      <DefaultText>Просунуть руку в отверстие.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>36</ID>
+      <DefaultText>Просунуть руку в отверстие еще раз.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>37</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>38</ID>
+      <DefaultText>Ваша рука тут же погружается в маслянистую жидкость. Вы шарите по ней во все стороны, но ничего не находите.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>39</ID>
+      <DefaultText>Вы снова шарите рукой по маслянистой жидкости. Это действует успокаивающе, но больше ничего не происходит.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>40</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>41</ID>
+      <DefaultText>Ваша рука хватает лишь воздух. Стенки внутреннего резервуара еще скользкие от находившейся в нем прежде жидкости.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>42</ID>
+      <DefaultText>Вы быстро убеждаетесь, что резервуар по-прежнему пуст.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>43</ID>
+      <DefaultText>Когда вы просовываете руку сквозь дыру в сетке, она со всплеском погружается в маслянистую жидкость. Вы принимаетесь шарить внутри и тут же натыкаетесь на что-то твердое. Вы ощупываете этот предмет, но схватить его оказывается непросто.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>44</ID>
+      <DefaultText>Оставить машину в покое.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>45</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>46</ID>
+      <DefaultText>Попытаться схватить плавающий в жидкости предмет.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>47</ID>
+      <DefaultText>Еще раз попытаться схватить плавающий в жидкости предмет.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>48</ID>
+      <DefaultText>После нескольких неудачных попыток вам удается крепко ухватиться за этот предмет и вытащить его из машины.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>49</ID>
+      <DefaultText>Вы никак не можете вытащить этот предмет из резервуара с жидкостью. Несколько раз вам это почти удается, но всякий раз он выскальзывает из вашей руки.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>50</ID>
+      <DefaultText>Машина вмурована в ближайшую скалу, а вокруг лишь зловещая тишина. Вы слышите только легкий свист ветра, проносящегося по поверхности утеса.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>51</ID>
+      <DefaultText>Ваша рука снова со всплеском погружается в маслянистую жидкость, и почти сразу же вы чувствуете прикосновение чего-то твердого. Предмет тут же отскакивает в сторону, из чего вы делаете вывод, что он свободно плавает в жидкости. Вы ощупываете этот предмет, но схватить его оказывается непросто.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>52</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>53</ID>
+      <DefaultText>Вы шарите рукой по маслянистой жидкости и спустя несколько секунд на что-то натыкаетесь. В жидкости определенно что-то плавает.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>54</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>55</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>56</ID>
+      <DefaultText>Вы стучите по куполу еще раз. Мозг дергается, а затем изнутри устройства вновь доносится звук стремительно текущей жидкости.</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

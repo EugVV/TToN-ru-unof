@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\a_sagus\a1101_astb0_introduction</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>2</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>[Thank you for participating in the second Alpha Systems Test for Torment: Tides of Numenera, exclusive to you as one of our Alpha Systems Testers. Your feedback will help us make this game great.]
+
+[The focus of this test is on basic exploration gameplay. You start here with two companions (you'll have more choices in the final game), two scenes to explore, and a variety of objects to interact with.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>[The story picks up some time after the previous Systems Test. You have awakened from your fall and met Aligern and Callistege, your two companions, and already spoken to them about your quest to fix the resonance chamber — the crystal chamber in this room.]
+
+[You can speak to your companions by clicking on them, or by mousing over their portraits and selecting the dialogue button. Watch for a notification icon when they have something specific to say to you.]</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

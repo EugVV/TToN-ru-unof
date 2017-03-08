@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\c_bloom\c4301_mutant_near_maw_01</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>4</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>"Интересно, что привлекает эту Пасть. Может быть, высокомерие... или зеленый цвет... или девочки с оленьими рогами".</DefaultText>
+      <FemaleText>"Интересно, что привлекает эти Пасти. Может быть, высокомерие... или зеленый цвет... или девочки с оленьими рогами".</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>"Больше не надо гадать, что привлекает эту Пасть, фууу!"</DefaultText>
+      <FemaleText>"Больше не надо гадать, что привлекает эти Пасти, фууу!"</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>"Я не знаю, *что* привлекает Пасть, но я не собираюсь подходить к ним близко".</DefaultText>
+      <FemaleText>"Я не знаю, *что* привлекает Пасти, но я не собираюсь подходить к ним близко".</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>"Я наблюдал, как открывается Пасть... но лучше бы я этого не видел".</DefaultText>
+      <FemaleText>"Я наблюдал, как открываются Пасти... но лучше бы я этого не видел".</FemaleText>
+    </Entry>
+  </Entries>
+</StringTableFile>

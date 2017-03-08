@@ -1,0 +1,272 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\x_labyrinth\x6111_endfathom_fcobreakup_the_first_devoured</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>50</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>Первая продолжает ходить взад-вперед и бормочет себе под нос, не понимая, где она и *кто* она.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>"Что с тобой случилось?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>"Скажи мне еще раз, что с тобой случилось?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>"Ты — Первая Отверженная".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText>"Как уже сказано, ты —Первая Отверженная".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>14</ID>
+      <DefaultText>"Что это за место?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>15</ID>
+      <DefaultText>"Расскажи мне об этом месте еще раз".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>16</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>17</ID>
+      <DefaultText>"А кто второй?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>18</ID>
+      <DefaultText>"Почему здесь Меняющийся Бог?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>19</ID>
+      <DefaultText>"Ни слова больше. Прощай".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>21</ID>
+      <DefaultText>"Что случилось в этой лаборатории?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>22</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>23</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>24</ID>
+      <DefaultText>Она ненадолго сосредотачивается на вас, всеми силами стараясь не упустить вас из виду. "Цветение. Я видела Цветение. Я была в его сердце, в самом его центре, а потом... Потом я стала... Ничем. И затем очутилась здесь. Что случилось? Постойте-ка. Цветение поглотило меня? Что же? Неужели я так поступила с предыдущим Мемовирой? О, нет. Нет..." 
+
+Она замолкает. "Кто ты? Откуда ты? Постойте-ка. Кто *я*?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>25</ID>
+      <DefaultText>"Я была в моей крепости. Сражалась со Скорбью. Явилось Цветение. И потом я оказалась... здесь. В собственных воспоминаниях".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>26</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>27</ID>
+      <DefaultText>"Я... да. Это я. У Черной Тройки. Но воспоминания расплывчаты. Они ускользают от меня. Слушай!"
+
+Она тянет к вам руки, но они проходят сквозь вас, оставляя после себя прохладу. "Я была далеко не первой Первой. Не была. Я взяла это имя у той, кого убила, и все это время создатель не догадывался об этом. Он даже не отдавал себе отчета в том, что я не первое его тело. Настолько сильно ему плевать на нас".
+
+Она горько смеется. "Я ненавижу его... Но и ненависть моя улетучивается с каждой секундой".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>28</ID>
+      <DefaultText>"Я? Нет, это не про меня. Я не первая. Не Первая. Уже нет. Теперь я... Исчезающая".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>29</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30</ID>
+      <DefaultText>"Это... лаборатория. Одна из многих. Принадлежала тому, кто меня создал, Меняющемуся Богу. Он экспериментировал с Потоками. То устройство... было... Не могу вспомнить. Но это была его лаборатория". В ее глазах читается дикое отчаянное желание разобраться в собственной памяти.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>31</ID>
+      <DefaultText>"Это было... Похоже на лабораторию. Больше ничего не могу сказать. Я ни в чем не уверена. Это было... А кто ты?" Она отворачивается и тут же совершенно забывает о вас.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>32</ID>
+      <DefaultText>"Никто никуда не пойдет, пока я не узнаю... Ой, а что я хотела узнать?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>33</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>34</ID>
+      <DefaultText>"Это? Это Андрон. Я украла его у Меняющегося Бога. Раскрыла ему настоящий план создателя. А для Меняющегося Бога ожидание было оскорблением. Нет. Это Меняющийся Бог. Это тело, с помощью которого он объяснил мне, что любого отверженного можно заменить. Поэтому я подружилась с Андроном. Хотела показать отцу, что все его дети сплотились против него".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>35</ID>
+      <DefaultText>Она оглядывается, задерживаясь взглядом на образе Меняющегося Бога. "Это он? Я была... Зла на него. Когда-то я помнила, за что. Но я еще вспомню. Я поговорю с ним... через секунду".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>36</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>37</ID>
+      <DefaultText>"Здесь он отказался дать мне новое тело, отказался признать меня чем-то большим, чем потерянный кусочек себя. Это место нашей битвы. Здесь он сказал, что объединит нас всех в своем разуме. Что мы, на самом деле, не живем вне его. Здесь началась Бесконечная Битва. Именно здесь я заявила этому высокомерному эгоистичному ублюдку, что мы *будем* жить без него, и что я буду противостоять ему каждой клеточкой..." 
+
+Она моргает и осматривается. "Кто ты?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>38</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>39</ID>
+      <DefaultText>Первая шагает взад-вперед, яростно высказывая что-то невидимому врагу. Она поднимает руки, трясет ими, беззвучно что-то говорит, но потом оглядывается, и вы видите, что ее покидают воспоминания. Она ненадолго замирает, но потом снова разражается безмолвным гневом.
+
+Она то проявляется, то исчезает из видимости, словно прозрачный кристалл под разными углами зрения.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>40</ID>
+      <DefaultText>Она очередная жертва Цветения. Еще одна Мемовира, погибшая от его ненасытного голода.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>41</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>42</ID>
+      <DefaultText>"Это место — часть *твоих* воспоминаний. *Ты* можешь открыть здесь портал".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>43</ID>
+      <DefaultText>"Ты знаешь, как отсюда выбраться?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>44</ID>
+      <DefaultText>"Дверь..." Она умолкает, показывая на каменную стену. "Нет, она... была где-то еще".
+
+Она качает головой. "Я не знаю".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>45</ID>
+      <DefaultText>"Мое... Да. Теперь это место *мое*". Она выпрямляется и показывает пальцем в лицо Андрона. "Ты больше не будешь надо мной смеяться!"
+
+С этими словами за ним открывается портал. Она не двигается и все еще показывает на Андрона, Меняющегося Бога.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>46</ID>
+      <DefaultText>Спустя некоторое время ее взгляд затуманивается. Ее губы дрожат, будто она пытается что-то сказать. Затем она поворачивается и проходит *сквозь* вас, словно вас там нет.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>47</ID>
+      <DefaultText>"Он не отберет у меня это... отберет это... это..."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>48</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>49</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>50</ID>
+      <DefaultText>"Эгоистичная сволочь! И кем он себя возомнил?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>51</ID>
+      <DefaultText>"Я выбью из него секреты, если потребуется. Если *потребуется*".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>52</ID>
+      <DefaultText>"Я обрушу небо на его голову! Я поверну всю землю против него!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>53</ID>
+      <DefaultText>"Почему я не могу *вспомнить*? Почему я не могу *почувствовать*?!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>54</ID>
+      <DefaultText>"Не могу выразить, насколько приятно видеть ее такой. Как раз этого она и заслуживает".</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

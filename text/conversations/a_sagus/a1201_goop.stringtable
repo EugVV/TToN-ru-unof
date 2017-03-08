@@ -1,0 +1,205 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\a_sagus\a1201_goop</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>36</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>По поверхности воды плывет булькающая грязевая масса. Время от времени от нее отделяются маслянистые комки и со свистом улетают в небо.
+
+Вы замечаете мелькание какого-то покрытого грязью предмета на поверхности этой отвратительной жижи.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>::воющий звук::</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>Из грязи поднимаются жирные пузыри и устремляются в небо. Вы все еще видите очертания покрытого грязью предмета, застрявшего в мутной массе.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>Попытаться вытащить застрявший в грязи предмет.
+{CRIT}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>Уйти.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>Вы готовитесь к моменту, когда на полосатую поверхность предмета вновь попадет солнечный свет. Вы выхватываете его из маслянистой жижи и тщательно очищаете. 
+
+{LOOT}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>Вы тянетесь за предметом, но ошибаетесь, теряете равновесие и падаете в блестящую грязевую массу. 
+
+{SCRIPT: Apply a fettle that has a -1 penalty to the player's Speed Edge but also gives a small bonus to Armor.}
+{SOUND: Player falls into the big blob of black, tarry sludge. (If you're not sure where it is in game, let us know.)}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>Легким непринужденным движением вы вытаскиваете блестящий предмет, застрявший в дегтеобразной массе, и тщательно очищаете. 
+
+{LOOT}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>Вы неуклюже тянетесь к предмету, поскальзываетесь и кубарем плюхаетесь в блестящую грязевую массу. 
+
+{SCRIPT: Apply a fettle that has a -1 penalty to the player's Speed Edge but also gives a small bonus to Armor.}
+{SOUND: Player falls into the big blob of black, tarry sludge. (If you're not sure where it is in game, let us know.)}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText>"Сколько же часов ты будешь очищать эту грязь? С таким талантом, дорогуша, легче отрастить новую кожу".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText>"Эта грязь воняет, как меркадианское дерьмо", — говорит Алигерн, ухмыляясь. — "Ну и удовольствие с тобой путешествовать, пока эта дрянь не отвалится".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>16</ID>
+      <DefaultText>Осмотреть грязь.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>17</ID>
+      <DefaultText>Далеко за водой вы обнаруживаете широкую темную лужу грязи.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>18</ID>
+      <DefaultText>Осторожно вы тянетесь ближе к вспучивающейся массе. После непродолжительного изучения вы замечаете, что в поднимающихся шарах есть *что-то*, похожее на сверкающие капли чистой морской воды или на маленьких рыбок.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>19</ID>
+      <DefaultText>Addend. 19</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20</ID>
+      <DefaultText>Грязевые потоки движутся по цикличной схеме, что наводит на мысль скорее о функционировании механизма, нежели об органической жизни.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>23</ID>
+      <DefaultText>"Я не уверена, безопасна ли эта отвратительная грязь или тебе сказочно повезло. В любом случае, продолжай в том же духе, дорогуша. Это довольно забавно".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>24</ID>
+      <DefaultText>"Знаешь, большинство людей предпочитают не совать руки в вонючую грязь, но тебя это, похоже, не касается. По крайней мере, в этот раз".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>25</ID>
+      <DefaultText>Изогнувшись, вам удается вырваться из грязи, прежде чем безнадежно застрять в пучине. Тяжело дыша и сбрасывая с себя куски грязи обратно в воду, вы замечаете, что предмет исчез. Должно быть, он утонул во время твоего падения. 
+
+Ваше тело теперь покрыто густым блестящим слоем серой грязи. С другой стороны, он будет функционировать как дополнительная защита... по крайней мере, какое-то время.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>28</ID>
+      <DefaultText>"Большинство людей не ждут, когда грязь отслоится, дорогуша. Они принимают *ванну*. И пока вокруг тебя витает столь чарующий запах, ты не в том положении, чтобы указывать на что-то своими вонючими пальцами".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>32</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>33</ID>
+      <DefaultText>Искать другие предметы.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>34</ID>
+      <DefaultText>Подождать, пока на поверхности покажется больше странных предметов.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>35</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>36</ID>
+      <DefaultText>Вы не обнаруживаете других предметов в булькающей массе.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>37</ID>
+      <DefaultText>Проходят минуты, и вы терпеливо ждете рядом с лужей грязи. Ничего не показывается.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>38</ID>
+      <DefaultText>Наконец, ваше терпение вознаграждается, и на поверхность всплывает необычный предмет. Вы хватаете его, прежде чем он снова исчезнет.
+
+{LOOT}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>39</ID>
+      <DefaultText>"Только посмотри! У малыша есть терпение".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>40</ID>
+      <DefaultText>"Ты нашел настоящее грязное сокровище! Молодчина, дорогуша!"</DefaultText>
+      <FemaleText>"Ты нашла настоящее грязное сокровище! Молодчина, дорогуша!"</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>41</ID>
+      <DefaultText>"Может быть, это мое влияние", — сладко говорит Каллистеж. — "Явно не твое".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>43</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>44</ID>
+      <DefaultText>Вы видите только грязь и ничего кроме грязи.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>45</ID>
+      <DefaultText>Из мутной грязи поднимаются жирные пузыри и устремляются в небо. Предмет, замеченный вами в грязи, исчез без следа.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>46</ID>
+      <DefaultText>"Тебе повезло, малыш, но ты больше ничего не найдешь. Если бы это было так просто, то любители копаться в грязи уже сидели бы здесь по 28 часов в день".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>47</ID>
+      <DefaultText>Вы терпеливо наблюдаете, но больше ничего не появляется.</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

@@ -1,0 +1,431 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\a_sagus\a2101_horrified_man</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>79</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>Человек в ужасе смотрит на казнь, не в силах отвернуться: "Ни одно преступление не заслуживает подобной кары... Сама эта казнь — преступление!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>"Какое зверство!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>"Я-то думал, тут приличный город!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>"Что они делают с этим беднягой?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>"Сделайте же что-нибудь!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>"Какой ужас! Ужас!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>16</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>17</ID>
+      <DefaultText>"Этот ужас припугнет остальных преступников".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>18</ID>
+      <DefaultText>"Прощай".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>19</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>21</ID>
+      <DefaultText>"Прощай".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>22</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>23</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>24</ID>
+      <DefaultText>Мужчина выглядит поникшим: "Друг мой, я трус. Всегда был трусом, но... ты прав. Если человек не способен постоять за свои убеждения, то человек ли он?"
+
+Он сглатывает и кивает: "Я помогу тебе. Во имя справедливости!"</DefaultText>
+      <FemaleText>Мужчина выглядит поникшим: "Друг мой, я трус. Всегда был трусом, но... ты права. Если человек не способен постоять за свои убеждения, то человек ли он?"
+
+Он сглатывает и кивает: "Я помогу тебе. Во имя справедливости!"</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>25</ID>
+      <DefaultText>"Остановите это зверство!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>26</ID>
+      <DefaultText>"Я готова".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>27</ID>
+      <DefaultText>"Остановите это зверство!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>28</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>29</ID>
+      <DefaultText>Мужчина выглядит поникшим: "Друг мой, я трус. Всегда был трусом, но... ты прав. Если человек не способен постоять за свои убеждения, то человек ли он?"
+
+Он сглатывает и кивает: "Я помогу тебе".</DefaultText>
+      <FemaleText>Мужчина выглядит поникшим: "Друг мой, я трус. Всегда был трусом, но... ты права. Если человек не способен постоять за свои убеждения, то человек ли он?"
+
+Он сглатывает и кивает: "Я помогу тебе".</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>30</ID>
+      <DefaultText>"Спасибо за науку! Я изменился к лучшему".
+
+{SCRIPT: Give the PC some DP?}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>31</ID>
+      <DefaultText>Мужчина выглядит поникшим: "Друг мой, я трус. Всегда был трусом, но... ты прав. Если человек не способен постоять за свои убеждения, то человек ли он?"
+
+Он сглатывает и кивает: "Я помогу тебе".</DefaultText>
+      <FemaleText>Мужчина выглядит поникшим: "Друг мой, я трус. Всегда был трусом, но... ты права. Если человек не способен постоять за свои убеждения, то человек ли он?"
+
+Он сглатывает и кивает: "Я помогу тебе".</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>32</ID>
+      <DefaultText>Мужчина выглядит поникшим: "Друг мой, я трус. Всегда был трусом. Я и рад бы набраться смелости, да не могу... Прости".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>33</ID>
+      <DefaultText>Его страх и неуверенность невыносимы. Внутри вас растет волна гнева, и вы понимаете, что можете взять чувства под контроль и заставить этого человека — *да и всю толпу* — потребовать освобождения Риса. Всего-то надо *поднажать*.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>34</ID>
+      <DefaultText>Раззадорить толпу. *Потребовать* освобождения Риса.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>35</ID>
+      <DefaultText>Чувства внутри вас растут. Вы формируете из них комок праведного гнева и выпускаете его, позволив ему распространиться от вас во все стороны.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>36</ID>
+      <DefaultText>Невидимая сила ударяет людей в толпе, и они шатаются. Сжимаются кулаки, глаза начинают блестеть.
+
+Мужчина впереди тоже воодушевляется. Он глядит на вас безо всякого страха: "Ты прав! Я не дам страху взять надо мной верх, особенно когда на кону жизнь и разум человека. Я помогу тебе".</DefaultText>
+      <FemaleText>Невидимая сила ударяет людей в толпе, и они шатаются. Сжимаются кулаки, глаза начинают блестеть.
+
+Мужчина впереди тоже воодушевляется. Он глядит на вас безо всякого страха: "Ты права! Я не дам страху взять надо мной верх, особенно когда на кону жизнь и разум человека. Я помогу тебе".</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>37</ID>
+      <DefaultText>Алигерн в ужасе смотрит на вас: "Это *твоя* работа?! Ты навязал свою волю этакой толпе? Ты бессердечный... безмозглый..."
+
+Он отворачивается, дрожа от гнева: "И чего еще было ожидать, в самом деле..."</DefaultText>
+      <FemaleText>Алигерн в ужасе смотрит на вас: "Это *твоя* работа?! Ты навязала свою волю этакой толпе? Ты бессердечная... безмозглая..."
+
+Он отворачивается, дрожа от гнева: "И чего еще было ожидать, в самом деле..."</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>38</ID>
+      <DefaultText>Тибир в восторге качает головой: "Молодец. Я уж думал, ты его потерял. Не знаю, что произошло, но было похоже на... волшебство".</DefaultText>
+      <FemaleText>Тибир в восторге качает головой: "Молодец. Я уж думал, ты его потеряла. Не знаю, что произошло, но было похоже на... волшебство".</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>39</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>40</ID>
+      <DefaultText>Человек впервые глядит на вас, и, похоже, вы ему не нравитесь: "Пусть это и несправедливо, но ты пытаешься манипулировать мной с какой-то другой целью. Я тебе не поддамся. Отвяжись".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>41</ID>
+      <DefaultText>"Ерунда. Наказание за проступки никого не изменит, а вот поощрение за добрые дела — очень даже. Если бы власти не хотели преступлений, они бы поощряли добропорядочных жителей. А тут просто *зрелище*, развлечение для толпы".
+
+Он вздыхает: "Не будь я таким трусом..."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>42</ID>
+      <DefaultText>"А что если вместе? Мы могли бы воздать городским властям по заслугам".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>43</ID>
+      <DefaultText>"Так-то оно так, да только я боюсь. В другой раз".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>44</ID>
+      <DefaultText>"Ты прав. Нужно это прекратить. Давай вместе положим этому конец!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>45</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>46</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>47</ID>
+      <DefaultText>"Прошу тебя! Действуй, пока у меня не сдали нервы".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>48</ID>
+      <DefaultText>"Не буду я тебе помогать. Отстань от меня".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>49</ID>
+      <DefaultText>Мужчина все наблюдает за казнью: "Это настоящее изуверство. Надо его запретить!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>50</ID>
+      <DefaultText>Мужчина угрюмо кивает: "Да, в другой раз. Когда будет план".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>51</ID>
+      <DefaultText>"В другой раз".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>52</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>53</ID>
+      <DefaultText>Мужчина испуганно смотрит на вас: "Покарать самих карателей? То есть, прервать казнь?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>54</ID>
+      <DefaultText>Мужчина испуганно смотрит на вас: "То есть, это значит, прервать казнь?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>55</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>56</ID>
+      <DefaultText>"Освободить пленника!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>57</ID>
+      <DefaultText>"Справедливости!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>58</ID>
+      <DefaultText>"Отпустить! Отпустить!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>62</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>63</ID>
+      <DefaultText>"Кошмар наяву, хотя называют это казнью", — мужчину передергивает. — "Несчастная жертва вводится в транс, который вынуждает ее описывать свои кошмары. Слова выходят изо рта в виде вервия из плоти, оно обматывается вокруг его тела и медленно сдавливает до смерти".
+
+Он качает головой: "Но унижение продолжается и после смерти. Тело достается Пожирателю Неправых!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>64</ID>
+      <DefaultText>"Самый варварский обычай Утесов Сагуса. Казнь кошмарами, в результате которой жертву удушают и съедают".
+
+Мужчина поджимает губы: "И мы называем себя культурными".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>65</ID>
+      <DefaultText>"Что здесь происходит?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>66</ID>
+      <DefaultText>"Напомните, что тут происходит?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>67</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>68</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>69</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>70</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>71</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>72</ID>
+      <DefaultText>"Да звери они. Любят жестокость".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>73</ID>
+      <DefaultText>"Наша культура их испортила. Сделала из них безмозглых чудовищ, питающихся страхом".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>74</ID>
+      <DefaultText>"Почему все смотрят?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>75</ID>
+      <DefaultText>"Напомните, почему все на это смотрят?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>76</ID>
+      <DefaultText>"Ты говоришь, что такое наказание недопустимо. Но так ли это? Можно ли стоять и смотреть, как закон чинит несправедливость?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>77</ID>
+      <DefaultText>"Ты говоришь, что такое наказание недопустимо. Но так ли это? Можно ли стоять и смотреть, как закон чинит несправедливость?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>78</ID>
+      <DefaultText>"Забудь. Я ничего не говорил".</DefaultText>
+      <FemaleText>"Забудь. Я ничего не говорила".</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>79</ID>
+      <DefaultText>"Это еще как понимать?" — Тибир в восторге качает головой. — "Не знаю, что произошло, но было похоже на... волшебство. Молодец!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>80</ID>
+      <DefaultText>Мужчина странно глядит на вас: "Ладно".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>81</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>82</ID>
+      <DefaultText>"Нужно это прекратить".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>83</ID>
+      <DefaultText>"Нет, такого точно нельзя позволять".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>84</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>85</ID>
+      <DefaultText>"Остановить казнь? Ты серьезно?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>86</ID>
+      <DefaultText>"Разве не опасно прерывать казнь?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>87</ID>
+      <DefaultText>Trigger Conv Node 87</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>88</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>89</ID>
+      <DefaultText>"П-прощай".</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

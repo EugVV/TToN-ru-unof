@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\c_bloom\item_c_the_cure</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>5</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>"Алчный человек всегда испытывает нужду".</DefaultText>
+      <FemaleText>"Алчный человек всегда испытывает нужду".</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>"Странно, но я больше не испытываю ненависти к глупости, которая читается на твоем лице. Лучше сосредоточиться на других, более серьезных вопросах".</DefaultText>
+      <FemaleText>"Странно, но я больше не испытываю ненависти к глупости, которая читается на твоем лице. Лучше сосредоточиться на других, более серьезных вопросах".</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>"Пусть покой начнется с меня".</DefaultText>
+      <FemaleText>"Пусть покой начнется с меня".</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>"Любовь к шинам — вот корень всех зол".</DefaultText>
+      <FemaleText>"Любовь к шинам — вот корень всех зол".</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

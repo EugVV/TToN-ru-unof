@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\c_bloom\c4111_patrolling_guard_01</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>3</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>0</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>"Будь осторожен. Нам платят не за то, чтобы мы защищали туристов".</DefaultText>
+      <FemaleText>"Будь осторожна. Нам платят не за то, чтобы мы защищали туристов".</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>"Браска говорит, что ты не опасен. Мы не причиним тебе вреда".</DefaultText>
+      <FemaleText>"Браска говорит, что ты не опасна. Мы не причиним тебе вреда".</FemaleText>
+    </Entry>
+  </Entries>
+</StringTableFile>

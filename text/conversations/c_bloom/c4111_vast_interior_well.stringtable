@@ -1,0 +1,199 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\c_bloom\c4111_vast_interior_well</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>37</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>Этот бассейн заполнен желтоватой "водой". Широкая полоса вокруг бассейна намокла: по-видимому, люди пьют эту неприятную жидкость… возможно, и купаются в ней.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>Прямо под поверхностью этого возвышения расположен большой резервуар с жидкостью. Вы не видите ничего интересного в его глубинах.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>Отойти от бассейна.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>Под поверхностью бассейна находится большой резервуар с жидкостью. Вы не видите ничего интересного в его глубинах.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>14</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>15</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>16</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>17</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>18</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>19</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20</ID>
+      <DefaultText>Заглянуть в пруд.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>21</ID>
+      <DefaultText>Снова посмотреть в пруд.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>22</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>23</ID>
+      <DefaultText>Вы опять подносите желтую жидкость к губам. Действие предыдущей порции еще не прекратилось, и от новой, скорее всего, будет только хуже...</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>24</ID>
+      <DefaultText>Все равно выпить жидкости.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>25</ID>
+      <DefaultText>Вы снова отпиваете побольше желтоватой "воды". Голоса Цветения становятся громче, заглушают мысли, бешено звенят в ушах. Перед глазами все плывет... вы спотыкаетесь, валитесь на землю, и становится совсем темно.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>26</ID>
+      <DefaultText>Не пить.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>27</ID>
+      <DefaultText>Вы выливаете жидкость обратно в пруд.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>28</ID>
+      <DefaultText>Вы отпиваете желтоватой "воды". Она жирная и кисловатая на вкус, но жажду утоляет. Вы пьете еще...
+
+...и слышите шепот. Сперва он едва различим, но потом становится громче и разделяется на чирикающие голоса Цветения. Голоса жужжат в ушах и в голове. Вы с трудом удерживаете равновесие. Чувства притупляются, но голоса Цветения слышны *четче* прежнего. 
+
+{DP}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>29</ID>
+      <DefaultText>Вы слышите вокруг бессчетные шепоты, хотя ни один из них не раздается в непосредственной близости от бассейна. Большинство из них, кажется, доносятся из других уголков Цветения, но они отдаются "эхом" на этом открытом участке, шипят и щебечут, словно с Цветением ведется тысяча бесед.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30</ID>
+      <DefaultText>Вы замечаете, что здешние голоса стали спокойнее и тише, чем раньше, возможно, благодаря кончине Иоксу. Теперь вы слышите шепоты из других уголков Цветения. Они отдаются "эхом" на этом открытом участке, шипят и щебечут, словно с Цветением ведется тысяча бесед.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>31</ID>
+      <DefaultText>Вы тут же понимаете, что здешние голоса звучат *рассерженно*. Сотни их шипят и кричат с кровожадной яростью, направляя свой гнев на мясистое воспаленное жилище на этой возвышенности.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>32</ID>
+      <DefaultText>Вы снова отпиваете желтоватой "воды", и снова голоса Цветения заполняют ваш разум, притупляя мысли и рефлексы.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>33</ID>
+      <DefaultText>Выпить жидкости.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>34</ID>
+      <DefaultText>Выпить еще жидкости.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>35</ID>
+      <DefaultText>Набрать немного жидкости.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>36</ID>
+      <DefaultText>На краю пруда вы обнаруживаете небольшую бутылку. Вы наполняете ее желтоватой жидкостью.
+
+{LOOT}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>37</ID>
+      <DefaultText>Жирная и кислая жидкость на вкус такая же, как и вода Цветения, которую вы пили во внутреннем дворике Мемовиры. Сделав пару глотков, вы начинаете слышать в голове шепоты Цветения, а ваши мысли и рефлексы замедляются и притупляются.</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

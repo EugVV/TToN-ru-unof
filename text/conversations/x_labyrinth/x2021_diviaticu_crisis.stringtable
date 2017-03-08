@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\x_labyrinth\x2021_diviaticu_crisis</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>20</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>Его руки складываются и распахиваются в спокойных волнообразных движениях, он что-то говорит на языке, которого вы не понимаете. Вокруг его ладоней парят частички света. Его глаза встречаются с вашими: "Это сложная эзотерия, которую я придумал, чтобы защититься от Скорби. Жаль, что я никогда не мог сделать ее достаточно сильной для *этого* создания, но, возможно, она защитит нас здесь".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>Вы наблюдаете за его загадочными жестами и внимательно слушаете его слова. Ритуал очень сложный, но вы начинаете понимать его принцип. Возможно, вы можете помочь ему закончить ритуал быстрее.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>"Нужно уделять основное внимание защите, мой друг".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>Вы наблюдаете за его загадочными жестами и внимательно слушаете его слова. Ритуал очень сложный, но вы начинаете понимать его принцип.
+
+Дивитиаку замечает ваше внимание. "Ты понимаешь? Наверное, ты сможешь помочь. Вдвоем мы можем завершить ритуал быстрее".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>В воздухе, наполненном растущей энергией, нано выполняет сложные и загадочные жесты. Его слова также кажутся лишенными значения.
+
+"Тебе не нужно понимать," — говорит он, поняв ваши мысли. "Иди. Защищай нас, пока я не закончу ритуал".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>Уйти, чтобы выполнить его поручение.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>Follow-up PQ. 9.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>Попытаться повторить жесты Дивитиаку.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>Повторить жесты Дивитиаку еще раз.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>16</ID>
+      <DefaultText>Follow-up PQ. 16</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>17</ID>
+      <DefaultText>Произнести дополнительную строфу для усиления эзотерии.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>18</ID>
+      <DefaultText>Еще раз попытаться произнести дополнительную строфу.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>19</ID>
+      <DefaultText>Ваши руки разрезают воздух, повторяя движения нано. Частички света создают арабеску, соединяющую вас и сверкающую ярче, чем прежде. "Прекрасная эзотерия, не правда ли? Вместе мы скорее сможем закончить ее. Но сейчас удели внимание защите. Я буду продолжать, пока мы не достигнем цели".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20</ID>
+      <DefaultText>По мере того как вы повторяете его жесты, от расцветающей эзотерии отделяется еще один сияющий элемент. "Мы уже почти закончили..."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>21</ID>
+      <DefaultText>Вы пытаетесь подстроиться под движения нано, но его ритм ускользает от вас.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>23</ID>
+      <DefaultText>Слушая магическое заклинание Дивитиаку, вы видите образы слогов, которые он произносит, и объединяете их в мелодию. Когда ваши голоса сливаются, образуется сгусток энергии, который мерцает и переливается. "Спасибо, что ускорил этот процесс. Боюсь, еще одна строка могла бы создать слишком много энергии для меня".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>24</ID>
+      <DefaultText>Вы прислушиваетесь к ритму, чтобы начать свое магическое заклинание, но речь нано трудно понять. Вы не можете помочь.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>25</ID>
+      <DefaultText>Вы пробуете еще раз, но подстроиться под его пение оказывается слишком трудным.</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

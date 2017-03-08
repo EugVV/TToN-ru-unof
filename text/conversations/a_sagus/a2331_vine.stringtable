@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\a_sagus\a2331_vine</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>16</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>Из каменистых стен выползают гладкие серые усики и, разрастаясь, закрывают ближайший проход. Они похожи на металлические, но растут, подобно лозе или плесени. Каждая веточка твердая, но теплая.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>Попытаться найти зерно, из которого растет лоза, и выдернуть его.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>Еще раз попытаться найти зерно, из которого растет лоза, и выдернуть его.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>Попытаться оторвать усик лозы.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>Еще раз попытаться оторвать усик лозы.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>Не подходить к лозе.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>14</ID>
+      <DefaultText>Проведя пальцем по усику, вы замечаете небольшие бороздки, под которыми скрывается зерно лозы. Вы обхватываете это место рукой и тянете. Зерно легко отделяется. Остальные отростки ослабевают и раздвигаются, когда вы проводите зерном рядом с ними, и затем сворачиваются обратно.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>15</ID>
+      <DefaultText>Вы проводите пальцем по всей длине усика, но так и не замечаете изменения структуры, чтобы понять, где находится зерно.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>16</ID>
+      <DefaultText>Из лозы вылетает небольшая искорка.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>17</ID>
+      <DefaultText>Вы упираетесь ногой в каменную стену, хватаете лозу и тянете. Она обрывается. Остальные отростки ослабевают и разделяются, когда вы проводите усиком рядом с ними, и затем сворачиваются обратно.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>18</ID>
+      <DefaultText>Вам не удается как следует схватиться за гладкий усик. Он ни в какую не вырывается.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20</ID>
+      <DefaultText>В отличие от других отростков лозы, ближайший к вам усик отделяется. На его кончике то появляется, то пропадает искра. Будь у вас хитрый план или достаточно силы, вам удалось бы вырвать усик из сплетения отростков.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>21</ID>
+      <DefaultText>Без зерна, отпугивающего отростки, лоза срослась обратно.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>22</ID>
+      <DefaultText>Иссиня-черный усик с искрами, пробегающими на кончике, пробивается из плотной цветущей лозы. Возможно, что вам удастся вырвать его.</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

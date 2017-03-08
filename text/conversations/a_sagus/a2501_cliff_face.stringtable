@@ -1,0 +1,148 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\a_sagus\a2501_cliff_face</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>24</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>Отвесный утес возвышается над отмелью. Его поверхность шероховатая и неровная. На нем достаточно выступов, пригодных для скалолазания, однако вскарабкаться на него не так просто.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>Попробовать забраться на утес.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>Попробовать забраться на утес еще раз.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>Фронтальная поверхность утеса обманчива. Выступы, которые выглядят так, будто они развалятся у вас в руках, остаются крепкими, в то время, как с виду надежные — крошатся, как будто были сделаны из песка. Осторожно планируя свое восхождение, вам удастся пройти весь путь до вершины.
+
+{SOUND: PC climbing, maybe a little extra wind whipping by him.}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>Восхождение кажется вам легким. Вы уже на полпути к вершине, когда внезапно обе ваши ножные опоры одновременно рушатся. Вы в панике хватаетесь за выступающий камень, но он выскользает у вас из рук. Вы приземляетесь с болезненным шлепком на риф внизу.
+
+Могло бы быть и хуже. На этой позитивной ноте, вы думаете, что вы знаете, как забраться на утес и найти лучшие опоры для ног.
+
+{SOUND: PC climbing, then rocks crumbling and the impact of hitting the ledge a few meters below.}
+
+{DAMAGE}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>Уйти.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>Твоя веревка облегчит восхождение. Эта веревка как будто может различать, какие выступы наиболее прочные, и она цепляется за них, как будто у нее есть зубы.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>Приветливый порыв ветра ласкает ваше лицо на вершине утеса.
+
+{SOUND: If there was wind SFX from node 5, then they should change here to be more open since the PC has reached the top.}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>Снова, восхождение кажется легким, пока вы не соскальзываете с опоры и теряете равновесие. Вы снова ударяетесь головой о каменную породу. По крайней мере, все не так плохо, как в первый раз.
+
+{SOUND: PC climbing, then rocks crumbling and the impact of hitting the ledge a few meters below. Same sound as node 6.}
+
+{DAMAGE}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText>Этот отвесный утес выглядит еще более угрожающе сверху, чем он казался снизу. Каменное плато у его основания выглядит крошечным, по сравнению с безграничным океана, который находится внизу за тысячу метров.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>14</ID>
+      <DefaultText>Попробовать спуститься с утеса обратно.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>15</ID>
+      <DefaultText>Попробовать спуститься с утеса снова.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>16</ID>
+      <DefaultText>Попятиться от края.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>17</ID>
+      <DefaultText>Требуется приложить много усилий, чтобы не смотреть вниз. Вы намерены преодолеть утес за один раз. Вы не успеваете оглянуться, как вы уже достигнули подножия.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>18</ID>
+      <DefaultText>Вы склоняетесь над краем и начинаете крутой спуск. Когда вы останавливаетесь, чтобы понять, сколько вам еще предстоит пройти, у вас внезапно начинает кружиться голова. Океан и плато под вами покачиваются из стороны в сторону. Вы не успеваете оглянуться, как ваша рука соскальзывает с опоры.
+
+После небольшого падения, вы ударяетесь головой о каменную породу. По крайней мере, вам удалось спуститься.
+
+{DAMAGE}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>19</ID>
+      <DefaultText>Script Node 19</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>21</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>22</ID>
+      <DefaultText>Ваш компаньон следует за вами тем же маршрутом, который вы проложили для них.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>23</ID>
+      <DefaultText>Ваш компаньон следует за вами тем маршрутом, который вы отметили.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>24</ID>
+      <DefaultText>Вы со всей силы бьете по выступу. Вы его разбиваете.
+
+{DAMAGE}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>25</ID>
+      <DefaultText>Спрыгнуть на выступ.</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

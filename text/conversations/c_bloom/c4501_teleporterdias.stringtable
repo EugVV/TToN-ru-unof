@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\c_bloom\c4501_teleporterdias</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>12</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>Похоже, линии внутри матового металлического диска служат проводниками или каналами для пульсирующей межпространственной энергии. Возможно, удастся обернуть ее поток вспять, что позволит вам перенестись на верхнюю часть лестницы.</DefaultText>
+      <FemaleText>Похоже, линии внутри матового металлического диска служат проводниками или каналами для пульсирующей межпространственной энергии. Возможно, удастся обернуть ее поток вспять, что позволит вам перенестись на верхнюю часть лестницы.</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>Не трогать устройство.</DefaultText>
+      <FemaleText>Не трогать устройство.</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>С помощью несложных модификаций вы сможете перенастроить устройство, чтобы телепортироваться на верхнюю часть лестницы.</DefaultText>
+      <FemaleText>С помощью несложных модификаций вы сможете перенастроить устройство, чтобы телепортироваться на верхнюю часть лестницы.</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>Перенастроить телепорт, указав в качестве цели верхнюю часть лестницы.</DefaultText>
+      <FemaleText>Перенастроить телепорт, указав в качестве цели верхнюю часть лестницы.</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>Еще раз попытаться перенастроить телепорт, указав в качестве цели верхнюю часть лестницы.</DefaultText>
+      <FemaleText>Еще раз попытаться перенастроить телепорт, указав в качестве цели верхнюю часть лестницы.</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>Энергия окутывает вас теплым сиянием, а затем окружающий мир распадается на части.</DefaultText>
+      <FemaleText>Энергия окутывает вас теплым сиянием, а затем окружающий мир распадается на части.</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText>Вы активируете платформу, но, похоже, вы ошиблись в расчетах. Вспышка энергии обжигает вашу руку и вырывает кусок вашей плоти, разметав его по разным мирам.</DefaultText>
+      <FemaleText>Вы активируете платформу, но, похоже, вы ошиблись в расчетах. Вспышка энергии обжигает вашу руку и вырывает кусок вашей плоти, разметав его по разным мирам.</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>15</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

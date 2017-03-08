@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\c_bloom\c4142_automaton_fight</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>5</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>[Добро пожаловать на бой с телохранителем Иоксу! Как поступим дальше?]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>[Притворимся, что я победил его, потому что я мог. Точно мог!]</DefaultText>
+      <FemaleText>[Притворимся, что я победил его, потому что я могла. Точно могла!]</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>[Притворюсь, что проиграл, хоть это и неправдоподобно.]</DefaultText>
+      <FemaleText>[Приворюсь, что проиграла, хоть это и неправдоподобно.]</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>[Поздравляем! Вы победили машину, запрограммированную лишь на смерть. По необъяснимой причине, в награду за победу машина переносит вас обратно к Иоксу.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>[Ну вот, все умерли! Отправляйтесь в Спокойствие.]</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

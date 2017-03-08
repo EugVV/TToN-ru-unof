@@ -1,0 +1,167 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\a_sagus\a2501_ris</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>29</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>Со спины к вам приближаются несколько суровых головорезов. Во главе Рис, он насмешливо машет Тибиру.
+
+"Привет, Тибир. Уходишь из города? Сперва отдай нам с друзьями деньги, которые задолжал".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>Он неосознанно пятится назад и говорит бандитам: "Не знаю, что наговорил вам Рис, но клянусь, мне так и не заплатили за то дело. Денег у меня нет, и даже ваши кулаки этого не поправят".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>"Не верьте ему, товарищи. Он все время врет".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>Тибир поворачивается к вам с мольбой во взгляде: "Парень, прошу. Я не знаю, что делать. Скажи что-нибудь. Спаси меня!"</DefaultText>
+      <FemaleText>Тибир поворачивается к вам с мольбой во взгляде: "Девушка, прошу. Я не знаю, что делать. Скажи что-нибудь. Спаси меня!"</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>"Капитан Тибир под моей защитой. Хотите вкусить гнева Меняющегося Бога?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>Он облегченно вздыхает: "Спасибо, парень. С меня причитается".
+
+{SCRIPT: This needs to play after Ris and his men run away after successfully intimidating them.}</DefaultText>
+      <FemaleText>Он облегченно вздыхает: "Спасибо, барышня. С меня причитается".</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>"А ну вернитесь, трусы!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText>Рис усмехается и поворачивается к своим товарищам: "Никакой он не Меняющийся Бог. Меняющийся Бог три метра ростом и..." 
+
+Он умолкает, видя, как они ретируются. "Эй! Куда вы? Кому я рассказываю, что никакой он не Меняющийся Бог!"
+
+Компания быстро убегает, и Рис спешит по их стопам.</DefaultText>
+      <FemaleText>Рис усмехается и поворачивается к своим товарищам: "Она не Меняющийся Бог. Меняющийся Бог три метра ростом и..." 
+
+Он умолкает, видя, как они ретируются. "Эй! Куда вы? Кому я рассказываю, что она не Меняющийся Бог!"
+
+Компания быстро убегает, и Рис спешит по их стопам.</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText>Рис с напарниками смеются: "Никакой он не Меняющийся Бог. Он всего лишь простак, которым ты решил прикрыться. Значит побьем вас обоих. Тебя за подлость, его за легковерие".</DefaultText>
+      <FemaleText>Рис с напарниками смеются: "Она не Меняющийся Бог. Она всего лишь дурочка, которой ты решил прикрыться. Значит побьем вас обоих. Тебя за подлость, ее за легковерие".</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>14</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>15</ID>
+      <DefaultText>[Атака] "Угрожаешь мои друзьям, значит угрожаешь мне. Доставайте оружие или убирайтесь".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>16</ID>
+      <DefaultText>"Держи их!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>17</ID>
+      <DefaultText>"Мне не нужно проблем. Разбирайся сам, Тибир".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>18</ID>
+      <DefaultText>"Что?" — говорит Тибир. — "После всего того, что я для тебя сделал? Ты об этом пожалеешь!"
+
+Он бросается на него, проталкиваясь сквозь бандитов. Те преследуют его.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>19</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20</ID>
+      <DefaultText>"Хватайте его, помощники!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>21</ID>
+      <DefaultText>"С дороги!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>22</ID>
+      <DefaultText>"А ну, вернитесь, вы... трусы!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>23</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>24</ID>
+      <DefaultText>"Ты и впрямь собираешься умереть за этого шарлатана? Выдай его и можешь улетать, куда хочешь".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>25</ID>
+      <DefaultText>"Хорошо. Забирай его".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>26</ID>
+      <DefaultText>"Черта с два".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>27</ID>
+      <DefaultText>"Мудрый выбор".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>28</ID>
+      <DefaultText>"Парень! Нет!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>29</ID>
+      <DefaultText>"Ты об этом пожалеешь".</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

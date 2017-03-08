@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\x_labyrinth_crisis\x4061_sorrowfragmentfathom_argumentregret</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>19</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>[The moment slows to a crawl, and you recognize the concerns being retreaded by the foreign thoughts as an interface to the machine's functionality.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>[Resolve to use a quantum anchor to prevent the philethis from escaping, and force him to aid you; the machine will construct a cage in this area.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>[Resolve to give the philethis what he asks for; the machine will appease the Fragments, distracting them from their attacks.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>[Tear your gaze from the scene, and end the memetic broadcast.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>[The functionality of the machine is obscured by the swirling mass of the Sorrow Fragment which has poured into its inner workings.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>Фрагмент Скорби выброшен</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>[You feel the Sorrow Fragment's screech in your mind, feel it in your emotions, before it begins to phsyical form nearby, and you hears its growl in your ears.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>[This machine is projecting a holographic scene on loop. As you study it, you feel it probe your mind, then begin to push into it. You perceive the scene as if from your perspective, foreign thoughts and emotions pouring into you.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>[The upside of the lightstorm was that, despite the late hour, you were able to continue work on the kinetic dampeners, the glowing motes falling from the sky illuminating the area as they collided, sizzling, with the ground. But the energy imparted when they hit the water created ever-swelling waves, travelling in random directions, brutalizing the cliffs you stand atop, threatening the city built there.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>[You hear a quiet pop, and a shadow suddenly falls over you. A mechanical voice chimes, "Holistic celebrations enliven a soceity. Can you trim hair?" You turn, and look up into the ruby-red face-port of a philethis. The inscrutable creature makes no motion for or against you, light-motes disappering into the folds of its draping cloak as it stands motionless. You know you don't have time for its riddles.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText>[Desperate for assitance, you use the Tides to build a bridge to its inhuman psyche. "Incliment atmospheric forces are mere perceptions, mutable through experience. I would have an adolescence from your many."
+Beneath you, townspeople lay down makeshift barriers as the water comes closer to their doors with each passing minute.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>14</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>15</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>16</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>17</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>18</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>19</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\ending\ending_extendedepilogue_sticha</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>5</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>После того как яйца стихуса оказались под опекой города, землетрясения под Утесами Сагуса прекратились на многие годы. На самом деле, уже долгое время Пелиай часто подумывала о продаже оставшихся яиц для нее самой.[BR][BR]Однажды ночью, жители Площади Правительства были разбужены грохотом урагана, который сотрясал даже самые устойчивые здания. Люди с сонными глазами вышли из своих домов, чтобы посмотреть, что произошло.[BR][BR]Дом Пелиай исчез, а Пелиай исчезла вместе с ним. В этом месте был огромный водосточный колодец, который, казалось, проходил под землей ниже уровня самого океана.[BR][BR]Никто не отважится спуститься туда, чтобы посмотреть, что с ней стало, но с тех пор город стал мочалив.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>The quakes beneath Sagus Cliffs ceased for many years, despite Peliai's concerns that without leverage over them, the sticha would return some day. She would stand in the square most days, preaching her fear to whomever would listen.[BR][BR]One day, Peliai announced that she had evidence the sticha had returned. She called for a group of brave souls to follow her beneath the city, to stop them before it was too late.[BR][BR]Several of her bravest listeners followed her into the dark. Nobody knows what has become of them.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>Стихусы проделали большой и долгий путь, чтобы достичь своего нового дома. Многие умерли по дороге, так как в скалистой местности между Сагусом и новой скалой почти нет пищи, чтобы поддерживать их существование.[BR][BR]Но в конце концов они достигли его и соорудили себе новый дом. Они процветали здесь долгое время.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>The quakes beneath Sagus Cliffs ceased for many years, despite Peliai's concerns that without leverage over them, the sticha would return some day. She would stand in the square most days, preaching her fear to whomever would listen. Few did.[BR][BR]Until the quakes began again...</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>Землетрясения продолжились. Один за одним, большинство домов Края Утеса упали в море, а люди Сагуса начинали все больше и больше бояться.[BR][BR]В последней отчаянной попытке, Пелиай собрала группу отважных людей, которые последуют за ней в подземелье под городом, чтобы остановить стихусов, пока еще не было слишком поздно. Дюжины отважных мужчин и женщин откликнулись на ее призыв и последовали за ней в темноту.[BR][BR]Их никогда не видели снова. Никто не знает, что с ними стало, но все же, некоторое время спустя, землетрясения прекратились.</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

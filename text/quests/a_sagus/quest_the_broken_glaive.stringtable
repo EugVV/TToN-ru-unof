@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>quests\a_sagus\quest_the_broken_glaive</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>21</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>0</ID>
+      <DefaultText>Поверженный клинок</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>Спросить о Риастраде на Краю Утеса.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>Пробраться в укрепленный дом на Краю Утеса.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>Помочь Риастраду и Сатсаде сбежать от громил Мемовиры.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>Успешное спасение</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>Малое милосердие</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>Узнал о Маззофе и Миэль Авест от Сатсады.</DefaultText>
+      <FemaleText>Узнала о Маззофе и Миэль Авест от Сатсады.</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>Пропустил Риастрада</DefaultText>
+      <FemaleText>Пропустила Риастрада</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>10000</ID>
+      <DefaultText>Касмин и Мимеон говорили вам, что не знают, как починить резонансную камеру, но знают, что ее построил отверженный. Один из двух отверженных должен быть в городе. Это клинок по имени Риастрад, и он может проводить вас к строителю резонансной камеры.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10001</ID>
+      <DefaultText>Касмин и Мимеон смогли помочь в поиске Риастрада только информацией, что он околачивался в районе Края Утеса.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10002</ID>
+      <DefaultText>Риастрад схвачен преследователями, отправленными лидером головорезов, Мемовирой, и сейчас находится в крепости на Краю Утеса. Если вы хотите с ним поговорить, необходимо найти способ попасть внутрь.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10003</ID>
+      <DefaultText>Когда вы сможете попасть в Дом Смерти Тайн, вам необходимо будет освободить Риастрада и устроить их с Сатсадой побег.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10004</ID>
+      <DefaultText>Вы спасли Риастрада и Сатсаду из Дома Смерти Тайн, и в качестве благодарности они поделились с вами информацией. Резонансная камера построена человеком по имени Мазоф, и его, скорее всего, можно найти в Миэль Авесте, секретном укрытии отверженных.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10005</ID>
+      <DefaultText>Вы, наконец, находите Риастрада и его призрачную подругу, но они оказались буйно помешанными, и их пришлось убить. Информация о создателе резонансной камеры умерла вместе с ними.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10006</ID>
+      <DefaultText>Вы поговорили с Сатсадой, призрачной подругой Риастрада, и убедили ее раскрыть необходимые вам сведения. Резонансная камера построена человеком по имени Мазоф, и его, скорее всего, можно найти в Миэль Авесте, секретном укрытии отверженных.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10007</ID>
+      <DefaultText>Вы покинули Утесы Сагуса и отправились в Долину Забытых Героев, не попытавшись найти Риастрада.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20000</ID>
+      <DefaultText>Риастраду, по всей видимости, составляет компанию женщина — или, вероятнее, призрак — по имени Сатсада, и она никогда не отходит от него.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20001</ID>
+      <DefaultText>Эта крепость также известна как Дом Смерти Тайн.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20002</ID>
+      <DefaultText>Вход в дом контролируется необычным мостом-нуменерой.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20003</ID>
+      <DefaultText>Вы можете обойти передний вход крепости, сделав подкоп, но вам потребуется помощь стихуса.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20004</ID>
+      <DefaultText>Риастрад и его товарищ Сатсада, кажется, сошли с ума и пытаются убить всех в Доме.</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

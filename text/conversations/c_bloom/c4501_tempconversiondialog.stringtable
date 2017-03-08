@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\c_bloom\c4501_tempconversiondialog</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>5</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>[Memovira's Follower]</DefaultText>
+      <FemaleText>[Memovira's Follower]</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>[Convert to your Side]</DefaultText>
+      <FemaleText>[Convert to your Side]</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>[оставлять]</DefaultText>
+      <FemaleText>[оставлять]</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>[Успех]</DefaultText>
+      <FemaleText>[Успех]</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>[Провал]</DefaultText>
+      <FemaleText>[Провал]</FemaleText>
+    </Entry>
+  </Entries>
+</StringTableFile>

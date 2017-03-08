@@ -1,0 +1,293 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\a_sagus\a2301_cultists</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>51</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>Пунцовый от волнения сектант пытается восстановить дыхание.
+
+"Я видел его, господин!" — он запинается. — "Или ее. Я не уверен".</DefaultText>
+      <FemaleText>Пунцовый от волнения сектант пытается восстановить дыхание.
+
+"Я видел его, госпожа! — он запинается. — Или ее. Я не уверен".</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>Рассеянный взгляд сектанта скользит по вам. Когда он доходит до вашей татуировки, глаза сектанта округляются. Они едва не вылезают из орбит, когда сектант видит ваше лицо.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>Сектант приветствует вас поклоном и молча ждет ваших вопросов.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>"Я охочусь на того, кто убил протеже Толстона. Ты не хочешь мне помочь?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>"Прощай".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>"Помочь?" — восклицает он. — "Я? Конечно же, святейшество! Разумеется! Клянусь, что не успокоюсь, пока не найду хотя бы частичку информации, которая окажется тебе полезной!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>Рассеянный взгляд сектанта скользит по вам. Когда он доходит до вашего лица, глаза сектанта округляются.
+
+"Я слышал, что ты собирался осмотреть город, но и представить не мог, что ты спустишься сюда! Какая честь!"</DefaultText>
+      <FemaleText>Рассеянный взгляд сектанта скользит по вам. Когда он доходит до вашего лица, глаза сектанта округляются.
+
+"Я слышал, что ты собиралась осмотреть город, но и представить не мог, что ты спустишься сюда! Какая честь!"</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText>Рассеянный взгляд сектанта скользит по вам. Когда он доходит до вашей татуировки, глаза сектанта округляются. 
+
+"О-один из его возлюбленных сосудов! Прошу прощения. Я не ожидал увидеть *здесь* одно из твоих сиятельных воплощений!"
+
+Он с улыбкой кивает вам: "Если ты еще не сделал это, нижайше советую повидать Касмина и Мимеона в Малом Круге. А пока, чем я могу тебе помочь?"</DefaultText>
+      <FemaleText>Рассеянный взгляд сектанта скользит по вам. Когда он доходит до вашей татуировки, глаза сектанта округляются.
+
+"О-один из его возлюбленных сосудов! Прошу прощения. Я не ожидал увидеть *здесь* одно из твоих сиятельных воплощений!"
+
+Он с улыбкой кивает вам: "Если ты еще не сделала это, нижайше советую повидать Касмина и Мимеона в Малом Круге. А пока, чем я могу тебе помочь?"</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>14</ID>
+      <DefaultText>Он вытягивает руки перед собой: "Чем я могу помочь, возлюбленный сосуд и слуга Обманувшего Смерть?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>17</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>18</ID>
+      <DefaultText>"Я помогаю Толстону выяснить, кто убил его протеже. Ты что-нибудь видел?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>19</ID>
+      <DefaultText>"Если понадоблюсь, я буду здесь, господин!"</DefaultText>
+      <FemaleText>"Если понадоблюсь, я буду здесь, госпожа!"</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>20</ID>
+      <DefaultText>"Я видел фигуру в длинном одеянии, склонившуюся над лужей крови. Она срывала плоть с..." — он шумно сглатывает слюну, — "...с руки жертвы. Затем эта персона убежала в молельню Дендра О'хур".
+
+Он гордо выпрямляет спину: "Думаю, убийца — кто-то из Дендра О'хур, святой господин".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>21</ID>
+      <DefaultText>"Увы, нет", — он морщит лоб с чувством глубокого сожаления. — "Но я обязательно сообщу, если что-нибудь увижу".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>22</ID>
+      <DefaultText>"Твою отверженную?" — блеет он. — "Нет, давно не видел, господин. Но иногда она работает на Толстона. Возможно, он знает, где ее искать".</DefaultText>
+      <FemaleText>"Твою отверженную? — блеет он. — Нет, давно не видел, госпожа. Но иногда она работает на Толстона. Возможно, он знает, где ее искать".</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>23</ID>
+      <DefaultText>"Н-нет, святой господин. К моему глубокому сожалению".</DefaultText>
+      <FemaleText>"Н-нет, святая госпожа. К моему глубокому сожалению".</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>24</ID>
+      <DefaultText>"Я ищу женщину по имени Мэткина. Ты ее видел?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>25</ID>
+      <DefaultText>"Ты не видел отверженного по имени Риастрад? Он клинок. Носит меняющиеся доспехи".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>26</ID>
+      <DefaultText>"Отверженную? Нет, не видел", — отвечает он. — "Но иногда она работает на Толстона. Возможно, он знает, где ее искать".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>27</ID>
+      <DefaultText>"Увы, нет. Прости".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>28</ID>
+      <DefaultText>"Он хочет, чтобы *я* помог *ему*!"</DefaultText>
+      <FemaleText>"Она хочет, чтобы *я* помог *ей*!"</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>29</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>31</ID>
+      <DefaultText>"Мой господин! Мы что-то нашли!"</DefaultText>
+      <FemaleText>"Мой госпожа! Мы что-то нашли!"</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>32</ID>
+      <DefaultText>"У нас есть новости, господин!"</DefaultText>
+      <FemaleText>"У нас есть новости, госпожа!"</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>33</ID>
+      <DefaultText>"Прошу минуту твоего бесконечного времени, святейшество!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>34</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>35</ID>
+      <DefaultText>"И вам также, Почтенный Сосуд".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>37</ID>
+      <DefaultText>Он так огорчен, что никак не может помочь вам, что его глаза наливаются слезами отчаяния.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>39</ID>
+      <DefaultText>"Святейшество! Что привело тебя сюда?" — он бледнеет от собственной наглости. — "Я хотел сказать... нет , не то. Мне не следовало спрашивать. Я не смею лезть в твои дела, это уж точно".
+
+Он опускает взгляд, его сложенные руки дрожат. "Как я могу тебе служить?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>40</ID>
+      <DefaultText>"Ты хорошо потрудился".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>41</ID>
+      <DefaultText>"И какой мне от этого прок? Убийцей может оказаться кто угодно".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>42</ID>
+      <DefaultText>"Ты должен был задержать убийцу!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>43</ID>
+      <DefaultText>"Спасибо, святейшество", — шепчет он. Глаза его полны слез. — "Удачи в твоей охоте".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>44</ID>
+      <DefaultText>"Прошу прощения", — вздрагивает он. — "Я помню только это. Только это и то, как быстро убийца убежал".
+
+Он сглатывает слюну: "Надеюсь, я хоть капельку помог тебе, господин".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>45</ID>
+      <DefaultText>"Я... я извиняюсь", — произносит он, заикаясь. — "Я не такой смелый, как ты, святой господин. Я боялся, что меня заметят".
+
+Он вешает голову: "Больше я не подведу тебя, обещаю".</DefaultText>
+      <FemaleText>"Я... я извиняюсь, — произносит он, заикаясь. — Я не такой смелый, как ты, святая госпожа. Я боялся, что меня заметят".
+
+Он вешает голову: "Больше я не подведу тебя, обещаю".</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>46</ID>
+      <DefaultText>Он вытягивает руки перед собой: "Чем я могу помочь, возлюбленный сосуд?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>47</ID>
+      <DefaultText>Follow-up PQ. 47</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>48</ID>
+      <DefaultText>"Кто такие Касмин и Мимеон?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>49</ID>
+      <DefaultText>"Напомни-ка, кто такие Касмин и Мимеон?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>50</ID>
+      <DefaultText>Follow-up T. 50</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>51</ID>
+      <DefaultText>"Предводители культа, посвященного твоему вечному отцу!" 
+
+Он решает выразиться яснее: "Меняющемуся Богу!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>52</ID>
+      <DefaultText>"Предводители культа Меняющегося Бога! Ты найдешь их в Малом Круге".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>53</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>54</ID>
+      <DefaultText>Осмотреть сектанта.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>55</ID>
+      <DefaultText>Еще раз осмотреть сектанта.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>56</ID>
+      <DefaultText>Это бледный, грязный и очень взволнованный человек. Его взгляд то и дело возвращается к вашей татуировке.
+
+Он ежится, когда видит, что вы его изучаете.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>57</ID>
+      <DefaultText>Он нервно переступает с ноги на ногу и чешет свой жирный нос.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>59</ID>
+      <DefaultText>::всхлипывает::</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

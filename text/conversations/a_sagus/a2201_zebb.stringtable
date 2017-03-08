@@ -1,0 +1,1929 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\a_sagus\a2201_zebb</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>369</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>Вы приближаетесь к худому мальчику и он приветствует вас: "Рад видеть вас снова, господин. Не найдется ли у вас немного шинов для голодной семьи?"</DefaultText>
+      <FemaleText>Вы приближаетесь к худому мальчику и он приветствует вас: "Рад видеть вас снова, госпожа. Не найдется ли у вас немного шинов для голодной семьи?"</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>Дать ему [Global: a2201_ZebbPocketChange] шинов.
+
+{MONEY}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>"Извини, я не могу тебе помочь".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>"Спасибо, господин. Всего вам доброго".</DefaultText>
+      <FemaleText>"Спасибо, госпожа. Всего вам доброго".</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>"Все равно спасибо, господин. Всего вам доброго".</DefaultText>
+      <FemaleText>"Все равно спасибо, госпожа. Всего вам доброго".</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText>"Ты уверен, что вас только четверо? Ты смотрел еще на кого-то на улице. Есть еще кто-то"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>14</ID>
+      <DefaultText>"Я Зебб, и..." — он указывает на маленькую девочку, катающую камешек по кругу, и на девочку постарше, играющую на флейте. Ты замечаешь, что они выглядят более здоровыми и упитанными, чем Зебб. "Это Ним, моя младшая сестра. Девочку с флейтой зовут Авина. Она, на самом деле, не сестра нам, но все-таки живет в нашей семье. И... больше никого. Это все".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>15</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>16</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>17</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>18</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>19</ID>
+      <DefaultText>"Аа?" — он запинается. — "Нет, нет! Я... Я просто жду друга. Нас всего четверо. Ни больше, ни меньше".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>21</ID>
+      <DefaultText>"Можно спросить еще кое-что?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>22</ID>
+      <DefaultText>"Хорошо, господин".</DefaultText>
+      <FemaleText>"Хорошо, госпожа".</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>23</ID>
+      <DefaultText>"Что тебе известно о Цветении?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>24</ID>
+      <DefaultText>"Мой отец всегда называл его скистовой дырой. Но он говорил, что в этой скистовой дыре полно шинов, поэтому он готов натянуть сапоги и полезть в нее".
+
+Он пожимает плечами: "Я знаю о нем не так много. Говорят, это чудовище, внутри которого живут люди. Его можно увидеть из Караван-сарая, но вниз никого не пускают. По крайней мере, они не пустили *меня* вниз".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>25</ID>
+      <DefaultText>"Что тебе известно о Мемовире?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>26</ID>
+      <DefaultText>"Она главная в Цветении. Глава города вроде бы. Мой отец на нее работает. Он один из ее стражей".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>27</ID>
+      <DefaultText>Худой мальчик в лохмотьях обращается к вам, когда вы проходите мимо: "Господин! Прошу вас, господин! Я знаю, вы видели стихуса в мусорной куче. Пожалуйста, не говорите никому о нем, господин. Он не причинит никому вреда".</DefaultText>
+      <FemaleText>Худой мальчик в лохмотьях обращается к вам, когда вы проходите мимо: "Госпожа! Прошу вас, госпожа! Я знаю, вы видели стихуса в мусорной куче. Пожалуйста, не говорите никому о нем, госпожа. Он не причинит никому вреда".</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>28</ID>
+      <DefaultText>Худой мальчик обращается к вам, когда вы проходите мимо: "Господин! Прошу вас, господин! Я знаю, вы видели стихуса в мусорной куче. Пожалуйста, не говорите никому о нем, господин. Он не причинит никому вреда".</DefaultText>
+      <FemaleText>Худой мальчик обращается к вам, когда вы проходите мимо: "Госпожа! Прошу вас, госпожа! Я знаю, вы видели стихуса в мусорной куче. Пожалуйста, не говорите никому о нем, госпожа. Он не причинит никому вреда".</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>29</ID>
+      <DefaultText>"Оставьте меня в покое! Я с вами не разговариваю!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30</ID>
+      <DefaultText>Худой мальчик в лохмотьях сидит на пустыре, там, где раньше был его дом, и смотрит в никуда. Он не оборачивается, когда вы подходите.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>31</ID>
+      <DefaultText>Худой мальчик в лохмотьях протягивает руку, когда вы проходите мимо. Он выглядит слишком изможденным для своего возраста. Его суставы выделяются на пальцах, как кнутовые узлы: "Не подадите ли немного шинов для нуждающейся семьи?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>32</ID>
+      <DefaultText>Он свирепо смотрит на вас: "Вы рассказали им о стихусе. Вы позволили его убить. Я вас ненавижу".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>33</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>34</ID>
+      <DefaultText>Когда вы приближаетесь, мальчик вприпрыжку подбегает к вам. Он очень рад. "Вы выпустили стихуса! Спасибо, господин! Мы так беспокоились, что местные его поймают!"</DefaultText>
+      <FemaleText>Когда вы приближаетесь, мальчик вприпрыжку подбегает к вам. Он очень рад. "Вы выпустили стихуса! Спасибо, госпожа! Мы так беспокоились, что местные его поймают!"</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>35</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>36</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>37</ID>
+      <DefaultText>"Расскажи мне о своей семье".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>38</ID>
+      <DefaultText>"Давай снова поговорим о твоей семье".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>39</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>40</ID>
+      <DefaultText>Он наклоняет голову: "Да, господин. Нас всего пятеро... ой, четверо, включая моего отца, но он ушел в Цветение и мы не знаем, когда он вернется".</DefaultText>
+      <FemaleText>Он наклоняет голову: "Да, госпожа. Нас всего пятеро... ой, четверо, включая моего отца, но он ушел в Цветение и мы не знаем, когда он вернется".</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>41</ID>
+      <DefaultText>"Как я сказал, нас четверо. Ним, моя младшая сестра. Авина, которая живет с нами. Я, Зебб. И мой отец, который сейчас в Цветении".</DefaultText>
+      <FemaleText>"Да, госпожа. Нас всего четверо. Ним, моя младшая сестра. Авина, которая живет с нами. Я, Зебб. И мой отец, который сейчас в Цветении".</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>42</ID>
+      <DefaultText>"И это все".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>43</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>44</ID>
+      <DefaultText>"Расскажи мне о своем отце. Как его зовут? Как долго он находится в Цветении?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>45</ID>
+      <DefaultText>"Расскажи мне о своем отце еще раз".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>49</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>50</ID>
+      <DefaultText>"Его тоже зовут Зебб — Зеббак Уралау — и уже... уже по меньшей мере минул год, как он ушел. Он ушел, чтобы работать на Мемовиру. Некоторое время он высылал нам шины, но потом перестал. С тех пор я ничего о нем не слышал".
+
+Он испытывает неловкость. "Цветение, оно такое. Иногда оно никого не выпускает. Я считаю, отец просто ждет, когда оно снова откроется".
+
+{JOURNAL: Add a journal note about Zebb's father.}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>51</ID>
+      <DefaultText>"Его зовут Зеббак Уралау, он работает в Цветении стражем Мемовиры. Мы... мы уже довольно долго ничего о нем не слышали".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>52</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>53</ID>
+      <DefaultText>"С твоей сестрой Ним все в порядке? Ей, должно быть, приходится трудно".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>54</ID>
+      <DefaultText>"Расскажи мне о своей сестре еще раз".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>55</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>56</ID>
+      <DefaultText>"Расскажи мне об Авине".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>57</ID>
+      <DefaultText>"Напомни мне, что ты знаешь об Авине".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>58</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>59</ID>
+      <DefaultText>"Она в порядке. Ничего не знает, на самом деле. Хотя она и скучает по нашему отцу".
+
+Его глаза мрачнеют. "Она не помнит нашу мать, поэтому хотя бы по ней она не скучает".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>60</ID>
+      <DefaultText>"Ним не понимает, насколько плохо мы живем. Это все, что она знает. Я бы хотел снова построить безопасный дом. Чтобы ей было где спать".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>61</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>62</ID>
+      <DefaultText>"Она с нами еще с того времени, когда отец был тут, но она никогда не говорила, откуда пришла. Может быть, она сама не знает".
+
+Он смотрит на Авину. "Я рад, что она с нами. Она замечает многие вещи. Она наблюдатель получше, чем я, и собирает много шинов игрой на флейте".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>63</ID>
+      <DefaultText>"Не много. Она появилась несколько лет назад и жила с нами и отцом. Она никогда не говорила, откуда пришла".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>64</ID>
+      <DefaultText>"Вы видели его руки. Они как человеческие. Он не может рыть, как другие. Это не он разрушает дома".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>65</ID>
+      <DefaultText>"Что для тебя значит этот стихус?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>66</ID>
+      <DefaultText>"Ему здесь не место, он может быть опасен".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>67</ID>
+      <DefaultText>"Я никому не скажу. Твой секрет никто не узнает".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>68</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>69</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>70</ID>
+      <DefaultText>"Это мы нашли его, господин. Мои сестры и я. Он был так жалок. Он голодал. И почти умирал. Мы кормили его старыми устройствами и топливными элементами все это время, но теперь нам нужно избавиться от него. Скоро соседи найдут его, и ему конец".</DefaultText>
+      <FemaleText>"Это мы нашли его, госпожа. Мои сестры и я. Он был так жалок. Он голодал. И почти умирал. Мы кормили его все это время, но теперь нам нужно избавиться от него Скоро соседи найдут его, и ему конец".</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>71</ID>
+      <DefaultText>"Нет, господин. Я говорю вам. Он не может копать. Все, что ему нужно — это безопасное место".</DefaultText>
+      <FemaleText>"Нет, госпожа. Я говорю вам. Он не может копать. Все, что ему нужно — это безопасное место".</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>72</ID>
+      <DefaultText>"Спасибо, господин. Вы наш спаситель. Если бы мы только могли найти для него безопасное место".</DefaultText>
+      <FemaleText>"Спасибо, госпожа. Вы наша спасительница. Если бы мы только могли найти для него безопасное место".</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>73</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>74</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>75</ID>
+      <DefaultText>"Может быть, я найду способ вытащить его отсюда".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>76</ID>
+      <DefaultText>"Неужели, господин? Это было бы чудесно. Если бы вы нашли других стихусов, может быть, они помогли бы ему бежать. Я слышал, некоторые из них живут в Подбрюшье, но я сам никогда их не видел".</DefaultText>
+      <FemaleText>"Неужели, госпожа? Это было бы чудесно. Если бы вы нашли других стихусов, может быть, они помогли бы ему. Я слышал, некоторые из них живут в Подбрюшье, но я сам никогда их не видел".</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>77</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>78</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>80</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>81</ID>
+      <DefaultText>"Не видел ли ты поблизости клинка, устрашающего на вид? Большого и сильного, не слишком общительного?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>82</ID>
+      <DefaultText>Он задумывается на мгновение, затем кивает: "Кажется, я его видел, но не помню, куда он пошел. Авина может знать. Она все замечает".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>83</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>84</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>85</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>86</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>87</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>88</ID>
+      <DefaultText>Он погиб в Цветении. Мне об этом сказала его капитан".
+
+{GEORGE: This node feels odd. It feels strange that you're trying to persuade him when you're just telling him the truth. -JF}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>89</ID>
+      <DefaultText>Он поникает: "Я догадывался. Не хотел только признавать этого... и говорить Ним".
+
+Он оглядывается на разрушенный дом и свою семью. "Вот как все для нас сложилось. Придется привыкать".
+
+{SCRIPT: Makes the House of Empty Time Difficult Task one difficulty easier.}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>90</ID>
+      <DefaultText>"Вы этого не знаете! Просто повторяете то, что говорят другие! Я не поверю, пока не увижу своими глазами".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>91</ID>
+      <DefaultText>Он поникает: "Я догадывался. Не хотел только признавать этого... и говорить Ним".
+
+Он оглядывается на разрушенный дом и свою семью. "Наверное, стоит теперь подыскать новый дом, раз уж отец не... вернется".
+
+{SCRIPT: Makes the attempt to get Zebb to go to the House of Empty Time automatically succeed.}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>92</ID>
+      <DefaultText>"Неправда! Он жив! Я уверен!"
+
+{ADAM: what affect could this CF have?}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>93</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>94</ID>
+      <DefaultText>"Если твой отец не вернется, я знаю местечко, где вы сможете обосноваться. Оно называется Дом Пустого Времени".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>95</ID>
+      <DefaultText>"Ты точно решил, что вы не пойдете в Дом Пустого Времени?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>96</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>97</ID>
+      <DefaultText>"Мы не сироты. Отец работает в Цветении. Он вернется".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>98</ID>
+      <DefaultText>"Я уже сказал, мы не сироты. Никуда мы не пойдем".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>99</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>100</ID>
+      <DefaultText>"Звучит... жутко. К тому же, здесь наша семья. Нам другая не нужна".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>101</ID>
+      <DefaultText>"Мы никуда не пойдем. Здесь наш дом".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>102</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>103</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>104</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>105</ID>
+      <DefaultText>"Уходи!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>106</ID>
+      <DefaultText>"К вам заходили сектанты Меняющегося Бога?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>107</ID>
+      <DefaultText>"Так они по вашей просьбе приходят? Они странноватые, но милые. Приносят нам еду. И денег дают. Спасибо вам большое, господин, что попросили приглядывать за нами".</DefaultText>
+      <FemaleText>"Так они по вашей просьбе приходят? Они странноватые, но очень милые. Приносят нам еду. И денег дают. Спасибо вам большое, госпожа, что попросили их приглядывать за нами".</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>109</ID>
+      <DefaultText>"Любой бы так поступил".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>110</ID>
+      <DefaultText>"Я держу свои обещания".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>111</ID>
+      <DefaultText>"Но помни, что ты мой должник, Зебб".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>113</ID>
+      <DefaultText>"Мы вам очень благодарны". Он достает что-то из-под рубашки. Похоже, это какое-то маленькое устройство. "Вот, возьмите. Я его украл, но не разобрался, как им пользоваться. Но вы наверняка найдете ему применение".
+{LOOT}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>114</ID>
+      <DefaultText>Он кивает и серьезно смотрит на вас: "Я этого никогда не забуду. Вот, возьмите. Я нашел его в разрушенном доме. Я понимаю, что этого мало, но я еще расплачусь с вами сполна". Он вынимает маленькое устройство из-под рубашки и протягивает вам.
+{LOOT}</DefaultText>
+      <FemaleText>"Что угодно, госпожа. Что угодно".</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>115</ID>
+      <DefaultText>Мальчик сидит возле пустыря, там, где раньше был его дом, и смотрит в никуда. Он не оборачивается, когда вы подходите.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>116</ID>
+      <DefaultText>"Что произошло? Все целы?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>117</ID>
+      <DefaultText>"Ох, уж, эти стихусы со своими раскопками! Уже который дом уничтожили. Безмозглые твари!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>118</ID>
+      <DefaultText>"Это моя вина. Мне не удалось остановить стихусов вовремя".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>119</ID>
+      <DefaultText>Зебб не отвечает. Похоже, он не слышал твоих слов. Он по-прежнему таращится в пустоту.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>120</ID>
+      <DefaultText>Авина, сидящая неподалеку, убирает флейту. "Зебб ни слова не сказал с тех пор, как рухнул дом. А Ним... Ним едва зашла внутрь, чтобы искупаться. Затем раздался чудовищный треск, и..."
+
+Она опускает голову: "Мы думаем, это дело рук стихусов".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>121</ID>
+      <DefaultText>"Могу ли я как-нибудь помочь?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>122</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>123</ID>
+      <DefaultText>"Я могу сделать так, что ты забудешь о сестре и о боли".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>124</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>125</ID>
+      <DefaultText>Зебб внезапно выходит из оцепенения и весь трясется от ярости: "Мы накормили одного из них! Дали укрытие! Как он мог это допустить? Как он мог допустить, что его братья..." — 
+
+Он резко смолкает и достает проржавевший нож, в его глазах дикий огонь. "Я убью его. Я убью его!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>126</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>127</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>128</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>129</ID>
+      <DefaultText>"Прощайте..."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>131</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>132</ID>
+      <DefaultText>Светловолосая девочка, стоящая неподалеку, поворачивается к вам. Она злится:  "Стой! Не бросай его сейчас! У него в сердце пустота, там, где раньше было место для Ним. Пусть ему сейчас нелегко, но нельзя лишать его хороших воспоминаний о ней!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>133</ID>
+      <DefaultText>"Верно. Плохая мысль. Извини, Зебб".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>134</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>135</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>136</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>138</ID>
+      <DefaultText>"Тот стихус с твоей улицы тебе не враг. Он тут ни при чем!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>139</ID>
+      <DefaultText>"Тот стихус с твоей улицы тебе не враг. Он тут ни при чем!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>140</ID>
+      <DefaultText>Отпустить его.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>141</ID>
+      <DefaultText>Зебб врезается в вас и принимается безудержно плакать: "Но ведь Ним умерла! Стихусы ее не пощадили!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>142</ID>
+      <DefaultText>Зебб проносится мимо вас и убегает на улицу, где скрывается стихус.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>143</ID>
+      <DefaultText>Зебб падает вам в объятия и безудержно рыдает: "Ним погибла! Я отомщу за нее!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>144</ID>
+      <DefaultText>"Он мог вмешаться! Ненавижу его!"
+
+Вы перекрываете Зеббу путь, он набрасывается на вас с ножом, потом выворачивается и убегает в сторону свалки, где скрывается стихус.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>145</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>146</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>147</ID>
+      <DefaultText>"Что произошло? Все целы?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>148</ID>
+      <DefaultText>Мальчик не отвечает. Похоже, он не слышал ваших слов. Он по-прежнему таращится в пустоту.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>149</ID>
+      <DefaultText>"Не могу поверить, что сектанты пришли и замаскировали его. Вот это был фокус!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>150</ID>
+      <DefaultText>"Я не поверил своим глазам, когда земля разверзлась и другие стихусы утащили его с собой. Не думал, что они его примут. Наверное, вы чудно их обработали!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>151</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>152</ID>
+      <DefaultText>"Может и так, но неужели ты действительно хочешь убить невиновного?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>153</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>154</ID>
+      <DefaultText>"Подумай. Твой знакомый стихус — изгой. Его бы никто не стал слушать".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>155</ID>
+      <DefaultText>"Чего ты добьешься, отомстив убийством за смерть?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>156</ID>
+      <DefaultText>Зебб выпускает нож из рук. "Нет. Вы правы. Это были другие стихусы. А я просто..."
+
+Он закрывает глаза. "Не могу поверить, что я чуть было не... Меня бы совесть измучила. И так сильно, что самому бы жить расхотелось. Просто... Мне очень горько от гибели Ним".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>158</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>159</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>161</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>166</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>167</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>168</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>169</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>170</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>171</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>172</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>173</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>174</ID>
+      <DefaultText>Спустя некоторое время он, спотыкаясь, возвращается к вам. Он не может оторвать взгляда от рук, покрытых кровью: "Я... Я... Что я наделал?"
+
+Его трясет от рыданий. Он бросает нож: "Я его убил!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>175</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>176</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>177</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>178</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>179</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>180</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>181</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>182</ID>
+      <DefaultText>"Прости. Выведи я этого стихуса из укрытия раньше, ничего бы не произошло".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>183</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>184</ID>
+      <DefaultText>"Прочь от меня, убийца".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>185</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>186</ID>
+      <DefaultText>"За убийство стихуса тебя никто не накажет. Кроме твоей совести".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>187</ID>
+      <DefaultText>Зебб взвывает от ужаса и презрения к самому себе и убегает от вас в толпу.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>188</ID>
+      <DefaultText>"Что я наделал?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>189</ID>
+      <DefaultText>"Ты был сам не свой. Не суди себя строго".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>190</ID>
+      <DefaultText>Зебб по-прежнему безутешно рыдает: "Что мне делать? Как теперь мне жить?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>191</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>192</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>193</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>194</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>195</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>196</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>197</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>198</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>199</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>200</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>201</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>202</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>203</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>204</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>205</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>206</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>207</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>208</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>209</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>210</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>211</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>212</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>214</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>215</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>216</ID>
+      <DefaultText>"Забудь. Прощай".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>217</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>218</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>219</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>220</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>221</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>222</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>223</ID>
+      <DefaultText>"Мне известно, что случилось с твоим отцом".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>224</ID>
+      <DefaultText>"П-п-правда? Расскажите!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>225</ID>
+      <DefaultText>"Мне жаль, но он погиб в Цветении. Его капитан передала тебе медальон. Она сказала, что он принадлежал твоему отцу".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>226</ID>
+      <DefaultText>Вы протягиваете медальон Зеббу, и он таращится на него. Затем открывает. Внутри портрет женщины. "Да, это папин. Он... никогда не расставался с ним, значит..."
+
+Он поникает: "Я догадывался, что он погиб. Не хотел только признавать этого... и говорить Ним".
+
+Он оглядывается на разрушенный дом и свою семью. "Наверное, пора подыскать место получше".
+
+{SCRIPT: Makes the attempt to get Zebb to go to the House of Empty Time automatically succeed.}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>227</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>228</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>229</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>230</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>231</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>232</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>233</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>234</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>235</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>236</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>237</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>238</ID>
+      <DefaultText>"Прощай".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>239</ID>
+      <DefaultText>"Всего вам доброго, господин".</DefaultText>
+      <FemaleText>"Всего вам доброго, госпожа".</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>240</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>241</ID>
+      <DefaultText>Он вглядывается вдаль, а затем поворачивается обратно к вам. Он взволнованно улыбается.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>242</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>243</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>248</ID>
+      <DefaultText>"Кто такой стихус?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>249</ID>
+      <DefaultText>"Всем известно, кто это такие. Они землекопы. Строят туннели под землей. Люди считают, что именно поэтому тут то и дело рушатся дома".
+
+Он смотрит на улицу. "А вот этот копать не может. И за этого его и выгнали. Мне так кажется. В любом случае, он совсем один, как мы с сестрой. Поэтому мы хотим ему помочь".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>251</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>252</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>253</ID>
+      <DefaultText>"Прощай".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>254</ID>
+      <DefaultText>Девочка с флейтой поднимает взгляд. "Зебб ни слова не сказал с тех пор, как рухнул дом. А Ним... Ним едва зашла внутрь, чтобы искупаться. Затем раздался чудовищный треск, и..."
+
+Она опускает голову: "Мы думаем, это дело рук стихусов".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>255</ID>
+      <DefaultText>"Кто ты?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>256</ID>
+      <DefaultText>"Кто такая Ним?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>257</ID>
+      <DefaultText>"Меня зовут Авина. Я подруга Зебба".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>258</ID>
+      <DefaultText>"Ним была младшей сестрой Зебба. Теперь она..."
+
+Она проводит взглядом по развалинам дома и отворачивается.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>259</ID>
+      <DefaultText>"Прощай".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>260</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>261</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>262</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>263</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>264</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>265</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>266</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>267</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>268</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>269</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>270</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>280</ID>
+      <DefaultText>"Это портал. Он перенесет тебя к влюбленной паре, которая, очень хочет ребенка".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>281</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>282</ID>
+      <DefaultText>"Это портал. Он перенесет тебя к влюбленной паре, которая, очень хочет ребенка".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>283</ID>
+      <DefaultText>Зебб шмыгает носом и вытирает его о свой потрепанный рукав, затем кивает. "Да. Ты права. Мне нужно отсюда выбираться". Он смотрит на Авину. "Авина, ты справишься, если я уйду?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>284</ID>
+      <DefaultText>Зебб шмыгает носом и вытирает его о свой потрепанный рукав. Он смотрит на Авину. "Авина, что мне делать? Ты все, что у меня есть".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>285</ID>
+      <DefaultText>Он задумывается на мгновение, затем качает головой: "Может я уйду когда-нибудь, но не сейчас. Я не могу оставить призрак Нимы в одиночестве. Она ведь не знает, где находится".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>286</ID>
+      <DefaultText>Он качает головой: "Зачем мне туда идти, ведь я там никого не знаю? Здесь мой дом. Даже... даже если я здесь совсем один".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>287</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>288</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>289</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>290</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>291</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>292</ID>
+      <DefaultText>"Я знаю одно место на площади Правительства, где ты обретешь семью — это Дом Пустого Времени".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>293</ID>
+      <DefaultText>"Звучит... очень странно. Что это за место?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>296</ID>
+      <DefaultText>"Возможно сейчас и не время, но не хотел бы ты отправиться в Дом Пустого Времени?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>297</ID>
+      <DefaultText>"Не знаю, понравится ли мне там. Что это за место?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>298</ID>
+      <DefaultText>Зебб кивает и смотрит на Авину: "Спасибо, Авина. Возможно, я согласился бы, если бы ты мне ничего не сказала. Но это было бы жестоко".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>299</ID>
+      <DefaultText>"Пусть он сам отвечает. Он заслуживает жить без такого груза на душе. Что ты ответишь, Зебб?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>300</ID>
+      <DefaultText>"Пусть он сам отвечает. Он заслуживает жить без такого груза на душе. Что ты ответишь, Зебб?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>301</ID>
+      <DefaultText>Зебб кивает и снова задумывается.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>302</ID>
+      <DefaultText>Зебб кивает с закрытыми глазами: "Да. Помоги мне забыть. Я больше не могу это выносить".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>303</ID>
+      <DefaultText>Зебб качает головой: "Я хочу этого больше всего на свете, но Авина права. Как я могу чтить память Ним, если я не буду помнить, кем она была?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>304</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>305</ID>
+      <DefaultText>Зебб сердится: "Ты пытаешься лишить меня воспоминаний о моей сестре? Нет! Ты хочешь еще раз убить ее!"
+
+Он отворачивается от вас. "Тебе лучше уйти. Я больше не хочу с тобой говорить".
+
+{SCRIPT: Zebb won't talk to PC again.}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>306</ID>
+      <DefaultText>Авина улыбается: "Я не думала оставаться здесь навечно, Зебб. Ты поступаешь правильно".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>307</ID>
+      <DefaultText>Он кивает, а затем снова смотрит на вас: "Я готов. Я полагаю, мне не понадобятся механизмы, которые я собирал здесь на улице. Так что можете оставить их себе. И спасибо вам за все".
+{LOOT}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>308</ID>
+      <DefaultText>Зебб медленно поднимает глаза: "Вы... вы что-то сказали, господин?"</DefaultText>
+      <FemaleText>Зебб медленно поднимает глаза: "Вы... вы что-то сказали, госпожа?"</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>309</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>310</ID>
+      <DefaultText>Пока Зебб смотрит в землю, терзая себя, вы чувствуете глубочайшее сочувствие, которое наполняет ваше сердце. Далее вы чувствуете, что если это сочувствие сформировать и преобразовать в энергию, то ее можно передать Зеббу, чтобы он забыл свою сестру. Вся боль в его сердце уйдет раз и навсегда.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>311</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>312</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>313</ID>
+      <DefaultText>Зебб кивает с закрытыми глазами. "Сделайте это. Я больше не вынесу этой боли".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>314</ID>
+      <DefaultText>"Все равно спасибо за предложение".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>315</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>316</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>317</ID>
+      <DefaultText>Зебб выпускает нож из рук. "О чем я только думал? Я был так зол, я..."
+
+Он закрывает глаза. "Я... Не могу поверить, что я чуть было не... Меня бы совесть измучила. И так сильно, что самому бы жить расхотелось. Просто... Мне очень горько от гибели Ним".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>318</ID>
+      <DefaultText>Зебб выпускает нож из рук. "Я... Не знаю, зачем я..."
+
+Он закрывает глаза. "Спасибо, что остановили меня. Меня бы совесть измучила. И так сильно, что самому бы жить расхотелось. Просто... Мне очень горько от гибели Ним".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>319</ID>
+      <DefaultText>"Не беспокойся. Я позже тебе скажу".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>320</ID>
+      <DefaultText>Зебб моргает: "Что? Зачем вы так терзаете меня? Это просто ужасно".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>322</ID>
+      <DefaultText>Мальчик все еще сидит перед своим разрушенным домом. Он опять отвел взгляд и не смотрит на вас.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>327</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>329</ID>
+      <DefaultText>"Это ваш дом? Он не выглядит надежным".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>330</ID>
+      <DefaultText>"Мы знаем. Поэтому мы и проводим здесь на улице большую часть времени, с тех пор как Авина заметила эти трещины на стене. В доме мы только переодеваемся".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>332</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>333</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>334</ID>
+      <DefaultText>Мальчик приветствует вас, как только вы подходите к дому. "Рад видеть вас снова, господин. Чем могу помочь?"</DefaultText>
+      <FemaleText>Мальчик приветствует вас, как только вы подходите к дому. "Рад видеть вас снова, госпожа. Чем могу помочь?"</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>335</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>336</ID>
+      <DefaultText>"Это не очень вежливо с вашей стороны, господин. Просить помощи и не предложить что-нибудь взамен".</DefaultText>
+      <FemaleText>"Это не очень вежливо с вашей стороны, госпожа. Просить помощи и не предложить что-нибудь взамен".</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>337</ID>
+      <DefaultText>"Простите, господин. Мы просто очень хотим кушать, поэтому ответим на ваши вопросы за вознаграждение. "</DefaultText>
+      <FemaleText>"Простите, госпожа. Мы просто очень хотим кушать, поэтому ответим на ваши вопросы за вознаграждение".</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>338</ID>
+      <DefaultText>"Я не могу помочь твоему стихусу".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>339</ID>
+      <DefaultText>"Я просто подумал... Если вы увидите других стихусов, вы, возможно, рассказали бы им о том, что один из них в беде, и они помогли бы ему сбежать..." Он опускает взгляд и его голос становится намного мягче: "Хотя бы не говорите о нем. Прошу вас!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>340</ID>
+      <DefaultText>"Я постараюсь".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>341</ID>
+      <DefaultText>"Не обещаю".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>342</ID>
+      <DefaultText>"Спасибо!" Он улыбается: "Я думаю вам можно доверять".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>343</ID>
+      <DefaultText>"Конечно, я не могу вас заставить. Но... пожалуйста, не говорите никому, где он. Я уверен, что они его убьют".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>344</ID>
+      <DefaultText>"Ты уже думал, как помочь ему сбежать?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>345</ID>
+      <DefaultText>"Нет, господин. Мы не можем идти с ним по улице, так как этот маленький жирный милорд увидит его. Не говоря уже о соседях. Я уверен, что они убьют его".</DefaultText>
+      <FemaleText>"Нет, госпожа. Мы не можем идти с ним по улице, так как этот маленький жирный милорд увидит его. Не говоря уже о соседях. Я уверен, что они убьют его".</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>346</ID>
+      <DefaultText>Он сердится на вас. "Вы убийца! Вы убили нашего стихуса! Убирайтесь отсюда!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>347</ID>
+      <DefaultText>"Я просто не поверил, когда разверзлась земля и этот жуткий стихус забрал его с собой. Клянусь, он издавал такие звуки, как будто внутри него работают механизмы".
+
+Он улыбается: "Возможно, он забрал Миттенса, чтобы тот присоединился к Ордену Отверженных Стихусов. И он наконец-то обретет покой с подобными ему существами!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>348</ID>
+      <DefaultText>"Ты кормил его топливными элементами?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>349</ID>
+      <DefaultText>"Стихусы питаются электрической энергией. Мы не можем найти поблизости столько энергии. Он очень голодный".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>350</ID>
+      <DefaultText>"Это вы с друзьями рылись в развалинах рядом с хирургическим кабинетом?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>351</ID>
+      <DefaultText>Он кивает: "Да, это были мы. Я нашел еду, но мы ее уже съели... а Авина нашла какую-то коробку нуменеров".
+
+Он прикрывает рот: "О, возможно, мне не стоило это говорить. Ты же не заберешь у нее эту коробку? Не заберешь?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>352</ID>
+      <DefaultText>"Конечно, нет. Я просто спросил".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>353</ID>
+      <DefaultText>"Если она мне нужна, я заберу".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>354</ID>
+      <DefaultText>"Не волнуйся об этом. Позволь мне спросить у тебя кое-что еще".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>355</ID>
+      <DefaultText>"Фух! Она очень дорожит этой коробкой".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>356</ID>
+      <DefaultText>"Надеюсь, она тебе не нужна. Она очень дорожит этой коробкой".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>357</ID>
+      <DefaultText>"Ну хорошо".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>358</ID>
+      <DefaultText>"Впрочем, давай не будем говорить об этом".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>359</ID>
+      <DefaultText>Он пожимает плечами: "Хорошо".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>360</ID>
+      <DefaultText>"Я вас ненавижу!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>363</ID>
+      <DefaultText>Follow-up PQ. 363</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>365</ID>
+      <DefaultText>"Кто такие стихусы?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>366</ID>
+      <DefaultText>"Они землекопы. Люди говорят, они роют тоннели под землей, вот почему многие дома разрушаются".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>367</ID>
+      <DefaultText>"Хорошо. Я не скажу".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>368</ID>
+      <DefaultText>Follow-up PQ. 368</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>370</ID>
+      <DefaultText>"Сектанты хорошо с вами обращаются?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>371</ID>
+      <DefaultText>Он кивает: "Они дают нам очень хорошую еду... Я не спрашиваю, где они ее берут. И они обращаются с нами как с господами, всегда склоняются перед нами и улыбаются. Они говорят, что мы особенные, так как мы друзья их бога". 
+
+Он смущенно улыбается: "Никогда не подумал бы, что кто-то будет так хорошо относиться ко *мне*".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>372</ID>
+      <DefaultText>Follow-up PQ. 372</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>374</ID>
+      <DefaultText>"И все же, что тебе известно о Цветении?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>375</ID>
+      <DefaultText>"Я и сам мало знаю о нем. Говорят, это чудовище, внутри которого живут люди. Безумные люди... или вовсе не люди... вот что мой отец всегда говорил".
+
+"Если подняться в Караван-Сарай, оттуда можно увидеть Цветение".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>376</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>377</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>378</ID>
+      <DefaultText>"Позволь мне вместо этого задать тебе один вопрос".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>379</ID>
+      <DefaultText>"Разумеется, ты бы смог быстренько мне ответить".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>380</ID>
+      <DefaultText>Стереть его воспоминания о Ним и всю боль.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>381</ID>
+      <DefaultText>Чувство сочувствия усиливается в вашем сердце, и вы преобразовываете его в целебное средство. Вы кладете руку на лоб Зеббы, и поток тепла проходит через вас в его разум, формируя определенные воспоминания и полностью стирая другие. Он вздрагивает от вашего прикасания, но потом вся боль в его глазах исчезает. Он выпрямляется во весь рост, а вы чувствуете себя ослабевшим.
+
+{SCRIPT: Apply appropriate negative fettle to PC.}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>382</ID>
+      <DefaultText>Авина разъяренно подбегает и видит, что вы сделали. "Вы полностью стерли бедную Ниму из этого мира! Вы монстр! Теперь только я одна помню ее!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>383</ID>
+      <DefaultText>Когда грохот от взрыва затихает, Зебб открывает глаза и оглядывается. "Ч-ч-что случилось? Где Авина?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>384</ID>
+      <DefaultText>"Авина решила подыскать себе другое место для жизни. Может быть, тебе нужно сделать то же самое".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>385</ID>
+      <DefaultText>Зебб, сдвинув брови, смотрит на то место, где стоял его дом, как будто стараясь припомнить что-то важное, затем качает головой. "Наверно, здесь больше незачем оставаться. Но куда мне идти?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>386</ID>
+      <DefaultText>"Не знаю, но думаю, что теперь ты сам по себе".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>387</ID>
+      <DefaultText>Зебб, сдвинув брови, смотрит на то место, где стоял его дом, как будто стараясь припомнить что-то важное, затем качает головой. "Наверно".
+
+Он робко улыбается. "Куда мне идти?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>388</ID>
+      <DefaultText>"Прощай".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>389</ID>
+      <DefaultText>Зебб, сдвинув брови, смотрит на то место, где стоял его дом, как будто стараясь припомнить что-то важное, затем робко улыбается.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>390</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>391</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>392</ID>
+      <DefaultText>Мальчик сидит, не сводя глаз с того места, где стоял его дом. Он кажется более спокойным, но следы шока не исчезли с его лица.
+
+Он замечает, что вы подходите ближе. "Я не знаю, куда тебе идти. А ты сам не знаешь?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>393</ID>
+      <DefaultText>"Я знаю место на площади Правительства, где ты приобретешь новую семью — Дом Пустого Времени".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>394</ID>
+      <DefaultText>"Это место на площади Правительства, о котором ты уже слышал — Дом Пустого Времени".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>395</ID>
+      <DefaultText>"Я не знаю, но если узнаю, скажу тебе. Прощай".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>396</ID>
+      <DefaultText>"Не знаю, дитя. Прощай".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>397</ID>
+      <DefaultText>"У меня немного вариантов. Я полагаю, мне не понадобятся механизмы, которые я собирал здесь на улице. Так что можешь оставить их себе. Спасибо за все".
+{LOOT}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>398</ID>
+      <DefaultText>"Спасибо, господин. Всего вам доброго".</DefaultText>
+      <FemaleText>"Спасибо, госпожа. Всего вам доброго".</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>399</ID>
+      <DefaultText>Все еще не сводя глаз с места, где стоял дом, он отвечает:"Да. Я ничего не помню. Почему я ничего не помню?" Он качает головой, затем смотрит на вас.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>401</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>402</ID>
+      <DefaultText>"Здесь живет еще кто-нибудь?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>403</ID>
+      <DefaultText>"Можешь рассказать мне что-нибудь еще об этом месте?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>404</ID>
+      <DefaultText>"По соседству раньше жила женщина. Наноколдунья. Но она давным-давно исчезла. А еще... еще через два дома отсюда жила семья. Мы слышали, как они кричали в ту ночь, когда их дом упал в море", — он вздрагивает и отводит взгляд. — "Ним, моя сестра, дружила с их дочкой".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>405</ID>
+      <DefaultText>"Здесь почти никто больше не проходит. Как по мне, тут хорошо и спокойно. Лучше, чем в остальной части Края Утеса".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>406</ID>
+      <DefaultText>"Люди ищут его. Они говорят, что он опасен".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>407</ID>
+      <DefaultText>"Положи нож. Убийство еще больше все усложнит".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>409</ID>
+      <DefaultText>"Он мог остановить остальных! Я его ненавижу!" — когда вы встаете у него на пути, Зебб замахивается на вас своим ножом, затем резко разворачивается и убегает на расположенную рядом свалку.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>410</ID>
+      <DefaultText>Зебб врезается в вас и принимается безудержно плакать: "Но ведь Ним умерла! Стихусы ее не пощадили!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>411</ID>
+      <DefaultText>Через секунду нож выпадает у него из рук: "Нет... стихус в переулке, он... он изгой и не мог остановить остальных".
+
+Он закрывает глаза: "Я... я не могу поверить, что чуть не... Это было бы ужасно. Думаю, я не смог бы с этим жить. Просто... мне так больно оттого, что сестры больше нет".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>412</ID>
+      <DefaultText>"Лорд Вантген всех соседей поставил на уши: пообещал награду любому, кто найдет "разъяренного стихуса", — мальчик показывает на запад, откуда доносятся приглушенный гудящий голос и ответные крики озлобленной толпы.
+
+"Они считают стихуса *опасным*, но это не так. Ты видел его руки: он неспособен копать, как остальные. Это не он разрушает дома".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>413</ID>
+      <DefaultText>"Мы поговорили с лордом Вантгеном. Он согласился прекратить охоту на твоего стихуса".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>414</ID>
+      <DefaultText>Он распахивает глаза и смотрит на вас с благоговением: "Спасибо! Я не думал, что *кто-то* может указывать Семьям Рабов, что делать. — Он улыбается. — Значит, стихус может остаться здесь. Мы его будем кормить и держать подальше от людей".</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

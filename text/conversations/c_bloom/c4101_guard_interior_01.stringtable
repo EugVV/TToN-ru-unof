@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\c_bloom\c4101_guard_interior_01</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>10</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>"Смотри под ноги! Я не пугаю, но просто Цветение ведет себя странно, и никто не знает, почему".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>"Даже не верится, что ты спас кого-то от мерденов. Их ничем было не вывести".</DefaultText>
+      <FemaleText>"Даже не верится, что ты спасла кого-то от мерденов. Их ничем было не вывести".</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>"Даже не представляю, как можно ввязаться в драку с этими мутантами. Они ж бешеные! Но ты вроде хорошенько им навалял".</DefaultText>
+      <FemaleText>"Даже не представляю, как можно ввязаться в драку с этими мутантами. Они ж бешеные! Но ты вроде хорошенько им наваляла".</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>"Ты спас моего друга. Словами не передать, как мы все благодарны тебе".</DefaultText>
+      <FemaleText>"Ты спасла моего друга. Словами не передать, как мы все благодарны тебе".</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>"Мемовира очень зла на тебя... Но не все ей преданы. Может, ты сумеешь настроить кого-нибудь против нее".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>"Ты! То есть, это самое... Все ж про тебя говорят! Ладно... иди и не обращай на меня внимания".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>"Мемовира ждет тебя в крепости".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>"Проходи".</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

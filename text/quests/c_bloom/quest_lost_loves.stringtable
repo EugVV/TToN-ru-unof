@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>quests\c_bloom\quest_lost_loves</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>16</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>0</ID>
+      <DefaultText>Разбитые сердца</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>Помочь Тибиру найти Овина.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>Найти человека, потерявшего кольцо.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>Вернуться к Дракогену.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>Цена трусости</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>Привести Тибира к Дракогену.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>Переход в финальную стадию игры (ПРОВАЛ)</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10000</ID>
+      <DefaultText>Прошлое Тибира поджидало его в зловещей темноте Цветения.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10001</ID>
+      <DefaultText>Дракоген вернул кольцо Тибиру, которое может помочь ему узнать, где прячется его старая любовь, Овин. Если я поговорю с Тибиром, он сможет указать мне путь.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10002</ID>
+      <DefaultText>Кольцо Овина находится у мутанта, собирающего мусор, по имени Кримпер. Мужчина, который потерял кольцо, находится в святилище Чилы Великой.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10003</ID>
+      <DefaultText>Овин, бывший возлюбленный Тибира, умер. Тибир хочет выяснить, что знает об этом Дракоген.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10004</ID>
+      <DefaultText>Неправильное решение Тибира стоило жизни его возлюбленному. Дракоген был виновен лишь в том, что стоял в стороне и позволил судьбе все решить.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10005</ID>
+      <DefaultText>Дракоген хочет, чтобы я воссоединил его с Тибиром, его "старым другом".</DefaultText>
+      <FemaleText>Дракоген хочет, чтобы я воссоединила его с Тибиром, его старым другом.</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>10006</ID>
+      <DefaultText>Я очнулся в Лабиринте после того как была активирована резонансная камера. Не знаю, когда и удастся ли мне вообще вернуться обратно в Цветение. Поэтому, возможно, Тибир и Дракоген не смогут сотрудничать друг с другом.</DefaultText>
+      <FemaleText>Я очнулась в Лабиринте после того как была активирована резонансная камера. Не знаю, когда и удастся ли мне вообще вернуться обратно в Цветение. Поэтому, возможно, Тибир и Дракоген не смогут сотрудничать друг с другом.</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>20000</ID>
+      <DefaultText>Тибир почувствовал, что Овин может находиться в Малом Нилише.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20001</ID>
+      <DefaultText>Тибир сказал, что я должен найти кого-то, кто копается в мусоре, в Малом Нилише.</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

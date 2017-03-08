@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\c_bloom\c4301_mutant_gate_guard_01</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>2</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>0</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>"В Малом Нилише лучше смотреть под ноги, *друг*. Тут темно, и можно на что-нибудь... натолкнуться".</DefaultText>
+      <FemaleText>"В Малом Нилише лучше смотреть под ноги, *друг*. Тут темно, и можно на что-нибудь... натолкнуться".</FemaleText>
+    </Entry>
+  </Entries>
+</StringTableFile>

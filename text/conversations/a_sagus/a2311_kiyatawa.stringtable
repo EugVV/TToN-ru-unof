@@ -1,0 +1,920 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\a_sagus\a2311_kiyatawa</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>174</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>Эта женщина наблюдает за тобой, оценивая каждый твой шаг, каждое движение твоих рук. Однако, в ней нет страха. Ее спина словно железный стержень, а ее губы образуют тонкую прямую линию.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>"Удивлена увидеть тебя снова", — говорит она. Ее губы на мгновение искривляются в ехидную улыбку. — "Удивлена увидеть тебя здесь, вообще. Мы едим не так много плоти, и нам ничего другого не остается, как снова переходить на конечности". Она бросает быстрый взгляд в нашу сторону, затем на другого Дендра О'хур и нахмуривается.
+
+"Тебе что-то нужно?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>"Ты не туда повернул?" — говорит она, рассматривая ногти на своей правой руке. — "Не вижу, чтобы здесь было много людей, желающих зайти на огонек или тех, кто ищет компанию".
+
+Она бросает осторожный взгляд на громадного сектанта, стоящего поблизости, затем направляет свой взгляд на тебя. 
+
+"Тебе что-то нужно?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>На этот раз, она не тратит на тебя много слов. Она просто кивает, своим усталым взглядом определяя положение каждого в этой комнате.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>Follow-up PQ. 12</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText>"Да?" — говорит она, пренебрежительно глядя на пожилого человека. Он кивает.
+
+"Хорошо. Должна сказать, я не удивлена, что след убийцы привел тебя сюда. Что ты хочешь знать?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText>"Продолжай", — она вздыхает.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>14</ID>
+      <DefaultText>Follow-up PQ. 15</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>15</ID>
+      <DefaultText>"Нет", — говорит она, кладя руки на свои бедра. — "Но я видела что после них осталось от паренька Толстона — бесформенная масса. Кровь на стенах и полу. Никакого тела".
+
+Она смахивает прядь волос со своих глаз. "Эта смерть похожа на то, когда кто-то пытается оставить предупреждение... или затаил обиду. Я видела такое постоянно, до того, как пришла сюда".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>16</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>17</ID>
+      <DefaultText>"Почему?" говорит она с выражением, чем-то напоминающим улыбку. "*Почему*? Это кто-то, о ком заботился Толстон. У него много врагов. Почему ты так думаешь?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>18</ID>
+      <DefaultText>"У тебя есть хоть какие-то предположения, кто убийца?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>19</ID>
+      <DefaultText>"Почему ты думаешь, что кто-то убил протеже Толстона?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>21</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>22</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>23</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>24</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>25</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>26</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>27</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>28</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>29</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>31</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>32</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>33</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>34</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>35</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>36</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>37</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>38</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>39</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>40</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>41</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>42</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>43</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>44</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>45</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>46</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>47</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>48</ID>
+      <DefaultText>"Я хочу еще кое-что спросить".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>49</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>50</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>51</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>52</ID>
+      <DefaultText>Follow-up PQ. 57</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>53</ID>
+      <DefaultText>"Нет", — говорит она. — "Никогда о них не слышала".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>54</ID>
+      <DefaultText>Она качает головой, выглядя смущенной.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>55</ID>
+      <DefaultText>"Знаешь ли ты что-нибудь о Бесконечных Вратах?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>56</ID>
+      <DefaultText>"Ты уверена, что ты никогда раньше не слышала о детях из Бесконечных Врат?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>57</ID>
+      <DefaultText>Follow-up PQ. 62.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>58</ID>
+      <DefaultText>"Хаа", — говорит она. — "Все нормально. Не думай, что я что-то буду утаивать".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>59</ID>
+      <DefaultText>"Конечно", — говорит она, пожимая плечами.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>60</ID>
+      <DefaultText>Follow-up PQ. 65</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>61</ID>
+      <DefaultText>"Он прожил слишком долго", — говорит она. — "Возможно, Дендра О'Хур когда-то и были кем-то, но сейчас они ищут, где бы им поесть в следующий раз. А остальные из них следуют его примеру".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>62</ID>
+      <DefaultText>"Ленивые", — говорит она кратко. — "Всегда голодные. Просто желудок на тощих ногах".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>63</ID>
+      <DefaultText>"Что думаешь о Имбиту?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>64</ID>
+      <DefaultText>"Еще раз, что ты думаешь об Имбиту?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>65</ID>
+      <DefaultText>Follow-up PQ. 75</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>66</ID>
+      <DefaultText>"Ему нравится причинять людям боль. Больше того, он гордится этим". Она яростно проводит рукой по ее волосам и понижает свой голос.
+
+"Я не уверена, но я думаю, что он все еще убивает своих соперников из прошлой жизни. И поедает их".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>67</ID>
+      <DefaultText>"Ему приходилось убивать людей за деньги. И я не думаю, что он остановился".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>68</ID>
+      <DefaultText>"Что ты чувствуешь по поводу Маллета?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>69</ID>
+      <DefaultText>"Что ты сейчас чувствуешь по поводу Маллета?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>70</ID>
+      <DefaultText>Follow-up PQ. 70</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>71</ID>
+      <DefaultText>"Раньше она была...хуже, чем сейчас. Если ты еще не говорил с ней, ты поймешь, что я имею ввиду". Она смущенно бросает взгляд на мутанта. 
+
+"Может быть, все эти трупы, которых она поедает сама, впускают Сагуса в ее голову. Делая ее цивилизованной, возможно". 
+
+Она качает головой. "Но это только означает, что она — хищник, который знает мысли своей жертвы".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>72</ID>
+      <DefaultText>"Она — каннибал из мира каннибалов", — категорично говорит Киютава. — "И не имеет значения, какой дружелюбной она может казаться, она живет уже долгое время. Подумай об этом".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>73</ID>
+      <DefaultText>"Что ты думаешь о Гзи?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>74</ID>
+      <DefaultText>"Что сейчас ты думаешь о Гзи?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>75</ID>
+      <DefaultText>"У меня появились новые вопросы".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>76</ID>
+      <DefaultText>"Еще бы", — говорит она. — "Ну говори, тогда".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>77</ID>
+      <DefaultText>"Я хочу знать твое мнение об остальных членах Дендра О'хур".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>78</ID>
+      <DefaultText>"Я снова хочу спросить тебя о другом Дендра О'Хур".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>79</ID>
+      <DefaultText>"У меня больше нет вопросов об убийце".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>80</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>81</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>82</ID>
+      <DefaultText>"Хорошо", — произносит она, кивая.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>83</ID>
+      <DefaultText>"Имбиту сказал, что я могу спросить тебя об убийстве протеже Толстона".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>84</ID>
+      <DefaultText>"У меня есть еще вопросы об убийце протеже Толстона".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>85</ID>
+      <DefaultText>Follow-up PQ. 90</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>86</ID>
+      <DefaultText>Follow-up T. 91</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>87</ID>
+      <DefaultText>"Нет. Имбиту не хочет, чтобы мы вмешивались."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>88</ID>
+      <DefaultText>"Без разрешения старика", — говорит она, махая рукой Имбиту.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>89</ID>
+      <DefaultText>"Убийца на свободе в Подбрюшье. Могу ли я задать тебе несколько вопросов?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>90</ID>
+      <DefaultText>"Ты уверен, что не можешь ответить на вопросы по поводу убийцы в Подбрюшье?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>91</ID>
+      <DefaultText>Follow-up PQ. 96</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>92</ID>
+      <DefaultText>"Никто не спрашивал о чем ты думаешь!" — отвечает она резко. "Оставь меня одну". 
+
+Затем она усмехнулась. Это звучит невесело. "Я эгоист, не правда ли? Позволь нам *съесть* тебя, пусти нас в свою голову. Ты не заслуживаешь и кончика моего языка, если ты спрашиваешь, все ли у меня в порядке".
+
+Она трет свой глаз ребром своей ладони. "Прекрасно. Я здесь *несчастлива*. Я хочу уехать. Доволен?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>93</ID>
+      <DefaultText>"Задавай любые вопросы", — говорит она.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>94</ID>
+      <DefaultText>"Ты кажешься здесь несчастной".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>95</ID>
+      <DefaultText>"Я бы хотел узнать о тебе больше".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>96</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>97</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>98</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>99</ID>
+      <DefaultText>"Ты кажешься здесь несчастной".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>100</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>101</ID>
+      <DefaultText>Follow-up PQ. 110</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>102</ID>
+      <DefaultText>"Долго рассказывать", — говорит она. — "Думала, что я найду мое место. Полагаю, что я ошибалась". 
+
+Она замолкает.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>103</ID>
+      <DefaultText>"Я..." Она выдыхает, сдавливая свои закрытые веки. "Ничего страшного. Мне бы следовало что-то сказать."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>104</ID>
+      <DefaultText>"Как долго ты была в Дендра О'Хур?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>105</ID>
+      <DefaultText>"Почему ты не чувствуешь, что ты принадлежишь Дендра О'Хур?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>106</ID>
+      <DefaultText>"Прощай".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>107</ID>
+      <DefaultText>::кивает::</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>108</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>109</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>110</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>111</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>112</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>114</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>115</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>116</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>117</ID>
+      <DefaultText>"Расскажи мне больше о твоих снах, которые постоянно сняться тебе".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>118</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>119</ID>
+      <DefaultText>"Они почти всегда одни и те же", — говорит она, потирая свой лоб. — "Мужчина — мой отец — навещает меня во снах... или кто-то еще, кем я собираюсь стать. Как будто, он не придет за мной, пока я не стану той женщиной".
+
+Она качает головой. "И это еще одна причина, по которой я вступила туда. Я продолжаю слышать ее — голос молодой женщины, который говорит мне, кем я должна стать. Я думала, что наполняя свой разум воспоминаниями других людей, заставлю уйти ее".
+
+Она опускает плечи с беззвучным, горьким смехом. "Это не сработало".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>120</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>121</ID>
+      <DefaultText>"Я встретила другую женщину, которая слышала голос в своей голове, который говорил ей, что она была кем-то еще".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>122</ID>
+      <DefaultText>"Это ее проблема", — резко говорит Киютава. — "Я не принадлежу ей. Я больше никто, кроме как я сама, и я найду свои ответы самостоятельно!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>123</ID>
+      <DefaultText>"Ты права", — говорит она. Ее глаза красиво светятся, излучая спокойствие и удовлетворенность. "Я не права. Спасибо тебе. Я буду помнить, что ты помогла мне".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>124</ID>
+      <DefaultText>"Я обнаружила, что источник этого голоса находится в твоей голове. Тебе не следует ее больше слушать".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>125</ID>
+      <DefaultText>"Ты похожа на женщину-призрака, которую я видел в Пятом Глазе".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>126</ID>
+      <DefaultText>"Я, вероятно, выгляжу как и большинство людей", — говорит она, в ее голосе чувствуется напряжение. — "Ну и что?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>127</ID>
+      <DefaultText>"Маллет говорит, что он застал тебя, лично поедающей труп".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>128</ID>
+      <DefaultText>"Да ну? Может *Маллету* следует не совать нос в чужие дела", — говорит она, бросая рассерженный взгляд на громадного сектанта. 
+
+"Конечно. Это правда. Я не хочу здесь находится дольше, чем должна, все верно? Я просто не могу больше *спать*. Меня не покидает чувство, что они ждут, когда я умру. Представляю, какой я буду на вкус".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>129</ID>
+      <DefaultText>"Не так давно, я нашла труп в аллее недалеко от Малого Круга. И я не видела причин, по которым мне следовало бы делить его с кем-либо".
+
+Она проводит пальцами по своим волосам. "Вот именно. Нет тайны, нет скандала. А пока Маллет думает, что он может делить мою добычу с чужаками, может тебе стоит спросить *его*, сколько трупов он нашел сам. Или были ли они *мертвы* на самом деле, когда он нашел их".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>130</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>131</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>134</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>135</ID>
+      <DefaultText>С ее губ чуть не слетело слово «снова».</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>136</ID>
+      <DefaultText>"Что беспокоит тебя?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>137</ID>
+      <DefaultText>"Ничего. Без обид, но я совсем тебя не знаю. Оставь меня одну, ладно?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>138</ID>
+      <DefaultText>"Я хочу спросить еще кое о чем".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>139</ID>
+      <DefaultText>"Хорошо. Спрашивай".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>140</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>141</ID>
+      <DefaultText>"Почему ты несчастна в Дендра О'Хур?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>142</ID>
+      <DefaultText>"Почему ты не примкнула к Дендра О'Хур сейчас?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>143</ID>
+      <DefaultText>"Понизь свой тон", — говорит она, закрывая свои глаза.
+
+Ее рука устало спадает с волос на ее шею. "Я думала, это будет местом, где я смогу пожить. Какое-то время, я была *уверена*. Если бы я только знала. Я не могу долго находится в группах. Не могу даже переносить свою семью. Мне было лучше самой, даже если".
+
+Она умолкает.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>144</ID>
+      <DefaultText>"Найти человека, который разговаривает со мной в моих снах", — говорит она. — "Моего отца".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>145</ID>
+      <DefaultText>"Твоя семья покинула тебя?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>146</ID>
+      <DefaultText>Промолчать.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>147</ID>
+      <DefaultText>"Нет", — говорит она. Ее глаза резко расширились. "Я покинула *их*. И это не была моя настоящая семья. Я знала это уже тогда".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>148</ID>
+      <DefaultText>"Мне было лучше одной", — говорит она в конце более уверенно. Она снова открывает свои глаза. "И это не была моя настоящая семья. Я знала это уже тогда".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>149</ID>
+      <DefaultText>"Я многого не помню о своих *родителях*". Она презрительно усмехается на этом слове. "Они были мясниками и они заставляли меня помогать им в своем магазине сразу, как только я научилась ходить. Каждую ночь я не могла заснуть, когда темнело...и мне начинали сниться одни и те же сны, снова и снова".
+
+Улыбка закралась на ее лице. "Это был свет. Это он сказал мне, что я была его дочерью. И что он чувствует себя виноватым, что оставил меня, но у него не было выбора. И что он когда-нибудь снова найдет меня".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>150</ID>
+      <DefaultText>"Какое отношение это имеет к Дендра О'Хур?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>151</ID>
+      <DefaultText>Промолчать.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>152</ID>
+      <DefaultText>"Я расскажу тебе", — говорит она. — "Только...только не перебивай и слушай". Она потирает свое лицо обеими ладонями.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>153</ID>
+      <DefaultText>В тишине, среди ее мыслей, Киятава пристально смотрит в стену, позади тебя. Или сквозь нее.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>154</ID>
+      <DefaultText>"Я сбежала", — говорит она в итоге. — "Чтобы идти своим путем. Мне нечего много рассказывать, или чего-то, что я хочу рассказать. Просто сны продолжались".
+
+Ее лицо искривляется. "Я проснулась от одного из них, год тому назад, и увидела Имбиту — нашего лидера — рядом со мной. Он сказал, что я звала кого-то во сне. Сказал, что поможет мне разыскать моего 'отца'".
+
+Ее губа скривилась. "Вот так я и присоединилась к ним. Съела несколько трупов. Но ничего не прояснилось, и он никогда больше не говорил об этом с тех пор. Он — и остальные из них — только заботятся о своей следующей пище".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>155</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>156</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>157</ID>
+      <DefaultText>"Почему ты не оставишь Дендра, если ты несчастна там?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>158</ID>
+      <DefaultText>"Я собираюсь", — она обещает, бросая безнадежный взгляд на свою 'семью'. — "Я нахожусь здесь уже слишком долго".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>162</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>163</ID>
+      <DefaultText>"Имбиту говорит, что я могу спросить тебя об убийствах в Подбрюшье".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>164</ID>
+      <DefaultText>"У меня еще есть много вопросов по поводу убийц в Подбрюшье".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>165</ID>
+      <DefaultText>"Торговец в Малом Круге сказал, что они выследили тебя, бродившую поблизости и говорившую о 'пустых кольцах'".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>166</ID>
+      <DefaultText>"Это правда?" — говорит она, почесывая свой затылок. — "Ничего не припоминаю, но может я была пьяна".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>167</ID>
+      <DefaultText>Она наклоняет свою голову в сторону Имбиту. Он неотрывно смотрит в потолок и, очевидно, не в курсе вашего разговора.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>168</ID>
+      <DefaultText>Она склоняет свою голову в сторону пожилого человека, который дремлет рядом, неподалеку от алтаря из костей. Он неотрывно смотрит в потолок и, очевидно, не в курсе вашего разговора.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>169</ID>
+      <DefaultText>"Это Имбиту?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>170</ID>
+      <DefaultText>"Давай поговорим о чем-нибудь другом".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>171</ID>
+      <DefaultText>"Конечно".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>172</ID>
+      <DefaultText>"Он не сильно похож на лидера, не правда ли? Но он устанавливает правила". Она вздыхает.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>173</ID>
+      <DefaultText>"Ты сердишься на Имбиту".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>174</ID>
+      <DefaultText>"Давай поговорим о чем-нибудь другом".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>175</ID>
+      <DefaultText>"Я не люблю, когда мне врут", — говорит она, ее глаза полны разочарования. — "Он обещал дать ответы, когда я присоединилась к нему и к этой секте. Возможно, он обещал слишком много, или, возможно, он просто забыл. Но это ложь, в любом случае".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>176</ID>
+      <DefaultText>Она кивает, ее глаза полны разочарования.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>179</ID>
+      <DefaultText>Она удивленно изгибает брови, и это простое движение кажется странно знакомым. Вы уже видели это выражение на чьем-то похожем лице...
+
+Призрачная Женщина в таверне "Пятый Глаз".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>181</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>182</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>183</ID>
+      <DefaultText>"Продолжай", — она вздыхает.</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

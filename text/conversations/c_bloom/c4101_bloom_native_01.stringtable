@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\c_bloom\c4101_bloom_native_01</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>4</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>"Мемовиру не видели уже несколько недель. Думаю, она лежит мертвая в своей башне".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>"Говорят, это ты открыл путь к торговому посту? Ты просто... отдавал приказы Цветению?"</DefaultText>
+      <FemaleText>Говорят, это ты открыла путь к торговому посту? Ты просто... отдавала приказы Цветению?</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>"Сектанты говорят... говорят, будто тебе довелось побывать в глубинах Цветения. Это... это правда?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>"Сектанты возвещают, что у Цветения новая Мемовира. Старой это точно не понравится".</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

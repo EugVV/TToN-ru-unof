@@ -1,0 +1,551 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\c_bloom\c4311_pilot_major_genjes</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>103</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>0</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>"Чем могу услужить?"</DefaultText>
+      <FemaleText>"Чем могу услужить?"</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>Он вытирает тряпкой прозрачный стеклянный глаз и смотрит на вас: "Ты говорил с несколькими, да? Мы долго жили здесь. Много капитанов было, мы обнаружили, что надо ждать корабля. До того, до прибытия, мы выживаем. Мы ждём. И мы учимся".</DefaultText>
+      <FemaleText>Он вытирает тряпкой прозрачный стеклянный глаз и смотрит на вас: "Ты говорил с несколькими, да? Мы долго жили здесь. Много капитанов было, мы обнаружили, что надо ждать корабля. До того, до прибытия, мы выживаем. Мы ждём. И мы учимся".</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>Лицо этого мужчины выражает беспокойство. Как и остальные обитатели Якорной Стоянки, он одет в узорчатый доспех, но шлем снял. У него редеющие волосы, а вокруг глаз и на лбу морщинки.
+
+Он возится с каким-то экраном, но отворачивается от него, чтобы обратиться к вам: "Приветствие. Я Женжес, пилот-майор Якорной Стоянки".</DefaultText>
+      <FemaleText>Лицо этого мужчины выражает беспокойство. Как и остальные обитатели Якорной Стоянки, он одет в узорчатый доспех, но шлем снял. У него редеющие волосы, а вокруг глаз и на лбу морщинки.
+
+Он возится с каким-то экраном, но отворачивается от него, чтобы обратиться к вам: "Приветствие. Я Женжес, пилот-майор Якорной Стоянки".</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>"Я служу, чужак. Я — хранитель навигационного кортекса, его слуга. Я слежу за датчиками, слушаю его слова. Тут фильтруются данные с антенн, *все* данные Якорной Стоянки проходят кортекс. Если я ошибусь, могу не узнать, что идёт корабль. И я чищу, и слушаю, и изучаю. Если корабль придёт в мою жизнь — а я думаю, придёт — я помещу его разум в свой, и мы проложим путь к дому".</DefaultText>
+      <FemaleText>"Я служу, чужак. Я — хранитель навигационного кортекса, его слуга. Я слежу за датчиками, слушаю его слова. Тут фильтруются данные с антенн, *все* данные Якорной Стоянки проходят кортекс. Если я ошибусь, могу не узнать, что идёт корабль. И я чищу, и слушаю, и изучаю. Если корабль придёт в мою жизнь — а я думаю, придёт — я помещу его разум в свой, и мы проложим путь к дому".</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText>"Я нашёл этот ласкарский шлем в Цветении".</DefaultText>
+      <FemaleText>"Я нашёл этот ласкарский шлем в Цветении".</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>14</ID>
+      <DefaultText>"Это... это шлем младшего офицера Ачилли?" — он выхватывает шлем у вас из рук и внимательно осматривает его. "Пустота забрала. Я надеялся, что она ещё выжила, — от чувств его акцент становится более явным. — Пожалуйста, показывай Джануру. Узнает, что находила Ачилли. Сделает жизнь не напрасной".</DefaultText>
+      <FemaleText>"Это... это шлем младшего офицера Ачилли?" — он выхватывает шлем у вас из рук и внимательно осматривает его. "Пустота забрала. Я надеялся, что она ещё выжила, — от чувств его акцент становится более явным. — Пожалуйста, показывай Джануру. Узнает, что находила Ачилли. Сделает жизнь не напрасной".</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>15</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>16</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>17</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>18</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>19</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>21</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>22</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>23</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>24</ID>
+      <DefaultText>"Нападёшь на нас? Умрёшь!"</DefaultText>
+      <FemaleText>"Нападёшь на нас? Умрёшь!"</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>25</ID>
+      <DefaultText>"Кел-ванис тох!"</DefaultText>
+      <FemaleText>"Кел-ванис тох!"</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>26</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>27</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>28</ID>
+      <DefaultText>"Прощай".</DefaultText>
+      <FemaleText>"Прощай".</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>29</ID>
+      <DefaultText>"Прощай, чужак".</DefaultText>
+      <FemaleText>"Прощай, чужак.".</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>31</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>32</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>33</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>34</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>35</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>36</ID>
+      <DefaultText>"Что такое кортекс?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>37</ID>
+      <DefaultText>"Расскажи мне о кортексе еще раз".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>38</ID>
+      <DefaultText>"Что такое кортекс?" — Женжес открывает рот и тут же закрывает его. — "Я почти говорю слишком быстро. Он наш смотритель Пустоты. Он хранитель нашей истории. Он знает ночное небо в миллионе миров. Он помнит наши традиции и говорит, как жить в согласии со старыми командами. Он хранит нас живыми, следит за Якорной Стоянкой".
+
+Женжес почтительно склоняет голову: "Он один — голос правды. Никогда не ошибается".</DefaultText>
+      <FemaleText>"Что такое кортекс? — Женжес открывает рот и тут же закрывает его. — Я почти говорю слишком быстро. Он наш смотритель Пустоты. Он хранитель нашей истории. Он знает ночное небо в миллионе миров. Он помнит наши традиции и говорит, как жить в согласии со старыми командами. Он хранит нас живыми, следит за Якорной Стоянкой".
+
+Женжес почтительно склоняет голову: "Он один — голос правды. Никогда не ошибается".</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>39</ID>
+      <DefaultText>"Это хранитель нашего прошлого, незнакомец. Он помнит нашу борьбу. Высматривает в Пустоте корабль. Это наша величайшая ценность".</DefaultText>
+      <FemaleText>"Это хранитель нашего прошлого, незнакомец. Он помнит нашу борьбу. Высматривает в Пустоте корабль. Это наша величайшая ценность".</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>40</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>41</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>42</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>43</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>45</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>46</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>47</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>49</ID>
+      <DefaultText>"Кенасти! Ан-хила! Что происходит?!"</DefaultText>
+      <FemaleText>"Кенасти! Ан-хила! Что происходит?!"</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>50</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>51</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>52</ID>
+      <DefaultText>"Расскажи мне о Корабле".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>53</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>54</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>55</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>56</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>57</ID>
+      <DefaultText>"Что ты здесь делаешь?"</DefaultText>
+      <FemaleText>"Что ты здесь делаешь?"</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>58</ID>
+      <DefaultText>"Напомни, зачем ты здесь?"</DefaultText>
+      <FemaleText>"Напомни, зачем ты здесь?"</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>59</ID>
+      <DefaultText>"Мы — ласкары. Мы работаем на Якорной Стоянке, мы ждём корабль, и мы выживаем".</DefaultText>
+      <FemaleText>"Мы — ласкары. Мы работаем на Якорной Стоянке, мы ждём корабль, и мы выживаем".</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>60</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>61</ID>
+      <DefaultText>"Я — хранитель кортекса. Чищу датчики, навожу антенны и изучаю, чтобы я буду готов, когда придёт корабль".</DefaultText>
+      <FemaleText>"Я — хранитель кортекса. Чищу датчики, навожу антенны и изучаю, чтобы я буду готов, когда придёт корабль".</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>62</ID>
+      <DefaultText>"Расскажи мне про свой народ".</DefaultText>
+      <FemaleText>"Расскажи мне про свой народ".</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>63</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>64</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>65</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>67</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>68</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>69</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>70</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>71</ID>
+      <DefaultText>"Так было сказано когда-то. Он отвезёт нас домой", — Женжес улыбается. — "Быть... может... смешно?.. чужакам понять. Так много команд сменилось, так много жизней назад, а мы всё верим. Кто-то спрашивает, придёт ли? Много умерло без него. Но мы *всё равно* верим. Как жить, не веря? Зачем занятия и ритуалы, если не верить, что однажды полетим домой?"</DefaultText>
+      <FemaleText>"Он обещан в прошлом. Он отвезёт нас домой, — Женжес улыбается. — Быть... может... смешно?.. чужакам понять. Так много команд сменилось, так много жизней назад, а мы всё верим. Кто-то спрашивает, придёт ли. Много умерло без него. Но мы *всё равно* верим. Как жить, не веря? Зачем занятия и ритуалы, если не верить, что однажды полетим домой?"</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>72</ID>
+      <DefaultText>"Расскажи мне о своих людях".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>73</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>74</ID>
+      <DefaultText>Он широко улыбается и разводит руки в стороны:
+
+"Да. Конечно. Иди за мной".</DefaultText>
+      <FemaleText>Он широко улыбается и разводит руки в стороны:
+
+"Да. Конечно. Иди за мной".</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>77</ID>
+      <DefaultText>"Ты уже видел комнату с лифтом. Теперь увидишь верхний мостик, где мы ждём приходящего корабля. Где изучаем путь звёзд. Следуй, пожалуйста".</DefaultText>
+      <FemaleText>"Ты уже видел комнату с лифтом. Теперь увидишь верхний мостик, где мы ждём приходящего корабля. Где изучаем путь звёзд. Следуй, пожалуйста".</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>78</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>79</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>80</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>81</ID>
+      <DefaultText>"Расскажи мне о Якорной Стоянке".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>82</ID>
+      <DefaultText>"Расскажи мне еще раз о Якорной Стоянке".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>83</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>84</ID>
+      <DefaultText>"Он много что для нас", — хмурится Женжес. — "Дом. Память, кем мы были раньше, и обещание. Нет, пророчество. Нет..."
+
+Он замолкает, цокает языком и вдруг оживляется: "Могу показать Якорную Стоянку, а не рассказывать. Экскурсию сделаю. Да?"</DefaultText>
+      <FemaleText>"Он много что для нас, — хмурится Женжес. — Дом. Память, кем мы были раньше, и обещание. Нет, пророчество. Нет..."
+
+Он замолкает, цокает языком и вдруг оживляется: "Могу показать Якорную Стоянку, а не рассказывать. Экскурсию сделаю. Да?"</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>85</ID>
+      <DefaultText>"Могу предложить тебе экскурсию? Возьму тебя с собой и покажу, как мы видим?"</DefaultText>
+      <FemaleText>"Могу предложить тебе экскурсию? Возьму тебя с собой и покажу, как мы видим?"</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>86</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>87</ID>
+      <DefaultText>"Оно делает все это?" — говорит Алигерн, поднимая свои брови. "Это что-то. Это действительно что-то".</DefaultText>
+      <FemaleText>"Оно делает все это?" Говорит Алигерн, поднимая свои брови. "Это что-то. Это действительно что-то".</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>88</ID>
+      <DefaultText>"Оно на самом деле все это делает?" — говорит Каллистеж, поднимая брови. "Замечательно".</DefaultText>
+      <FemaleText>"Оно на самом деле все это делает?" Говорит Каллистеж, поднимая брови. "Замечательно".</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>89</ID>
+      <DefaultText>"Оно делает все это?" — восклицает Эрритис. "Это потрясающе. Я надеюсь, что я не разобью его".</DefaultText>
+      <FemaleText>"Оно делает все это?" Восклицает Эрритис. "Это потрясающе. Я надеюсь, что я не разобью его".</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>90</ID>
+      <DefaultText>"Я бы меньше доверяла голосам правды, если бы я была на твоем месте".</DefaultText>
+      <FemaleText>"Я бы меньше доверял голосам правды, если бы я был на твоем месте".</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>91</ID>
+      <DefaultText>"Это великолепно", — говорит она. "Спасибо тебе за то, что рассказал нам".</DefaultText>
+      <FemaleText>"Это великолепно", говорит она. "Спасибо тебе за то, что рассказал нам".</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>92</ID>
+      <DefaultText>"Оно делает все это?" — говорит он, посвистывая. "Звучит невероятно... что за слово вертится у меня на языке? Ах. Бесценно".</DefaultText>
+      <FemaleText>"Оно делает все это?" говорит он, посвистывая. "Звучит невероятно... что за слово вертится у меня на языке? Ах. Бесценно".</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>93</ID>
+      <DefaultText>Женжес опять кланяется с вежливой идеальной улыбкой.</DefaultText>
+      <FemaleText>Женжес опять кланяется с вежливой идеальной улыбкой.</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>94</ID>
+      <DefaultText>Женжес несколько раз моргает и осторожно улыбается.</DefaultText>
+      <FemaleText>Женжес несколько раз моргает и осторожно улыбается.</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>95</ID>
+      <DefaultText>Лицо Женжеса становится полностью неподвижным, и он не отвечает.</DefaultText>
+      <FemaleText>Лицо Женжеса становится полностью неподвижным, и он не отвечает.</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>96</ID>
+      <DefaultText>Женжес ослепительно улыбается в ответ.</DefaultText>
+      <FemaleText>Женжес ослепительно улыбается в ответ.</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>98</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>99</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>100</ID>
+      <DefaultText>Он широко улыбается и разводит руки в стороны:
+
+"Да. Конечно. Иди за мной".</DefaultText>
+      <FemaleText>Он широко улыбается и разводит руки в стороны:
+
+"Да. Конечно. Иди за мной".</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>101</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>102</ID>
+      <DefaultText>"Прошу, проведи мне экскурсию".</DefaultText>
+      <FemaleText>"Прошу, проведи мне экскурсию".</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>103</ID>
+      <DefaultText>"Можешь устроить для меня экскурсию, которую упоминал?"</DefaultText>
+      <FemaleText>"Можешь устроить для меня экскурсию, которую упоминал?"</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>104</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>105</ID>
+      <DefaultText>"Сейчас?" — с тревогой спрашивает Женжес. — "С удовольствием бы, но много заданий..." Он краснеет, когда не может подобрать слова на вашем языке в неловкой ситуации.
+
+"Не сейчас", — бормочет он, не глядя на вас. — "Но скоро? Очень скоро. Возвращайся потом".</DefaultText>
+      <FemaleText>"Сейчас? — с тревогой спрашивает Женжес. — С удовольствием бы, но много заданий..." Он краснеет, когда не может подобрать слова на вашем языке в неловкой ситуации.
+
+"Не сейчас, — бормочет он, не глядя на вас. — Но скоро? Очень скоро. Возвращайся потом".</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>106</ID>
+      <DefaultText>Женжес краснеет:
+
+"Извинения, но нет. Жду важное сообщение. Но скоро, обещаю".</DefaultText>
+      <FemaleText>Женжес краснеет:
+
+"Извинения, но нет. Жду важное сообщение. Но скоро, обещаю".</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>107</ID>
+      <DefaultText>"Да", — говорит он, широко улыбаясь. — "Благодарность за терпение и извинения за задержку. Иди за мной".</DefaultText>
+      <FemaleText>"Да, — говорит он, широко улыбаясь. — Благодарность за терпение и извинения за задержку. Иди за мной".</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>108</ID>
+      <DefaultText>"Отличная мысль", — шепчет вам на ухо Тибир. — "Так ему придётся уйти от двери к кортексу. Соглашайся".</DefaultText>
+      <FemaleText>"Отличная мысль, — шепчет вам на ухо Тибир. — Так ему придётся уйти от двери к кортексу. Соглашайся".</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>109</ID>
+      <DefaultText>"Прекрасная идея!" — шепчет вам на ухо Мэткина. — "Ему придётся уйти от двери".</DefaultText>
+      <FemaleText>"Прекрасная идея! — шепчет вам на ухо Мэткина. — Ему придётся уйти от двери".</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>110</ID>
+      <DefaultText>"То, что нужно", — шепчет вам на ухо Каллистеж. — "Ему придётся оставить дверь без присмотра".</DefaultText>
+      <FemaleText>"То, что нужно, — шепчет вам на ухо Каллистеж. — Ему придётся оставить дверь без присмотра".</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>111</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>112</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

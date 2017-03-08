@@ -1,0 +1,353 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\x_labyrinth\x1511_reflection_inifere</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>63</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>Addend. 1.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>[Talk to Inifere.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>[Form a connection to Inifere.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>[You feel a bond materialize between you, granting you Inifere's bonus.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>[Break your connection with Inifere.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>[As the bond between you dissolves, you feel a moment of sudden and agonizing loss.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>[Leave Inifere alone.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText>[Inifere's reflection stands before you.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText>You can feel the connection you made with the reflection thrum with power.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>14</ID>
+      <DefaultText>You can feel a pull from the reflection, urging you to connect with it somehow.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>15</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>16</ID>
+      <DefaultText>"You... you made me kill her."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>17</ID>
+      <DefaultText>"I hope you choke on all that you've eaten, brother."</DefaultText>
+      <FemaleText>"I hope you choke on all that you've eaten, sister."</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>18</ID>
+      <DefaultText>"My grief will fester in you until the grave frees us both."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>19</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20</ID>
+      <DefaultText>"Housed in the head of the man who felled me."</DefaultText>
+      <FemaleText>"Housed in the head of the maid who slaid me."</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>21</ID>
+      <DefaultText>"Beyond the Gate was safe from Sorrow, but not here, brother."</DefaultText>
+      <FemaleText>"Beyond the Gate was safe from Sorrow, but not here, sister."</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>22</ID>
+      <DefaultText>"I fear we've farther still to fall, brother."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>23</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>24</ID>
+      <DefaultText>"I saw Choi's shadow, brother, and it shined with peace."</DefaultText>
+      <FemaleText>"I saw Choi's shadow, sister, and it shined with peace."</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>25</ID>
+      <DefaultText>"I saw Choi's shadow, sister, a blot on your mind, a wrong not quite righted."</DefaultText>
+      <FemaleText>"I saw Choi's shadow, brother, a blot on your mind, a wrong not quite righted."</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>26</ID>
+      <DefaultText>"A true end draws near, sister, and then we will be free."</DefaultText>
+      <FemaleText>"A true end draws near, brother, and then we will be free."</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>27</ID>
+      <DefaultText>"Our father's curse courses through us both and denies us death's kiss."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>28</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>29</ID>
+      <DefaultText>"Let me bleed upon your mind as you blackened mine."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30</ID>
+      <DefaultText>Перед вами стоит расплывчатая фигура Инифира. Помимо нехватки вещества из которого он состоит, его также тяготят неведомые трудности. В его четко очерченных, следящих за вами глазах, читается негласная печаль.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>31</ID>
+      <DefaultText>Чем дольше вы смотрите ему в глаза, тем четче вы ощущаете, как его боль передается вам, затмевая уже погруженный в сумерки мир. Каким бы "безмятежным" ни было это место, вашему брату нет до этого дела.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>32</ID>
+      <DefaultText>Что-то... что-то произошло на уровне инстинктов. Вы установили связь с Арталио и создали его отражение в своем сознании. Некоторые из способностей отражения получены от вас, и вы все больше уверены в этом. 
+
+Однако эта связь полностью занимает часть вашего сознания. Вы можете устанавливать связь больше, чем с одним отражением в Лабиринте, но не со многими.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>33</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>34</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>35</ID>
+      <DefaultText>[Inifere's reflection stands before you.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>36</ID>
+      <DefaultText>You can feel a pull from the reflection but cannot bond with it, since you are at your limit.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>37</ID>
+      <DefaultText>You can feel a pull from the reflection, urging you to connect with it somehow.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>38</ID>
+      <DefaultText>You can feel a pull from the reflection but cannot bond with it, since you are at your limit.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>39</ID>
+      <DefaultText>Инифир пожимает спектральным плечом. "Столько осколков нужно собрать, уничтожить метку слабого. Открой мои жилы, брат, моим пустым разумом".</DefaultText>
+      <FemaleText>Инифир пожимает спектральным плечом. "Столько осколков нужно собрать, уничтожить метку слабого. Открой мои жилы, сестра, моим пустым разумом".</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>40</ID>
+      <DefaultText>Инифир тихо вздыхает в подтверждение своих слов.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>41</ID>
+      <DefaultText>"How did you get here?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>42</ID>
+      <DefaultText>"Ты нашел здесь умиротворение?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>43</ID>
+      <DefaultText>"Можешь объяснить мне, как открыть Врата?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>44</ID>
+      <DefaultText>"Farewell."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>45</ID>
+      <DefaultText>"Боюсь, что нет".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>46</ID>
+      <DefaultText>"Ты погубил меня, брат. Там, где моя грязная плоть гноилась, ты устроил настоящий пир, длящийся и после смерти", — он вздыхает с усмешкой. "Из одного мира, полного печали, в другой".</DefaultText>
+      <FemaleText>"Ты погубила меня, сестра. Там, где моя грязная плоть гноилась, ты устроила настоящий пир, длящийся и после смерти". Он вздыхает с усмешкой. "Из одного мира, полного печали, в другой".</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>47</ID>
+      <DefaultText>Инифир нервно смеется. "*Умиротворение*, брат? Ни за что. Я скорблю над могилами погибших по моей вине. Верни того, которого ты оторвал от меня. Верни мне украденный покой. И никто не исповедует того раба, в которого ты меня превратил, и не утешит за совершенные убийства". 
+
+Он делает глубокий вдох, чтобы наполнить воздухом призрачные легкие, и шипит сквозь зубы: "Ее больше *нет*, брат, но мы держимся. Мир не может самостоятельно избавиться от наших поганых жизней. Мы следуем по пути нашего отца и отрицаем смерть".</DefaultText>
+      <FemaleText>Инифир нервно смеется. "*Умиротворение*, сестра? "Ни за что". Я скорблю над могилами погибших по моей вине. Верни того, которого ты оторвала от меня. Верни мне украденный покой. И никто не исповедует того раба, в которого ты меня превратила, и не утешит за совершенные убийства". 
+
+Он делает глубокий вдох, чтобы наполнить воздухом призрачные легкие, и шипит сквозь зубы: "Ее больше *нет*, сестра, но мы держимся. Мир не может самостоятельно избавиться от наших поганых жизней. Мы следуем по пути нашего отца и отрицаем смерть".</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>48</ID>
+      <DefaultText>Инифир мрачно смеется. "Наш отец превратил мою плоть в стойку для боли, брат, и не оставил крюка, на который можно повесить радость сердцебиения. Я бы тихо искал идиллию, но не знал бы покоя, даже там, где лучше, чем в этом поганом лабиринте".
+
+Затем на долю секунды его изможденные черты лица становятся мягче. "Но есть и худшие убежища, и худшие дома, чем голова того, кто вырубил меня".</DefaultText>
+      <FemaleText>Инифир мрачно смеется. "Наш отец превратил мою плоть в стойку для боли, сестра, и не оставил крюка, на который можно повесить радость сердцебиения. Я бы тихо искал идиллию, но не знал бы покоя, даже там, где лучше, чем в этом поганом лабиринте".
+
+Затем на долю секунды его изможденные черты лица становятся мягче. "Но есть и худшие убежища, и худшие дома, чем голова того, кто вырубил меня".</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>49</ID>
+      <DefaultText>"Мучай свою душу, брат, и качайся на волнах страданий. Пей предательство большими глотками, и живи среди потерянных как фальшивый пророк. Когда ты порождаешь боль, когда ты горишь и вспыхиваешь болью, задайся вопросом: 'Как же мне открыть врата, брат?'"
+
+Он ухмыляется. "И я отвечу: 'Я никогда не скажу тебе, предатель'".</DefaultText>
+      <FemaleText>"Мучай свою душу, сестра, и качайся на волнах страданий". Пей предательство большими глотками, и живи среди потерянных как фальшивый пророк. Когда ты порождаешь боль, когда ты горишь и вспыхиваешь болью, задайся вопросом: 'Как же мне открыть врата, брат?'"
+
+Он ухмыляется. "И я отвечу: 'Я никогда не скажу тебе, предатель'".</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>50</ID>
+      <DefaultText>"Никогда, брат. Вот такой урок я бы преподал тому, кто создал нас".</DefaultText>
+      <FemaleText>"Никогда, сестра. Вот такой урок я бы преподал тому, кто создал нас".</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>51</ID>
+      <DefaultText>"Ты знаешь, как мне успокоить Чой?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>52</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>53</ID>
+      <DefaultText>Инифир качает головой. "Единственное лекарство от болезни в жизни, которое я знаю, это смерть, но я украл у нее эту возможность, чтобы прикрыться от лучей вины". 
+
+Он делает паузу и, кажется, он мрачно смотрит сквозь вас. "Если есть способ, чтобы сшить обратно ее рваное сердце, то нужные ей нити она найдет не в нас. Мы держим лишь Потоки, брат, и отмели, об которые разбиваются чужие лодки".</DefaultText>
+      <FemaleText>Инифир качает головой. "Единственное лекарство от болезни в жизни, которое я знаю, это смерть, но я украл у нее эту возможность, чтобы прикрыться от лучей вины". 
+
+Он делает паузу и, кажется, он мрачно смотрит сквозь вас. "Если есть способ, чтобы сшить обратно ее рваное сердце, то нужные ей нити она найдет не в нас. Мы держим лишь Потоки, сестра, и отмели, об которые разбиваются чужие лодки".</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>54</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>55</ID>
+      <DefaultText>"Расскажи мне, чему ты научился за годы за пределами Врат?"</DefaultText>
+      <FemaleText>"Расскажи мне, чему ты научилась за годы за пределами Врат?"</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>56</ID>
+      <DefaultText>"Ну, расскажи мне, *чему* ты научился".</DefaultText>
+      <FemaleText>"Ну, расскажи мне, *чему* ты научилась".</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>60</ID>
+      <DefaultText>"О, брат, я могу научить тебя такому, я могу дать такие знания, которые иссушат душу и выпустят надежду. Я бы помог тебе попасть глубины темнее любой земной пропасти, и зацепиться за единственный свет, который приведет тебя обратно. И когда ты крикнешь 'Брат! Верни меня домой! Я бы ответил: 'Брат, я уже вернул".
+
+Он обнажает свои выбитые зубы в убийственной улыбке. "Дань, которую ты полностью оплатил смертью Марцисы, снова возобновилась".</DefaultText>
+      <FemaleText>"О, сестра, я могу научить тебя такому, я могу дать такие знания, которые иссушат душу и выпустят надежду. Я бы помог тебе попасть глубины темнее любой земной пропасти, и зацепиться за единственный свет, который приведет тебя обратно. И когда ты крикнешь 'Брат! Верни меня домой! Я бы ответил: 'Сестра, я уже вернул".
+
+Он обнажает свои выбитые зубы в убийственной улыбке. "Дань, которую ты полностью оплатил смертью Марцисы, снова возобновилась".</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>61</ID>
+      <DefaultText>Что-то мелькнуло в глазах Инифира, тень тени. Но также молниеносно исчезла.
+
+"Брат, все места учат одним и тем же печалям. А ты мог бы узнать и что-нибудь получше".</DefaultText>
+      <FemaleText>Что-то мелькнуло в глазах Инифира, тень тени. Но также молниеносно исчезла.
+
+"Сестра, все места учат одним и тем же печалям. А ты могла бы узнать и что-нибудь получше".</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>62</ID>
+      <DefaultText>"Нет, брат. Эти уроки невозможно передать словами".</DefaultText>
+      <FemaleText>"Нет, сестра. Эти уроки невозможно передать словами".</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>66</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>67</ID>
+      <DefaultText>"Чем я могу тебе помочь, Инифир?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>68</ID>
+      <DefaultText>"Неужели я не смогу тебе помочь?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>69</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>70</ID>
+      <DefaultText>"Верни меня обратно, брат. Отмотай обратно время и Потоки, или разорви цепи, приковывающие настоящее к темным глубинам прошлого, или закрась историю моих грядущих дней".
+
+Инифир тянет губы в улыбке, похожей на оскал.  "Но ты не сможешь, братишка. Даже Меняющийся Бог не смог ничего изменить, а ты лишь его ходящая тень".</DefaultText>
+      <FemaleText>"Верни меня обратно, сестра. Отмотай обратно время и Потоки, или разорви цепи, приковывающие настоящее к темным глубинам прошлого, или закрась историю моих грядущих дней".
+
+Инифир тянет губы в улыбке, похожей на оскал.  "Но ты не сможешь, сестричка. Даже Меняющийся Бог не смог ничего изменить, а ты лишь его ходящая тень".</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>71</ID>
+      <DefaultText>"Ничем, конечно же, брат".</DefaultText>
+      <FemaleText>"Ничем, конечно же, сестра".</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>72</ID>
+      <DefaultText>""</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

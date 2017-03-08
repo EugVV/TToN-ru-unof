@@ -1,0 +1,182 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\a_sagus\a2211_ghostly_woman</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>34</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>Вы наклоняетесь ближе, но туманные очертания женщины за столиком не становятся четче. Вы едва угадываете очертания ее призрачного лица и слышите хор шепчущих женских голосов, которые кружат вокруг нее, как мотыльки.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>Вы отворачиваетесь, а призрачная женщина по-прежнему сидит на своем месте.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>Рассмотреть ее лице получше.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>"Кто ты?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>"Эй?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>Оставить ее в покое.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>Вы подходите ближе и вглядываетесь в ее лицо, но она вас не замечает. У нее подростковые черты, уже не детские, но еще не взрослые.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>Она долго не обращает на вас внимания, но ее лицо, насколько можно судить по полупрозрачному состоянию, внезапно становится бешеным и оборачивается к вам.
+
+Что-то мелькает, и она хватает вас за горло. Призрак она или нет, но ее хватка лишает вас жизни.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>Попытаться освободиться.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>Позволить задушить себя.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText>Вам удается разжать ее пальцы и отшвырнуть ее от себя. Вы принимаете устойчивую позицию, готовясь к очередной атаке, но она отворачивается от вас, как ни в чем не бывало.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText>Ее пальцы проникают глубже. Она не пытается задушить вас — она хочет вырвать вам глотку! Вы задыхаетесь и кашляете, захлебываясь в собственной крови, но она вцепилась в вас мертвой хваткой. Последнее, что вы видите, — это ее лицо, полное ярости.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>14</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>15</ID>
+      <DefaultText>Вы понемногу начинаете вспоминать... Эта одежда вам знакома. Постойте-ка. Она выглядит знакомой, потому что была модной девять столетий назад на Утесах Сагуса, и ваш мозг выудил это воспоминание из самых глубин.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>16</ID>
+      <DefaultText>Вы уже видели это лицо где-то в городе. Наверное, призрачная женщина — близнец той девушки.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>17</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>18</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>19</ID>
+      <DefaultText>:: ::</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20</ID>
+      <DefaultText>Привлечь ее внимание еще раз.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>21</ID>
+      <DefaultText>Снова в одно мгновение она набрасывается на вас и цепляется за ваше горло.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>23</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>24</ID>
+      <DefaultText>Прислушаться к шепоту.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>25</ID>
+      <DefaultText>Прислушаться к шепоту еще раз.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>26</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>27</ID>
+      <DefaultText>Он проносится через ваш мозг чуть глубже слоя осознанных мыслей. Вы слышите его, но не ушами.
+
+Вы слышите лишь обрывки шепота в голове: "Ты убил меня... Создал меня... никогда не хотела умирать..."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>28</ID>
+      <DefaultText>"Разобрал меня... лишь хотела покоя... сам виноват, что я жива..."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>29</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30</ID>
+      <DefaultText>Вы почти понимаете шепот, он проносится через ваш мозг чуть глубже слоя осознанных мыслей. Вы ощущаете томительное ожидание, чувство потери, которое явилось к вам и оставило пустоту после себя.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>31</ID>
+      <DefaultText>Шепот вновь проносится через ваш разум, но понять его невозможно.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>32</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>36</ID>
+      <DefaultText>Ее пальцы вновь впиваются в ваше горло. Вы задыхаетесь и кашляете, утопая в собственной крови. Последнее, что вы видите, — это ее лицо, полное ярости.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>37</ID>
+      <DefaultText>В мгновение ока она вновь нависает над вами и засовывает пальцы себе в глотку.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>38</ID>
+      <DefaultText>Вы отстраняете пальцы и выкручиваетесь из ее цепких рук. Как и прежде, она тут же теряет к вам интерес и отворачивается.</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

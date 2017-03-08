@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\c_bloom\c4311_anchorage_viewscape</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>10</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>Это место совсем не похоже на то, которое вы видели во время падения. Вполне вероятно, что это другая планета.</DefaultText>
+      <FemaleText>Это место совсем не похоже на то, которое вы видели во время падения. Вполне вероятно, что это другая планета.</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>Во тьме небес сияют незнакомые созвездия. Вы впервые видите этот мир.</DefaultText>
+      <FemaleText>Во тьме небес сияют незнакомые созвездия. Вы впервые видите этот мир.</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>Вы смотрите на раскинувшиеся внизу зеленые земли, покрытые лесами и равнинами. С земли поднимается тонкий стебель, соединяющий планету с Якорной Стоянкой. Вы видите огромные города; даже на таком расстоянии они выглядят необитаемыми. По-видимому, источниками воды для всех нужд этого мира служат огромные озера, расположенные на одинаковом расстоянии друг от друга.
+
+{GEORGE/JESSE: I changed the multiple conditionals to this addendum node, rather than rewriting the description multiple times}</DefaultText>
+      <FemaleText>Вы смотрите на раскинувшиеся внизу зеленые земли, покрытые лесами и равнинами. С земли поднимается тонкий стебель, соединяющий планету с Якорной Стоянкой. Вы видите огромные города; даже на таком расстоянии они выглядят необитаемыми. По-видимому, источниками воды для всех нужд этого мира служат огромные озера, расположенные на одинаковом расстоянии друг от друга.
+
+{GEORGE/JESSE: I changed the multiple conditionals to this addendum node, rather than rewriting the description multiple times}</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>Прозрачное поле, состоящее из гудящей энергии, отделяет вас и от усыпанной звездами пустоты, и от мира под ногами.
+
+Ну что ж, по крайней мере, в этот раз вы не падаете вниз.</DefaultText>
+      <FemaleText>Прозрачное поле, состоящее из гудящей энергии, отделяет вас и от усыпанной звездами пустоты, и от мира под ногами.
+
+Ну что ж, по крайней мере, в этот раз вы не падаете вниз.</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>Взглянуть на мир.</DefaultText>
+      <FemaleText>Взгляни на мир.</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>Отойти.</DefaultText>
+      <FemaleText>Отойти.</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>Огромный экран мерцает, слегка искажая облик мира, парящего в пустоте под вами.</DefaultText>
+      <FemaleText>Огромный экран мерцает, слегка искажая облик мира, парящего в пустоте под вами.</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>Посмотреть на вакуум.</DefaultText>
+      <FemaleText>Посмотри на вакуум.</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>В отсутствие атмосферного искажения звезды сияют с первозданной яркостью. Возможно, вам только кажется, но вы не видите *ни одного* знакомого созвездия.</DefaultText>
+      <FemaleText>В отсутствие атмосферного искажения звезды сияют с первозданной яркостью. Возможно, вам только кажется, но вы не видите *ни одного* знакомого созвездия.</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

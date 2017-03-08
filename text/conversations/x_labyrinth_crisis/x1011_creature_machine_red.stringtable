@@ -1,0 +1,263 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\x_labyrinth_crisis\x1011_creature_machine_red</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>49</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>14</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>15</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>16</ID>
+      <DefaultText>Из-под решетки, установленной в передней части этого аппарата, раздается омерзительный звук *рвущейся* плоти. По кабелям звук передается к стоящему рядом резервуару, существо в котором — беспорядочная масса мутных кристаллических шипов — неистово царапает неподатливые стенки.
+
+Выгнав фрагмент Скорби из аппарата, вы, пожалуй, сумеете положить конец этому непрекращающемуся тошнотворному шуму, от которого страдает существо.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>17</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>18</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>19</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>21</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>22</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>23</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>24</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>25</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>26</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>27</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>28</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>29</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>31</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>32</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>33</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>34</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>35</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>36</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>37</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>38</ID>
+      <DefaultText>Уйти.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>39</ID>
+      <DefaultText>Жуткий рвущийся звук несется по идущим от этого аппарата кабелям, и кристаллическое существо скребется в своей беззвучной темнице.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>40</ID>
+      <DefaultText>Фрагмент Скорби изгнан из этого аппарата. Существо в резервуаре теперь, пожалуй, достаточно успокоилось, чтобы с ним можно было установить контакт.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>41</ID>
+      <DefaultText>Между этим аппаратом и стоящим рядом резервуаром протянуты гудящие кабели, передающие что-то, с мирным журчанием вытекающее в серебристую жидкость внутри резервуара.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>42</ID>
+      <DefaultText>Теперь, когда фрагмент Скорби покинул этот аппарат, трубки, которые ведут к стоящему рядом резервуару, вибрируют с тихим, приятным гудением.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>43</ID>
+      <DefaultText>Злобный охотник выскальзывает на землю, высекая на своем пути искры.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>45</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>46</ID>
+      <DefaultText>Найти способ открыть аппарат и выманить фрагмент Скорби.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>47</ID>
+      <DefaultText>Еще раз попытаться открыть аппарат.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>48</ID>
+      <DefaultText>Сбоку на решетке есть маленькая выемка. С трудом, приложив много усилий, вы в конце концов вскрываете решетку и видите испещренный угольно-красными жилками тоннель. Он намного длиннее, чем кажется возможным для этого аппарата. В дальнем конце тоннеля фрагмент Скорби, дымясь, вгрызается в стенки.
+
+Внезапно он *прыгает* и, с невероятной скоростью пролетев по тоннелю, улетает прочь.
+
+Как только фрагмент исчезает, существо в резервуаре истаивает, превратившись в мирную лужицу серебристой жидкости. Теперь оно, пожалуй, достаточно успокоилось, чтобы с ним можно было установить контакт.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>49</ID>
+      <DefaultText>Решетка дрожит от первого же прикосновения, но как ее открыть — непонятно. Прямо под синтовой панелью что-то перемалывается и скрежещет. Чернильного цвета создание, разрушающее аппарат, отпирает замок и устремляется наружу, с визгом сдавив своими червеобразными придатками вашу нервную систему.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>50</ID>
+      <DefaultText>Потянув за выемку сбоку, вы легко открываете решетку. Внутри находится горизонтально идущий тоннель, испещренный угольно-красными жилками. Он намного длиннее, чем кажется возможным для этого аппарата. В дальнем конце тоннеля фрагмент Скорби, дымясь, вгрызается в стенки.
+
+Увидев, что решетка открылась, он *прыгает* и, с невероятной скоростью пролетев по тоннелю, улетает прочь.
+
+Как только фрагмент с шумом проносится у вас над головой, существо в резервуаре истаивает, превратившись в мирную лужицу серебристой жидкости. Теперь оно, пожалуй, достаточно успокоилось, чтобы с ним можно было установить контакт.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>51</ID>
+      <DefaultText>При первом же прикосновении фрагмент Скорби обрушивается на внутреннюю поверхность решетки, и становится невозможно понять, как ее открыть.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>52</ID>
+      <DefaultText>Cascade 52</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>54</ID>
+      <DefaultText>Прежде чем решетка закрывается, на землю вываливается изогнутый металлический прут, находившийся в тоннеле на расстоянии нескольких вытянутых рук. Похоже, аппарат больше в нем не нуждается. Это был какой-то проводник данных, бесполезный здесь, но, если соединить концы двух оголенных проводов, из него может получиться удобный одноразовый телепорт.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>55</ID>
+      <DefaultText>Прежде чем решетка закрывается, из гнезда, расположенного прямо под петлей, появляется светящийся купол из каленого стекла. Он выпадает, но вы успеваете его схватить и видите, как в центре него кружатся сверкающие энергетические потоки. Он может стать полезным оружием против фрагментов Скорби.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>56</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

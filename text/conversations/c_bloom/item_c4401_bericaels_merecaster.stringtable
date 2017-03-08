@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\c_bloom\item_c4401_bericaels_merecaster</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>9</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>Этот проектор сознания горячий на ощупь. Вы чувствуете, как внутри устройства щелкают и вращаются бесчисленные механизмы. 
+
+Желание исследовать это сознание кажется таким же осязаемым, как жажда.</DefaultText>
+      <FemaleText>Этот проектор сознания горячий на ощупь. Вы чувствуете, как внутри устройства щелкают и вращаются бесчисленные механизмы. 
+
+Желание исследовать это сознание кажется таким же осязаемым, как жажда.</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>Вы достаете проектор сознания из сумки и едва не роняете его — теперь он еще горячее, чем прежде. 
+
+И снова вы чувствуете почти неодолимое желание погрузиться в хранящиеся в нем воспоминания.</DefaultText>
+      <FemaleText>Вы достаете проектор сознания из сумки и едва не роняете его — теперь он еще горячее, чем прежде. 
+
+И снова вы чувствуете почти неодолимое желание погрузиться в хранящиеся в нем воспоминания.</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>Войти в сознание.
+{SCRIPT: This conversation should be disabled after the player has entered the Mere.}</DefaultText>
+      <FemaleText>Войти в сознание.
+{SCRIPT: This conversation should be disabled after the player has entered the Mere.}</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>Отложить проектор сознания в сторону.</DefaultText>
+      <FemaleText>Отложи проектор сознания в сторону.</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>Осмотреть проектор сознания.</DefaultText>
+      <FemaleText>Осмотреть проектор сознания.</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>Механизмы внутри устройства щелкают в определенном ритме. Как солдаты, марширующие в унисон.</DefaultText>
+      <FemaleText>Механизмы внутри устройства щелкают в определенном ритме. Как солдаты, марширующие в унисон.</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

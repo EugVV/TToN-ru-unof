@@ -1,0 +1,245 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\companions\companion_callistege_stage1</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>47</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>"Да, дитя?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>Она кривит губы, будто попробовала что-то невкусное. "Он мне полезен", — наконец-то говорит она. — "Ну, был один раз. Если этот напыщенный лаак-нибер — прости за выражение, дорогуша — еще *хоть раз* ко мне придерется, мои сестры растерзают его сразу в нескольких реальностях".
+
+Она наклоняет голову вбок. "Хм, а вот одна их них".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>"Расскажи о себе".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>"Мне больше не нужна помощь".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>"Пойдем уже, а?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>84</ID>
+      <DefaultText>Она смеется: "Сейчас не время, дорогуша. На рифе не стоит подолгу чесать языками. Я обещаю, когда дойдем до утесов, наговоримся вдоволь".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>211</ID>
+      <DefaultText>"Смотри, куда идешь, дитя. Тут нужно особенно тщательно смотреть под ноги. На рифе скрываются опасности, древние и новые".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>212</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>213</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>214</ID>
+      <DefaultText>"Конечно, дорогуша. Но тебе сейчас это *нужно*. Вот дойдем до Сагуса, и я оставлю тебя. Что ж, *потерпи*".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>215</ID>
+      <DefaultText>"Он брюзга, каких поискать. Мне уже давно осточертело его непрекращающееся нытье".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>216</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>217</ID>
+      <DefaultText>"Что ты думаешь об Алигерне?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>218</ID>
+      <DefaultText>"Повтори, что ты думаешь об Алигерне".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>220</ID>
+      <DefaultText>"Почему резонансная камера находится на рифе?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>221</ID>
+      <DefaultText>"Хороший вопрос, дорогуша! Скорее всего, твой создатель обнаружил здесь нечто такое, что он предполагал использовать в своих целях. Если удастся починить свод, то это место вполне подойдет для проведения экспериментов".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>222</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>223</ID>
+      <DefaultText>"Какие опасности скрывает риф?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>224</ID>
+      <DefaultText>"Повтори, какие опасности скрывает риф".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>225</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>226</ID>
+      <DefaultText>"Их множество. Мы ходим среди нуменер — обломков падших миров и древних войн. Многие из тех, что на рифе, все еще активны".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>227</ID>
+      <DefaultText>"Нуменеры чудесны по своей природе, но также смертельно опасны. Хотя", — она звонко смеется, — "Алигерн, несомненно, скажет вам, что это *я* — самое опасное существо в мире".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>228</ID>
+      <DefaultText>"Но истинная угроза все еще существует. На рифе можно разбогатеть благодаря решимости, но не всегда благодаря честности".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>230</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>231</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>233</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>234</ID>
+      <DefaultText>"Что это за... отражения вокруг тебя?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>235</ID>
+      <DefaultText>"Расскажи о своих отражениях еще раз".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>236</ID>
+      <DefaultText>"Конечно, дорогуша".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>237</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>238</ID>
+      <DefaultText>"Они — это я! Мы часть друг друга, сестры в бесконечных реальностях. Мы обмениваемся опытом... и силой. Как звучит это старое высказывание? Опыт делает нас мудрее? Наверное, я самый мудрый человек в Утесах Сагуса... самый мудрый во всем мире!" Она громко смеется.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>239</ID>
+      <DefaultText>"Они часть меня, мой друг, а я — часть их. Мы проникаем в подсознания друг друга, пересекая бесконечные реальности".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>240</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>241</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>242</ID>
+      <DefaultText>"Почему ты сначала отправилась в путешествие именно с ним?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>243</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>244</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>245</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>246</ID>
+      <DefaultText>Она вздыхает. Звук ее вздоха отдается эхом, похожим на шипение воздуха из воздушного шарика. "Он не всегда был таким угрюмым. Он был ученым, Жрецом Вечности. Он наслаждался наукой. Но его сердце наполнилось болью. И теперь он смотрит на мир этим отрешенным взглядом. Было бы трагично, но..." Ее отражения кажутся сердитыми, так же как и она. Затем она продолжает. "Но он такой же, каким я знала его в других жизнях. Это стало невыносимо утомительным".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>250</ID>
+      <DefaultText>"Мы не должны надолго оставаться в этой камере. Без сомнения, другие видели, как ты зашел сюда".</DefaultText>
+      <FemaleText>"Мы не должны надолго оставаться в этой камере. Без сомнения, другие видели, как ты зашла сюда".</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>251</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>252</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>253</ID>
+      <DefaultText>"Что будем делать дальше?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>254</ID>
+      <DefaultText>"Если ты хочешь починить эту камеру, нам нужно покинуть риф. *Это* для нас сейчас главное".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>255</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>256</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>257</ID>
+      <DefaultText>"Ты должен дать мне немного времени, дитя. Возможно, мы сможем поговорить, когда доберемся до города".</DefaultText>
+      <FemaleText>"Ты должна дать мне немного времени, дитя. Возможно, мы сможем поговорить, когда доберемся до города".</FemaleText>
+    </Entry>
+  </Entries>
+</StringTableFile>

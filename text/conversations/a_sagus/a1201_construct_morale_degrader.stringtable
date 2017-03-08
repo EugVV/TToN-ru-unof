@@ -1,0 +1,295 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\a_sagus\a1201_construct_morale_degrader</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>57</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>По гниющим органическим волокнам в центре металлического диска проносятся зеленоватые энергетические всполохи. Устройство распространяет вокруг себя легкое, но неумолимое чувство тревоги.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>Языки зеленоватой энергии по-прежнему лижут гниющие волокна этого устройства. Пронзительное беспокойство чувствуется сильнее, чем когда-либо.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>Взглянув на нити поближе, вы понимаете, что чувство ужаса — не плод вашего воображения, а результат воздействия психической энергии, излучаемой устройством.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>Оставить ее в покое.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>Когда остатки энергии рассеиваются, устройство — спустя бог знает сколько столетий — наконец отключается.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText>При нажатии гниющие усики издают чавкающий звук. Дернув посильнее, вы легко их вырываете, и тотчас же во все стороны распространяется волна зловещей энергии.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText>Схватить гниющие усики оказывается непосильной задачей: они лишь податливо чавкают, и вам не удается ухватиться за что-нибудь как следует, чтобы их выдернуть.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>14</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>15</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>16</ID>
+      <DefaultText>Волны ужаса, источаемые устройством, — прямое следствие психической энергии, исходящей из глубин конструкта.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>17</ID>
+      <DefaultText>Вам не удается сконцентрироваться на энергии внутри устройства: волны страха и отвращения уж очень сильны.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>18</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>19</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>21</ID>
+      <DefaultText>Вырвать волокна из их гнезд.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>22</ID>
+      <DefaultText>Попытаться вырвать волокна еще раз.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>24</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>26</ID>
+      <DefaultText>Прикоснуться к волокнам и попытаться спроецировать энергию устройства на врага.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>27</ID>
+      <DefaultText>Еще раз попытаться направить энергию устройства на врага.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>29</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>32</ID>
+      <DefaultText>"Псих!" — кричит он, и морщины на его лице становятся глубже. — "Ты это нарочно сделал!"</DefaultText>
+      <FemaleText>"Cумасшедшая! — кричит он, и морщины на его лице становятся глубже. — Ты это нарочно сделала!"</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>33</ID>
+      <DefaultText>Он фыркает: "И что, это должно нам помочь? Вижу, ты не очень-то стремишься по-настоящему *навредить* им".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>34</ID>
+      <DefaultText>"Идиот! Можно было догадаться, что нельзя так небрежно обращаться с этой нуменерой", — большинство ее отражений держатся за головы или животы от боли.</DefaultText>
+      <FemaleText>"Дура! Можно было догадаться, что нельзя так небрежно обращаться с этой нуменерой", — большинство ее отражений держатся за головы или животы от боли.</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>35</ID>
+      <DefaultText>"Криворукий нюхач лаачий! Мы ведь предупреждали, что нельзя обращаться с нуменерой небрежно!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>36</ID>
+      <DefaultText>"Оставь его в покое, Алигерн. Он ведь только появился на свет".</DefaultText>
+      <FemaleText>"Оставь ее в покое, Алигерн. Она ведь только появилась на свет".</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>37</ID>
+      <DefaultText>"Это так на тебя похоже, Алигерн, — заставлять всех вокруг лить слезы".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>38</ID>
+      <DefaultText>"Потрясающий контроль", — говорит он, хотя на его лице не видно радости.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>39</ID>
+      <DefaultText>"Появился на свет недавно, но уже опытнее и храбрее тебя, Алигерн".</DefaultText>
+      <FemaleText>"Появилась на свет недавно, но уже опытнее и храбрее тебя, Алигерн".</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>40</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>41</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>43</ID>
+      <DefaultText>"Черт возьми, Каллистеж, сейчас *не* время для твоих опытов. Нам нужна помощь! Если, конечно, ты вообще собиралась нам помогать".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>44</ID>
+      <DefaultText>"Твой разум еще слишком рассеян, чтобы контролировать это излучение. Прекрати свои попытки, пока не пострадал. Опять".</DefaultText>
+      <FemaleText>"Твой разум еще слишком рассеян, чтобы контролировать это излучение. Прекрати свои попытки, пока не пострадала. Опять".</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>45</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>46</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>47</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>50</ID>
+      <DefaultText>"Осторожнее, черт возьми! Нельзя просто так *ковыряться* в этой штуковине, чтобы посмотреть, что выйдет!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>52</ID>
+      <DefaultText>Устройство темнеет и отключается, но тошнотворное ощущение остается.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>53</ID>
+      <DefaultText>Устройство отключается, и окружавшее его чувство тревоги исчезает.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>54</ID>
+      <DefaultText>Через несколько секунд ужас рассеивается. Устройство остается в прежнем состоянии.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>55</ID>
+      <DefaultText>"*Тебе*, может, и нельзя, дорогуша, но некоторые из нас достаточно умны и отважны".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>56</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>57</ID>
+      <DefaultText>Все вокруг сгибаются пополам от горя и тошноты.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>58</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>59</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>61</ID>
+      <DefaultText>Вы сгибаетесь пополам от горя и тошноты.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>62</ID>
+      <DefaultText>Addend. 62</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>64</ID>
+      <DefaultText>Сфокусировавшись, эта энергия направляется на Корро и его банду.
+
+Когда психическое поле проникает в их разум, они хватаются за головы и сгибаются пополам от боли и тошноты.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>65</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>66</ID>
+      <DefaultText>Прикоснуться к волокнам и попытаться спроецировать энергию устройства наружу.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>67</ID>
+      <DefaultText>Еще раз попытаться направить энергию устройства.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>68</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>69</ID>
+      <DefaultText>Древняя машина издает приглушенное гудение, не обращая на вас никакого внимания.</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\b_valleymielavest\b3301_castoff_05</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>4</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>"Так ты и есть последний образец? Не так уж и много в тебе нового".</DefaultText>
+      <FemaleText>"Так ты и есть последний образец? Не так уж и много в тебе нового".</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>"Отвали, я не стану тратить время на какого-то сосунка".</DefaultText>
+      <FemaleText>"Отвали, я не стану тратить время на какого-то сосунка".</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>"Отстань от меня, а? Мне это неинтересно".</DefaultText>
+      <FemaleText>"Отстань от меня, а? Мне это неинтересно".</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>"За что ты меня донимаешь? Пойди поговори с Аадирис или с кем еще".</DefaultText>
+      <FemaleText>"За что ты меня донимаешь? Пойди поговори с Аадирис или с кем еще".</FemaleText>
+    </Entry>
+  </Entries>
+</StringTableFile>

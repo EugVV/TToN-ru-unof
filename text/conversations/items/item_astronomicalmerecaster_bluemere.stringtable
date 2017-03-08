@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\items\item_astronomicalmerecaster_bluemere</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>8</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>Как только устройство оказывается на вашей руке, величественный танец механических планет, расположенных в его верхней части, превращается в безумный закрученный вихрь. Из глубин доносится, усиливаясь, задумчивое жужжание, словно приспособление само изучает пути движения этих планет. 
+
+Прислушиваясь, вы различаете в этом шуме слова, доносящиеся из сознания, заключенном в этом устройстве.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>Вы снова берете в руку устройство. Планеты кружат все быстрее и быстрее, и вы вновь чувствуете тень сознания внутри него.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>Рассмотреть проектор сознания.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>Вы следите за вихрем планет в своей ладони. Возможно, это обман зрения, но некоторые сферы кажутся более прозрачными, а внутри них летают еще более маленькие планетки.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>Войти в сознание.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>Убрать проектор сознания.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>Проектор сознания не издает никаких звуков и ни на что не реагирует. Кажется, его никак нельзя активировать.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

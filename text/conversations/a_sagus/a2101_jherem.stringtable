@@ -1,0 +1,983 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\a_sagus\a2101_jherem</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>187</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>"Привет, шуга", — выдыхает он, улыбаясь и заслоняя глаза от солнца. — "Первый раз тебя вижу".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>"Привет, шуга", — выдыхает он, ухмыляясь, а в его восторженных глазах отражаются звезды. — "Быстро сегодня стемнело, а?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>Мальчик резко останавливается и трет лоб грязной ручонкой, оставляя на румяной коже темные полосы.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>"Вернулся!" — говорит Джерем, сощуривая глаза.</DefaultText>
+      <FemaleText>"Вернулась!" — говорит Джерем, сощуривая глаза.</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>"Вернулся!" — говорит Джерем и обеими руками скребет грязную башку. — "Темно-то как, а? Никак время забыло, который час?"</DefaultText>
+      <FemaleText>"Вернулась! — говорит Джерем и обеими руками скребет грязную башку. — Темно-то как, а? Никак время забыло, который час?"</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>"Пайя и Келленор кое-что скрывают от тебя. Ты из прошлого".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>Слова пробуждают воспоминания. Глаза закрываются, и...
+
+Вы видите как руки — чужие — осторожно переворачивают шуршащие страницы древней книги. Взгляд выхватывает слова «мард» и «сиро»: очень старые слова, обозначающие мать и отца.
+
+Вы зажмуриваетесь и снова глядите на Джерема. Он вроде бы не заметил внезапного приступа, но тоже смотрит на вас.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>"Родители не беспокоятся, что ты бегаешь тут один?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>"Э?" — Джерем так удивляется, будто вы спросили его, зачем нужны руки и ноги. — "Мард. Сиро. Мои родители. Ты же спрашивал о них. Пайя и Келленор приглядывают за мной, пока родители не вернутся".</DefaultText>
+      <FemaleText>"Э? — Джерем так удивляется, будто вы спросили его, зачем нужны руки и ноги. — Мард. Сиро. Мои родители. Ты же спрашивала о них. Пая и Келленор приглядывают за мной, пока родители не вернутся".</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText>"Прощай".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>14</ID>
+      <DefaultText>"Привет, шуга".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>15</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>16</ID>
+      <DefaultText>"Ты все слова какие-то странные говоришь. Где ты их набрался?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>17</ID>
+      <DefaultText>"Джерем, откуда ты?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>18</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>19</ID>
+      <DefaultText>"Ты всегда играешь на рынке?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20</ID>
+      <DefaultText>"Почему тебе нравится ларек Заофи?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>21</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>22</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>23</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>24</ID>
+      <DefaultText>Джерем бледнеет. 
+
+"Э... ну... Мне нельзя говорить про это взрослым. И откуда я, тоже нельзя", — он украдкой косится на Пайю и Келленора, которые вдруг очень заинтересовались вашим разговором. — "Не спрашивай, лады?"
+
+{JOURNAL: Journal Entry here, summarizing Jherem's refusal to talk about where he got the lingo from.}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>25</ID>
+      <DefaultText>"Прости, шуга", — Джерем внимательно изучает землю. — "Пайя и Келленор не велят про это рассказывать. Особенно взрослым".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>26</ID>
+      <DefaultText>"А я не взрослая", — весело говорит Рин. — "А уж ему точно можно доверять. Он столько секретов знает, и *никому* ничего не говорит".</DefaultText>
+      <FemaleText>"А я не взрослая, — весело говорит Рин. — А уж ей точно можно доверять. Она столько секретов знает, и *никому* ничего не говорит".</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>27</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>28</ID>
+      <DefaultText>"Что значит «мард» и «сиро»?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>29</ID>
+      <DefaultText>"Напомни, что такое «мард» и «сиро»?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>31</ID>
+      <DefaultText>"Родители?" — Джерем хмурится. — "Ты про Пайю и Келленора? Они просто глядят за мной, пока мард и сиро не вернутся".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>32</ID>
+      <DefaultText>"Ладно", — Джерем утирает слезы с замурзанных щек. — "Может... Может, вырасту, как ты, стану путешествовать и вернусь".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>33</ID>
+      <DefaultText>"Вырос я в трущобах. Родители потеряли работу, и мы голодали. Они оба смотрели на меня и плакали", — он сглатывает.
+
+"Но в трущобах все голодали. Обычное дело. И люди стали все чаще ходить в арку", — он замолкает и изучает вас.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>34</ID>
+      <DefaultText>"А", — Джерем закусывает губу. — "Ну ладно, *тебе* скажу. Но только никому, лады?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>35</ID>
+      <DefaultText>Follow-up PQ. 35</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>36</ID>
+      <DefaultText>"Хорошо. Скажи, откуда ты".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>37</ID>
+      <DefaultText>"Напомни, откуда ты?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>38</ID>
+      <DefaultText>"Не всегда, но всяко ведь лучше школы. И я люблю смотреть, как Заофи делает скульптуры, острые и с завитушками. Похожи на чудище на боку Скаррохолла".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>40</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>42</ID>
+      <DefaultText>Follow-up PQ. 42</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>43</ID>
+      <DefaultText>"Скаррохолл? Это здание такое?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>44</ID>
+      <DefaultText>"Расскажи еще о Скаррохолле".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>45</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>46</ID>
+      <DefaultText>"Скульптуры евонные", — отвечает Джерем. — "Для Скаррохолла не годятся, но похожи".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>47</ID>
+      <DefaultText>Прежде, чем ответить, Джерем стреляет глазами на опекунов.
+
+"Это значит «родители», шуга", — смеется он, хоть и нервно. — "Уж я-то думал, такое *все* знают".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>48</ID>
+      <DefaultText>Мальчик слушает, как вы пересказываете ему то, что сообщили его приемные родители. Глаза его становятся все больше, и наполняются слезами. 
+
+{JOURNAL: Journal entry here, describing Jherem's reaction, and a tip to go talk to his parents.}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>49</ID>
+      <DefaultText>"История-то короче не стала", — говорит Джерем. — "Все равно рассказать?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>50</ID>
+      <DefaultText>"С-столетий?" — выдавливает он, и по его щекам бегут слезы. — "А... Я домой хочу! Как вернуться-то?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>51</ID>
+      <DefaultText>"Взгляни на это иначе. Ты сейчас в хорошем времени и месте, с любящими людьми".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>52</ID>
+      <DefaultText>"Забудь о прошлом и радуйся новой жизни. Помни, что родители слышат твой смех".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>53</ID>
+      <DefaultText>"Никогда не слыхал о таких проходах, но ты, может, и отыщешь. Мир большой".</DefaultText>
+      <FemaleText>"Никогда не слыхала о таких проходах, но ты, может, и отыщешь. Мир большой".</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>54</ID>
+      <DefaultText>"Да ну и пусть!" — кричит Джерем и ощеривается на вас. — "Я хочу в ту холодную комнату! Хочу к *родителям*!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>55</ID>
+      <DefaultText>"Попробую", — Джерем опускает голову и прячет лицо в ладонях. — "Что еще остается-то..."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>56</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>57</ID>
+      <DefaultText>"Обсудим, что я сказал?"</DefaultText>
+      <FemaleText>"Обсудим, что я сказала?"</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>58</ID>
+      <DefaultText>"Джерем, поговоришь со мной?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>59</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>60</ID>
+      <DefaultText>Джерем мотает головой и не смотрит на вас.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>61</ID>
+      <DefaultText>"Нет", — говорит он тихим дрожащим голосом. По щеке его катится слеза, и он утирает ее тыльной стороной ладони.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>62</ID>
+      <DefaultText>"Не знаю, зачем ты рассказал ему", — вздыхает Рин. Глаза у нее красные. "Но хорошо, что ты его обнадежил. Надеюсь, ты сам верил в то, что говорил".</DefaultText>
+      <FemaleText>"Не знаю, зачем ты рассказала ему," — вздыхает Рин. Глаза у нее красные. "Но хорошо, что ты его обнадежила. Надеюсь, ты сама верила в то, что говорила".</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>63</ID>
+      <DefaultText>"Случившееся с ним не было ни справедливым, ни правильным. Но и ты по-своему прав. Слыхал я истории намного страннее той, где ребенок возвращается домой".</DefaultText>
+      <FemaleText>"Случившееся с ним не было ни справедливым, ни правильным. Но и ты по-своему права. Слыхал я истории намного страннее той, где ребенок возвращается домой".</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>64</ID>
+      <DefaultText>"Надежда — штука хорошая", — вздыхает Каллистеж. — "Но я не люблю, когда ей бросаются. Это уменьшает ее ценность".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>65</ID>
+      <DefaultText>"Не желала бы я ребенку такой судьбы, но со временем он все поймет".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>66</ID>
+      <DefaultText>"Он хочет *домой*", — отвечает Рин. — "Что плохого в том, чтобы дать ему малую надежду?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>67</ID>
+      <DefaultText>"Случившееся с ним не было ни справедливым, ни правильным. Но и ты по-своему прав. Здесь ему лучше. На месте родителей я поступил бы точно так же без малейших раздумий".</DefaultText>
+      <FemaleText>"Случившееся с ним не было ни справедливым, ни правильным. Но и ты по-своему права. Здесь ему лучше. На месте родителей я поступил бы точно так же без малейших раздумий".</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>68</ID>
+      <DefaultText>"Придется смириться, малец. Назад пути нет. Твои родители и вся та жизнь пропали".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>69</ID>
+      <DefaultText>Мальчик бледнеет, будто вы накричали на него. Он открывает рот, но оттуда вырываются лишь рыдания.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>70</ID>
+      <DefaultText>"Нельзя так говорить!" — кричит Рин. Глаза ее распахнуты и полны слез. "Надо же знать *наверняка*!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>71</ID>
+      <DefaultText>"Знание правды не дает тебе права обращать ее людям во вред".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>72</ID>
+      <DefaultText>"Я бы... не так поступила, ну да тебе лучше знать".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>73</ID>
+      <DefaultText>"Он хочет *домой*", — отвечает Рин. — "Что плохого в том, чтобы дать ему малую надежду?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>74</ID>
+      <DefaultText>"Случившееся с ним не было ни справедливым, ни правильным. Но и ты по-своему прав. Здесь ему лучше. На месте родителей я поступил бы точно так же без малейших раздумий".</DefaultText>
+      <FemaleText>"Случившееся с ним не было ни справедливым, ни правильным. Но и ты по-своему права. Здесь ему лучше. На месте родителей я поступил бы точно так же без малейших раздумий".</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>75</ID>
+      <DefaultText>"Не желала бы я ребенку такой судьбы, но со временем он все поймет".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>76</ID>
+      <DefaultText>На пыльных щеках Джерема полосы от слез. Он не смотрит на вас.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>77</ID>
+      <DefaultText>"Уходи, странник. Оставь нас".</DefaultText>
+      <FemaleText>"Уходи, странница. Оставь нас".</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>78</ID>
+      <DefaultText>"Ты достаточно натворил. Отойди от ребенка!"</DefaultText>
+      <FemaleText>"Ты достаточно натворила. Отойди от ребенка!"</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>79</ID>
+      <DefaultText>"Да отстанешь ты уже?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>80</ID>
+      <DefaultText>"Нравится тебе, да? Ребенка мучить?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>81</ID>
+      <DefaultText>На пыльных щеках Джерема полосы от слез. Он не смотрит на вас.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>82</ID>
+      <DefaultText>"Не знаю. Пайя и Келленор велят мне мыться дважды в день! Видать, грязь меня очень любит".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>83</ID>
+      <DefaultText>"Ты почему такой грязный?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>84</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>85</ID>
+      <DefaultText>"Ты назвал меня «шугой». Что это значит?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>86</ID>
+      <DefaultText>"Напомни, что такое «шуга»?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>88</ID>
+      <DefaultText>"Ась?" — Джерем настораживается. — "Ты никогда такого не слышал?"</DefaultText>
+      <FemaleText>"Ась? — Джерем настораживается. — Ты никогда такого не слышала?"</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>89</ID>
+      <DefaultText>"Взрослых так называют. Просто себе слово, ничего особенного".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>90</ID>
+      <DefaultText>"Я слышал, но в детстве", — с улыбкой говорит Алигерн. — "Дети опять подхватили это словечко?"
+
+Джерем кивает, и Алигерн смотрит на вас. Улыбка уступает место всегдашнему угрюмому выражению лица: "Это слово из другого диалекта. Мой дед говорил так, когда сам был ребенком. Через его деревню проходили чужаки, обижали торговцев и шугали детей, чтобы те не путались под ногами и не мешали важным делам. Отсюда и «шуга». Понятно?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>91</ID>
+      <DefaultText>Мальчик явно испытывает облегчение.
+
+"Это прозвище для взрослых, но оно не злое. Есть хорошие взрослые: по голове погладят, цветочек дадут, или еще чего интересного... А есть плохие. Они ругаются и шугают нас, когда мы мешаем. Дети помнят плохое лучше, чем хорошее. Вот так это слово, «шуга», и получилось".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>92</ID>
+      <DefaultText>(Ложь) "Звучит знакомо. Что это значит?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>93</ID>
+      <DefaultText>"Нет".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>94</ID>
+      <DefaultText>На щеках мальчика проступает нервный румянец. Но боится он вроде бы не *вас*.
+
+"Это не ругательство. Не совсем. Просто прозвище такое для взрослых..." — Джерем смотрит на вас и продолжает.
+
+"Есть хорошие взрослые: по голове погладят, цветочек дадут, или еще чего интересного... А есть плохие. Они ругаются и шугают нас, когда мы мешаем. Дети помнят плохое лучше, чем хорошее. Вот так это слово, «шуга», и получилось".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>95</ID>
+      <DefaultText>Глаза Джерема становятся как две луны.
+
+"Так почини!" — говорит он с детской непосредственностью. — "Время сломать — это тебе не тарелку разбить, шуга. Узнают ведь! И *заругают*!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>96</ID>
+      <DefaultText>"Темно, потому что я сломал часы".</DefaultText>
+      <FemaleText>"Темно, потому что я сломала часы".</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>97</ID>
+      <DefaultText>"А", — отвечает Джерем, и вдруг его осеняет. — "Стало быть, спать теперь пора или всегда, или никогда!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>98</ID>
+      <DefaultText>"Хорошо", — облегченно говорит Джерем. — "Рад был помочь".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>99</ID>
+      <DefaultText>"Хорошо. Как смогу, так починю".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>100</ID>
+      <DefaultText>"Ничего страшного. Кое-кто другой починит".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>101</ID>
+      <DefaultText>"Да, шуга", — усмехается Джерем. — "Здание в центре города. Высотой в тысячу рук, а на боку фреска. Она как скульптура Заофи, только плоская и из фиолетового камня. Надумаешь посмотреть — мимо точно не пройдешь!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>102</ID>
+      <DefaultText>"Большое здание в центре города. На боку у него фреска, как одно из чудовищ Заофи. Мимо не пройдешь".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>103</ID>
+      <DefaultText>Вам становится дурно, и вы закрываете глаза, чтобы не упасть.
+
+Вы стоите на коленях в подвале, среди гниющих скатанных ковров и поломанной мебели. К мокрой стене прислонена стопка пыльных заплесневелых картин. На первой картине изображено здание, о котором говорил Джерем. Но через это тело и разум вы вспоминаете, что здание уже несколько веков как снесли, чтобы построить дворец уже позабытого правителя.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>104</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>105</ID>
+      <DefaultText>Джерем настораживается и прикусывает губу. Он будто волнуется, что сказал слишком много, и старается не выболтать остального.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>106</ID>
+      <DefaultText>Вы открываете глаза, и вонь подвала исчезает. Джерем не смотрит на вас: он заинтересовался прилавком неподалеку.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>107</ID>
+      <DefaultText>"Да уж", — бормочет Алигерн, косясь на Джерема. — "Скаррохоллом назывался большой храм в центре города, все так. Только его несколько веков как снесли. Пацан либо врет, либо рехнулся".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>108</ID>
+      <DefaultText>"Может быть", — шепчет Каллистеж, озабоченно глядя на Джерема. — "Скаррохоллом назывался великий храм в центре города, как он и говорит. Но он именно что «назывался», потому что его снесли несколько веков назад. Надеюсь, мальчик просто сочиняет, потому что иначе выходит, что он сумасшедший".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>115</ID>
+      <DefaultText>"Большая штуковина. И пахло от нее хорошо: жареным мясом и солнцем. Я много на нее глядел, да так и не понял, зачем она. И взрослые в трущобах о ней не говорили".
+
+Он пожимает плечами, не глядя на вас: "И вот однажды утром гляжу, а моя подружка Корна со своей мард идет наверх. Мард ее поцеловала, и Корна ушла. И больше не вернулась. Зато знаешь, что появилось?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>117</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>118</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>119</ID>
+      <DefaultText>"Что такое трущобы?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>120</ID>
+      <DefaultText>"Расскажи еще о трущобах".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>121</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>122</ID>
+      <DefaultText>Джерем вздыхает: "Кто не жил с Семьями наверху, тот жил в трущобах, внутри обломков. Мы много копали и искали, чего бы поесть и чем согреться. Мой квартал был в завитой спирали. Если видел когда рисунки ракушек, то вот такая она была, эта спираль".</DefaultText>
+      <FemaleText>Джерем вздыхает: "Кто не жил с Семьями наверху, тот жил в трущобах, внутри обломков. Мы много копали и искали, чего бы поесть и чем согреться. Мой квартал был в завитой спирали. Если видела когда рисунки ракушек, то вот такая она была, эта спираль".</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>123</ID>
+      <DefaultText>"Это там, где живет городская беднота", — отвечает он.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>124</ID>
+      <DefaultText>"Еда".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>125</ID>
+      <DefaultText>"Музыка".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>126</ID>
+      <DefaultText>"Кровавые кости".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>127</ID>
+      <DefaultText>"О боги, шуга!" — Джерем уважительно глядит на вас. — "Вот бы и правда... Хорошая была бы история".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>128</ID>
+      <DefaultText>"Почти, шуга. Тепло", — отвечает Джерем.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>129</ID>
+      <DefaultText>"Ха, нет", — отвечает Джерем. — "Какая ж мард обменяет дочку на еду?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>130</ID>
+      <DefaultText>"Но нет. Появилось металлическое кольцо", — говорит он, понижая голос до шепота. — "С виду дешевое, но иногда из него слышно, как Корна смеется. Куда бы она ни попала, там она *счастлива*, правда?"
+
+Он касается рукой щеки и продолжает: "Прошло несколько дней, и мард тоже повела меня на прогулку. Сказала, что накопят денег и найдут меня. Потом поцеловала и выпихала меня в арку".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>131</ID>
+      <DefaultText>"Я очнулся в другой арке, на площади Правительства. Пайя и Келленор уже ждали меня".
+
+Джерем потирает нос: "Они неплохие, но я все надеюсь, что родители придут хоть повидать меня. Даже если денег нет..."
+
+Он замолкает и утирает внезапно появившиеся слезы: "Я стараюсь больше смеяться, чтобы они слышали меня".
+
+{JOURNAL: Journal entry summarizing Jherem's tale, and urging the player to confront Paja and Kellenor about it.}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>132</ID>
+      <DefaultText>"Да".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>133</ID>
+      <DefaultText>"Расскажи коротко".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>134</ID>
+      <DefaultText>"Моя мард не хотела, чтобы я голодал, а потому протолкнула меня через арку. Я вылетел через другую, где ждали Пайя и Келленор. Они заботятся обо мне, пока не придут мард и сиро".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>135</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>136</ID>
+      <DefaultText>"Вот, шуга", — говорит мальчик, нахмурившись. — "Я *отсюда*. Оно просто поднялось и изменилось без меня".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>137</ID>
+      <DefaultText>::сопит::</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>139</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>142</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>143</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>144</ID>
+      <DefaultText>"Почему ты больше не делаешь статуи?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>145</ID>
+      <DefaultText>"Гляди веселей, старичок".</DefaultText>
+      <FemaleText>"Гляди веселей, старушенция".</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>146</ID>
+      <DefaultText>"У тебя лицо красное. Знаешь?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>147</ID>
+      <DefaultText>"Давай-ка поговорим о другом".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>148</ID>
+      <DefaultText>"Ладно", — пожимает плечами Джерем.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>149</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>150</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>151</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>152</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>153</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>154</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>155</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>156</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>158</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>159</ID>
+      <DefaultText>"Почему твоя одежда играет музыку?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>160</ID>
+      <DefaultText>"Что продаешь?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>161</ID>
+      <DefaultText>"Покажи когти".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>162</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>163</ID>
+      <DefaultText>"Можно побыть еще десять минут?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>164</ID>
+      <DefaultText>"Глянь, какой камень я нашел!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>165</ID>
+      <DefaultText>"Гляди, как быстро я бегаю!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>166</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>167</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>168</ID>
+      <DefaultText>"Кто-нибудь выиграл, шуга? Вряд ли..."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>169</ID>
+      <DefaultText>"А зачем острая часть?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>170</ID>
+      <DefaultText>"Тихо, шуга. Я ничего не трогал".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>171</ID>
+      <DefaultText>"Что это такое?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>172</ID>
+      <DefaultText>"Коричневый и должен пахнуть тухлой рыбой?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>173</ID>
+      <DefaultText>"Я один раз съел такую штуку. Несколько *недель* чамблеры были".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>174</ID>
+      <DefaultText>"Зачем вот эта мягкая штука тут, а?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>175</ID>
+      <DefaultText>"У этой статуи нарочно кривой нос?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>176</ID>
+      <DefaultText>"А".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>177</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>178</ID>
+      <DefaultText>"Расскажи про ту арку".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>179</ID>
+      <DefaultText>"Напомни мне про ту арку".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>180</ID>
+      <DefaultText>"Родители посылают туда детей, чтобы те не голодали, а выпадает из арки кольцо, из которого иногда слышен детский смех. Мард решила, что лучше слушать мой смех, чем смотреть, как я голодаю, поэтому и запихала меня в арку".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>181</ID>
+      <DefaultText>"Ну да, вот и все", — мальчик краснеет. Однако, кажется, *Алигерна* он не боится.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>182</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>183</ID>
+      <DefaultText>"Не бойся. Я знаю полно секретов, и *никому* ничего не рассказываю".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>184</ID>
+      <DefaultText>"Мне можно доверять, Джерем. Я никому не скажу, обещаю тебе".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>185</ID>
+      <DefaultText>"Ладно, забудь".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>186</ID>
+      <DefaultText>"Спасибо. Они мне не родители, но когда злятся, то сахар не покупают. Знаешь, как оно?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>187</ID>
+      <DefaultText>Джерем колеблется, глядя то на приемных родителей, то на своего нового друга. Наконец он сдается.
+
+"Ладно. Тебе скажу. Но ты чтобы ни гу-гу, понятно?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>188</ID>
+      <DefaultText>"Не могу", — с отчаянием говорит он. — "Прости, шуга".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>189</ID>
+      <DefaultText>Он колеблется, потом ухмыляется.
+
+"Ладно, ладно. Тебе скажу. Но ты чтоб никому, ясно?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>190</ID>
+      <DefaultText>"Не могу", — отвечает он. — "Обещанье дал. Прости, шуга".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>193</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>194</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>195</ID>
+      <DefaultText>Вы вновь поворачиваетесь к Джерему.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>196</ID>
+      <DefaultText>"Как жаль это видеть", — произносит Тибир, поднимая глаза к небу. — "Такой умный и подающий надежды парень, а уже скрывает страшные тайны от старших".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>197</ID>
+      <DefaultText>"Пусть скрывает свои тайны, если хочет, Тибир".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>198</ID>
+      <DefaultText>"Он прав, Джерем: ты не должен стыдиться правды".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>199</ID>
+      <DefaultText>"Что?" — произносит Джерем, искоса глядя на него. — "Нет, все не так. В этом нет ничего ужасного. Просто я обещал держать язык за зубами, ясно?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>200</ID>
+      <DefaultText>Тибир едва заметно кивает в вашу сторону, убеждая вас продолжать.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>201</ID>
+      <DefaultText>"Как скажешь", — отвечает Тибир, и в его веселых глазах проступает едва заметное смущение. — "Но я вот считаю, что тайны оставляют в душе дыры. Взять хотя бы меня".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>202</ID>
+      <DefaultText>Тибир с серьезным видом кивает в знак согласия, но вы замечаете, что *он* выглядит слегка пристыженным.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>203</ID>
+      <DefaultText>Джерем несколько долгих секунд изучает лицо Тибира, а затем исподтишка смотрит вниз, словно проверяет, все ли цело.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>204</ID>
+      <DefaultText>Джерем колеблется, глядя то на своих приемных родителей, то на вас двоих. Наконец он сдается: "Ладно, думаю, я могу вам рассказать. Только никому ни слова, ясно?"</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

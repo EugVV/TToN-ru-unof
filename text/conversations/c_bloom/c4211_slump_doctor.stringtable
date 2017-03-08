@@ -1,0 +1,930 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\c_bloom\c4211_slump_doctor</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>153</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>Массивное лицо этой женщины кажется застыло в постоянной презрительной ухмылке. Ее волосы варварски пострижены, ее фартук запачкан кровью. Перед ней самодельный операционный столик, покрытый грязью и осадками жидкостей. Ее инструменты — это острые ножи, шприцы и другие экзотические приборы, ни один из которых не выглядит чистым.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>Ты вернулся снова? Есть какие-то дела к Лаарне, не так ли?</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>Ты пришел к Лаарне за лечением? Я могу позаботиться о тебе. Длинный, как будто это физический ущерб, имей ввиду — я не могу никак избавить от приступов дрожи Цветения или других подобных заболеваний. Но я могу резать, колоть и шить, и ты встанешь на ноги моментально. Всего лишь [Global: c4211_SlumpDoctorHealCost] шин с каждого.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>"Я бы хотел, чтобы ты меня подлатала."
+
+{MONEY}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>"Прощай".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>"Ты вернешься".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>Она шмыгает носом и на землю падает комок слизи, она вытирает нос совей рукой. "Я не скажу Цветению, что это не правильно, и, честно говоря, приятно делать дары таким людям как *ты*."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>Я хочу чтобы ты перестала заражать людей. Прямо сейчас.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>Ха! И что ты сделаешь, если я не прекращу? Сразишься с Цветением? Я исполняю его приказания, не твои.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>Она смотрит тебе прямо в глаза и начинает смеяться, но когда ее рот открывается, она внезапно замолкает. Она прикладывает свою больную руку к уху на какое-то время, а затем медленно опускает ее. 
+
+Она отворачивается от тебя в сторону, а затем снова переводит взгляд на землю. "Ай. Я полагаю, ты знаешь желание Цветения лучше чем я."
+
+{JESSE: You said: "The cutscene that fires when you trigger her healing will need to detect both her state and who is being treated, then restart the dialog at the appropriate node based on that information. I might have to create an extra global to track who's currently being healed, but it shouldn't require any extra text."}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText>Если ты все еще хочешь продолжать это делать, тогда тебе лучше заплатить мне, чтобы я держал язык за зубами. Иначе, я расскажу всем, и это разрушит твой бизнес.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText>Она соскребает кровоточащую язву одним из своих скальпелей. "Ай, это справедливо. Вот возьми, тогда."
+
+Она протягивает позванивающий монетами кошелек.
+
+{MONEY}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>14</ID>
+      <DefaultText>Кому ты собираешься рассказать, а? И кто поверит твоему слову, когда я сделала столько добра для них? Давай, убирайся отсюда вон.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>15</ID>
+      <DefaultText>Что-то в твоем лице и голосе убедило ее, что ты чертовски серьезен. Не говоря ни слова, она копается в кошельке рядом с собой, и протягивает тебе огромное количество шин.
+
+{MONEY}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>16</ID>
+      <DefaultText>О, деловое предложение? Тогда вот один для тебя: засунь язык Цветения себе в рот, затем в свое горло и подавись им. Мне плевать на твои угрозы, и мне не нужно от тебя никаких монет. Ты мертв для меня.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>17</ID>
+      <DefaultText>Ты? Ба. Если ты хочешь вылечиться, то найди кого-нибудь еще, что захочет это сделать для тебя.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>18</ID>
+      <DefaultText>Ударь ее.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>19</ID>
+      <DefaultText>Она ожидает словесную перепалку, а когда ты бьешь ее в подбородок, она делает один оборот и затем медленно оседает. Она в замешательстве смотрит на тебя какое-то мгновение, а затем карабкается назад, прежде чем, шатаясь, встает на ноги. 
+
+Она дотрагивается до гвоздя на столе, и он раскладывается, превращаясь в небольшую коробочку. Подозрительно наблюдая за тобой, она протягивает к ней руку и хватает ее за ручку, затем поворачивается и убегает.
+
+Посмотрев вниз, ты замечаешь, в спешке пытаясь сбежать, она роняет один из своих шприцов.
+
+{SCRIPT: Need to make her run away and despawn.}
+
+{SCRIPT: Need to give out an injector cypher.}
+
+{LOOT — Laarna's Injector}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20</ID>
+      <DefaultText>Время, которое она провела в худших частях Цветения, проявляется в ее рефлексах. Она увиливает от твоего удара, презрительно улыбается и наносит удар, достойный бойца без правил, тебе в нос.
+
+"Вот, что ты собирался сделать? Что-то в этом роде? Может быть ты хочешь, чтобы я залатала тебе эту рану?" 
+
+Она фыркает и отворачивается.
+
+
+{DAMAGE}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>21</ID>
+      <DefaultText>Она ожидает словесную перепалку, а когда ты бьешь ее в подбородок, она делает один оборот и затем медленно оседает. Она в замешательстве смотрит на тебя какое-то мгновение, а затем карабкается назад, прежде чем, шатаясь, встает на ноги. 
+
+Она дотрагивается до гвоздя на столе, и он раскладывается, превращаясь в небольшую коробочку. Подозрительно наблюдая за тобой, она протягивает к ней руку и хватает ее за ручку, затем поворачивается и убегает.
+
+Посмотрев вниз, ты замечаешь, что она роняет один из своих шприцов и грязный нож, в спешке пытаясь сбежать.
+
+{SCRIPT: Need to make her run away and despawn.}
+
+{SCRIPT: Need to hand out an injector cypher, maybe a knife that applies the diseased fettle when it strikes an enemy}
+
+{LOOT — ESSENTIAL — Laarna's Injector}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>22</ID>
+      <DefaultText>Ей не только удается уклониться от твоего удара с проворностью уличного бойца, но она наносит несколько мощных ударов тебе в живот, завершая серию коварным апперкотом, который сбивает тебя с ног на землю. Она плюет тебе в лицо, затем изумленно смотрит в сторону Цветения.
+
+"Когда ты будешь достаточно здоров чтобы ходить, я хочу, чтобы ты убрался отсюда. Ты больше не получишь от меня помощи."
+
+{DAMAGE}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>23</ID>
+      <DefaultText>Заставь ее увидеть ошибку, которую она совершает.
+
+{SCRIPT: I'm not sure what all is involved in performing a tidal surge, but I'm guessing it'll need a little scripting.}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>24</ID>
+      <DefaultText>Она пристально смотрит на тебя, ее рот слегка приоткрыт, и она остается в таком состоянии целую минуту. Она возвращается обратно к реальности и осматривает свои руки. На ее лице появляется отвращение, и когда она осознает, что она делает, она выбрасывает свои инструменты.
+
+Она отворачивается, затем ее рвет.
+
+"О, нет. Нет, нет, нет, Цветение нашептывало мне, а я слушала. Что я наделала? Она бросается прочь, бросая свои инструменты.
+
+Земля грохочет под твоими ногами, и ты ощущаешь волну злобы, исходящей от цветоплоти.
+
+{SCRIPT: Need to remove her from the scene in some way.}
+
+{SCRIPT: Need to hand out an injector cypher, maybe a knife that applies the diseased fettle when it strikes an enemy}
+
+{LOOT — ESSENTIAL — Laarna's Injector}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>25</ID>
+      <DefaultText>Она ухмыляется, обнажая гнилые зубы. «Забирайся на стол, и мы приведем тебя в порядок.»
+
+{SCRIPT: We'll probably want to fade out and back in here. Small cutscene needed.}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>26</ID>
+      <DefaultText>""</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>27</ID>
+      <DefaultText>Она накладывает швы и зашивает раны, а когда она заканчивает, ты спускаешься со стола. Несмотря на пыль и грязь, она, как оказалось, сделала довольно хорошую работу.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>28</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>29</ID>
+      <DefaultText>Она накладывает швы и зашивает раны, а когда она заканчивает, ты спускаешься со стола. Как оказалось, она проделала довольно хорошую работу, но твоя рана, кажется... чешется. Краснеет. Внезапно, тебе становится нехорошо.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30</ID>
+      <DefaultText>Я хочу, чтобы ты вылечила Алигерна.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>31</ID>
+      <DefaultText>"Поднимайся на борт, старик. Мы приведем тебя в порядок моментально."
+
+{SCRIPT: We'll probably want to fade out and back in here. Small cutscene needed.}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>32</ID>
+      <DefaultText>"Я хочу, чтобы ты вылечила Каллистеж."
+
+{MONEY}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>33</ID>
+      <DefaultText>Лаарна ухмыляется, обнажая свои отвратительные зубы. "Кто из вас следующий, а? Ничего страшного — я позабочусь о всех, к кому я смогу прикоснуться."
+
+{SCRIPT: We'll probably want to fade out and back in here. Small cutscene needed.}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>34</ID>
+      <DefaultText>"Я хочу, чтобы ты вылечила Мэткину."
+
+{MONEY}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>35</ID>
+      <DefaultText>Рот Лаарны слегка искривляется, но она держит свой язык за зубами, затем она берет деньги и помогает Мэткине взобраться на стол.
+
+{SCRIPT: We'll probably want to fade out and back in here. Small cutscene needed.}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>36</ID>
+      <DefaultText>"Я хочу, чтобы ты вылечила Риастрада."
+
+{MONEY}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>37</ID>
+      <DefaultText>Она внимательно его изучает. "Я видела его раньше, могу поклясться в этом. Не важно." Она забирает твои деньги и помогает Риастраду взобраться на стол.
+
+{SCRIPT: We'll probably want to fade out and back in here. Small cutscene needed.}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>38</ID>
+      <DefaultText>"Я хочу, чтобы ты вылечила Рин."
+
+{MONEY}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>39</ID>
+      <DefaultText>«Забирайся прямо сюда, молодая леди. Мы моментально приведем тебя в порядок."
+
+{SCRIPT: We'll probably want to fade out and back in here. Small cutscene needed.}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>40</ID>
+      <DefaultText>Я хочу, чтобы ты подлатала Оома.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>41</ID>
+      <DefaultText>Она явно испытывает отвращение. "Что это за *штука*?" Она берет себя в руки и более внимательно рассматривает игрушку. "Я даже не знаю, с чего начать. Тебе придется найти кого-то еще, чтобы он выполнил твою работу."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>42</ID>
+      <DefaultText>"Я хочу, чтобы ты вылечила Тибира."
+
+{MONEY}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>43</ID>
+      <DefaultText>"Даже не думай об этом, ты симпатичный бродяга. Мы приведем тебя в порядок моментально."
+
+Она берет твои шины и помогает ему взобраться на грязный стол.
+
+{SCRIPT: We'll probably want to fade out and back in here. Small cutscene needed.}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>44</ID>
+      <DefaultText>"Я хочу, чтобы ты вылечила Эрритиса.
+
+{MONEY}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>45</ID>
+      <DefaultText>Она искоса смотрит на молодого воина. "Забирайся сюда, сынок. Лаарна позаботится о тебе."
+
+{SCRIPT: We'll probably want to fade out and back in here. Small cutscene needed.}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>46</ID>
+      <DefaultText>У меня на самом деле нету шин на лечение.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>47</ID>
+      <DefaultText>Она оглядывается и смотрит на запущенное место вокруг нее и говорит, "Тем лучше, так как мое время очень ценно и у меня полно клиентов." Она делает паузу. "Уходи, тогда. Проваливай. Возвращайся, когда у тебя будут средства."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>48</ID>
+      <DefaultText>"Забудь. До свидания".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>49</ID>
+      <DefaultText>Дай мне знать, когда тебе еще понадобится лечение.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>50</ID>
+      <DefaultText>Она гогочет в восторге. Она закатывает свои рукава. Ее руки покрывают гнойные пузыри и кровоточащие язвы. Пока ты наблюдаешь, один из них вздувается и лопается, разбрызгивая липкую слизь. Она вытирает ее своей свободной рукой и медленно проводит этой рукой по одному из своих инструментов.
+
+"Эй, и это работает? Цветение дало мне эту болезнь и я знаю — я *знаю* — что он хочет, чтобы я передала этот подарок другим. Великий Пожиратель *делится*! Ты хочешь восстать против Цветения?</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>51</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>52</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>53</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>54</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>55</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>56</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>57</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>58</ID>
+      <DefaultText>Она режет и зышивает, накладывая примочки и делая уколы вокруг ран Алигерна. Когда она заканчивает, он спускается со стола и сгибает свои руки.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>59</ID>
+      <DefaultText>Лаарна осматривает и возится с ранами Каллистеж, тратя неимоверное количество времени на работу со скальпелем и зашивание. Когда доктор заканчивает свою работу, Каллистеж встает/спрыгивает/отплывает со стола.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>60</ID>
+      <DefaultText>Она щекочет и тыкает инструментом в молодого человека и в какой-то момент ее руки, казалось, исчезают внутри его золотой ауры. Он слегка корчится, но держится под ее манипуляциями. В конце концов, он вскакивает с операционного стола.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>61</ID>
+      <DefaultText>Лаарна заканчивает зашивать раны Мэткины под пристальным наблюдением Мэткины. Кажется, доктор слишком заботиться об убийце, и Мэткина грациозно сползает со стола.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>62</ID>
+      <DefaultText>Лаарна, кажется, слишком заботится о Рин, она с любовью гладит девушку по голове, затем Рин спрыгивает со стола.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>63</ID>
+      <DefaultText>Врач должен быть осторожен, чтобы доспехи Ристарда не повредили ее инструменты — это напоминало колебания, как будто они защищали его. В конце концов, ей удается залатать наихудшие из его ран, и он спускается со стола. Он уверенно шагает в твою сторону.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>64</ID>
+      <DefaultText>Тибир слезает со стола, затем Лаарна вытирает свои руки о свой рабочий халат.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>65</ID>
+      <DefaultText>Она режет и зашивает, накладывая примочки и делая уколы вокруг ран Алигерна. Когда она заканчивает, он спускается со стола и сгибает свои руки.
+
+{SCRIPT: Need to apply the diseased fettle.}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>66</ID>
+      <DefaultText>Лаарна осматривает и возится с ранами Каллистеж, тратя неимоверное количество времени на работу со скальпелем и зашивание. Когда доктор заканчивает свою работу, Каллистеж встает/спрыгивает/отплывает со стола.
+
+{SCRIPT: Need to apply the diseased fettle.}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>67</ID>
+      <DefaultText>Она щекочет и тыкает инструментом в молодого человека, и в какой-то момент ее руки, казалось, исчезают внутри его золотой ауры. Он слегка корчится, но держится под ее манипуляциями. В конце концов, он вскакивает с операционного стола.
+
+{SCRIPT: Need to apply the diseased fettle.}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>68</ID>
+      <DefaultText>Лаарна заканчивает зашивать раны Мэткины под пристальным наблюдением Мэткины. Кажется, доктор слишком заботиться об убийце, и Мэткина грациозно сползает со стола.
+
+{SCRIPT: Need to apply the diseased fettle.}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>69</ID>
+      <DefaultText>Лаарна, кажется, слишком заботится о Рин, она с любовью гладит девушку по голове, затем Рин спрыгивает со стола.
+
+{SCRIPT: Need to apply the diseased fettle.}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>70</ID>
+      <DefaultText>Врач должен быть осторожен, чтобы доспехи Ристарда не повредили ее инструменты — их движения напоминали колебания, как будто они пытались защитить его. В конце концов, ей удается залатать наихудшие из его ран, и он спускается со стола.
+
+Он слегка пошатывается, когда идет в твою сторону, а его кожа, казалось, приобрела слегка зеленоватый оттенок.
+
+{SCRIPT: Need to apply the diseased fettle.}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>71</ID>
+      <DefaultText>Тибир слезает со стола, затем Лаарна вытирает свои руки о свой рабочий халат.
+
+{SCRIPT: Need to apply the diseased fettle.}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>72</ID>
+      <DefaultText>"Давай. Поехали. Давай!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>73</ID>
+      <DefaultText>"Ха. Я никак не могу забраться на стол. Ты видел, что представляют собой ее инструменты? Просто один их вид вызывает у меня зуд. Я найду какой-нибудь другой способ, как вылечиться."
+
+{ALIGERN}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>74</ID>
+      <DefaultText>"Забирайся сюда, Алигерн. Тебе нужно вылечиться."
+
+{SCRIPT: Minor Aligern Abuse.}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>75</ID>
+      <DefaultText>Все хорошо, Алигерн. Я буду уважать твои желания.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>76</ID>
+      <DefaultText>Ее отвращение отражается на всех лицах, которые ты можешь видеть. "Нет такой реальности, в которой я позволил бы этой... *женщине*... дотронуться до меня."
+
+{CALLISTEGE}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>77</ID>
+      <DefaultText>"Никакой, кроме этой реальности, возможно. Забирайся на этот стол."
+
+{SCRIPT: Minor Aligern Abuse.}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>78</ID>
+      <DefaultText>Все хорошо, Каллистеж. Я буду уважать твои желания.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>79</ID>
+      <DefaultText>Он нервно осматривает стол и оглядывается на Лаарну. "Это героическое испытание? Потому что, если это квест или что-то в этом роде, мне следует быть храбрым." Он глотает. "Хорошо. Пришло время быть храбрым."
+
+{ERRITIS}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>80</ID>
+      <DefaultText>"Но если ты настаиваешь. Я полагаю, я смогу сбросить все, что она может... просунуть в меня."
+
+{MATKINA}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>81</ID>
+      <DefaultText>Э... когда последний раз вы мыли свои руки, мадам? В этом веке? В прошлом веке?</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>82</ID>
+      <DefaultText>Она печально смотрит на тебя. "Мне придется?" Она понижает свой голос. "Эта дама груба."
+
+{RHIN}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>83</ID>
+      <DefaultText>"Да, Рин. Ты поранилась и тебе требуется лечение."
+
+{SCRIPT: Minor abuse of Rhin}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>84</ID>
+      <DefaultText>Нет, Рин. Мы придумаем что-нибудь еще.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>85</ID>
+      <DefaultText>Вообрази мое удивление. Я не выгляжу так, как будто я подцепил что-то. Он поворачивается к ней и кивает своей головой. "Может я ошибался на счет вас."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>87</ID>
+      <DefaultText>"Гм".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>88</ID>
+      <DefaultText>Ух. С моими ранами все в порядке... но мой желудок. Боже, я чувствую себя отвратительно. Я был прав по поводу вас, женщина.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>89</ID>
+      <DefaultText>Может я ошибался на счет вас. Кажется вы знаете, что делаете.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>90</ID>
+      <DefaultText>Вы сделали лучшую работу, чем я ожидал. Но, что бы вы не положили в эти раны... оно жжет. Я чувствую... легкое головокружение.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>91</ID>
+      <DefaultText>Этот квест был намного легче, чем я ожидал. *Намного* легче.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>92</ID>
+      <DefaultText>Возвращайся в любое время, мальчик.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>93</ID>
+      <DefaultText>Что я тебе говорила? Она гладит твою руку. «Наши тела как закаленное стекло."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>94</ID>
+      <DefaultText>«Этот квест был намного легче, чем я ожидал. *Намного* легче." Он сгибает руки и сжимает свои кулаки. "Но есть еще и болезненная часть, тоже. После лечения я должен чувствовать себя так, как будто мне хочется блевать?"
+
+{ERRITIS}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>95</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>96</ID>
+      <DefaultText>На ее лице смутное чувство вины и она что-то неразборчиво бормочет. Затем она поворачивается обратно к нему, улыбаясь своими пожелтевшими зубами.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>97</ID>
+      <DefaultText>Она слегка пошатывается и пристально смотрит на врача. "Если ты причинила мне вред, шарлатанка, я пущу тебе *кровь*."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>99</ID>
+      <DefaultText>На лице доктора смутное чувство вины и она что-то неразборчиво бормочет. Затем она поворачивается обратно к Рин, улыбаясь своими пожелтевшими зубами.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>100</ID>
+      <DefaultText>"Заглядывай в любой момент".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>101</ID>
+      <DefaultText>Уже почти совсем не больно! заявляет она гордо. Затем она слегка начинает дрожать. "Но с моим желудком что-то не то."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>103</ID>
+      <DefaultText>"Уже почти совсем не больно!" заявляет она гордо.
+
+{RHIN}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>104</ID>
+      <DefaultText>Ничего страшного, смотри?</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>105</ID>
+      <DefaultText>Из-за твоих доспехов мне трудно лечить тебя, сынок.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>106</ID>
+      <DefaultText>Он театрально кланяется ей. "Моя госпожа, мне кажется, я должен извиниться перед вами. Я чувствую себя обновленным."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>107</ID>
+      <DefaultText>Он театрально кланяется ей. "Моя госпожа, мне кажется, я должен извиниться перед вами. Я чувствую себя обновленным." 
+
+Но когда он встает, он слегка пошатывается и бледнеет. "Хотя, возможно, я съел что-то, что не очень мне идет."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>108</ID>
+      <DefaultText>"Кто-нибудь еще?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>109</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>110</ID>
+      <DefaultText>Твое *лечение* распространяет инфекции и болезни.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>111</ID>
+      <DefaultText>Ты должна перестать распространять грязь Цветения.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>112</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>114</ID>
+      <DefaultText>Попробуй ударить ее снова.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>118</ID>
+      <DefaultText>Я говорил тебе, чтобы ты перестала заражать людей. Пришло время тебе послушать.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>119</ID>
+      <DefaultText>"И я говорила *тебе* — "Она внезапно замолкает и подносит свою больную руку к уху на какое-то мгновение. Затем она медленно опускает ее. 
+
+Она отворачивается от тебя и смотрит в сторону, а затем снова переводит взгляд на землю. "Ай. Я полагаю, ты знаешь желание Цветения лучше чем я. Прости меня, господин."
+
+{JESSE: See note in node 11.}</DefaultText>
+      <FemaleText>"А я говорила *вам* — "Она внезапно замолкает и подносит свою больную руку к уху на какое-то мгновение. Затем она медленно опускает ее. 
+
+Она отворачивается от тебя и смотрит в сторону, а затем снова переводит взгляд на землю. "Ай. Я полагаю, вы знаете желание Цветения лучше чем я. Простите меня, моя госпожа."
+
+{JESSE: See note in node 11.}</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>120</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>121</ID>
+      <DefaultText>"Психическая атака постепенно разрушает мое тело. Ты можешь помочь?"
+{SCRIPT: Node 120 should only be visible so long as the PC has the Specter's Decay fettle. After it's cured, Node 120, 121, and 122 should be hidden.}
+{SCRIPT: Please note that the Specter fettle may not be in game anymore.}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>122</ID>
+      <DefaultText>Я хочу, чтобы ты остановила психическую атаку, которая разрушает мое тело.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>123</ID>
+      <DefaultText>"Конечно," говорит она, закатывая свои глаза. "Лаарма не шарлатанка. Ты должен заплатить [Global: c4211_SlumpDoctorSpecterDecayFettleCost] шин сразу."
+{MONEY}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>124</ID>
+      <DefaultText>Да, да, говорит она, вздыхая. «И я хочу, чтоб мне заплатили [Global: c4211_SlumpDoctorSpecterDecayFettleCost] шин сразу. Поторопись. Лаарма занята сегодня."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>125</ID>
+      <DefaultText>Ничего страшного. Давайте обсудим другие дела.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>126</ID>
+      <DefaultText>Заплати ей. 
+{MONEY}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>128</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>129</ID>
+      <DefaultText>"У меня сейчас недостаточно денег".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>130</ID>
+      <DefaultText>У меня пока нет денег.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>131</ID>
+      <DefaultText>"Минуточку." говорит она, выхватывая плату из твоей руки. Она поворачивается и копается в куче ржавых, зазубренных и крючкообразных принадлежностей. Бормоча что-то, она отбрасывает некоторые из них в сторону, умудряется порезаться, шлет проклятия и кладет раненый палец себе в рот. Затем она засовывает некоторые из ее ужасных, зазубренных приборов себе за пояс.
+
+Она смотрит на тебя снизу вверх.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>132</ID>
+      <DefaultText>"Это не для тебя," говорит она, поднимая волосатую бровь. "Если это то, о чем ты подумал. Лаарма проводит занятие по аутопсии сегодня вечером." Она машет рукой. "Правда, сперва не по аутопсии. Это только часть сюрприза."
+
+Она роется в одном из своих поношенных кошельков на бедре и протягивает тебе перламутровый шарик. «Вот. Съешь это. Никаких вопросов."
+
+Ты это сделаешь. Он пахнет горячим хлебом, приготовленным в жестяной форме с корочкой. Давление в твоем мозгу моментально снижается.
+{SCRIPT: Remove decay fettle.}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>135</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>136</ID>
+      <DefaultText>В таком случае, Лаарма не может помочь тебе 'прямо сейчас', говорит она, хлопая своей рукой по твоей. "Иди, иди."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>137</ID>
+      <DefaultText>Нет? Пока Лаарма не может тебе помочь. Возвращайся, когда ты сможешь заплатить.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>138</ID>
+      <DefaultText>Она пожимает плечами, изучая свои грязные ногти на руках.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>139</ID>
+      <DefaultText>Что? Почему ты продолжаешь докучать Лаарме?</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>140</ID>
+      <DefaultText>"Прощай".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>142</ID>
+      <DefaultText>Follow-up PQ. 120</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>143</ID>
+      <DefaultText>Она открывает свой рот, чтобы закричать. Закрывает его. Сжимает свои губы в белую линию.
+
+"Да," говорит она. «Но это только потому, что ты умираешь, и это бы стоило слишком дорого, вытащить тебя отсюда. [Global: c4211_SlumpDoctorSpecterDecayFettleCost] шин. Никакого торга."
+{MONEY}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>144</ID>
+      <DefaultText>"Да, да," говорит она, вздыхая. "[Global: c4211_SlumpDoctorSpecterDecayFettleCost] шин. Плати или уходи."
+{MONEY}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>145</ID>
+      <DefaultText>Заплати ей. 
+{MONEY}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>146</ID>
+      <DefaultText>Она выхватывает монеты из твоей руки и протягивает тебе порошок из перламутровой пыли. "Съешь это. Никаких вопросов."
+
+Ты это сделаешь. Он пахнет горячим хлебом, приготовленным в жестяной форме с корочкой. Давление в твоем мозгу моментально снижается.
+
+{SCRIPT: Remove decay fettle.}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>147</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>148</ID>
+      <DefaultText>Follow-up PQ. 128</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>149</ID>
+      <DefaultText>Follow-up T. 135</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>150</ID>
+      <DefaultText>В таком случае, Лаарма не может помочь тебе 'прямо сейчас', говорит она, хлопая своей рукой по твоей. "Иди, иди."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>151</ID>
+      <DefaultText>Нет? Пока Лаарма не может тебе помочь. Возвращайся, когда ты сможешь заплатить.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>152</ID>
+      <DefaultText>"У меня сейчас недостаточно денег".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>153</ID>
+      <DefaultText>У меня пока нет денег.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>156</ID>
+      <DefaultText>"Психическая атака постепенно разрушает мое тело. Ты поможешь мне?"
+{SCRIPT: Node 142 should only be visible so long as the PC has the Specter's Decay fettle.}
+{SCRIPT: Please note that the Specter fettle may not be in game anymore.}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>157</ID>
+      <DefaultText>Я хочу, чтобы ты остановила психическую атаку, которая разрушает мое тело.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>158</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>159</ID>
+      <DefaultText>Я извиняюсь за то, что было между нами. Можем мы оставим это в прошлом?</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>160</ID>
+      <DefaultText>Ты уверена, что мы не можем оставить в прошлом эту ссору между нами.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>161</ID>
+      <DefaultText>Хмм, говорит она, изучая тебя. "Возможно, когда ты умрешь. Тогда возвращайся."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>162</ID>
+      <DefaultText>Никогда в жизни! Пропади ты пропадом!</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>163</ID>
+      <DefaultText>Она снова находит перламутровый шарик и бросает его тебе. Как только ты его съедаешь, давление в твоем мозгу падает.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>164</ID>
+      <DefaultText>Она снова находит перламутровый шарик и бросает его тебе. Как только ты его съедаешь, давление в твоем мозгу падает.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>165</ID>
+      <DefaultText>Один из моих компаньонов одержим какими-то демонами. Ты можешь помочь?</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>166</ID>
+      <DefaultText>Это не тот вид лечения, которое практикует Лаарма. Обратись к другому доктору здесь, не ко мне.</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

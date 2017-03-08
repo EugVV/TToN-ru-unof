@@ -1,0 +1,178 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\c_bloom\c4411_tube_1</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>34</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>Вы заливаете отверстие заделочным спреем. Перекрытые артерии разбухают и вздуваются, но не рвутся.</DefaultText>
+      <FemaleText>Вы заливаете отверстие заделочным спреем. Перекрытые артерии разбухают и вздуваются, но не рвутся.</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>Теперь, когда отверстие перекрыто, поток отвратительной желчи остановился.</DefaultText>
+      <FemaleText>Теперь, когда отверстие перекрыто, поток отвратительной желчи остановился.</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>Под мостом плоти Цветения сходятся три толстые артерии, изливающие мерзкую грязную жижу. Она течет в бассейн и, образуя водоворот, уходит в открытый сфинктер.</DefaultText>
+      <FemaleText>Под мостом плоти Цветения сходятся три толстые артерии, изливающие мерзкую грязную жижу. Она течет в бассейн и, образуя водоворот, уходит в открытый сфинктер.</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>Теперь в бассейне заметно меньше жидкости.</DefaultText>
+      <FemaleText>Теперь в бассейне заметно меньше жидкости.</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>Из отверстия в бассейн течет протухшая желчь. Образуя водоворот, она уходит в расположенную внизу камеру.</DefaultText>
+      <FemaleText>Из отверстия в бассейн течет протухшая желчь. Образуя водоворот, она уходит в расположенную внизу камеру.</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>Перекрыть поток жидкости заделочным спреем.</DefaultText>
+      <FemaleText>Перекрыть поток жидкости заделочным спреем.</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>Закрыть отверстие заделочной бомбой.</DefaultText>
+      <FemaleText>Закрыть отверстие заделочной бомбой.</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>Отойти от отверстия.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>Вы бросаете в отверстие металлический шар, и он взрывается, перекрывая поток желчи мгновенно затвердевшим сгустком синта. Перекрытые артерии разбухают и вздуваются, но не рвутся.</DefaultText>
+      <FemaleText>Вы бросаете в отверстие металлический шар, и он взрывается, перекрывая поток желчи мгновенно затвердевшим сгустком синта. Перекрытые артерии разбухают и вздуваются, но не рвутся.</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>14</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>15</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>16</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>17</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>18</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>19</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>21</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>22</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>23</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>24</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>25</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>26</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>27</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>28</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>29</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>31</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>32</ID>
+      <DefaultText>Из бассейна вытекают остатки жидкости. На дне есть отверстие, вход в нижнюю камеру. Теперь осталось придумать, как спуститься.</DefaultText>
+      <FemaleText>Из бассейна вытекают остатки жидкости. На дне есть отверстие, вход в нижнюю камеру. Теперь осталось придумать, как спуститься.</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>33</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>34</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

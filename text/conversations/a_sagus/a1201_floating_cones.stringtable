@@ -1,0 +1,150 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\a_sagus\a1201_floating_cones</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>26</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>Два плавающих конуса хаотично вращаются и кружатся друг вокруг друга, хихикая как дети во время щекотки. Воздух вокруг них сладко пахнет сгоревшими листьями. 
+
+{SOUND: We should hear the giggling sounds throughout this dialogue, though we should also hear them outside the dialogue when we approach the cones. Alex, I'm not sure how you want to handle this.}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>Конусы не прекращают кружиться друг вокруг друг. Возможно, они никогда и не прекратят.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>"Кто вы?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>Попробовать заговорить с конусами еще раз.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>Коснуться конуса, когда он приблизится.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>Попробовать коснуться одного из конусов еще раз.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText>Наблюдать за их узорами.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>14</ID>
+      <DefaultText>Оставить конусы в покое.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>15</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>16</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>17</ID>
+      <DefaultText>Вам удается коснуться кончиком пальца одного из них. "Рорн", — произносит голос, и вы теряете зрение. 
+
+Над вами нависает Луна, но совершенно не та, к которой вы привыкли. Она черного цвета на жемчужно-белом небе. Тусклые плоские астероиды кружатся по ее орбите, как лепестки на ветру. Вы чувствуете прикосновение усиков на лодыжке. Горячий ветер, обдувающий ваше лицо, пахнет обожженными волосами и печалью.
+
+{DP}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>18</ID>
+      <DefaultText>Вы пытаетесь достать танцующие конусы, но они весело ускользают от ваших рук.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20</ID>
+      <DefaultText>Чем дольше вы наблюдаете за этими артефактами, тем больше убеждаетесь, что они вращаются быстрее, когда пересекаются их спиралевидные траектории.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>21</ID>
+      <DefaultText>Их края как будто рисуют едва заметные светящиеся линии, обвивающие друг друга подобно веревке, привязанной к какой-то невидимой точке за пределами этого места и времени.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>22</ID>
+      <DefaultText>Ваше зрение возвращается. Конусы на мгновение замирают, прежде чем вновь продолжить свой хихикающий танец.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>23</ID>
+      <DefaultText>Услышав ваш вопрос, конусы на долю секунды замолкают, а затем снова раздаются радостные раскаты бесполезного хихиканья. 
+
+{SOUND: As noted in the text, the giggling should stop of a second, then resume (maybe a little more hysterical at first).}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>24</ID>
+      <DefaultText>Единственный их ответ — это детский смех.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>28</ID>
+      <DefaultText>"У них *нет* никакого предназначения. Они остались от одного из прежних миров".
+
+Алигерн потирает рукой свою щетинистую бороду. "Иногда нуменеры создают что-то полезное. Иногда они выворачивают тебя наизнанку. А иногда они создают всякую бессмысленную хрень".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>29</ID>
+      <DefaultText>"У них *нет* никакого предназначения. Сколько я себя помню, они всегда были здесь. А может быть, и дольше. Скорее всего, они остались от одного из прежних миров".
+
+Алигерн потирает рукой свою щетинистую бороду. "Иногда нуменеры создают что-то полезное. Иногда они выворачивают тебя наизнанку. А иногда они создают всякую бессмысленную хрень".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30</ID>
+      <DefaultText>"Возможно, у них есть какое-то предназначение", — говорит Каллистеж, — "но об этом мы можем только догадываться. Они остались от одного из прежних миров или вырезаны из материи совершенно другого пространства".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>32</ID>
+      <DefaultText>"Я часто говорю то же самое о тебе, дорогуша", — бормочет Каллистеж.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>35</ID>
+      <DefaultText>Конусы продолжают кружиться и смеяться, как восторженные танцоры, не подавая виду, что услышали вас.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>36</ID>
+      <DefaultText>"Для чего ты?"</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

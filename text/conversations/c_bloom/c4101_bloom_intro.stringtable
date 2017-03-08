@@ -1,0 +1,227 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\c_bloom\c4101_bloom_intro</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>33</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>0</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>Вы проходите через портал... и мир темнеет. Зрение неожиданно отказывает вам. Вы пытаетесь пошевелиться, но ничего не получается.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>Вы с ужасом понимаете, что в портале позади вас появляется Скорбь. Зная, что вы в ловушке, эта тварь тянется к вам... 
+
+{SOUND: Could play a Sorrow sound effect here.}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>Вдруг она останавливается. На вас накатывает чувство узнавания... и, возможно, удивление. Щелчки затихают, и вы медленно приходите в себя...
+
+{SOUND: Bloom voice effects fade out.}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>...и отлетает назад с яростным воплем. Этот крик тут же стихает, словно между вами возникла непроницаемая стена.
+
+{SOUND: Could play faint shrieks of Sorrow (or equivalent sound effect)}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>Раздается ужасный новый звук — какофония щелчков и шепота. Что-то касается границы вашего сознания... что-то гигантское и невообразимое.
+
+{SOUND: Start Bloom voice sound effect.}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>Сосредоточиться на щелкающем звуке и попытаться понять его.
+
+{TIDE}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>Поддаться панике.
+
+{TIDE}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>Позвать спутников.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText>Вы сосредотачиваетесь на щелкающем и шепчущем звуке, пытаясь понять его. Тут вы понимаете, что вас изучают... тянут и подталкивает... и что все будет только хуже.
+
+{SOUND: Continue Bloom voice sound effects.}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>14</ID>
+      <DefaultText>Прикосновения к вашему сознанию усиливаются. Ваши мысли и эмоции раскрываются, чтобы тут же быть отброшенными в сторону.
+
+{SOUND: Continue Bloom voice sound effects.}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>15</ID>
+      <DefaultText>Вы чувствуете мучительное жжение, когда что-то погружается глубже в ваш разум. Вы кричите от боли. Воспоминания вихрем проносятся перед ваши мысленным взором, словно кто-то грубо *пролистывает* их.
+
+{SOUND: Continue Bloom voice sound effects.}
+
+{DAMAGE}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>16</ID>
+      <DefaultText>Непрошенный гость останавливается только на воспоминаниях, в которых есть страх и жестокость. Он снова и снова воспроизводит их, выжигая мучительные следы в вашем разуме. Оказывается, у вас *много* таких воспоминаний.
+
+{SOUND: Continue Bloom voice sound effects.}
+
+{DAMAGE}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>17</ID>
+      <DefaultText>Сопротивляться изо всех сил.
+
+{CRITICAL}
+
+{TIDE}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>18</ID>
+      <DefaultText>Ваши крики остаются без ответа. Но они эхом разносятся вокруг, причем в каждом отраженном крике слышится все больше страха и отчаяния.
+
+{SOUND: Continue Bloom voice sound effects.}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>19</ID>
+      <DefaultText>Постепенно эхо меняется, превращаясь в крики тысяч мужчин и женщин, призывающих на помощь друзей, союзников, любимых. Вы слышите голоса бесчисленных созданий... одиноких, оказавшихся в опасности... голоса добычи.
+
+{SOUND: Continue Bloom voice sound effects.}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20</ID>
+      <DefaultText>Когда эхо стихает, возвращаются щелчки и шепот. Что-то погружается глубже в ваш разум, сметая ваши собственные мысли. Воспоминания вихрем проносятся перед ваши мысленным взором, словно кто-то грубо пролистывает их.
+
+{SOUND: Continue Bloom voice sound effects.}
+
+{DAMAGE}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>21</ID>
+      <DefaultText>Не в силах пошевелиться, лишившись зрения, вы ощущаете первобытный ужас, который испытывали ваши предки. Воображение лихорадочно рисует чудовищные образы пленившего вас невидимого кошмара.
+
+{SOUND: Continue Bloom voice sound effects.}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>22</ID>
+      <DefaultText>Вы пытаетесь кричать — но голоса нет. Вы отбиваетесь... вернее, могли бы отбиваться, не будь вы парализованы.
+
+{SOUND: Continue Bloom voice sound effects.}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>23</ID>
+      <DefaultText>Внезапно вы понимаете, что щелчки и шепот стихают, уступив место странному потрескиванию. Оно означает... удивление? Или, возможно, раздражение.
+
+{SOUND: Continue Bloom voice sound effects}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>24</ID>
+      <DefaultText>Вы пытаетесь собраться с силами и изгнать непрошенного гостя из своей головы, но ничего не получается. Пока в сознании звучат эти щелчки и шепот, вы не можете сосредоточиться.
+
+{SOUND: Continue Bloom voice sound effects.}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>25</ID>
+      <DefaultText>Вы не знаете, что за инородное сознание исследует вас, но, судя по всему, оно ожидало чего-то иного. Голоса полностью стихают, будто существо потеряло к вам интерес. Вы медленно приходите в себя...
+
+{SOUND: Bloom voice effect fade out.}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>26</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>27</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>28</ID>
+      <DefaultText>Звук превращается в тупую боль, которая разливается по всему телу. Боль превращается в мучительную... жгучую и невыносимую. Вы скрипите зубами, пытаясь собраться и выдворить противника *из* своего разума...
+
+{SOUND: Continue effects from previous node.}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>29</ID>
+      <DefaultText>Вы глубоко дышите, преобразуя инстинктивный страх в холодную ярость. Затем вы обрушиваете эту ярость на *существо*, которое атакует ваш разум.
+
+И снова щелчки стихают, и вы чувствуете, что огромный противник проявляет осторожность и... пожалуй, даже *уважение*.
+
+{SOUND: Cut the Bloom voice sound effects.}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>31</ID>
+      <DefaultText>На смену щелчкам приходит новый звук... жуткое жужжание, которое могло бы издавать гигантское насекомое размером с гору. Звук становится все громче.
+
+{SOUND: If doing Bloom sound effects, they should add the bone-jarring hum (but still include the usual "voice" in background),}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>32</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>33</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>34</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>35</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>36</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>37</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

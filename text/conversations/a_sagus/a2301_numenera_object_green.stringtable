@@ -1,0 +1,207 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\a_sagus\a2301_numenera_object_green</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>33</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>Обелиск уходит под потолок пещеры, и почти все гнезда на нем заполнены темными шарами. Никто не обращает внимание на странную конструкцию. Как и большинство нуменер, она *присутствует* здесь, и, если ее никак нельзя использовать, то она становится частью пейзажа.
+
+Шары сверкают в тусклом свете. Вы наклоняетесь к ним. Это стекло? Самоцветы? Глаза?</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>""</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>Не подходить к обелиску.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>Вы замечаете искру в одном из шаров над вами и смотрите на него как раз в тот момент, когда изнутри к стеклу наклоняется женщина.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>В центре каждого шара этого высокого обелиска вы улавливаете едва заметное движение. Вы наклоняетесь ближе, чтобы рассмотреть.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>Показать конструкции грубый жест.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>Показать конструкции еще более грубый жест.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>Напеть песенку.
+
+{SOUND: Male PC hums a little tune.}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>Стоит коснуться стекла пальцем, как шар тут же показывает пушистое существо, касающееся шара с другой стороны. Позади существа видны деревья, а с них свисают фиолетовые лозы со светящимися прожилками. Вы убираете палец, и существо пропадает во тьму. Шар снова становится непрозрачным.
+
+Кажется, шары отражают те действия, что происходят перед ними.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText>Тронуть ближайший шар.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText>Снова тронуть ближайший шар.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>14</ID>
+      <DefaultText>Пушистое существо, которое вы видели раньше, опять удивленно трогает шар.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>15</ID>
+      <DefaultText>Вы показываете стеклу самый грубый жест, который можете вспомнить. В стекле появляется молодая женщина с радужными глазами. Она постукивает кончиком пальца по подбородку.
+
+Женщина кивает и ухмыляется, будто представляя ваше возмущение ее дерзостью.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>16</ID>
+      <DefaultText>Радужноглазая женщина отвечает на ваш жест своим. Она тыкает пальцем в колено и улыбается своей наглости.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>17</ID>
+      <DefaultText>"Что это значит? Ничегошеньки не понимаю!"
+{RHIN}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>18</ID>
+      <DefaultText>"О да, *именно так* нужно использовать нуменеру, как же еще", — кисло молвит Алигерн. — "Оскорблять людей сквозь время и пространство".
+
+{ALIGERN}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>19</ID>
+      <DefaultText>"Тебе получше?"
+
+{CALLISTEGE}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20</ID>
+      <DefaultText>"Она оскорбила нас! Пальцем!" — он грозит стеклу кулаком. — "А ну выходи и повтори! Вот я тебя!"
+{ERRITIS}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>21</ID>
+      <DefaultText>Огромное мускулистое существо из плоти и кристаллов грозит ему сверкающим кулаком.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>22</ID>
+      <DefaultText>"Ага! Еще один соперник. Выходите, трусы! Получите по очереди, или все вместе!"
+{ERRITIS}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>23</ID>
+      <DefaultText>"Скажи ты, Эрритис".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>24</ID>
+      <DefaultText>"Успокойся. Все, кого мы видим, давно мертвы".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>26</ID>
+      <DefaultText>Он смотрит на темное стекло и фыркает. 
+
+"В темноте прячешься? Так я и думал!"
+{ERRITIS}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>27</ID>
+      <DefaultText>"Ох", — говорит он, чуть погодя. — "Тогда нечего так грубить! Недоразумения возникают".
+{ERRITIS}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>28</ID>
+      <DefaultText>В темных шарах ничего не видно. Однако, от обелиска доносится шепот нескольких голосов, который слышите только вы.
+
+{SOUND: A faint choir.}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>29</ID>
+      <DefaultText>Почти касаясь губами поверхности, вы шепчете то, что никогда никому не говорили. В стекле появляется неестественно высокий, узкобедрый посетитель. Его длинные пальцы сомкнуты.
+
+Посетитель смотрит вам в глаза и говорит, но вы не слышите.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30</ID>
+      <DefaultText>Рассказать шару секрет.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>32</ID>
+      <DefaultText>"Уверена, в том раунде она точно победила тебя".
+{MATKINA}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>33</ID>
+      <DefaultText>Однако, вы умеете читать по губам. Язык вам не знаком, но бессловесные мысли за этими словами заставляют кое-что вспомнить.
+
+Голова кружится. Внезапно вы *понимаете*, что слова эти — краденые, и получены они ценой пролитой крови. Дело было правое, но посетителю невыносимо стыдно.
+
+Он склоняет голову и тает в черноте шара.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>34</ID>
+      <DefaultText>Напеть песенку.
+
+{SOUND: Female PC hums a little tune.}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>35</ID>
+      <DefaultText>Однако, вы чуете его мысли. Они заставляют вас кое-что вспомнить.
+
+Голова кружится. Внезапно вы *понимаете*, что слова эти — краденые, и получены они ценой пролитой крови. Дело было правое, но посетителю невыносимо стыдно.
+
+Он склоняет голову и тает в черноте шара.</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

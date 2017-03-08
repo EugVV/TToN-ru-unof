@@ -1,0 +1,276 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\c_bloom\c4101_philethis</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>50</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>В воздухе перед вами висит неведомое создание, облаченное в массивную мантию. Оно не реагирует на ваше присутствие и наблюдает за рынком рабов с равнодушием настоящего ученого.
+
+Невозможно понять, кто или что это — человек или машина, мутант или монстр. Вы видите свое отражение в его непроницаемом стеклянном лице. Механический голос лишен эмоций. 
+
+Вы вспоминаете, что это существо называется "филет", но больше ничего о нем не знаете.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>"Мы уже встречались, не так ли?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>"Зал был темен, плазмар мерцал. Вместе мы задавали вопросы".
+
+Похоже, это единственный ответ, который он намерен дать.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>Этот филет очень похож на того, которого вы видели в Утесах Сагуса.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>Филет отворачивается от рынка рабов. Что-то в его фигуре выдает готовность развлечься разговором.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>Внезапно, его стеклянное лицо изгибается в вашу сторону. Скрежещущим, лишенным эмоций голосом он спрашивает: "Почему ребенок плачет?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>"Что ты такое?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>"Что ты пытаешься найти?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>"Прощай".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>"Смелость".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText>"Так бывает".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText>"Так оно и есть".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>14</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>15</ID>
+      <DefaultText>Они и впрямь *одинаковые* во всем.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>16</ID>
+      <DefaultText>Даже если он и заметил вас, он ничем это не выдает, продолжая смотреть на рынок рабов с равнодушием настоящего ученого.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>17</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>18</ID>
+      <DefaultText>"О каком ребенке ты говоришь? О рабе?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>19</ID>
+      <DefaultText>"Это основное занятие детей — они плачут".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20</ID>
+      <DefaultText>"Возможно, он чем-то напуган".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>21</ID>
+      <DefaultText>"У меня нет времени на бесполезные вопросы".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>22</ID>
+      <DefaultText>"Возможно, ему больно".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>23</ID>
+      <DefaultText>"Возможно, он зол".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>24</ID>
+      <DefaultText>На мгновение филет умолкает, сохраняя полную неподвижность. Затем он скрежещет, словно дверь старого хранилища: "А".
+
+Через миг он слегка склоняет голову, приглашая вас задавать вопросы.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>25</ID>
+      <DefaultText>Не издав больше ни звука, филет снова поворачивается к рынку рабов.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>26</ID>
+      <DefaultText>Ваш собственный голос эхом доносится из складок мантии филета: "У меня нет времени на бесполезные вопросы". После этого существо перестает вас замечать.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>27</ID>
+      <DefaultText>"У меня нет времени на бесполезные вопросы".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>28</ID>
+      <DefaultText>"Возможно, с ним обошлись несправедливо".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>29</ID>
+      <DefaultText>Звук, который издает филет, похож на вой механического устройства. Наконец этот вой превращается в слово: "Неуместно".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30</ID>
+      <DefaultText>"Возможно, он был одинок".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>31</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>32</ID>
+      <DefaultText>"Ты что-нибудь знаешь о Цветении?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>33</ID>
+      <DefaultText>"Расскажи о Цветении еще раз".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>34</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>35</ID>
+      <DefaultText>"Впадина, дверная ручка, растрескавшийся утес — все это не твое лицо. Все они сами по себе", — его скрипучий голос произносит слова все медленнее и медленнее. Он поворачивает стеклянное лицо вверх; из складок его робы доносится гудение. 
+
+"Зеркало не может смотреть в ответ. Цветение не может учить, но оставляет шрамы. Кто-то их собирает".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>36</ID>
+      <DefaultText>Филет какое-то время молча размышляет над вашим вопросом, затем отвечает: "Нет".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>37</ID>
+      <DefaultText>Странным, шипящим голосом, Филет отвечает: "Мусорщик на берегу реки времени".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>38</ID>
+      <DefaultText>Филет с шумом выдыхает воздух: "Вопрос".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>42</ID>
+      <DefaultText>"Я ищу кое-кого. Другого отверженного. Создание Меняющегося Бога".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>43</ID>
+      <DefaultText>Филет наклоняет к вам своем массивное тело так, что отражение вашего лица причудливо искажается.
+
+"Ты сам должен найти", — грохочет существо с непреклонной уверенностью.</DefaultText>
+      <FemaleText>Филет наклоняет к вам своем массивное тело, так что отражение вашего лица причудливо искажается.
+
+"Ты сама должна найти", — грохочет существо с непреклонной уверенностью.</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>45</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>46</ID>
+      <DefaultText>"Я могу как-нибудь тебе помочь?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>47</ID>
+      <DefaultText>"Я спрашиваю, могу я тебе помочь".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>48</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>49</ID>
+      <DefaultText>Вопрос заставляет филета замереть в молчании. Он не отвечает. Не слышно даже причудливых звуков, которые он издает при размышлении. 
+
+Вскоре становится ясно, что ответа не последует.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>50</ID>
+      <DefaultText>Филет снова хранит молчание.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>51</ID>
+      <DefaultText>Когда вы приближаетесь к филету, он издает оглушительный треск — словно гигантский корабль, налетевший на скалы. Через какое-то время этот звук превращается в слово: "Нарушитель!" 
+
+Через миг он исчезает в ослепительной вспышке.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>52</ID>
+      <DefaultText>"Ты знаешь, где можно найти Пасть?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>53</ID>
+      <DefaultText>"Ты найдешь".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>54</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\a_sagus\a2331_stichus_automaton_arrival</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>5</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>Когда вы входите в комнату с грубо обработанными стенами, украшенными золотым кружевом, робот несколько раз взволнованно щелкает и начинает отступать к тоннелю. Похоже, что он не может или не собирается идти дальше.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>В этом месте сильно пахнет сыростью и плесенью... и немного озоном. Воздух заряжен статическим электричеством. Похоже, что вы нашли Логово Стихусов.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>Здесь пахнет озоном, и воздух заряжен статическим электричеством. *Вряд ли* ваш творец построил это место. Впрочем, вход в его убежище должен быть неподалеку.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>Вы вновь оказались в Логове Стихусов, и робот поспешно отходит вглубь тоннеля. Вход в убежище вашего создателя должен быть где-то в этом Логове, и поскольку робот не желает показываться в своем старом доме, дальше он с вами не пойдет.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

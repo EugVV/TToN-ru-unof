@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\x_labyrinth_crisis\x2021_trainfathomtussle_intro</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>20</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>Входя в портал, вы слышите звон разбиваемой пластины из синта, а потом до вас доносятся отчаянные вопли.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>"Сосредоточься, Валлон! Удерживай это чудовище подальше от меня! Мне нужно совсем немного времени..."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>"Даже если я не буду *отвлекаться*, что мне это даст? Это не какой-нибудь пес, это часть *Скорби*!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>Камос отрывает взгляд от брыкающихся ног чудовища и замечает вас. "Братья, успокойтесь! Наш друг вернулся! Он поможет нам".</DefaultText>
+      <FemaleText>Камос отрывает взгляд от брыкающихся ног чудовища и замечает вас. "Братья, успокойтесь! Наша подруга вернулась! Она поможет нам".</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>Фрагмент Скорби скалится на Валлона, готовясь к новому броску. Угроза затрагивает какую-то глубинную часть вашего сознания, и вы непроизвольно начинаете призывать отражения спутников.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>Вы позволяете отражениям собраться вокруг.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>Вы подавляете желание призвать отражения и намереваетесь сразиться с фрагментом Скорби в одиночку.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>Пока вы переходите в это измерение, фрагмент Скорби снова атакует. Вас охватывает непроизвольное желание призвать отражения спутников.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>14</ID>
+      <DefaultText>Вы подавляете желание призвать отражения и намереваетесь сразиться с фрагментом Скорби в одиночку.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>15</ID>
+      <DefaultText>"Я владею эзотерией, с помощью которой можно изгнать это существо, но мне нужно немного времени на подготовку. Защищай меня вместе с Камос и Валлоном, пока я буду готовиться".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>16</ID>
+      <DefaultText>"Применяй свою эзотерию, Дивитиаку. Я помогу им сдержать чудовище".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>17</ID>
+      <DefaultText>"Валлон прав. Вместе мы сможем сдержать чудовище".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>18</ID>
+      <DefaultText>"Как скажешь. Если ты разбираешься в нуменерах, то вдвоем мы завершим подготовку быстрее. Если так, то подойди сюда, а если нет, я справлюсь и в одиночку".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>19</ID>
+      <DefaultText>"Как скажешь. Тогда и мы вступим в сражение".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20</ID>
+      <DefaultText>"Тебе лучше просто *помочь* нам. Откуда нам знать, что твой ритуал действительно сработает?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>21</ID>
+      <DefaultText>Фрагмент Скорби скалится на Валлона, готовясь к новому броску.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>22</ID>
+      <DefaultText>Пока вы переходите в это измерение, фрагмент Скорби снова атакует.</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

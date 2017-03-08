@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>quests\b_valleyandmielavest\quest_phoenixs_wisdom</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>14</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>0</ID>
+      <DefaultText>Мудрость Феникса</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>Доказать Фениксу, что я достоин.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>Расшифровать записку Феникса</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>Сказать Фениксу, что его гробница найдена</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>Сказать Фениксу, что его гробница найдена</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>Я помог Фениксу разобраться в себе.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>Мне не удалось найти ответы на вопросы Феникса.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10000</ID>
+      <DefaultText>В Долине мне повстречался странный человек по имени Феникс. Он ищет ответы на некоторые вопросы, и ему нужна помощь.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10001</ID>
+      <DefaultText>Если я смогу доказать Фениксу, что я "*знаю*", тогда он поделится своими знаниями со мной. Может быть, тогда я смогу ему помочь.</DefaultText>
+      <FemaleText>Если я смогу доказать Фениксу, что я *знаю*, тогда он поделится своими знаниями со мной. Может быть, тогда я смогу ему помочь.</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>10002</ID>
+      <DefaultText>Феникс дал мне беспокоящую его записку. Если я смогу выяснить, что она значит, то, может быть, помогу ему.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10003</ID>
+      <DefaultText>Феникс дал мне записку. На ней указан код к уже осмотренной мной гробнице. В гробнице было сообщение для Феникса от... самого себя. Нужно рассказать ему.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10004</ID>
+      <DefaultText>Мной найдена гробница, где Феникс оставил сообщение... самому себе. Нужно вернуться и рассказать ему.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10005</ID>
+      <DefaultText>Я рассказал Фениксу, что его гробница найдена. Он лишь малая часть настоящего Феникса. Как только он это узнал, он исчез, возможно, возвратившись к истинному себе.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10006</ID>
+      <DefaultText>Мне пришлось покинуть Долину, прежде чем удалось найти ответы на вопросы Феникса. Не сомневаюсь, что, в конце концов, он их найдет.</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

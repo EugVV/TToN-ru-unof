@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\a_sagus\a2101_tcg_cultist_04</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>4</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>"Я был отверженным, отвратительным и презираемым, прежде чем нашел культ твоего творца".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>"Благодаря твоему творцу у меня есть дом и семья. Мы все объединились в свете веры в него".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>"Моя жизнь принадлежит тебе, святейшество. Я был *ничем* пока не обрел веру в тебя".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>"Прошу, обожаемый, верни нам солнце!"</DefaultText>
+      <FemaleText>"Прошу, обожаемая, верни нам солнце!"</FemaleText>
+    </Entry>
+  </Entries>
+</StringTableFile>

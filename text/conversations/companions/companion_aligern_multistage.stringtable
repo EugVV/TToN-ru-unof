@@ -1,0 +1,1225 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\companions\companion_aligern_multistage</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>237</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>С минуту он просто молча смотрит, обдумывая свои слова. "Может быть, ты не знаешь этого обо мне, но я нездешний. Я был местным Жрецом Вечности в маленьком алдее. Он назывался Ормен. Далеко к западу отсюда. Но кое-что произошло. Я ушел. И вот я здесь".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>"Не люблю говорить об этом. Хорошо. Спрашивай".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>Follow-up PQ. 376.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>Подойти к могиле 379.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>Проворчав что-то, он отворачивается. "У меня не очень хорошие отношения с Орденом Истины. Они считают меня кэркером, а я их — жуликами. При каждой встрече мы обмениваемся этими милыми прозвищами".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>"Там у меня остался только один друг, и с ним очень тяжело связаться".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>"Я много лет работал с ними. Но когда я обратился к ним за помощью, они отказались. Они не дали мне ни времени, ни ресурсов, ни помощи. Мне было приказано прекратить исследования. Они сказали, что я..." — последнее слово так и не сорвалось с его губ.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>"Ты уже наверняка знаешь, что я ненавижу их. Что мне еще сказать? Они отвернулись от меня, когда я больше всего нуждался в их помощи. Они ленивы, трусливы и не желают признавать истину, которая пугает их. На самом деле их волнуют не знания, а должности, которые они занимают".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>"Ты сказал, что *был* Жрецом Вечности. Не расскажешь ли подробнее?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>"Расскажи о Жрецах Вечности еще раз".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText>"Почему Жрецы Вечности считают тебя кэркером?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText>"Потому что я сказал им то, что думал".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>14</ID>
+      <DefaultText>"Кто твой друг в Ордене Истины?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>15</ID>
+      <DefaultText>"Орт Фонг. Он немного помогает мне с исследованиями. Личные дела".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>16</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>17</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>18</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>19</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>21</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>22</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>23</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>24</ID>
+      <DefaultText>"Никто не рождается с татуировками".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>25</ID>
+      <DefaultText>Он бросает многозначительный взгляд на вашу татуировку и ничего не говорит.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>26</ID>
+      <DefaultText>"Я по другому вопросу".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>27</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>28</ID>
+      <DefaultText>"Это все, что мне хотелось узнать. Давай сменим тему".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>29</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>31</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>32</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>33</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>34</ID>
+      <DefaultText>"Все в порядке. Спасибо, что спросил".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>35</ID>
+      <DefaultText>"Все складывается настолько хорошо, насколько можно ожидать".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>36</ID>
+      <DefaultText>"Хорошо". Он пожимает плечами.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>37</ID>
+      <DefaultText>Он холодно смотрит на тебя. "Я не знаю. Ничего не знаю".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>38</ID>
+      <DefaultText>"Не спрашивай".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>39</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>40</ID>
+      <DefaultText>"Кто?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>41</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>42</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>43</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>44</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>45</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>46</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>47</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>48</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>49</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>50</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>51</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>52</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>53</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>54</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>55</ID>
+      <DefaultText>"Давай поговорим о чем-нибудь другом".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>56</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>57</ID>
+      <DefaultText>"Не важно. Давай сменим тему".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>58</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>59</ID>
+      <DefaultText>"Надо же, а ведь мне показалось, что мы неплохо поладили". Он пытается говорить шутливым тоном, но боль во взгляде выдает его.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>60</ID>
+      <DefaultText>"Ладно. Я возвращаюсь в свою мастерскую. У меня там много дел".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>61</ID>
+      <DefaultText>"Ладно. Если я тебе понадоблюсь, меня можно найти в мастерской. Это в Подбрюшье".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>62</ID>
+      <DefaultText>"Так долго".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>63</ID>
+      <DefaultText>"Не веришь мне, хм? Это взаимно".
+
+"Я тебя увижу. Правда, ты можешь и не увидеть меня".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>64</ID>
+      <DefaultText>{angry, disappointed} "Так долго".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>65</ID>
+      <DefaultText>"Так быстро сбрасываешь меня со счетов? Хорошо. Мы все равно не были близки".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>66</ID>
+      <DefaultText>"Хорошо. Я возвращаюсь в город. Может быть, я сам найду Орта".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>67</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>68</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>69</ID>
+      <DefaultText>"Об этих? Да так, ничего особенного. Можешь считать, что они меня утешают". Он угрюмо улыбается. "Но многие с этим не согласятся. Потому что они иногда вырываются на свободу".
+
+Он отворачивается. Больше спрашивать не о чем.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>70</ID>
+      <DefaultText>Он смотрит на татуировку на вашей голове и говорит: "Я родился с ними. Как и ты. Но я не отверженный".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>71</ID>
+      <DefaultText>"Расскажи о своих татуировках. Они будто живые".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>72</ID>
+      <DefaultText>"Расскажи о своих татуировках еще раз".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>73</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>74</ID>
+      <DefaultText>"Я получил их... по случаю. Связанному с нуменерой. Возился с одной старой конструкцией, а когда пришел, они уже были там".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>75</ID>
+      <DefaultText>"Происшествие с нуменерой. Оно постоянно напоминает мне, что мы на самом деле понятия не имеем, что делать с этим старым хламом".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>77</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>78</ID>
+      <DefaultText>"Не ставь на мне свои чертовы опыты. Собирай свои данные в другом месте".
+
+{SCRIPT/QA: We need to balance the TCG counter here}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>79</ID>
+      <DefaultText>"Кажется, я выразился достаточно понятно. Не ставь на мне свои опыты".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>80</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>81</ID>
+      <DefaultText>Он смотрит на вас, постукивая пальцем по губам, и говорит: "Яд чудовищ, cожравших мою семью. Шрамы, которые напоминают мне о моих провалах".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>82</ID>
+      <DefaultText>"Боевые шрамы и напоминание об ошибках, допущенных мной в должности Жреца Вечности".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>83</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>84</ID>
+      <DefaultText>"Знаю, я предлагал тебе перестать пользоваться татуировками, но теперь мне кажется, что они снова понадобятся тебе".</DefaultText>
+      <FemaleText>"Знаю, я предлагала тебе перестать пользоваться татуировками, но теперь мне кажется, что они снова понадобятся тебе".</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>85</ID>
+      <DefaultText>"Мне бы хотелось, чтобы ты изменил свои взгляды на использование татуировок".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>86</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>87</ID>
+      <DefaultText>"Я пересмотрел свои взгляды на использование татуировок. Думаю, тебе следует остановиться".</DefaultText>
+      <FemaleText>"Я пересмотрела свои взгляды на использование татуировок. Думаю, тебе следует остановиться".</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>88</ID>
+      <DefaultText>"Я действительно думаю, что тебе не стоит использовать татуировки в качестве оружия".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>89</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>90</ID>
+      <DefaultText>"Помнишь, как я сказал, что покончил с этим? Мои слова все еще в силе. Это так. Я не меняю свое мнение". Он скрещивает руки и смотрит на вас.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>91</ID>
+      <DefaultText>"Мне бы хотелось, чтобы *ты* вспомнил мои слова о том, что я покончил с этим. Я не вернусь к этому".</DefaultText>
+      <FemaleText>"Мне бы хотелось, чтобы *ты* вспомнила мои слова о том, что я покончил с этим. Я не вернусь к этому".</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>92</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>93</ID>
+      <DefaultText>Он вскидывает бровь. "Серьезно? Интересно, к чему бы это. Ладно. Просто знай, что если я остановлюсь, это конец. Ты действительно хочешь, чтобы я остановился?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>94</ID>
+      <DefaultText>"Ты это уже говорил, а когда я сказал, что готов покончить с этим, начал упираться. Ты изменил свое мнение?"</DefaultText>
+      <FemaleText>"Ты это уже говорила, а когда я сказал, что готов покончить с этим, начала упираться. Ты изменила свое мнение?"</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>95</ID>
+      <DefaultText>"Да. Больше не пользуйся татуировками".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>96</ID>
+      <DefaultText>"Не беспокойся. Можешь пользоваться ими и дальше".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>97</ID>
+      <DefaultText>Он покачивает головой: "Как я и думал".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>98</ID>
+      <DefaultText>"Отверженный, ты знаешь, как я упрям. Если я сказал, что покончил с этим, значит, так оно и есть. Я не меняю свои решения".</DefaultText>
+      <FemaleText>"Отверженная, ты знаешь, как я упрям. Если я сказал, что покончил с этим, значит, так оно и есть. Я не меняю свои решения".</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>100</ID>
+      <DefaultText>"Нельзя рисковать, Алигерн. Перестань их использовать".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>101</ID>
+      <DefaultText>Он кивает: "Так и быть. Если мы ошибаемся, то узнаем об этом довольно скоро".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>102</ID>
+      <DefaultText>Он кивает: "Так и быть. Если мы ошибаемся, то узнаем об этом довольно скоро".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>103</ID>
+      <DefaultText>Он кивает: "Так и быть. Если мы ошибаемся, то узнаем об этом довольно скоро".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>104</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>105</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>106</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>107</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>108</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>109</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>110</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>111</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>112</ID>
+      <DefaultText>"Ты хочешь, чтобы я снова пережил все это?" Он вздыхает. "Почему бы и нет. Я заслуживаю боли".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>113</ID>
+      <DefaultText>"Давай".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>114</ID>
+      <DefaultText>"Я был Жрецом Вечности. Жил со своей семьей в алдее у самой границы Протектората. Однажды, изучая руины, я нашел... врата? Портал? Не знаю, что это было, но оно выглядело как конструкция из неизвестного материала в человеческий рост, и сбоку на нем находился интерфейс".
+
+"На протяжении нескольких недель я пытался понять, что это такое и как оно работает. Тогда и явился Меняющийся Бог, встреча с которым сломала мне жизнь".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>115</ID>
+      <DefaultText>"Он был в городе, искал какой-то предмет. Не помню, что именно. И моя дочь Аджива привела его в мою мастерскую, чтобы он смог меня расспросить про него. Я не знал, что он Меняющийся Бог. Я не знал тогда, кто *был* Меняющимся Богом. Я думал, что он еще один охотник за нуменерами".
+
+"Во всяком случае, когда он увидел конструкцию, то сказал, что у него есть мысли насчет того, как ее включить. Он показал мне, как подзарядить ее с помощью кабеля с сияющей оплеткой. Затем он покинул город".</DefaultText>
+      <FemaleText>"Она была в городе, искала какой-то предмет. Не помню что именно. И моя дочь Аджива привела ее в мою мастерскую, чтобы она смогла меня расспросить про него. Я не знал, что она Меняющийся Бог. Я не знал тогда, кто *был* Меняющимся Богом. Я думал, что она еще один охотник за нуменерами".
+
+"Во всяком случае, когда она увидела конструкцию, то сказала, что у нее есть мысли насчет того, как ее включить. Она показала мне, как подзарядить ее с помощью кабеля с сияющей оплеткой. Затем она покинула город".</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>116</ID>
+      <DefaultText>"На следующий день конструкция была полностью заряжена и я смог ее включить, а потом..." Он опускает голову. "Из нее появился целый рой черных существ. Они были похожи на промасленные палки. Они повалили меня, и я потерял сознание. Когда я очнулся... их уже не было. И мой алдей растворился без следа. Никого не было. Ни моих друзей, ни моей жены Изатрины, ни Адживы. Я был один".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>117</ID>
+      <DefaultText>"Что случилось?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>118</ID>
+      <DefaultText>"Я не знал. Я и сейчас не знаю. Я так и не смог понять, что же тогда произошло. Затащили ли эти существа всех людей в эту конструкцию? Или они их съели? А может быть, они их отправили куда-нибудь в другое место?"
+
+"Я только помнил путешественника, который рассказал мне, как зарядить конструкцию. По его словам, это было безопасно". Он щурит глаза, показывая ненависть. "В тот день я поклялся себе, что верну свою семью обратно и отомщу этому путешественнику... Меняющемуся Богу".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>119</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>120</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>121</ID>
+      <DefaultText>"Без толку. За все эти годы я так и не смог воплотить свои цели". Он вздыхает. "Я знаю, я должен уже смириться с тем, что они могли умереть, но я не могу. Если бы они были мертвы, я бы *почувствовал* это своим сердцем. Но это не так. Я чувствую, что они живы".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>122</ID>
+      <DefaultText>"Я знаю, что они живы, но у меня нет никаких доказательств. Я только чувствую это".
+
+"Иногда во сне я отчетливо слышу, как они меня зовут. Я..." Он кашляет, прикрыв свой рот рукой, а затем отводит взгляд.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>123</ID>
+      <DefaultText>"Что тебе известно о своей семье?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>124</ID>
+      <DefaultText>"Расскажи мне еще раз, что ты знаешь о своей семье".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>125</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>126</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>127</ID>
+      <DefaultText>"Орден Истины не смог помочь мне. В их книгах и в памяти устройств данных об этом не упоминается. Никто не знает об этом".
+
+Он делает паузу. "Стой. Я забыл сказать, что Каллистеж знает кое-что. Она сказала, что получила информацию из другой реальности, но эта информация причинит мне боль. Возможно, это и неправда".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>128</ID>
+      <DefaultText>"Без толку. Я ничего не знаю".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>129</ID>
+      <DefaultText>"Так ты ничего не знаешь об этой конструкции?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>130</ID>
+      <DefaultText>"Скажи еще раз, что ты знаешь об этой конструкции?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>131</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>132</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>133</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>134</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>135</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>136</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>137</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>138</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>139</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>140</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>141</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>142</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>143</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>144</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>145</ID>
+      <DefaultText>"Когда Орден Истины не смог помочь мне, я обратился за помощью к Каллистеж. Она могла выяснить, что же тогда случилось. И несмотря на то, что она имеет репутацию... ненадежной особы, я обратился к ней. Она согласилась оказать мне услугу только при условии, что я помогу ей выполнить переход в другую реальность".
+
+Он отводит взгляд. "Сначала она показалась мне очень доброжелательной, но когда стало ясно, что никто из нас не может помочь друг другу, она стала очень жестокой и злой. Я не знаю, почему я не ушел тогда. И почему она осталась со мной. Возможно, просто по привычке".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>146</ID>
+      <DefaultText>"Я нанял ее, чтобы она помогла мне найти мою семью. Но потом не смог от нее избавиться".
+
+Он покачивает головой: "Почему она хочет остаться со мной, не понимаю?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>147</ID>
+      <DefaultText>"Почему ты стал путешествовать с Каллистеж?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>148</ID>
+      <DefaultText>"Расскажи мне еще раз, почему вы с Каллистеж путешествуете вместе?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>149</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>150</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>151</ID>
+      <DefaultText>Он ворчит. "Если нашу злобу и ворчание друг на друга можно назвать отношениями, то возможно".
+
+Его глаза становятся шире. "Сначала было приятно с ней общаться. Я хотел найти хоть какое-нибудь утешение, а она... возможно, самоутверждение. Но когда я подвел ее, она стала жестокой и резкой. Ее фразы были невыносимы для меня. Слова, которые она произносила, с каждым разом все сильнее жалили меня, пронизывая мою плоть до самых костей".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>152</ID>
+      <DefaultText>"Резкая вспышка боли, которая пронзила меня, исчезла без следа".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>153</ID>
+      <DefaultText>"У вас с Каллистеж были... отношения?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>154</ID>
+      <DefaultText>"Расскажи мне еще раз про ваши отношения с Каллистеж".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>155</ID>
+      <DefaultText>"У меня есть еще один вопрос".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>156</ID>
+      <DefaultText>"Хорошо".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>157</ID>
+      <DefaultText>"Это все, что мне хотелось узнать. Давай сменим тему".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>158</ID>
+      <DefaultText>"Какая грустная история. Позволь мне спросить у тебя кое-что еще".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>159</ID>
+      <DefaultText>"Хотя позволь мне спросить у тебя кое-что еще".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>160</ID>
+      <DefaultText>Он облегченно вздыхает: "Спасибо".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>161</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>162</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>163</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>164</ID>
+      <DefaultText>"Расскажи мне свою историю".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>165</ID>
+      <DefaultText>"Расскажи мне свою историю еще раз".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>166</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>167</ID>
+      <DefaultText>"Они — моя семья. Мои друзья". Он поглаживает свою руку, и татуировки извиваются под его кожей будто змеи в своем гнезде. "Они преобразовываются в информацию. Не знаю, как это происходит. Но знаю, что нам нужно их освободить".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>168</ID>
+      <DefaultText>Он тихо смеется. "Эти светящиеся полоски на моем теле — это все люди, которых я когда-либо любил. Не о чем беспокоиться".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>169</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>171</ID>
+      <DefaultText>"Я был Жрецом Вечности в алдее под названием Ормен. Да, и такое было. И вот я здесь".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>175</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>176</ID>
+      <DefaultText>На его лице сияет искренняя улыбка, которая выражает в большей степени беспокойство, нежели радость. "Я потерял свою семью. Теперь мне нужно вернуться в Утесы Сагуса, найти в таверне Пятый Глаз того, кто даст мне код для освобождения алдея от заточения под моей кожей".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>177</ID>
+      <DefaultText>Он смеется: "Ты имеешь в виду, как я потерял свою семью и обнаружил, что они у меня на руке? Это длинная история, друг мой. Хорошо, что ты был здесь".</DefaultText>
+      <FemaleText>Он смеется: "Ты имеешь в виду, как я потерял свою семью и обнаружил, что они у меня на руке? Это длинная история, друг мой. Хорошо, что ты была здесь".</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>178</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>179</ID>
+      <DefaultText>"Ты слышал, что я об этом рассказывал Аадирис. Ты..."
+
+Он делает паузу. "Нет. Я собирался поговорить с тобой, я не игнорировал тебя".</DefaultText>
+      <FemaleText>"Ты слышала, что я об этом рассказывал Аадирис. Ты..."
+
+Он делает паузу. "Нет. Я собирался поговорить с тобой, я не игнорировал тебя".</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>180</ID>
+      <DefaultText>"Хватит, пожалуйста. Я потерял свою семью из-за знаний Меняющегося Бога. Достаточно об этом говорить".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>181</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>182</ID>
+      <DefaultText>"Ты видел монумент в Ормене, алдее, где я был Жрецом Вечности. Раньше туда приходили люди, чтобы почтить память умерших. Но это место никогда не служило здешнему народу в качестве Некрополя — только на стенах были выбиты имена умерших". Он опускает взгляд.
+
+"Я помню их всех. Некоторые из них пробудили древние нуменеры. Другие уничтожили мою деревню... или в конце концов просто исчезли. Я хотел знать, что же случилось с ними... я шел по следу виновных".</DefaultText>
+      <FemaleText>"Ты видела монумент в Ормене, алдее, где я был Жрецом Вечности. Раньше туда приходили люди, чтобы почтить память умерших. Но это место никогда не служило здешнему народу в качестве Некрополя — только на стенах были выбиты имена умерших". Он опускает взгляд.
+
+"Я помню их всех. Некоторые из них пробудили древние нуменеры. Другие уничтожили мою деревню... или в конце концов просто исчезли. Я хотел знать, что же случилось с ними... я шел по следу виновных".</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>183</ID>
+      <DefaultText>"Ты видел монумент в Ормене. Ты знаешь, что-то ужасное случилось там. Теперь мне надо выяснить, что это было... и кто это все затеял".</DefaultText>
+      <FemaleText>"Ты видела монумент в Ормене. Ты знаешь, что-то ужасное случилось там. Теперь мне надо выяснить, что это было... и кто это все затеял".</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>184</ID>
+      <DefaultText>"Хороший план".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>185</ID>
+      <DefaultText>"Подожди. Я должен кое-что сказать".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>222</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>223</ID>
+      <DefaultText>"Что ты думаешь об Эрритисе?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>224</ID>
+      <DefaultText>"Еще раз, что ты думаешь об Эрритисе?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>225</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>226</ID>
+      <DefaultText>"Он определенно... очень энергичный, и это слегка утомительно".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>227</ID>
+      <DefaultText>"Он утомительный".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>228</ID>
+      <DefaultText>"Не бойся! Если ты упадешь на землю, я аккуратно понесу тебя дальше, как несут хрупких молоденьких девушек".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>229</ID>
+      <DefaultText>"Так, есть еще другой рисунок. Я никогда его не забуду".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>230</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>231</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>232</ID>
+      <DefaultText>"Я очень признательна. Ты пахнешь как старое пальто, забытое под дождем".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>233</ID>
+      <DefaultText>"Разве мы не нашли тебя в пещере? Будь я тобой, я бы не отправился в путь с тем, от кого так ужасно пахнет".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>234</ID>
+      <DefaultText>"Я не думаю о ней. Тронешь хищников, они ответят тем же. Я лучше буду на расстоянии, спасибо".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>235</ID>
+      <DefaultText>"Я не трогаю хищников. Я предпочитаю держаться от них подальше".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>236</ID>
+      <DefaultText>"Что ты думаешь о Мэткине?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>237</ID>
+      <DefaultText>"Еще раз, что ты думаешь о Мэткине?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>238</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>239</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>240</ID>
+      <DefaultText>"Ооооом".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>241</ID>
+      <DefaultText>"Да, мне становится от *этого* легче".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>242</ID>
+      <DefaultText>"Мне бы хотелось больше узнать о нем. Что, если мы сделаем что-нибудь, что ему не понравится? Что тогда?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>243</ID>
+      <DefaultText>"В конце концов мы собираемся сделать что-нибудь, что ему не понравится. Что тогда?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>244</ID>
+      <DefaultText>"Что ты думаешь об Ооме?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>245</ID>
+      <DefaultText>"Еще раз, что ты думаешь об Ооме?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>246</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>247</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>248</ID>
+      <DefaultText>"Правда. Я могу часами веселиться сам или с другими людьми".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>249</ID>
+      <DefaultText>"Хорошо. Почему ты не пойдешь и не найдешь их?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>250</ID>
+      <DefaultText>"Лжец и невежда. По крайней мере, он не ожидает, что ты заговоришь об этом".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>251</ID>
+      <DefaultText>"Мне он не нравится. По крайней мере, он не ожидает, что ты заговоришь об этом".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>252</ID>
+      <DefaultText>"Что ты думаешь о Тибире?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>253</ID>
+      <DefaultText>"Еще раз, что ты думаешь о Тибире?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>254</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>255</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>256</ID>
+      <DefaultText>"Мы не можем просто принести фонарик, или что тут люди используют для освещения? Я имею в виду, если мы собираемся идти через..." На ее лице читается понимание и смущение. "О, ты не это имел в виду".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>257</ID>
+      <DefaultText>"Нет".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>258</ID>
+      <DefaultText>"Знаете, я думаю, мы не обязаны присматривать за этим ребенком. Мы пойдем через темные земли".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>259</ID>
+      <DefaultText>"Ей нельзя здесь находиться. Мы пойдем через темные земли".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>260</ID>
+      <DefaultText>"Что ты думаешь о Рин?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>261</ID>
+      <DefaultText>"Еще раз, что ты думаешь о Рин?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>262</ID>
+      <DefaultText>"Нам еще очень многое нужно сделать, поэтому..."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>263</ID>
+      <DefaultText>"Ты сказал, что 'всякое бывает', и это побудило тебя покинуть деревню. Что бывает?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>265</ID>
+      <DefaultText>Он медленно качает своей головой. "Я пока еще не готов говорить об этом".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>266</ID>
+      <DefaultText>"Ты не говорил раньше, что ты родился с ними".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>267</ID>
+      <DefaultText>Он простонал, "Возможно, я просто не хотел бы говорить о них".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>268</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>269</ID>
+      <DefaultText>"Ты видел памятник моей семье. Допустим. Несчастный случай, который забрал их, подарил мне эти татуировки". Он разразился громким смехом. "Слабое утешение".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>270</ID>
+      <DefaultText>"Это очень болезненная тема, отверженный. Никогда не хотел променять свою семью на клубок извивающихся змей, но это именно то, что получил".</DefaultText>
+      <FemaleText>"Это очень болезненная тема, отверженная. Никогда не хотел променять свою семью на клубок извивающихся змей, но это именно то, что получил".</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>272</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>275</ID>
+      <DefaultText>"Ничего страшного. Оставайся со мной. Давай поговорим о чем-нибудь другом".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>276</ID>
+      <DefaultText>"Я так не думаю. До свидания".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>277</ID>
+      <DefaultText>"Я свяжусь с тобой, если ты мне понадобишься. До свидания".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>278</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>279</ID>
+      <DefaultText>"Признай это! Я знаю тебя лучше, чем кто бы то ни был, и я достаточно долго наблюдал за тобой. Когда ты говоришь людям, что ты — Меняющийся Бог, это же не просто поза? Ты и есть он. Я хочу услышать это из твоих уст".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>280</ID>
+      <DefaultText>"Да, я — Меняющийся Бог. Или тебе что-то не нравится?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>281</ID>
+      <DefaultText>"Это все враки и слухи, Алигерн. Верь мне. Я не Меняющийся Бог".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>282</ID>
+      <DefaultText>"Я не знаю, где правда, а где ложь. Имя Меняющегося Бога открывает двери, а я этим пользуюсь".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>283</ID>
+      <DefaultText>Нахмурившись, он погружается в раздумья. "Посмотрим. Неважно, кто ты, я все равно остаюсь с тобой. Я имею в виду, если ты *не* он, тогда, конечно же, я нужен тебе. Но если ты *он*... — Алигерн качает головой. — Посмотрим. Это все, что я могу сказать".</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

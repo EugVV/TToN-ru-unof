@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\b_valleymielavest\b3142_endlessgateintro</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>1</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>Липкие пальцы отпускают вас, уверенные в том, что бежать вам некуда. Вы в Бесконечных Вратах. В их власти.
+
+Воздух морозный и влажный. Крики, полные боли, пронзают окружающую вас темноту, вы чувствуете на себе *чей-то* взгляд. Вам придется рискнуть.</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\a_sagus\a2501_matkina_at_panel</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>4</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>"Я полагаю, что ты уже знаешь как работает эта панель. Но когда мы расстанемся, знай, что ты можешь заходить сюда, если тебе понадобится меня найти".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>"Я не смогу тебе постоянно прислуживать . Ты не всегда будешь мне прислуживать. Поэтому смотри. Если мы когда-либо расстанемся и тебе потребуется найти меня, ты сможешь найти меня здесь".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>"Теперь смотри", — она наклоняется и чертит сложную схему поверх непонятных иероглифов на гравированной панели. Память этой модели улавливает частицу твоего разума.
+
+"Разгадай эту схему, и ты сможешь войти сюда. Без этого, тебе будет лучше разрушить скалу, чем пытаться войти через эту панель".
+
+Она поправляет свой плащ. "Приступай".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

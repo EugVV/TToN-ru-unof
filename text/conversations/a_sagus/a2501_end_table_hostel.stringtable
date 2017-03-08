@@ -1,0 +1,245 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\a_sagus\a2501_end_table_hostel</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>43</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>Рядом с кроватью стоит красивый и аккуратный ночной столик с одним комодом. На нем лежит большая открытая книга.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>Изучить книгу.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>Страницы этой книги изготовлены из плотного пергамента, и, кажется, это атлас региона. Книга открыта на странице с картой, где изображен город Утесы Сагуса, рядом находится Долина Забытых Героев, на север тянется горная гряда, отмеченная на карте как Гряда Оссифаген, а дальше на восток простирается кольцом пустыня, отмеченная на карте как Затерянное Море. 
+
+Между страницами была помещена тонкая закладка из ткани. Второй закладкой из ткани отмечено другое место в книге.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>Попробовать открыть комод.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>Комод оказался закрыт, но вы слышите какой-то дребезжащий звук внутри. Шум слабый, но непрерывный, как будто этот объект живой.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>Попробовать взломать замок от комода.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>После некоторых усилий, вы слышите подтверждающий щелчок и комод беззвучно открывается...</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>Независимо от того, как вы поворачиваете и трясете запирающий механизм, он не хочет открываться.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>Замок открывается с твоей первой попытки...</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>Твои неуклюжие попытки портят замок. Никто больше не сможет как следует открыть его снова. Однако твои неуклюжие попытки ослабили комод, который скорей всего легко можно будет взломать.
+
+{JESSE: This should provide an asset on the Smashing task (node 13).}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>Оставить край стола в покое.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText>Внутри вы находите маленький гребень с орнаментом, который выглядит как украшенное драгоценностями насекомое. На самой деле, это и *есть* украшенное драгоценностями насекомое — биомеханическое чудо, которое очень подвижно. Его клешни пытаются закрепиться на локонах волос, а его крылья позволяют ему парить вокруг головы владельца. 
+
+Несколько клочков волос все еще зажаты в клешнях этого гребня. Они ярко пурпурного цвета.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText>Попытаться взломать комод снова.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>14</ID>
+      <DefaultText>Какое-то время вы пытаетесь взломать комод, и в итоге, он открывается с небольшим треском. Кажется, что никто не слышал.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>15</ID>
+      <DefaultText>Комод оказался крепче, чем кажется. Какое-то время вы пытаетесь взломать комод, но он не поддается.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>16</ID>
+      <DefaultText>Замыкающий механизм поддается с небольшим треском, и комод резко открывается. Очевидно, ты недооценил свою силу.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>17</ID>
+      <DefaultText>Ты сильно дергаешь за ручку комода и он открывается, демонстрируя внутри сверкающий объект, парящий в воздухе. Прежде чем тебе удается его рассмотреть, он скользит к краю платформы и камнем падает вниз к океану.
+
+Ты не можешь сказать точно, где приземлился объект, но ты можешь видеть, как вода сужается в крошечную воронку у края входа в пещеру.
+
+{JESSE: I like the reactivity here — let's set a variable and implement this. I've made a note in the dialogue description for the fishing lines, but you'll need to modify the existing a2301_fishing_lines dialogue to include the hair comb. It'll be another option that follows node 19. Please coordinate with Gavin so that he can update the text once you add this,}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>18</ID>
+      <DefaultText>Addend. 18.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>19</ID>
+      <DefaultText>У вас возникает чувство, что вы уже видели биомеханический шедевр такого рода раньше. Он очень, очень старый — возможно старше чем Девятый Мир.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>21</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>22</ID>
+      <DefaultText>Попытаться снова взломать комод.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>23</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>25</ID>
+      <DefaultText>Попробовать снова подобрать отмычку к комоду.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>26</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>28</ID>
+      <DefaultText>Изучить книгу еще раз.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>29</ID>
+      <DefaultText>Книга оказалась атласом. Сейчас она открыта на странице с изображением города Утесы Сагуса и прилегающего региона, включая, распложённую поблизости Долину Забытых Героев и кругообразную пустыню, под названием Затерянное Море.
+
+Между открытыми страницами была помещена тонкая закладка из ткани, и другая закладка, отмечающая другое место в книге.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30</ID>
+      <DefaultText>Попытаться оценить возраст книги.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>31</ID>
+      <DefaultText>Поискать названия близлежащих поселений.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>32</ID>
+      <DefaultText>Рассмотреть отмеченную ленточкой страницу</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>33</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>34</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>35</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>36</ID>
+      <DefaultText>Судя по состоянию страниц, вы догадываетесь, что книге примерно двадцать лет. Пергамент был, возможно, сделан из шкуры стадного животного, вероятно, молодого анина, или галена.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>37</ID>
+      <DefaultText>Книга не кажется новой — ее страницы изношены от частого использования — но это все, что вы можете различить. Ей может быть сколько угодно лет, от десяти до пятидесяти. Никаких дат нет ни на одной из страниц.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>38</ID>
+      <DefaultText>Помимо Утесов Сагуса, вы видите несколько других городов и поселений. В центре круглой пустыни есть большая синяя точка, обозначенная как 'Оазис М'ра Джолиос', и меньшая точка сразу же рядом с ней, 'Джербоа.' На дальней стороне пустыни есть другой город, 'Хареф.' 
+
+В конце Долины Мертвых Героев есть точка, обозначенная как 'Некрополис.' Не понятно, то ли это поселение или просто достопримечательность.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>39</ID>
+      <DefaultText>Перед вами очередная карта на всю страницу, на которой изображен регион под названием Авгур-Кала. Похоже, он расположен на северо-западе от Утесов Сагуса, а его границы очерчены огромным кольцом из гор, прозванных Часами Калы. Расположение гор являет собой идеальный круг, и нет сомнений, что он был искусственно создан в далеком прошлом.
+
+Внутри него находятся несколько больших и малых городов, и самый крупный и важный из них называется Сада Имиду.
+
+Через несколько мгновений вы возвращаетесь к карте области Утесов Сагуса.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>40</ID>
+      <DefaultText>Вместо этого исследовать ночной столик.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>41</ID>
+      <DefaultText>Отойти.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>42</ID>
+      <DefaultText>Столик прекрасно изготовлен и имеет один ящик.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>43</ID>
+      <DefaultText>Помимо Утесов Сагуса, ты видишь несколько других городов и поселений. В центре круглой пустыни есть большая синяя точка, обозначенная как 'Оазис М'ра Джолиос', и меньшая точка сразу же рядом с ней, 'Джербоа.' На дальней стороне пустыни есть другой город, 'Хареф.' 
+
+В конце Долины Мертвых Героев есть точка, обозначенная как 'Некрополис.' Должно быть это то место, которое ты посещал в Долине.
+
+{SCRIPT: Player has already visited the Valley of Dead Heroes.}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>44</ID>
+      <DefaultText>[DEBUG: Just give me the comb, fer chrissake.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>45</ID>
+      <DefaultText>Парящий гребень и фиолетовые волосы — в точности, как Омахдон описывал Персею. Похоже, что она была в этой комнате не так давно.</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

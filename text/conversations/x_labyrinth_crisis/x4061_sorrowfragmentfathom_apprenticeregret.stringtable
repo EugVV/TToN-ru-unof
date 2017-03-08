@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\x_labyrinth_crisis\x4061_sorrowfragmentfathom_apprenticeregret</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>19</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>[The moment slows to a crawl, and you recognize the concerns being retreaded by the foreign thoughts as an interface to the machine's functionality.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>[Resolve to replace his memories with other esoteric knowledge; the machine will replace the Sorrow's Fire with something that will harm it.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>[Resolve to remove any memory of the work he's done; the machine will extinguish the Sorrow's Fire.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>[Resolve to wall off the knowledge of what he's done, keeping it hidden from his conscious mind; the machine will construct a barrier around this area ]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>[Tear your gaze from the scene, and end the memetic broadcast.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>[The functionality of the machine is obscured by the swirling mass of the Sorrow Fragment which has poured into its inner workings.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>Фрагмент Скорби выброшен</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>[You feel the Sorrow Fragment's screech in your mind, feel it in your emotions, before it begins to phsyical form nearby, and you hears its growl in your ears.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>[This machine is projecting a holographic scene on loop. As you study it, you feel it probe your mind, then begin to push into it. You perceive the scene as if from your perspective, foreign thoughts and emotions pouring into you.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>[Your eyes are fixed on a display adjacent to the crystal chamber, intently watching a wash of colors orgnize into an ordered pattern. There's a whirr and a ping, and your assistant lets out a celebratory whoop as you slowly exhale the air you didn't realize you'd been holding in for the duration of the experiment.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>["I knew this would be the one! I can hear it whispering, boss," your apprentice says, frantically taking notes and adjusting the support machinery, "It is like it wants us to finish it. What's the next step?" The young castoff barely looks up at you, unsure if he was asking you or te device.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText>[You consider what you must do next. He's gifted, and has proven his usefulness time and time again here. You feel the Tides begin to swell, however, as you begin to consider what would happen if his knowledge fell into your opponent's hands.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>14</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>15</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>16</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>17</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>18</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>19</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

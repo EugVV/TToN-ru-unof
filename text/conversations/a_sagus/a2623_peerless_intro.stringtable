@@ -1,0 +1,270 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\a_sagus\a2623_peerless_intro</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>50</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>Конструкт взлетает, преграждая вам путь. На его ребристой поверхности видны капли крови.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>"Своим возвращением ты испытываешь мое терпение, мешок с мясом".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>"Стой, мешок с мясом!" — вопит он. — "Трепещи от бескрайней тени Несравненного, от бессмертного разума, потерявшего счет своему возрасту! Склонись передо мной и, может быть, я тебя помилую!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>Преклониться перед конструктом.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>"Как ты меня назвал?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>"Почему ты так враждебно настроен?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>"Ты серьезно, дитя?"
+{ALIGERN}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>"Никогда не кланяйся конструкту. Так ты подкидываешь им идеи".
+{CALLISTEGE}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText>"Что ты творишь?" — шипит он. — "Мы должны броситься в атаку. Броситься!"
+{ERRITIS}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText>"Эммм, мне тоже следует поклониться?"
+{RHIN}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>14</ID>
+      <DefaultText>Скрестив руки, Мэткина с интересом наблюдает за вами обоими. 
+{MATKINA}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>15</ID>
+      <DefaultText>Тибир сразу же следует вашему примеру, но, поднимаясь, озадаченно смотрит на вас. 
+{TYBIR}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>16</ID>
+      <DefaultText>Вы демонстрируете конструкту низкий великосветский поклон.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>17</ID>
+      <DefaultText>"Мешок с мясом", — говорит он, слегка наклоняясь вбок. — "Ты создан из разлагающегося мяса и затвердевшего кальция. Ты *хлюпаешь* и *щелкаешь* при движении. Это омерзительно".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>18</ID>
+      <DefaultText>"Хватит этих любезностей. Проваливайте или я и мои дроны переломаем вам кости и оставим дымящиеся дыры в ваших жирных внутренностях".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>19</ID>
+      <DefaultText>[Attack] "А что, если вместо этого я разберу тебя на запчасти?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20</ID>
+      <DefaultText>"Как ты меня назвал?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>21</ID>
+      <DefaultText>"Я отклоняю твое мерзкое контрпредложение!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>22</ID>
+      <DefaultText>"Мешок с мясом", — говорит он, передергиваясь. — "Ты создан из разлагающегося мяса и затвердевшего кальция. Ты *хлюпаешь* и *щелкаешь* при движении. Это омерзительно".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>23</ID>
+      <DefaultText>"Взгляни на меня! Я *забрызган* органическими жидкостями, которые вы *носите* внутри себя". Голос конструкта звучит с отвращением:
+
+"Но другие мешки с мясом не хотели меня слушать. Они хотели остаться в моей крепости. Мне приходилось выбивать из них эти жидкости!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>24</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>25</ID>
+      <DefaultText>"Что ты здесь делаешь?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>26</ID>
+      <DefaultText>"Расскажи мне еще что-нибудь о том, что ты тут делаешь?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>27</ID>
+      <DefaultText>"Великая работа, достойная бессмертного существа", — отвечает он. — "Это даже больше того, что ты заслуживаешь знать".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>28</ID>
+      <DefaultText>"Нет", — со злостью отвечает конструкт. — "Это недоступно для твоего плотского понимания".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>29</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30</ID>
+      <DefaultText>"Ты упоминал других дронов. Расскажи мне о них".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>31</ID>
+      <DefaultText>"Так эти дроны — твои копии?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>32</ID>
+      <DefaultText>Похоже, что ваше выражение почтения ошеломило даже конструкта. Но он быстро приходит в себя.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>34</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>35</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>36</ID>
+      <DefaultText>"Так кто же ты?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>37</ID>
+      <DefaultText>"Я снова забыл твое имя".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>38</ID>
+      <DefaultText>Конструкт вибрирует с разочарованием. 
+
+"Способен ли такой сморщенный кусок мяса удержать в своей голове хотя бы несколько воспоминаний одновременно? Я Несравненный, я безграничный разум, который охватывает бесконечные долины самого времени!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>39</ID>
+      <DefaultText>Конструкт рычит, но не реагирует.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>40</ID>
+      <DefaultText>"Они — мои руки", — самодовольно отвечает плавающий шар. — "Продолжение моей несокрушимой воли. Отражение моего великолепия".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>41</ID>
+      <DefaultText>"Не точные копии", — отвечает Несравненный. — "Совершенство невозможно так легко растиражировать. Но ты мыслишь в правильном направлении, мешок с мясом".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>42</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>43</ID>
+      <DefaultText>"Назад, мешок с мясом. Это мой мир!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>44</ID>
+      <DefaultText>"Фуу, ты портишь мой воздух своими газами от разлагающегося мяса!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>45</ID>
+      <DefaultText>"Тебя сюда никто не звал. Ты слышишь? Или твои звукоприемники неисправны?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>46</ID>
+      <DefaultText>"Укрась мой корпус своими омерзительными жидкостями, мешок с мясом!"
+{SCRIPT: Combat begins}
+{SCRIPT: Plays if the PC trespasses.}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>48</ID>
+      <DefaultText>Похоже, что ваше выражение почтения ошеломило конструкта. Но он быстро приходит в себя.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>49</ID>
+      <DefaultText>"Я ухожу".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>50</ID>
+      <DefaultText>"Отлично. И не возвращайся, мы здесь слишком заняты".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>51</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>52</ID>
+      <DefaultText>"Излей свои отвратительные флюиды!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>53</ID>
+      <DefaultText>"Во мне нет изъянов! Я — вечное существо!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>54</ID>
+      <DefaultText>"Откройте ваши жалкие, жирные глотки Несравненному!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>55</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>quests\c_bloom\quest_c4501_into_the_depths</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>14</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>0</ID>
+      <DefaultText>В глубины</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>Поговорить со Служительницей Крупинкой.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>Найти способ открыть Пасть в храме Чилы Великой.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>Найти способ войти в Сердце Цветения.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>Взять Сердце Цветения под контроль и добыть проектор сознания.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>Вернуться к Мемовире.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10000</ID>
+      <DefaultText>Мемовира попросила вас спуститься в глубины Цветения и добыть проектор сознания, спрятанный ею там давным-давно.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10007</ID>
+      <DefaultText>Из-за недавних перемен в структуре Цветения Мемовира больше не знает, как попасть в сердце Цветения. Она предложила поговорить со Служительницей Крупинкой, которая находится в Цветении дольше всех. Возможно, она знает путь.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10008</ID>
+      <DefaultText>Служительница Крупинка рассказала о существовании Пасти, ведущей в глубины Цветения. Пасть находится в ее собственном храме. Но прежде чем отправиться туда, вам нужно найти способ открыть Пасть.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10009</ID>
+      <DefaultText>Вы нашли способ проникнуть в сокровенные глубины Цветения и теперь должны пройти еще дальше — прямо в его сердце.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10010</ID>
+      <DefaultText>Оказавшись внутри Сердца Цветения, вы должны взять его под контроль и получить проектор сознания.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10011</ID>
+      <DefaultText>Вы получили проектор сознания. Теперь нужно вернуться к Мемовире.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30000</ID>
+      <DefaultText>Мемовире понравились ваши подвиги. Она предоставила вам доступ в свое хранилище.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30001</ID>
+      <DefaultText>Мемовира пришла в ярость из-за того, что наладили связь с Цветением, и атаковала вас. У вас не было выбора, кроме как убить ее и ее людей.</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

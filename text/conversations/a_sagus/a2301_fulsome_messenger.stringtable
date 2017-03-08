@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\a_sagus\a2301_fulsome_messenger</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>19</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>Вы просыпаетесь от звука шагов посланницы Толстона. Ее одежда в легком беспорядке, будто ее подняли из постели, чтобы отправить на поиски вас.
+{SOUND: Footsteps}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>Открыв глаза, вы видите лицо посланницы Толстона. Ее изнуренный и слегка отсутствующий взгляд говорит о том, что она не спала с тех пор как вы видели ее в прошлый раз.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>"Проснись", — произносит женщина, и вы просыпаетесь. Она стоит, скрестив руки на груди, и мрачно смотрит на вас.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>Вы просыпаетесь от звука шагов посланницы Толстона. Ее одежда в легком беспорядке, будто ее подняли из постели, чтобы отправить на поиски вас.
+{SOUND: Footsteps}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>"Толстон хочет тебя видеть", — бормочет она, протирая слипающиеся глаза.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>"Эй", — говорит женщина, отвлекая вас от отдыха. Она стоит, скрестив руки на груди, и мрачно смотрит на вас.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>"Толстон хочет поговорить. На твоем месте я бы поторопилась. Кое-что произошло. Совершено покушение на мутантку по прозвищу Кривая Квик".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>"В Подбрюшье произошло новое убийство", — говорит она. — "Погибла маленькая мутантка по прозвищу Кривая Квик. Толстон хочет *переговорить* тобой".
+
+Она поворачивается, чтобы уйти: "На твоем месте я бы поторопилась".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>"Ночью в Подбрюшье произошло новое убийство", — рычит она. — "Пока ты *спал*".
+
+Она пропускает пальцы сквозь свои грязные волосы: "Погиб бродячий ловкач по имени Мант Па. Толстон желает знать, удалось ли тебе что-то выяснить. Не заставляй его ждать".</DefaultText>
+      <FemaleText>"Ночью в Подбрюшье произошло новое убийство, — рычит она. — Пока ты *спала*".
+
+Она пропускает пальцы сквозь свои грязные волосы: "Погиб бродячий ловкач по имени Мант Па. Толстон желает знать, удалось ли тебе что-то выяснить. Не заставляй его ждать".</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>"Здоровяк хочет тебя видеть", — бурчит она. — "Произошло очередное убийство, и он очень расстроен. Выходит, мы повесили не того людоеда, а?"
+
+Зевая, она уходит прочь.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText>::ворчит::</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>14</ID>
+      <DefaultText>"Произошло новое убийство. Наши заметили убийцу, но ей удалось улизнуть и покинуть город". 
+
+Она потирает глаза. "Здоровяк хочет тебя видеть".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>15</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>16</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>17</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>18</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>19</ID>
+      <DefaultText>::ворчит::</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

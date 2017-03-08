@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\c_bloom\c4411_hernia</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>7</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>Массивная пупырчатая стена плоти выглядит как выпячивающаяся масса, проталкивающаяся через ослабевшие стенки Цветения. Вы не можете определить назначение органа, выпячивающегося сквозь кожу, но замечаете внутри небольшие трещинки. Рассмотрев более тщательно, вы замечаете внутри пространство, скрытое пространство, достаточное, чтобы вместить вас.</DefaultText>
+      <FemaleText>Массивная пупырчатая стена плоти выглядит как выпячивающаяся масса, проталкивающаяся через ослабевшие стенки Цветения. Вы не можете определить назначение органа, выпячивающегося сквозь кожу, но замечаете внутри небольшие трещинки. Рассмотрев более тщательно, вы замечаете внутри пространство, скрытое пространство, достаточное, чтобы вместить вас.</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>Выпуклость выглядит так же, как и в прошлый раз, и мягко пульсирует.</DefaultText>
+      <FemaleText>Выпуклость выглядит так же, как и в прошлый раз, и мягко пульсирует.</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>Проскользнуть внутрь впадины и отдохнуть.</DefaultText>
+      <FemaleText>Проскользнуть внутрь впадины и отдохнуть.</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>Уйти.</DefaultText>
+      <FemaleText>Уйти.</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\a_sagus\a2301_dead_stichus</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>21</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>В конце этого грубо прорубленного тоннеля вы обнаруживаете беспорядочную кучу валунов. Из нее торчат неподвижные конечности стихуса. Отверстия в его панцире покрыты засохшей кровью.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>Мертвый стихус лежит на прежнем месте, среди запятнанных его кровью камней.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>Отойти.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>""</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>""</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>""</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>Сдвинуть камни, чтобы высвободить труп.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>Попробовать еще раз сдвинуть камни.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>Труднее всего было сдвинуть первый валун. Справившись с этой задачей, вы легко расшвыриваете остальные камни, пока полностью не открываете лежащий внизу труп.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>Вы пытаетесь расшевелить то один валун, то другой... тянете и толкаете изо всех сил, пока кровь не начинает стучать в висках... но камни лежат неподвижно.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText>Осмотреть найденный труп.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>14</ID>
+      <DefaultText>Еще раз осмотреть труп.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>15</ID>
+      <DefaultText>Очевидно, несчастное существо рыло этот тоннель, когда тот обвалился, убив его на месте. Малая клешня существа смята и изувечена, но, не считая раздавленного горла и нескольких порезов на панцире, тело почти не пострадало.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>16</ID>
+      <DefaultText>Если не считать раздавленного горла и смятой клешни, тело на удивление не пострадало.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20</ID>
+      <DefaultText>Клешни существа оставили глубокие борозды на упавших камнях и окружающих стенах. Вы вдруг понимаете, что существо *специально* обрушило своды тоннеля.
+
+Оно хотело умереть.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>21</ID>
+      <DefaultText>Вы осматриваете стены и потолок. 
+
+Мало кто знает о обычае стихусов под названием "тоннель смерти", яркий пример которого вы видите своими глазами. Видимо, эта особь была старой или больной и решила умереть, чтобы не быть обузой для сородичей.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>23</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>24</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>25</ID>
+      <DefaultText>Упавшие камни слишком тяжелые и слишком плотно прилегают друг к другу. Несмотря на все ваши усилия, вам не удается их сдвинуть.</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

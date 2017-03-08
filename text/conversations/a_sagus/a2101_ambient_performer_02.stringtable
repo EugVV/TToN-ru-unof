@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\a_sagus\a2101_ambient_performer_02</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>5</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>"Ах! Я подготовил особенный фокус для ночи!"
+{SCRIPT: This guy should probably be doing some sort of busy-hand animation, possibly obscured in some way. Maybe he has his back to the camera. From the task: "Male street performer. He hangs out in one spot, surrounded by a couple rapt children. He's some kind of illusionist or street magician who probably uses numenera to perform his "magic". Should not *require* any special animations of vfx, but if we have time in polish, we may add some to support this guy, so keep it in mind".}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>"Узрите!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>"Приготовьтесь!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>"Предупреждаю, следующая иллюзия может сильно напугать".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>"Будьте внимательны".</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

@@ -1,0 +1,1343 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\si_meres\mere_bg2_daughtersmere</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>235</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>Вы находитесь в стеклянном куполе, в нескольких километрах над землей. Вокруг видно лишь голубое небо. Под вами — золотистый металлический пол. Оглушающе воет сирена, предупреждая о... чем-то.
+
+В центре купола находится знакомая стазисная камера. Сбоку от нее — ящик из синта и холодного железа. Позади камеры в воздухе парит бриллиант, пуская разноцветные зайчики. Возле вашей руки пьедестал, светящийся небесно-голубым цветом. 
+
+Не видно ничего, из-за чего могла бы выть сирена, но вы знаете, что воет она не просто так.
+
+{SOUND: Blaring klaxons, with an interval of maybe 2 seconds (something slightly annoying but not super annoying). This is an ambient sound that continues throughout this Mere until (and unless) the player turns them off in node 139.}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>Осмотреть камеру.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>Снова осмотреть камеру.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>Это стазисная камера, такая же, как вы видели в призрачной лаборатории несколько минут назад. Внутри лежит девушка лет двадцати. Ее кожа бледна, а под глазами темные круги. Лицо ее точь-в-точь как у женщины, что являлась вам в воображении, а грудь вздымается и опадает, будто девушка крепко спит.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>Это стазисная камера. Внутри лежит женщина, образ которой являлся вам в воображении. Ее грудь вздымается и опадает, мягко и размеренно.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>Открыть камеру.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>Вдруг между вами и камерой появляется мужчина. Он не совсем здесь: через него видны облака и пейзаж. Мужчина упреждающе держит руки перед собой: "Эй, что ты делаешь? Если открыть, то Миика умрет!"
+
+Своим поведением он напоминает Призрака из лабиринта, хотя его лицо, одежда и голос не такие.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>Между вами и камерой появляется призрак мужчины. Он упреждающе держит руки перед собой: "Эй, что ты делаешь? Если открыть, то Миика умрет!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText>Открыть синтовый ящик.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText>Вернуться к синтовому ящику.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>14</ID>
+      <DefaultText>Ящик закрыт кнопочной панелью с семнадцатью странными символами. Вы было отчаиваетесь, но вдруг понимаете, что *знаете*, какие символы надо нажимать.
+
+Вы спешите ввести правильный код, пока воспоминание не ускользнуло. Ящик открывается с мягким щелчком. Внутри лишь деревянная палка, на один конец которой привязан разноцветный кристалл, и большая полусфера из голубой стали.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>15</ID>
+      <DefaultText>Вы открываете синтовый ящик и изучаете содержимое.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>16</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>17</ID>
+      <DefaultText>Осмотреть жезл с кристаллом на конце.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>18</ID>
+      <DefaultText>Снова осмотреть жезл и кристалл.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>19</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20</ID>
+      <DefaultText>Осмотреть купол из голубой стали.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>21</ID>
+      <DefaultText>Снова осмотреть стенной проектор.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>22</ID>
+      <DefaultText>Включить стенной проектор.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>23</ID>
+      <DefaultText>Взять жезл с суррименовым кристаллом.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>24</ID>
+      <DefaultText>Вернуться к стазисной камере.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>25</ID>
+      <DefaultText>За стеклянным куполом медленно плывет горизонт, будто лаборатория парит на высоте нескольких километров в воздухе. Посреди комнаты находится большая камера, а внутри нее — некая фигура.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>26</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>27</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>29</ID>
+      <DefaultText>При ближайшем рассмотрении оказывается, что это не жезл подавления, как казалось сначала. Кристалл точно соответствует описаниям из архива: он суррименовый, и использовался табатами в качестве оружия.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30</ID>
+      <DefaultText>В деревянной рукояти нет ничего необычного, но кристалл на конце явно из предыдущего мира. Напоминает жезл повиновения: кристалл лишает всех, кого коснется, силы воли.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>31</ID>
+      <DefaultText>Скорее всего, это жезл подавления. Если так, то кристалл должен лишать всех, кого коснется, силы воли.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>32</ID>
+      <DefaultText>Устройство тяжелое, в одиночку его не поднять. Кажется, это некий стенной проектор, и принесли его сюда, скорее всего, для защиты лаборатории. К сожалению, ничто не указывает на то, *какой именно* барьер создает этот проектор, и как его включить, тоже не ясно.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>33</ID>
+      <DefaultText>Похоже на стенной проектор, но непонятно, как его включить.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>34</ID>
+      <DefaultText>Если допустить, что описание в архивах верно, то это — межпространственный стенной проектор. Он создаст вокруг лаборатории стену, через которую не проникнут никакие существа, кроме бестелесных.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>35</ID>
+      <DefaultText>Вы находите панель, упомянутую в архивах, и она тут же легко открывается. Вы кладете руку на черное стекло внутри. От прикосновения оно теплеет, и начинает пахнуть легким дождем.
+
+Краем уха вы слышите низкое гудение, а воздух за пределами купола начинает дрожать. Кажется, щит — сферический. Остается только надеяться, что он даст вам достаточно времени, чтобы избежать того, что надвигается на вас.
+
+{SOUND: A hum as of a machine powering up (creating an energy barrier around the laboratory).}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>36</ID>
+      <DefaultText>У жезла хорошая ручка и баланс, словно у добротного копья. Неизвестно, пригодится ли он, но он всяко будет полезнее у вас в руках, нежели в ящике.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>37</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>38</ID>
+      <DefaultText>Осмотреть парящий бриллиант.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>39</ID>
+      <DefaultText>Вернуться к архивному бриллианту.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>40</ID>
+      <DefaultText>Стоит вам приблизиться к бриллианту, как его верхушка раскрывается, подобно цветку. Внутри появляется призрачный шар, по поверхности которого скользят слова и изображения.
+
+У вас в голове звучит женский голос: "С возвращением. Каков ваш запрос?"
+
+Вы внезапно вспоминаете. Меняющийся Бог использовал это устройство в качестве архива, куда записывал свои мысли и опыты. Если произнести нужное слово, можно прослушать запись о нем.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>41</ID>
+      <DefaultText>Бриллиант раскрывается, как цветок, и у вас в голове звучит женский голос: "С возвращением. Каков ваш запрос?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>43</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>44</ID>
+      <DefaultText>"Меняющийся Бог".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>45</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>47</ID>
+      <DefaultText>"Советник".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>49</ID>
+      <DefaultText>"Дочь".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>50</ID>
+      <DefaultText>"Жезл подавления".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>58</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>59</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>60</ID>
+      <DefaultText>"Потоки".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>61</ID>
+      <DefaultText>Снова послушать о Потоках.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>62</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>63</ID>
+      <DefaultText>"Побег".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>64</ID>
+      <DefaultText>Снова послушать о побеге.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>65</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>66</ID>
+      <DefaultText>"Скорбь".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>67</ID>
+      <DefaultText>Снова послушать о Скорби.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>68</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>69</ID>
+      <DefaultText>"Стенной проектор".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>70</ID>
+      <DefaultText>Снова послушать о стенном проекторе.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>71</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>72</ID>
+      <DefaultText>"Миика".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>73</ID>
+      <DefaultText>Снова послушать о Миике.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>74</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>75</ID>
+      <DefaultText>"Передача сознания".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>76</ID>
+      <DefaultText>Снова послушать о передаче сознания.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>77</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>78</ID>
+      <DefaultText>"Суррименовый кристалл".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>79</ID>
+      <DefaultText>Снова послушать о суррименовом кристалле.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>80</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>81</ID>
+      <DefaultText>"Табат".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>82</ID>
+      <DefaultText>Снова послушать о табате.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>83</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>84</ID>
+      <DefaultText>"Осада Утесов Сагуса".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>85</ID>
+      <DefaultText>Снова послушать об осаде Утесов Сагуса.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>86</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>87</ID>
+      <DefaultText>"Далад".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>88</ID>
+      <DefaultText>Снова послушать о Даладе.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>93</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>94</ID>
+      <DefaultText>Это стазисная камера призрачной женщины — настоящая, из которой были сделаны конструкции лабиринта. Внутри лежит дочь Меняющегося Бога. Ее кожа бледна, а под глазами темные круги. Лицо ее точь-в-точь как у женщины, что являлась вам в воображении, а грудь вздымается и опадает, будто девушка крепко спит.
+
+Лаборатория — это *тело* — должно быть, принадлежит Меняющемуся Богу.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>95</ID>
+      <DefaultText>Это стазисная камера. Внутри лежит реальная дочь Меняющегося Бога. Ее грудь вздымается и опадает, мягко и размеренно.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>99</ID>
+      <DefaultText>Ваш голос говорит: "Потоки оказались чрезвычайно плодотворными для исследований. Табат не понимают, до чего докопались. Они думали, что нашли просто очередные нуменеры, но заключенная в находках сила, быть может, способна обратить саму смерть. Надеюсь, ради нее, что именно так и будет".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>100</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>101</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>102</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>103</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>104</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>105</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>106</ID>
+      <DefaultText>Ваш голос говорит: "В новом теле я не буду рисковать. Установил отказоустойчивую систему, которая унесет меня, если со мной или лабораторией что-то случится. Если возникнет непредвиденная опасность, я смогу сбежать в запасное место".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>107</ID>
+      <DefaultText>Голос говорит: "Не знаю, что есть Скорбь, но знаю, что она стара. *Очень* стара. И она не обращает внимания на твердые законы пространства и времени — интересно вот, насколько же они, в самом деле, твердые? Ну да ладно. Впервые я встретил упоминание о Скорби, исследуя Потоки. Вроде бы она — некий страж, следящий за тем, чтобы Потоки не использовали во зло. Судя по имеющимся данным, Скорбь могла в одиночку уничтожить один из бывших миров".
+
+Голос вздыхает: "Кажется, ее пробудили мои опыты с сознанием. Не думаю, что Скорбь преследует конкретно *меня*, но я почти уверен в том, что она уничтожила мою бывшую лабораторию".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>108</ID>
+      <DefaultText>На шаре в бриллианте появляется изображение голубого стального купола из ящика.
+
+Ваш голос говорит: "Непросто было найти панель: видимых швов нигде нет. Но, если знать, где она, то открыть легко. Найдя панель, я перенес межпространственный стенной проектор в лабораторию. Не знаю точно, что уничтожило предыдущее место, но знаю, что природа у этого явления межпространственная. Проектор создаст барьер, что укроет весь купол — на случай, если разрушительно нечто решит последовать и сюда".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>109</ID>
+      <DefaultText>Ваш голос говорит: "Состояние Миики не улучшилось после переноса сознания, а, напротив, ухудшилось. Я понял, что причиной тому — оружие, которое я получил у табатов после их неудавшейся осады Утесов Сагуса, но я понятия не имею, как отменить его действие".
+
+Следует полная агонии пауза: "Не пойму. Я ведь должен в таком разбираться. И разберусь! Нужно только больше данных. Есть теория о процессе, который мог бы слить мое сознание с ее, но... нужно больше данных. Если повезет, я смогу поставить опыт через несколько дней".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>113</ID>
+      <DefaultText>По этому запросу есть только одна запись: та же, что прозвучала на запрос о Миике. В записи говорится, что он попробует поставить опыт через несколько дней, но сделана эта запись несколько месяцев назад. Если он и ставил опыты, то не занес в архивы никаких сведений о них.
+
+Быть может, призрачный советник знает больше.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>115</ID>
+      <DefaultText>Ваш голос говорит: "Перенос сознания удался! Сначала я перенес Миику в новое тело — клон оригинального. За несколько дней никаких побочных эффектов не проявилось, поэтому я повторил процедуру и для себя. Следующие несколько недель я буду пристально наблюдать за нами обоими, но пока что я весьма обнадежен. Уверен, что еще будут непредвиденные последствия, которые проявятся лишь через длительное время, но пока что кажется, что я нашел способ избежать смерти. Не представляю, что за последствия могут перевесить такое".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>116</ID>
+      <DefaultText>В шаре внутри бриллианта появляется изображение деревянной рукояти с кристаллом, привязанным на одном конце.
+
+Ваш голос говорит: "Слово-команда! Надо было догадаться, хоть я и не представляю, как табатам это удалось. Должно быть, это как-то связано с их Подосновой. Нужно коснуться кристаллом цели и сказать "кадишту", тогда кристалл сработает. Я принес его в новою лабораторию, чтобы исследовать получше".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>117</ID>
+      <DefaultText>Ваш голос говорит: "Табаты были глупцами, но искать умели, а еще им повезло обнаружить Подоснову. До сих пор не знаю, *что* такое Подоснова, но убежден, что она ведет свое начало от даладов — того самого народа, у которого я по крупицам собирал силу Потоков, и от которого узнал, как переносить сознание. Вот лучшее объяснение успеху табатов. Без Подосновы они немногим лучше полулюдей с разумом чуть лучше среднего".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>118</ID>
+      <DefaultText>Ваш голос говорит: "Сегодня двадцать восьмая годовщина осады Утесов Сагуса. Двадцать восемь лет с тех пор, как она заболела. Победить их было легко: вырвать город из настоящего и отнять у тех, кто остался внутри, все нуменеры. Но избавиться от последствий террора, что они обрушили на нас, было куда сложнее. До сих пор не понимаю, как *работает* суррименовый кристалл, и что он делает с жертвами. Сомневаюсь, что и они это знают: они же грабители, а не жрецы. Они только и поняли, что кристалл был оружием".
+
+Голос вздыхает: "Интересно, догадывались ли они о том, сколь велика его сила? Он мог уничтожить жизнь молодой девушки и ее отца, и даже преследовать их *по многим* жизням".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>119</ID>
+      <DefaultText>Открывается другая запись. Она сделана не вашим голосом, а женским — голосом самого архивного бриллианта.
+
+"Считается, что народ даладов существовал задолго до появления Девятого Мира. Возможно, сами они не называли себя "даладами". Их настоящее название неизвестно. Они много использовали силу, называемую в данном архиве "Потоками", главным образом, для влияния на психику отдельных индивидуумов. Цивилизация даладов не пришла в упадок, а была полностью уничтожена существом по имени Скорбь".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>120</ID>
+      <DefaultText>Значит, Скорбь, скорее всего, уничтожила даладов из-за того, что они плохо обращались с Потоками. Если оружие, вызвавшее болезнь Миики, пришло из той же цивилизации, тогда логично предположить, что болезнь берет свое начало в Потоках — например, в их всплеске.
+
+Тогда должен быть способ все исправить. Призрачный советник должен знать больше.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>121</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>122</ID>
+      <DefaultText>Коснуться пульсирующего света на пьедестале.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>123</ID>
+      <DefaultText>Поговорить с призрачным человеком.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>124</ID>
+      <DefaultText>Пьедестал гаснет, и перед вами появляется мужчина. Он не совсем здесь: через него видны облака и пейзаж. Выглядит мужчина обеспокоенно: "У нас проблема — она здесь".
+
+Своим поведением он напоминает Призрака из лабиринта, хотя его лицо, одежда и голос не такие.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>125</ID>
+      <DefaultText>Призрак выжидательно смотрит на вас.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>126</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>127</ID>
+      <DefaultText>"Кто вы?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>128</ID>
+      <DefaultText>"Так кто же вы?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>129</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>130</ID>
+      <DefaultText>Мужчина странно смотрит на вас: "Сейчас совершенно не время повторять это. Я — разум, отвечающий за данную лабораторию. Я был либо создан из твоего разума и личности, либо наделен их чертами. Как твой советник, я отказываюсь обсуждать свою природу до тех пор, пока мы не окажемся в безопасности".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>131</ID>
+      <DefaultText>"Я твой *советник*, — покровительственно говорит он. И я *советую* тебе не отвлекаться на мою природу, потому что в данный момент есть куда более важные дела".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>132</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>133</ID>
+      <DefaultText>"Что это за место? Почему воет сирена?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>134</ID>
+      <DefaultText>"Что на нас напало?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>135</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>136</ID>
+      <DefaultText>Лицо мужчины мрачнеет: "Скорбь пришла. Она как-то обнаружила нас, и пытается пробраться в лабораторию. Тебе нужно бежать отсюда".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>137</ID>
+      <DefaultText>"Скорбь. Она рвет нашу защиту в клочья, и в какой-то момент обязательно проберется сюда". Пол купола внезапно дрожит, словно подтверждая слова советника.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>138</ID>
+      <DefaultText>"Ты можешь выключить сирену?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>139</ID>
+      <DefaultText>"Конечно, но... гм... помни, что *причина*, по которой включилась сирена, никуда не денется".
+
+Сирена тут же отключается, сменившись низким гудением и редким металлическим лязгом.
+
+{SOUND: Turn off ambient blaring alarms for the rest of the Mere.}
+{SOUND: Replace the klaxons with a new ambient sound: a low, occasional thump or rumble, as of a large creature trying to pound its way into a metal door. This should be a much lower interval than the alarms, maybe pounding every 5-6 seconds.}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>140</ID>
+      <DefaultText>"Сирена".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>141</ID>
+      <DefaultText>Иллюзорный шар очищается, и у вас в голове слышится голос: "Подходящих записей нет. Измените запрос".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>142</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>143</ID>
+      <DefaultText>"Ты управляешь отказоустойчивой системой телепорта?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>144</ID>
+      <DefaultText>"Хочу снова поговорить об отказоустойчивой системе телепорта".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>145</ID>
+      <DefaultText>"Да! Отличная мысль. Проблема в том, что он может перенести лишь одного человека. Девушка, твой архив и все оборудование пропадут. Разумеется, ты всегда можешь воссоздать меня из твоего собственного сознания, поэтому *хоть что-то* останется. А почему ты спрашиваешь?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>146</ID>
+      <DefaultText>"Что такое? Ты решил последовать моему совету и убраться отсюда?"</DefaultText>
+      <FemaleText>"Что такое? Ты решила последовать моему совету и убраться отсюда?"</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>147</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>148</ID>
+      <DefaultText>"Хочу еще кое-что спросить".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>149</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>150</ID>
+      <DefaultText>"Что тебе надо?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>151</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>152</ID>
+      <DefaultText>"Если что-то случится, ты сможешь перенести отсюда девушку вместо меня?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>153</ID>
+      <DefaultText>"Девушка важнее. Настрой систему так, чтобы перенести ее".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>154</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>155</ID>
+      <DefaultText>"Ты можешь отключить отказоустойчивую систему?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>156</ID>
+      <DefaultText>"Отключи телепорт. Я не сбегу, пока она здесь".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>157</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>158</ID>
+      <DefaultText>Советник хмурит призрачные брови: "Я могу, но зачем? Вне стазисной камеры она умрет через несколько месяцев, в лучшем случае через пару лет. Лучше, чтобы выжил ты: так мы сможем найти способ спасти ее".</DefaultText>
+      <FemaleText>Советник хмурит призрачные брови: "Я могу, но зачем? Вне стазисной камеры она умрёт через несколько месяцев, в лучшем случае через пару лет. Лучше, чтобы выжила ты: так мы сможем найти способ спасти её".</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>159</ID>
+      <DefaultText>Советник хмурится: "Хорошо. Готово. Но хочу отметить, что считаю это большой глупостью. Если Скорбь попадет сюда, ты напрасно лишишься жизни".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>160</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>161</ID>
+      <DefaultText>Советник сердито смотрит на вас: "Зачем это тебе? Я верю, что ты найдешь отсюда выход, но *кто-нибудь* должен спастись со всеми нашими знаниями. Какой в них смысл, если мы все погибнем?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>162</ID>
+      <DefaultText>Советник скрещивает руки на груди, словно намереваясь отказать, но затем он говорит: "Хорошо. Все сделано. Но я считаю это безумием. Это же *отказоустойчивая* система. Она сработает, даже если все остальное откажет".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>163</ID>
+      <DefaultText>"Я передумал. Настрой телепорт так, чтобы унести меня отсюда в случае опасности".</DefaultText>
+      <FemaleText>"Я передумала. Настрой телепорт так, чтобы унести меня отсюда в случае опасности".</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>164</ID>
+      <DefaultText>"Ха! — он расплывается в широкой ухмылке. — Вот теперь другое дело. Я знал, что ты не сумасшедший".</DefaultText>
+      <FemaleText>"Ха! — он расплывается в широкой ухмылке. — Вот теперь другое дело. Я знал, что ты не сумасшедшая".</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>165</ID>
+      <DefaultText>"Расскажи мне о девушке в камере".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>166</ID>
+      <DefaultText>"Ты про Миику?" — советник смотрит на камеру. Трудно прочесть выражение его лица, но он кажется печальным. "Ей ничуть не лучше. Даже хуже. Неприятно это говорить, но, думаю, нам не спасти ее".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>167</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>168</ID>
+      <DefaultText>"Как близко Скорбь?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>169</ID>
+      <DefaultText>"Где сейчас Скорбь?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>170</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>171</ID>
+      <DefaultText>"Почему Скорбь здесь? Чего она хочет?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>172</ID>
+      <DefaultText>"Не знаю, чего она хочет. Быть может, что-то из твоих архивов. Ты говорил, что как-то разбудил ее в тот раз, когда мы впервые переносили сознание".</DefaultText>
+      <FemaleText>"Не знаю, чего она хочет. Быть может, что-то из твоих архивов. Ты говорила, что как-то разбудила её в тот раз, когда мы впервые переносили сознание".</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>173</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>174</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>175</ID>
+      <DefaultText>"Я хочу это сделать. Давай совместим мое сознание с ее".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>176</ID>
+      <DefaultText>"Что случилось, когда я попытался слить мое сознание с Миикиным?"</DefaultText>
+      <FemaleText>"Что случилось, когда я попыталась слить моё сознание с Миикиным?"</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>177</ID>
+      <DefaultText>"Совмести сознания".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>179</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>180</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>181</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>182</ID>
+      <DefaultText>"Кажется, Миика больна из-за Потоков, вернее, их всплеска".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>183</ID>
+      <DefaultText>"Если это правда... Тогда это многое объясняет, в том числе и то, что болезнь следовала за ней из одного тела в другое. Ха! Должен сказать, ты гений!"
+
+Призрачный советник ходит взад-вперед, хотя ноги его и не касаются пола. "Мог бы аналог всплеска отменить последствия? Нет, на это ушло бы куда больше энергии, чем могут выработать оба ваших тела".
+
+Он останавливается и радостно смотрит на вас: "Но я думаю, что ты открыл весьма заманчивый путь исследований! Займет несколько лет, но..." — Лаборатория гудит и дрожит от ударов Скорби внизу. — "Забудь. Нет у нас нескольких лет. А через несколько минут и *вообще ничего* не будет".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>184</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>185</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>187</ID>
+      <DefaultText>"Ты можешь включить телепорт прямо сейчас?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>188</ID>
+      <DefaultText>"Включи телепорт и перенеси меня отсюда, *немедленно*".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>190</ID>
+      <DefaultText>"Перенести тебя? Конечно. Так, если честно, будет лучше всего. Только скажи", — он чешет голову. — "Но помни, что система и впрямь *отказоустойчивая*. Если решишь пробыть тут до самой последней минуты, чтобы что-то достать или попробовать как-то помочь ей, то тебе ничего не угрожает. Наверное".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>191</ID>
+      <DefaultText>Советник кивает, лицо его серьезно: "Хорошая мысль. Поверь, мне тоже нелегко это делать, но…" — он с сожалением оглядывает лабораторию. — "Мы придумаем, как вернуть ее. Обязательно".
+
+Ваше тело тут же начинает таять, переносясь куда-то.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>192</ID>
+      <DefaultText>"Включи телепорт и перенеси отсюда Миику, *немедленно*".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>193</ID>
+      <DefaultText>"Ни за что", — советник решительно качает головой. — "Если это тебе так важно, то я настрою телепорт на переноску ее вместо тебя, но он *отказоустойчив*. Я не собираюсь убивать всех нас, как бы ты ни был напуган".</DefaultText>
+      <FemaleText>"Ни за что, — советник решительно качает головой. — Если это тебе так важно, то я настрою телепорт на переноску её вместо тебя, но он *отказоустойчив*. Я не собираюсь убивать всех нас, как бы ты ни была напугана".</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>194</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>195</ID>
+      <DefaultText>Timer = [Global: MBG2_SorrowTimer]
+
+First Barrier at [Global: MBG2_SorrowTimerExpire01].
+Second Barrier at [Global: MBG2_SorrowTimerExpire02].
+Last Barrier at [Global: MBG2_SorrowTimerExpire03].</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>196</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>198</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>199</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>200</ID>
+      <DefaultText>Раздается громовой удар. Пол под вами трясется и плывет, вы теряете равновесие. Горизонт за куполом раскачивается, и у вас кружится голова.
+
+Вдруг перед вами появляется призрачный человек, на лице которого вполне живой ужас. "Она прорвалась в башню! Скоро она будет здесь! Нужно скорее что-то сделать!"
+
+{SOUND: Thunderous distant crash. The Sorrow has smashed through a heavy door at the bottom of a very tall tower. The crash reverberates all the way to the top.}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>201</ID>
+      <DefaultText>Вдруг раздается оглушительный лопающийся звук. Воздух шипит, волоски на всем вашем теле встают дыбом, тело начинает опасно покалывать. 
+
+Перед вами снова возникает призрачный человек. Он кладет вам руки на плечи, но вы ничего не чувствуете. "Она *разбила* электростатический щит! Если пробьет и плазменное окно, нам конец".
+
+Он смотрит на люк в полу, словно видит сквозь него, и спрашивает: "Каков твой план? У тебя же есть план, да?"
+
+{SOUND: Sharp sizzle and loud pop. The Sorrow has broken through a powerful electrostatic barrier.}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>202</ID>
+      <DefaultText>Под полом слышится шипение и скрип. Вдруг металлический люк слетает с петель, оставляет трещину на потолке из бронированного стекла, а затем разбивает светящийся пьедестал.
+
+Призрачный человек исчезает. Из люка поднимается черное вонючее облако, и воздух наполняется неземным воем и запахом гниющей плоти. Затем вылезают щупальца, разрезая всякий металл и синт, которого касаются.
+
+Из облака появляется ужасное лицо. Оно оглядывает вас, а затем обращается к камере.
+
+{SOUND: A plasma hiss and a metal screech. The Sorrow smashes a steel hatch off its hinges.}
+{SOUND: An unearthly wail accompanies the Sorrow (should match any Sorrow sounds made for Sorrow crises). This can be an ambient noise from here to the end.}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>203</ID>
+      <DefaultText>Применить против Скорби суррименовый кристалл.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>204</ID>
+      <DefaultText>Вы вонзаете кристалл глубоко в тело Скорби и кричите команду. Из Скорби во все стороны бьют лучи света, она визжит от боли и ярости. Одно из ее щупалец летит к вам, пробивая и бронированное стекло, и стальной пол. Щупальце касается вашего лица, и...
+
+Вы ничего не чувствуете. Щупальце проходит прямо через тело. Вы осознаете, что купол тает в воздухе, вернее, это ваше *тело* тает: некое устройство уносит его в безопасное место.
+
+{SOUND: The Sorrow's wail increases in intensity, becoming a terrible shriek.}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>205</ID>
+      <DefaultText>"Оставь ее! Я начал перенос сознания. Бери меня!"</DefaultText>
+      <FemaleText>"Оставь её! Я начала перенос сознания. Бери меня!"</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>206</ID>
+      <DefaultText>Скорбь обращает свое кошмарное внимание на вас. Одно из ее щупалец летит к вам, пробивая и бронированное стекло, и стальной пол. Щупальце касается вашего лица, и...
+
+Вы ничего не чувствуете. Щупальце проходит прямо через тело. Вы осознаете, что купол тает в воздухе, вернее, это ваше *тело* тает: некое устройство уносит его в безопасное место.
+
+{SOUND: Sorrow tendril swiping towards the player.}
+{SOUND: Teleportation sound (NOT Star Trek - something uniquely Ninth World).}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>207</ID>
+      <DefaultText>Напасть на Скорбь.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>208</ID>
+      <DefaultText>Вы набрасываетесь на Скорбь без оружия, крича от гнева и страха и пытаясь найти в себе всю оставшуюся смелость.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>209</ID>
+      <DefaultText>Пока Скорбь отвлеклась, проскользнуть мимо нее в люк.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>210</ID>
+      <DefaultText>Сказать советнику: "Унеси меня отсюда!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>211</ID>
+      <DefaultText>Сказать советнику: "Унеси Миику отсюда!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>212</ID>
+      <DefaultText>Потусторонний вой Скорби переходит в визг.
+
+Призрачный советник исчез, но в голове все еще слышен его голос: "Я не подчинюсь твоему приказу. Мы договаривались, что никогда не позволим чувствам взять верх. Если она умрет, то она просто умрет, а если умрешь ты, то умрем мы оба, а с нами — все наше наследие".
+
+Голос замолкает, когда щупальца Скорби начинают в слепой ярости хлестать по всему в лаборатории. Ящик и сундук распадаются на части. Камеру охватывает фиолетовое пламя, и последнее, что вы видите — тающее и обугливающееся лицо молодой девушки. Затем ваше сознание покидает это тело.
+
+{SOUND: The Sorrow's wail increases in intensity, becoming a terrible shriek.}
+{SOUND: Tendrils whipping. Smashes and explosions as the Sorrow destroys the laboratory.}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>213</ID>
+      <DefaultText>Потусторонний вой Скорби переходит в визг.
+
+Призрачный советник исчез, но в голове все еще слышен его голос: "Слава богам, отказоустойчивая система сработала! Ты будешь в безопасности, а вот нам с девушкой конец. Меня восстановить легко, а вот ее... Уверен, ты..."
+
+Голос замолкает, когда щупальца Скорби начинают в слепой ярости хлестать по всему в лаборатории. Ящик и сундук распадаются на части. Камеру охватывает фиолетовое пламя, и последнее, что вы видите — тающее и обугливающееся лицо молодой девушки. Затем ваше сознание покидает это тело.
+
+{SOUND: The Sorrow's wail increases in intensity, becoming a terrible shriek.}
+{SOUND: Tendrils whipping. Smashes and explosions as the Sorrow destroys the laboratory.}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>214</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>218</ID>
+      <DefaultText>"Расскажи мне о ящике".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>219</ID>
+      <DefaultText>"Расскажи о бриллианте".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>220</ID>
+      <DefaultText>"Что именно? Последнее, что я помню, это то, что ты принес сюда кучу всего, пока я был деактивирован. Я не знаю ничего о том, что ты положил туда, — советник скрещивает руки на груди. — В самом деле, я не знаю, как помогать тебе, если ты скрываешь от меня что-то".</DefaultText>
+      <FemaleText>"Что именно? Последнее, что я помню, это то, что ты принесла сюда кучу всего, пока я был деактивирован. Я не знаю ничего о том, что ты положил туда, — советник скрещивает руки на груди. — В самом деле, я не знаю, как помогать тебе, если ты скрываешь от меня что-то".</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>221</ID>
+      <DefaultText>"Твой архив? Я не подключен к нему, и знаю лишь то, что ты загружаешь в мою базу данных, а ты, кстати, ничего не загружал уже несколько *лет*. Так что архив — это пока что твои личные записи".
+
+Вдруг советник вытягивает руку: "Если ты думаешь порыться там в поисках решения, то будь осторожен. У нас мало времени, а записей ты сделал очень много".</DefaultText>
+      <FemaleText>"Твой архив? Я не подключен к нему, и знаю лишь то, что ты загружаешь в мою базу данных, а ты, кстати, ничего не загружала уже несколько *лет*. Так что архив — это пока что твои личные записи".
+
+Вдруг советник вытягивает руку: "Если ты думаешь порыться там в поисках решения, то будь осторожна. У нас мало времени, а записей ты сделала очень много".</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>222</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>223</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>225</ID>
+      <DefaultText>Взять суррименовый кристалл из синтового ящика.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>226</ID>
+      <DefaultText>Применить против Скорби жезл подавления.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>227</ID>
+      <DefaultText>С криком вы вонзаете кристалл глубоко в тело Скорби.
+
+Ничего не происходит.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>228</ID>
+      <DefaultText>Взять жезл подавления.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>229</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>230</ID>
+      <DefaultText>"Что нам делать?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>231</ID>
+      <DefaultText>"Напомни, что нужно делать?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>232</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>233</ID>
+      <DefaultText>"Я настоятельно рекомендую тебе спасаться самому, и, таким образом, спасти оба наших разума. К сожалению, *ее* в таком случае придется бросить," — советник смотрит на камеру и хмурится.
+
+"Мне это тоже совершенно не нравится. Но выбора нет, кроме как попытаться остановить Скорбь силой — что маловероятно — или попытаться узнать, чего ей надо, — он качает прозрачной головой. — Думаю, нам ни на что из этого не хватит времени, но, быть может, тебе известно что-то, чего не знаю я".
+
+Он указывает на парящий бриллиант: "Быть может, ты сумеешь найти что-то в архивах, что поможет нам. Только не увлекайся исследованиями: у нас очень мало времени".</DefaultText>
+      <FemaleText>"Я настоятельно рекомендую тебе спасаться самой, и, таким образом, спасти оба наших разума. К сожалению, *её* в таком случае придётся бросить," — советник смотрит на камеру и хмурится.
+
+"Мне это тоже совершенно не нравится. Но выбора нет, кроме как попытаться остановить Скорбь силой — что маловероятно — или попытаться узнать, чего ей надо, — он качает прозрачной головой. — Думаю, нам ни на что из этого не хватит времени, но, быть может, тебе известно что-то, чего не знаю я".
+
+Он указывает на парящий бриллиант: "Быть может, ты сумеешь найти что-то в архивах, что поможет нам. Только не увлекайся исследованиями: у нас очень мало времени".</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>234</ID>
+      <DefaultText>"Что ж, если ты все-таки хочешь дотянуть до последней минуты, рискуя нашими жизнями, то советую найти какой-нибудь способ защиты. Или, может, удастся понять, чего хочет Скорбь. Но осторожнее с исследованием архивов: у тебя есть привычка увлекаться, а на это нет времени".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>235</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>236</ID>
+      <DefaultText>"Плазменное окно рушится! Она будет тут в любую секунду!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>237</ID>
+      <DefaultText>"Она прямо под нами! Нас защищает лишь плазменное окно!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>238</ID>
+      <DefaultText>"Она почти пробила электростатический барьер! Времени мало".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>239</ID>
+      <DefaultText>"Она в башне! Если пробьет электростатический барьер, то между нами останется лишь плазменное окно в люке!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>240</ID>
+      <DefaultText>"Она почти пробилась в нижнюю часть башни, и будет тут в любую минуту!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>241</ID>
+      <DefaultText>"Она в нижней части башни и пытается пробиться сюда. Не думаю, что синтестальная дверь ее удержит. Как только Скорбь вышибет дверь, надеяться можно будет только на электростатический барьер или плазменное окно". Советник потирает шею сзади, и вам кажется, что он не очень-то верит в надежность названных защит.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>244</ID>
+      <DefaultText>"Межпространственный проектор, который ты нашел, тоже дал нам чуть времени, но не так много, как хотелось бы".</DefaultText>
+      <FemaleText>"Межпространственный проектор, который ты нашла, тоже дал нам чуть времени, но не так много, как хотелось бы".</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>245</ID>
+      <DefaultText>DEBUG MODE ONLY: Show timer variables.
+
+Timer = [Global: MBG2_SorrowTimer]
+
+First Barrier at [Global: MBG2_SorrowTimerExpire01].
+Second Barrier at [Global: MBG2_SorrowTimerExpire02].
+Last Barrier at [Global: MBG2_SorrowTimerExpire03].</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>246</ID>
+      <DefaultText>Раздается громовой удар. Пол под вами трясется и плывет, вы теряете равновесие. Горизонт за куполом раскачивается, и у вас кружится голова.
+
+Вдруг перед вами появляется человек. Он не совсем здесь: через него видны облака и пейзаж. На лице его вполне живой ужас. "Она прорвалась в башню! Скоро она будет здесь! Нужно скорее что-то сделать!"
+
+Своим поведением он напоминает Призрака из лабиринта, хотя его лицо, одежда и голос не такие.
+
+{SOUND: Thunderous distant crash. The Sorrow has smashed through a heavy door at the bottom of a very tall tower. The crash reverberates all the way to the top.}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>247</ID>
+      <DefaultText>Стоит вам пройти пару шагов, как Скорбь обращает на вас свое кошмарное внимание. Одно из ее щупалец летит к вам, пробивая и бронированное стекло, и стальной пол. Щупальце касается вашего лица, и...
+
+Вы ничего не чувствуете. Щупальце проходит прямо через тело. Вы осознаете, что купол тает в воздухе, вернее, это ваше *тело* тает: некое устройство уносит его в безопасное место.
+
+{SOUND: Sorrow tendril swiping towards the player.}
+{SOUND: Teleportation sound (NOT Star Trek - something uniquely Ninth World).}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>248</ID>
+      <DefaultText>Вы открываете синтовый ящик и изучаете содержимое.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>249</ID>
+      <DefaultText>В голове проносятся части нескольких записей. Результатов много, и вы не понимаете, как они организованы, и как быстро определить, будет ли та или иная запись вам полезна. Некоторое время уходит на то, чтобы найти среди них хоть что-то полезное.
+
+Придется тщательно выбирать, что исследовать, дабы не тратить время зря.
+
+Наконец вам удается найти искомое. Мужской голос — голос тела, в котором вы пребываете — звучит у вас в голове.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>250</ID>
+      <DefaultText>В голове проносятся части нескольких записей. Результатов много, и вы не понимаете, как они организованы, и как быстро определить, будет ли та или иная запись вам полезна. Некоторое время уходит на то, чтобы найти среди них хоть что-то полезное.
+
+Придется тщательно выбирать, что исследовать, дабы не тратить время зря.
+
+Наконец вам удается найти искомое. Мужской голос — голос тела, в котором вы пребываете — звучит у вас в голове.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>251</ID>
+      <DefaultText>В голове проносятся части нескольких записей. Результатов много, и вы не понимаете, как они организованы, и как быстро определить, будет ли та или иная запись вам полезна. Некоторое время уходит на то, чтобы найти среди них хоть что-то полезное.
+
+Придется тщательно выбирать, что исследовать, дабы не тратить время зря.
+
+Наконец вам удается найти искомое. Мужской голос — голос тела, в котором вы пребываете — звучит у вас в голове.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>252</ID>
+      <DefaultText>В голове проносятся части нескольких записей. Результатов много, и вы не понимаете, как они организованы, и как быстро определить, будет ли та или иная запись вам полезна. Некоторое время уходит на то, чтобы найти среди них хоть что-то полезное.
+
+Придется тщательно выбирать, что исследовать, дабы не тратить время зря.
+
+Наконец вам удается найти искомое. Мужской голос — голос тела, в котором вы пребываете — звучит у вас в голове.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>253</ID>
+      <DefaultText>В голове проносятся части нескольких записей. Результатов много, и вы не понимаете, как они организованы, и как быстро определить, будет ли та или иная запись вам полезна. Некоторое время уходит на то, чтобы найти среди них хоть что-то полезное.
+
+Придется тщательно выбирать, что исследовать, дабы не тратить время зря.
+
+Наконец вам удается найти искомое. Мужской голос — голос тела, в котором вы пребываете — звучит у вас в голове.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>254</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>255</ID>
+      <DefaultText>В голове проносятся части нескольких записей. Результатов много, и вы не понимаете, как они организованы, и как быстро определить, будет ли та или иная запись вам полезна. Некоторое время уходит на то, чтобы найти среди них хоть что-то полезное.
+
+Придется тщательно выбирать, что исследовать, дабы не тратить время зря.
+
+Наконец вам удается найти искомое. Мужской голос — голос тела, в котором вы пребываете — звучит у вас в голове.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>256</ID>
+      <DefaultText>В голове проносятся части нескольких записей. Результатов много, и вы не понимаете, как они организованы, и как быстро определить, будет ли та или иная запись вам полезна. Некоторое время уходит на то, чтобы найти среди них хоть что-то полезное.
+
+Придется тщательно выбирать, что исследовать, дабы не тратить время зря.
+
+Наконец вам удается найти искомое. Мужской голос — голос тела, в котором вы пребываете — звучит у вас в голове.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>257</ID>
+      <DefaultText>В голове проносятся части нескольких записей. Результатов много, и вы не понимаете, как они организованы, и как быстро определить, будет ли та или иная запись вам полезна. Некоторое время уходит на то, чтобы найти среди них хоть что-то полезное.
+
+Придется тщательно выбирать, что исследовать, дабы не тратить время зря.
+
+Наконец вам удается найти искомое. Мужской голос — голос тела, в котором вы пребываете — звучит у вас в голове.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>258</ID>
+      <DefaultText>В голове проносятся части нескольких записей. Результатов много, и вы не понимаете, как они организованы, и как быстро определить, будет ли та или иная запись вам полезна. Некоторое время уходит на то, чтобы найти среди них хоть что-то полезное.
+
+Придется тщательно выбирать, что исследовать, дабы не тратить время зря.
+
+Наконец вам удается найти искомое. Мужской голос — голос тела, в котором вы пребываете — звучит у вас в голове.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>259</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>260</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>261</ID>
+      <DefaultText>"Ты не помнишь? Должно быть, поэтому ты меня и сделал", — усмехается он. Затем лицо его становится серьезным. — "Ты никогда не пытался слить ее сознание со своим. Мы некоторое время исследовали это направление, и обнаружили, что слияние полностью бы уничтожило твою личность, а ты не хотел, чтобы из нас двоих остался только я. Так что мы отказались от слияния и начали искать другой способ".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>262</ID>
+      <DefaultText>Он качает головой: "Боюсь, не выйдет. Ты отклонил это прежде, чем мы могли провести хоть какой-нибудь опыт. Для того, чтобы ваши с ней сознания одновременно находились внутри, понадобилась бы некая ментальная среда. Потом понадобился бы катализатор, который создал бы резонанс, совмещающий вас. Все это возможно, но нужно много времени, а у нас на пороге Скорбь!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>263</ID>
+      <DefaultText>Вашего тела нет, но сознание каким-то образом осталось *здесь*, в лаборатории. Призрачного советника больше нет, а Скорбь пробивается через последние защиты и люк. Ее щупальца начинают в слепой ярости хлестать по всему в лаборатории. Ящик и сундук распадаются на части. Камеру охватывает фиолетовое пламя, и последнее, что вы видите — тающее и обугливающееся лицо молодой девушки. Затем ваше сознание покидает лабораторию.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>264</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>265</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>266</ID>
+      <DefaultText>Межпространственный стенной проектор включен, но непонятно, держится созданная им стена, или нет.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>267</ID>
+      <DefaultText>"Ни за что", — советник решительно качает головой. — "Я уже настроил телепорт на перенос ее вместо тебя, хоть и считаю это *плохой* мыслью. Я не собираюсь убивать всех нас, как бы ты ни был напуган".</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

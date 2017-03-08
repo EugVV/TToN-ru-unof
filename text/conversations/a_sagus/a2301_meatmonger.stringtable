@@ -1,0 +1,526 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\a_sagus\a2301_meatmonger</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>98</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>Низкий тучный мужчина стоит у дымящейся решетки и жирными щипцами переворачивает куски мяса. По его сердитому лицу стекает пот, однако, он с головы до пят укутан в заляпанную жиром одежду. Рукава плотно обхватывают запястья, а ворот впивается в шею.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>Вы подходите к Меуку, и он салютует вам щипцами: "Привет, друг. Еще мяса хочешь?"</DefaultText>
+      <FemaleText>Вы подходите к Меуку, и он салютует вам щипцами: "Привет, подруга. Ещё мяса хочешь?"</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>"Что за мясо ты продаешь?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>"Напомни, что за мясо ты продаешь?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>"Продай мяса".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>"Конечно. Какое? Ножку анина? Крылышко дрэбила? Хвост лаака?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>"Ножку анина? Крылышко дрэбила? Хвостик лаака?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText>"Ножку анина, пожалуйста".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText>"Возьму крылышко дрэбила".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>14</ID>
+      <DefaultText>"Попробую хвост лаака".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>15</ID>
+      <DefaultText>"С тебя [Global: a2301_MeatmongerBuyMeat] шинов".
+
+{MONEY}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>16</ID>
+      <DefaultText>Заплатить.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>17</ID>
+      <DefaultText>"У меня столько нет".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>18</ID>
+      <DefaultText>"Я передумал. Мне интересно кое-что другое..."</DefaultText>
+      <FemaleText>"Я передумала. Мне интересно кое-что другое..."</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>19</ID>
+      <DefaultText>Меук кивает и бредет к бочке с красными пульсирующими мышцами. Он отрезает кусок, протыкает его острой костяной шпажкой и бросает на решетку, хорошенько сдобрив специями. Когда мясо прожаривается, он протягивает вам шпажку, и вы откусываете кусок.
+
+Мясо странно пахнет и немного жестковато, но за специями этого почти не заметно.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20</ID>
+      <DefaultText>"Как будет, приходи, мясо никуда не денется. Что-нибудь еще?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>21</ID>
+      <DefaultText>"Ничего, я не спешу", — Меук выжидательно взмахивает щипцами.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>22</ID>
+      <DefaultText>"Отличный выбор!" — Меук достает зазубренный нож, отпиливает от колыхающейся массы крыло и бросает его на решетку. Крыло слабо подрагивает, но потом затихает. От жарящегося мяса поднимается сладкий аромат печеных фруктов, и, через несколько мгновений, Меук подцепляет крыло щипцами и вручает вам.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>23</ID>
+      <DefaultText>Меук странно глядит на вас и пожимает плечами. Быстрым движением руки он вырывает из бочки два извивающихся хвоста, свивает их вместе и завязывает петлей. Затем он кидает хвосты на решетку, где они тут же начинают скворчать и плеваться. По мере прожарки зеленый и белый цвета проступают все ярче.
+
+Спустя некоторое время Меук снимает хвосты с решетки и протягивает вам.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>24</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>25</ID>
+      <DefaultText>"Первый раз вижу, чтобы мясо росло в бочке. Как это получается?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>26</ID>
+      <DefaultText>"Как ты растишь мясо?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>27</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>28</ID>
+      <DefaultText>Он смеется и стучит щипцами по решетке так, что во все стороны летит горячий жир: "Три вида: анин, дрэбил и лаак. Вон в тех бочках. Хочешь?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>29</ID>
+      <DefaultText>"Анин, дрэбил и лаак. Свежие, прямо из бочек", — ловко крутанув щипцы на пальце, Меук показывает на бочки с пульсирующей плотью.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>31</ID>
+      <DefaultText>"Как?" — он пожимает плечами. — "Не знаю. Когда был мясником, нашел одну безделицу и стал с ней играть, типа как вот с этими щипцами". Он машет щипцами, чтобы продемонстрировать. "Так вот, однажды находка была у меня при себе, когда я разделывал тушу, а мясо вдруг возьми да и отрасти заново. Отрезал хвост, глядь — новый вырос".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>32</ID>
+      <DefaultText>"Так что безделушка моя отращивает мясо. Не знаю, почему, но я уже несколько лет держу свой ларек, и всего три туши мяса. Красота!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>33</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>34</ID>
+      <DefaultText>"Я ищу женщину по имени Мэткина. Бледная, глядит сурово, носит капюшон".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>35</ID>
+      <DefaultText>"Знаешь клинка по имени Риастрад? Он одет в броню, которая сияет, будто жидкий металл".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>37</ID>
+      <DefaultText>"Прощай".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>38</ID>
+      <DefaultText>"А на тебе эта находка работает?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>39</ID>
+      <DefaultText>"Забавно, что ты спросил. Вскоре после того, как нашел эту штуку, я здорово порезался. Думаю, дай-ка затяну рану этой штуковиной".
+
+Он морщится: "Получилось, но потом по всему телу начали расти пальцы, как на ногах. Такой радости мне точно не надо, поэтому больше я той штукой на себе не пользовался. До сих пор от пальцев не избавился".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>40</ID>
+      <DefaultText>Он кивает: "Да, старая знакомая. То и дело у меня покупает, но что-то давно ее не видать. Спроси Атласа, вон он, около тех лачуг. У него карты по всему телу, и за всеми-то он следит".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>41</ID>
+      <DefaultText>Меук хмурится: "Кажись, видал такого. Малость не в себе, а? Но его давно тут не было. По крайней мере, я не видел".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>43</ID>
+      <DefaultText>"Хорошо. Заходи".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>44</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>45</ID>
+      <DefaultText>"У меня есть семя меллидрима. Не заставит ли твоя штуковина его расти?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>46</ID>
+      <DefaultText>"Не сможешь ли прорастить вот это семя меллидрима?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>47</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>48</ID>
+      <DefaultText>"Хм, можно, наверное. Но придется уплатить... Хотя, ты говорил, что дружишь с Мант Па?" — он подмигивает. — "Давай сюда, поглядим, чего будет".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>49</ID>
+      <DefaultText>"Можно попробовать. Давай".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>50</ID>
+      <DefaultText>Рядом стоят три большие бочки, полные живого мяса. Оно представляет собой большую аморфную массу с торчащими отростками; будто конечности животных растут из мясного болота. В первой бочке толстые, пульсирующие мышцы, красные и сырые. Во второй — чудовищное скопление хлопающих крыльев. В третьей — бесчисленные хвосты лаака, премерзко извивающиеся.
+
+Потный повар поднимает глаза и улыбается: "Хэй-хо! Я Меук Мясник. Чего тебе зажарить?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>51</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>52</ID>
+      <DefaultText>"Ты чего так укутался?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>53</ID>
+      <DefaultText>"Напомни, почему ты так тепло одет?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>54</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>55</ID>
+      <DefaultText>"Из-за пальцев. Никому не хочется видеть человека, у которого по всему телу растут пальцы... особенно, если он готовит их еду. Даже в Подбрюшье у людей не настолько крепкие желудки".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>56</ID>
+      <DefaultText>"У меня в неподобающих местах растут пальцы ног. На такое никому смотреть не хочется".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>57</ID>
+      <DefaultText>"Мант Па велел зайти к тебе".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>58</ID>
+      <DefaultText>"Старина Мант... Как увижу его, позолочу ручку. Глядишь, от беды его уберегу".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>59</ID>
+      <DefaultText>Отдать ему семя.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>60</ID>
+      <DefaultText>"Хотя позволь мне спросить у тебя кое-что еще".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>61</ID>
+      <DefaultText>"Конечно. Что тебе нужно?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>62</ID>
+      <DefaultText>Меук вытаскивает из кармана устройство. Оно похоже на трубку из синта, но покрыто мягким тонким ворсом, а на одном конце раструб. Второй конец отломан, будто трубка некогда была частью чего-то большего.
+
+Меук направляет раструб на семя меллидрима и начинает постукивать пальцами по трубке — возможно, нажимая невидимые выключатели. У вас немного закладывает уши, но больше ничего не видно и не слышно... А потом семя прорастает.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>63</ID>
+      <DefaultText>"У тебя *пальцы* по всему телу растут?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>64</ID>
+      <DefaultText>"А кому сейчас легко? Я еще неплохо устроился, по сравнению с некоторыми. И я не виноват. Ну, может, *самую малость* виноват..."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>65</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>66</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>67</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>68</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>69</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>70</ID>
+      <DefaultText>"Бедняга Мант. Слыхал, что с ним сталось? Какой-то каркер бешеный распорол ему живот, вывалил кишки на землю и раскрасил стену его кровью", — здоровяк качает головой.
+
+"Дал бы Манту шин за доброе слово, но раз уж так, то дам тебе", — он кидает вам жирную монетку.</DefaultText>
+      <FemaleText>"Бедняга Мант. Слыхала, что с ним сталось? Какой-то каркер бешеный распорол ему живот, вывалил кишки на землю и раскрасил стену его кровью", — здоровяк качает головой.
+
+"Дал бы Манту шин за доброе слово, но раз уж так, то дам тебе", — он кидает вам жирную монетку.</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>71</ID>
+      <DefaultText>"Бедняга Мант. Слыхал я, как он помер. Дал бы ему шин за доброе слово, но раз уж так, то дам тебе", — он кидает вам жирную монетку и качает головой. — "Ну хоть убийцу поймали, и на том спасибо".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>72</ID>
+      <DefaultText>"Многие едят мясо трижды в день", — подмигивает Меук. — "Жаль, крылышки дрэбила мало берут, ну да им же хуже".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>73</ID>
+      <DefaultText>Вы откусываете мясо. Крылышко хрустящее и сладкое, с богатым фруктовым вкусом.
+
+"Вкусно же, а? Никто не верит, пока сам не попробует", — Меук ухмыляется и хлопает себя по животу. — "Сам их целый день ем, поэтому я такой стройный и красивый".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>74</ID>
+      <DefaultText>Вы осторожно кусаете, и хвосты почему-то еще дергаются. Мясо слоистое, приторное и шипит во рту, как газированная вода.
+
+Меук качает головой: "Детвора такое любит. А я терпеть не могу".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>75</ID>
+      <DefaultText>"Забудь. Прощай".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>76</ID>
+      <DefaultText>Вы опять кусаете мясо анина, пытаясь распробовать вкус под яркими специями. Вкус пробуждает ворох воспоминаний. Вы уже ели анина, и, быть может, не раз. Он напоминает об отчаянии, о просторах, развалинах и взрывах повсюду... о том, как вы искали тела мертвых зверей, чтобы поесть. Вдруг вы понимаете, что это не одно воспоминание, а несколько. Будто несколько жизней прошли среди адской войны.
+
+Воспоминания рассеиваются...</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>77</ID>
+      <DefaultText>"С тебя [Global: a2301_MeatmongerBuyMeat] шинов".
+
+{MONEY}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>78</ID>
+      <DefaultText>"С тебя [Global: a2301_MeatmongerBuyMeat] шинов".
+
+{MONEY}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>79</ID>
+      <DefaultText>Заплатить.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>80</ID>
+      <DefaultText>Заплатить.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>81</ID>
+      <DefaultText>"Сдуреть можно, а? Но потом я подумал: поставлю-ка на улице жаровню! И все получилось. Уже несколько лет жарю одни и те же три туши", — сияет Маук.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>82</ID>
+      <DefaultText>Follow-up T. 82</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>83</ID>
+      <DefaultText>"Хм, можно, наверное. Но придется уплатить", — он щурится и что-то подсчитывает в уме. — "Скажем... [Global: a2301_MeatmongerGrowMellidrym] шинов".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>84</ID>
+      <DefaultText>"За [Global: a2301_MeatmongerGrowMellidrym] шинов могу попробовать".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>85</ID>
+      <DefaultText>"Забудь. Прощай".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>86</ID>
+      <DefaultText>Заплатить и дать семя.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>87</ID>
+      <DefaultText>"У меня нет столько денег".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>88</ID>
+      <DefaultText>"А", — сникает он. — "Ну что ж, думаю, это с тобой ненадолго. Видно, что ты парень смекалистый... Небось, исследователь с хитрой машинкой какой, а?"</DefaultText>
+      <FemaleText>"А, — сникает он. — Ну что ж, думаю, это с тобой ненадолго. Видно, что ты девка смекалистая... Небось, исследовательница с хитрой машинкой какой, а?"</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>89</ID>
+      <DefaultText>"Все еще нет?" — он смотрит недоверчиво. — "Так приходи, как будет".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>90</ID>
+      <DefaultText>Из передней части семечка показывается сникшая серая голова, а из нее — несколько выступов, которые обращаются в щупальца с ротиками на концах. Из задней части семени вырастает узловатое тельце с толстыми немощными ножками. Сбоку на голове появляются печальные глазки. Они открываются и сурово глядят на вас с Меуком. Разумеется, существо выглядит почти так же, как то, что было у нищего.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>91</ID>
+      <DefaultText>Меук откладывает устройство и с сомнением глядит на существо: "Зря я деньги с тебя взял... Но уговор есть уговор". Он протягивает вам меллидрима.
+{LOOT}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>92</ID>
+      <DefaultText>Меук откладывает устройство и с сомнением глядит на существо: "Хорошо, что я с тебя денег не взял". Он протягивает вам меллидрима.
+{LOOT}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>93</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>94</ID>
+      <DefaultText>"Мясо! А вот, кому мяса!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>95</ID>
+      <DefaultText>"Хэй-хо! Кому мяса пожарить?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>96</ID>
+      <DefaultText>"Свежее мясо! Растет на глазах!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>97</ID>
+      <DefaultText>"Дешевое вкусное мясо, прямо из бочки!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>98</ID>
+      <DefaultText>"Мясо, мясо, мясо!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>99</ID>
+      <DefaultText>"Хочешь мяса? Мясо тут!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>100</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

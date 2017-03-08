@@ -1,0 +1,503 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\a_sagus\a2332_lenses_of_tcg</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>85</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>Ты отходишь назад в полукруг, состоящий из зеркал, ощущая на себе присутствие невидимого взгляда.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>Оставь линзы в покое.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>Поразительное число зеркал и линз окружают вас. От их задней части, через всю комнату тянутся кабели к различным приборам. 
+
+За дисплеем вы слышите звук скрипа петель. 
+{SOUND: Mechanical Squeak/Creak.}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>Follow-up PQ. 9.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>Изучить линзы и зеркала.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>Снова изучить линзы и зеркала.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText>Зеркала начинаю дрожать, когда вы переводите взгляд с одной поверхности на другую. В итоге, вы понимаете почему. Они настроены на частоту вашего мозга — вы можете двигать каждым из них, не прилагая никаких усилий, словно своей рукой. 
+
+На каждой поверхности отображается что-то *еще*, помимо вашего собственного отражения. В серебре стекла четко виден красный шнур, обвитый вокруг вашего горла. Маленькое овальное зеркало задерживается на пульсирующей синей звезде, внизу вашего лба. Зеркала по обе стороны большого центрального зеркала периодически вспыхивают золотистым цветом. 
+
+Крошечные линзы вверху всей этой конструкции поворачивают свои шейки, чтобы изучить *вас*.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText>Большие из них реагируют на малейшее движение твоей мысли. Зеркала поменьше деформируются, издают скрипящий звук, изучая тебя. 
+{SOUND: Creaking.}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>14</ID>
+      <DefaultText>Вы ощущаете, что крошечные линзы двигаются целенаправленно и замирают неподвижно. Они осторожно поворачиваются на шарнирах, чтобы сфокусироваться на ваших руках, и вы видите что-то... странное.
+
+В зоне действия линз вы стали больше. Сильнее. Вы ощущаете приступ острой боли на сгибе своей руки и одна из линз становится темно серого цвета.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>15</ID>
+      <DefaultText>Вы также ощущаете чувство опасности. 
+
+Нет... не чувство. Воспоминание. Вы вспоминаете, что эти зеркала направлены не только на этот мир, но также и на другие. В этих зеркалах вы можете видеть предметы, которые не видны невооруженным глазом. 
+
+И если вы не будете проявлять осторожность, они увидят вас тоже.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>16</ID>
+      <DefaultText>Абикосы уже обнаружили вас. Другие вещи — худшие вещи — могут поджидать вас на пересечении одного из этих бесконечных отражений.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>17</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>18</ID>
+      <DefaultText>Взглянуть в большое центральное зеркало.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>19</ID>
+      <DefaultText>Снова взглянуть в большое центральное зеркало.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20</ID>
+      <DefaultText>Из них всех, это зеркало кажется наиболее неприметным. Оно показывает тебе неизмененное отражение, складку между твоих бровей, когда ты концентрируешься...
+
+И отталкивающих, ощетинившихся существ в коридоре позади тебя.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>21</ID>
+      <DefaultText>Эти отвратительные существа бродят по коридору за вами и волочат свои металлические когти по горной породе.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>22</ID>
+      <DefaultText>Заставить зеркало сфокусироваться на существах.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>23</ID>
+      <DefaultText>Посмотреть позади себя.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>24</ID>
+      <DefaultText>Изучить другие линзы.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>25</ID>
+      <DefaultText>Вы концентрируете свое внимание на остальной группе.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>26</ID>
+      <DefaultText>Вы оборачиваетесь. Здесь ничего нет.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>27</ID>
+      <DefaultText>Зеркала отзываются на твой призыв, и ты четко видишь существ позади тебя. Они костлявые. Голые. Принюхиваются к воздуху через щели в их распухших лицах. 
+
+Один из них колесит по кругу, фокусируя на тебе единственный и голодный глаз. Он спотыкаясь, идет по направлению к тебе, его ноги цепляются за камень. Остальная его часть тащится позади, чавкая и задыхаясь.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>28</ID>
+      <DefaultText>Скормить им яйцо стикуса.
+{GAVIN: Revisit this with Thomas and see if there are more items to use here.}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>29</ID>
+      <DefaultText>"Держись подальше. У меня нет здесь для тебя еды".
+
+{GAVIN: Revisit this with Thomas and see if there are more items to use here.}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30</ID>
+      <DefaultText>"Я не хочу причинять тебе боль. Возвращайся в свои владения".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>31</ID>
+      <DefaultText>Зеркала отзываются на ваш призыв, и вы четко видите существ позади себя. Они костлявые. Голые. Принюхиваются к воздуху через щели их распухших лицах. 
+
+Один из них колесит по кругу, фиксируя на вас свой единственный и голодный глаз. Он спотыкаясь, идет по направлению к вам, его ноги цепляются за камень. Остальная его часть тащится позади, чавкая и задыхаясь. 
+
+Это абикосы — сущности, обитающие в многомерных пространствах, которые питаются от источников питания и древних приборов. Они не нападают на вас, пока ты даешь им пищу.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>32</ID>
+      <DefaultText>"Покиньте это место или умрите".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>34</ID>
+      <DefaultText>Твое предупреждение не отпугивает их. Сопя и задыхаясь, они, пошатываясь, идут на тебя с вытянутыми когтями.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>35</ID>
+      <DefaultText>Ваша угроза не отпугивает их. Сопя и задыхаясь, они, пошатываясь, идут на вас с вытянутыми когтями.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>36</ID>
+      <DefaultText>Сущности не реагируют на ваше предупреждение. Сопя и задыхаясь, они, пошатываясь, идут на вас с вытянутыми когтями.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>37</ID>
+      <DefaultText>Покормить их одним из детей Подмастерья.
+{GAVIN: Revisit this with Thomas and see if there are more items to use here.}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>38</ID>
+      <DefaultText>Вы выхватываете яйцо стихуса из своих принадлежностей и бросаете его на землю. 
+
+Абикосы набрасываются на него, сгребая его своими нереальными когтями. Яйцо трескается, затем лопается и тогда они начинают есть.  
+
+В итоге, многочисленные сущности постепенно исчезают, оставляя за собой груду скорлупы и ржавой проволоки.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>39</ID>
+      <DefaultText>Вы достаете из своих принадлежностей и бросаете на землю одного из металлических детей. 
+
+Абикосы набрасываются на него, сгребая его своими нереальными когтями. Ржавые цветы разбросаны по поверхности конструкции, все содрогается и раздается громкий плач. 
+
+В конце концов, многочисленные сущности постепенно исчезают, оставляя за собой кучу красной пыли.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>40</ID>
+      <DefaultText>Попытаться понять назначение крошечных линз.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>41</ID>
+      <DefaultText>Когда ты наблюдаешь за ними, пульсирующая синяя звезда на твоем лбу начинает увеличиваться в размере. Как ни странно, но у тебя возникает такое чувство, что она и должна там находиться. Как будто, она ждала, что ее должны обнаружить.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>42</ID>
+      <DefaultText>Твое внимание привлекло движение двух других зеркал. В них, твое отражение совершенно другое.
+
+Твои руки окружают бледные облака, от которых исходит голубой свет. Перистые завитки тянутся от каждого кончика пальца, порхая в воздухе. 
+
+Ты поднимаешь свою руку. Твое отражение проделывает то же самое. И внезапно, твоя голова начинает гореть от боли, из-за испускающего свет объекта, который находится внутри нее.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>43</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>44</ID>
+      <DefaultText>Исследовать маленькое овальное зеркало.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>45</ID>
+      <DefaultText>Исследовать маленькое овальное зеркало еще раз.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>46</ID>
+      <DefaultText>В центре лба в вашем отражении вспыхивает синяя звезда, а боль, которую вы ощущали раньше, возвращается с новой, разрушительной силой.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>47</ID>
+      <DefaultText>Посмотреть на свои руки.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>48</ID>
+      <DefaultText>Взять камень с пола и разбить это зеркало.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>49</ID>
+      <DefaultText>Схватить объект.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>50</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>51</ID>
+      <DefaultText>Его кожа сияет. Тонкие, похожие на иголки, завитки тянутся от кончиков пальцев — крошечные инструменты для тонкой работы.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>52</ID>
+      <DefaultText>Ты с силой бросаешь камень в центр зеркала. Он отскакивает, но ты едва это ощущаешь из-за ужасной, отвратительной волны боли, которая стрелой пронзает оба твои виска.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>53</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>54</ID>
+      <DefaultText>Ты прикладываешь кончики пальцев к своему лбу и ощущаешь иглоподобные завитки рядом с тем круглым объектом внутри твоей головы. С осторожностью ты вытаскиваешь его наружу. 
+
+Растущая агония улетучивается, а свечение , исходящее от твоих рук, медленно затухает, и в твоих ладонях появляется бронзовая сфера, которая с каждой секундой светится сильнее и сильнее.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>55</ID>
+      <DefaultText>Вы мысленно отводите внимание крошечных линз, ощущая притяжение их искусственных зрачков своей кожей. Вы видите в них идеальное отражение себя. Более сильного. Более умного. Более быстрого. 
+
+И через мгновение, вы понимаете, что они могут вас изменить. Сделать совершеннее. Однако, некоторые из них тускнеют под напряжением. Вы должны действовать быстро.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>56</ID>
+      <DefaultText>Направить их на свою голову.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>57</ID>
+      <DefaultText>Сфокусировать их на своей груди и руках.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>58</ID>
+      <DefaultText>Повернуть их в направлении своих ног.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>60</ID>
+      <DefaultText>Множество крошечных линз вытраивается на уровне вашей головы и вы встречаетесь взглядом со своим отражением. Что-то щелкает у вас в мозгу, и, внезапно, вы начинаете ощущать все острее. Более четче. 
+
+Одна за одной, линзы затухают до состояния непроницаемого тумана, пока не остается только одна, такая же яркая, как зимняя звезда.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>61</ID>
+      <DefaultText>Созвездия крошечных линз вытраивается в линию с вашими ногами. Легкая мышечная дрожь, усиливаясь по ходу, пробегает по вашим лодыжкам и бедрам. Ваша кожа горит, как будто кластеры нервных клеток распускаются по всему вашему телу, усиливая ваши рефлексы почти до болевого порога. 
+
+Одна за одной, линзы затухают до состояния непроницаемого тумана, пока не остается только одна, такая же яркая, как зимняя звезда.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>62</ID>
+      <DefaultText>Созвездия крошечных линз вытраиваются в линию с вашим телом. Сухожилия проступают и растягиваются. Новые мышцы, становясь все тверже, обволакивают ваши руки как вода. Вы сжимаете свой кулак, и вены начинают выступать на вашей коже. 
+
+Одна за одной, линзы затухают до цвета непроницаемого тумана, пока не остается только одна, такая же яркая, как зимняя звезда.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>63</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>64</ID>
+      <DefaultText>Подвинуть отколотое зеркало, на котором отображается красная полоска вокруг вашей шеи.
+{GAVIN: NB: [B] This could unlock a Fathom, or a hidden part of a Fathom (e.g., the player starts in a part of the Fathom that is otherwise inaccessible). The player should also be sent to this Fathom if he is physically killed in the Buried Crossroads - e.g., by the abykos.}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>65</ID>
+      <DefaultText>Воспользоваться тусклым зеркалом, чтобы убить себя снова.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>66</ID>
+      <DefaultText>Мысленно, вы толкаете зеркало и ощущаете невидимую петлю рядом со своим горлом. И она затягивается. 
+
+Задыхаясь, вы падаете на колени. Падаете на бок. И когда в ваших глазах начинает темнеть, вы понимаете, что если вы переживете эту смерть, вы найдете кротчайший путь к лабиринту. Как здорово.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>67</ID>
+      <DefaultText>Знакомая, очень неприятная петля затягивается на вашем горле и душит вас. 
+
+Задыхаясь, вы падаете, катаясь какое-то время на спине и умираете.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>68</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>69</ID>
+      <DefaultText>«Маткину, этот прибор должен работать и на тебе тоже. Хочешь попытаться?"
+{SCRIPT: Only visible if PC doesn't have a good relationship with Matkina and she's active in the party.}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>70</ID>
+      <DefaultText>"Дай зеркалам шанс, Маткину. Они не причинили *мне* вреда."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>71</ID>
+      <DefaultText>Она пристально смотрит на тебя. Затем на свое собственное отражение. К конце концов, она стонет и отталкивает тебя в сторону. 
+{MATKINA}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>72</ID>
+      <DefaultText>"Я пройду," говорит она. "Способности, которые ты получаешь благодаря его скромным изобретениям почти никогда не оправдывают свою цену."
+{MATKINA}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>73</ID>
+      <DefaultText>Она тратит примерно минуту, чтобы настроить зеркала и что-то бормочет себе под нос, прежде чем она фокусирует свое внимание на последнем маленьком зеркале, отражение в котором остается все еще четким, 
+
+"Ха," говорит она. "Это интересно. Я-"
+
+Она пошатываясь отходит назад, хватаясь за голову. Зеркало становится темно серого цвета, как и остальные. 
+
+"О-о," говорит она и машет рукой в твою сторону. "Со мной все хорошо. Оно показало мне, *мне*, новый трюк. Я думаю я могла бы с ним справится, хотя." 
+{SCRIPT: NODE 74,68 SHOULD NOT PLAY — Matkina gets a more powerful Blinding ability}
+{GEORGE: Jeremy was not aware this was a thing. Is it?}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>74</ID>
+      <DefaultText>«Маткину, этот прибор должен работать и на тебе тоже. Хочешь попытаться?"
+{SCRIPT: Only visible if PC has a good relationship with Matkina.}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>75</ID>
+      <DefaultText>Она скептически окидывает тебя взглядом. 
+
+"Конечно," говорит она в итоге. "Только не удивляйся, если эта штука превратит меня в кучу расплавленных костей."
+{MATKINA}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>76</ID>
+      <DefaultText>Оторвать свой взгляд от зеркала.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>77</ID>
+      <DefaultText>Вы делаете это. Медленно, пульсирующая боль исчезает.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>78</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>79</ID>
+      <DefaultText>Следить за золотистым свечением на боковых зеркалах.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>80</ID>
+      <DefaultText>Снова взглянуть на золотистое зеркало слева.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>81</ID>
+      <DefaultText>Как только ты смотришь на золотистое зеркало слева, поток золотистого света проходит сквозь тебя и входит в зеркало справа.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>82</ID>
+      <DefaultText>Другой поток золотистого света проходит сквозь тебя и входит в зеркало на другой стороне.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>83</ID>
+      <DefaultText>Ты непроизвольно начинаешь глотать воздух. Этот свет исцелил — или — стер — раны, которые Скорбь причинила тебе. 
+{SCRIPT: SHOULD NOT PLAY — this isn't a thing thats possible at this time, nor are we tracking something like this.}
+{GAVIN: Add some sort of reactivity about the place (or person) who is getting all these wounds shipped to them.}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>84</ID>
+      <DefaultText>Как ни странно, ты чувствуешь себя лучше, но ты точно не знаешь, что — даже если что-то было — этот свет сделал с тобой.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>85</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>86</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>88</ID>
+      <DefaultText>Отправиться в Малый Круг через боковые зеркала.</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

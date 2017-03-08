@@ -1,0 +1,631 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\a_sagus\a2201_erritis_intro</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>118</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>Первое, что ты замечаешь, когда ты смотришь на этого молодого человека — это золотой туман — *сияние* — окружающее его. Оно искрится из его глаз и придает его легкой ухмылке теплоту, которую ты можешь *ощутить* прямо своим нутром.  
+
+Он замечает тебя и распрямляется.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>"Приветствую! Ты еще не готов путешествовать вместе со мной? Навстречу удивительным приключениям?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>"Я знаю, что ты думаешь. 'Как же все-таки тебе удалось пережить эту катастрофу, Эрритис?' Мой ответ, такой как и всегда, 'делает обратное сальто'. Но подожди. {slightly confused}. Как ты узнал мое имя? {urgent} Пустяки. Не важно. Конечно, ты знаешь мое имя. Я Эрритис!"
+
+Он кладет свои руки на тощие бедра и расплывается в улыбке.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>"Я знаю! Я бы назвал это удачей, но я не стану, все же я *ненавижу* скромность."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>"Ты никогда не знаешь, что случится потом!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>"Ты бы мог убить нас всех!"
++{SCRIPT: Node 4 should only play the first day that the player encounters Erritis. These are triggered by the player's proximity, and will play in order. }</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>"Ты сколотил дом в этом чертовом море!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>"Сейчас, вы все должны спрашивать, как я выжил в этой катастрофе."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>"Просто оставьте нас в покое!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText>"Как ты в итоге попал в аварию на дирижабле?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText>"Как ты снова попал в аварию на дирижабле?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>14</ID>
+      <DefaultText>"Я рад, что ты спросил!" Это некоторое преуменьшение. Он выглядел как-будто в *экстазе*. 
+
+"Я забирался вверх по скале по пути в Караван сарай, и увидел то, что невозможно было видеть — звезду, падающую к Рифу". Он убедительно поднял палец. "Я знал уже тогда, что найти эту звезду было предначертано мне судьбой".
+
+Он провел руками вдоль своих вьющихся волос. "Но что мне оставалось делать? Спускаться вниз? Скучно. Уже делал это другим способом. Шел? *Шел*? Хуже. Намного хуже. Совсем никакого удовольствия".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>15</ID>
+      <DefaultText>"Вовсе нет! Он разбился сам, пока я летел к падающей звезде на Рифе".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>16</ID>
+      <DefaultText>"Тебе повезло. Этой 'падающей звездой' был я".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>17</ID>
+      <DefaultText>"Эта звезда уже не новость сейчас, в любом случае".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>18</ID>
+      <DefaultText>"Держись. Бьюсь об заклад, никто не нашел эту звезду".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>19</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>21</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>22</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>23</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>24</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>25</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>26</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>27</ID>
+      <DefaultText>"Почему я должен позволять тебе идти со мной?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>28</ID>
+      <DefaultText>Он бросает вам озадаченный взгляд, как будто вы только что вслух спросили, почему необходим воздух. 
+
+"Я искатель приключений", — повторяет он, нахмурив брови. — "Я думал, я говорил тебе. Приключения случаются, когда я нахожусь рядом и я должен стать их частью".
+
+Он поднял свой палец. "Но тебе придется поспевать за мной, куда мы идем..." — он уставился на невидимый горизонт. — "...Мы немедленно отправляемся. Сильно. И, прежде всего, красиво". Он склонился, словно заговорщик: "Пока ты будешь искать красоту, я буду прикрывать нас обоих".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>29</ID>
+      <DefaultText>"Возможно, ты пойдешь со мной в другой раз. У меня уже слишком много людей".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30</ID>
+      <DefaultText>"Правда?" Он смотрит, не замечая вас, на ваших компаньонов и шарахается в удивлении. "Они всегда были здесь?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>31</ID>
+      <DefaultText>"Я передумал. Я хочу, чтобы ты отправился со мной".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>34</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>36</ID>
+      <DefaultText>"Это странно", — говорит он, смахивая локон светлых волос со своих глаз. — "Я уже говорил с ним однажды. Я объяснял ему, что мне нужно одолжить дирижабль. Он сказал нет, поэтому я дождался момента, когда он не будет смотреть, и все-таки одолжил его..." Он замолкает, его золотистое сияние немного ослабевает. Беспокойная мысль отражается на его лице. 
+
+"Он не *сердится*, не правда ли?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>37</ID>
+      <DefaultText>"Он *очень* зол на тебя. Тебе следует с ним поговорить".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>38</ID>
+      <DefaultText>"О", — говорит он, уставившись в землю. Его сияние продолжает увядать. — "Если ты думаешь, что как раз то... что нужно сделать".
+
+Он моргает и широкая улыбка появляется у него на лице. Его аура *сияет* как звезда. "Да! Это *то*, что нужно сделать! И я собираюсь сделать это! Я собираюсь исправить эту ошибку!"
+
+Он шагает в направлении Караван Сарай, весело посвистывая.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>39</ID>
+      <DefaultText>"Скажи, мне извиниться? За что? Извинения для тех, кто *чувствует* себя виноватыми, и этих неудачников очень много, всегда с печальными глазами и с опущенной головой. Будь горд за свои извинения, говорю я!" Он делает глубокий вдох. "Если *кому-то* и стоит принести извинения, так это этому нерадивому дирижаблю! Только подумай, что могло бы произойти, в менее умелых руках!"
+
+Рядом доносится приглушенный *рокот* от покореженного дирижабля. 
+{SOUND: Muffled boom.}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>40</ID>
+      <DefaultText>"Он будет очень признателен, когда получит мои извинения!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>41</ID>
+      <DefaultText>"Могу ли я как-то убедить тебя подняться вверх и увидится с ним?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>42</ID>
+      <DefaultText>"Нет!" — весело сказал он. — "Ты сказал это сам. Он слишком зол на меня и у меня не очень получается не выводить людей из себя. Ничего, за исключением цепей, не может привести меня туда обратно".
+
+Он замолчал, нахмурясь. "Конечно, я мог бы закончить жизнь там несчастным случаем. Я не очень хорошо ориентируюсь. Иногда я просто следую за людьми часами, надеясь, что они лучше меня знают, куда идут!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>43</ID>
+      <DefaultText>"Извинения?" — говорит он, произнося его, как незнакомое слово. — "Извинения не помогут починить разбитые дирижабли. Я не думаю, что он бы это очень оценил".
+
+Он качает своей головой. "Я слишком его уважаю, чтобы тратить его время таким образом".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>44</ID>
+      <DefaultText>"Я считаю, ты должен перед ним извиниться".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>45</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>46</ID>
+      <DefaultText>"Хозяин этого дирижабля хочет обменяться с тобой парой слов".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>47</ID>
+      <DefaultText>"Ты уверен, что я не могу убедить тебя поговорить с Мастером Реннио насчет корабля, который ты украл?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>48</ID>
+      <DefaultText>"Я уверен! Единственная причина, по которой я снова пойду в Караван Сарай — это, или я заблужусь, или если кто-то притащит меня туда снова!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>49</ID>
+      <DefaultText>"Да! Абсолютно! Давай это сделаем!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>50</ID>
+      <DefaultText>"Давай поговорим о чем-нибудь другом".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>51</ID>
+      <DefaultText>"Увидимся позже".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>52</ID>
+      <DefaultText>"Я буду здесь! Пока меня не будет!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>53</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>54</ID>
+      <DefaultText>"Все вокруг начало багроветь и мерцать!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>55</ID>
+      <DefaultText>"Я завязал себе глаза в целях безопасности!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>56</ID>
+      <DefaultText>"Все кнопки загорелись!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>57</ID>
+      <DefaultText>"Затем, я повернул колесо! По часовой стрелке! Против часовой стрелки! Против-против часовой стрелки!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>58</ID>
+      <DefaultText>::ворчит::</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>61</ID>
+      <DefaultText>"Конечно, мы сможем! Мы там были, ты придурок. Ты разбил этот чертов корабль о мои овощи!"
++{SCRIPT: All the empties here are lines for a generic male Cliff's Edge townsperson.}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>62</ID>
+      <DefaultText>"Я сделал на этом дирижабле кувырок назад- и это была увлекательная часть путешествия — намеренно!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>63</ID>
+      <DefaultText>"Ты собираешься платить за весь этот ущерб или нет?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>64</ID>
+      <DefaultText>"*Конечно* нет! Не ношу с собой денег! Просто хорошая история не имеет цены!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>67</ID>
+      <DefaultText>"Нет, нет. Он уже падал, когда я рухнул. *Вот* почему я направил на него дирижабль. Чтобы закрепить его на месте!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>69</ID>
+      <DefaultText>"Не переживай! Мне не нужна медаль или что-то в этом роде. Просто я был рад помочь!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>70</ID>
+      <DefaultText>"Лучше бы ты этого не делал!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>71</ID>
+      <DefaultText>«Кувырок назад! Ответ — кувырок назад!".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>72</ID>
+      <DefaultText>"Прежде чем я завершу свою историю? Я бы никогда не делал это перед публикой."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>74</ID>
+      <DefaultText>"Верно!" — Эрритис кричит. "Подожди минуту. Это звучит как, *я* бы сказал, если бы я был на твоем месте и все же оставался собой!!"
+
+Он машет вам пальцем. "Мне лучше было знать с самого начала, что мы родственные души. Нам следует путешествовать вместе, Эрритис другой!. Готов к приключениям! Скажи да! Не говори нет!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>75</ID>
+      <DefaultText>"Хорошо, что ты это сказал", — говорит он, его аура пульсирует, явно выражая благодарность. — "Ты добрый, ты знаешь это? Это редкость в наши дни. Большая редкость. Такие люди как ты всегда хотят делать удивительные вещи".
+
+Искра вдохновения, как молния, пробежала по его лицу. Его свечение усиливается до такой степени, что на него невозможно смотреть. "И я обязательно собираюсь достать одну такую вещь. Давай полетим вместе! Не говори нет!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>76</ID>
+      <DefaultText>"Вот это действительно круто", — говорит Алигерн с ухмылкой. — "Обычный священник Аэона".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>77</ID>
+      <DefaultText>"Да, дорогой", — говорит Каллистеж сухо. — "Все же, не принимай это близко к сердцу. Моя сестра и я стремимся слиться с фоном".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>78</ID>
+      <DefaultText>"Что? Почему ты так смотришь на меня?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>79</ID>
+      <DefaultText>"Да", — говорит Рин с озабоченным видом. — "Все время".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>80</ID>
+      <DefaultText>"Нет. Я *искатель приключений*", — говорит Эрритис снисходительно. — "Пожалуйста, постарайся не отставать".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>81</ID>
+      <DefaultText>"Боже милостивый".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>82</ID>
+      <DefaultText>"О, привет", —  говорит он, помахав ей рукой. — "И вам, и вам..." Несколько секунд он радостно машет каждой вариации Каллистеж, которые мелькают в вашей реальности.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>83</ID>
+      <DefaultText>"Неужели? Я не заметил". Он смотрит мимо вас и видит Мэткину. У него отвисла челюсть. "Ах".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>84</ID>
+      <DefaultText>Эрритис вздыхает и повторяет попытку. "Ах", — он поясняет, лицо его выглядит как у тонущего человека. Его золотистая аура пульсирует, кажется, с такой же частотой как и сердце.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>86</ID>
+      <DefaultText>Она немигающим взглядом смотрит на него и поворачивается к вам. "Почему он так смотрит на меня?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>87</ID>
+      <DefaultText>"Я мог бы попытаться отгадать, но думаю, что в этом нет нужды".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>88</ID>
+      <DefaultText>"Вы вдвоем будете такой великолепной парой".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>89</ID>
+      <DefaultText>Она не отрывает от вас свой взгляд, пытаясь понять, что значит ваш хитрый намек. Постепенно ее осеняет догадка и охватывает ужас. "Не смей", — она говорит Эрритису. — "Я не шучу, не надо. У меня уже есть тип, и это не ты".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>90</ID>
+      <DefaultText>Эрритис делает прерывистый вдох и моргает. Все его тело напряжено, с видимым усилием он отводит взгляд от Мэткины. 
+
+"О чем... о чем мы говорили?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>92</ID>
+      <DefaultText>Ее зрачки расширяются от ужаса. Затем она проницательно смотрит на Эрритиса. "Не смей", — она говорит Эрритису. — "Я не шучу, не надо. У меня уже *есть* тип, и это не ты".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>93</ID>
+      <DefaultText>"Нет!" Эрритис кричит от радости. "Да? Правда? Это был ты?"  Он хватает вас за плечи. "Это судьба. Тебе суждено было отправиться в путь со мной. Ты должен! Не говори нет!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>94</ID>
+      <DefaultText>"Я ошибся", — весело говорит Эрритис. — "Наверное, это из-за того, что вы такого маленького роста. Я обычно не смотрю так часто вниз. Приключения сами падают с небес!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>95</ID>
+      <DefaultText>"Да, парень", — утешительно говорит Тибир. — "Не хочу тебя расстраивать, но рассеянность – верный признак отравления от денег".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>96</ID>
+      <DefaultText>"Да?" — говорит Эрритис, принимая одновременно встревоженный и довольный вид. "Это опасно?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>97</ID>
+      <DefaultText>"О, очень", — печально говорит Тибир. — "Дай мне осмотреть твои деньги, я, э-э, поищу следы яда".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>98</ID>
+      <DefaultText>"Тибир, оставь его в покое".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>99</ID>
+      <DefaultText>Не отвечать.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>100</ID>
+      <DefaultText>Очень осторожно Эрритис снимает звенящий кошелек с пояса и передает его Тибиру, как будто он вот-вот взорвется.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>101</ID>
+      <DefaultText>"Хорошо", — говорит Тибир, вздыхая. — "Лишите парня уроков жизненной мудрости. Вы этим ему лучше не сделаете".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>103</ID>
+      <DefaultText>"Я осмотрю это позже в своей лаборатории", — обещает Тибир. Не смотря в вашу сторону, он достает рукой несколько монет и передает их вам.  {MONEY}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>104</ID>
+      <DefaultText>"У нас тут намечается драка, или, может, мне ее самому начать?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>105</ID>
+      <DefaultText>Он улыбнулся. "Потом я увидел воздушный дирижабль, пришвартованный над моей головой. Я помчался, нанял его и направил его прямо на Риф".  Он опускает голову. "Я не знаю, что дальше произошло. Несмотря на мои навыки пилотирования, дирижабль сам направился прямиком на скалы. У меня не было выбора. Мне пришлось быстро совершить жесткую посадку настолько безопасную, насколько это было возможно". Качая головой, он вздохнул.   "Я так и не нашел упавшей звезды. В том месте кто-то другой нашел ее. Это теперь *их* судьба".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>107</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>108</ID>
+      <DefaultText>"Что это за золотистое свечение вокруг тебя?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>109</ID>
+      <DefaultText>"Серьезно, что это за сияние вокруг тебя?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>110</ID>
+      <DefaultText>"Где?" — спрашивает Эрритис, оборачиваясь вокруг.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>111</ID>
+      <DefaultText>"Какое свечение?" — спрашивает он, посмотрев позади себя.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>112</ID>
+      <DefaultText>"Все в порядке", — говорит он, нетерпеливо переминаясь с ноги на ногу. — "Я могу подождать". {GAVIN: Add more Tybir scamming here, once ever.}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>113</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>114</ID>
+      <DefaultText>"Твои мысли... странные".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>115</ID>
+      <DefaultText>"Я слышу твои поверхностные мысли. Почему они настолько отличаются от того, что ты говоришь?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>116</ID>
+      <DefaultText>"Почему у тебя опять появились странные мысли?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>117</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>118</ID>
+      <DefaultText>"Мысли?" — глаза Эрритиса расширились от смятения. — "Я... пытаюсь избавиться от них. У них есть план действий, знаете ли. Замыслы. Планирование. Интриги". Он качает головой. "Нет, нет, инстинкт героя – это лучший подход".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>119</ID>
+      <DefaultText>"Сэр, если у меня есть мысли, то это для меня новость!"</DefaultText>
+      <FemaleText>"Мадам, если у меня есть мысли, то это для меня новость!"</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>120</ID>
+      <DefaultText>На его лице появляется широкая улыбка. "Честно говоря, я понятия не имею, о чем ты говоришь".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>121</ID>
+      <DefaultText>"Конечно, ты хочешь! И я готов! Я всегда готов!"</DefaultText>
+      <FemaleText>"Конечно, ты хочешь! И я готов! Я всегда готов!"</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>123</ID>
+      <DefaultText>"Ты можешь хорошо сражаться в группе?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>128</ID>
+      <DefaultText>"У тебя есть *группа*? Где же о..." — он смотрит мимо вас и видит Мэткину. У него отвисла челюсть. "Ах".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>129</ID>
+      <DefaultText>"У тебя есть *группа*?" — он смотрит мимо вас на вашего спутника. "Они там были всегда?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>136</ID>
+      <DefaultText>"Да, я хочу, чтобы ты присоединился ко мне".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>137</ID>
+      <DefaultText>"Нет".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>138</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>139</ID>
+      <DefaultText>"Вот именно!" — охает Эрритис. — "Но лучше бы тебе передумать! Я серьезно".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>141</ID>
+      <DefaultText>Худой и пылкий молодой человек отрешенно смотрит на сбитый им дирижабль. Затем он замечает вас и восторженно поднимает вверх руки: "Я надеялся, что ты вернешься! Хотя нет, это не так. Я не знаю, на что надеялся, но уверен, что это было *захватывающе*".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>142</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>144</ID>
+      <DefaultText>"Со мной по-прежнему слишком много народу. Пожалуй, ты сможешь присоединиться ко мне в другой раз".</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

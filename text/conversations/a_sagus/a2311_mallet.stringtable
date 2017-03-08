@@ -1,0 +1,759 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\a_sagus\a2311_mallet</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>142</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>"Что?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>"Прощай".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>Плотный мужчина ухмыляется вам, сгибая огромные руки в шрамах, которые легко могли бы обхватить ваше горло. Он исследует своим языком свои острые, покрывшиеся пятнами зубы, а короткая, запачканная кровью дубинка болтается на крюке у него за поясом.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText>"Ну и что ты здесь делаешь, суламит?" — говорит он. — "Играешь в темноте?"
+
+Он издает протяжное и низкое фырканье.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText>"Что ты хочешь, мясцо?" — говорит от со зловещей ухмылкой.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>14</ID>
+      <DefaultText>"Маллет", — сквозь зубы произносит Тибир. — "Этот дуболом насмерть забил своего партнера за пару шинов".
+
+{TYBIR}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>15</ID>
+      <DefaultText>"Вот. Увидимся позже".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>16</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>17</ID>
+      <DefaultText>"Насколько долго ты был членом Дендра О'Хур?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>18</ID>
+      <DefaultText>"Чем ты занимался раньше?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20</ID>
+      <DefaultText>"Нет. Не долго," говорит он.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>21</ID>
+      <DefaultText>"Я ломал материал", — говорит он, его глаза блестят тупым юмором.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>22</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>23</ID>
+      <DefaultText>"Расскажи мне о Дендра О'хур".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>24</ID>
+      <DefaultText>"Ты не можешь ничего рассказать мне о Дендра О'Хур"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>25</ID>
+      <DefaultText>"Я не должен ничего тебе рассказывать", — говорит он, пофыркивая. — "Ты не один из нас. Ты не *никто*".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>26</ID>
+      <DefaultText>"Никто ничего не говорил про 'не могу' ", — говорит он, прочищая зуб. — "Это слово — 'не буду'. Может быть, Имбиту почувствует себя по-другому".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>27</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>28</ID>
+      <DefaultText>"Почему ты присоединился к Дендра О'хур?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>29</ID>
+      <DefaultText>"Еще раз, почему ты присоединился к Дендра О'хур?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>31</ID>
+      <DefaultText>"Мне приходилось выполнять кое-какую работу для Толстона", — говорит он , гримасничая. — "Физическую работу. Ты знаешь. Деньги были хорошие, но Толстон постоянно поручал мне мелкую работу. Отдавая хороший материал его *протеже*". Он скривил свои губы.  
+
+"Затем, я увидел Дендра О'Хур. Видел их в таких ситуациях, когда люди их уважают, даже если бы ты мог переломить большинство из них надвое двумя руками. Я думал, что здесь, возможно, то место, где человек может расти". Он ухмыляется. 
+
+"Я был прав".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>32</ID>
+      <DefaultText>"Устал работать в тени Толстона", — говорит он. — "Надоело брать от него заказы и слышать, как люди смеются за моей спиной".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>33</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>34</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>35</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>36</ID>
+      <DefaultText>Он окидывает вас оценивающим взглядом. "*Ты* знаешь, какого это. Я могу рассказать. Уважение — это здорово, правда? Но страх лучше. И даже люди Толстона меня боятся сейчас".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>37</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>38</ID>
+      <DefaultText>"Имбиту разрешил мне спросить тебя об убийце протеже Толстона — Подлизе".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>39</ID>
+      <DefaultText>"У меня есть еще вопросы об убийце протеже Толстона".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>40</ID>
+      <DefaultText>"Это правда?" — говорит он, бросая взгляд на Имбуту. Лидер Дендра О'Хур слегка кивает ему головой.
+
+"Ага, хорошо", — говорит он. — "Задавай свои вопросы, ради всего хорошего, что тебе это даст".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>41</ID>
+      <DefaultText>"Хорошо", — говорит он, самодовольно улыбаясь. — "Продолжай".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>42</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>43</ID>
+      <DefaultText>"Я хочу поговорить с тобой о твоих гастрономических привычках".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>44</ID>
+      <DefaultText>"Давай снова поговорим о твоих гастрономических привычках".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>45</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>46</ID>
+      <DefaultText>"Убийца гуляет на свободе в Подбрюшье. Ты что-нибудь об этом знаешь?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>47</ID>
+      <DefaultText>"Я просто хочу задать тебе несколько вопросов об убийце в Подбрюшье".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>48</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>49</ID>
+      <DefaultText>"Я знаю, что мне не следует трепаться об этом", — говорит он, скрестив руки на груди. — "Нет, пока Имбиту не скажет мне".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>50</ID>
+      <DefaultText>"Да ну? Мне тоже много чего нужно. Но пока Имбиту не даст мне добро, я не скажу ничего".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>51</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>52</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>53</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>54</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>55</ID>
+      <DefaultText>"Расскажи мне, что ты знаешь о других членах 'семьи'".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>56</ID>
+      <DefaultText>"Не мог бы ты рассказать мне о других из Дендра?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>57</ID>
+      <DefaultText>"Семьи", — повторяет он. — "Хе. Хорошо. Я доверял моему брату из этой семьи, но он попытался перерезать мне горло, когда мне было пять лет".
+
+Он цокает своим языком. "Продолжай задавать свои вопросы".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>58</ID>
+      <DefaultText>"Да, конечно. Кто?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>59</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>60</ID>
+      <DefaultText>"Что думаешь о Имбиту?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>61</ID>
+      <DefaultText>"Что еще ты думаешь об Имбиту?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>63</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>64</ID>
+      <DefaultText>"Что ты думаешь о Гзи?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>65</ID>
+      <DefaultText>"Что сейчас ты думаешь о Гзи?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>66</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>67</ID>
+      <DefaultText>"Что думаешь о Киятаве?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>68</ID>
+      <DefaultText>"Что еще ты чувствуешь по поводу Киятавы?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>69</ID>
+      <DefaultText>"У меня появились новые вопросы".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>70</ID>
+      <DefaultText>"Да ну? О чем?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>71</ID>
+      <DefaultText>"Это правда?" — говорит он, царапая один из своих заостренных зубов. — "Здесь нет какой-то большой тайны. Я ем людей. Мне это нравится". Он пожимает плечами. 
+
+"Если я не ответил на твой вопрос, продолжай спрашивать дальше".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>72</ID>
+      <DefaultText>"Снова?" — говорит Маллет. — "Да, конечно. Задавай любые вопросы".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>73</ID>
+      <DefaultText>"Может мне следует еще раз прогуляться сегодня ночью", — он размышляет. — "Не перестаю удивляться, какие еще тайны мне предстоит узнать".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>74</ID>
+      <DefaultText>"С ним все в порядке", — говорит Маллет. — "Заставил половину города бояться его, а другая половина приносила ему мясо. Не плохо для старика, который каждому улыбается и никогда не повышает свой голос".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>75</ID>
+      <DefaultText>"Люди его боятся", — говорит Маллет. — "Я это уважаю".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>76</ID>
+      <DefaultText>"Гзи — монстр", — говорит он, покачивая своей головой. — "Меньше чем человек, но больше чем животное. Я видел, как она содрала кожу с лица трупа одним взмахом своих когтей и запихнула его себе в рот как лепешку. Она не прекращала, пока плоть не закончилась, до последней капли крови".
+
+Он кусает свою верхнюю губу, выпуская струйки крови. "Поговори с Гзи, если хочешь. Постарайся ее понять. Я, я держусь от нее на расстоянии".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>77</ID>
+      <DefaultText>"Гзи — монстр, и я держусь от нее на расстоянии", — говорит он.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>78</ID>
+      <DefaultText>Он открывает рот, чтобы ответить. Закрывает его, обдумывая. 
+
+"Что-то с ней не так", — говорит он в итоге. "И я не дурак. Я знаю, как это звучит, из моих уст. Просто... что-то сломалось в ней, и она становится все хуже.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>79</ID>
+      <DefaultText>"Она мне не нравится", — говорит он. — "Я ей не доверяю. Что-то не так в ее голове".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>81</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>82</ID>
+      <DefaultText>"Сколько трупов ты уже съел?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>83</ID>
+      <DefaultText>"Напомни, сколько трупов ты уже съел?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>84</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>85</ID>
+      <DefaultText>"Слышал ли ты что-нибудь о Бесконечных Вратах?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>86</ID>
+      <DefaultText>"Ты уверен, что ты ничего не знаешь о Бесконечных Вратах?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>87</ID>
+      <DefaultText>"Нет", — говорит он. — "Странное название, все таки. Если они не имеют конца, это уже больше не врата, не так ли? Это скорее коридор".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>88</ID>
+      <DefaultText>"Нет", — говорит он, нахмурив брови. — "Я говорил тебе".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>89</ID>
+      <DefaultText>"Ты имел ввиду кого-то помимо себя, трупоед?" говорит он, сдавлено хихикая.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>90</ID>
+      <DefaultText>"Не могу назвать тебе точное количество" — говорит он. — "Ты ешь то, что дают тебе здесь. По крайней мере, один раз, в полночь? Я был один на охоте и нашел труп, лежащий под грудой ржавого металла. Кто-то просто оставил его там гнить". Он качает своей головой.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>91</ID>
+      <DefaultText>"Только один", — говорит он. — "Это, конечно, не было мясом высшего качества, но и не было отбросами".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>92</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>93</ID>
+      <DefaultText>"Тебе не надоело есть человеческую плоть?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>94</ID>
+      <DefaultText>"Почему ты ешь трупы, если это так тебя беспокоит?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>95</ID>
+      <DefaultText>"Надоело? Нет. Надоело — не верное слово".
+
+Он потирает свой затылок. "Ты думаешь, что тебе будет безразличен вкус, но это не так. Что мне здесь не нравится — так это то, что воспоминания от человека, которого ты съедаешь, оседают в твоей голове и ты не можешь избавиться от них".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>96</ID>
+      <DefaultText>"Это не *тревожит* меня", — проворчал он, но голос его дрожит. — "Это все не так просто. Но, все будет хорошо. Посмотри на Имбуту. Он это делает уже долгое время".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>97</ID>
+      <DefaultText>"Четверо из нас съели этого философа... не воображаемого, а такого в старой мантии. Киятава говорила о каком-то слове, которое ей приходилось слышать много раз после того".
+
+Он смотрит сердито. "Я и слова не сказал. Я видел его воспоминания, когда снимал его с моих зубов. Он лежал на кровати, возможно умирал, ждал, когда его сын придет с ним попрощаться. Его глаза продолжали закрываться, закрываться, а его сын так и не пришел". 
+
+Он качает своей головой как животное, которое пытается сбросить назойливое насекомое. "Не то, чтобы я видел, но все же. И это только от *одной* трапезы".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>98</ID>
+      <DefaultText>Он отводит от вас взгляд, и на какой-то короткий момент, вы видите страх в его глазах. Безнадежность.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>99</ID>
+      <DefaultText>"Н-да, я уверен в этом".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>100</ID>
+      <DefaultText>"Я хочу еще кое-что спросить".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>101</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>102</ID>
+      <DefaultText>"Ты знал Подлизу?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>103</ID>
+      <DefaultText>"Кого ты опять подозреваешь?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>104</ID>
+      <DefaultText>"Я больше не спрашиваю об этом убийце".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>105</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>106</ID>
+      <DefaultText>"Хорошо", — говорит он, самодовольно улыбаясь. — "Я желаю тебе удачи, но я не хочу ее растрачивать попусту".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>107</ID>
+      <DefaultText>"Все нормально. Мы закончили на этом?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>108</ID>
+      <DefaultText>"Хе", — говорит он. — "Да, я знал его. Рад слышать, что он мертв".
+
+Он усмехается. "Он был умным и я знал это. Всегда с презрением смотрел на остальных из нас. Всегда заказывает людей в округе под присмотром Толстона, с улыбкой". Он фыркает. 
+
+"Ты думаешь, что я изрубил его на куски, но я этого не делал. Я напивался на углу мануфактуры". Он неприятно ухмыляется. "Интересно, по какому поводу этот крик".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>109</ID>
+      <DefaultText>"Киятава или Гзи. Они оба что-то скрывают", — он сдавленно смеется. "По сравнению с ними, я как открытая книга".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>110</ID>
+      <DefaultText>"Ты знаешь, кого тебе следует спросить", — говорит он, наклоняясь ко мне. — "Киятаву. Я видел ее, склонившейся к какому-то трупу в аллее. Не имеет значение, что это за мясо — у людей, которые едят сами всегда есть что припрятать".
+
+Он кивает другим сектантам. "Гзи — тоже одна из тех, кто наблюдает. Она не такая как ты или я. Она — мутант, и не самый хороший из них".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>112</ID>
+      <DefaultText>"Люди? Она так сказала?" Он бросает мрачный взгляд на Киятаву. 
+
+"Н-да, хорошо, но не *люди*", — говорит он, потягивая свою толстую шею. — "Человек. Один. Кое-кто — я не скажу тебе его имени — украл у меня однажды кое-что. И сам факт того, что ты здесь, чтобы не спрашиваешь меня конкретно *о нем* говорит о том, что он никому не был нужен".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>113</ID>
+      <DefaultText>"Да, я уверен", — говорит он. Однако, без своей обыкновенной улыбки.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>114</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>115</ID>
+      <DefaultText>"Киятава говорит, что ты убивал людей вместо того, чтобы дожидаться, когда они умрут".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>116</ID>
+      <DefaultText>"Ты уверен, что ты не убил кого-то еще с тех пор, как ты вступил в Дендра О'Хур?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>117</ID>
+      <DefaultText>"Ты говоришь как человек, у которого есть много причин для недовольства. Уверен, что ты не пытался порешить кого-то вместе с Толстоном?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>118</ID>
+      <DefaultText>"И это все? У тебя никогда не было порыва убить кого-либо снова?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>119</ID>
+      <DefaultText>"Ты должно быть думаешь, что я идиот", — говорит он. — "Иногда, за обиды приходит расплата, верно? И это поднимает тебе настроение, прямо изнутри". Он похлопывает себя по животу.
+
+"Но никто — *никто* — еще не стал лучше Толстона. Даже если бы я убил каждого из его протеже — а я не говорю что я убил даже одного — этот человек содрал бы с меня кожу и подвесил бы прежде, чем я обронил бы свою дубинку".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>120</ID>
+      <DefaultText>"Я не имею ничего против убийства", — говорит он. — "Это принесло мне много пользы. Но нет. Это был последний раз". Он отводит свои глаза в сторону от твоего взгляда.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>121</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>122</ID>
+      <DefaultText>"Ху", — говорит он, фыркая от смеха. — "Ты бы видел, как Киятава убегала отсюда, прежде чем сюда пришли люди Толстона. Думаешь, она была такой умной. Лучше, чем остальные их нас. Но она не была умнее тебя, не так ли?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>123</ID>
+      <DefaultText>"Что ты опять здесь делаешь, мясцо?" — говорит он. "Собираешься немного поделится этой нежной плотью?"
+
+Он издает протяжное и низкое фырканье.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>125</ID>
+      <DefaultText>"Что я сделал..." — говорит Тибир, почесывая подбородок. — "Что же я сделал? А! Ты о том, как я рассказал всем, что ты убил своего товарища за деньги, на которые даже поесть было нельзя?" Он улыбается, но глаза его холодны: "Я и повторить могу, обращайся".
+
+{TYBIR}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>126</ID>
+      <DefaultText>"И не думай, что я тебя не признала", — говорит он, глядя на Тибира. — "Я тебя помню. И помню, что ты сделал".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>127</ID>
+      <DefaultText>"Неважно", — пожимает плечами Маллет. — "Все в прошлом. Это теперь мое место".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>128</ID>
+      <DefaultText>"Нет, Маллет, нет", — вздыхает Тибир. — "Ты никогда не видел открытой книги в своей жизни. Держу пари, что ты не прочитал даже обложки".
+{TYBIR}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>129</ID>
+      <DefaultText>"Может и нет", — говорит Маллет сердито. "Но тебе бы лучше держать свой язык за зубами. Кто-то убивал этих умников".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>130</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>131</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>132</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>133</ID>
+      <DefaultText>Выражение притворного сожаления едва скрывает его улыбку.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>136</ID>
+      <DefaultText>Вы чувствуете, что на вас смотрят. Вы вовремя оглядываетесь и видите, как Киятава отводит взгляд в сторону.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>137</ID>
+      <DefaultText>Ваш взгляд скользит в направлении Имбиту. Пожилой предводитель Дендра О'Хур машет и дарит вам огромную, гнилую ухмылку.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>138</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>139</ID>
+      <DefaultText>"Имбиту разрешил мне расспрашивать тебя об убийцах".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>140</ID>
+      <DefaultText>"У меня еще есть много вопросов по поводу убийц".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>141</ID>
+      <DefaultText>"Мое мнение такое", — говорит он, медленно произнося слова, — "что, я тебя не знаю. Ты ничего для меня не сделал и нам не о чем разговаривать. По крайней мере, не сейчас".
+
+Он скрещивает свои руки. "Итак, почему же мы должны разговаривать?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>142</ID>
+      <DefaultText>"Не о чем разговаривать, не так ли?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>143</ID>
+      <DefaultText>"Ты раскроешь душу, если нам будет о чем поговорить?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>144</ID>
+      <DefaultText>"О да", — фыркает он. — "Ты не сможешь закрыть мне рот".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>145</ID>
+      <DefaultText>Вы замечаете, как Имбиту наблюдает за вами двумя. Нахмуривает брови.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>146</ID>
+      <DefaultText>Он резко выбрасывать большой палец в направлении человека, стоящего поблизости. Он наблюдает за вами двумя. Нахмуривает брови.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>147</ID>
+      <DefaultText>"Это Имбиту, не так ли?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>148</ID>
+      <DefaultText>"У меня есть другие вопросы".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>149</ID>
+      <DefaultText>"У тебя зоркий глаз, не правда ли?" — говорит Маллет, хрипло хихикая. — "Ага. Я знаю, он не сильно похож на себя, но это было бы твоей ошибкой. Он управляет всем здесь".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>150</ID>
+      <DefaultText>"Почему бы и нет".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>151</ID>
+      <DefaultText>Он резко дергает подбородком в направлении Имбиту. "Ты хочешь экскурсию? Поговори с ним. Я занят".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>152</ID>
+      <DefaultText>Он резко дергает подбородком в направлении Имбиту. "Ты хочешь экскурсию? Поговори с Имбиту. Я занят".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>155</ID>
+      <DefaultText>"Он отвечает за это?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>156</ID>
+      <DefaultText>"Я сделаю это сейчас".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>157</ID>
+      <DefaultText>"Ага" — Маллет усмехается. — "И в его возрасте, это лучше для него".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>158</ID>
+      <DefaultText>"Хорошо".</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

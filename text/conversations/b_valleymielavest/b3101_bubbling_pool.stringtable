@@ -1,0 +1,153 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\b_valleymielavest\b3101_bubbling_pool</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>27</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>Прямо перед вами из пруда поднимаются пузырьки, и берег, на котором ничего не растет, покрыт слоем белого осадка. Вода издает едкий запах, от которого у вас слезятся глаза.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>Осмотреть пруд.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>Уйти от пруда.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>По осадку и запаху вы понимаете, что в воде очень высокое содержание щелочи, и было бы опасно не то что пить, а даже прикасаться к такой жидкости.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>Вода скользкая на ощупь, а на вкус напоминает мыло. Она сдавливает горло и вам становится тяжело глотать.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>Несмотря на пузырьки и насыщенный цвет, вода кристально чистая и сквозь ее толщу можно увидеть дно пруда. 
+ 
+ Вы замечаете внизу металлический шар, покрытый осадком, но целый. К сожалению, он слишком глубоко, и достать его получится только нырнув.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>Пруд все так же пузырится и издает запах.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>17</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>18</ID>
+      <DefaultText>Нырнуть в пруд и попытаться достать предмет.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>19</ID>
+      <DefaultText>Нырнуть за предметом еще раз.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>21</ID>
+      <DefaultText>Вы ныряете в воду, и вам приходится закрыть глаза, иначе их жжет. На самом деле жжет все тело, но вы решительно бросаетесь вниз, и вам удается найти шар на ощупь и поднять его. 
+ 
+ Вынырнув, вы кричите от боли. Через некоторое время вы приходите в себя и рассматриваете шар. Оказывается, что он представляет собой емкость с несколькими предметами внутри.
+ 
+ {LOOT: a couple things, shins, cypher, misc, etc}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>22</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>23</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>24</ID>
+      <DefaultText>Вы ныряете в воду, и вам приходится закрыть глаза, иначе их жжет. На самом деле жжет все тело, но вы решительно бросаетесь вниз и ощупываете дно в поисках шара. К сожалению, боль оказывается сильнее вас, и вы выныриваете на поверхность. 
+ 
+ Вынырнув, вы кричите от сильнейшей боли, и вам требуется некоторое время, чтобы прийти в себя и снова задышать нормально.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>25</ID>
+      <DefaultText>Вы ныряете еще раз, в этот раз не забыв закрыть глаза, и снова вода разъедает плоть. Вы так и не находите шар и почти сразу же выныриваете на поверхность. 
+ 
+ Вынырнув во второй раз, вы замечаете, что вода в некоторых местах разъела кожу, а из ран течет кровь. Кожа на руках напоминает куски рваной ткани.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>26</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>27</ID>
+      <DefaultText>Выпить воды из пруда.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>28</ID>
+      <DefaultText>Выпить воды еще раз.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>29</ID>
+      <DefaultText>Вода обжигает уже измученный рот, въедается в десны и внутреннюю сторону щек. Горло настолько сдавлено, что глотнуть невозможно.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30</ID>
+      <DefaultText>Вы падаете, начинается рвота, вода разъедает желудок и кишечник, повреждает внутренние органы, потом вы еще долго лежите, страдая от рвоты, пока, наконец, не умираете.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>32</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>33</ID>
+      <DefaultText>"Знаешь, в другое время я бы посмеялся над твоими промахами, но сейчас ты действительно можешь погибнуть. Не делай этого".</DefaultText>
+      <FemaleText>"Знаешь, в другое время я бы посмеялся над твоими промахами, но сейчас ты действительно можешь погибнуть. Не делай этого".</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>34</ID>
+      <DefaultText>"Мои занятия наукой научили меня тому, что пить из странных луж вряд ли полезно для здоровья". Она пожимает плечами. "Но если для тебя важно испытать боль, ни в чем себе не отказывай".</DefaultText>
+      <FemaleText>"Мои занятия наукой научили меня тому, что пить из странных луж вряд ли полезно для здоровья". Она пожимает плечами. "Но если для тебя важно испытать боль, ни в чем себе не отказывай".</FemaleText>
+    </Entry>
+  </Entries>
+</StringTableFile>

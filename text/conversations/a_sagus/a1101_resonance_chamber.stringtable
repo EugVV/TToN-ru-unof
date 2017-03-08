@@ -1,0 +1,249 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\a_sagus\a1101_resonance_chamber</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>45</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>Через дыру, проломленную в крыше, на разбитую резонансную камеру падает солнечный свет. Сложно поверить, что это сделали *вы*, что вы рухнули вниз прямо с бледно-синего неба, пробив купол и сломав эту искусную машину своим собственным телом.
+
+Сложно поверить, что вы все еще живы.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>Резонансная камера находится в том же состоянии, в котором ее оставили — разбитая и сломанная. Под ногами хрустят осколки кристаллов и синта, разбросанные на полу.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>Четыре механические ручки подвешены над центром устройства, над треснувшим, полупрозрачным кристаллом саркофага. Пятая ручка лежит разбитая на полу среди разбросанных осколков кристаллов и синта, а металлическое кольцо, окружающее ряд ручек, сломано и помято воронкой от вашего удара.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>Отойти от устройства.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>Проверить осколки на земле.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>Проверить подвешенные ручки.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>Проверить подвешенные ручки еще раз.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText>Осмотреть металлическое кольцо.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>14</ID>
+      <DefaultText>Осмотреть металлическое кольцо еще раз.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>15</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>16</ID>
+      <DefaultText>Вы чувствуете едва заметное сопротивление каждый раз, когда пересекаете кольцо, и обратив на это внимание, вы замечаете, что дыхание отдается эхом в ушах, как будто вы внутри стеклянного купола. Но когда вы выходите за пределы кольца, эти ощущения пропадают.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>17</ID>
+      <DefaultText>Вы встаете на колени, чтобы осмотреть сломанную секцию, и обращаете внимание на полевые излучатели, расположенные внутри. Они направлены во все стороны. 
+
+Кольцо установлено, чтобы защитить любого, кто находится внутри него. Но помимо этого оно также заключает в себе колоссальное количество энергии.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>18</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>19</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>21</ID>
+      <DefaultText>Провода от машин проложены вдоль стен купола к основанию подвешенных ручек, каждая из которых увенчана длинными иглами. Они направлены на расколотую, напоминающую гроб, камеру, установленную в центре платформы.
+
+На основаниях ручек тускло мерцают огни, похожие на драгоценные камни.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>22</ID>
+      <DefaultText>Иглообразные удлинители ручек блестят в слабом свете купола. Некоторые огни на основаниях ручек уже потухли.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>23</ID>
+      <DefaultText>Всплывают воспоминания, но они не ваши. 
+
+Солнечный свет падает сквозь неразбитый купол, отбрасывая короткие угловатые тени позади слуг, которые работают над сбором устройства, спроектированного вами и вашими помощником. Они работают идеально, ведь *они* тоже созданы вами.
+
+Все компоненты почти установлены. Кольцо для создания границ. Платформа для фокусировки. И...
+
+"Пять инжекторов. По одному для каждого Потока". За мгновение до того, как вы осознали, что воспоминания исчезли, вы говорили вслух.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>24</ID>
+      <DefaultText>Неровные фрагменты кристалла смешались с обломками синта из разбитого купола сверху. Осколки кристалла сверкают на свету как плененные солнца.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>25</ID>
+      <DefaultText>Слабый скрежет привлекает ваше внимание к двум кристаллическим осколкам, лежащим у ваших ног. Вы наблюдаете, как они мягко соприкасаются друг с другом и соединяются, их несопоставимые углы сливаются как вода.
+
+Через мгновение они снова разделяются, оставляя следы сияющих прожилок живого кристалла. Похоже, что резонансная камера *может* восстанавливать отдельные повреждения. Но не в том объеме, который остался после вас.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>26</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>27</ID>
+      <DefaultText>""</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>28</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>29</ID>
+      <DefaultText>На краю воронки вы обнаруживаете осколок кристалла — с одной стороны острый, как кинжал, и гладкий с другой. Его можно использовать в качестве простого оружия.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30</ID>
+      <DefaultText>Взять один из кристаллических осколков.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>31</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>32</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>33</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>34</ID>
+      <DefaultText>Поискать другие осколки, которые могут пригодиться.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>35</ID>
+      <DefaultText>Вы перебираете оставшиеся обломки кристалла, но они слишком малы или слишком громоздки и не подходят для использования.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>36</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>37</ID>
+      <DefaultText>Присмотреться к саркофагу.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>38</ID>
+      <DefaultText>Внимательнее присмотреться к саркофагу.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>39</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>40</ID>
+      <DefaultText>Мягкая внутренняя поверхность под треснувшей крышкой гроба выглядит так, будто сделана для человеческого тела. Несмотря на повреждения, непонятно, как поднять крышку и попасть внутрь. 
+
+Вы бросаете взгляд между саркофагом и иглообразными наконечниками ручек над ним. Создается впечатление, что использование этой камеры — не самое приятное занятие.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>41</ID>
+      <DefaultText>Возможно, это только ваше воображение, но кажется, что трещины в кристалле стали меньше, чем были до этого.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>42</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>43</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>44</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>45</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>46</ID>
+      <DefaultText>Кажется, кольцо создает какое-то поле, похожее на защитный купол вокруг саркофага.</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

@@ -1,0 +1,241 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\x_labyrinth\x6101_raima</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>45</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>Она смотрит на вас взглядом, полным бездумной ненависти,</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>и рычит, когда вы приближаетесь. Ее вера в то, что вы посланник ополчения Первой, непоколебима.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>Попытаться убедить Райму, что все, что она видит — иллюзия.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>Освободить ее от иллюзий с помощью Потоков.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>Отвернуться от Раймы.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>"Райма, это я! Мы с тобой и Андроном вернули мир в Миэль Авест".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>Она прищуривается на несколько мгновений. "Ты... Нет. Ты обманываешь меня... Ведь так?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>Райма сердится. "Меня не проведешь такой никчемной ложью. Умри!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText>Ударить Райму по лицу.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText>Вы бьете Райму по лицу, и она кричит в ярости так, что вы начинаете сомневаться в правильности своего поступка. Затем она моргает и удивленно оглядывается.
+
+Но сердитый взгляд возвращается, хоть теперь в нем блуждает сомнение.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>14</ID>
+      <DefaultText>Когда вы бьете Райму по щеке, вам приходит в голову, что воин ее уровня не стерпит подобное оскорбление. Вы понимаете, что правы, когда из ее ноздрей едва не вырывается дым.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>15</ID>
+      <DefaultText>Сосредоточиться на Райме и напомнить, что перед ней ненастоящая Бесконечная Битва.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>16</ID>
+      <DefaultText>Вы перечисляете несоответствия иллюзорного мира относительно настоящего, и Райма медленно успокаивается. Понемногу она расслабляет плечи, а вскоре опускает и руку с оружием.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>17</ID>
+      <DefaultText>Логичными доводами, похоже, не пробиться сквозь пелену гнева Раймы. Она снова готовится напасть.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>18</ID>
+      <DefaultText>Схватить Райму за плечи и трясти, пока она не опомнится.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>19</ID>
+      <DefaultText>Райма не успевает отстраниться, и вы хватаете ее за руки и энергично трясете. Она сразу хватается за оружие, но потом медлит. Вскоре ее взгляд становится яснее.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20</ID>
+      <DefaultText>Энергичная тряска только распаляет ее гнев: "Ты заплатишь за это, Предатель!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>23</ID>
+      <DefaultText>Вы прибегаете к силе Потоков. Энергия течет по вашему телу, причиняя вам боль, но смывает наваждение Раймы.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>25</ID>
+      <DefaultText>"Спасибо за мое спасение от иллюзии этого места".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>26</ID>
+      <DefaultText>Лицо Раймы искажает жуткая гримаса, и на мгновение вам кажется, что у вас ничего не вышло. Затем она опускает плечи, и ее взгляд проясняется.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>27</ID>
+      <DefaultText>"Что случилось?" — она оглядывается вокруг, узнавая вас и понимая, что происходит. "Ясно. Ну ты здесь вряд ли для того, чтобы спасать меня. Твоя помощь на Миэль Авесте была неоценима. Я помогу тебе всем, чем смогу".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>28</ID>
+      <DefaultText>Через некоторое время она узнает вас. "Что *ты* здесь делаешь? Я не... Что происходит?"
+
+Она говорит и постепенно исчезает, переносясь в другое место Лабиринта.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>29</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>31</ID>
+      <DefaultText>Вы снова попадаете под ее безумный взгляд, когда подходите, но в этот раз она прищуривается. Теперь у нее появились сомнения.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>33</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>34</ID>
+      <DefaultText>"Где я? Ты... Что со мной сделали? Я..."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>35</ID>
+      <DefaultText>"Убейте их! Сотрите с лица земли во имя нашего создателя!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>36</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>37</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>38</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>39</ID>
+      <DefaultText>Через некоторое время она узнает Последнего Отверженного. "Что *он* здесь делает? Я не... Что происходит?"
+
+Она говорит и постепенно исчезает, переносясь в другое место Лабиринта.</DefaultText>
+      <FemaleText>Через некоторое время она узнает Последнюю Отверженную. "Что *она* здесь делает? Я не... Что происходит?"
+
+Она говорит и постепенно исчезает, переносясь в другое место Лабиринта.</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>40</ID>
+      <DefaultText>Клинок, которую вы встретили на Миэль Авесте, похоже, вовсе не узнает вас, и смотрит с такой дикой злостью, словно вы ее заклятый враг. "Еще один? Слишком поздно. Предателям уже не помочь. Убейте его!"</DefaultText>
+      <FemaleText>Клинок, которую вы встретили на Миэль Авесте, похоже, вовсе не узнает вас, и смотрит с такой дикой злостью, словно вы ее заклятый враг. "Еще одна? Слишком поздно. Предателям уже не помочь. Убейте ее!"</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>42</ID>
+      <DefaultText>[Сдаться] "Я не дерусь со своими братьями и сестрами".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>43</ID>
+      <DefaultText>"Ты попала в иллюзию, Райма. Все, что ты видишь, нереально".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>44</ID>
+      <DefaultText>[Атака] "Если ты хочешь драки..."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>45</ID>
+      <DefaultText>"Ха! Предатель и трус. Мне тебя жаль". Не отрывая от вас взгляд, Райма нацеливает на вас свое оружие и стреляет.</DefaultText>
+      <FemaleText>"Ха! Предательница и трусиха. Мне тебя жаль". Не отрывая от вас взгляд, Райма нацеливает на вас свое оружие и стреляет.</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>46</ID>
+      <DefaultText>"Предатель, как и сама Первая. Мой разум чист, и я вижу тебя насквозь, мерзкий лгун".</DefaultText>
+      <FemaleText>"Предательница, как и сама Первая. Мой разум чист, и я вижу тебя насквозь, мерзкая лгунья".</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>47</ID>
+      <DefaultText>"Хватайте его, братья!"</DefaultText>
+      <FemaleText>"Хватайте ее, братья!"</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>48</ID>
+      <DefaultText>"Убейте их! Сотрите с лица земли во имя нашего создателя!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>49</ID>
+      <DefaultText>"Еще один лазутчик из войск Предателя! В атаку!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>50</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>51</ID>
+      <DefaultText>"Что случилось? Ты... Я знаю тебя с Миэль Авеста. Я помогу тебе всем, чем смогу".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>52</ID>
+      <DefaultText>"Как жаль, что нет другого способа освободить всех разом. Можно только драться со всеми".</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

@@ -1,0 +1,464 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\b_valleymielavest\b3101_bericael_brunna</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>89</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>Эта андрогинная женщина рассекает воздух с энергией ужасной силы. У нее небольшие, но крепкие руки и ноги, а ее тело словно состоит из острых углов. Она похожа на кинжал в человеческом обличье. Ее голова обрита, и на ней видна татуировка отверженной.
+ 
+ "Никогда не видела тебя раньше," — говорит она. "Я Берикаэль. Берикаэль Брунна". Она смотрит на утесы. "Как давно сознание вернулось к тебе? Давно ли он ушел? Из твоего тела, я имею в виду".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>Она вздыхает. "Он убьет нас всех, если ему представится шанс. Он хочет уничтожить нас. Думает, что так он сможет остановить Скорбь. Для него мы не его дети — скорее, сломанные клоны, побочные продукты. Он никогда не будет ущемлять свои интересы, потому что в его мире реален только он один".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>Она слегка улыбается. "Хороший ответ. Конечно, не мое это дело. С такой точки зрения не помешало бы выбирать более молодых. Обычно нужно лет десять или двадцать, чтобы мы загнулись".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>Она удивленно посматривает на вас. "О. Понятно. Ты последнее дитя. Пай — это командир армии Первой Отверженной, Милиши. Она приняла эту роль и теперь сдерживает войска нашего проклятого отца. Умная женщина. Сильная".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>"Он не присоединится к Пай, Берикаэль. Нет, я не хочу иметь с этим ничего общего".</DefaultText>
+      <FemaleText>"Она не присоединится к Пай, Берикаэль. Нет, я не хочу иметь с этим ничего общего".</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>"Что ты имеешь в виду? Как ты узнала, что я не Меняющийся Бог?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>"Не очень долго".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>"Не твое дело".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>Она сурово смотрит на вас, затем отворачивается и продолжает изучать долину. "Меняющийся Бог знает меня. Знает, что с ним случится, если я найду его воплощение. Поэтому ты — не он".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText>Он бормочет: "Я бы не был так уверен".
+ 
+ {ADAM: We should check this conditional's number to make sure it's appropriate}
+ {COLIN: This is really just a design flag so we remember to look}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>14</ID>
+      <DefaultText>Она прекращает смотреть на горизонт и начинает внимательно изучать Алигерна. Она постукивает пальцами по губам, затем ее внимание сосредотачивается на вас. Наконец она говорит: "Нет. Я уверена. Впрочем, думай как хочешь. Разницы нет".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>15</ID>
+      <DefaultText>Она кивает. "Ясно, что ты последнее дитя. Я участвовала в Бесконечной Битве, поэтому не слышала о тебе. Думаю, хотя бы один из нас должен поприветствовать тебя в нашем сообществе". Она слегка наклоняет голову.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>16</ID>
+      <DefaultText>"Мне не интересно заниматься вербовкой, Мэткина. Это не моя миссия". Она смотрит на Мэткину. "Ты все еще не можешь забыть Кольн? Все еще таишь злобу?"
+ 
+ Она смотрит на вас и указывает пальцем на Мэткину. "Люди, которых она так старалась спасти — они все мертвы. По естественным причинам". Она пожимает плечами: "Но ты же не можешь обижаться на «естественные причины»".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>17</ID>
+      <DefaultText>"Я начинаю вспоминать, почему оставила Миэль Авест".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>18</ID>
+      <DefaultText>"Начинаешь вспоминать, почему мы заставили тебя уйти". Она поворачивается к вам.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>19</ID>
+      <DefaultText>"Ладно. Я иду в Миэль Авест с посланием для Пай Реккен, но порталы заблокированы. Скорбь вновь охотится, и трусливые людишки запираются на все засовы. Пай получит послание позже. Мне нужно вернуться на Бесконечную Битву".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>21</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>22</ID>
+      <DefaultText>"Что трусливого в том, чтобы прогнать Скорбь из Миэль Авест?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>23</ID>
+      <DefaultText>"Не видела их здесь сотни лет. Но теперь они говорят, что нужно закрывать двери, как будто она ходит по улицам. Нужно сказать им, что если Скорбь захочет, она попадет внутрь. Невозможно остановить такую силу".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>24</ID>
+      <DefaultText>"Мы согласны с этим. Миэль Авест — ложная надежда".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>25</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>26</ID>
+      <DefaultText>Она кивает вашей сестре. "Ты всегда в этом разбиралась. Жаль, что ты не так разумна в остальном".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>27</ID>
+      <DefaultText>Она слегка улыбается. "Тебе не понравится. Множество таких, как мы, сидят и разговаривают. Спорят. Размышляют. Но ничего не делают".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>28</ID>
+      <DefaultText>Она слегка сжимает и кривит губы. "Тебе понравится. Сборище разъяренных изгоев, где все стараются перекричать друг друга".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>29</ID>
+      <DefaultText>Ее бесстрастный взгляд на мгновение останавливается на вас. Вы чувствуете, будто кто-то проник в задворки вашего сознания, она пожимает плечами.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30</ID>
+      <DefaultText>Она указывает: "Вот дорога к деревушке Кольн, но она разрушена. Кажется, другого пути через горы нет. Все равно. Я найду дорогу туда".
+ 
+ Она бросает на вас косой взгляд и ухмыляется: "Причем в ближайшее время".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>31</ID>
+      <DefaultText>"Убедишься, если тебе удастся туда попасть. Они специально себя там замуровали. Думаю, в отдалении от мира они хотят найти ответы". Она пожимает плечами. "У этого места безусловно есть свои преимущества. Но по большей части это просто подземное убежище. Смерть придет за всеми. В Миэль Авесте ожидание лишь продлевается".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>33</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>38</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>39</ID>
+      <DefaultText>"Мне казалось, Первая мертва".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>40</ID>
+      <DefaultText>"Какое у тебя к ней послание? Может быть, я смогу его передать".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>41</ID>
+      <DefaultText>"Это военная информация о Бесконечной Битве. Тебя не касается".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>42</ID>
+      <DefaultText>"Да. Пай сохранила имя в честь Первой. Она не искала славы. Кроме того, наш создатель поступил, как кэркер. Сражаться с ним — вот лучший выбор. Имя Первой напоминает нам о том, за что мы боремся".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>43</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>44</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>45</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>46</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>47</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>48</ID>
+      <DefaultText>Вместе с этим она делает большой шаг назад.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>49</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>50</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>51</ID>
+      <DefaultText>"Мне удалось побывать в Миэль Авесте. Пай уже ушла".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>52</ID>
+      <DefaultText>"Должно быть она отправится в Цветение". Берикаэль кривится. "Тогда сообщение подождет. Оно важное, но не *настолько*. Мне нужно вернуться на Бесконечную Битву".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>53</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>54</ID>
+      <DefaultText>Она пожимает плечами: "Делает нас сильнее. Быстрее. Смертоноснее. Заставляет преодолевать себя. Побуждает отбросить все ненужное и оставляет лишь блистательный опыт. Жить в мирное время скучно и бесполезно. Как будто смотришь через вуаль на жизнь, проходящую мимо. Война... вносит ясность в жизнь. Делает нас лучше. Если иметь это в виду, из Бесконечной Битвы можно извлечь пользу".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>55</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>56</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>57</ID>
+      <DefaultText>"Отсюда должен быть другой путь".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>58</ID>
+      <DefaultText>"Что, черт возьми, здесь произошло?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>59</ID>
+      <DefaultText>"Не могу поверить, что эти трусливые создания заперли дверь".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>60</ID>
+      <DefaultText>"Пайю придется подождать. Мне нужно вернуться на битву".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>61</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>62</ID>
+      <DefaultText>"Расскажи мне о Бесконечной Битве. Если она действительно бесконечная, зачем продолжать сражаться?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>63</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>64</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>65</ID>
+      <DefaultText>"Расскажи мне о Пайе Реккен".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>66</ID>
+      <DefaultText>"Расскажи мне о Пайе Реккен еще раз".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>68</ID>
+      <DefaultText>"Умная, способная, жесткая. Достойный командующий, сражающийся на стороне Первой в войне против Меняющегося Бога".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>69</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>70</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>71</ID>
+      <DefaultText>"Что ты можешь рассказать о Миэль Авесте?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>72</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>73</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>74</ID>
+      <DefaultText>"Как ты собираешься вернуться на Бесконечную Битву?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>75</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>76</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>77</ID>
+      <DefaultText>"Еще увидимся".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>78</ID>
+      <DefaultText>"У меня больше нет вопросов. Прощай".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>80</ID>
+      <DefaultText>"Нет, ты не сможешь. Я уже все облазила в этих дважды проклятых горах, но пути так и не нашла. Мне нужно найти другой путь из долины. *Приятно* было с тобой поболтать".
+ 
+ Ее тон заставляет вас усомниться в правдивости этого заявления.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>81</ID>
+      <DefaultText>"Хорошо".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>82</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>83</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>84</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>85</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>86</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>87</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>88</ID>
+      <DefaultText>"Подожди, не уходи. Позволь мне сначала задать еще несколько вопросов".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>89</ID>
+      <DefaultText>"Прощай".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>90</ID>
+      <DefaultText>"Мм".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>91</ID>
+      <DefaultText>В ее глазах видно еле скрываемое раздражение.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>92</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>93</ID>
+      <DefaultText>"Почему ты сражаешься против Меняющегося Бога?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>94</ID>
+      <DefaultText>"Можешь рассказать еще раз, почему ты сражаешься против Меняющегося Бога?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>95</ID>
+      <DefaultText>"Потому что его волнует лишь собственное спасение".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>96</ID>
+      <DefaultText>"Давай поговорим о чем-нибудь другом".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>97</ID>
+      <DefaultText>"Хорошо, но давай побыстрее, ладно? Мне нужно отсюда выбираться".</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

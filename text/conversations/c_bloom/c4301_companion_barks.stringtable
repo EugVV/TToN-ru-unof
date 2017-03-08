@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\c_bloom\c4301_companion_barks</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>18</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>"Хмм, *это* место и впрямь дает уродцам деньги".</DefaultText>
+      <FemaleText>"Хмм, *это* место и впрямь дает уродцам деньги".</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>"Мутанты как мутанты. Их шины тоже деньги".</DefaultText>
+      <FemaleText>"Мутанты как мутанты. Их шины тоже деньги".</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>"Пронзила Цветение, как стрела".</DefaultText>
+      <FemaleText>"Пронзила Цветение, как стрела".</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>"Жаль, что лишь ранила".</DefaultText>
+      <FemaleText>"Жаль, что лишь ранила".</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>"Если с помощью катены не удалось убить это место, что еще можно придумать?"</DefaultText>
+      <FemaleText>"Если с помощью катены не удалось убить это место, что еще можно придумать?"</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText>"Вот и лидер. Никогда не выходит из резервуара. Не может, насколько мне известно".</DefaultText>
+      <FemaleText>"Вот и лидер. Никогда не выходит из резервуара. Не может, насколько мне известно".</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>14</ID>
+      <DefaultText>"Говорят, что он смышленый старший сын холостяка. Смышленый для рыбы".</DefaultText>
+      <FemaleText>"Говорят, что он смышленый старший сын холостяка. Смышленый для рыбы".</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>15</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>16</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>17</ID>
+      <DefaultText>"Ты серьезно собираешься копаться там, как паук-мусорщик?"</DefaultText>
+      <FemaleText>"Ты серьезно собираешься копаться там, как паук-мусорщик?"</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>18</ID>
+      <DefaultText>"Милый мой, есть гораздо более приятные способы заработать. Тебе стоит поучиться на моем примере".</DefaultText>
+      <FemaleText>"Милый мой, есть гораздо более приятные способы заработать. Тебе стоит поучиться на моем примере".</FemaleText>
+    </Entry>
+  </Entries>
+</StringTableFile>

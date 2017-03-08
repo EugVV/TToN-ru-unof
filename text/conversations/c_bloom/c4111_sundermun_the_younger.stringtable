@@ -1,0 +1,289 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\c_bloom\c4111_sundermun_the_younger</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>55</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>0</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>"З-здравствуйте, господин! Вас… вас интересуют наши товары? Сплошь ручная работа и уникальные вещи!"</DefaultText>
+      <FemaleText>"З-здравствуйте, госпожа! Вас… вас интересуют наши товары? Сплошь ручная работа и уникальные вещи!"</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>"До свидания".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>"Меня интересуют твои товары".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>"Отлично! Вам нужно поговорить с моим старшим: торговлей на самом деле занимается он".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>"А, гм, до свидания!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>"Разве собирать цветоплоть не опасно?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>"Не очень. Люди боятся Цветения, только когда его не понимают", — он выпячивает грудь. — "Я прожил здесь всю жизнь, и со мной никогда ничего не случалось".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText>"Снова здравствуйте. Чем я могу вам помочь?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>14</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>15</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>16</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>17</ID>
+      <DefaultText>"Какого рода работу ты выполняешь?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>18</ID>
+      <DefaultText>"Расскажи мне про свою работу еще раз".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>19</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>23</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>24</ID>
+      <DefaultText>"Похоже, ты неплохо знаешь Цветение. Тут поблизости есть Пасти?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>25</ID>
+      <DefaultText>"Расскажи мне еще раз, какие Пасти есть поблизости".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>26</ID>
+      <DefaultText>"Что ты здесь продаешь?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>27</ID>
+      <DefaultText>"Возможно, вас заинтересуют уникальные фирменные изделия и доспехи, которые мы мастерим из цветоплоти. А еще мы продаем повседневные вещи вроде одежды или стройматериалов. У нас все покупают, даже…" — он вздрагивает. — "Даже мердены. Поговорите с моим старшим, если захотите что-нибудь купить".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>28</ID>
+      <DefaultText>"Разве не странно быть подмастерьем у самого себя, только постарше?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>29</ID>
+      <DefaultText>"Так он рассказал вам, да? Поначалу я решил, что старик рассказывает сказки, но теперь я ему верю: он знал обо мне так много, что не мог быть не кем иным, как старшим мной".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>34</ID>
+      <DefaultText>"Я подмастерье у Сандермана. Это значит, что я делаю все, о чем он попросит. В основном, собираю пригодную цветоплоть. Сбор плоти — это всегда приключение, хотя старший говорит, что скоро я уеду отсюда ради еще большего приключения", — он весело усмехается. — "Жду не дождусь".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>35</ID>
+      <DefaultText>"Как я уже говорил, я делаю все, о чем попросит Сандерман: режу и подготавливаю цветоплоть, крашу ее… и, когда нужно, собираю еще".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>37</ID>
+      <DefaultText>"Я точно знаю, что одна есть в Топи Хиургов, и уже очень давно. Говорят, еще одна есть в Старой темнице рабов, но я туда не хожу из-за мерденов, поэтому не могу сказать наверняка".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>38</ID>
+      <DefaultText>"По-прежнему ищете, да? Есть одна в Топи Хиургов, причем уже очень давно. Еще одна может быть в Старой темнице рабов, но своими глазами я ее не видел".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>46</ID>
+      <DefaultText>Этот дружелюбный на вид паренек макает полоски высушенной цветоплоти в краску. При вашем приближении он поднимает на вас поразительные желтые глаза — совсем как у его хозяина.
+
+"З-здравствуйте, господин! Вас… вас интересуют наши товары? Сплошь ручная работа и уникальные вещи!"</DefaultText>
+      <FemaleText>Этот дружелюбный на вид паренек макает полоски высушенной цветоплоти в краску. При вашем приближении он поднимает на вас поразительные желтые глаза — совсем как у его хозяина.
+
+"З-здравствуйте, госпожа! Вас… вас интересуют наши товары? Сплошь ручная работа и уникальные вещи!"</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>48</ID>
+      <DefaultText>"Но случится, юноша", — посмеивается старый торговец, стоящий рядом с подмастерьем. — "Случится".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>49</ID>
+      <DefaultText>"И каково это — знать, что тебя проглотит Пасть и ты окажешься в другом мире?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>50</ID>
+      <DefaultText>"Поначалу меня это пугало, но сейчас я думаю, что это здорово. Я ведь не только знаю, что меня ждет удивительное приключение, но и могу быть уверен, что выйду из него невредимым. Я вижу, что со мной произойдет в будущем, знаю свою судьбу, и это очень успокаивает. А что касается обучения, кто же может научить меня лучше меня самого?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>51</ID>
+      <DefaultText>"Ты чертовски похож на своего хозяина. Вы родственники?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>52</ID>
+      <DefaultText>"Хе, вы заметили? Поговорите лучше с ним — он получает огромное удовольствие, рассказывая об этом".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>53</ID>
+      <DefaultText>"Что произойдет, если — гипотетически, конечно, — я тебя убью?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>54</ID>
+      <DefaultText>"У-убьете меня?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>57</ID>
+      <DefaultText>"Старшая версия тебя просто исчезнет? Вся эта лавка канет в небытие? Или это невозможно будет сделать?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>59</ID>
+      <DefaultText>"Я… я не знаю. Я никогда прежде об этом не думал", — он пятится назад. — "Почему вы вообще задаете такие вопросы?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>62</ID>
+      <DefaultText>"Мне просто любопытно. Не волнуйся — я не собираюсь этого делать".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>63</ID>
+      <DefaultText>[Атака] "Извини, но как часто выдается возможность такое проверить?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>64</ID>
+      <DefaultText>Парень кричит, когда вы убиваете его, и Старший Сандерман, заорав от ужаса, поворачивается, чтобы защитить молодого себя.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>67</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>68</ID>
+      <DefaultText>"Я не хотел тебя напугать. Извини, что вообще об этом заговорил. Позволь спросить тебя кое о чем еще".</DefaultText>
+      <FemaleText>"Я не хотела тебя напугать. Извини, что вообще об этом заговорила. Позволь спросить тебя кое о чем еще".</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>69</ID>
+      <DefaultText>Этот дружелюбный на вид паренек макает полоски высушенной цветоплоти в краску. При вашем приближении он поднимает на вас поразительные желтые глаза.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>71</ID>
+      <DefaultText>Парень натужно смеется: "Ты вечно так говоришь, но не хочешь сказать когда".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>72</ID>
+      <DefaultText>"Если я скажу", — отвечает старик, — "ты можешь попытаться этого избежать".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>74</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>75</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>76</ID>
+      <DefaultText>"Да, я знаю", — он с трудом сглатывает и отодвигается от вас подальше.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>77</ID>
+      <DefaultText>"Э… конечно", — он отодвигается от вас чуть подальше и покрепче сжимает свой нож.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>78</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>79</ID>
+      <DefaultText>Старший Сандерман не успевает сделать и шагу. Глаза Младшего потухают, и старик исчезает вместе с прилавком и всем своим товаром. Остается лишь труп парня с желтыми глазами.
+
+А через секунду вы даже не помните, почему убили его или зачем остановились в этой части Цветения — здесь ведь ничего нет.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>80</ID>
+      <DefaultText>"Нет! Что ты…"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>81</ID>
+      <DefaultText>[КОРРЕКЦИЯ: Свернуть ему шею и посмотреть, что получится!]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>82</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

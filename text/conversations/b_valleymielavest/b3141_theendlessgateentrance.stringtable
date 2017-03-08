@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\b_valleymielavest\b3141_theendlessgateentrance</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>4</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>Невидимые пальцы снова тянут вас за одежду и липнут к коже. Войдя в портал, вы сможете выйти, только если найдете Того, кто закрыл портал.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>Войти в Бесконечные Врата</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>Отойти от Врат.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>Вас тянет хватка липнущих к коже невидимых пальцев. Они увлекают вас к порталу, жаждут жизни, текущей по вашим жилам, жаждут *удержать* вас здесь.
+
+Вас преследует дурное предчувствие, что, пройдя под вратами, вы не сможете выйти, если только не найдете Того, кто открыл врата.</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

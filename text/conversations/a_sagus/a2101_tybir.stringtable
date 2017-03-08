@@ -1,0 +1,996 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\a_sagus\a2101_tybir</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>184</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>Вдоль толпы вальяжно прохаживается располневший старый солдат. Но вы видите, что его самоуверенность на миг уступает место тревоге. Он переводит взгляд с казни на толпу, будто в поисках какого-то чуда. Затем его глаза встречаются с вашими.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>"Лично мне ничего не нужно. Но мой друг умирает там, на эшафоте. Кошмары, которыми напичкали его палачи, вырываются из него с каждым словом и обвивают его, словно змея".
+
+Он бросает взгляд на осужденного. "Сейчас на нем всего несколько петель, но через пару дней они выдавят из него жизнь. Я не могу представить более мучительную смерть".
+
+Он задумывается. "Впрочем, могу. Но лишь потому, что у меня чертовски живое воображение".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>"Лично мне ничего не нужно. Но мой друг умирает там, на эшафоте. Кошмары, которыми напичкали его палачи, вырываются из него с каждой фразой и опутывают его, словно змея".
+
+Он бросает взгляд на казнь. "Петли становятся все толще. Еще день... или два, — и они выдавят из него жизнь. Я не могу представить более мучительную смерть".
+
+Он задумывается. "Впрочем, могу. Но лишь потому, что у меня чертовски живое воображение".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>"Лично мне ничего не нужно. Но мой друг умирает там, на эшафоте. Кошмары, которыми напичкали его палачи, вырываются из него с каждой фразой и опутывают его, словно змея".
+
+Он бросает взгляд на казнь. "За три дня петли густо опутали его и сжимаются все сильнее. Сегодня они выдавят из него жизнь. Я не могу представить более мучительную смерть".
+
+Он задумывается. "Впрочем, могу. Но лишь потому, что у меня чертовски живое воображение".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>Старый солдат по-прежнему с тревогой ходит вдоль толпы. Когда он видит вас, его лицо светлеет: "А! Ты вернулся! Все-таки решил помочь?"</DefaultText>
+      <FemaleText>Старый солдат по-прежнему с тревогой ходит вдоль толпы. Когда он видит вас, его лицо светлеет: "А! Ты вернулась! Все-таки решила помочь?"</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>Старый солдат поднимает голову и останавливается: "Вот и ты, дружище! Удалось получить помилование?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>"Какая помощь тебе нужна?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>"Меня это не интересует".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>"Ладно, ладно. Не будь на кону человеческой жизни, я бы не стал тебя беспокоить".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>"Желаю удачи".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText>"Извини, я и вправду не могу помочь".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>14</ID>
+      <DefaultText>На месте казни нет никого, за исключением того старого солдата. Он смотрит на вас: "Ты смеешь показываться здесь? Его смерть на твоей совести, ясно? Неважно, в чем причина — в лени или забывчивости — но ты опоздал. Рис мертв".
+
+Он потрясает кулаком: "Я ни на минуту не останусь здесь, где мой друг умер из-за того, что я поверил незнакомцу!"
+
+Он плюет вам под ноги.</DefaultText>
+      <FemaleText>На месте казни нет никого, за исключением того старого солдата. Он смотрит на вас: "Ты смеешь показываться здесь? Его смерть на твоей совести, ясно? Неважно, в чем причина — в лени или забывчивости — но ты опоздал. Рис мертв".
+
+Он потрясает кулаком: "Я ни на минуту не останусь здесь, где мой друг умер из-за того, что я поверил незнакомке!"
+
+Он плюет вам под ноги.</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>15</ID>
+      <DefaultText>Он подходит вплотную к вам: "Требуется ловкость и готовность поставить справедливость над законом. Но его можно спасти, уж поверь мне!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>16</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>17</ID>
+      <DefaultText>"Нет. Мне пока не удалось получить помилование".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>18</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>19</ID>
+      <DefaultText>"Да. Помилование у меня".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20</ID>
+      <DefaultText>"Ты просто чудо, дружище! Дай его мне. Я сделаю копию и впишу имя Риса".
+
+Он берет у вас документ, достает чистый лист и тщательно, но быстро копирует слово за словом. Затем он вписывает имя 'Рис', подписывает бумагу, и дает копию вам.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>21</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>22</ID>
+      <DefaultText>"А почему требуется 'незнакомое лицо'?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>23</ID>
+      <DefaultText>"Потому что меня он уже знает. Я целую неделю ходил к нему и просил отпустить Риса, но все впустую". Он закатывает глаза: 
+
+"Нужно, чтобы это был человек, которого он не знает. Надеюсь, тебя он еще не видел".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>24</ID>
+      <DefaultText>"Ладно, ничего страшного. У нас есть еще как минимум два дня. Но не трать время попусту. Каждый миг этого кошмара оставляет шрам в душе бедняги Риса".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>25</ID>
+      <DefaultText>"Поспеши!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>26</ID>
+      <DefaultText>"Это подстава!" — рычит он с горящими от праведного гнева глазами. — "Бедняга понятия не имел, что было внутри!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>27</ID>
+      <DefaultText>"Если ты замешан в деле, почему тебя не схватили вместе с ним?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>28</ID>
+      <DefaultText>"Повезло", — пожимает он плечами. — "Когда они пришли за ним, я отходил по нужде. Вылез через заднее окно и затаился на крыше". 
+
+Он качает головой: "Из своего укрытия я видел, как уводят беднягу Риса. Поклялся, что освобожу его. И я надеюсь исполнить эту клятву".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>29</ID>
+      <DefaultText>"Хорошо, я тебе помогу".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30</ID>
+      <DefaultText>"Прости, я не могу тебе помочь".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>31</ID>
+      <DefaultText>"Когда ты добудешь помилование Кола, я скопирую его и впишу имя Риса. Ты передашь этот документ надзирателю, и он освободит парня. Как видишь, все просто!"
+
+Он потирает руки. "Вот что: если позволишь тебя сопровождать, я покажу тебе город и помогу с чем угодно — куда бы мы ни отправились. Что скажешь?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>32</ID>
+      <DefaultText>"Хорошо, помощь мне не помешает".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>33</ID>
+      <DefaultText>"Нет, спасибо. Я сам со всем разберусь".</DefaultText>
+      <FemaleText>"Нет, спасибо. Я сама со всем разберусь".</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>34</ID>
+      <DefaultText>"С радостью, но давай поспешим. Времени очень мало: Рис на грани смерти".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>35</ID>
+      <DefaultText>"Делай, как хочешь, но не трать время даром. Рису недолго осталось. Как только получишь документ, неси его мне. Есть вопросы?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>36</ID>
+      <DefaultText>"Имей совесть!" — восклицает он, не веря своим ушам. — "И ты сможешь уйдешь, зная, что в твоих силах спасти жизнь человека?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>37</ID>
+      <DefaultText>"Ладно, ты меня убедил".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>38</ID>
+      <DefaultText>"Без тени сожаления. Прощай".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>39</ID>
+      <DefaultText>"До новой встречи, друг мой".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>40</ID>
+      <DefaultText>"Прощай".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>42</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>43</ID>
+      <DefaultText>"Кто ты такой?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>44</ID>
+      <DefaultText>"Так кто же ты?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>45</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>46</ID>
+      <DefaultText>"А за что твоего друга приговорили к казни?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>47</ID>
+      <DefaultText>"За что, говоришь, казнят твоего друга?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>48</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>49</ID>
+      <DefaultText>"Какой план?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>50</ID>
+      <DefaultText>"Расскажи свой план еще раз".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>51</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>52</ID>
+      <DefaultText>"Почему ты хочешь помочь Рису?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>53</ID>
+      <DefaultText>"Напомни, почему ты хочешь помочь Рису".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>54</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>55</ID>
+      <DefaultText>"Отставной капитан Ланчан Тибир", — говорит он с легким поклоном. — "Когда-то солдат удачи, теперь ее игрушка". Он снова бросает взгляд на Риса: "Впрочем, мой рассказ подождет. Сначала надо спасти Риса".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>56</ID>
+      <DefaultText>"Отставной капитан Ланчан Тибир. Когда-то солдат. Теперь мастер по всякого рода случайным заработкам".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>57</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>58</ID>
+      <DefaultText>"Это недоразумение", — пренебрежительно машет он рукой. — "Нас с Рисом наняли доставить какое-то дорогое бренди чужеземному покупателю".
+
+Он вздыхает, и вздох этот полон горечи и сожаления. "Представляешь, бутылки были *напичканы* государственными секретами. Риса обвинили в продаже информации врагам Утесов Сагуса! Назвали его предателем!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>59</ID>
+      <DefaultText>"Его поймали с ящиком бренди, набитым государственными секретами. К сожалению, судья даже не выслушал его доводов".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>60</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>61</ID>
+      <DefaultText>"Нужен кто-то простой, но смелый и незнакомый. Слушай". 
+
+Он переходит на шепот: "Ты, как человек с хорошими манерами, переоденешься в городского служащего и попросишь секретаря Совета предоставить тебе документ об отмене какой-нибудь казни. Затем я изготовлю копию и впишу туда имя Риса. Покажем эту бумажку надсмотрщику, и Рис будет свободен".
+
+Он разводит свои руки. "Вот такой вот план. Безопасный и надежный".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>62</ID>
+      <DefaultText>"В роли городского чиновника ты добудешь старое помилование. Я его скопирую, а ты отдашь его надзирателю. Мы быстро освободим Риса. Если, конечно, ты не оплошаешь".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>63</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>64</ID>
+      <DefaultText>"А дружба для тебя недостаточная причина?" — заявляет он. Затем он поникает головой. "Хотя, по правде, это не все. В какой-то мере он из-за меня там оказался, а чувство вины неплохо мотивирует, понимаешь?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>65</ID>
+      <DefaultText>"Потому что он мой друг и попал в историю по моей вине".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>66</ID>
+      <DefaultText>"Смелее, дружище. Мы почти справились".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>67</ID>
+      <DefaultText>"Хорошо. Я не хочу тебя торопить, но времени почти не осталось. Если мы не спасем его до завтра, Рис лишится жизни. Не затягивай с его спасением".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>68</ID>
+      <DefaultText>"Ты едва успеваешь. Рис может погибнуть в любой момент. Принеси документ сегодня, иначе смерть бедняги будет на твоей совести".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>69</ID>
+      <DefaultText>"Удачи тебе, друг мой. Больше ты меня не увидишь".
+
+{SCRIPT: Walks off and despawns, but this is a lie. He will be waiting in the caravanserai.}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>70</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>71</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>72</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>73</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>74</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>75</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>76</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>77</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>78</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>79</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>80</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>81</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>82</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>84</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>85</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>86</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>87</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>88</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>89</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>92</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>93</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>94</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>95</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>96</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>97</ID>
+      <DefaultText>"Отлично! Итак, тебе понадобится легенда и жетон чиновника. К счастью, первое у меня есть. Второе можно купить на площади Правительства, у торговца одеждой по имени Санголин".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>98</ID>
+      <DefaultText>Он скрещивает руки на груди: "Когда получишь жетон, скажи секретарю Совета, что ты из комитета по судебному надзору. Мол, расследуешь коррупцию в делах, связанных со смертной казнью. Нам нужен приказ о помиловании известного бандита по имени Кол Карден, который был таинственным образом освобожден несколько лет назад".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>99</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>100</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>101</ID>
+      <DefaultText>"У меня есть еще несколько вопросов о Рисе".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>102</ID>
+      <DefaultText>"Конечно".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>103</ID>
+      <DefaultText>"Я хочу поговорить с твоим другом".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>104</ID>
+      <DefaultText>"Ты с ума сошел?" — вспыхивает Тибир. — "Это ведь казнь. Он окружен стражей, которая не допустит, чтобы ты его слышал. К тому же он все равно не в себе. Несет всякую чушь".</DefaultText>
+      <FemaleText>"Ты с ума сошла?" — вспыхивает Тибир. — "Это ведь казнь. Он окружен стражей, которая не допустит, чтобы ты его слышала. К тому же он все равно не в себе. Несет всякую чушь".</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>105</ID>
+      <DefaultText>"Хорошо, забудем об этом".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>106</ID>
+      <DefaultText>"Я все же хочу попытаться".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>107</ID>
+      <DefaultText>Тибир вздыхает с видимым облегчением: "Мудрое решение, друг мой. Не стоит злить стражу".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>108</ID>
+      <DefaultText>Тибир всплескивает руками: "Как знаешь, но я тебя предупреждал. Со стражей шутки плохи".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>109</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>110</ID>
+      <DefaultText>"Хорошо, я тебе помогу".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>111</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>112</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>113</ID>
+      <DefaultText>"Держись, Рис".
+
+{SCRIPT: Nodes 113,114, 115,116 play one after the other with short gaps between before the PC has their first conversation with Tybir.}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>114</ID>
+      <DefaultText>"Помощь близка".
+
+{SCRIPT: Nodes 113,114, 115,116 play one after the other with short gaps between before the PC has their first conversation with Tybir.}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>115</ID>
+      <DefaultText>"Я надеюсь".
+
+{SCRIPT: Nodes 113,114, 115,116 play one after the other with short gaps between before the PC has their first conversation with Tybir.}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>116</ID>
+      <DefaultText>"Вот ведь беда".
+
+{SCRIPT: Nodes 113,114, 115,116 play one after the other with short gaps between before the PC has their first conversation with Tybir.}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>117</ID>
+      <DefaultText>"Мне очень жаль, Рис".
+
+{SCRIPT: Nodes 117 and 118 play one after the other with short gaps between after the PC has their first conversation with Tybir, but only if the PC has not offered to help.}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>118</ID>
+      <DefaultText>"Время на исходе".
+
+{SCRIPT: Nodes 117 and 118 play one after the other with short gaps between after the PC has their first conversation with Tybir, but only if the PC has not offered to help.}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>119</ID>
+      <DefaultText>"Почему так быстро стемнело? Я что, пил?"
+
+{SCRIPT: Nodes 119, 120 and 121 play one after the other with short gaps between the first time the player gets near Tybir after day has switched to night.}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>120</ID>
+      <DefaultText>"Что ж, я *точно* знаю, что пил".
+
+{SCRIPT: Nodes 119, 120 and 121 play one after the other with short gaps between the first time the player gets near Tybir after day has switched to night.}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>121</ID>
+      <DefaultText>"Видимо, все дело в этом".
+
+{SCRIPT: Nodes 119, 120 and 121 play one after the other with short gaps between the first time the player gets near Tybir after day has switched to night.}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>122</ID>
+      <DefaultText>"А где тот парень?"
+
+{SCRIPT: Node 122 and 123 play after the player has agreed to help Tybir and before he has returned with the document.}</DefaultText>
+      <FemaleText>"А где та девушка?"
+
+{SCRIPT: Node 122 and 123 play after the player has agreed to help Tybir and before he has returned with the document.}</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>123</ID>
+      <DefaultText>"Времени почти не осталось".
+
+{SCRIPT: Node 122 and 123 play after the player has agreed to help Tybir and before he has returned with the document.}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>125</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>126</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>127</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>128</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>129</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>130</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>131</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>132</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>133</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>134</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>135</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>136</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>137</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>138</ID>
+      <DefaultText>"Я передумал и хочу, чтобы ты присоединился ко мне".</DefaultText>
+      <FemaleText>"Я передумала и хочу, чтобы ты присоединился ко мне".</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>139</ID>
+      <DefaultText>"Так-то лучше!" — восклицает он, просияв. — "Я готов идти куда угодно!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>141</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>142</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>144</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>145</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>147</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>148</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>149</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>150</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>151</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>152</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>153</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>154</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>156</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>157</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>158</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>159</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>160</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>161</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>162</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>163</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>164</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>166</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>167</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>168</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>170</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>171</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>172</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>175</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>176</ID>
+      <DefaultText>"На площади Правительства. Ищи возвышение рядом с башней Совета".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>177</ID>
+      <DefaultText>"А не проще ли будет обратиться с речью к толпе перед казнью? Убедить всех вступиться за Риса?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>178</ID>
+      <DefaultText>Тибир неодобрительно хмурится. 
+
+"Конечно, ты можешь попытаться, дружище, но без меня. Жители Утесов Сагуса отличаются кровожадностью, а палачи не блещут чувством юмора. Ты можешь сильно пожалеть, и когда это произойдет, я не хочу оказаться рядом".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>179</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>180</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>181</ID>
+      <DefaultText>"А где найти секретаря Совета?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>182</ID>
+      <DefaultText>"Где, говоришь, можно найти секретаря Совета?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>183</ID>
+      <DefaultText>"На площади Правительства, разумеется. Ищи возвышение рядом с башней Совета. Сколько я себя помню, он всегда сидит там".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>184</ID>
+      <DefaultText>"Мне кажется, это *чрезвычайно* рискованный план".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>185</ID>
+      <DefaultText>"Чепуха", — машет он рукой. — "Никакого риска. Ты только сохраняй спокойствие, излучай уверенность и победно улыбайся!"
+
+Он показывает, как надо победно улыбаться.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>186</ID>
+      <DefaultText>"Но ведь ты знал, верно?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>187</ID>
+      <DefaultText>"Это подстава!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>188</ID>
+      <DefaultText>"Знаешь", — произносит он, глядя куда-то над вашим плечом. — "Есть места, где можно говорить о важных вещах. Это не место к ним не относится".
+
+Он прочищает горло.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>189</ID>
+      <DefaultText>"Спасибо!" — произносит он с чувством, ударив своим жаждущим справедливости кулаком в ладонь.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>190</ID>
+      <DefaultText>"Вот, сейчас подсохнет — и неси его надзирателю к месту казни. Не волнуйся, он ничего не заподозрит. Уж поверь, подпись верховного судьи я скопировал безупречно!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>191</ID>
+      <DefaultText>"Это все, что мне хотелось знать. Но я хочу спросить еще кое о чем".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>192</ID>
+      <DefaultText>"Разумеется. Но тебе лучше поспешить. Парень долго не протянет".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>193</ID>
+      <DefaultText>"Ясно. Прощай".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>194</ID>
+      <DefaultText>"Слушай, мне кажется, для тебя справедливость — не пустой звук. Ты не откажешься помочь бедняге, которого осудили понапрасну?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>195</ID>
+      <DefaultText>"Когда добудешь помилование полковника, я скопирую его и впишу имя Риса. Ты передашь бумагу надзирателю, и он освободит парня. Как видишь, все просто!"
+
+Он слегка кланяется: "Буду рад сопровождать тебя. Я могу показать город и помочь в любых вопросах... но у тебя и без того много спутников. Если твоя команда поредеет, заходи — буду рад предложить свои непревзойденные таланты".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>196</ID>
+      <DefaultText>"Я бы с радостью, приятель, но вас уже слишком много. Обращайся, если освободится местечко для меня".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>197</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

@@ -1,0 +1,164 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\x_labyrinth\x6101_healing_well</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>30</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>Грани кристаллов мерцают в лунном свете, когда вы подходите к ним. Свет цвета морской волны исходит изнутри кристаллов, и его повторяющаяся медленная пульсация создает впечатление потрясающей ясности. Обманы лабиринта раскрываются перед вами, когда вы приближаетесь к кристаллам.
+
+К тому же вы чувствуете *мощь* энергии, рвущейся из них на свободу. Здесь есть сила, ее нужно только освободить.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>Кристаллы продолжают светить мягко, но постоянно. От близости к ним ваше восприятие лабиринта обостряется, и вы понимаете истину.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>Отойти от кристаллов.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>Разбить кристаллы, чтобы высвободить энергию.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>Еще раз попытаться высвободить энергию, разбив кристаллы.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText>Разбить хрупкие кристаллы.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>14</ID>
+      <DefaultText>Снова попытаться разбить хрупкие кристаллы.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>15</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>16</ID>
+      <DefaultText>Разбить жемчужину и высвободить из нее энергию.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>17</ID>
+      <DefaultText>Снова попытаться разбить жемчужину и высвободить из нее энергию.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20</ID>
+      <DefaultText>От удара поверхность кристалла покрывается тонкими паутинообразными трещинами. Пульсация продолжается, но кристалл не выдержит еще одного такого удара.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>21</ID>
+      <DefaultText>Кристаллы оказываются очень прочными. Чтобы чего-то добиться, придется ударить гораздо сильнее.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>22</ID>
+      <DefaultText>От следующего удара тонкие трещинки становятся огромными разломами.
+
+Вы просовываете в них пальцы и чувствуете холод кристалла. Вы упираетесь ногами в камень и тянете. С резким щелчком от кристалла отламывается небольшой кусок. На земле под ним лежит синяя жемчужина.
+
+Ее энергия давит на ваш мозг, *стремясь* вырваться наружу.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>23</ID>
+      <DefaultText>Еще удар, но никакого толку. На поверхности кристалла по-прежнему тонкие паутинообразные трещинки.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>24</ID>
+      <DefaultText>Вы давите ногой на жемчужину, пока она не лопается с хлюпающим звуком. Волна холодного света расходится во всех направлениях. На мгновение ваши слух и зрение обостряются. Такого вы еще никогда не испытывали.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>25</ID>
+      <DefaultText>Вы наступаете на нее, но ничего не происходит. Жемчужина невредима.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>27</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>28</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>29</ID>
+      <DefaultText>Изнутри кристалла исходит мерцающее свечение.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>31</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>32</ID>
+      <DefaultText>Внезапно все освобождаются от захвативших их иллюзий, и их сознания растворяются в Лабиринте.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>33</ID>
+      <DefaultText>Всех, кроме Раймы. Когда ее разум очищается, она узнает вас.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>34</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

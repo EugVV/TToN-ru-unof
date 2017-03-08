@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\b_valleymielavest\b3302_rubblechoke2_examine</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>2</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>Эта куча среди руин больше остальных, но это единственный способ избежать разрушения.</DefaultText>
+      <FemaleText>Эта куча среди руин больше остальных, но это единственный способ избежать разрушения.</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>Оставшаяся груда руин возвышается над раздробленной решеткой синтового трубопровода. Если вы хотите найти выход, то придется ее расчистить.</DefaultText>
+      <FemaleText>Оставшаяся груда руин возвышается над раздробленной решеткой синтового трубопровода. Если вы хотите найти выход, то придется ее расчистить.</FemaleText>
+    </Entry>
+  </Entries>
+</StringTableFile>

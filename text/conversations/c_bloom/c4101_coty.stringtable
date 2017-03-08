@@ -1,0 +1,919 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\c_bloom\c4101_coty</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>173</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>0</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>Юноша глубоко вздыхает, словно готовится к чему-то. Он смотрит вам прямо в глаза, и взгляд у него не совсем ясный, а решительный и бесчувственный, почти мертвый.
+
+"Что теперь?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>"Я... ну ладно", — Коти поворачивается и неуверенно уходит.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>"Тебе нашлась работа в святилище Чилы. Можешь приступать".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>"О. В святилище? Правда? Ну что ж, спасибо!" — Коти неуверенно удаляется, но походка его легче, чем во время вашей встречи.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>"Тебе нашлось место солдата Мемовиры". Глаза Коти снова мертвеют, но он прогоняет это выражение.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>Коти с ужасом смотрит на крепость Мемовиры. Глаза его снова мертвеют, но он прогоняет это выражение.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>"Тебе нашлось место ученика у Сандерманов. Можешь приступать".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>"А... Делать всякое из..." — Коти смотрит на плоть под ногами и вздрагивает. — "Ну да. Спасибо".
+
+Он неуверенно удаляется, но походка его легче, чем во время вашей встречи.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText>Коти молча смотрит на вас снизу вверх. Глаза его по-прежнему мертвы.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText>"Что будешь делать?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>14</ID>
+      <DefaultText>Коти вскидывает голову, явно удивленный вопросом. Потом пожимает плечами: "Что скажете, господин. Я теперь ваш".</DefaultText>
+      <FemaleText>Коти вскидывает голову, явно удивлённый вопросом. Потом пожимает плечами: "Что скажете, госпожа. Я теперь ваш".</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>16</ID>
+      <DefaultText>"Да... хорошо. Как скажете".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>17</ID>
+      <DefaultText>"Вернусь попозже".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>18</ID>
+      <DefaultText>Дать Коти эссенцию насилия: "Вот, выпей".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>19</ID>
+      <DefaultText>Коти смотрит на кружащуюся красно-черную жидкость, а потом на вас: "Ну что ж, ладно".
+
+Он медленно, по глотку выпивает эссенцию. Затем смотрит на пустую бутыль и говорит: "Я не..."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20</ID>
+      <DefaultText>"Что ты умеешь делать?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>23</ID>
+      <DefaultText>Коти морщится: "Разве что красть". Он призадумывается и добавляет: "Может, руками что-то делать могу?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>27</ID>
+      <DefaultText>"Украдешь для меня кое-что?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30</ID>
+      <DefaultText>"Драться умеешь? Убивать приходилось?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>31</ID>
+      <DefaultText>Коти качает головой: "Никогда не умел драться. И никого не убивал".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>32</ID>
+      <DefaultText>"Случайно убивал кого-нибудь?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>33</ID>
+      <DefaultText>Коти смотрит на что-то поодаль. Он будто не слышал вопроса, хоть вы и громко задали его.
+
+Потом Коти переводит взгляд на вас: "Так что мы будем делать?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>34</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>35</ID>
+      <DefaultText>Он едва слышно добавляет: "Не специально".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>36</ID>
+      <DefaultText>"Если рабы тут этим занимаются, то ладно... Так значит, это ваш приказ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>37</ID>
+      <DefaultText>"Есть задание."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>38</ID>
+      <DefaultText>Он терпеливо ждет.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>39</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>40</ID>
+      <DefaultText>Его рука чуть дрожит.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>41</ID>
+      <DefaultText>"Добудь мне шинов, полазь по карманам".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>42</ID>
+      <DefaultText>"Укради что-нибудь, да поценнее, у местных торговцев".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>43</ID>
+      <DefaultText>"Забудь. Есть кое-что другое".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>44</ID>
+      <DefaultText>Коти выдыхает, и только сейчас вы замечаете, что он сдерживал дыхание. "Да", — говорит он. — "Да, это я могу. Увидимся завтра тут же, и я отдам все, что удастся добыть. Если, конечно, не попадусь".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>45</ID>
+      <DefaultText>"Погоди, я передумал".</DefaultText>
+      <FemaleText>"Погоди, я передумала".</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>46</ID>
+      <DefaultText>"Хорошо. Увидимся завтра, здесь же".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>48</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>50</ID>
+      <DefaultText>"Ладно. Завтра отдам, что наберу".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>51</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>52</ID>
+      <DefaultText>Коти напрягается, но отвечает: "Ладно. Рискованное дело, но... делал я и похуже. Если не поймают, то завтра на этом же месте отдам вам то, что удастся добыть".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>53</ID>
+      <DefaultText>"Хорошо", — он снова морщится. — "Если не поймают, то завтра отдам, что удастся добыть".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>54</ID>
+      <DefaultText>"Я продал тебя Разливу, вон там. Иди с ним. С ней. С этой... штукой".</DefaultText>
+      <FemaleText>"Я продала тебя Разливу, вон там. Иди с ним. С ней. С этой... штукой".</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>55</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>56</ID>
+      <DefaultText>"Кое-кто в Малом Нилише сказал, что ты можешь покопаться в мусоре и найти там ценности. Сделаешь?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>57</ID>
+      <DefaultText>"Поищи ценности в Малом Нилише".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>58</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>59</ID>
+      <DefaultText>"Ну... да, наверное? Там ведь мутанты живут?" — Коти замолкает и призадумывается. — "В общем-то, не самый опасный приказ... Ладно, если что найду, то завтра принесу сюда же".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>60</ID>
+      <DefaultText>"Ладно. Завтра принесу, что удастся найти".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>63</ID>
+      <DefaultText>"Хочу освободить тебя".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>64</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>65</ID>
+      <DefaultText>"Как ты стал рабом?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>66</ID>
+      <DefaultText>"Напомни, как ты стал рабом?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>67</ID>
+      <DefaultText>"До завтра. Надеюсь".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>68</ID>
+      <DefaultText>"Привет, вот", — Коти осторожно оглядывается и высыпает вам на ладонь несколько шинов.
+
+{MONEY}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>69</ID>
+      <DefaultText>"Тогда я подожду здесь".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>70</ID>
+      <DefaultText>Коти нервно оглядывается: "Воровать тут *опасно*. Все начеку, и у всех оружие наготове. Уж я осторожно, да и то едва не попался".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>71</ID>
+      <DefaultText>Плечи Коти поникают, он хмурится: "Я весь день копался в мусоре, как вы сказали. Ничего не нашел. Ну, то есть, нашел, но ничего стоящего".
+
+"Кажется, я знаю, где искать дальше, но отправляться туда нужно поскорее. Один старый мутант сказал, что мусор часто переносят. Если подождать день или около того, то я могу попасть на кучу, которую уже перерыл, и даже не узнаю".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>72</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>73</ID>
+      <DefaultText>Коти выглядит усталым, но собранным: "Вчера тоже ничего не нашел, но, думаю, еще найду. Сегодня мне тоже туда идти, или есть другие дела?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>74</ID>
+      <DefaultText>Коти пружинит на пятках, когда вы подходите к нему: "Так я ничего и не нашел, но обязательно найду! Один старый мутант сказал, что, судя по моим находкам, в этом месте может оказаться кое-что *ценное*. Нужно только покопаться еще. Но, если хотите, я займусь другими делами".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>75</ID>
+      <DefaultText>Коти улыбается, глаза его триумфально сияют: "Если честно, то когда вы мне велели в мусоре копаться, я подумал, что это пустая трата времени. Думал, может, вы просто добрый... Но глядите-ка!" Он вручает вам что-то маленькое и вонючее.
+
+"Так какие планы на сегодня?"
+
+{LOOT}</DefaultText>
+      <FemaleText>Коти улыбается, глаза его триумфально сияют: "Если честно, то когда вы мне велели в мусоре копаться, я подумал, что это пустая трата времени. Думал, может, вы просто добрая... Но глядите-ка!" Он вручает вам что-то маленькое и вонючее.
+
+"Так какие планы на сегодня?"
+
+{LOOT}</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>76</ID>
+      <DefaultText>"Вот что нашлось. Надеюсь, сойдет. Дальше что?"
+
+{LOOT}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>77</ID>
+      <DefaultText>"Вот что нашлось. Надеюсь, сойдет. Дальше что?"
+
+{LOOT}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>78</ID>
+      <DefaultText>"Как твой хозяин, я отпускаю тебя. Ступай".</DefaultText>
+      <FemaleText>"Как твоя хозяйка, я отпускаю тебя. Ступай".</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>79</ID>
+      <DefaultText>"Что?" — по его лицу пробегает непонятная смесь эмоций. — "Почему? Я же... я преступник. Убийца. Меня нельзя отпускать".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>80</ID>
+      <DefaultText>Коти пожимает плечами: "Попался на краже. Разве тот зубастый торговец не рассказал?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>81</ID>
+      <DefaultText>"Неужто кража в Утесах Сагуса считается тяжким преступлением?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>82</ID>
+      <DefaultText>"Не знаю. Я хочу заработать себе свободу".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>83</ID>
+      <DefaultText>"Меня поймали на краже и обратили в рабство, чтобы заработать свободу".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>85</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>86</ID>
+      <DefaultText>"А что если я скормлю тебя Пасти? Умрешь ведь".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>87</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>89</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>90</ID>
+      <DefaultText>По лицу Коти пробегает тень страха, но лишь на мгновение. Затем взгляд его снова твердеет: "Значит, умру".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>91</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>92</ID>
+      <DefaultText>"Убийца? Ты же вроде как вор?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>93</ID>
+      <DefaultText>"Рабство омерзительно, и никто не должен быть рабом. Ступай. Ты свободен".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>94</ID>
+      <DefaultText>"Я"... — Коти отворачивается, но вы успеваете заметить в его глазах слезы. — "Я убил сестру".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>95</ID>
+      <DefaultText>"Мы маленькие были... И я все время над ней потешался. Глупо себя вел, но не хотел ей ничего плохого. А однажды..."
+
+Коти дважды с усилием сглатывает, и слова вдруг потоком льются из него: "Кассандра, значит, плавать не умела. Но воду любила. Каждый день плавала в порту на маленьком коракле. Я хотел ее напугать и сделал в лодке пробоину, а потом спрятался за камень и стал ждать, пока она придет. Но... я..."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>96</ID>
+      <DefaultText>Коти глядит под ноги, лица его не видно: "Я уснул. Проснулся от ее крика, но она была слишком далеко. Не успел я спасти ее..."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>97</ID>
+      <DefaultText>"То был несчастный случай. Ты уже достаточно наказал себя".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>98</ID>
+      <DefaultText>"Так что ты сказался убийцей. Понимаю".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>99</ID>
+      <DefaultText>"Почему бы не признаться в содеянном? Рабство — куда хуже того наказания, что дали бы тебе власти".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>100</ID>
+      <DefaultText>"Думаешь, рабство компенсирует то, что ты сделал?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>101</ID>
+      <DefaultText>"Я долго не сознавался. Десять лет скрывался и все хотел вырвать сердце, чтобы не чувствовать ни вины, ни боли", — Коти с силой сжимает кулаки.
+
+"Когда меня в третий раз поймали на краже, то сказали, что я уже взрослый, должен отвечать за свои поступки, и могу отправляться во взрослую тюрьму. И я подумал: а что значит быть взрослым и отвечать за поступки? А потом решил начать жить заново, но сперва поплатиться за то, что сделал".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>102</ID>
+      <DefaultText>"Мне рассказали о том, как люди добровольно становятся рабами, а Цветение решает, достойны ли они свободы. Вот и я решил, что так или иначе освобожусь".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>103</ID>
+      <DefaultText>"Я... не знаю".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>104</ID>
+      <DefaultText>Коти отчаянно мотает головой: "Мне было страшно. И чем дольше я тянул, тем страшнее становилось".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>105</ID>
+      <DefaultText>"Ты достаточно настрадался за свое преступление. Я освобождаю тебя".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>106</ID>
+      <DefaultText>"Смерть твоей сестры в прошлом. Она прожила жизнь, и я даю тебе свободу, чтобы ты прожил свою".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>107</ID>
+      <DefaultText>"Цветение — не бог. Я купил тебя и дарю тебе свободу".</DefaultText>
+      <FemaleText>"Цветение — не бог. Я купила тебя и дарю тебе свободу".</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>108</ID>
+      <DefaultText>"Уважаю твой выбор. Останешься моим рабом до решения Цветения или судьбы".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>109</ID>
+      <DefaultText>Коти прерывисто выдыхает и кивает.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>110</ID>
+      <DefaultText>"А. Ну что ж, ладно".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>111</ID>
+      <DefaultText>"Ну что ж, ладно".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>112</ID>
+      <DefaultText>"Не знаю. Ну да ладно".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>113</ID>
+      <DefaultText>"Но что же мне делать? Ведь я только и умею, что воровать. Опять в тюрьму попаду..."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>114</ID>
+      <DefaultText>"А что если я найду тебе работу?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>115</ID>
+      <DefaultText>"Что-нибудь придумаешь. Прощай".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>116</ID>
+      <DefaultText>"Какой ужас... Мне очень жаль".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>117</ID>
+      <DefaultText>Коти смиренно кивает.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>118</ID>
+      <DefaultText>Крик длится очень долго, меняя тональность, будто неземная погребальная песнь: сначала он высок и ужасен, потом снижается и начинает звучать как натужный боевой клич. И вот, наконец, крик прекращается. Коти задыхается и сжимает зубы.
+
+Он успокаивается и трясет головой, будто отгоняя дурной сон. Затем глядит на вас все теми же мертвыми, но уже не решительными глазами. Они холодны, будто у животного.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>119</ID>
+      <DefaultText>Коти глядит на крепость Мемовиры тем же ледяным взглядом.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>120</ID>
+      <DefaultText>"Да. Спасибо", — Коти решительно удаляется.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>124</ID>
+      <DefaultText>Коти глядит на существо и сжимает губы. "Хорошо", — он вздергивает подбородок и идет.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>125</ID>
+      <DefaultText>"Где-где? Там же мердены живут", — Коти качает головой. — "Нет. Нет, туда я не пойду".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>126</ID>
+      <DefaultText>"Мердены ушли. Все, что осталось — для пасти".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>127</ID>
+      <DefaultText>"Ты же раб, и, возможно, обречен на смерть. Какая разница, убьют ли тебя пасти или мердены?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>128</ID>
+      <DefaultText>"Я — твой хозяин, и ты *придешь* на встречу в старый рабский квартал".</DefaultText>
+      <FemaleText>"Я — твоя хозяйка, и ты *придёшь* на встречу в старый рабский квартал".</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>129</ID>
+      <DefaultText>"Хорошо. Тогда еще одно задание".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>130</ID>
+      <DefaultText>"Я хотел, чтобы Цветение решило мою судьбу, а не мердены. Я сделаю все, что вы скажете, но пока там эти твари, я туда ни ногой".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>131</ID>
+      <DefaultText>"Только если там нет мерденов. Что угодно сделаю, но только не это".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>132</ID>
+      <DefaultText>"Ага", — Коти озирается, будто стараясь все запомнить. "Ага", — повторяет он. — "Так значит все, да? Либо Цветение убьет меня, либо я свободен?"
+
+Не дожидаясь ответа, он бормочет про себя: "Свободен. Мертв или нет, но свободен". Затем он поднимает глаза на вас, будто только что понял, что разговаривал сам с собой: "Хорошо. Увидимся там".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>133</ID>
+      <DefaultText>"Нет!" — говорит она подходит к Коти. — "Мы найдем тебе работу, хорошую".
+
+{ROTHFUSS: Rhin's voice.}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>134</ID>
+      <DefaultText>"Ладно, ладно. Ты хочешь работу, Коти?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>135</ID>
+      <DefaultText>"Нет. Довольно. Коти, ты свободен".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>136</ID>
+      <DefaultText>"Продолжай работу. Встретимся тут завтра".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>137</ID>
+      <DefaultText>"Сделай кое-что другое".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>138</ID>
+      <DefaultText>"Хорошо. У меня есть еще несколько вопросов".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>139</ID>
+      <DefaultText>"Конечно. Какие?"</DefaultText>
+      <FemaleText>Not sure which line triggers this response. It is in Q&amp;A sheet, row 207.</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>140</ID>
+      <DefaultText>"Хорошо. Встретимся завтра здесь же. Надеюсь".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>141</ID>
+      <DefaultText>"Все ищу тебе работу, Коти. Вернусь, как найду".
+
+{SCRIPT: I added a check to see if CotyState = 1 so that this node won't show up after I've already secured a job for him. Please review.}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>142</ID>
+      <DefaultText>"Нет! Это глупый выбор. Отпусти его!"
+
+{ROTHFUSS: Rhin's voice.}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>143</ID>
+      <DefaultText>"Раз это так много значит для тебя, то... Коти, ты свободен".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>144</ID>
+      <DefaultText>"Прости, Рин. Коти сделал свой выбор, и я тоже".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>145</ID>
+      <DefaultText>Рин сжимает вам руку, и на лице у нее сияет улыбка.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>146</ID>
+      <DefaultText>"Что? Разве мы не освободим его?"
+
+{ROTHFUSS: Rhin's voice}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>147</ID>
+      <DefaultText>"Я не для этого заплатил за него столько денег. Коти, за работу".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>148</ID>
+      <DefaultText>"Одно маленькое поручение, а потом отпущу его".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>149</ID>
+      <DefaultText>"Ох, ну ладно уж. Коти, я освобождаю тебя".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>150</ID>
+      <DefaultText>(Ложь) "Одно маленькое поручение, а потом отпущу его".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>151</ID>
+      <DefaultText>Рин упрямо скрещивает руки: "Ладно! Но *попробуй только* не освободить его!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>154</ID>
+      <DefaultText>Коти с трудом сглатывает и произносит: "Ладно. Увидимся на месте".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>155</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>156</ID>
+      <DefaultText>"В старом рабском квартале нашлась пасть. Я хочу, чтобы ты открыл ее".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>157</ID>
+      <DefaultText>"Хочу, чтобы ты открыл пасть в старом рабском квартале".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>159</ID>
+      <DefaultText>"Опять?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>160</ID>
+      <DefaultText>"Если там мердены, то не пойду!" — мотает головой Коти.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>162</ID>
+      <DefaultText>"Что?!" — Рин хватает вас за руку, впиваясь в нее ногтями. — "Ты чудовище! Ты просто играешь с ним!"
+
+{ROTHFUSS: voice}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>163</ID>
+      <DefaultText>"Я опять передумал. Коти, идем".</DefaultText>
+      <FemaleText>"Я опять передумала. Коти, идём".</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>164</ID>
+      <DefaultText>"Ну и что? Коти? Иди в старый рабский квартал".
+
+{COLIN: This feels a little odd to me. You've just confirmed that you are a monster to Rhin. Maybe another abuse? Possibly make the previous one a moderate abuse as well?}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>165</ID>
+      <DefaultText>"Ладно! Не стану его заставлять".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>166</ID>
+      <DefaultText>Коти пожимает плечами, хотя видно, что они дрожат: "Ладно. Увидимся там".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>167</ID>
+      <DefaultText>Рин, скрестив руки на груди, отворачивается. Плечи ее дрожат.
+
+{ROTHFUSS: voice}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>168</ID>
+      <DefaultText>"Хочу, чтобы ты открыл пасть в Малом Нилише".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>169</ID>
+      <DefaultText>"Пасть?" — Коти сглатывает. — "Что ей нужно?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>170</ID>
+      <DefaultText>"Она питается виной".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>171</ID>
+      <DefaultText>"Она питается виной. По-моему, как раз такая тебе и нужна".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>172</ID>
+      <DefaultText>"Какая разница? Ты сам того хотел".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>173</ID>
+      <DefaultText>"Ну, в общем-то, да".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>174</ID>
+      <DefaultText>"Виной? То есть, забирает ее?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>176</ID>
+      <DefaultText>"Не знаю. Вот и посмотрим!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>177</ID>
+      <DefaultText>"Видимо, я буду жить вечно. Но почему я?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>179</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>180</ID>
+      <DefaultText>"Я Коти. Видать, я принадлежу вам".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>181</ID>
+      <DefaultText>""</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>182</ID>
+      <DefaultText>"Хорошо. Вот, кстати..."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>183</ID>
+      <DefaultText>"Неважно. Послушай-ка..."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>184</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>185</ID>
+      <DefaultText>Глаза Коти расширяются так, что становятся видны красные прожилки вокруг. Он дрожит, а потом испускает крик, от которого кровь стынет в жилах. Кажется, что от этого крика содрогается даже плоть Цветения.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>186</ID>
+      <DefaultText>"Точно?" — она выглядит взволнованной. — "Не нравится мне эта затея".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>187</ID>
+      <DefaultText>"Точно. Так будет лучше".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>188</ID>
+      <DefaultText>"Ты права, Рин. Нельзя так поступать".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>189</ID>
+      <DefaultText>Рин кивает с мягкой улыбкой.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>190</ID>
+      <DefaultText>Рин переплетает пальцы с вашими: "Ему будет очень хорошо. Спасибо!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>192</ID>
+      <DefaultText>"Я... Я в этот раз ничего не нашел. Простите".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>193</ID>
+      <DefaultText>"Мне это все неинтересно. Ты свободен, так что ступай".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>194</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>195</ID>
+      <DefaultText>"Тебе нашлась работа у Разлива, вон там. Иди с ним. С ней. С этой... штукой".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>196</ID>
+      <DefaultText>Он пожимает плечами: "Хорошо".</DefaultText>
+      <FemaleText>Он пожимает плечами: "Хорошо".</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>197</ID>
+      <DefaultText>"Один из стражей выслеживал меня. Думаю, что оторвался от него, но не уверен". Коти выглядит напуганным.  "Пожалуйста, не заставляй меня делать это снова. Стражи действительно наблюдают за торговцами".</DefaultText>
+      <FemaleText>"Один из стражей выслеживал меня. Думаю, что оторвался от него, но не уверен". Коти выглядит напуганным.  "Пожалуйста, не заставляй меня делать это снова. Стражи действительно наблюдают за торговцами".</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>198</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>199</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

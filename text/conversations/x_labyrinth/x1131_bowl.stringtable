@@ -1,0 +1,570 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\x_labyrinth\x1131_bowl</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>104</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>Вы изучаете пустую чашу перед собой, и беспорядочные мысли затуманивают ваш разум. С потолка падают капли, разбиваясь в мельчайшие брызги рядом с чашей. Свет от каждой капли отражается в круглой полости чаши, будто она *жаждет* наполниться светом и эта жажда *должна* быть утолена. Но чаша остается сухой.
+
+Еще одна капля падает с потолка и разбрызгивается по столбу. Впустую. 
+{SOUND: Dripping — continues until bowl is filled.}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>Аккуратно подвинуть чашу под капающую жидкость.
+
+{SOUND: Dripping — continues until bowl is filled.}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>Shove it over the puddle before any more liquid is wasted.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>Вы осторожно берете чашу, стараясь не касаться зазубрин на неровных краях. Глубоко вдохнув, вы подвигаете ее к сияющему озеру падающего света.
+{SOUND: Scraping}
+{SOUND: Drips stop.}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>Края чаши впиваются вам в кожу, как только вы берете ее. Стиснув зубы от боли, вы подвигаете чашу к сияющему озеру падающего света.
+{SOUND: Scraping}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>Watch the light grow.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>Волнистая поверхность чаши сияет своим собственным светом.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>Не подходить к чаше.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>Bank 10</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>Перевернуть чашу.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText>Попытаться перевернуть чашу еще раз.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>15</ID>
+      <DefaultText>Bank 15</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>16</ID>
+      <DefaultText>Touch the surface of the liquid. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>17</ID>
+      <DefaultText>Touch the surface of the liquid again. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>18</ID>
+      <DefaultText>Bank 18</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>19</ID>
+      <DefaultText>Touch the surface of the liquid. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20</ID>
+      <DefaultText>Touch the surface of the liquid again. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>27</ID>
+      <DefaultText>Bank 27</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>28</ID>
+      <DefaultText>Ripples bounce away from your finger, rebound against the edges of the bowl, and rush back, countless rings collapsing into a single point... 
+
+The conjoined light pierces your fingertip like a needle, racing up your veins, snapping across your tendons.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>29</ID>
+      <DefaultText>You touch your finger to the liquid again, and feel the ripples spread across the bowl and into you. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30</ID>
+      <DefaultText>Bank 30</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>31</ID>
+      <DefaultText>Ripples bounce away from your finger, rebound against the edges of the bowl, and rush back, countless rings collapsing into a single point... 
+
+The conjoined light pierces your fingertip like a needle, racing up your veins, snapping across your tendons.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>32</ID>
+      <DefaultText>You touch your finger to the liquid again, and feel the ripples spread across the bowl and into you. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>33</ID>
+      <DefaultText>Bank 33</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>34</ID>
+      <DefaultText>Коснувшись чаши, вы чувствуете странное напряжение в голове и вскоре понимаете, что эта чаша слишком тяжелая для передвижений. Даже после этой простой попытки у вас начинают болеть руки и пульсирует в висках.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>35</ID>
+      <DefaultText>Чаша такая же тяжелая, как и раньше, если не еще тяжелее. У вас не получается ее сдвинуть.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>36</ID>
+      <DefaultText>Яркий свет разливается по мозаичному полу, смывая падающие рядом тени, и вливается в ваш разум, смягчая острые края ваших разрозненных мыслей. Вы не исцелились — еще нет — но уже почувствовали, как восстанавливаетесь после падения с большой высоты.
+
+Чей-то голос зовет откуда-то сверху. Оттуда, куда не достает разливающийся свет.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>37</ID>
+      <DefaultText>Bank 37</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>38</ID>
+      <DefaultText>"Are you still there?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>39</ID>
+      <DefaultText>"Hello? Can you hear me?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>42</ID>
+      <DefaultText>Leave the bowl and explore the room.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>43</ID>
+      <DefaultText>Bank 43</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>44</ID>
+      <DefaultText>In the room's crushing silence, you hear the muffled hum of words being spoken far away. If the spectral voice is trying to speak to you, you cannot understand it.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>45</ID>
+      <DefaultText>The voice does not respond. You are alone down here once more. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>47</ID>
+      <DefaultText>Follow-up PQ. 47</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>48</ID>
+      <DefaultText>Осмотреть чашу.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>49</ID>
+      <DefaultText>Осмотреть чашу еще раз.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>50</ID>
+      <DefaultText>Follow-up T. 50</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>51</ID>
+      <DefaultText>Вы проводите пальцами по гладким чешуйкам, лежащим друг на друге, которые спиралью поднимаются со дна чаши. Острый зубчатый край чаши раздирает вашу кожу.
+
+Будет сложно передвинуть эту чашу, не порезав пальцы о ее края. Придется как следует попотеть.
+
+Отраженный свет расходится полосами по поверхности чаши каждый раз, когда еще одна капелька падает с потолка.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>52</ID>
+      <DefaultText>Гладкие чешуйки, лежащие друг на друге, жадно впиваются вам в кожу острыми краями. Каждая сияющая капля света, падающая с невидимого потолка, будто замедляется в гладкой глубине чаши.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>53</ID>
+      <DefaultText>Не подходить к чаше.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>54</ID>
+      <DefaultText>Вы осторожно обхватываете чашу, стараясь не касаться зазубрин неровного края. Глубоко вдохнув, вы подвигаете ее к сияющему озеру падающего света.
+{SOUND: Scraping}
+{SOUND: Drips stop.}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>55</ID>
+      <DefaultText>Вы берете чашу за обод, чувствуя зубчатые края, разрезающие вашу кожу. С огромным трудом вы подвигаете ее к сияющему озеру падающего света.
+{SOUND: Scraping}
+{SOUND: Drips stop.}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>56</ID>
+      <DefaultText>"Listen. The Sorrow is hunting us, and we are not strong enough to survive it a second time. Not as we are. This is a sanctuary deep within your mind, a place of healing, but you are hardly safer here than when you were falling to your death. Unless you regain a semblance of your former abilities - and soon - that nightmare will breach this fortress and devour us."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>57</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>58</ID>
+      <DefaultText>Try to remember how you got here.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>59</ID>
+      <DefaultText>Try once more to gather your memories.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>60</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>61</ID>
+      <DefaultText>You... fell. You remember falling towards the curve of the world. The ground leapt up to claim you. Impact. You should be dead.
+
+But if you are, there is no peace here. Your mind *aches*, and struggles to form simple thoughts. Blurring memories whirl past your inner eye like shards of broken glass. Your body feels sluggish. Clumsy.  
+
+Broken. 
+</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>62</ID>
+      <DefaultText>You fell, but did not die. You are alive, but not whole. 
+
+Another drop of calming light falls from the ceiling, scattering into gemlike beads on the floor.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>63</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>64</ID>
+      <DefaultText>"Эй? Ох, скист. Ты мертв что ли? {muttering to himself} Нет, так не должно быть. Если бы он был мертв, я бы тоже был мертв. {beat} Ты меня слышишь?"</DefaultText>
+      <FemaleText>"Эй? Ох, скист. Ты мертва что ли? {muttering to himself} Нет, так не должно быть. Если бы она была мертва, я бы тоже был мертв. {beat} Ты меня слышишь?"</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>65</ID>
+      <DefaultText>"Я слышу тебя!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>66</ID>
+      <DefaultText>"Кто вы такие?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>69</ID>
+      <DefaultText>"Я ничего не слышу. Ты точно здесь? Ладно, если ты слышишь меня, значит ты еще жив. {muttering to himself} Но ты уже знал это, так ведь? {louder, to the PC} Слушай, я просто хочу думать, что мы оба живы, и хочу, чтобы так и было, ладно?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>73</ID>
+      <DefaultText>"Я ЗДЕСЬ!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>77</ID>
+      <DefaultText>Кричать как можно громче.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>78</ID>
+      <DefaultText>Промолчать.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>80</ID>
+      <DefaultText>"Что это было? Я не могу сказать, что здесь на самом деле реально. Слушай, проложи *путь*. Тогда мы сможем вместе противостоять этим неприятностям, и ты будешь не один. *Я* буду не один".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>81</ID>
+      <DefaultText>"Ты что-то сказал? Это же был ты? Я не могу сказать. Это не имеет значения. Просто проложи *путь*. Тогда мы сможем вместе противостоять этим неприятностям, и ты будешь не один. *Я* буду не один".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>82</ID>
+      <DefaultText>"Мы здесь застряли. Эта штука отыщет нас в два счета".
+{Quieter, to himself, despondent}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>85</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>86</ID>
+      <DefaultText>"All right, then. How do I get my abilities back?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>87</ID>
+      <DefaultText>"Look around you. The fall did not only break your body, it scattered your memories to the corners of your broken mind." 
+
+Your companion is quieter than before, and there is a strange note in his voice. Helplessness? Frustration?</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>88</ID>
+      <DefaultText>Голос постепенно стихает, пока не становится совершенно неразборчивым. Наступает мертвая гнетущая тишина, которую нарушает только слабый гул новых столбов, поднимающихся из глубины.
+
+{SOUND: Voice fades (maybe done with SOUND fx?)}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>90</ID>
+      <DefaultText>"What is the Sorrow?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>91</ID>
+      <DefaultText>"For now, it is enough to know that it is raw, relentless hunger and it is seeking your life. If you are to have any hope of stopping it, you must remember some part of who you are, and find me!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>92</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>93</ID>
+      <DefaultText>"Who am I?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>94</ID>
+      <DefaultText>"Can you tell me anything about who I was?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>95</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>96</ID>
+      <DefaultText>"Don't ask me to summarize your life when that's the very thing at risk. Heal your mind, and your memories will follow, I promise you."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>97</ID>
+      <DefaultText>"Time is short." He seems to force levity into his voice. "Too short for such a long list of accomplishments."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>98</ID>
+      <DefaultText>For a long moment, ringing silence is your only response. Then, someone calls back to you from high above.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>99</ID>
+      <DefaultText>Вы... чувствуете. Вы вспоминаете падение с самого края мира. Земля поднялась, чтобы получить вас. Удар. Вы должны быть мертвы.
+
+Раз так, то это очень странная смерть. Здесь нет покоя, и ваш ум *страдает* от неимоверных усилий, которые приходится прикладывать для формирования простых мыслей.
+
+Это не похоже на смерть, но и ни на одну из известных вам форм жизни тоже не похоже.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>100</ID>
+      <DefaultText>For a long moment, ringing silence is your only response. Then, someone calls back to you from high above. His voice is tight with concern.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>101</ID>
+      <DefaultText>"It frightens me that you do not know, and more so that I cannot see where *you* are. Do you at least know my voice? Do you remember who I am... who *you* are?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>102</ID>
+      <DefaultText>"Please. I can't remember anything about who I am!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>103</ID>
+      <DefaultText>"Seek your memories. Claim any you find, breach their defenses, and relive them. If you face challenges, solve them in the way that comes most naturally to you. Your choices will describe you. They will resurrect facets of your buried knowledge."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>104</ID>
+      <DefaultText>Промолчать.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>105</ID>
+      <DefaultText>You wait only a moment before someone calls to you from high above.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>106</ID>
+      <DefaultText>"Are you alive? Can you recognize my voice? Do you remember who I am... who *you* are?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>107</ID>
+      <DefaultText>Say nothing.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>108</ID>
+      <DefaultText>{Chiding} "There is no need to hide from me, child. I *know* the creature has not broken us so badly that you cannot speak. The fact that we still exist is proof of that."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>109</ID>
+      <DefaultText>Чаша наполняется капля за каплей, и контуры вашего отражения играют рябью. Бледно-голубое свечение разливается по углам комнаты.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>111</ID>
+      <DefaultText>Ваши пальцы оставляют кровавые следы в жадной глубине чаши. Капля за каплей она наполняется, ваша кровь смешивается со светом, и даже воздух приобретает странный красноватый оттенок. Контуры вашего отражения играют рябью.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>112</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>113</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>114</ID>
+      <DefaultText>С потолка продолжают падать капли сверкающей жидкости, разбиваясь в мельчайшие брызги рядом с чашей.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>116</ID>
+      <DefaultText>If so, this is a strange death. There is no peace here, and your mind *aches*, struggling to form simple thoughts.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>117</ID>
+      <DefaultText>This doesn't seem like death, nor like any kind of life you recognize.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>118</ID>
+      <DefaultText>Do not respond.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>119</ID>
+      <DefaultText>"You are frightened. Of course, you don't even know who I am or where you are. Listen carefully then. The fall did not only break your body, it scattered your memories to the corners of your broken mind." 
+
+Your companion is quieter than before, and there is a strange note in his voice. Helplessness? Frustration? </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>120</ID>
+      <DefaultText>Кроваво-красный свет разливается по мозаичному полу, смывая расположенные рядом тени, и вливается в ваш разум, смягчая острые края ваших разрозненных мыслей. Вы не исцелились — еще нет — но уже почувствовали, как восстанавливаетесь после падения с большой высоты.
+
+Чей-то голос зовет откуда-то сверху. Оттуда, куда не достает разливающийся свет.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>121</ID>
+      <DefaultText>{Long pause} "Good! We are not so easily separated, you and I. That creature underestimated us!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>122</ID>
+      <DefaultText>"Who are you?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>123</ID>
+      <DefaultText>"A part of you and a friend. We will speak more when you escape."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>124</ID>
+      <DefaultText>"Где ты?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>125</ID>
+      <DefaultText>"А! Это *твой* разум! Держу пари, твои воспоминания там внизу. Найди их, и ты восстановишь путь ко мне. {beat} Ты... там? Тьфу, я разговариваю сам с собой".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>127</ID>
+      <DefaultText>"Итак, вот что ты должен сделать. Я не могу попасть к тебе, поэтому тебе нужно проложить дорогу ко мне... Я не знаю, как ты это сделаешь. Я имею в виду, это уже твои заботы. У меня нет карты".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>128</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>129</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>132</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>133</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

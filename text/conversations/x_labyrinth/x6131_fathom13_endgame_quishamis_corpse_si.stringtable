@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\x_labyrinth\x6131_fathom13_endgame_quishamis_corpse_si</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>19</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>Вы проводите пальцами по куче беспорядочно изогнутых кристаллических шипов. Это квишамис, и он уже некоторое время мертв.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>Квишамис лежит клубком из сломанных кристаллических конечностей, холодный и неподвижный.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>Поднести магматический аннулет ближе к трупу.
+{SCRIPT: Is this related to Node 239 of c4211_demeray_and_obervich? If so, we should probably talk about some changes to one of these conversations.}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>Уйти.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>Вновь открыв глаза, вы опять видите рядом с вами неподвижного квишамиса. Вы поднимаетесь, вздрагивая от предчувствия боли. 
+
+Но ничего нет, существо вас не тронуло. Наоборот, кровь из его ран, кажется, впиталась вам в кожу, укрепив ее. 
+{SCRIPT: Quishamis is dead again. Player gets back up.}
+{SCRIPT: This path disables the SI.}
+{SCRIPT: Player gets "crystalline armor fettle"}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText>Обыскать тело с целью найти что-нибудь полезное.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>14</ID>
+      <DefaultText>Вы углубляетесь во влажные, замерзшие внутренности квишамиса и находите инородный предмет с грубыми краями. Поворчав, вы достаете предмет, и внутри трупа что-то *щелкает*. 
+{LOOT}
+{SCRIPT: Player gets item from corpse.}
+{SCRIPT: This path disables the SI.}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>15</ID>
+      <DefaultText>Изломанный квишамис лежит тихо и неподвижно.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>16</ID>
+      <DefaultText>Вы осторожно протягиваете аннулет к изломанному телу квишамиса. Он сверкает в ваших руках ярким холодным светом. 
+
+Квишамис резко поднимается с пола, из его ран течет сверкающая кровь. Он опрокидывает вас на землю. Вы пристально смотрите на пульсирующее тело существа. Под его кристаллической кожей вихрями проносятся вызывающие головокружение сферические рисунки. Они сталкиваются, сливаются и взрываются. 
+
+У вас темнеет в глазах. 
+{SCRIPT: Quishamis gets up, player gets knocked down, quishamis stands over supine player.} 
+{SCRIPT: Fade out, fade in}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>17</ID>
+      <DefaultText>В ваших вещах что-то шевелится. Магматический аннулет слабо сияет.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>18</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>19</ID>
+      <DefaultText>Вы приближаетесь к трупу, и магматический аннулет в вашей сумке начинает шевелиться.</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>quests\c_bloom\quest_c4101_dracogens_price</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>19</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>0</ID>
+      <DefaultText>Цена Дракогена</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>Отправиться в торговый пост.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>Найти Пасть, ведущую в торговый пост.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>Войти в Вознесение и добыть магматический аннулет.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>Вернуться к Дракогену с магматическим аннулетом.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>Передать магматический аннулет</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>Отложенный платеж</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>Передать навигационный кортекс</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10000</ID>
+      <DefaultText>Дракоген пообещал отдать вам проектор сознания и помочь устроить встречу с Мемовирой, если вы принесете ему магматический аннулет из места под названием "Вознесение".</DefaultText>
+      <FemaleText>Дракоген пообещал отдать вам проектор сознания и помочь устроить встречу с Мемовирой, если вы принесете ему магматический аннулет из места под названием Вознесение.</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>10001</ID>
+      <DefaultText>Дракоген посоветовал идти по "маршруту каравана" из двора Мемовиры в торговый пост. Там должна быть Пасть, которая доставит в Вознесение.</DefaultText>
+      <FemaleText>Дракоген посоветовал идти по маршруту каравана из двора Мемовиры в торговый пост. Там должна быть Пасть, которая доставит в Вознесение.</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>10002</ID>
+      <DefaultText>Проводник Цветения Грислер рассказал, что туннель, который вел из старого торгового поста в Вознесение, заблокирован. Все Пасти в Цветении работают неправильно, поэтому вам остается лишь пытаться открывать различные Пасти в надежде, что одна из них приведет либо в торговый пост, либо в Вознесение.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10003</ID>
+      <DefaultText>Путь в Вознесение найден. Самое время добыть магматический аннулет.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10005</ID>
+      <DefaultText>Вы достали желаемое и путь открыт — осталось отнести магматический аннулет Дракогену.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10007</ID>
+      <DefaultText>Вы нашли магматический аннулет и отдали его Дракогену. Он сдержал слово и обеспечил вам встречу с Мемовирой.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10008</ID>
+      <DefaultText>Вернувшись к Дракогену с магматическим аннулетом, вы упросили его разрешить еще немного подержать аннулет у себя. Он весьма недвусмысленно намекнул, что несвоевременный возврат аннулета повлечет за собой последствия...</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10009</ID>
+      <DefaultText>Вы убедили Дракогена принять найденный вами навигационный кортекс вместо аннулета. В свою очередь он помог вам попасть к Мемовире, как и обещал.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30000</ID>
+      <DefaultText>Вы вернули кристаллический артефакт Дракогену.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30001</ID>
+      <DefaultText>Вы пообещали отдать кристаллический артефакт попозже.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30002</ID>
+      <DefaultText>Вместо кристаллического артефакта вы передали Дракогену навигационный кортекс.</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

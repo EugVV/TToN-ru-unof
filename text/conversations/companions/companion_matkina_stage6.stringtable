@@ -1,0 +1,198 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\companions\companion_matkina_stage6</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>38</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>{сердито}"Почему ты говоришь со мной? Разве у тебя не назначена встреча со Скорбью?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>"Передумал? Помощь нужна?"</DefaultText>
+      <FemaleText>"Передумала? Помощь нужна?"</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>"Ты хочешь снова присоединиться ко мне?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>Она смотрит на других компаньонов, и качает головой. "Слишком большая толпа на мой взгляд".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>"Убери кого-нибудь из группы, а затем спроси снова".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>"Вместо того, чтобы поджидать смерть в одиночку? Определенно".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>"По крайней мере, мы умрем все вместе".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText>"Не сейчас. До свидания".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText>"Тогда удачи тебе и всего наилучшего. Серьезно".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>14</ID>
+      <DefaultText>В ее глазах читается нетерпение.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>15</ID>
+      <DefaultText>"Расскажи о себе".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>16</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>17</ID>
+      <DefaultText>"Ты знаешь мою историю. Меня бросили, выгнали, и я вынуждена была встать на путь преступлений. Или, возможно, я выбрала такую жизнь". Она пожимает плечами. "Как бы то ни было. Ты нашел меня, показал мне лучший путь. Я буду с тобой до конца".</DefaultText>
+      <FemaleText>"Ты знаешь мою историю. Меня бросили, выгнали, и я вынуждена была встать на путь преступлений. Или, возможно, я выбрала такую жизнь". Она пожимает плечами. "Как бы то ни было. Ты нашла меня, показала мне лучший путь. Я буду с тобой до конца".</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>18</ID>
+      <DefaultText>Она приглушенно смеется. "Ты знаешь мою историю".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>19</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20</ID>
+      <DefaultText>Она пожимает плечами. "Ты видел это в Проекторе сознания Таша. Ты видел это здесь. Есть одна общая тема - предательство. Ты интересуешься, почему я так жестко обхожусь с людьми? Потому что я узнала, что им нельзя доверять. Это моя история".</DefaultText>
+      <FemaleText>Она пожимает плечами. "Ты видела это в Проекторе сознания Таша. Ты видела это здесь. Есть одна общая тема - предательство. Ты интересуешься, почему я так жестко обхожусь с людьми? Потому что я узнала, что им нельзя доверять. Это моя история".</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>21</ID>
+      <DefaultText>"Разочарование и предательство, брат. Это все".</DefaultText>
+      <FemaleText>«Разочарование и предательство, сестра. Это все".</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>22</ID>
+      <DefaultText>"Я снова хочу поговорить о тебе".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>23</ID>
+      <DefaultText>"Неужели? Что бы я ни сказала, сейчас это не будет иметь значения. Давай покончим с этим. Нам нужно найти наши ответы".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>24</ID>
+      <DefaultText>"Как у тебя дела?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>25</ID>
+      <DefaultText>"Быть достаточно сильными, чтобы дойти до конца. Я хочу увидеть, когда это все закончится".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>26</ID>
+      <DefaultText>"Поговорим о тех, с кем путешествуем".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>27</ID>
+      <DefaultText>Она оборачивается. "Они будут увязать достаточно долго. Возможно".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>28</ID>
+      <DefaultText>"Что будем делать дальше?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>29</ID>
+      <DefaultText>"Иди глубже. Найди наши ответы. Давай".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30</ID>
+      <DefaultText>"Подожди меня здесь".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>31</ID>
+      <DefaultText>"Подождать тебя?" Она оборачивается и вздыхает. "Я полагаю, *это* твое шоу, даже если я не понимаю его. Прекрасно".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>32</ID>
+      <DefaultText>"Удачи".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>33</ID>
+      <DefaultText>"Пойдем же".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>34</ID>
+      <DefaultText>"Я с тобой".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>35</ID>
+      <DefaultText>"Быть достаточно сильными, чтобы дойти до конца. Я хочу увидеть, когда это все закончится".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>36</ID>
+      <DefaultText>Она приглушенно смеется. "Ты шутить, правда? Ты ожидаешь, что я буду просто стоять здесь - где нет пути назад и нечего делать - ждать, пока ты решишь мою судьбу? Нет. Мы делаем это вместе".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>37</ID>
+      <DefaultText>"Пошли. Мне уже достаточно надоело это место".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>38</ID>
+      <DefaultText>"Просто сделаем это. Прежде чем один из нас пожалеет об этом".</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

@@ -1,0 +1,248 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\a_sagus\a2501_memovira_guard</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>46</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>Человек в кольчуге стоит напротив массивных деревянных ворот. Его руки скрещены на груди, а его ноги твердо стоят на земле. 
+
+"У тебя есть дело к Мемовире?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>"Нет".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>(Ложь) "Да".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>"Кто такая Мемовира?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>Он ворчит: "Тебе повезло, тогда".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>"Я не знаю тебя, друг. Это означает, что Мемовира тоже тебя не знает. И пока она не отдаст распоряжение, ты не войдешь в эти ворота. Вразумел?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>"Прощай".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>"Она начальница Цветения. Она заправляет здесь всем уже примерно десять лет. Я не могу точно сказать, что означает эта должность, но здесь всегда была Мемовира".
+
+Его глаза сужаются. "И если ты задаешь этот вопрос, у тебя нет с ней никаких дел".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>14</ID>
+      <DefaultText>"Опять вернулся? Что тебе нужно сейчас?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>15</ID>
+      <DefaultText>"У-гу".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>16</ID>
+      <DefaultText>"Дорога. Она проходит по склону утеса в направлении Цветения. Никто туда не пройдет, пока начальница не отдаст распоряжение".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>17</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>18</ID>
+      <DefaultText>"Что находится за дверью?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>19</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>21</ID>
+      <DefaultText>"Так ты из Утесов Сагуса?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>22</ID>
+      <DefaultText>"Родился на Краю Утеса. Дом, где я вырос, упал в море пару лет назад из-за стихусов... пусть Черная Тройка поимеет их в зад своими горящими членами". Он сплевывает. 
+
+"Я поступил на службу к Мемовире и служил пять лет в Цветении. Это чертово Цветение давит тебе на мозг. Шепчет тебе... говорит тебе делать какие-то вещи, может быть". Его глаза сияют. "Когда начальница узнала об этом, она отправила меня сюда".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>23</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>25</ID>
+      <DefaultText>"Что еще находится за дверью?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>26</ID>
+      <DefaultText>"Дорога. Она ведет к Цветению".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>27</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>28</ID>
+      <DefaultText>"Что представляет из себя Цветение на самом деле?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>29</ID>
+      <DefaultText>"Еще раз, что представляет собой Цветение?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30</ID>
+      <DefaultText>"Это монстр... вонючая опухоль размером с город... наполненная венами, кистой и волдырями, внутри которой повсюду ползают люди. Иногда они заползают в... Пасти". Его впалые глаза светятся, когда он произносит это слово. "Если ты дашь им то, что они хотят съесть, они отправят тебя в иной мир. Или нет, если они решат съесть тебя вместо этого".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>31</ID>
+      <DefaultText>"Это монстр, как я уже сказал. Огромная, вонючая опухоль размером с город, полный придурков, убийц и сумасшедших. Народ ползает в его кишках, а иногда они находят порталы в другие миры... или Цветение просто съедает их, если им не повезет".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>32</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>33</ID>
+      <DefaultText>"Кто такая Мемовира?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>34</ID>
+      <DefaultText>"Можешь ли ты мне рассказать что-нибудь еще о Мемовире?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>35</ID>
+      <DefaultText>"Еще раз, кто такая Мемовира?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>36</ID>
+      <DefaultText>"Начальница Цветения. Она руководит здесь всем примерно уже десять лет. Я не могу точно сказать, что означает эта должность, но Мемовира здесь была всегда".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>37</ID>
+      <DefaultText>"Никто не перечит ей. Даже Совет", — он пренебрежительно машет рукой в сторону прохожих. — "Все эти бедные работяги боятся ее, и это означает, что они боятся меня тоже. 'Иди работай на Мемовиру, сын,' — вот что говорил мне мой отец. 'Ты никогда ничего не достигнешь в этой жизни, если народ не будет тебя бояться'".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>38</ID>
+      <DefaultText>"Начальница Цветения. Она руководит здесь всем примерно уже десять лет. До этого, была другая Мемовира... какой-то высокомерный чувак, но наша начальница сбила с него спесь. Никто не помнит его имени...или других, которые были до него".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>39</ID>
+      <DefaultText>"Возможно, это тот случай, когда — не то время, не то место. Иногда такое случается".
+
+Он пожимает плечами. "Ты все еще жив. Ничего личного".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>40</ID>
+      <DefaultText>"Да. На меня напали несколько людей из ее банды. Они были одеты так же, как и ты".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>41</ID>
+      <DefaultText>"Несколько твоих друзей напали на меня в Рифе. Ты знаешь что-нибудь об этом?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>42</ID>
+      <DefaultText>"Вообще ничего. Мемовира не доверяет свои секреты таким слугам, как я. Возможно, это тот случай, когда — не то время, не то место".
+
+Он пожимает плечами. "Ты все еще жив. Ничего личного".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>43</ID>
+      <DefaultText>"Ты не знаешь кого-нибудь по имени Зеббак Юрулоу? Он работает на Мемовиру и его сын разыскивает его".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>44</ID>
+      <DefaultText>"Зеббак? Да... служили вместе с ним в Цветении. Я не видел его с того момента, как начальница отправила меня служить сюда. Не могу тебе сказать, где он сейчас".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>45</ID>
+      <DefaultText>"Я ищу высокую красивую женщину с перламутровыми волосами".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>46</ID>
+      <DefaultText>"Разве мы все не ищем ее?" — он фыркает. — "Этот томящийся от любви кэркер постоянно спрашивает меня о своей подружке и я постоянно говорю ему одну и ту же вещь. Я не видел никаких женщин с перламутровыми волосами. Правда состоит в том, если бы она на самом деле забрела сюда, она, скорее всего, остановилась бы в гостинице. Поэтому, если ты хочешь найти Мисс Пурпурные Волосы, вот с чего я бы начал".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>47</ID>
+      <DefaultText>Она незаметно шепчет вам: "Мемовира, которой *он* служит, даже плевка не стоит. Это зацикленная на деньгах аферистка. Вот прежний мемовира был живой проекцией Цветения".</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

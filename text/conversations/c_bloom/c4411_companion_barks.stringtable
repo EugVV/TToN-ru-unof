@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\c_bloom\c4411_companion_barks</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>21</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>"Нужна смелость, чтобы прийти сюда".</DefaultText>
+      <FemaleText>"Нужна смелость, чтобы прийти сюда".</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>"И другая одежда. Тьфу".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>"Если это Чрево, то я не уверен, что хочу по нему спускаться".</DefaultText>
+      <FemaleText>"Если это Чрево, то я не уверен, что хочу по нему спускаться".</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>"Невозможно предсказать, чем все обернется".</DefaultText>
+      <FemaleText>"Невозможно предсказать, чем все обернется".</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>"Не могу это переварить".</DefaultText>
+      <FemaleText>"Не могу это переварить".</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>"Будь я Цветением, то осмотрительнее бы выбирал свою еду".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>"Это то, что я думаю?"</DefaultText>
+      <FemaleText>"Это то, что я думаю?"</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>"Пахнет именно так".</DefaultText>
+      <FemaleText>"Пахнет именно так".</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText>"Надеюсь, от меня у него случится несварение".</DefaultText>
+      <FemaleText>"Надеюсь, от меня у него случится несварение".</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>14</ID>
+      <DefaultText>"Надеюсь, выбраться отсюда будет не сложнее, чем сюда попасть".</DefaultText>
+      <FemaleText>"Надеюсь, выбраться отсюда будет не сложнее, чем сюда попасть".</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>15</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>16</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>17</ID>
+      <DefaultText>"Вот этот размеры! Кто ж это носил?"</DefaultText>
+      <FemaleText>"Вот этот размеры! Кто ж это носил?"</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>18</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>19</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20</ID>
+      <DefaultText>"А кости там есть? Нет?"</DefaultText>
+      <FemaleText>"А кости там есть? Нет?"</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>21</ID>
+      <DefaultText>"Значит, мы вполне можем найти внизу голого великана".</DefaultText>
+      <FemaleText>"Значит, мы вполне можем найти внизу голого великана".</FemaleText>
+    </Entry>
+  </Entries>
+</StringTableFile>

@@ -1,0 +1,1014 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\x_labyrinth\x1511_lady_anshe</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>183</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>"Младший брат!" — голосисто говорит она, жестикулируя, как будто она устраивает мятеж в центре рыночной площади. — "Не ожидала увидеть тебя здесь!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>"Сегодня загруженный день, не так ли?" — говорит она, оглядываясь вокруг. — "Тебе нужны товары или улучшения? Ты здесь, чтобы отдохнуть? Что ни пожелаешь, обращайся ко мне".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>"Только погляди", — кричит женщина, будто она стоит посреди шумного рынка. — "Наш своенравный брат собственной персоной. Не ожидала увидеть здесь других отверженных, тем более *тебя*".
+
+{GAVIN: Test this sucker when the previewer's working again.}</DefaultText>
+      <FemaleText>"Только посмотри", — произносит женщина, разводя руками. — "Наша своенравная сестра собственной персоной".</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>Она протягивает худые руки. Между ее пальцами тонкой паутинкой пробегает металлическая нить с круглыми узелками, явно маскируемая под простое украшение. 
+
+"Меня зовут Анше", — говорит она. — "Госпожа Анше, но пусть это тебя не пугает. Нам не удалось толком побеседовать в Миэль Авесте, поэтому расскажу о себе — я продаю редкие нуменеры, предлагаю места для отдыха и спальные места по разумной цене. Также я могу улучшить экипировку твоих друзей, но это будет немного дороже".
+
+Он смотрит на вас оценивающим взглядом.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>Follow-up PQ. 11</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText>"Конечно", — говорит она. — "Смотри все, что хочешь".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText>"Конечно", — говорит она.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>14</ID>
+      <DefaultText>"Могу я взглянуть на нуменеры?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>15</ID>
+      <DefaultText>"Я хочу взглянуть на нуменеры еще раз".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>16</ID>
+      <DefaultText>Follow-up PQ. 16</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>17</ID>
+      <DefaultText>"Хорошо", — говорит она, — "Это будет стоить [Global: b3301_AnsheRestCost] шин". Она указывает на пустую площадку позади нее: "Занимай любую кровать".
+{MONEY}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>18</ID>
+      <DefaultText>"Что ж, у меня есть то, что ты ищешь", — говорит она. — "[Global: b3301_AnsheRestCost] шин за ночь".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>19</ID>
+      <DefaultText>"Конечно, бери".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20</ID>
+      <DefaultText>"У меня сейчас недостаточно денег".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>21</ID>
+      <DefaultText>"Жаль это слышать. Возвращайся, когда сможешь".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>22</ID>
+      <DefaultText>"Не бери в голову".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>23</ID>
+      <DefaultText>"Разумный шаг", — говорит она. — "Я тоже не лягу спать, пока не помогу. Слишком много дел, понимаешь?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>24</ID>
+      <DefaultText>"Нам нужно место для отдыха".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>25</ID>
+      <DefaultText>"Мы ищем место для отдыха".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>29</ID>
+      <DefaultText>"Как ты думаешь, где мы сейчас находимся?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30</ID>
+      <DefaultText>Она смеется, но вы успеваете распознать беспокойство. 
+
+"Все эти крошечные города, в которых я торгую, путаются в памяти", — говорит она, оглядываясь. — "Даже не запомнила названия на пути сюда. А ты?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>31</ID>
+      <DefaultText>"Открывать магазин в новом городе всегда трудно, независимо от количества раз", — говорит она, положив руки на бедра. — "Приятно хоть раз увидеть знакомое лицо".
+
+Она улыбается: "Я все так же продаю улучшения для твоих друзей и редчайшие нуменеры. Хочешь быть одним из моих первых покупателей?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>32</ID>
+      <DefaultText>"«Госпожа» Анше? Ты из королевской семьи?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>33</ID>
+      <DefaultText>"Ну", — говорит она. — "Чисто технически. Несколько лет назад я оказала услугу женщине, которая может создавать титулы из воздуха. Я ей *говорила*, что мне нужны только деньги, но она настояла".
+
+Она пожимает плечами. "Вот так я стала госпожой Анше. Это помогло мне пробиться через некоторые преграды, но я не особо кичусь".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>34</ID>
+      <DefaultText>Follow-up PQ. 34.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>35</ID>
+      <DefaultText>"Мое изобретение", — говорит она. — "Конечно, как и все, собрано из подручных материалов. Эти украшения странные, не в реальности, а, знаешь, в моей голове. Я использую их, чтобы мастерить и чинить очень маленькие вещи".
+
+Она опускает взгляд на свои руки. "Они со мной почти всю мою жизнь".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>36</ID>
+      <DefaultText>"Инструменты", — говорит она, пожимая плечами. — "Я использую их в повседневной работе".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>37</ID>
+      <DefaultText>"Что за провода у тебя на руках?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>38</ID>
+      <DefaultText>"Расскажи еще раз, что за провода у тебя на руках".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>40</ID>
+      <DefaultText>Follow-up PQ. 40</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>41</ID>
+      <DefaultText>"Разумеется", — говорит она, почесывая подбородок. — "Кому нужно выполнить работу?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>42</ID>
+      <DefaultText>"Конечно", — говорит она, складывая руки на бедра. — "Кому нужна работа?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>43</ID>
+      <DefaultText>"Алигерн".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>44</ID>
+      <DefaultText>"Время действительно пришло?" — ворчит Алигерн, глазея на изношенный механизм. — "Меня это радует".
+{ALIGERN}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>45</ID>
+      <DefaultText>"Займет не больше нескольких минут", — говорит Анше, водя по вам глазами. — "Я заштопаю дырки на пальто и жилете. И добавлю подкладку собственного изобретения. За все выйдет [Global: b3301_AnsheAligernUpgradeArmorCost] шин".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>46</ID>
+      <DefaultText>"Конечно", — отвечает она. — "[Global: b3301_AnsheAligernUpgradeArmorCost] шин и готово".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>47</ID>
+      <DefaultText>"Давай починим жилет и пальто Алигерна".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>48</ID>
+      <DefaultText>"Разумеется", — говорит она, поднимая руки. Узелки на ее ладони начинают испускать свет, который, образуя маленькие булавочки, устремляется к груди Алигерна.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>49</ID>
+      <DefaultText>Он с беспокойством наблюдает за их движениями, улучшающими его экипировку, но кивает вам.
+
+"Спасибо, малыш", — говорит он. — "Меня давно нужно было подлатать".
+{ALIGERN}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>50</ID>
+      <DefaultText>Через несколько минут она опускает руки. 
+
+"Все сделано", — говорит она. — "Кто следующий?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>51</ID>
+      <DefaultText>"Я не могу сейчас позволить себе эти улучшения".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>52</ID>
+      <DefaultText>"Как жаль", — говорит она. — "Может быть, позже? Я буду здесь!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>53</ID>
+      <DefaultText>"Давай поговорим об улучшениях для кого-нибудь другого".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>54</ID>
+      <DefaultText>"Так и быть. Кто?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>55</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>56</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>57</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>58</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>59</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>60</ID>
+      <DefaultText>"Эрритис".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>61</ID>
+      <DefaultText>"Прекрасная идея!" — говорит Эрритис. "Я подумывал немного улучшить мои доспехи! Сколько это будет стоить?"
+
+Он достает сильно скомканный лист бумаги из брюк и размахивает им перед вами и госпожой Анше, лучезарно улыбаясь. 
+
+Кажется, это кривоватый рисунок человека в сияющих доспехах. Оружие прикреплено к плечам, локтям и рукавицам цепями с захватами.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>62</ID>
+      <DefaultText>"Хмм", — отвечает Анше после долгого молчания. — "Я придумала кое-что менее смертельное для тебя и окружающих". Она хмурится, рассматривая броню вашего товарища. 
+
+"Я могу добавить... ну, скажем, разрезы на камзол и нижнюю рубашку. Точно, разрезы", — она складывает свои руки. "[Global: b3301_AnsheErritisUpgradeArmorCost] шин и мы в расчете".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>63</ID>
+      <DefaultText>"Хорошо", — говорит она. — "Что тебя интересует?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>64</ID>
+      <DefaultText>"Давай улучшим одежду Эрритиса".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>65</ID>
+      <DefaultText>"Ладно", — отвечает она, складывая вместе обмотанные проводами пальцы. — "Не дергайся, пожалуйста".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>66</ID>
+      <DefaultText>"Думаю, так тоже будет хорошо", — вздыхает он, но улыбается вам, когда нити из его одежды начинают двигаться сами по себе:
+
+"Спасибо, дружище".
+{ERRITIS}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>67</ID>
+      <DefaultText>Через несколько минут она хлопает ладонями: 
+
+"Сделано. Кто следующий?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>68</ID>
+      <DefaultText>"У меня сейчас нет денег на улучшение его одежды".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>69</ID>
+      <DefaultText>"Мэткина".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>70</ID>
+      <DefaultText>"Мне и так нравится моя одежда".
+{MATKINA}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>71</ID>
+      <DefaultText>"Хорошо", — говорит она, — "[Global: b3301_AnsheMatkinaUpgradeArmorCost] и можем начинать".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>72</ID>
+      <DefaultText>"Давай укрепим Мэткине кольчугу и подправим плащ".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>73</ID>
+      <DefaultText>"С радостью", — отвечает Анше, вращая пульсирующий узелок на большом пальце и протягивая руки к Мэткине.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>74</ID>
+      <DefaultText>Убийца подергивается и свирепо смотрит на вас, пока броня чинится сама по себе.
+
+"Если меня это убьет, я найду способ забрать тебя с собой", — она прикусывает губу. — "И спасибо. Благодарю тебя".
+{MATKINA}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>75</ID>
+      <DefaultText>Через несколько мгновений Анше строит гримасу и поднимает большие пальцы: 
+
+"Сделано. Кто следующий?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>76</ID>
+      <DefaultText>"У меня сейчас нет денег на улучшение одежды Мэткины".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>77</ID>
+      <DefaultText>"Рин".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>78</ID>
+      <DefaultText>"Я? У меня нет брони. Я вообще не хочу сражаться".
+{RHIN}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>79</ID>
+      <DefaultText>"Немного защиты не повредит", — говорит Анше, улыбаясь ей. — "Я могу немного изменить твою куртку и рубашку, и они защитят тебя в трудную минуту".
+
+Она смотрит на вас. "[Global: b3301_AnsheRhinUpgradeCloakCost] шин. Я вас не разочарую".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>80</ID>
+      <DefaultText>"Конечно", — отвечает она. "Что тебе нужно сделать?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>81</ID>
+      <DefaultText>"Давай улучшим одежду Рин".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>82</ID>
+      <DefaultText>"Хорошо", — говорит она, сжимая ладони. По краям сжатых ладоней проступает полоса теплой энергии.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>83</ID>
+      <DefaultText>"Чувствую себя очень странно", — говорит Рин, уставившись на шевелящуюся одежду. "Но не в худшем смысле этого слова!" Она нервно улыбается. "Спасибо".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>84</ID>
+      <DefaultText>Анше убирает руки, и они перестают сиять. 
+
+"Все готово", — говорит она. — "Кто следующий?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>85</ID>
+      <DefaultText>"У меня сейчас нет денег на улучшение одежды Рин".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>86</ID>
+      <DefaultText>"Давай поговорим об улучшениях для моих товарищей".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>87</ID>
+      <DefaultText>"Давай поговорим о тех улучшениях еще раз".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>88</ID>
+      <DefaultText>"Тибир".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>89</ID>
+      <DefaultText>"Отличное время", — говорит он. — "Я подумывал позолотить края".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>90</ID>
+      <DefaultText>"Возможно", — говорит она, разглядывая его рубашку и мантию. — "Я придумала кое-что другое. Может быть, изменить баланс. Небольшая работа. Будет стоить вам [Global: b3301_AnsheTybirUpgradeArmorCost] шин".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>91</ID>
+      <DefaultText>"Так и быть. Это обойдется тебе в [Global: b3301_AnsheTybirUpgradeArmorCost] шин?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>92</ID>
+      <DefaultText>"Нужно улучшить рубашку и мантию Тибира".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>93</ID>
+      <DefaultText>"Хорошо, будет сделано", — говорит она, качая кулак в сияющей ладони и бормоча что-то под нос. Светящаяся сфера расширяется.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>94</ID>
+      <DefaultText>Тибир вскидывает бровь, когда его броня начинает чиниться сама по себе.
+
+"Если в итоге я останусь голым, это только твоя вина. А если нет... спасибо".
+{TYBIR}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>95</ID>
+      <DefaultText>После нескольких минут Анше опускает кулак. 
+
+"Выполнено", — говорит она. — "Кто следующий?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>96</ID>
+      <DefaultText>"У меня сейчас нет денег на улучшение рубашки и мантии Тибира".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>97</ID>
+      <DefaultText>"На самом деле, они не со мной сейчас. Я вернусь с ними позже".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>98</ID>
+      <DefaultText>"Не беспокойся. Я хочу еще кое-что спросить".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>99</ID>
+      <DefaultText>"Без проблем", — говорит она. — "Что еще тебе нужно?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>100</ID>
+      <DefaultText>"Мне нужно идти. Береги себя".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>101</ID>
+      <DefaultText>"Ты тоже, брат".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>104</ID>
+      <DefaultText>"Я тоже, сестра", — говорит Анше. — "Но всегда есть место для небольших улучшений. Из небольших улучшений состоит жизнь".
+
+Она складывает руки, изучая Мэткину. "Кольчуга", — отвечает она наконец. — "Я могу ее усилить. И, может быть, добавить к плащу легкую броню. Будет стоить не больше [Global: b3301_AnsheMatkinaUpgradeArmorCost] шин".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>105</ID>
+      <DefaultText>"Анше, ты находишься в ловушке в моем сознании".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>106</ID>
+      <DefaultText>(Ложь) "Мне тоже непонятно".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>107</ID>
+      <DefaultText>(Ложь) "На самом деле, это притон. «Скользкий скальный червь».</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>108</ID>
+      <DefaultText>"Правда?" — произносит она, разглядывая вас. — "Я думаю, что бы они ни готовили, из этого можно получить немного больше".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>109</ID>
+      <DefaultText>"Это касается всех путешественников", — она протягивает руки. — "Я уйду, как только найму продавца, а сейчас нет смысла знать это, так ведь?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>110</ID>
+      <DefaultText>(Ложь) "На самом деле, это притон. «Скользкий скальный червь»".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>111</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>112</ID>
+      <DefaultText>"И *я* не знал, что вы об этом слышали", — говорит Тибир, уставившись на вас с большим уважением. "Заметь, я хожу только туда за их знаменитым рагу и проститутками, конечно же".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>113</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>114</ID>
+      <DefaultText>"Мне не обязательно тебе это говорить", — говорит она. — "Качество стоит денег. Любой, кто говорит иначе, собирается содрать с тебя вдвое больше, чем возьму я".
+
+Она хлопает ладонями, и ее украшения издают *звон*: "Итак. Что тебе нужно?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>115</ID>
+      <DefaultText>"Но ты ведь знаешь, что деньги нужно тратить", — говорит она с блеском в глазах. — "После смерти шины с собой не заберешь, верно?"
+
+Она хлопает ладонями, и ее украшения издают *звон*: "Итак. Что тебе нужно?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>116</ID>
+      <DefaultText>"Я не буду лгать", — спокойно говорит она. — "Я беру дорого, но честно, ведь я продлеваю жизнь твоим друзьям. Вот так просто".
+
+Она хлопает ладонями, и ее украшения издают *звон*: "Итак. Что тебе нужно?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>117</ID>
+      <DefaultText>"Взгляни на мой товар", — добавляет она тихо. — "У меня высокие цены, но ты создаешь впечатление человека, ценящего своих друзей. А моя работа обеспечит им безопасность".
+
+Она хлопает ладонями, и ее украшения издают *звон*: "Итак. Что тебе нужно?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>118</ID>
+      <DefaultText>"Не все могут позволить себе такие цены", — говорит она, — "но я думаю, тебе понравится то, что я предлагаю — качество, надежность и привлекательность. Нигде в Девятом Мире больше не найти такой тонкой работы".
+
+Она хлопает ладонями, и ее украшения издают *звон*: "Итак. Что тебе нужно?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>119</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>120</ID>
+      <DefaultText>"Каллистеж".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>121</ID>
+      <DefaultText>"Моей «экипировке» не требуется дальнейшее улучшение", — говорит она, складывая руки.
+{CALLISTEGE}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>122</ID>
+      <DefaultText>"Конечно же нет!" — исправляется Анше. — "Но кое-где может потребоваться ремонт. Без обид".
+
+Она окидывает профессиональным взглядом платье Каллистеж: "Пару швов тут и там. Может быть, немного подправить, где необходимо. Будет стоить не больше [Global: b3301_AnsheCallistegeUpgradeArmorCost] шин".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>123</ID>
+      <DefaultText>"Конечно", — отвечает она. "[Global: b3301_AnsheCallistegeUpgradeArmorCost] шин и я начну прямо сейчас".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>124</ID>
+      <DefaultText>"Давай поправим платье Каллистеж".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>125</ID>
+      <DefaultText>"Конечно", — говорит она, поднимая руку с танцующими пальцами. Между ними скользят ленты из света.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>126</ID>
+      <DefaultText>Она раскрывает руки, издавая многострадальный вздох, но награждает вас улыбкой: 
+
+"Я обычно выполняю мою собственную работу, дорогуша", — говорит она, задерживая дыхание, когда затягиваются швы. — "Такое обращение приветствуется".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>127</ID>
+      <DefaultText>Через несколько минут она опускает руки. 
+
+"Сделано", — говорит она. — "Кто еще?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>128</ID>
+      <DefaultText>"Я не могу сейчас позволить себе улучшение для нее".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>129</ID>
+      <DefaultText>"Обидно! Может быть, в другой раз".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>130</ID>
+      <DefaultText>"Давай поговорим об улучшениях для кого-нибудь другого".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>131</ID>
+      <DefaultText>"И? Кто?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>132</ID>
+      <DefaultText>Закончив, госпожа Анше опускает руки. 
+
+"Ну вот", — говорит она, улыбаясь. — "Тобой приобретены все мои улучшения. Спасибо за сотрудничество".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>134</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>135</ID>
+      <DefaultText>"Нет! Оставьте меня в покое, *стервятники*!"
+
+Лицо этой отверженной залито слезами и выражает скорбь и раскаяние. Она отчаянно размахивает руками, на которых видны украшения.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>136</ID>
+      <DefaultText>"Нет! Оставьте меня в покое, *стервятники*!"
+
+Госпожа Анше, отверженная с деловой хваткой из Миэль Авеста, отчаянно размахивает украшенными перстнями руками. Ее лицо залито слезами и выражает скорбь и раскаяние.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>137</ID>
+      <DefaultText>"Вы не оставите меня *ни с чем*!" — кричит она, отчаянно пытаясь схватить свое воображаемое богатство.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>138</ID>
+      <DefaultText>"Снова привет, брат! Что я могу сделать для человека, который избавил меня от самого большого страха?"</DefaultText>
+      <FemaleText>"Снова привет, сестра! Что я могу сделать для человека, который избавил меня от самого большого страха?"</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>139</ID>
+      <DefaultText>Сделав шаг ближе, вы замечаете уголком глаза отблески того, что она видит. Роскошные ткани, чудесные диковинки, дорогие устройства всех видов, которые кучей лежат перед ней... а также несколько теней, которые уносят все это от нее.
+
+Она пытается схватить свои сокровища, пока их не украли, но ее руки проходят сквозь них, как сквозь туман. "Пожалуйста", — плачет она. — "Я расплачусь. Мне просто нужно больше времени!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>140</ID>
+      <DefaultText>"Здесь ничего нет. Это все ненастоящее".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>141</ID>
+      <DefaultText>"Неважно, чего ты лишилась. Главное, что ты сохранила жизнь. Остальное всегда можно вернуть".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>142</ID>
+      <DefaultText>Оставить ее.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>143</ID>
+      <DefaultText>::всхлипывает::</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>144</ID>
+      <DefaultText>"Что?" — она мигает, и все тени и призраки рассеиваются.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>145</ID>
+      <DefaultText>Постепенно она начинает вас узнавать: "Маленький брат?"</DefaultText>
+      <FemaleText>Постепенно она начинает вас узнавать: "Маленькая сестра?"</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>146</ID>
+      <DefaultText>Скоро она замечает вашу татуировку: "Ты тоже отверженный?"</DefaultText>
+      <FemaleText>Скоро она замечает вашу татуировку: "Ты тоже отверженная?"</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>147</ID>
+      <DefaultText>"Какой кошмар! Мой бизнес потерпел крах — у меня забрали *все*", — она качает головой. — "Мне не стыдно признать, что это мой главный страх. Спасибо, что избавил меня от него. У меня такое чувство, будто я родилась заново".
+
+Она впервые оглядывается: "*Где* мы? Что за колдовство забросило нас сюда?"</DefaultText>
+      <FemaleText>"Какой кошмар! Мой бизнес потерпел крах — у меня забрали *все*", — она качает головой. — "Мне не стыдно признать, что это мой главный страх. Спасибо, что избавила меня от него. У меня такое чувство, будто я родилась заново".
+
+Она впервые оглядывается: "*Где* мы? Что за колдовство забросило нас сюда?"</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>151</ID>
+      <DefaultText>"Мне нужно идти. Береги себя".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>154</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>155</ID>
+      <DefaultText>"Можешь создать что-нибудь, что пригодится мне здесь?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>156</ID>
+      <DefaultText>"Могу я еще раз увидеть, что ты можешь сделать?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>157</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>158</ID>
+      <DefaultText>"Давай посмотрим!" — внезапно рядом с ней возникает несколько полезных предметов. Она улыбается. — "Бери, что нравится".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>159</ID>
+      <DefaultText>"Разумеется".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>160</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>161</ID>
+      <DefaultText>"Можешь сделать что-нибудь для моих спутников?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>162</ID>
+      <DefaultText>"Со мной несколько человек. Ты не могла бы сделать что-нибудь и для их одежды?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>163</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>167</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>168</ID>
+      <DefaultText>"Мне бы хотелось, чтобы ты сделала что-нибудь, что поможет отдохнуть".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>169</ID>
+      <DefaultText>"Мы можем снова 'отдохнуть' здесь?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>170</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>171</ID>
+      <DefaultText>"Почему нет, маленький брат? В реальном мире я управляла несколькими постоялыми дворами и придорожными тавернами. Возможно, будет достаточно, если я..."
+
+Она закрывает глаза — и ваши глаза тоже закрываются сами собой. Вы не спите, но по телу разливается теплый покой, восстанавливая ваши силы, будто вы выспались в лучшей гостинице Протектората Сагуса.</DefaultText>
+      <FemaleText>"Почему нет, маленькая сестра? В реальном мире я управляла несколькими постоялыми дворами и придорожными тавернами. Возможно, будет достаточно, если я..."
+
+Она закрывает глаза — и ваши глаза тоже закрываются сами собой. Вы не спите, но по телу разливается теплый покой, восстанавливая ваши силы, будто вы выспались в лучшей гостинице Протектората Сагуса.</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>172</ID>
+      <DefaultText>"Я тебе так многим обязана, а это мне ничего не стоит. Разумеется", — она закрывает глаза и сразу же теплый покой разливается по вашему телу, восстанавливая силы.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>173</ID>
+      <DefaultText>"Ты тоже, брат".</DefaultText>
+      <FemaleText>"Ты тоже, сестра".</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>174</ID>
+      <DefaultText>"Да, твоя правда. Вы слышите? Забирайте все, пиявки. Однажды я все это заработала — заработаю снова".
+
+Как только она это говорит, все тени и силуэты тают, как сон, и она приходит в себя.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>175</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>176</ID>
+      <DefaultText>"Это место называется Лабиринт. Что-то вроде психической конструкции".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>177</ID>
+      <DefaultText>"Мы в моем сознании. Резонансная камера нашего создателя привела нас сюда".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>178</ID>
+      <DefaultText>"Место снов и видений. Не знаю, *что* здесь настоящее".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>179</ID>
+      <DefaultText>"Неужели?" — ее глаза странно блестят. — "Возможно, ментальный ландшафт? Мы с тобой способны рассеять эти видения с помощью простой уверенности. Интересно, что если..."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>180</ID>
+      <DefaultText>Она протягивает украшенную перстнями руку и фокусирует на ней внимание. Внезапно над ее рукой появляются два вибрирующих кристаллических осколка, которые вращаются и испускают острый запах дерева.
+
+"Ха!" — восклицает она. — "Обожаю эти штучки. Я привезла их из Харефа. Простое украшение, но стоит дороже большинства других диковинок".
+
+Она хватает кристаллы и прячет в карман: "Похоже, это место позволяет мне делать куда больше, чем просто распугивать тени, да?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>181</ID>
+      <DefaultText>"Значит, здесь ты можешь создать что захочешь?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>182</ID>
+      <DefaultText>Она смотрит на руку и создает несколько различных фантастических предметов — некоторые вы видели в ее иллюзии. Но некоторые ей создать не удается: "Как видно, не все что захочу. Но некоторые могу. Не уверена, что понимаю, как это работает".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>183</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>184</ID>
+      <DefaultText>Она постукивает украшенным драгоценным перстнем пальцем по подбородку: "Знаешь, что?" — говорит она. — "В реальном мире я отлично разбираюсь в одежде и улучшениях для снаряжения. Что, если..."
+
+Она протягивает руки к вашей группе. Внезапно одежда вашего спутника начинает сверкать и преобразуется, став прочнее, чем была.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>185</ID>
+      <DefaultText>"Конечно!" — она снова протягивает руки и одежда вашего спутника сверкает и преображается.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>186</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>187</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>188</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>189</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>190</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>191</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>192</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>193</ID>
+      <DefaultText>"Разве это не чудесно?" — она смотрит на свои руки так, будто они покрыты золотом. — "Жаль, что я не могу создавать в этом виртуальном месте все свои товары".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>194</ID>
+      <DefaultText>"Просто чудо", — говорит она, разглядывая свои руки.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>195</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>196</ID>
+      <DefaultText>"Это мое!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>197</ID>
+      <DefaultText>"Вы знаете, как упорно я трудилась, чтобы заработать эти вещи?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>198</ID>
+      <DefaultText>"Ой, только не это!"</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

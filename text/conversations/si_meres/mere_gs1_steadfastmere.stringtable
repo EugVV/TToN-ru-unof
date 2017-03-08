@@ -1,0 +1,2514 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\si_meres\mere_gs1_steadfastmere</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>428</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>14</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>15</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>16</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>17</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>18</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>19</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>21</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>22</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>23</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>24</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>25</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>26</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>27</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>28</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>29</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>31</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>32</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>33</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>34</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>35</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>36</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>37</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>38</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>39</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>40</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>41</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>42</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>43</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>44</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>45</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>46</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>47</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>48</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>49</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>50</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>51</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>52</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>53</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>54</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>55</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>56</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>57</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>58</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>59</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>61</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>62</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>63</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>64</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>65</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>66</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>67</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>68</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>69</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>70</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>71</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>72</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>73</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>74</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>75</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>76</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>77</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>78</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>79</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>80</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>81</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>82</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>83</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>84</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>85</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>86</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>87</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>88</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>89</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>90</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>91</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>92</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>93</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>97</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>98</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>99</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>100</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>101</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>102</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>104</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>105</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>106</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>107</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>108</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>109</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>111</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>112</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>113</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>114</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>115</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>116</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>118</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>119</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>120</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>121</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>122</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>123</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>124</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>125</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>126</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>127</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>128</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>129</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>130</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>131</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>132</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>133</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>134</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>135</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>136</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>137</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>138</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>139</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>140</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>141</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>142</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>143</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>144</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>145</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>146</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>147</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>148</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>149</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>150</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>151</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>152</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>153</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>154</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>155</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>156</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>157</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>158</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>159</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>160</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>161</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>162</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>163</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>164</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>165</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>166</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>167</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>168</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>169</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>170</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>171</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>172</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>173</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>174</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>175</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>176</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>177</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>178</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>179</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>180</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>181</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>182</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>183</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>184</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>185</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>186</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>187</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>188</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>189</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>190</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>191</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>192</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>193</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>194</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>195</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>196</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>197</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>198</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>199</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>200</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>201</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>202</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>203</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>204</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>205</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>206</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>207</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>208</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>209</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>210</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>211</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>212</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>213</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>214</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>215</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>216</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>217</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>218</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>219</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>220</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>221</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>222</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>223</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>224</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>225</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>226</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>227</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>228</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>229</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>230</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>231</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>232</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>233</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>234</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>235</ID>
+      <DefaultText>Нано с густой бородой кричит на вас, остальные наблюдают. "Давай же, Викариан! Мы не можем позволить себе быть славными ребятами. Если мы вернемся с пустыми руками, Боронам придет конец!"
+
+Вы понимаете, что находитесь в пещере, напоминающей туннель, высотой в несколько этажей и длиной во много километров. Пещера выглядит так, словно какой-то исполинский червь выгрыз кусок твердой скалы. Вокруг вас к потолку поднимаются выстроившиеся в каре ржаво-красные колонны. На западе и востоке раскинулись другие руины. Сквозь длинную расселину сбоку, в северной стене пещеры, проникает свет и виднеется обширный каньон. 
+
+Согласно мимолетным воспоминаниям, напоминающая туннель пещера — это основной источник нуменер, и вы с товарищами должны собрать их столько, сколько сможете унести.
+
+{ART: Illustration MereGS1_01_VicariansParty}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>237</ID>
+      <DefaultText>Вы находитесь в женском теле, облаченном в крепкую броню. Женщина вооружена посохом с лезвиями, все ее тело покрывает геометрический узор из прожилок. Почему-то вам известно, что этот узор позволяет управлять гравитацией.
+
+Вы также знаете имена окружающих. Бородатого нано зовут Ашров. Вы узнаете Марит, молодую девушку-стрелка, Айома, разумного конструкта и Арксалина, варьелленского клинка. Его лицо схоже с мордой рептилии и кажется постоянно улыбающимся — даже сейчас, когда он лежит на полу, сжимая в руках собственные внутренности, а из его носа и рта течет черная жидкость. 
+
+"Я не предлагаю вернуться", — шипит Арксалин. — "Просто дайте мне закрыть глаза и немного передохнуть".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>238</ID>
+      <DefaultText>Посмотрите в пролом в стене пещеры.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>239</ID>
+      <DefaultText>Глядя в неровный пролом, вы видите каньон, стены которого круто обрываются вниз. Каньон настолько глубок, что лучи утреннего солнца не достигают его дна, и так широк, что вы едва можете различить его дальний край, застланный дымкой. Вы узнаете пропасть Войл, глубокое ущелье в дикой местности Малевик, которое здравомыслящие путешественники стараются обходить. 
+
+Вы убираете голову и, оглядев длинную пещеру, замечаете, что она слегка повышается к востоку, где находится вход. Пещера понижается к западу, и этот ее рукав вы еще не обследовали.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>240</ID>
+      <DefaultText>"Как ты подхватил эту заразу, Арксалин?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>241</ID>
+      <DefaultText>Варьеллен стонет. "Я не знаю. Может быть, от той штуки, которую мы с Ашровом нашли в кузнице. Кусок сияющего провода, от которого заработала половина моего снаряжения. Но когда я коснулся его, мне стало дурно, и я выбросил его. Видимо, одного прикосновения было достаточно. Теперь меня охватил жуткий жар, и я готов до дна выпить реку Садара".
+
+"Однако я не хочу вас задерживать. Я знаю, что от успеха нашего предприятия зависит многое. Просто дайте мне подремать минутку, пока не подействует успокаивающий корень и я не смогу снова идти".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>242</ID>
+      <DefaultText>"Не преувеличиваешь ли ты серьезность опасности, грозящей Боронам, Ашров?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>243</ID>
+      <DefaultText>Дюжий нано сердито смотрит на вас. "Стоило обратиться к наемнице, и вот к чему это привело! Мы наскребли последние шины по всем окрестностям, чтобы снарядить эту экспедицию, ведь ты обещала, что здесь можно собрать достаточно ценных артефактов, чтобы купить землю под Боронами и спасти это место от герцога Раска, который собрался устроить там зернохранилище. Если мы вернемся, проведя на месте всего один день, и принесем жалкую горсточку шифров, четыре тысячи человек потеряют свои дома. Мы — их последний шанс, Викариан. Не делай вид, будто не понимаешь".
+
+Он смотрит на лежащего Арксалина и отводит взгляд. "Я сожалею о том, что случилось с Арксом, но мы не можем позволить себе вернуться. Ему придется подождать, пока мы не заберем отсюда все, что сможем найти".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>244</ID>
+      <DefaultText>"Что ты хочешь сделать, Марит?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>245</ID>
+      <DefaultText>Она откашливается и смотрит из-под своего капюшона. Один глаз у нее белый с красной точкой — это имплантат-прицел; другой глаз — голубой, в точности как у Бэна, вашего покойного мужа. 
+
+Воспоминания возвращаются к вам. Марит — дочь Бэна, которая сбежала на улицу, когда вы с ее отцом стали жить вместе, и которую вы пытались вернуть все это время после его смерти. Месяц назад вам наконец удалось убедить ее, что присоединиться к вашей группе сборщиков отходов гораздо безопаснее, чем срезать кошельки. Она все еще своенравна, как рубар.
+
+"Я знаю, что мы обманем ожидания многих людей, если вернемся ни с чем", — говорит она. — "Но варьеллен наверняка умрет, если мы не найдем способ помочь ему, и мы можем стать следующими. Что если он заразен? Давайте доставим его домой, проверим его здоровье и вернемся".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>246</ID>
+      <DefaultText>Ашров смеется над ее предложением. "Пойти домой и потом вернуться? Девочка, почти все деньги, потраченные на эту экспедицию, мы отдали за проезд. Погонщик каравана, который ждет нас на мосту, берет плату за каждый километр! Нам придется снова собирать всю сумму, а у жителей Борон столько денег нет! Вы с матерью уже забрали все, что у них было!"
+
+"А что будет, если мы никогда не вернемся?" — спрашивает Марит. — "Если мы погибнем, Раска уже ничто не остановит, не так ли?"
+
+Она снова откашливается и смотрит на вас. "Ты здесь главная, Мама Ви, но если решишь устроить голосование, я за то, чтобы вернуться".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>247</ID>
+      <DefaultText>"Что ты думаешь об Арксалине, Айом?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>248</ID>
+      <DefaultText>Невнимательный наблюдатель, глядя издали, мог бы принять Айома за человека. Однако черты его лица неестественно правильные, кожа слишком гладкая, а движения чересчур плавные. А еще вам доводилось видеть, как он поднимает груз в десять раз тяжелее собственного веса.  Он отвечает, не делая ни одного лишнего движения и не моргая. "На мой взгляд, не имеет никакого значения, остаемся мы или уходим. В обоих случаях клинок Арксалин умрет раньше, чем получит медицинскую помощь. Его недуг зашел слишком далеко".
+
+Его схемы некоторое время обрабатывают информацию, затем он продолжает. "Разумеется, я последую твоему приказу, Вик, но ты действительно хочешь повернуть назад именно сейчас? Помнишь, ты говорила, что, получив плату за это предприятие, наконец сможешь вернуться в Утесы Сагуса?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>249</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>250</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>251</ID>
+      <DefaultText>"Мы оставим Арксалина и продолжим поиски. Спасение Борон гораздо важнее".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>252</ID>
+      <DefaultText>Вы не успеваете договорить, как далеко в глубине западного рукава туннеля раздается слабое эхо, словно что-то движется на расстоянии. Члены группы поворачивают головы в сторону звука, Арксалин нервно сглатывает. "Если вам все равно", — говорит он, — "я бы предпочел не оставаться здесь в одиночестве".
+
+"Если хочешь, я понесу тебя", — говорит Айом. — "Ты не помешаешь мне идти".
+
+Варьеллен смущенно кривится и пожимает плечами. "Хорошо. Считай меня балластом".
+
+Едва вы начинаете продвигаться дальше, Марит шмыгает носом и утирается рукавом. 
+
+"Ты не можешь вести себя потише?" Ашров рявкает. "Мы не знаем, что ожидает нас там!"
+
+"Прошу прощения", — бормочет она. — "Я сочувствую болезни Арксалина".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>253</ID>
+      <DefaultText>Через некоторое время вы входите в ущелье, забитое сломанными капсулами из синтестали. Айом останавливается и опускает Арксалина на землю. "Клинок мертв", — говорит он. — "У него остановилось сердце".
+
+Все смотрят на Арксалина. Он покрыт черной слизью, текущей из трещин на его чешуйчатой коже. Марит задыхается и прикрывает рот. "Я же не заразилась, нет? У людей и варьелленов нет общих болезней, ведь так?"
+
+"Я не уверен, что это вообще болезнь", — говорит Айом, обыскивая вещи Арксалина. — "Все произошло слишком быстро. Я..."
+
+Он замолкает и достает из сумки Арксалина свернутый кусок серебряной проволоки. Он покрыт маленькими металлическими штырьками. "Наверняка его убила именно эта штука".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>254</ID>
+      <DefaultText>"Ч-что это?" — спрашивает Марит. 
+
+Айом не торопится отвечать. Он явно погружен в раздумья. "Что-то вроде аккумулятора? Зарядное устройство? От него исходит энергия широкого диапазона и большой мощности, и некоторые ее виды могут быть опасны для органической материи. На самом деле вопрос в том, почему эта штука была у Арксалина. Он же сказал, что выбросил ее".
+
+Члены группы переглядываются, но сохраняют молчание.
+
+{ART: Vicarian Party B}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>255</ID>
+      <DefaultText>"Какое-то зарядное устройство? Мне кажется, именно *ты*, Айом, захотел бы взять такую вещь себе".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>256</ID>
+      <DefaultText>"Так и есть", — признает он. — "Но какой мне смысл сначала прятать ее, а потом делать вид, что нашел? Почему бы мне просто не оставить ее у себя?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>257</ID>
+      <DefaultText>"Ашров, не ты ли был с Арксом, когда он нашел эту вещь? Ты мог бы сунуть ее в его сумку, пока он не видел".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>258</ID>
+      <DefaultText>"Я велел ему избавиться от нее!" Он моргает, глядя на вас. "Ты всерьез считаешь, что я мог бы сделать что-то, угрожающее успеху нашего дела? От этого зависит участь всего, что я люблю".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>259</ID>
+      <DefaultText>"Марит, тебе известно что-нибудь об этом?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>260</ID>
+      <DefaultText>Едва Ашров собирается ответить, до вас доносится тот же зловещий грохот чего-то движущегося, который вы слышали раньше, только теперь звук ближе. Остальные тоже его слышат. 
+
+"Оно приближается", — говорит Марит. — "Пойдем".
+
+"Это именно то, о чем должен был позаботиться Арксалин", — ворчит Ашров. — "Считаю, что если мы все умрем, это будет вина Марит!"
+
+Айом смотрит на вас. "Какие планы, Вик?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>261</ID>
+      <DefaultText>Обратитесь к Марит.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>262</ID>
+      <DefaultText>Когда вы поворачиваетесь к ней, она всхлипывает и шмыгает носом. "Прости, Мама Ви. Я... Я все испортила".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>263</ID>
+      <DefaultText>"Зачем ты подсунула этот артефакт Арксалину?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>264</ID>
+      <DefaultText>Она в смущении опускает глаза. Ее коричневая кожа побледнела и стала влажной. "Когда Аркс коснулся этой... этой штуки, она явно не причиняла ему неудобств, в отличие от меня, поэтому я решила, что она не представляет для него опасности".
+
+Откашлявшись и шмыгнув носом, она вытирает глаза и продолжает. "Я спрятала ее, потому что... наверно потому что я просто не люблю делиться. Еще не привыкла к этому. Вот я и подумала, что спрячу какую-нибудь ценную штучку, чтобы потом продать ее и все такое, но тут я заболела и..." Она снова всхлипывает. "Я только разок дотронулась до нее! Эта штука убьет меня только потому, что я один раз потрогала ее? Это нечестно!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>265</ID>
+      <DefaultText>"Что, по-твоему, нам делать теперь?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>266</ID>
+      <DefaultText>Она вздрагивает. "Из-за этой штуковины мы все заболеем! Нужно избавиться от нее и возвращаться в Стиртхол, пока не стало еще хуже. Я... Я не хочу умирать. Ты обещала мне, что собирать хлам безопаснее, чем добывать пропитание на улице".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>267</ID>
+      <DefaultText>"Это случилось с тобой, потому что ты не следовала моим правилам. Делай, что я скажу, и будешь в безопасности".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>268</ID>
+      <DefaultText>"Ну хватит, хватит. Я же попросила прощения".
+
+Она отворачивается. Остальные смотрят на вас, ожидая ваших приказов.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>269</ID>
+      <DefaultText>Поговорить с Ашровом.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>270</ID>
+      <DefaultText>Он складывает руки. "Что?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>271</ID>
+      <DefaultText>"Мы же не собираемся перессориться из-за моей дочери?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>272</ID>
+      <DefaultText>Он бросает на Марит суровый взгляд. "Если бы она *не была* твоей дочерью, я бы уже сломал ей шею. Хотя теперь я догадываюсь, что это она убила нашего клинка, но она — ценность, которую мы не можем позволить себе потерять. Однако она не должна получить долю, когда мы вернемся, после случившегося это невозможно!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>273</ID>
+      <DefaultText>"Что нам делать с зарядным устройством?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>274</ID>
+      <DefaultText>"Бросим его в Войл, а вместе с ним — бедного Арксалина. Я знаю, звучит бесчеловечно, но это слишком опасно, из-за него мы можем заболеть. Мы не можем рисковать".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>275</ID>
+      <DefaultText>"Теперь мы в самой гуще событий, и драка между нами явно не сделает этот путь легче. Оставь Марит, пока мы не будем в безопасности".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>276</ID>
+      <DefaultText>"Хорошо. Пока мы не будем в безопасности. Но когда будем, нам нужно решить этот вопрос".
+
+Он скрещивает руки на груди и ждет ваших приказов.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>277</ID>
+      <DefaultText>Поговорить с Айомом.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>278</ID>
+      <DefaultText>Конструкт терпеливо ждет ваших указаний.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>279</ID>
+      <DefaultText>"Расскажи мне еще об этом артефакте".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>280</ID>
+      <DefaultText>Айом смотрит на провод. Кажется, что он не может отвести от него взгляд. "Вик, я помогал тебе рыться в отбросах все эти годы, потому что надеялся, что если мы обследуем много руин, я найду источник питания, совместимый с моей конструкцией. Мы никогда не находили его, и я уже начал думать, что я единственный экземпляр. Я думал, что когда мои батареи полностью разрядятся, я умру и никто меня никогда не перезарядит. Однако этот артефакт заряжает все. Я чувствую, что он восстанавливает мои силы даже сейчас. С ним я могу жить вечно, а без него я смертен".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>281</ID>
+      <DefaultText>"Что ты хочешь сделать?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>282</ID>
+      <DefaultText>"Я сделаю все, что ты скажешь, Вик — продолжу сопровождать тебя или вернусь в Стиртхол. Это не имеет значения. Но я хочу сохранить устройство. Это мое спасение". 
+
+Айом смотрит на вас. "Да, я знаю. Вам кажется, что устройство убило Арксалина и, возможно, из-за него заболела Марит, но это произошло только потому, что они дотронулись до него. Позволь мне сохранить его, и я буду держать его у себя. Обещаю".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>283</ID>
+      <DefaultText>"Было бы хорошо, если бы ты не находил эту вещь. Она пугает меня".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>284</ID>
+      <DefaultText>"Прости меня, Вик. Дай мне знать, что ты решишь сделать с устройством. Я жду твоих приказов".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>285</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>286</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>287</ID>
+      <DefaultText>"Сначала я хочу позаботиться о моей семье. Мы возвращаемся в Стиртхол, чтобы хирург осмотрел Марит. Айом, брось Арксалина в Войл".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>288</ID>
+      <DefaultText>Конструкт медлит, пока идет реакция его схем, затем кивает. "Отлично, Вик. Я положу устройство с Арксалином, чтобы сразу избавиться от него".
+
+Вы видите, как он засовывает Объятие за ремень Арксалина и несет Арксалина к расселине в стене туннеля. Он выходит на вечерний воздух и опускает руки, отпуская Арксалина. Варьеллен падает в пропасть. Айом склоняет голову. 
+
+Вы вместе с остальными следуете за ним. Проходит мгновение тишины, затем Айом отступает от пропасти и поворачивается к вам. 
+
+"Готово, Вик", — говорит он.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>289</ID>
+      <DefaultText>"Что ты наделал!" — кричит Ашров. "Марит при смерти, а теперь мы попали в эту проклятую богами яму. Я сброшу тебя *и* этот чертов артефакт в пропасть".
+
+Айом едва заметно меняет позу. Вы понимаете, что он готовится к атаке. "Если ты нападешь, я *убью* тебя".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>290</ID>
+      <DefaultText>"Подумай, Айом. Если ты возьмешь провод, все, кого ты встретишь, будут умирать. Это будет очень одинокая вечная жизнь".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>291</ID>
+      <DefaultText>Айом не отвечает так долго, что вы начинаете бояться, что он сломался. Наконец он подходит к расселине в стене туннеля и бросает зарядный провод в Войл. 
+
+Затем Айом оборачивается к вам. "Прости меня, Вик. Из-за страха я забыл, зачем нужна жизнь. Я готов служить тебе".
+
+Ашров облегченно вздыхает. "Спасибо, Айом. Благодарю тебя".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>292</ID>
+      <DefaultText>Пещера и Войл исчезают в золотом тумане, когда она сжимает вашу руку. Последнее, что вы слышите, когда покидаете Сознание и возвращаетесь в свое тело — это ее слова. 
+
+"Спасибо. Я думала, ты ненавидишь меня. Спасибо..."
+
+{END OF THE MERE}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>293</ID>
+      <DefaultText>Айом не отвечает так долго, что вы начинаете бояться, что он сломался. Наконец он качает головой. "Прости меня, Вик. Я больше боюсь смерти, чем одиночества. Я не могу отдать это".
+
+Он отступает на шаг. "Не пытайся остановить меня. Я не хочу причинять тебе еще больше боли после всего, что я сделал".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>294</ID>
+      <DefaultText>"Хорошо, Айом. Иди — и пусть призраки твоих будущих жертв всегда сопровождают тебя".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>295</ID>
+      <DefaultText>"Удачи, Вик". Айом возвращается к пропасти в стене туннеля и спускается в Войл, цепляясь за скалу своими мощными пальцами из синтестали. Затем он карабкается наверх и исчезает из виду наверху стены каньона.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>296</ID>
+      <DefaultText>"Думаю, ты без преувеличения спасла нам жизнь", — говорит Ашров, когда Айом исчезает. "Но из-за того, что ты его отпустила, может погибнуть еще много людей. Надеюсь, ты хотя бы планируешь завершить нашу миссию".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>297</ID>
+      <DefaultText>Ашров прав. Атаковать Айома и сбросить его в пропасть.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>298</ID>
+      <DefaultText>Вы с криком бросаетесь вперед. Придя вам на помощь, Ашров выпускает энергетические залпы зеленого огня из имплантатов на пальцах рук, а Марит пытается поднять свое лучевое оружие и нацелить его на Айома.
+
+Конструкт с пугающей скоростью отклоняется, отрывает тяжелые куски кладки и держит их в руках. Куски настолько большие, что при ударе могут проломить грудную клетку. Он может убить Марит и Ашрова одним броском, попав в них камнями из обеих рук.
+
+{ART: Illustration MereGS1_05_AttackingIom}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>299</ID>
+      <DefaultText>Атаковать Айома и отвлечь его внимание.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>300</ID>
+      <DefaultText>Вы бросаетесь в сторону Айома, размахивая посохом с двумя лезвиями и крича во всю мощь легких.
+
+Он реагирует так, как вы и ожидали, бросив оба куска кладки в вас и позволив Марит и Ашрову открыть по нему смертельный перекрестный огонь. Но вы тоже пострадали. Один из снарядов Айома врезается в ваше тело как метеор, разбивая грудную клетку и разрушая сердце. Вы падаете на землю рядом с Марит. Айом опускается на землю тут же, его схемы издают шипение, голова дымится. 
+
+"Прости меня, Вик", — говорит Айом. "Я..."
+
+Он умирает, и вы знаете, что через несколько секунд последуете за ним.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>301</ID>
+      <DefaultText>Защитить Марит и позволить ей выстрелить.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>302</ID>
+      <DefaultText>Хотя это очень опасно, вы сбоку разбиваете кусок кладки, который Айом бросил в Марит. Она делает выстрел, направив белый раскаленный луч на его лицо из синтестали. Но Ашров не избежал опасности. Второй снаряд Айома разбивает ему голову, превратив ее в бесформенную массу. 
+
+Пока Айом, подергиваясь, пытается оторвать от стены другой камень, вы набрасываетесь на него и отрубаете его почти человеческую голову, отделив ее от корпуса. Он взглядывает на вас, и свет в его глазах угасает. "Я только хотел... жить".
+
+Рядом с ним лежит зарядный провод. Пока вы решаете, что с ним делать, Марит поднимается на ноги. "Оставь, Мама Ви. Ты спасла меня, теперь я спасу тебя".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>303</ID>
+      <DefaultText>Защитить Ашрова и позволить ему сделать еще один залп.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>304</ID>
+      <DefaultText>Хотя это очень опасно, вы сбоку разбиваете кусок кладки, который Айом бросил в Ашрова. Ашров делает еще один энергетический залп зеленого огня, который достигает цели. Айом застывает на месте, его схемы издают шипение. Но Марит не избежала опасности. Второй снаряд Айома разбивает ей голову, превратив ее в бесформенную массу. 
+
+Пока Айом, подергиваясь, пытается оторвать от стены другой камень, вы набрасываетесь на него и отрубаете его почти человеческую голову, отделив ее от корпуса. Он взглядывает на вас, и свет в его глазах угасает. "Я только хотел... жить".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>305</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>306</ID>
+      <DefaultText>Вы хватаете латунный диск и бросаете его в сторону Айома. При соприкосновении Айома с диском происходит взрыв. Во все стороны разлетаются струи клейкой розовой вязкой жидкости. Айом не может бросить камень, не может пошевелиться. 
+
+С криками воодушевления Ашров и Марит открывают по нему перекрестный огонь. Ашров поджаривает его энергетическим залпом зеленого огня, а Марит выстрелом из своего лучевого оружия проделывает дыру в его голове из синтестали. Айом начинает подергиваться. Вы отрубаете ему голову. Он взглядывает на вас, и свет в его глазах угасает. "Я только хотел... жить".
+
+Рядом с Айомом лежит зарядный провод. Пока вы решаете, что с ним делать, Марит поднимается на ноги. "Оставь, Мама Ви. Ты спасла меня, теперь я спасу тебя".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>307</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>308</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>309</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>310</ID>
+      <DefaultText>Вы хватаете Марит и активируете волокна, служащие для подъема в воздух. Когда вы пролетаете через расселину в стене туннеля, Ашров кричит вам: "А ну вернитесь, трусы! Знаешь, сколько людей ты убила, убежав, как сейчас?"
+
+Вы продолжаете подниматься, преследуемые предсмертными криками Ашрова, которого разрывает на части Айом. Затем Войл остается внизу и исчезает в красном тумане.
+
+Последнее, что вы слышите, когда покидаете Сознание — частый кашель Марит, от которого она задыхается. Вы сомневаетесь, что ей что-то может помочь.
+
+{END OF THE MERE}
+
+{ART: Illustration MereGS1_04_The Voil}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>311</ID>
+      <DefaultText>Вы ничем не можете им помочь. Улететь из туннеля, спасая свою жизнь.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>312</ID>
+      <DefaultText>Ашров рычит, а Марит смотрит, как вы пересекаете расселину в стене туннеля и поднимаетесь к вершине каньона. 
+
+"Куда ты, трус!" — кричит Ашров.
+
+"Мама Ви!" — восклицает Марит. "Вернись! Спаси нас!"
+
+Вы продолжаете подниматься, и как только достигаете вершины Войла, он начинает расплываться под вами, как красный туман. Последнее, что вы слышите, когда покидаете Сознание и возвращаетесь в свое тело — предсмертные крики Ашрова, когда Айом раздирает его на куски.
+
+{END OF THE MERE}
+
+{ART: Illustration MereGS1_04_The Voil}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>313</ID>
+      <DefaultText>После долгих скитаний вы приходите ко входу в туннель, к пролету, называемому Мостом Вечности, который простирается от Войла к тому месту, где владелец каравана ожидает вашего возвращения.
+
+Все, кроме Айома, не в лучшей форме. Марит глухо кашляет, и вы с Ашровом начинаете хлюпать носом. И, будто этого мало, Мост Вечности забавляется с вами:  каждый раз, как вы вступаете на него, то обнаруживаете, что возвращаетесь к пещере. Вы никак не можете перебраться на другую сторону. 
+
+В конце концов, после третьей попытки Марит падает без сознания, а Ашров срывает гнев на Айоме. "Объятие убивает нас! Избавься от него!"
+
+Айом качает головой. "Не стану. Я тоже имею право жить".
+
+{ART: Forever Bridge}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>314</ID>
+      <DefaultText>Вы двигаетесь на запад и приходите в место, замощенное камнем, полное неплохо сохранившихся транспортных конструктов, наполовину зарытых в дрите. Их можно бы было разобрать на запчасти. Перед тем, как вы начинаете их разбирать, вы слышите тот же шум движения, который все слышали раньше, но на этот раз гораздо ближе. Земля начинает дрожать. 
+
+Прежде чем вы успеваете выкрикнуть приказ, прямо перед вами взрывается земля, как вулкан, и показывается огромное червеподобное чудовище, всеми руками и щупальцами пытающееся схватить вас. Отовсюду на вас летят подброшенные в воздух куски брусчатки.
+
+"Эринтовый граск", — говорит Айом. 
+
+{ART: Illustration MereGS1_02_ErynthGraskAttack}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>315</ID>
+      <DefaultText>"В атаку! Убьем его!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>316</ID>
+      <DefaultText>Марит и Ашров стреляют из лучевого оружия и эзотерий, а вы с Айомом отвлекаете чудище. Однако оно уклоняется и проносится мимо вас, хватая Ашрова одним щупальцем, отчего тот корчится и извивается, а монстр, используя телекинез, бросает на всех остальных камни. Один из них попадает прямо в лицо Марит, и она пошатывается и падает, больше не защищаясь от других камней, летящих в ее сторону.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>317</ID>
+      <DefaultText>Взмыть в воздух и атаковать чудовище оттуда.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>318</ID>
+      <DefaultText>Вы активируете волокна, позволяющие летать, и взмываете выше головы чудища. Айом с ужасающей силой отрывает ему руки, а вы добиваете монстра, ударяя клинком в голову и пронзая мозг. 
+
+Когда чудовище погибает, парящие камни обрушиваются на землю, хватка щупалец ослабевает, и Ашров безвольно падает в конвульсиях. Вы приземляетесь и оглядываетесь. Искусственная кожа Айома порвана в клочья, Марит выглядит, как одна большая кровавая рана, но она жива и в сознании.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>319</ID>
+      <DefaultText>За трупом чудовища вы замечаете, как что-то торчит из горы мусора. Вы идете туда и подбираете это. Это плоский латунный диск с мерцающим розовым свечением по середине. Клеевой шифр. Вы кладете его в карман и возвращаетесь к своим побитым спутникам. 
+
+"Прошу, Ви", — кашляет Марит. Когда она отрывает руку ото рта, на ладони остается тонкая черная пленка. "С меня хватит! Эта экспедиция проклята, предлагаю сворачиваться".
+
+Ашров качает головой. "Я не вернусь. Я обещал. Давайте разобьем лагерь, залижем раны и продолжим путь завтра утром".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>320</ID>
+      <DefaultText>"Марит права. У нас уже ни на что не хватит сил, пора возвращаться".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>321</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>322</ID>
+      <DefaultText>"Ашров прав, нельзя сдаваться. Разобьем лагерь, а завтра поднажмем".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>323</ID>
+      <DefaultText>Вы сооружаете подобие ночлега среди поломанных машин, обрабатываете друг другу раны и ложитесь спать. Это непросто. Кашель Марит стал еще хуже, да и вы себя неважно чувствуете. 
+
+Затем среди ночи вы просыпаетесь от озноба и хрипов. Из носа течет черная жидкость, и ваша слюна тоже почернела. Ашров тоже дрожит, у него те же проблемы. 
+
+"Да хранят нас духи нано", — стонет он. —  "И мы заразились тоже".
+
+Он поворачивается к Марит и трясет ее, но она не просыпается. Она уже мертва. Ашров садится и оглядывается. "Айом! Айом, ты, ублюдок! Где ты?"
+
+{ART: Vicarian's Party B}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>324</ID>
+      <DefaultText>Конструкт заглядывает в палатку. "Я на страже. А она что..." Он прерывается, посмотрев на вас. "Ох".
+
+"Ты все еще носишь с собой тот зарядный провод, ведь так, убийца?" — набрасывается на него Ашров. —  "Ты всех нас угробил!"
+
+"Я не думал, что он вам навредит", — отвечает Айом. —  "Вы же не дотрагивались до него".
+
+Ваши органы отказывают, и пещера с Войлом растворяются в золотой дымке. Айом достает провод из сумки. Он отрывает взгляд от провода и смотрит на расселину в стене туннеля и обратно на провод, щелкая схемами. Наконец, он складывает его обратно.
+
+Его последние слова раздаются эхом, когда вы покидаете Сознание и возвращаетесь в свое тело. "Прости меня, Вик. Я слишком боюсь смерти. Надеюсь, ты сможешь простить меня".
+
+{END OF THE MERE}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>325</ID>
+      <DefaultText>Конструкт заглядывает в палатку. "Я на страже. А она что..." Он прерывается, посмотрев на вас. "Ох".
+
+"Этот зарядный провод все еще убивает нас!" — рычит Ашров. —  "Избавься от него!"
+
+Айом долго смотрит на вас обоих и говорит: "Не думаю, что в этом виноват провод. Я..."
+
+Ваши органы отказывают, и пещера с Войлом растворяются в золотой дымке. Айом достает провод из сумки. Он отрывает взгляд от провода и смотрит на расселину в стене туннеля и обратно на провод, щелкая схемами. Наконец, он складывает его обратно.
+
+Его последние слова раздаются эхом, когда вы покидаете Сознание и возвращаетесь в свое тело. "Прости меня, Вик. Я слишком боюсь смерти. Надеюсь, ты сможешь простить меня".
+
+{END OF THE MERE}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>326</ID>
+      <DefaultText>"Прошу, Ви", — кашляет Марит. Когда она отрывает руку ото рта, на ладони остается тонкая черная пленка. "С меня хватит! Эта экспедиция проклята, предлагаю сворачиваться".
+
+Ашров качает головой. "Я не вернусь. Я обещал. Давайте разобьем лагерь, залижем раны и продолжим путь завтра утром".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>327</ID>
+      <DefaultText>Ударить по щупальцу и попытаться освободить Ашрова.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>328</ID>
+      <DefaultText>Вы отрубаете щупальце одним ударом, и Ашров быстро приходит в себя и отбрасывает чудовище импульсом, а Айом добивает его, раздавливая череп своими синтестальными руками. В последние секунды жизни чудовище разрывает искусственную кожу Айома. Айом никак на это не реагирует. 
+
+Когда битва заканчивается, вы оглядываетесь. Марит выглядит, как сплошная кровавая рана, из-за множественных ударов камней. Она едва не теряет сознание.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>329</ID>
+      <DefaultText>Защитить Марит от камней.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>330</ID>
+      <DefaultText>Вы защищаете Марит от камней, размахивая посохом с двумя лезвиями, а она берет чудовище на прицел и выстреливает горячим белым лучом прямо ему в голову, а Айом с ужасающей силой отрывает ему конечности. 
+
+Когда чудовище погибает, хватка щупалец ослабляется, и Ашров безвольно падает в конвульсиях. Он едва не теряет сознание.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>331</ID>
+      <DefaultText>"Уходите отсюда! Бегите!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>332</ID>
+      <DefaultText>Вы поворачиваетесь и убегаете в туннель вместе со всеми. Чудовище, зарываясь в землю, преследует вас и едва не хватает больную и ослабленную Марит.
+
+Вы с Ашровом подхватываете и тащите ее, но когда вы пересекаете площадь с рыжими ржавыми колоннами, то понимаете, что за вами уже никто не гонится. 
+
+"Можем передохнуть", — говорит Айом. —  "Оно не будет на нас нападать, если мы не будем воровать то, что оно охраняет".
+
+"А что оно охраняет?" — спрашивает Ашров. —  "Что-то ценное?"
+
+"Да кто знает, что для эринтового граска может представлять ценность?" — отвечает Айом. —  "Это может быть что угодно, а может быть и ничего".
+
+Ашров поворачивается к вам, его глаза горят. "Ты слышала его, Вик. Давай вернемся и посмотрим, на что он годится".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>333</ID>
+      <DefaultText>"Верно, давай вернемся и убьем его. Теперь мы знаем, чего нам ждать".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>334</ID>
+      <DefaultText>Вы возвращаетесь к тому месту, где на вас напал эринтовый граск, и он снова просыпается и атакует вас, используя когти, щупальца и телекинез. 
+
+Марит и Ашров стреляют из лучевого оружия и эзотерий, а вы с Айомом отвлекаете чудище. Но оно уклоняется и проносится мимо вас, хватая Ашрова одним щупальцем, отчего тот корчится и извивается, а монстр с помощью телекинеза бросает на всех остальных камни. Один из них попадает прямо в лицо Марит, и она пошатывается и падает, больше не защищаясь от других камней, летящих в ее сторону.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>335</ID>
+      <DefaultText>"Марит плохо выглядит. Давайте разобьем лагерь и передохнем до утра".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>336</ID>
+      <DefaultText>"Давайте убираться отсюда, пока мы еще живы. Идем к выходу".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>337</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>338</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>339</ID>
+      <DefaultText>Конструкт кивает. "Отлично, Вик. Только я сначала избавлюсь от тела Арксалина".
+
+Вы смотрите, как он несет Арксалина к расселине в стене туннеля. Он выходит на вечерний воздух и опускает руки, отпуская Арксалина. Варьеллен падает в пропасть. Айом склоняет голову. 
+
+Вы вместе с остальными следуете за ним. Проходит мгновение тишины, затем Айом отступает от пропасти и поворачивается к вам. 
+
+"Готово, Вик", — говорит он.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>340</ID>
+      <DefaultText>"Сначала я хочу позаботиться о моей семье. Мы возвращаемся в Стиртхол, чтобы хиург осмотрел Марит. Айом, брось Арксалина в Войл".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>341</ID>
+      <DefaultText>Конструкт медлит, пока идет реакция его схем, затем кивает. "Отлично, Вик. Я положу устройство с Арксалином, чтобы сразу избавиться от него".
+
+Вы видите, как он засовывает Объятие за ремень Арксалина и несет Арксалина к расселине в стене туннеля. Он выходит на вечерний воздух и опускает руки, отпуская Арксалина. Варьеллен падает в пропасть. Айом склоняет голову. 
+
+Вы вместе с остальными следуете за ним. Проходит мгновение тишины, затем Айом отступает от пропасти и поворачивается к вам. 
+
+"Готово, Вик", — говорит он.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>342</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>343</ID>
+      <DefaultText>"Я пообещала жителям Борон, что экспедиция будет успешной. Обещания нужно держать. Мы продолжаем поиски. Айом, брось Арксалина в Войл".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>344</ID>
+      <DefaultText>Конструкт медлит, пока идет реакция его схем, затем кивает. "Отлично, Вик. Я положу устройство с Арксалином, чтобы сразу избавиться от него".
+
+Вы смотрите, как он засовывает провод за ремень Арксалина и несет Арксалина к расселине в стене туннеля. Он выходит на вечерний воздух и опускает руки, отпуская Арксалина. Варьеллен падает в пропасть. Айом склоняет голову. 
+
+Вы вместе с остальными следуете за ним. Проходит мгновение тишины, затем Айом отступает от пропасти и поворачивается к вам. 
+
+"Готово, Вик", — говорит он.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>345</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>346</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>347</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>348</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>349</ID>
+      <DefaultText>"Давайте вернемся в Стиртхол. Мы не можем рисковать жизнью ради этого предприятия".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>350</ID>
+      <DefaultText>"Если мы останемся, под удар будет поставлено четыре жизни", — рычит Ашров. — "А если уйдем — четыре тысячи жизней". Все же он следует за вами, когда вы направляетесь к выходу. И тут далеко в глубине западного рукава туннеля раздается слабое эхо, словно что-то движется на расстоянии. Арксалин нервно сглатывает. "Чудовища", — говорит он. — "Чудесно. А мне придется остаться".
+
+"Если хочешь, я понесу тебя", — говорит Айом. — "Ты не помешаешь мне идти".
+
+Варьеллен смущенно кривится и пожимает плечами. "Хорошо. Считай меня балластом".
+
+Едва вы начинаете продвигаться дальше, Марит шмыгает носом и утирается рукавом. 
+
+"Ты не можешь вести себя потише?" Ашров рявкает.  "Нам не нужно, чтобы нечто начало преследовать нас, чем бы оно ни было!"
+
+"Прошу прощения", — бормочет она. — "Я сочувствую болезни Арксалина".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>351</ID>
+      <DefaultText>Через некоторое время вы входите под сень скопления древних столбов. Здесь вы уже искали. Айом останавливается и опускает Арксалина на землю. "Клинок мертв", — говорит он. — "У него остановилось сердце".
+
+Все смотрят на Арксалина. Он покрыт черной слизью, текущей из трещин на его чешуйчатой коже. Марит задыхается и прикрывает рот. "Я же не заразилась, нет? У людей и варьелленов нет общих болезней, ведь так?"
+
+"Я не уверен, что это вообще болезнь", — говорит Айом, обыскивая вещи Арксалина. — "Все произошло слишком быстро. Я..."
+
+Он замолкает и достает из сумки Арксалина свернутый кусок серебряной проволоки. Он покрыт маленькими металлическими штырьками. "Наверняка его убила именно эта штука".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>352</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>353</ID>
+      <DefaultText>"Давайте позволим Арксалину отдохнуть. Сбор хлама может подождать".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>354</ID>
+      <DefaultText>Ашров тихо ворчит, но садится вместе с остальными. Измученный клинок закрывает глаза. В следующее мгновение далеко в глубине западного рукава туннеля раздается слабое эхо, словно что-то движется на расстоянии. Члены группы поворачивают головы в сторону звука, даже Арксалин просыпается. "Какое-то существо или наш соперник?" — спрашивает он. 
+
+Марит и Ашров переглядываются и направляются на запад в поисках мест с хорошим обзором. Марит шмыгает носом и вытирает лицо рукавом.
+
+"Ты не можешь вести себя потише?" Ашров рявкает.
+
+"Прошу прощения", — бормочет она. — "Я сочувствую болезни Арксалина".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>355</ID>
+      <DefaultText>Вы ждете, когда нечто выйдет из тьмы, но ничего не происходит. Рядом с вами Арксалин приходит в себя, задыхаясь и царапая свое горло, а затем вытягивается на земле. Он мертв.
+
+Марит и Ашров присоединяются к вам с Айомом и смотрят на Арксалина. Он покрыт черной слизью, текущей из трещин на его чешуйчатой коже. Марит задыхается. "Я же не заразилась, нет? У людей и варьелленов нет общих болезней, ведь так?"
+
+"Я не уверен, что это вообще болезнь", — говорит Айом, обыскивая вещи Арксалина. — "Все произошло слишком быстро. Я..."
+
+Он замолкает и достает из сумки Арксалина свернутый кусок серебряной проволоки. Он покрыт маленькими металлическими штырьками. "Наверняка его убила именно эта штука".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>356</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>357</ID>
+      <DefaultText>Марит всхлипывает. "Я не знала! Я подобрала это устройство, когда он уронил его, и оно мгновенно зарядило мои шифры. У меня на родине за такую вещь можно получить большие деньги, но я побоялась трогать его, поэтому засунула в сумку Аркса. Я не знала, что это убьет его!"
+
+"Великолепно", — рычит Ашров. "Твоя падчерица вредит нам. Ты говорила, что это маленькое отродье навсегда оставило путь воровства. Теперь она убила одного из нас!"
+
+Марит всхлипывает. "Я не знала!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>358</ID>
+      <DefaultText>Ашров поднимает руки. "Ты предпочтешь спасти одну маленькую вороватую карманницу, а не целую местность, населенную честными людьми? Хорошо!" 
+
+Он указывает на вас трясущимся пальцем. "Но когда мы окажемся там, ты вернешь каждый шин, который жители Борон собрали на эту экспедицию, или я обдеру тебя до костей!"
+
+Айом поднимает серебристую материю, покрытую штырьками. "Что насчет зарядного провода, Вик? Можно мне оставить его у себя?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>359</ID>
+      <DefaultText>"Прошу прощения, Айом. Тебе придется избавиться от него. Он слишком опасен".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>360</ID>
+      <DefaultText>"Да, можешь оставить его, но держи его подальше от нас".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>361</ID>
+      <DefaultText>Ашров поднимает руки. "Ты предпочтешь спасти одну маленькую вороватую карманницу, а не целую местность, населенную честными людьми? Хорошо!" 
+
+Он указывает на вас трясущимся пальцем. "Но когда мы окажемся там, ты вернешь каждый шин, который жители Борон собрали на эту экспедицию, или я обдеру тебя до костей!"
+
+Айом поднимает серебристую материю, покрытую штырьками. "Что насчет зарядного провода, Вик? Можно мне оставить его у себя?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>362</ID>
+      <DefaultText>"Прошу прощения, Айом. Тебе придется избавиться от него. Он слишком опасен".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>363</ID>
+      <DefaultText>"Да, можешь оставить его, но держи его подальше от нас".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>364</ID>
+      <DefaultText>Марит ошарашенно смотрит на вас. "Ты позволишь мне умереть? Лучше бы я не слушала тебя, а осталась на улице. По твоей вине погиб мой отец, а теперь погибну и я!"
+
+Ашров фыркает. "Если ты умрешь, ты будешь виновата в этом сама. Может быть, ты все же не умрешь. Ведь ты не носила эту губительную штуковину на своем теле в течение нескольких часов, как тот бедолага, которому ты ее подсунула!"
+
+Айом поднимает серебристую материю, покрытую штырьками. "Что насчет зарядного провода, Вик? Можно мне оставить его у себя?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>365</ID>
+      <DefaultText>"Прошу прощения, Айом. Тебе придется избавиться от него. Он слишком опасен".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>366</ID>
+      <DefaultText>"Да, можешь оставить его, но держи его подальше от нас".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>370</ID>
+      <DefaultText>Конструкт кивает. "Отлично, Вик. Только я сначала избавлюсь от тела Арксалина".
+
+Вы смотрите, как он несет Арксалина к расселине в стене туннеля. Он выходит на вечерний воздух и опускает руки, отпуская Арксалина. Варьеллен падает в пропасть. Айом склоняет голову. 
+
+Вы вместе с остальными следуете за ним. Проходит мгновение тишины, затем Айом отступает от пропасти и поворачивается к вам. 
+
+"Готово, Вик", — говорит он.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>371</ID>
+      <DefaultText>Конструкт кивает. "Отлично, Вик. Только я сначала избавлюсь от тела Арксалина".
+
+Вы смотрите, как он несет Арксалина к расселине в стене туннеля. Он выходит на вечерний воздух и опускает руки, отпуская Арксалина. Варьеллен падает в пропасть. Айом склоняет голову. 
+
+Вы вместе с остальными следуете за ним. Проходит мгновение тишины, затем Айом отступает от пропасти и поворачивается к вам. 
+
+"Готово, Вик", — говорит он.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>372</ID>
+      <DefaultText>"А что насчет тех людей, которым будет худо, когда ты уйдешь?" — спрашивает Ашров. Он оборачивается к вам. "Не разрешай ему брать эту штуку, Викариан. Ты уже подвела всех жителей Борон. Если ты позволишь этому безумному механизму и дальше разгуливать с этой гибельной материей, на твоей совести будет еще больше смертей! Тысячи смертей! Нам нужно его остановить!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>373</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>374</ID>
+      <DefaultText>"Только после того, как я позабочусь о дочери".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>375</ID>
+      <DefaultText>"Я готова. Марит уже не спасти, и к тому же она сама виновата".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>376</ID>
+      <DefaultText>Ашров продолжает изводить вас, пока вы подходите к Марит и делаете для нее все, что можете. К сожалению, вам не хватает опыта, чтобы спасти ее, и она медленно угасает. С другой стороны, теперь, когда на вас больше не воздействует вредное излучение провода, вам с Ашровом становится лучше.
+
+Перед самой смертью Марит ненадолго приходит в себя и берет вас за руку, глядя вам в глаза. "Извини, Мама Ви. Я бы никогда не взяла этот провод. Я все разрушила".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>377</ID>
+      <DefaultText>Все вокруг вас погружается в красную дымку. Вы с Ашровом углубляетесь в пещеру, Марит оплакивает вашу участь. Последнее, что вы слышите, когда покидаете Сознание и возвращаетесь в свое тело — ее тихий голос.
+
+"Ты права. Это все моя вина. Это все моя вина..."
+
+{END OF THE MERE}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>378</ID>
+      <DefaultText>Когда кризис пройден, вы, Айом и Ашров пытаетесь всеми силами помочь Марит, но ваших умений недостаточно, чтобы спасти ее, и она медленно умирает. С другой стороны, теперь, когда на вас больше не воздействует вредное излучение провода, вам с Ашровом становится лучше.
+
+Перед самой смертью Марит ненадолго приходит в себя и берет вас за руку, глядя вам в глаза. "Извини, Мама Ви. Я бы никогда не взяла этот провод. Я все разрушила".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>379</ID>
+      <DefaultText>"Я тебя не виню, доченька. Откуда тебе было знать про то, что так получится?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>380</ID>
+      <DefaultText>"Я виню себя. Я тебя не научила, а должна была".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>381</ID>
+      <DefaultText>Пещера и Войл исчезают в золотом тумане, когда она сжимает вашу руку. Последнее, что вы слышите, когда покидаете Сознание и возвращаетесь в свое тело — это ее слова. 
+
+"Нет. Не говори так. Не было времени..."
+
+{END OF THE MERE}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>382</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>383</ID>
+      <DefaultText>Вы наблюдаете, как она подвешивает его на лучевое оружие, пошатываясь, подходит к расселине в стене туннеля и выкидывает оружие в Войл.
+
+Это забирает у нее последние силы, и она валится с ног. Вы подбегаете к ней и пытаетесь всеми силами помочь, но ваших умений недостаточно, чтобы спасти ее, и она медленно умирает. С другой стороны, теперь, когда на вас больше не воздействует вредное излучение провода, вам становится лучше.
+
+Перед самой смертью Марит ненадолго приходит в себя и берет вас за руку, глядя вам в глаза. "Извини, Мама Ви. Я бы никогда не взяла этот провод. Я все разрушила".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>384</ID>
+      <DefaultText>Рядом с ним лежит зарядный провод. Пока вы решаете, что с ним делать, к вам подходит Ашров. "Оставь. Ты спасла меня, а я спасу тебя".
+
+Он направляет переносное устройство на провод, и тот поднимается в воздух и летит по направлению к расселине в стене туннеля. Затем он выключает устройство, и провод падает в Войл. 
+
+Ашров поворачивается к вам, когда вы смотрите на тело Марит. "Ты спасла меня, а не ее. Почему?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>385</ID>
+      <DefaultText>Вы с Ашровом наблюдаете, как она подвешивает его на лучевое оружие, пошатываясь, подходит к расселине в стене туннеля и выкидывает оружие в Войл, а затем валится с ног. 
+
+Ашров отходит подальше, словно она заразна, но вы приближаетесь и пытаетесь помочь. К сожалению, вам не хватает опыта, чтобы спасти ее, и она медленно угасает. С другой стороны, теперь, когда на вас больше не воздействует вредное излучение провода, вам с Ашровом становится лучше.
+
+Перед самой смертью Марит ненадолго приходит в себя и берет вас за руку, глядя вам в глаза. "Извини, Мама Ви. Я бы никогда не взяла этот провод. Я все разрушила".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>386</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>387</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>388</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>389</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>390</ID>
+      <DefaultText>"Это она во всем виновата. Только ты заслуживал жить".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>391</ID>
+      <DefaultText>"Она была слишком больна. Она бы все равно не выжила".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>392</ID>
+      <DefaultText>"Это ошибка. Я не думала, что она умрет".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>393</ID>
+      <DefaultText>Ашров недовольно ворчит и отворачивается. "Да, неважно, впрочем. Спасибо. Но, боюсь, на этом наше сотрудничество заканчивается. Твоя "дочь" и твой механический друг слишком дорого поплатились. Не хочу рисковать и тобой". 
+
+Пещера и Войл расплываются в золотистой дымке, когда Ашров поднимает сияющие ладони на вас и выстреливает. Последнее, что вы слышите, когда покидаете Сознание и возвращаетесь в свое тело — это его голос. 
+
+"Прости меня, Викариан. Это все ради высшего блага".
+
+{END OF THE MERE}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>394</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>395</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>396</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>397</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>398</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>399</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>400</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>401</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>402</ID>
+      <DefaultText>Вы не можете спасти их всех. Подобрать Марит и улететь из туннеля.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>403</ID>
+      <DefaultText>Марит далеко от вас, а Айом слишком опасен. Улететь из туннеля вместе с Ашровом.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>404</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>405</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>406</ID>
+      <DefaultText>После долгих скитаний вы приходите ко входу в туннель, к пролету, называемому Мостом Вечности, который простирается от Войла к тому месту, где владелец каравана ожидает вашего возвращения.
+
+Все, кроме Айома, не в лучшей форме. Марит глухо кашляет, и вы с Ашровом начинаете хлюпать носом. И, будто этого мало, Мост Вечности забавляется с вами:  каждый раз, как вы вступаете на него, то обнаруживаете, что возвращаетесь к пещере. Вы никак не можете перебраться на другую сторону. 
+
+В конце концов, после третьей попытки Марит падает без сознания, а Ашров срывает гнев на Айоме. "Ты все еще не избавился от Объятия, ах ты, ублюдок! Ты всех нас убиваешь!"
+
+Айом кивает. "Я тоже имею право жить".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>407</ID>
+      <DefaultText>После долгих скитаний вы приходите ко входу в туннель, к пролету, называемому Мостом Вечности, который простирается от Войла к тому месту, где владелец каравана ожидает вашего возвращения.
+
+Все, кроме Айома, не в лучшей форме. Марит глухо кашляет, и вы с Ашровом начинаете хлюпать носом. И, будто этого мало, Мост Вечности забавляется с вами:  каждый раз, как вы вступаете на него, то обнаруживаете, что возвращаетесь к пещере. Вы никак не можете перебраться на другую сторону. 
+
+В конце концов, после третьей попытки Марит падает без сознания, а Ашров срывает гнев на Айоме. "Ты все еще не избавился от Объятия, ах ты, ублюдок! Ты всех нас убиваешь!"
+
+Айом кивает. "Я тоже имею право жить".
+
+{ART: Forever Bridge}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>408</ID>
+      <DefaultText>За трупом чудовища вы замечаете, как что-то торчит из горы мусора. Вы идете туда и подбираете это. Это плоский латунный диск с мерцающим розовым свечением по середине. Клеевой шифр. Вы кладете его в карман и возвращаетесь к своим побитым спутникам. 
+
+"Прошу, Ви", — говорит Марит, откашливаясь. Все ее лицо залито кровью. Когда она отрывает руку ото рта, на ладони остается тонкая черная пленка. "С меня хватит! Эта экспедиция проклята, предлагаю сворачиваться".
+
+Ашров качает головой. "Я не вернусь. Я обещал. Давайте разобьем лагерь, залижем раны и продолжим путь завтра утром".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>409</ID>
+      <DefaultText>За трупом чудовища вы замечаете, как что-то торчит из горы мусора. Вы идете туда и подбираете это. Это плоский латунный диск с мерцающим розовым свечением по середине. Айом считает, что это какой-то клеевой шифр. Вы кладете его в карман и возвращаетесь к своим побитым спутникам. 
+
+"Прошу, Ви", — кашляет Марит. Когда она отрывает руку ото рта, на ладони остается тонкая черная пленка. "С меня хватит! Эта экспедиция проклята, предлагаю сворачиваться".
+
+Ашров поднимает голову. Он все еще судорожно дергается, но его решимость не угасает. "Нет. Я не вернусь. Я обещал. Давайте разобьем лагерь, залижем раны и продолжим путь завтра утром".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>410</ID>
+      <DefaultText>После долгих скитаний вы приходите ко входу в туннель, к пролету, называемому Мостом Вечности, который простирается от Войла к тому месту, где владелец каравана ожидает вашего возвращения.
+
+Все, кроме Айома, не в лучшей форме. Марит глухо кашляет, и вы с Ашровом начинаете хлюпать носом. И, будто этого мало, Мост Вечности забавляется с вами:  каждый раз, как вы вступаете на него, то обнаруживаете, что возвращаетесь к пещере. Вы никак не можете перебраться на другую сторону. 
+
+В конце концов, после третьей попытки Марит падает без сознания, а Ашров срывает гнев на Айоме. "Ты все еще не избавился от Объятия, ах ты, ублюдок! Ты всех нас убиваешь!"
+
+Айом кивает. "Я тоже имею право жить".
+
+{ART: Forever Bridge}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>411</ID>
+      <DefaultText>"Это... не я!"
+
+Все поворачиваются к ней. Марит всхлипывает. "Я не знала! Я подобрала это устройство, когда он уронил его, и оно мгновенно зарядило мои шифры. У меня на родине за такую вещь можно получить большие деньги, но я побоялась трогать его, поэтому засунула в сумку Аркса. Я не знала, что это убьет его!"
+
+"Великолепно", — рычит Ашров. "Твоя падчерица вредит нам. Ты говорила, что это маленькое отродье навсегда оставило путь воровства. Теперь она убила одного из нас!"
+
+Марит всхлипывает. "Я не знала!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>412</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>413</ID>
+      <DefaultText>"Я знаю, как сложно противостоять своим прежним привычкам, но нужно попытаться. Ради меня, ты сможешь?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>414</ID>
+      <DefaultText>"Я знаю, что она виновата, но дайте ей еще один шанс. Она немногим отличается от тех, кого ты пытаешься уберечь".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>415</ID>
+      <DefaultText>"Прости меня, Вик. Дай мне знать, что ты решишь сделать с устройством. Я жду твоих приказов".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>416</ID>
+      <DefaultText>"Было бы хорошо, если бы ты не светил повсюду этой штукой. Остальных пугаешь".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>417</ID>
+      <DefaultText>"Я про это ничего не знаю, но... ладно. Только держи ее на поводке, ага?"
+
+Он скрещивает руки на груди и ждет ваших приказов.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>418</ID>
+      <DefaultText>"Я знаю. Мне жаль. Я знаю, что должна тебе".
+
+Она отворачивается. Остальные смотрят на вас, ожидая ваших приказов.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>419</ID>
+      <DefaultText>Когда вы с Ашровом пролетаете через расселину в стене туннеля, Марит, рыдая, взывает к вам: "Мама Ви! Вернись! Помоги мне!"
+
+Но вы не останавливаетесь, несмотря на рыдания и ужасный кашель Марит.
+
+Ашров смотрит вниз. "Думаю, ты поступила правильно, но как же Бороны? Кто будет..." Его прерывает приступ кашля.
+
+Войл расплывается под вами в красной дымке. Последнее, что вы видите, когда покидаете Сознание и возвращаетесь в свое тело — это как Ашров таращится на свою руку. На ней черная пленка.
+
+{END OF THE MERE}
+
+{ART: Illustration MereGS1_04_The Voil}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>420</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>421</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>422</ID>
+      <DefaultText>"Хотя я могу посочувствовать тебе, ты пожинаешь то, что посеяла. Прости".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>423</ID>
+      <DefaultText>Пещера и Войл исчезают в золотом тумане, когда ее рука слабеет. Последнее, что вы слышите, когда покидаете Сознание и возвращаетесь в свое тело — это ее слова. 
+
+"Ты права. Это все моя вина. Это все моя... вина..."
+
+{END OF THE MERE}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>424</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>425</ID>
+      <DefaultText>"Это просто беспорядок. Я разберусь с этим. Прощай".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>426</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>427</ID>
+      <DefaultText>Марит смотрит, как вы пересекаете расселину в стене туннеля и поднимаетесь к вершине каньона. 
+
+Когда вы летите по направлению к расселине в стене, туннель начинает пропадать в красном тумане. Марит и Ашров смотрят вам вслед. Последнее, что вы слышите, когда покидаете Сознание и возвращаетесь в свое тело — Марит и Ашров кричат вам вслед.
+
+"Мама Ви, подожди! Куда ты?.."
+
+"А как же твои обещания, Викариан! Как же наша сделка!"
+
+{END OF THE MERE}
+
+{ART: Illustration MereGS1_04_The Voil}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>431</ID>
+      <DefaultText>Марит, плача, приподнимается рядом с вами. "Извини, Мама Ви. Я бы никогда не взяла этот провод. Я все разрушила".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>432</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>433</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>434</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>435</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>436</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>437</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>438</ID>
+      <DefaultText>Использовать клеевой шифр, который вы получили из эринтового граска.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>439</ID>
+      <DefaultText>"Это не имеет значения. Давай просто избавимся от него".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>440</ID>
+      <DefaultText>Не успеваете вы закончить предложение, как Марит внезапно произносит: "Это... это была я!"
+
+Все поворачиваются к ней. Марит всхлипывает. "Я не знала! Я подобрала это устройство, когда он уронил его, и оно мгновенно зарядило мои шифры. У меня на родине за такую вещь можно получить большие деньги, но я побоялась трогать его, поэтому засунула в сумку Аркса. Я не знала, что это убьет его!"
+
+"Великолепно", — рычит Ашров. "Твоя падчерица вредит нам. Ты говорила, что это маленькое отродье навсегда оставило путь воровства. Теперь она убила одного из нас!"
+
+Марит всхлипывает. "Я не знала!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>444</ID>
+      <DefaultText>После долгих скитаний вы приходите ко входу в туннель, к пролету, называемому Мостом Вечности, который простирается от Войла к тому месту, где владелец каравана ожидает вашего возвращения.
+
+Все, кроме Айома, не в лучшей форме. Марит глухо кашляет, и вы с Ашровом начинаете хлюпать носом. И, будто этого мало, Мост Вечности забавляется с вами:  каждый раз, как вы вступаете на него, то обнаруживаете, что возвращаетесь к пещере. Вы никак не можете перебраться на другую сторону. 
+
+В конце концов, после третьей попытки Марит падает без сознания, а Ашров срывает гнев на Айоме. "Ты все еще не избавился от Объятия, ах ты, ублюдок! Ты всех нас убиваешь!"
+
+Айом кивает. "Я тоже имею право жить".
+
+{ART: Forever Bridge}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>445</ID>
+      <DefaultText>"Возможно, Арксалин лгал и хотел оставить это устройство себе".</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

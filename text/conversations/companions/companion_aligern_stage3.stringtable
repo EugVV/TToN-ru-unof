@@ -1,0 +1,473 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\companions\companion_aligern_stage3</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>89</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>"Мне нечего сказать о монументе. И не спрашивай".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>"Инифир... другой отверженный, другое грязное существо. Слушай, у меня есть вопрос. Как ты думаешь, почему от твоих сородичей столько боли?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>Он скрещивает руки и ждет.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>{diffident} "Я рад возможности остановиться у монумента в Ормене. Давненько не был в этих местах".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>"Почему нет?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>"Тогда почему ты хочешь увидеть?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>"Не волнуйся. Я хочу обсудить с тобой кое-что другое".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>"Я не говорил, что не хочу видеть. А вот говорить об этом не хочу. Во всяком случае, не с тобой и не прямо сейчас. Может, в другой раз".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>Он долго скользит по вам внимательным взглядом. "Ты знаешь, почему. Ну надеюсь, что знаешь. Скоро мы поговорим об этом. Давай искать Миэль Авест, хорошо?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText>"Хорошо".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText>"Я сожалею о том, что произошло с твоей семьей, Алигерн".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>14</ID>
+      <DefaultText>"Что ж, не буду портить тебе настроение".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>15</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>16</ID>
+      <DefaultText>На его лице отражается удивление, которое быстро сменяется скупой улыбкой. "Я это ценю. Пойдем. Нам нужно добраться до Миэль Авеста".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>17</ID>
+      <DefaultText>"Потому что мы рождены в опасности? Потому что Скорбь охотится на нас с самого рождения? Потому что столько людей ненавидят нас из-за факта нашего рождения и преступлений, совершенных нашим создателем? Я не знаю, Алигерн. Почему бы тебе не рассказать?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>18</ID>
+      <DefaultText>Он кривится: "Полагаю о том, что я ожидаю услышать".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>19</ID>
+      <DefaultText>Он поднимает руки: "Подожди, я тебе не сказал..."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20</ID>
+      <DefaultText>"Ох, и почему нет? То есть? посмотри на меня. Я Белая Смерть. Я убивала армии людей. Оставляла сиротами детей. Я служила старому Мемовире Цветения. Нельзя сказать, что мои руки чисты".
+
+Она подходит и шепчет: "Но и твои тоже, так ведь?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>21</ID>
+      <DefaultText>На мгновение кажется, что он собирается ее ударить. Она же выглядит совершенно невозмутимо.
+
+Он выдыхает: "Понятно". Он оборачивается к вам: "Каков тогда твой выбор?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>22</ID>
+      <DefaultText>"Может быть, природная предрасположенность".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>23</ID>
+      <DefaultText>"Почему тогда многие обычные люди причиняют столько боли?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>24</ID>
+      <DefaultText>"Понятия не имею. Я не знаю, как Меняющийся Бог создал нас".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>25</ID>
+      <DefaultText>"Но обычные люди совершают и хорошие поступки. Я пытаюсь припомнить отверженного, известного своими хорошими деяниями и благородством, но не могу".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>26</ID>
+      <DefaultText>"Хе. может быть, со здоровым презрением к обществу". Он покачивает головой: "В любом случае".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>27</ID>
+      <DefaultText>"Это не значит, что они не существуют".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>28</ID>
+      <DefaultText>"Ты не в восторге от того, как я веду дела, так ведь?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>29</ID>
+      <DefaultText>Он пожимает плечами. "Ты делаешь то, что необходимо".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30</ID>
+      <DefaultText>"Я ценю доверие".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>31</ID>
+      <DefaultText>"Это собственно то, что все делают".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>32</ID>
+      <DefaultText>"Тогда может вопрос в том, почему так много отверженных попадают в ситуации, при которых необходимо совершать ужасные вещи? Я имею в виду основание кровавой секты... это крайность".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>33</ID>
+      <DefaultText>"Может быть, некоторые люди сломлены с самого начала. Стоит об этом подумать".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>34</ID>
+      <DefaultText>"Ты не знаешь, под каким давлением он прогнулся. Прояви сочувствие".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>35</ID>
+      <DefaultText>"Многие вещи происходят за один момент и влекут серьезные последствия".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>36</ID>
+      <DefaultText>"Да, может быть". 
+
+Он почесывает нос. "Может быть, пора двигаться, а?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>37</ID>
+      <DefaultText>"В моей жизни было много потрясений, но я никогда не опускался до создания секты убийц".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>38</ID>
+      <DefaultText>Он хмурится: "Конечно". Он сплевывает. "Идем дальше".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>39</ID>
+      <DefaultText>Он издает смешок.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>40</ID>
+      <DefaultText>"Хмм. возможно. Не думаю, что ты из тех, кто хочет провести жизнь в безвестности. Хотя все равно. Идем дальше".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>42</ID>
+      <DefaultText>"Ты ведь знаешь, что отверженные не любят привлекать внимание?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>44</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>45</ID>
+      <DefaultText>"И все же, что тебе известно о Долине?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>46</ID>
+      <DefaultText>"Расскажи мне о Долине еще раз".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>47</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>48</ID>
+      <DefaultText>"Что ты думаешь о Миэль Авест?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>49</ID>
+      <DefaultText>"Что еще ты думаешь о Миэль Авест?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>50</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>51</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>52</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>53</ID>
+      <DefaultText>"Как у тебя дела?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>54</ID>
+      <DefaultText>"Давай поговорим о наших попутчиках".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>55</ID>
+      <DefaultText>"Нам лучше разделиться".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>56</ID>
+      <DefaultText>"Пойдем дальше".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>57</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>58</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>59</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>60</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>61</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>62</ID>
+      <DefaultText>Он оглядывается, его губы плотно сжаты. "На всех этих людей повлиял Меняющийся Бог. На каждого. Посмотри на них. Они кажутся слабыми и напуганными". Его лицо принимает выражение, почти похожее на жалость. "Все вы страдаете".
+
+Его голос снова становится жестче. "Но все это не идет в сравнение с теми страданиями, которые вы приносите этому миру".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>63</ID>
+      <DefaultText>"Я всем вам сочувствую. Окруженные красотой, вы только и делаете, что боретесь".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>64</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>65</ID>
+      <DefaultText>"Жестокое место для бесчисленных цивилизаций. Не в самой Долине, а чуть ниже. Там находится мемориал моего алдея. Это место было тихим и безмятежным. Место, где люди могли поразмышлять о волшебном. Я никогда не был в Некрополе. Никогда не чувствовал желания побывать там".
+
+Он тихо смеется. "Все равно, от тех, кого я потерял, ничего не осталось".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>66</ID>
+      <DefaultText>"Рассказывать особо нечего. Много историй, над которыми можно поразмышлять, наследие, о котором недолго помнят, а затем забывают".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>67</ID>
+      <DefaultText>"Что будем делать дальше?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>68</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>69</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>70</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>71</ID>
+      <DefaultText>"Аадирис... Она дала мне немало пищи для размышлений". Алигерн спокойно смотрит на вас, хотя выглядит чуть потрясенным.
+
+"Она первая из таких, как ты, с кем я не боюсь за свою жизнь. Первая, для кого я хочу стать лучше. И я попробую!"
+
+Алигерн смотрит на татуировки на руках: "Но это не значит, что я не хочу найти ответы на свои вопросы. Но... я буду работать с тобой".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>72</ID>
+      <DefaultText>"Давай уже закончим то, что должны. Я сказал то, что было необходимо сказать. Теперь нам нужно выяснить, куда мы отсюда пойдем".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>73</ID>
+      <DefaultText>Он хмурится. "Ты неплохо справляешься. Пойдем. Нам нужно добраться до Миэль Авеста".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>74</ID>
+      <DefaultText>"В любом случае, я это ценю". Он поправляет куртку. "Идем дальше".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>75</ID>
+      <DefaultText>"Не беспокойся. Все равно нам по пути".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>76</ID>
+      <DefaultText>"Здесь в Долине есть мемориал, который мне бы хотелось посетить. Ты меня понимаешь. Если посчастливится".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>77</ID>
+      <DefaultText>Он пожимает плечами. "Иди в Миэль Авест. Там ты найдешь ответы". 
+
+Его голос становится жестче: "И я тоже".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>78</ID>
+      <DefaultText>"Пока мы были в долине, я захотел посетить одно место. К памятнику моей деревне. Я давно там не был, нужно отдать дань уважения. Здесь недалеко, большой крюк делать не надо".
+
+{SCRIPT: After the encounter with Ronos and Beltrax, please set Aligern Wants to Talk = True}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>79</ID>
+      <DefaultText>"Посмотрим, что можно сделать".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>80</ID>
+      <DefaultText>"Только если будет время".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>81</ID>
+      <DefaultText>"Я это ценю".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>82</ID>
+      <DefaultText>"У нас нет на это времени. Оплакивай мертвых без меня".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>83</ID>
+      <DefaultText>Он молчит, уставившись на вас.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>85</ID>
+      <DefaultText>"Давай".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>86</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>87</ID>
+      <DefaultText>"Расскажи о себе".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>88</ID>
+      <DefaultText>"Я снова хочу поговорить о тебе".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>89</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>90</ID>
+      <DefaultText>Он усмехается. "На секунду мне послышалось, что ты хочешь идти без меня. Все здесь. В Девятом Мире, полном множества адских мест, откуда не уйти, даже умерев".
+
+С его лица быстро сходит улыбка. "Конечно же ты этого *не* хочешь. Поэтому я просто забуду, что услышал".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>91</ID>
+      <DefaultText>Он прочищает пальцем ухо. "Черт, я старею. Я слышу, как ты снова это говоришь".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>93</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

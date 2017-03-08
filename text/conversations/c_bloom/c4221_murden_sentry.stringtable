@@ -1,0 +1,211 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\c_bloom\c4221_murden_sentry</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>39</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>Мерден снова топорщит перья, щелкая клювом, и испускает волну полных ненависти помех, которая затуманивает ваш разум.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>"Где ваш вожак?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>"Ты должен оставить свой пост. Сейчас же".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>Что-то в вашем голосе, видимо, пугает мердена. Шипя и пригнувшись, он отступает и укрывается в соседней комнате. Боясь оставаться одному, второй мерден следует за ним.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>"Прощай".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>"Крррр. Хссссс".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>"[Global: c4221_MurdenSentryBribeAmount] шина(-ов) хватит, чтобы вы отвернулись на пару минут?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>Мерден вскидывает голову, а затем смотрит на своего товарища. Вы чувствуете легчайшие касание их ментальных помех, пока они переговариваются друг с другом.
+
+Приняв решение, мерден протягивает вам сальную лапу и ждет, пока вы положите в нее шины. Как только деньги получены, двое мерденов принимаются разглядывать землю и ковыряться когтями в мусоре, изо всех сил стараясь показать, что они заняты и не обращают внимания.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>"Ваши пленники исчезли".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>Существо секунду непонимающе смотрит на вас, а затем бросает быстрый взгляд на своего товарища. Вы ощущаете, как они обмениваются мысленными репликами, похожими на помехи, после чего они поворачиваются и убегают по коридору.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText>Мерден кудахчет и плюет в вас. На другом краю комнаты его товарищ испражняется на пол, а затем швыряет свой помет в вашу сторону.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>14</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>15</ID>
+      <DefaultText>Кровь тонкой струйкой стекает по клинкам мерденов, и злобные помехи шипят у вас в голове. Их желтые глаза смотрят вызывающе.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>16</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>17</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>18</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>19</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>21</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>22</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>23</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>24</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>25</ID>
+      <DefaultText>""</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>26</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>28</ID>
+      <DefaultText>"Где, говорите, мне найти вашего вожака?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>29</ID>
+      <DefaultText>"Ссссссс".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30</ID>
+      <DefaultText>"…сссс".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>31</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>32</ID>
+      <DefaultText>"Чк-к-к-к!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>33</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>34</ID>
+      <DefaultText>Мерден пригибает голову, покачивая ею из стороны в сторону, чтобы не упускать вас из виду, и указывает своим страшным клинком на соседнюю комнату.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>35</ID>
+      <DefaultText>Мерден снова указывает клинком на соседнюю комнату.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>36</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>37</ID>
+      <DefaultText>Мердены щелкают клювами, дразня вас и словно говоря: "*Вот как мы обходимся с такими, как ты*".
+
+Скрежеща и каркая — смеясь, понимаете вы, они скрываются в соседней комнате, оставив вас наедине с погибшими.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>38</ID>
+      <DefaultText>Ваша способность читать мысли только усиливает помехи, делая шум почти невыносимым. Чтобы абстрагироваться от шума, требуется недюжинное волевое усилие.
+
+Очевидно, пытаться читать мысли мерденов — плохая идея.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>39</ID>
+      <DefaultText>Мерден топорщит свои сальные черные перья, оценивающе глядя на вас своими глазами-бусинками. Вы замечаете, что это существо слегка крупнее своего товарища. Оно издает резкое, гортанное карканье, и ваши мысли затуманивает волна недоверчивых помех.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>40</ID>
+      <DefaultText>Мердены щелкают клювами, дразня вас и словно говоря: "*Вот как мы обходимся с такими, как ты*".
+
+Скрежеща и каркая — смеясь, понимаете вы, они скрываются в соседней комнате, оставив вас наедине с трупом Шинвайза.</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

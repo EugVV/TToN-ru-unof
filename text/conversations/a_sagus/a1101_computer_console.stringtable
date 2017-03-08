@@ -1,0 +1,491 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\a_sagus\a1101_computer_console</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>86</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>Перед вами лежит угольно-черное неприметное устройство. Как только вы протягиваете руку, чтобы прикоснуться к нему, на его корпусе вспыхивают огоньки в виде треугольника, и в вашем сознании появляются образы. 
+
+{SOUND: Optional — we could hear some machine sounds coming to life here, and they could remain in the background throughout the dialogue (until the machine powers down on node 68).}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>По мере вашего приближения три огонька начинают мигать быстрее. И вот опять мелькает мимолетное видение этой громадной кристаллической арки на равнине. 
+
+"Приказывай", — вздыхает Интеллект.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>"Что это за арка, которую ты мне показал?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>"Кто ты?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>"Покажи мне эту арку еще раз".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>Проверить внешнюю часть устройства.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>Отойти от устройства.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>Вы видите огромную кристаллическую арку на неровном поле. Эта арка разделена на прямоугольные ячейки, каждая из которых пронумерована. Ячейки выглядят прозрачными и пустыми, кроме...
+
+На вершине арки одна ячейка пульсирует ярким изумрудным светом. 
+
+Сбоку на ней указана цифра "0".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText>Приготовиться еще раз стукнуть устройство ногой.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>14</ID>
+      <DefaultText>"Открой содержимое ячейки 0".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>15</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>16</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>17</ID>
+      <DefaultText>"Какие команды ты понимаешь?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>18</ID>
+      <DefaultText>"Покажи список команд еще раз. Помедленнее, пожалуйста".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>21</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>24</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>26</ID>
+      <DefaultText>Несмотря на то, что большая часть списка отображается нечетко, одна особая команда "Открыть" светится изумрудным цветом. Таким же изумрудным цветом, как и ячейка 0 на вершине арки в темноте.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>27</ID>
+      <DefaultText>"Команда не распознана", — произносит Интеллект с явным удовлетворением, как будто понимает вопрос, но предпочитает не отвечать.
+
+"Приказывай".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>28</ID>
+      <DefaultText>"Команда не распознана", — усмехается Интеллект, пульсируя огнями.
+
+"Приказывай".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>38</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>40</ID>
+      <DefaultText>Пнуть устройство ногой со всей силы.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>41</ID>
+      <DefaultText>Огни Интеллекта начинают испуганно мигать как раз перед тем, как нога бьет в основание устройства. Внутри раздается *хруст*.
+
+"Затвор ячейки поврежден", — задыхается он, а три огонька ослепительно светят на вас. "Все узники потеряны. Лугум Во закрывается".
+
+Как только вы требуете извлечь шипящую деталь из дымящегося устройства, рядом с вмятиной от ноги открываются пружины крышки и огни прекращают мигать.
+{LOOT}
+{SOUND: Optional — Crunching sound as player kicks and breaks the console.}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>42</ID>
+      <DefaultText>Безобидный свист, исходящий из внутренней части механизма Интеллекта, должен был послужить знаком. Ваши пальцы натыкаются на невидимое препятствие в воздухе. 
+
+Несомненно, ему известно, что может произойти в этот раз.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>43</ID>
+      <DefaultText>Интеллекту никогда неизвестно, что может произойти. Ваша нога бьет в основание устройства и внутри слышится *хруст*.
+
+"Затвор ячейки поврежден", — задыхается он, а три огонька ослепительно светят на вас. "Все узники потеряны. Лугум Во закрывается".
+
+Как только вы требуете извлечь интересующую деталь из дымящегося устройства, рядом с вмятиной от ноги открываются пружины крышки и огни прекращают мигать. 
+{LOOT}
+{SOUND: Optional — Crunching sound as player kicks and breaks the console.}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>44</ID>
+      <DefaultText>Вы собираетесь пнуть устройство, но все три огонька одновременно вспыхивают, ослепляя вас. 
+
+Вы бьетесь голенью о прочную часть корпуса устройства и издаете громкий стон, заглушая довольный смех Интеллекта.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>48</ID>
+      <DefaultText>Память возвращается. Вы стоите перед этой аркой, рассматривая две последние активные ячейки в когда-то неприступном Лугум Во. 
+
+"Открыть ячейку 29", — говорите вы и поворачиваете артефакт, появившийся перед вами. Вы озвучиваете свое требование с еле заметной улыбкой, глядя, как в ячейке намного выше гаснет свет...</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>49</ID>
+      <DefaultText>Вы изучаете арку и окружающую местность, и на мгновение вам почти удается удержать эти воспоминания и услышать сухой голос, отдающий команду... Но гул двигателей Интеллекта слишком отвлекает. 
+
+Воспоминания исчезают. Вам нужно вырвать свои воспоминания из лап этого устройства каким-то другим способом.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>50</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>51</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>52</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>53</ID>
+      <DefaultText>Попробовать еще что-нибудь вспомнить об этом странном месте.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>54</ID>
+      <DefaultText>Закрыть образ арки.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>63</ID>
+      <DefaultText>Вы отпускаете образ арки и она исчезает, возвращая вас в реальность. 
+
+"Приказывай", — недовольно говорит Интеллект.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>64</ID>
+      <DefaultText>::треск::</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>65</ID>
+      <DefaultText>"Ожидание команды".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>66</ID>
+      <DefaultText>::треск::</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>67</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>68</ID>
+      <DefaultText>Лампы устройства моргают ослепительными импульсами, а затем, вспыхивая, обращаются на вас. 
+
+"Сейчас ячейка 0 будет открыта", — со злостью произносит Интеллект. "Обрати внимание, что объект, который ты собираешься получить, абсолютно безопасен. Особая осторожность не требуется". Странное содержимое ячейки 0 материализуется перед вами.
+
+"Внимание. Теперь все ячейки свободны. Лугум Во закрывается". Огни Интеллекта гаснут один за другим. 
+{LOOT}
+{DP}
+{SOUND: Machine noise fades out on this node (if it's been present throughout). Ideally, this would happen as the player exits this node or at the start of the next one.}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>69</ID>
+      <DefaultText>::треск::</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>81</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>84</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>85</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>86</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>88</ID>
+      <DefaultText>Образ исчезает, оставляя вас смотреть на треугольный ряд огней. 
+
+"Приказывай", — произносит устройство или Интеллект внутри него. Каждое его слово пропитано неприязнью.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>89</ID>
+      <DefaultText>Высокая кристаллическая арка возвышается над неровной серой местностью. Воздух душный и затхлый. А там, на изумрудной верхушке...</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>91</ID>
+      <DefaultText>Три огня с раздражением пульсируют. Из вентиляционных отверстий устройства выходит нагретый воздух. А затем...
+
+Внушительный список команд проносится в вашем сознании, но слишком быстро, чтобы успеть их прочитать. Вы со вздохом протираете глаза, а Интеллект усмехается. 
+
+"Приказывай", — произносит он самодовольно.
+
+{SOUND: Optional — Air being emitted from the vents of the machine, almost like a sigh.}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>92</ID>
+      <DefaultText>Во всяком случае, список проносится в вашем сознании даже быстрее, чем в прошлый раз. 
+
+"Приии. Кааааа. Зываааааай", — тянет слоги Интеллект.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>93</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>94</ID>
+      <DefaultText>Возмущенный гул доносится из двигателей Интеллекта при проверке его древнего корпуса. 
+
+{SOUND: Optional — Machine noise becomes slightly indignant for this node.}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>96</ID>
+      <DefaultText>Новейший механизм, установленный на устройстве, создает словарный запас Интеллекта и позволяет ему с вами разговаривать. Первоначальный создатель этого устройства, возможно, даже не предполагал, что оно будет общаться.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>97</ID>
+      <DefaultText>Нет ничего необычного. Вы делаете шаг назад и гул утихает.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>98</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>101</ID>
+      <DefaultText>"Ты собираешься разломать здесь каждую машину?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>102</ID>
+      <DefaultText>"Интересно, что *отверженный* может управлять машинами Меняющегося Бога". Он скрещивает руки на груди. "Как ты это сделал?"</DefaultText>
+      <FemaleText>"Интересно, что *отверженная* может управлять машинами Меняющегося Бога". Он скрещивает руки на груди. "Как ты это сделала?"</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>103</ID>
+      <DefaultText>Каллистеж закатывает глаза и смотрит на Алигерна. А затем смотрит на вас. "Он никогда не перестанет грызть эту кость, понимаешь? Правда ему не нужна". Ее глаза блестят. "Однако, признаюсь, мне тоже любопытно. Как ты это *сделал*?"</DefaultText>
+      <FemaleText>Каллистеж закатывает глаза и смотрит на Алигерна. А затем смотрит на вас. "Он никогда не перестанет грызть эту кость, понимаешь? Правда ему не нужна". Ее глаза блестят. "Однако, признаюсь, мне тоже любопытно. Как ты это *сделала*?"</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>104</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>105</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>106</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>107</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>108</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>109</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>110</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>111</ID>
+      <DefaultText>"Я знал это", — произносит Алигерн, демонстрируя Каллистеж торжествующую ухмылку. Она прищуривает глаза, но ничего не отвечает.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>112</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>114</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>115</ID>
+      <DefaultText>Осмотреть неровный пустырь.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>116</ID>
+      <DefaultText>Осмотреть неровный пустырь еще раз.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>117</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>118</ID>
+      <DefaultText>На пустой равнине кружится сухой песок. Вдали, много километров за аркой, виднеются едва заметные очертания, *похожие* на разрушенную башню, однако они медленно расплываются в сером воздухе.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>119</ID>
+      <DefaultText>Далеко за пределами арки разрушенная башня тянется к бледно-красным нитям облаков.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>120</ID>
+      <DefaultText>Треугольник из огней на устройстве мигает в такт шуму двигателей, которые работают внутри него, и мысленный образ появляется еще раз.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>121</ID>
+      <DefaultText>Вы вздрагиваете от воспоминания, и оно рассыпается в прах. Вы поднимаете глаза на арку, как сейчас. В ячейке 29 сейчас темно. Осталась только ячейка 0.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>122</ID>
+      <DefaultText>"Я думаю, просто повезло".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>123</ID>
+      <DefaultText>"Может быть, ты прав. Может быть, *я* действительно Меняющийся Бог?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>124</ID>
+      <DefaultText>"Я кое-что вспомнил. Но я не думаю, что это *мои* воспоминания".</DefaultText>
+      <FemaleText>"Я кое-что вспомнила. Но я не думаю, что это *мои* воспоминания".</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>125</ID>
+      <DefaultText>"Я кое-что вспомнил".</DefaultText>
+      <FemaleText>"Я кое-что вспомнила".</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>126</ID>
+      <DefaultText>"Воспоминания, оставшиеся от прошлого сознания? Это действительно очень интересно".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>127</ID>
+      <DefaultText>"Только не притворяйся, что тебе известно, что это было. С тем же успехом машина могла вызвать что-то кроме его потерянных воспоминаний".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>128</ID>
+      <DefaultText>Она многозначительно смотрит на вас, стуча зубами, как животное, грызущее кость.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>129</ID>
+      <DefaultText>"Я знал это", — произносит Алигерн, демонстрируя Каллистеж торжествующую ухмылку.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>130</ID>
+      <DefaultText>"Это бессмысленно, Алигерн. У него явно остался какой-то начальный опыт и знания от Меняющегося Бога, который был в его теле. Никто не говорит, что в нем не спрятаны и более конкретные воспоминания".</DefaultText>
+      <FemaleText>"Это бессмысленно, Алигерн. У нее явно остался какой-то начальный опыт и знания от Меняющегося Бога, который был в ее теле. Никто не говорит, что в ней не спрятаны и более конкретные воспоминания".</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>131</ID>
+      <DefaultText>Он хмурится. "Конечно, это так. Только не забывайте, что я слежу за вами".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>132</ID>
+      <DefaultText>"Будто бы ты *позволил* нам об этом забыть. Честное слово, Алигерн".</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

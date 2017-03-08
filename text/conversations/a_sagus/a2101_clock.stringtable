@@ -1,0 +1,331 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\a_sagus\a2101_clock</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>59</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>Выбрать фокус: развитая речь (убеждение, угроза, лидерские навыки).
+
+{SCRIPT: Give PC Brandishes a Silver Tongue Focus.}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>14</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>15</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>16</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>17</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>19</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20</ID>
+      <DefaultText>Сложная машина нависает над вами. Непонятно, для чего она нужна, но три круглых циферблата на земле напоминают часы. Однако, с машиной явно что-то не так: если смотреть прямо на нее, то она кажется полупрозрачной, мерцающей в воздухе. Да и циферблаты показывают несколько разных времен за раз.
+
+Под средним циферблатом мелькают силуэты людей. Кто-то кладет руки на циферблат, будто на стеклянную стену, и, кажется, смотрит на вас.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>21</ID>
+      <DefaultText>Машина стала непрозрачной. Три ее циферблата показывают по одному времени, хотя ни одно из них вам не знакомо.
+
+Вы наклоняетесь к среднему циферблату. За ним до сих пор видно три тени, и теперь их черты почти различимы...
+
+Вдруг тени выпрыгивают из часов прямо на вас! Что-то бьет вас по голове, будто стальное острие, а затем наступает тьма.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>22</ID>
+      <DefaultText>Машина стала непрозрачной. Три ее циферблата показывают по одному времени. До сих пор не понятно, для чего нужна эта машина, но, по крайней мере, с ней можно что-то делать.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>23</ID>
+      <DefaultText>Сложная машина мерцает в воздухе, если смотреть прямо на нее. Циферблаты будто показывают по нескольку разных времен за раз.
+
+Из-под среднего циферблата за вами наблюдают темные фигуры.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>24</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>25</ID>
+      <DefaultText>Потянуться к силуэтам.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>26</ID>
+      <DefaultText>Снова потянуться к силуэтам.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>27</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>28</ID>
+      <DefaultText>Рука проходит сквозь циферблат, фигуры и всю машину, словно ее тут и вовсе нет.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>29</ID>
+      <DefaultText>Рука снова проходит насквозь. Нужно найти другой способ дотянуться до них.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>31</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>32</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>33</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>34</ID>
+      <DefaultText>Осмотреть машину.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>35</ID>
+      <DefaultText>Снова осмотреть машину.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>36</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>37</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>38</ID>
+      <DefaultText>Как только вы отводите руку, к вам приходит воспоминание, да так резко, будто кто-то ударил вас дубиной в грудь.
+
+Вы работаете над часами. Они больше не прозрачные, а очень даже крепкие.
+
+Позади слышится шум. Пришли, значит... Трое предателей. Думают застать вас врасплох, но вы предвидели этот момент с помощью часов.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>39</ID>
+      <DefaultText>Пульт управления починен, и вы чувствуете энергию Потоков и телом, и разумом. Вы легко могли бы «вытолкнуть» машину обратно в ее раннее состояние, вне времени. Быть может, от этого включились бы и три устройства вокруг Малого Круга.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>40</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>41</ID>
+      <DefaultText>С помощью энергии Потоков, что кружится между вами и машиной, вы заставляете машину прийти в исходное положение, после чего она исчезает из настоящего.
+
+Три пульта управления немедленно оживают, и в Малый Круг возвращается солнце.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>42</ID>
+      <DefaultText>Отойти от часов.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>43</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>44</ID>
+      <DefaultText>Громоздкий механизм мерцает в воздухе. Он словно находится в нескольких состояниях одновременно, как Каллистеж. Но машина во всех состояниях находится на одном месте.
+
+Дотронуться до машины нельзя — рука проходит сквозь нее.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>45</ID>
+      <DefaultText>Машина мерцает в воздухе, будто находясь в нескольких состояниях одновременно. На нее не совсем приятно смотреть.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>46</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>47</ID>
+      <DefaultText>Машина гудит и тикает в ровном, низком ритме. Это явно какие-то часы, хотя вы и не понимаете, как именно они измеряют время. Фигур под средним циферблатом больше нет.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>48</ID>
+      <DefaultText>Огромные часы все гудят и тикают. Фигур под средним циферблатом больше нет.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>49</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>50</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>51</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>52</ID>
+      <DefaultText>Вытолкнуть машину из настоящего и избавить Малый Круг от вечной ночи.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>53</ID>
+      <DefaultText>Вытолкнуть машину из настоящего и избавить Малый Круг от вечной ночи.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>54</ID>
+      <DefaultText>Последние обрывки воспоминания тают, и через ваше тело проходит заряд энергии. Все мышцы словно пронзают холодными иглами. Вдруг, силы Потока образуют арки между часами и тремя древними устройствами в лагере сектантов.
+
+Часы признали что-то в вас, а может, и наоборот. Как бы то ни было, вы сумели включить устройства поблизости.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>55</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>56</ID>
+      <DefaultText>Когда вы подходите к часам, двое спорщиков около них замолкают. Миниатюрная женщина поворачивается к вам. У нее странные волосы: светлые, почти желтые, а глаза большие и яркие. "Простите, мы тут с коллегой кое-что обсуждали, и..."
+
+Тут женщина замечает вашу татуировку, и у нее перехватывает дыхание.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>57</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>58</ID>
+      <DefaultText>Выбрать фокус: мастерская защита (защитные боевые навыки).
+
+{SCRIPT: Give PC Masters Defense Focus.}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>59</ID>
+      <DefaultText>Выбрать фокус: жизнь в тени (крадучесть, удары в спину, поиск слабых мест и использование этого знания).
+
+{SCRIPT: Give PC Breathes Shadow Focus.}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>60</ID>
+      <DefaultText>Фигуры Камоса, Дивитиаку и Валлона исчезли со среднего циферблата. Теперь они существуют лишь в лабиринте.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>61</ID>
+      <DefaultText>Раздается слабый звук металла, скользящего по коже. Вы хлопаете рукой по среднему циферблату и пробуждаете скрытую силу часов. Неизвестно, что с ними будет, но уж всяко лучше того, что они хотят сделать с вами.
+
+Вспыхивает свет. Энергия дугой протягивается от часов, вам за плечи и к тем, кто собирался напасть. Вы не видите, что стало с нападающими, но они быстро исчезают, а их крики затихают.</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

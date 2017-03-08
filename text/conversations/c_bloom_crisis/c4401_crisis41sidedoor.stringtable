@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\c_bloom_crisis\c4401_crisis41sidedoor</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>15</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>Эти мешки выглядят как огромные пузыри, перемещаясь и пульсируя вместе с вонючей жидкостью и воздухом. Их, напоминающих кожу оболочка, представляет собой дорожную карту из вен и пор. Возможно, вам удастся их разорвать, если вы будете достаточно усердно пытаться... что несомненно разозлит Цветение.</DefaultText>
+      <FemaleText>Эти мешки выглядят как огромные пузыри, перемещаясь и пульсируя вместе с вонючей жидкостью и воздухом. Их, напоминающих кожу оболочка, представляет собой дорожную карту из вен и пор. Возможно, тебе удастся их разорвать, если ты будешь достаточно усердно пытаться... что несомненно разозлит Цветение.</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>Эти толстые, жилистые мешки блокируют вам проход.</DefaultText>
+      <FemaleText>Эти толстые, жилистые мешки блокируют твой проход.</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>Вскрыть мешки с помощью Межпространственного Скальпеля.</DefaultText>
+      <FemaleText>Вскрой мешки с помощью Многомерного Скальпеля.</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>Хорошо поставленный удар обнаруживает слабое место в мешках, и они сдуваются рядом с вами, испуская отвратительное шипение выходящего газа. 
+
+Цветение дрожит и сотрясается рядом с вами. Голоса Цветения яростно шипят.
+
+{SOUND: Bloom-voices hissing angrily.}</DefaultText>
+      <FemaleText>Хорошо поставленный удар обнаруживает слабое место в мешках, и они сдуваются рядом с тобой, испуская отвратительное шипение выходящего газа. 
+
+Цветение дрожит и сотрясается рядом с тобой. Голоса Цветения яростно шипят.
+
+{SOUND: Bloom-voices hissing angrily.}</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>Вам не удается найти подходящую точку для приложения силы к мешкам, и ваши атаки ни к чему не приводят.</DefaultText>
+      <FemaleText>Тебе не удается найти подходящую точку для приложения силы к мешкам, и твои атаки ни к чему не приводят.</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText>Оставить мешки в покое.</DefaultText>
+      <FemaleText>Оставить мешки в покое.</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>14</ID>
+      <DefaultText>Разорвать мешки.</DefaultText>
+      <FemaleText>Разорви мешки.</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>15</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

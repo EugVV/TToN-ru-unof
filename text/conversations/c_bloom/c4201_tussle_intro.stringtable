@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\c_bloom\c4201_tussle_intro</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>12</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>[Стоп! Здесь что-то есть... Приготовьтесь!]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>[М-м-м... Чувствуете? Кажется, у меня мурашки по мурашкам бегают!]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>"Все назад! Сейчас этот узел из потрохов что-то в нас бросит!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>15</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>16</ID>
+      <DefaultText>Перед вами расстилается ужасная сцена. В стенах и полу комнаты появилось множество зубастых отверстий, которые тянут обитателей комнаты вниз и пожирают их.
+
+Судя по недоеденным повозкам и другим обломкам, это было что-то вроде рынка... или торговый пост.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>17</ID>
+      <DefaultText>Перед вами расстилается ужасная сцена. В стенах и полу комнаты появилось множество зубастых отверстий, которые тянут обитателей комнаты вниз и пожирают их.
+
+Судя по недоеденным повозкам и другим обломкам, это было что-то вроде рынка... или торговый пост.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>18</ID>
+      <DefaultText>Слева, на другом конце комнаты, находится большая дремлющая Пасть. Ее рот открывается, и внутри виден портал.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>19</ID>
+      <DefaultText>Со всех сторон слышится тихий шепот... резкий, угрожающий, и голоса все множатся. Вы чувствуете их ненависть и гнев из-за того, что вы ранили Пасть в Топи Хиургов...</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

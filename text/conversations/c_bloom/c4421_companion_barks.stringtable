@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\c_bloom\c4421_companion_barks</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>6</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>"*Больше* призрачных языков? И огромнее?! Эта шутка больше не смешна".</DefaultText>
+      <FemaleText>"*Больше* призрачных языков? И огромнее?! Эта шутка больше не смешна."</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>"У существа должен был быть *один*, самое большее *два* языка. Цветение, похоже, считает, чем больше языков, тем лучше".</DefaultText>
+      <FemaleText>"У существа должен был быть *один*, самое большее *два* языка. Цветение, похоже, считает, чем больше языков, тем лучше".</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>"Нет-нет. Мне не надо. Но все равно спасибо".</DefaultText>
+      <FemaleText>"Нет-нет. Мне не надо. Но все равно спасибо".</FemaleText>
+    </Entry>
+  </Entries>
+</StringTableFile>

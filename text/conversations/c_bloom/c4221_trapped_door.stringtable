@@ -1,0 +1,243 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\c_bloom\c4221_trapped_door</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>43</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>Эта старая металлическая дверь выглядит весьма прочной. Она заперта на один механический замок.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>Вскрыть замок.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>Замок довольно сложный, но вы можете открыть его. Выталкивая последний механизм на место, вы случайно нажимаете на пузырек воздуха, который активирует крошечное сопло. Вас обрызгивает кислота. Мучительная боль охватывает вас.
+
+По крайней мере, дверь удалось открыть.
+
+{DAMAGE}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>Осмотреть замок поближе.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>В механизм замка встроен маленький пузырек воздуха. Присмотревшись к нему, вы замечаете, что пузырек каким-то образом соединен с системой трубок. Это ловушка — хитроумная, замысловатая ловушка. Мердены неспособны создать такую. По-видимому, это часть конструкции двери.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>Оставить дверь в покое.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>Вы поудобнее устраиваетесь перед дверью и начинаете работать. Вы осторожно отключаете спусковое устройство... но случайно активируете другое. Ловушка сработала, и вас обрызгивает кислота! 
+
+К счастью, кислота также повреждает замок, и дверь распахивается.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>Эта старая металлическая дверь выглядит весьма прочной. Она заперта на один механический замок. Вы замечаете, что механизм кажется довольно сложным. По-видимому, это не простой замок.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText>Как бы вы ни пытались, вам просто не удается в нужной последовательности задействовать встроенные в дверь механизмы и предохранительные устройства.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>14</ID>
+      <DefaultText>Вы справляетесь с замком, и дверь открывается с приятным вашему уху лязгом.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>18</ID>
+      <DefaultText>Выбить дверь.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>19</ID>
+      <DefaultText>Вы бросаетесь на дверь и случайно попадаете точно в нужное место. Замок ломается... и вы активируете ловушку, искусно встроенную внутрь него. Вашу одежду и кожу обрызгивает молекулярная кислота. Вас охватывает мучительная боль... но, по крайней мере, дверь удалось открыть.
+
+{DAMAGE}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20</ID>
+      <DefaultText>Вы бросаетесь на металлическую дверь, будучи уверенным, что она древняя и легко поддастся. 
+
+Этого не происходит. От этих усилий у вас только начинает болеть плечо.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>21</ID>
+      <DefaultText>Вы бросаетесь на дверь. Замок ломается, и дверь распахивается.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>22</ID>
+      <DefaultText>Открыть дверь с помощью ключа, принадлежавшего главе мерденов.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>23</ID>
+      <DefaultText>Вы вставляете ключ в замок и поворачиваете его. Механизмы со щелчком становятся на место. Тут же из сопла на двери брызгает какая-то жидкость.
+
+Вас охватывает мучительная боль. Вы активировали ловушку, которая обрызгала вас кислотой.
+
+По крайней мере, дверь удалось открыть.
+
+{DAMAGE}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>24</ID>
+      <DefaultText>Ключ оказывается подходящим, и дверь открывается с приятным вашему уху лязгом.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>25</ID>
+      <DefaultText>Эта старая металлическая дверь выглядит весьма прочной. Она заперта на один механический замок. Когда вы подходите к ней, Мэткина дотрагивается до вашей руки.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>26</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>27</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>28</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>29</ID>
+      <DefaultText>Follow-up PQ. 29</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>31</ID>
+      <DefaultText>Попытаться вскрыть замок еще раз.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>32</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>33</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>34</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>35</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>36</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>37</ID>
+      <DefaultText>Работая медленно и сосредоточенно, вы исследуете конструкцию и замечаете, что спусковые устройства ведут к крошечному соплу на передней стороне двери. Сопло соединено с небольшим резервуаром. Он содержит опасное вещество, которое может выплеснуться на незадачливую жертву. Отключив спусковые устройства, вы снимаете резервуар с двери.
+
+Теперь вы — гордый владелец маленького мешочка с молекулярной кислотой.
+
+{LOOT - ESSENTIAL}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>38</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>39</ID>
+      <DefaultText>Follow-up PQ. 39</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>41</ID>
+      <DefaultText>Еще раз попытаться выбить дверь.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>42</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>43</ID>
+      <DefaultText>Попытаться обезвредить ловушку.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>44</ID>
+      <DefaultText>Еще раз попытаться обезвредить ловушку.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>45</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>46</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>47</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>48</ID>
+      <DefaultText>"Стой, мне случалось видеть такие замки раньше. Обычно они оснащены потайными отделениями. Держу пари, в этом замке тоже скрыт приятный сюрприз".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>49</ID>
+      <DefaultText>Вам снова не удается открыть замок. Сложная конструкция механизмов удивительно хорошо продумана.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>50</ID>
+      <DefaultText>Старая дверь все еще держится. Очевидно, она крепче, чем кажется.</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

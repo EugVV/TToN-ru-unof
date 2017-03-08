@@ -1,0 +1,932 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\a_sagus\a2311_ghzei</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>172</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>Низкая приземистая женщина бездумно царапает распухшие красные татуировки на бледном голом черепе. Когти царапают кожу до крови, но она, кажется, не замечает этого.
+
+При звуке шагов она вздергивает голову, и ощеривает острые зубы в широченной ухмылке.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>"С возвращением, птенчик. Да. Мы все еще смакуем твой вкус". Она облизывает ритуальные шрамы вокруг губ серым острым языком, оставляя влажный след.
+
+"Решил опять поделиться своей сладкой нежнятинкой? Покормить Гзи шелковым мяском?"</DefaultText>
+      <FemaleText>"С возвращением, птенчик. Да. Мы всё ещё смакуем твой вкус". Она облизывает ритуальные шрамы вокруг губ серым острым языком, оставляя влажный след.
+
+"Решила опять поделиться своей сладкой нежнятинкой? Покормить Гзи шёлковым мяском?"</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>"Мы приветствуем тебя, птенчик. Да. Твое прибытие — честь для нас". Ее голодные глаза осматривают ваше тело.
+
+"Зачем пришел к Дендра О'хур? М-м-м? Чем хочешь поделиться с нами?" Она облизывает ритуальные шрамы вокруг губ серым острым языком, оставляя влажный след.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>"Молот", — сквозь зубы произносит Тибир. — "Этот дуболом насмерть забил партнера за пару шинов".
+
+{TYBIR}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>"С возвращением, птенчик", — мурлыкает она, будто обращаясь к милому ребенку.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText>Follow-up PQ. 37</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText>Ее маленькие глазки весело сверкают, но все же сначала она смотрит на предводителя Дендра О'хур. Тот кивает.
+
+"Спрашивай, птенчик", — говорит она, поглаживая тыльную сторону ладони когтями. Даже от такого нежного прикосновения идет кровь.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>14</ID>
+      <DefaultText>"Опять это слово! Но спрашивай, спрашивай".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>15</ID>
+      <DefaultText>Follow-up PQ. 101</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>16</ID>
+      <DefaultText>"Ох, птенчик", — радостно смеется она. — "Все-то ты неверное слово говоришь... Убийства нет, если нет тела. Это было..." Она произносит слово, незнакомое и неприятное на слух, состоящее из щелканья зубов и рычащих согласных.
+
+"Так что ничего не пропало".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>17</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>18</ID>
+      <DefaultText>"Мы никогда такого не говорили", — отвечает она, игриво прикусив язык. — "Они убивают. Но не почитают. Они не понимают, кем являются".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>19</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20</ID>
+      <DefaultText>"Может быть и нет, — сердито отвечает Молот. — Но сломал достаточно. И тебе бы лучше примолкнуть. Умники долго не живут".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>21</ID>
+      <DefaultText>"Что ты знаешь об убийце?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>22</ID>
+      <DefaultText>"Ты не думаешь, что Киятава или Маллет могли убить?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>23</ID>
+      <DefaultText>Follow-up PQ. 42</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>24</ID>
+      <DefaultText>"Словом?" — мигает она. — "А, ну да. В вашем языке нужного слова нет, так что мы используем свое".
+
+Она задумчиво постукивает зубами и отвечает: "Мы, конечно, знаем об убийстве. Оставить тело гнить — это заявить, что душу внутри него не стоит спасать. За такое мы караем. Никто не вправе принимать такого решения".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>25</ID>
+      <DefaultText>"Трудно перевести", — отвечает она. — "Что-то вроде убить-поглотить-почтить".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>26</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>27</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>28</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>29</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>31</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>32</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>33</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>34</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>35</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>36</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>37</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>38</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>39</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>40</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>41</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>42</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>43</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>44</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>45</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>46</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>47</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>48</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>49</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>50</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>51</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>52</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>53</ID>
+      <DefaultText>"Я хочу еще кое-что спросить".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>54</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>55</ID>
+      <DefaultText>"Что это было за слово, которым ты описала убийство? Чирикающее такое?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>56</ID>
+      <DefaultText>"Каким словом ты описала убийство?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>57</ID>
+      <DefaultText>Follow-up PQ. 84</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>58</ID>
+      <DefaultText>"Нам это знакомо", — хмурится она. — "Но теперь мы сомневаемся".
+
+Она барабанит когтями по подбородку, прокалывая его до крови. "Да! Кровавые круги, что рисовали на стенах домов в помойке около Цветения. В тенях. «Берегись Бесконечных Врат, маленькая женщина», — говорили жители. До сих пор смех разбирает! Такие они были миляги..."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>59</ID>
+      <DefaultText>"На помойке около Цветения. Но не вчера. И не в прошлом году. Давно. И больше кругов не было. Может, те, кто их рисовал, ушли куда-то".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>60</ID>
+      <DefaultText>"Знаешь ли ты о группе, называющей себя Дети Бесконечных Врат?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>61</ID>
+      <DefaultText>"Где ты видела кровавые круги?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>62</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>63</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>64</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>65</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>66</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>67</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>68</ID>
+      <DefaultText>"Что думаешь о Имбиту?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>69</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>70</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>71</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>72</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>73</ID>
+      <DefaultText>"Что думаешь о Молоте?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>74</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>75</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>76</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>77</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>78</ID>
+      <DefaultText>"Что думаешь о Киятаве?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>79</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>80</ID>
+      <DefaultText>"У меня есть еще вопросы".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>81</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>82</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>83</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>84</ID>
+      <DefaultText>"Довольно про убийство".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>85</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>86</ID>
+      <DefaultText>"Убийство, убийство..." — бормочет она. — "Не люблю это слово..."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>87</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>88</ID>
+      <DefaultText>"Имбиту сказал, что я могу спросить тебя об убийстве протеже Толстона".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>89</ID>
+      <DefaultText>"У меня есть еще вопросы об убийстве".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>90</ID>
+      <DefaultText>Follow-up PQ. 45</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>91</ID>
+      <DefaultText>Follow-up T. 48</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>92</ID>
+      <DefaultText>"Нам нельзя говорить об этом. Имбиту велел держать язык за зубами".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>93</ID>
+      <DefaultText>"Мы не знаем", — она отводит глаза. — "И не спрашиваем".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>94</ID>
+      <DefaultText>"В Подбрюшье орудует убийца. Знаешь о нем что-нибудь?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>95</ID>
+      <DefaultText>"Почему Имбиту не велит рассказывать об убийце в Подбрюшье?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>96</ID>
+      <DefaultText>Follow-up PQ. 27</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>97</ID>
+      <DefaultText>"Мы таким не делимся", — усмехается Гзи. — "Пиры у нас только для своих. Но их много, много... Свою пищу мы находим сами".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>98</ID>
+      <DefaultText>Гзи оценивающе смотрит на вас и продолжает:
+
+"Ну, вроде как... Уважение — хорошо. Страх — лучше. А меня теперь боятся даже люди Толстона".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>99</ID>
+      <DefaultText>"Много", — отвечает Гзи и почему-то краснеет. — "Но много еще до того, как мы пришли сюда через портал".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>100</ID>
+      <DefaultText>"Сколько тел вы съели?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>101</ID>
+      <DefaultText>"Напомни, сколько тел вы съели?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>102</ID>
+      <DefaultText>Follow-up PQ. 16</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>103</ID>
+      <DefaultText>"Ох!" — говорит Гзи, плотно сжимая костлявые ладони. — "Ох, птенчик! Такой сладкий! Мясо как жирненький шелк! Мускулы такие плотные! Секреты на зубах так и хрустели!" Она застенчиво хихикает и похлопывает себя по животу: "Мы не могли удержать тебя внутри".</DefaultText>
+      <FemaleText>"Ох! — говорит Гзи, плотно сжимая костлявые ладони. — Ох, птенчик! Такая сладкая! Мясо как жирненький шёлк! Мускулы такие плотные! Секреты на зубах так и хрустели!" Она застенчиво хихикает и похлопывает себя по животу: "Мы не могли удержать тебя внутри".</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>104</ID>
+      <DefaultText>"Лакомые кусочки. Острые чувства. Хрустящие секреты".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>105</ID>
+      <DefaultText>"И не думай, что я тебя не признала", — говорит он, глядя на Тибира. — "Я тебя помню. И помню, что ты сделал".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>106</ID>
+      <DefaultText>"Что я сделал..." — говорит Тибир, почесывая подбородок. — "Что же я сделал? А! Ты о том, как я рассказал всем, что ты убил своего товарища за деньги, на которые даже поесть было нельзя?" Он улыбается, но глаза его холодны: "Я и повторить могу, обращайся".
+
+{TYBIR}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>107</ID>
+      <DefaultText>"Неважно", — пожимает плечами Молот. — "Все в прошлом. Это теперь мое место".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>108</ID>
+      <DefaultText>"Что вы получите... съев меня?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>109</ID>
+      <DefaultText>"Что вы все-таки получите, съев меня?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>110</ID>
+      <DefaultText>Follow-up PQ. 22</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>111</ID>
+      <DefaultText>"Мы — Гзи из..." — она замолкает. — "Ты не знаешь такое слово. Но мы из другого мира. Он тяжелее. Больше камней, меньше жизни".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>112</ID>
+      <DefaultText>"Мы поедаем мертвецов, чтобы сохранить их. Чтобы помнить их и дать им вечную жизнь".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>113</ID>
+      <DefaultText>"Кто вы?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>114</ID>
+      <DefaultText>"Во что вы верите?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>115</ID>
+      <DefaultText>"Прощай".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>116</ID>
+      <DefaultText>"Нам тебя будет не хватать, птенчик. Да и всех вас".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>117</ID>
+      <DefaultText>"Как ты называешь свой народ на родном языке?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>118</ID>
+      <DefaultText>"Это клановые или семейные татуировки?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>119</ID>
+      <DefaultText>Гзи раскатисто рычит вам в лицо и клацает зубами. Потом улыбается:
+
+"Видишь? Не переводится оно".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>120</ID>
+      <DefaultText>"Наш мир не похож на твой", — говорит Гзи. — "Он не так богат. Там нет зверей. Нет..." Она останавливается и хмурится: "Офущи? Их тоже нет. Единственное мясо там — это *наше*".
+
+Она вздыхает: "Но это не плохо. Когда мы съедаем тела, то ничего не пропадает, кроме самого тела. Душа остается". Она расправляет ладонь: "Покойник становится частью нас. Потому и «мы»".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>121</ID>
+      <DefaultText>Гзи расплывается в широченной ухмылке.
+
+"И те, и другие!" — отвечает она. — "Мы ставим на себе отметку за каждое съеденное тело. Это как ростки на ветке. Все в нашем мире — семья, и все — пища".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>122</ID>
+      <DefaultText>"Почему ты все время говоришь «мы»?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>123</ID>
+      <DefaultText>"Потому что мы есть мы", — удивленно моргает она. — "Только новорожденные птенчики могут назвать себя «я», да и то лишь до того, как первый раз напьются молока".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>124</ID>
+      <DefaultText>"Надо говорить «овощи»".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>125</ID>
+      <DefaultText>"Очень похоже на позицию Дендра О'хур".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>126</ID>
+      <DefaultText>"Так значит, индивид умирает, а его душа делится на всех, кто ест его тело?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>127</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>128</ID>
+      <DefaultText>"Да?" — Гзи приподнимает бровь. — "Ну и пусть. Мы не едим то, что валялось *в грязи*".
+
+Она пожимает плечами: "Да и не за этим мы тут".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>129</ID>
+      <DefaultText>"Да!" — радостно отвечает она. — "Поэтому мы здесь".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>130</ID>
+      <DefaultText>"Ты прав", — кивает она. — "Так мы выражаем почтение. И выживаем".
+
+Она пожимает плечами: "Но все равно умираем. А некоторые умирают в одиночку, и их души пропадают. Наш народ заслуживает лучшей доли, поэтому мы и здесь".</DefaultText>
+      <FemaleText>"Ты права, — кивает она. — Так мы выражаем почтение. И выживаем".
+
+Она пожимает плечами: "Но всё равно умираем. А некоторые умирают в одиночку, и их души пропадают. Наш народ заслуживает лучшей доли, поэтому мы и здесь".</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>131</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>132</ID>
+      <DefaultText>"Мы слышим... *слышали* о магии Дендра О'хур", — сосредоточено говорит Гзи. Ваш язык явно дается ей с трудом. "Она не останавливается на душе! Она вытягивает память из мертвой плоти и пропитывает ими разум!" — она восторженно улыбается.
+
+"Так что мы приходим... пришли через портал в Цветение, чтобы изучить эту магию. Мы н-нашли дорогу в Сагус. Мы попроси-ли присоединиться", — вздыхает она.
+
+"Теперь слыхать, что портала нет. Но сделаем другой. Потом".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>133</ID>
+      <DefaultText>"Но ты снова здесь. Ты целый", — Гзи качает головой. — "Такое чудо!"
+
+Закусив губу, она смотрит вниз: "Мы делаем путь домой. Новый портал. И если сделаем, то хотим взять тебя с собой. Твоя мягкая, отрастающая плоть может изменить наш мир. Пировальных войн больше не будет. Голодные птенчики не будут больше плакать, высасывая мозг из обглоданных костей". Голос ее мечтателен, но когда она поднимает взгляд, то в нем видно коварство.
+
+"Есть еще такие, как ты? Где-нибудь?"</DefaultText>
+      <FemaleText>"Но ты снова здесь. Ты целая, — Гзи качает головой. — Такое чудо!"
+
+Закусив губу, она смотрит вниз: "Мы делаем путь домой. Новый портал. И если сделаем, то хотим взять тебя с собой. Твоя мягкая, отрастающая плоть может изменить наш мир. Пировальных войн больше не будет. Голодные птенчики не будут больше плакать, высасывая мозг из обглоданных костей". Голос её мечтателен, но когда она поднимает взгляд, то в нём видно коварство.
+
+"Есть ещё такие, как ты? Где-нибудь?"</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>134</ID>
+      <DefaultText>"Да. Мэткина, например".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>135</ID>
+      <DefaultText>"Нас много".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>136</ID>
+      <DefaultText>(Ложь) "Нет, я один".</DefaultText>
+      <FemaleText>(Ложь) "Нет, я одна".</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>137</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>138</ID>
+      <DefaultText>"Дай подумать", — говорит Мэткина. — "Нет. Точно нет. И думать забудь".
+
+Мэткина, не обращая внимания на сердитую Гзи, поворачивается к вам: "Когда мы встретим еще одного мутанта-людоеда, пожалуйста, *не говори* ему, что я съедобна!"
+
+{MATKINA}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>139</ID>
+      <DefaultText>"Мы счастливы это слышать", — отвечает Гзи. По складкам на ее подбородке стекает слюна. "Сделай милость. Скажи им, что мы приглашаем их с собой. Там будут приключения. Самая мягкая постель в тепле. И возможность изменить мир".
+
+Она утирает слюну с подбородка: "А мы пока будем искать путь домой. Пора бы уже..."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>140</ID>
+      <DefaultText>"Печально это слышать", — отвечает Гзи, хотя по ее ухмыляющемуся лицу не скажешь. Кажется, у нее даже слюна течет. "Но подумай о том, чтобы отправиться с нами. Там будут приключения. Самая мягкая постель в тепле. И возможность изменить мир".
+
+Она утирает слюну с подбородка и взмахивает когтем: "Но пока рано. Мы не можем вернуться домой. Нужно найти путь".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>141</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>142</ID>
+      <DefaultText>"У меня есть вопросы насчет Дендра О'хур".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>143</ID>
+      <DefaultText>"Нет", — усмехается она и закрывает рот зазубренным когтем. — "Нет. Мы не голос Дендра О'хур, птенчик. Поговори с нашим предводителем Имбиту. Вкушай его слова и пей его мысли".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>144</ID>
+      <DefaultText>"Мы не знаем, кто убивает", — отвечает Гзи, почесывая щеку. Из ранок течет кровь. "Киятава и Маллет шарятся по ночам. Глотают свои секреты. Они в Дендра О'хур из-за власти и голода, а не для того, чтобы воздавать почести умершим. Не для..." Она опять произносит странное слово, громко клацнув зубами в конце.
+
+"В них нет такой доброты".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>145</ID>
+      <DefaultText>"Наше слово значит противоположное. В моем мире, когда кто-то умирает, или кого-то убивают, то мы едим их мясо и вбираем в себя души. Их свет проникает в наши самые дальние уголки".
+
+Она, улыбаясь, поднимает коготь: "Они становятся нами. Понимаешь?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>146</ID>
+      <DefaultText>"Мы рады это слышать", — отвечает Гзи и поворачивает шишковатую голову к Мэткине. По складкам на подбородке Гзи стекает слюна. "Мы хотим, чтобы ты пошла с нами домой. Там будут приключения. Самая мягкая постель в тепле. И возможность изменить мир".
+
+Она утирает слюну с подбородка и взмахивает когтем: "Но пока рано. Мы не можем вернуться домой. Но будем искать. Пойдешь?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>147</ID>
+      <DefaultText>"Понятно. То есть, по-твоему, убийство — это если убийца не доест тело целиком?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>148</ID>
+      <DefaultText>"Не вижу разницы между этим и убийством".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>149</ID>
+      <DefaultText>"Да!" — она радостно хлопает в ладоши. — "Ты понял!"</DefaultText>
+      <FemaleText>"Да!" — она радостно хлопает в ладоши. — "Ты поняла!"</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>150</ID>
+      <DefaultText>"Ох", — говорит она, погрустнев лицом. — "Но она есть!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>152</ID>
+      <DefaultText>"Такое «убийство» — не убийство", — Гзи произносит это с явной издевкой.
+
+"Мы знаем подробности. Рука без кожи в крови. Круги на стене", — говорит она и цокает языком. — "С едой играют птенчики. Возможно, твой «убийца» молод. Не знает, что руки нужно доедать. Надо отодрать от сухожилий воспоминания о тяжкой работе. Обглодать кости. Слизать с пола кровь".
+
+Она с любовью качает головой: "Птенчики..."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>153</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>154</ID>
+      <DefaultText>Гзи потирает татуировки, снова привлекая к ним ваше внимание. Это не просто украшения. Их форма и размещение означают семейные или племенные связи.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>158</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>159</ID>
+      <DefaultText>"Имбиту говорит, что я могу спросить тебя об убийствах в Подбрюшье".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>160</ID>
+      <DefaultText>"Я хочу еще кое-что спросить об убийствах в Подбрюшье".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>161</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>162</ID>
+      <DefaultText>"Что ты знаешь об убийцах?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>163</ID>
+      <DefaultText>"Ты не думаешь, что Киятава или Маллет могли убить кого-нибудь?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>164</ID>
+      <DefaultText>"Довольно про убийства".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>165</ID>
+      <DefaultText>Она бездумно потирает руку.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>166</ID>
+      <DefaultText>Follow-up PQ. 166</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>167</ID>
+      <DefaultText>"У меня есть вопросы насчет Дендра О'хур".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>168</ID>
+      <DefaultText>"Не хочешь рассказывать о Дендра О'хур?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>169</ID>
+      <DefaultText>"Хочу? Тут дело не в «хочу», птенчик. Мы *не достойны* говорить такое", — улыбается она. — "Наш голос — Имбиту".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>170</ID>
+      <DefaultText>Гзи украдкой смотрит на Имбиту. Тот наблюдает за вами с благодушным интересом.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>171</ID>
+      <DefaultText>Гзи кидает взгляд на старика, копошащегося возле костяного алтаря на другой стороне комнаты.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>175</ID>
+      <DefaultText>"Это Имбиту?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>176</ID>
+      <DefaultText>"У меня есть другие вопросы".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>177</ID>
+      <DefaultText>"Да", — отвечает она с застенчивой улыбкой. — "Он ведет нас. Направляет. Кормит".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>178</ID>
+      <DefaultText>"Спрашивай себе..."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>179</ID>
+      <DefaultText>Гзи церемониально указывает на старика поодаль, будто он королевских кровей.</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\x_labyrinth\x1131_specter_barks</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>7</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>"Эй? Ох, скист. Ты мертв что ли? {muttering to himself} Нет, так не должно быть. Если бы он был мертв, я бы тоже был мертв. {beat} Ты меня слышишь?"</DefaultText>
+      <FemaleText>"Эй? Ох, скист. Ты мертва что ли? {muttering to himself} Нет, так не должно быть. Если бы она была мертва, я бы тоже был мертв. {beat} Ты меня слышишь?"</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>"Я ничего не слышу. Ты точно здесь? Ладно, если ты слышишь меня, значит ты еще жив. {muttering to himself} Но ты уже знал это, так ведь? {louder, to the PC} Слушай, я просто хочу думать, что мы оба живы, и хочу, чтобы так и было, ладно?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>"Итак, вот что ты должен сделать. Я не могу попасть к тебе, поэтому тебе нужно проложить дорогу ко мне... Я не знаю, как ты это сделаешь. Я имею в виду, это уже твои заботы. У меня нет карты".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>"А! Это *твой* разум! Держу пари, твои воспоминания там внизу. Найди их, и ты восстановишь путь ко мне. {beat} Ты... там? Тьфу, я разговариваю сам с собой".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>"Что это было? Я не могу сказать, что здесь на самом деле реально. Слушай, проложи *путь*. Тогда мы сможем вместе противостоять этим неприятностям, и ты будешь не один. *Я* буду не один".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>"Эй? Ты в порядке? Мы наверху. Забирайся к нам, только *осторожней*".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

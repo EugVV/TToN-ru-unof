@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\x_labyrinth_crisis\x6131_finalconfrontation_rhinentry</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>1</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>{уверенно и гордо}"Вот я и нашла тебя! И, похоже, как раз вовремя. Аль, Варлин... {ухмыляется}Покажем им, на что мы способны!"
+
+{SCRIPT/SOUND/VO: This was not in the original VO recording list, but if we can do a pick-up then this would be a good one to add.}</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

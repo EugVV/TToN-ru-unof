@@ -1,0 +1,452 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\a_sagus\a2501_tcg_cultist_01</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>84</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>Здесь стоят три облаченные в мантию фигуры, наблюдая за кораблями в небе или за людьми, прибывающими в Караван-сарай. Он замечает вас и толкает локтем своих товарищей. Они поворачиваются и синхронно кланяются.
+
+"Моя светлость", — произносит их лидер, — "мы слышали о вашем прибытии в город и благодарим вас за эту честь. Мы верим, вас ждет нечто великое".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>"Господин!" — запинается мужчина. — "Ваше присутствие — благословение для нас!"</DefaultText>
+      <FemaleText>"Госпожа!" — запинается мужчина. — "Ваше присутствие — благословение для нас!"</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>"Мне нужна ваша помощь. Эрритис, мальчик с золотой кожей, мой верный и ценный союзник. Нужно, чтобы вы разобрались с его долгом господину Реннио, чтобы Эрритис смог остаться со мной".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>"Я не могу... сейчас говорить... святейшество". Он шатается под тяжестью груза. "Свобода вашего друга... гораздо важнее..."
+
+Он спотыкается и стонет.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>"Мы не можем все бросить только из-за твоего обмана!" — рычит он. — "Но нам больше не придется хорошо к тебе относится!"
+
+Он приподнимает другую коробку и спотыкается.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>"А это..." — он пытается поближе рассмотреть Мэткину. "Да! Собратья! Новый отверженный путешествует с самой Мэткиной! Двое из них вместе!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText>"Мы истинные последователи Меняющегося Бога, обманщик. Мы следуем за божественным светом и пытаемся извлечь уроки из жизни святейшества и его детей. Даже таких, как *ты*".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText>"Мы служим твоему создателю, Меняющемуся Богу".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>14</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>15</ID>
+      <DefaultText>"Расскажи мне о себе".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>16</ID>
+      <DefaultText>"Расскажите мне о себе еще раз".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>17</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>18</ID>
+      <DefaultText>"Что ты здесь делаешь?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>19</ID>
+      <DefaultText>"Можешь еще раз рассказать, что вы тут делаете?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>21</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>22</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>23</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>24</ID>
+      <DefaultText>"Мы наблюдаем за твоим создателем. Мы отмечаем прибытие и уход таких, как ты, а также являетесь ли вы последователями презренной Первой или придерживаетесь истинного пути Меняющегося Бога. Это место священно для нас... а ты оскверняешь его". Он хмурится.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>25</ID>
+      <DefaultText>"Мы наблюдаем и ждем действий твоих собратьев и записываем их".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>26</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>27</ID>
+      <DefaultText>"Мы... мы..." Он заметно нервничает. "Мы ждем вашего появления, святейшество. Это настоящая честь видеть вас здесь перед нами".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>28</ID>
+      <DefaultText>"Мы ждем и наблюдаем, святейшество. Мы восхищаемся поворотами истории и ожидаем, когда вы вернетесь или оставите одного из детей, чтобы добавить эти сведения в наши записи". Он низко склоняет голову. "Но мы не могли даже представить, что вы появитесь среди нас".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>29</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30</ID>
+      <DefaultText>"У тебя есть ко мне вопросы?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>31</ID>
+      <DefaultText>"У тебя есть еще ко мне вопросы?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>32</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>33</ID>
+      <DefaultText>Он открывает рот и таращит глаза: "О... мое... святейшество... Я... не", — бешено краснея, он опускает взгляд.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>34</ID>
+      <DefaultText>В этот раз ему удается лучше контролировать себя.
+
+"Нет, святейшество. Я бы и не предположил".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>35</ID>
+      <DefaultText>"Я ищу отверженную Мэткину".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>36</ID>
+      <DefaultText>"Чертовы обманщики... когда мы уже научимся?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>37</ID>
+      <DefaultText>Он отшатывается. "Она не здесь, Обманщик. За последнее время мы не слышали о ней ни слова".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>40</ID>
+      <DefaultText>"Моя светлость, жаль, я не могу помочь. Действительно жаль. Но я ничего не слышал о вашей сестре за последнее время". Он склоняет голову.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>41</ID>
+      <DefaultText>Он низко склоняет голову: "Мои глубочайшие извинения, святейшество, и самые искренние сожаления, но я ничего не слышал и не могу помочь".
+
+Он опускает голову еще ниже: "Но я надеюсь, что смогу послужить как-то иначе, если это возможно".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>42</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>43</ID>
+      <DefaultText>"У меня больше нет вопросов. Прощай".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>44</ID>
+      <DefaultText>"Святейшество, мои единомышленники и я с радостью выполним любое ваше желание. Благодарим за возможность служить вам в какой бы то ни было форме!"
+
+Он указывает жестом на двух товарищей, и они сразу же устремляются к Реннио.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>45</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>46</ID>
+      <DefaultText>"Ууф!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>47</ID>
+      <DefaultText>"Спасибо, господин!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>48</ID>
+      <DefaultText>"Прощайте, моя светлость".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>49</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>50</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>51</ID>
+      <DefaultText>Здесь стоят три облаченные в мантию фигуры, наблюдая за кораблями в небе или за людьми, прибывающими в Караван-сарай. Один из них изучающе смотрит на вас, и его глаза расширяются, когда он видит вашу татуировку. Он толкает локтем товарищей, и они низко кланяются вам.
+
+"Моя светлость", — говорит он. — "Мы не знали, что новое дитя Меняющегося Бога появилось среди нас. Вам обязательно следует поговорить с лидерами нашего ордена, Касмин и Мимеоном, на Малом Круге".
+
+Он снова опускает голову: "Чем мы можем помочь?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>52</ID>
+      <DefaultText>"У вас еще не было разговора с Касмин и Мимеоном? Они были бы рады вас видеть".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>55</ID>
+      <DefaultText>"Это настоящая честь видеть вас снова, моя светлость", — он склоняет голову.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>59</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>60</ID>
+      <DefaultText>Здесь стоят три облаченные в мантию фигуры, наблюдая за кораблями в небе или за людьми, прибывающими в Караван-сарай. Он замечает вас и толкает локтем своих товарищей. Они поворачиваются и падают на колени.
+
+Он говорит дрожащим голосом: "О, святейшество, мы слышали о вашем появлении в городе, но даже не осмеливались мечтать, что увидим вас собственными глазами".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>62</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>63</ID>
+      <DefaultText>Здесь стоят три облаченные в мантию фигуры, наблюдая за кораблями в небе или за людьми, прибывающими в Караван-сарай. Он замечает вас и толкает локтем своих товарищей. Они поворачиваются и синхронно кланяются.
+
+"Моя светлость...участник нашего братства!" — говорит их лидер. — "Мы слышали о вашем прибытии в город и благодарим вас за оказанную честь. Даже не верится, что вы присоединились к нашему обществу. Вы оказали нам двойную честь. Чем мы можем вам помочь?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>64</ID>
+      <DefaultText>"Добро пожаловать снова, брат!"</DefaultText>
+      <FemaleText>"Добро пожаловать снова, сестра!"</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>66</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>67</ID>
+      <DefaultText>Он широко улыбается: "Мы ваши верные слуги, святейшество, стремимся распространить свет и правду по Девятому Миру. Мы славим вашу проницательность, милосердие и силу и надеемся соответствовать вам". Он снова низко склоняет голову.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>68</ID>
+      <DefaultText>"Мы ваши скромные слуги, ожидающие распоряжений, святейшество. Мы ничего так не желаем, как служить вам во всем".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>69</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>70</ID>
+      <DefaultText>"Мы слуги вашего создателя, моя светлость, того, кто воплотится в вашем теле. Он обманывает смерть и изменяет ход истории. Он спаситель человечества, и мы стремимся подражать ему".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>71</ID>
+      <DefaultText>"Мы слуги вашего создателя, моя светлость".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>72</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>73</ID>
+      <DefaultText>"Мы ищем вашего создателя, моя светлость, и отслеживаем появление и уход других отверженных. Так как это главный коммуникационный узел, через который проходят все путешественники, мы надеялись, и, как оказалось, не впустую, увидеть кого-то из вас. И вот вы здесь. Мы очень рады вас видеть", — он склоняет голову.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>74</ID>
+      <DefaultText>"Мы наблюдаем за этим местом и надеемся увидеть, как приходят и уходят твои собратья. А может и сам Меняющийся Бог будет проходит через это место... Сама мысль об этом приводит в восторг". Он вздыхает.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>77</ID>
+      <DefaultText>"Честь вам и хвала, святейшество".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>78</ID>
+      <DefaultText>"Да снизойдет на тебя свет Меняющегося Бога, обманщик".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>79</ID>
+      <DefaultText>"Чем мы можем помочь?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>80</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>81</ID>
+      <DefaultText>Здесь стоят три облаченные в мантию фигуры, наблюдая за кораблями в небе или за людьми, прибывающими в Караван-сарай. Он замечает вас и толкает локтем своих товарищей. Они поворачиваются и пристально смотрят на вас.
+
+"Итак, обманщик прибыл в Караван-сарай", — наконец произносит их лидер. — "Мы должны были знать". Он поеживается. "И все же мы обязаны предложить тебе помощь".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>82</ID>
+      <DefaultText>Он в отвращении кривит рот. "С возвращением. Что мы можем для тебя сделать?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>83</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>84</ID>
+      <DefaultText>"И вы тоже, моя госпожа". Он склоняет голову к Мэткине.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>85</ID>
+      <DefaultText>"И тебе интересно, почему я пряталась в Пещере Последних Слов".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>87</ID>
+      <DefaultText>"Презренная Первая? Может, эти твои сектанты не так уж плохи".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>88</ID>
+      <DefaultText>"Моя госпожа, мы почитаем и уважаем тебя столь же, сколько боимся силы твоего клинка". Он склоняет голову. "Я доложу Мимеону, что вы категорически отрицаете идеи Первой Отверженной".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>89</ID>
+      <DefaultText>"Если под *категорическим отрицанием* ты подразумеваешь то, что я с удовольствием содрала бы с нее остатки кожи, тогда да. Именно так. По меньшей мере с радостью станцевала бы на ее могиле".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>90</ID>
+      <DefaultText>"Ах... конечно, миледи".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>91</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>92</ID>
+      <DefaultText>"Ты не видел тут недавно красивую женщину с фиолетовыми волосами?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>93</ID>
+      <DefaultText>"Возможно, Обманщик. Мне кажется, я видел, как эта женщина сходила с дирижабля". Он указывает пальцем направление, заметно надеясь, что вы оставите его в покое.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>94</ID>
+      <DefaultText>"Не осмелюсь оспаривать ваши понятия о красоте, святейшество, но я полагаю... да, я думаю, я недавно видел, как женщина с фиолетовыми волосами спускалась с переполненного дирижабля". 
+
+Он жестом указывает на доки, заметно обрадовавшись, что смог помочь вам.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>95</ID>
+      <DefaultText>"Я не уверен, Почтенный Сосуд", — говорит он, задумчиво приложив палец к подбородку. "Возможно... Я видел, как похожая женщина не так давно спускалась с дирижабля, но я не совсем уверен".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>96</ID>
+      <DefaultText>"Не знаю, куда она ушла, но путники, пришедшие издалека, часто останавливаются на постоялом дворе Транквилити".</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

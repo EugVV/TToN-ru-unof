@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\a_sagus\a2501_engraved_panel</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>18</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>Гравированная платина, сделанная из искусственного материала, блестит на земле за разбросанным мусором. Тисненый рисунок, который выглядит как иероглифический текст, нацарапанный на поверхности.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>Шепот Сатсады доносится от Риастрада. "Взгляни сюда, пожалуйста. Кто-то должен расшифровать комбинацию из этих иероглифов. Наблюдай."
+
+Риастрад становится на колени и проводит пальцем вдоль линий, его движения быстры и плавны. Панель управления загорается под его пальцами, когда он совершает это движение, и слегка приподнимается от земли. Кажется, что воспоминания о комбинации *впечатались* в его мозг.
+
+"Сейчас ты можешь открыть панель и спуститься в Пещеру Последних Слов, если пожелаешь.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>Комбинация для снятия блокировки загорается в твоем мозге, и панель слегка моргает тебе в ответ.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>Открой панель управления и спустись в Пещеру Последних Слов.
+
+{SCRIPT: Please insert proper transition commands here}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>Сколько ты не пытаешься, кажется, ты не можешь разобраться в панели или в ее алгоритме.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>Панель, благодаря которой вы очутились в Караван Сарай закрылась за вами. Ее края светятся спектром и вы не видите другого способа, как попытаться взломать ее. Выгравированные символы на ее синтетической поверхности очищены от грязи, тусклое сияние исходит от всей пластины.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>Закрытую панель, кажется, не трогали с момента, когда вы видели ее в последний раз.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>Уйти.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>Оставь панель в покое.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText>Открыть панель управления и спуститься в Пещеру Последних Слов.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>14</ID>
+      <DefaultText>[DEBUG: Screw that. Just open the damn panel already.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>15</ID>
+      <DefaultText>Script Node 15</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>16</ID>
+      <DefaultText>Взломать панель.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>17</ID>
+      <DefaultText>Дотронуться до символов.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>18</ID>
+      <DefaultText>Вы не можете найти какой-либо инструмент, чтобы совершить соответствующую покупку.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>19</ID>
+      <DefaultText>Панель не реагирует на ваши прикосновения. Она даже не передает вибрацию.</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

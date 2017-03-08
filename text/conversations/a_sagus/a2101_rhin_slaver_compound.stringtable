@@ -1,0 +1,170 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\a_sagus\a2101_rhin_slaver_compound</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>32</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>Она резко останавливается, крепко сжав ваше запястье. Дрожа всем телом, она смотрит на женщину с растрепанными волосами наверху платформы.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>{Whispers, afraid}"Это она. Ты обещал, помнишь? Ты ведь сможешь уладить все мирно?" Ее широко открытые глаза с мольбой смотрят на вас.</DefaultText>
+      <FemaleText>{Whispers, afraid}"Это она. Ты обещала, помнишь? Ты ведь сможешь уладить все мирно?" Ее широко открытые глаза с мольбой смотрят на вас.</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>{Whispers, afraid}"Это она. Ты обещал, помнишь? Ты ведь договоришься с ней?" Ее широко открытые глаза с мольбой смотрят на вас.</DefaultText>
+      <FemaleText>{Whispers, afraid}"Это она. Ты обещала, помнишь? Ты ведь договоришься с ней?" Ее широко открытые глаза с мольбой смотрят на вас.</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>{Whispers, afraid}"Это она. Ты обещал, помнишь? Ты ведь {pauses to swallow} разберешься с ней?" Ее широко открытые глаза с мольбой смотрят на вас.</DefaultText>
+      <FemaleText>{Whispers, afraid}"Это она. Ты обещала, помнишь? Ты ведь {pauses to swallow} разберешься с ней?" Ее широко открытые глаза с мольбой смотрят на вас.</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>"Не волнуйся, Рин. Я об этом позабочусь".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>"Посмотрим. Я что-нибудь придумаю, Рин".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>"Я не знаю".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>"Что? Как это ты не знаешь? Ты должен знать! Ты *не можешь* вернуть меня ей".</DefaultText>
+      <FemaleText>"Что? Как это ты не знаешь? Ты должна знать! Ты *не можешь* вернуть меня ей".</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>"Не волнуйся. Я не отдам тебя ей".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>"Ничего не могу обещать".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>Ее глаза наполняются слезами. Неожиданно они пинает вас по голени и бросается наутек. Вы видите, как она сворачивает за угол — и исчезает.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText>"Хорошо", — она делает паузу, глядя на Толь. — "Хорошо, я тебе верю".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>14</ID>
+      <DefaultText>"Кто она?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>15</ID>
+      <DefaultText>"Что она тебе сделала?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>16</ID>
+      <DefaultText>"Она сказала, что заботилась о тебе".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>17</ID>
+      <DefaultText>"Она... как это называется? Она *крадет* людей", — девочка шепчет едва слышно и старается спрятаться за вами. Видно, ей не хочется привлекать внимание. — "Она нашла меня и сказала, что я ее собственность. А те головорезы, что меня искали... Это *она* их послала. Но я не вернусь. *Никогда* не вернусь".
+
+Она смотрит вам в глаза. "Ты ведь не отдашь меня ей?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>18</ID>
+      <DefaultText>"Не бойся. Я найду способ уладить все мирно".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>19</ID>
+      <DefaultText>"Хорошо", — она все еще осторожна, но, похоже, верит вам.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20</ID>
+      <DefaultText>"Если ты рабыня, то ей придется заключить сделку. Я куплю тебе свободу".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>21</ID>
+      <DefaultText>Она хмурится: "Это справедливо... наверное".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>22</ID>
+      <DefaultText>"Я разберусь с ней и позабочусь, чтобы тебе *никогда* не пришлось быть рабыней".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>23</ID>
+      <DefaultText>"Только... пожалуйста, не убивай ее, ладно? Никто не должен пострадать из-за меня".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>24</ID>
+      <DefaultText>"Я верну тебя, Рин. Выбора у тебя нет".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>26</ID>
+      <DefaultText>"Давай узнаем, что она скажет обо всем этом".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>27</ID>
+      <DefaultText>Она отчаянно качает головой. "Нет. Я ни за что не вернусь. Пообещай мне. *Поклянись*, что не отдашь меня ей!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>28</ID>
+      <DefaultText>"Хорошо, обещаю".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>29</ID>
+      <DefaultText>"Я не могу этого сделать".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>31</ID>
+      <DefaultText>{Whispers, afraid}"Вот она. Помни о своем обещании!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>32</ID>
+      <DefaultText>Она резко останавливается, крепко сжав ваше запястье. Дрожа всем телом, она смотрит на Толь Магуур, стоящую на платформе.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>34</ID>
+      <DefaultText>{Whispers, afraid}"Это она. Не отводи меня туда. Не заставляй вернуться к ней". Ее широко открытые глаза с мольбой смотрят на вас.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>35</ID>
+      <DefaultText>Ее широко открытые глаза с мольбой смотрят на вас.</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

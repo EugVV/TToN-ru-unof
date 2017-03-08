@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\x_labyrinth_crisis\x4061_sorrowfragmentfathom_passionregret</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>19</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>[This machine is projecting a holographic scene on loop. As you study it, you feel it probe your mind, then begin to push into it. You perceive the scene as if from your perspective, foreign thoughts and emotions pouring into you.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>[Tear your gaze from the scene, and end the memetic broadcast.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>[Resolve to abandon your plans and stay with your lover in this place; the machine will raise walls to protect you.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>[Resolve to recommit yourself to your goals, and free her form your plans; the machine will bolster your damage.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>[Resolve to use the Tides to bend her to your will, ensuring she'll aid you above herself; the machine will sap teh strength of your enemies.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>[The functionality of the machine is obscured by the swirling mass of the Sorrow Fragment which has poured into its inner workings.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>Фрагмент Скорби выброшен</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>[You feel the Sorrow Fragment's screech in your mind, feel it in your emotions, before it begins to phsyical form nearby, and you hears its growl in your ears.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>[The moment slows to a crawl, and you recognize the concerns being retreaded by the foreign thoughts as an interface to the machine's functionality.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>[You grab her hair as you both slam into the door of the small rented room, fumbling blindly for the doorknob, refusing to break the embrace for a single second. The door gives way, and moments later, you collapse into the bed.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText>[The city outside is noisy, but you cannot hear the din of the market as you focus on her breath, and you forget your responsibilities as your eyes lock. The day disappears far too quickly, as she eventually falls asleep, whispering in your ear of what you could accomplish together.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText>[As you lie in bed, you consider the brilliant, beautiful woman next to you. You never expected her to be like this when you sought her out, and her very existence caused you to reconsider what you wanted. You haven't felt like this in ages, lifetimes, since before it all began, and you find yourself reconsidering your ambitions.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>15</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>16</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>17</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>18</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>19</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>21</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

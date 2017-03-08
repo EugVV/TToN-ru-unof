@@ -1,0 +1,698 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\companions\companion_matkina_stage4</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>131</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>"Мы еще не в безопасности. Даже не близко. Я не помню, говорила ли я тебе, но... Я родилась здесь".
+
+Она быстро оглядывает двор и содрогается от едва сдерживаемого ужаса. Вы *чувствуете*, как хорошо она управляет своими чувствами и Потоками.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>{сердито, сдержанно}"Не зря я так никогда и не сошлась с Мемовирой. Не зря она постоянно насмехалась надо мной. Она знала, кто я. Знала и постоянно планировала меня предать, и *была прямо рядом со мной*. Надо было ей глотку перерезать. Или в Пасть затолкать".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>{потрясенно, тихо, испуганно}"Я видела в Чреве часть себя, и узнала ту часть. Но поверь, что я никогда не проявляла беспричинной жестокости. У всех моих поступков были причины, но... но... я не чудовище".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>"Такое странное чувство, когда сливаешься с Цветением. Именно такое, как я себе и представляла. Я *знаю* Цветение. Знаю его пути. Знаю его щупальца. Знаю, чего оно касается, и... милый братик, ты *не представляешь*, что это за сила!"
+
+
+{GEORGE: Do we want to have Matkina as a fast-travel if she's bonded?}</DefaultText>
+      <FemaleText>"Такое странное чувство, когда сливаешься с Цветением. Именно такое, как я себе и представляла. Я *знаю* Цветение. Знаю его пути. Знаю его щупальца. Знаю, чего оно касается, и... милая сестрица, ты *не представляешь*, что это за сила!"</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>"Спрашивай".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>14</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>15</ID>
+      <DefaultText>"Миэль Авеста больше нет. *Мертв*. Ты это хотел услышать? Как и многие из наших родных братьев и сестер умерли вместе с ним".
+
+Она смотрит на вас, поставив руки на пояс. "А сейчас, я думаю о том, как сильно я их ненавидел... и как сильно я хотел получить их одобрение".</DefaultText>
+      <FemaleText>"Миэль Авеста больше нет. *Мертв*. Ты это хотела услышать? Как и многие из наших родных братьев и сестер умерли вместе с ним".
+
+Она смотрит на вас, поставив руки на пояс. "А сейчас, я думаю о том, как сильно я их ненавидел... и как сильно я хотел получить их одобрение".</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>16</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>17</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>18</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>19</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>21</ID>
+      <DefaultText>"Давай поговорим о тебе".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>22</ID>
+      <DefaultText>"Поговорим о тебе еще".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>23</ID>
+      <DefaultText>"Как у тебя дела?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>24</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>25</ID>
+      <DefaultText>"У меня есть несколько вопросов о тех, с кем мы путешествуем".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>26</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>27</ID>
+      <DefaultText>"Нам лучше разделиться".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>28</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>29</ID>
+      <DefaultText>"Пойдем дальше".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30</ID>
+      <DefaultText>"Давай".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>31</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>32</ID>
+      <DefaultText>"Я бы хотел поговорить о том, что случилось в Миэль Авесте".</DefaultText>
+      <FemaleText>"Я бы хотела поговорить о том, что случилось в Миэль Авесте".</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>33</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>34</ID>
+      <DefaultText>Она громко сглатывает. "Проснулась в процессе, когда меня пожирали. Я полагаю, что Цветение было свидетелем того, как сознание покинуло нашего отца. Оно бросило меня, новорожденную, и я выбралась оттуда. Сбежала в Утесы Сагуса, а потом эта трижды проклятая Скорбь почти поймала меня".
+
+Она понизила свой голос и он стал почти неслышным. "Я покинула город. Я грабила и приносила вред людям, когда выбиралась оттуда. Но, по крайней мере, мне удалось сбежать".
+
+"Вот так. Ты знаешь, что случилось с отверженными. С Первой, будь она проклята, давайте непременно убьем ее, когда найдем ее. В любом случае. Цветение".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>35</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>36</ID>
+      <DefaultText>"После проблем с Мельмотом, я в итоге оказалась здесь. На службе у человека, который стал Мемовирой, прежней хозяйкой этого места. Послушай меня - Цветение вознаграждает жестокость и боль. И он будет реагировать на твои действия. Поэтому... будь осторожен".
+
+"Теперешняя Мемовира и я не очень хорошо ладим друг с другом. Имейте ввиду, что у него есть история. И она кровавая. Я не могу обещать, что буду цивилизованной рядом с ней".
+
+Она поправляет свои часы. "Все хорошо. Пойдем."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>37</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>38</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>39</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>40</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>41</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>42</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>43</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>44</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>45</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>46</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>47</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>48</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>49</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>50</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>52</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>53</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>54</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>55</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>56</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>57</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>58</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>59</ID>
+      <DefaultText>Я говорил тебе, что они мои.</DefaultText>
+      <FemaleText>"Я говорила тебе, что они мои".</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>60</ID>
+      <DefaultText>"Я говорил, что если бы ты захотела их, ты могла бы обладать ими. Но я удивлен, что ты взяла их".</DefaultText>
+      <FemaleText>"Я говорила, что если бы ты захотела их, ты могла бы обладать ими. Но я удивлена, что ты взяла их".</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>61</ID>
+      <DefaultText>"Я надеюсь, они того стоили".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>62</ID>
+      <DefaultText>"Это все в прошлом. Все что нам нужно от нее сейчас - это правда".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>63</ID>
+      <DefaultText>"У тебя будет шанс".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>64</ID>
+      <DefaultText>"Если она скрывается так долго, должно быть у нее есть планы. Мы должны принять это во внимание".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>65</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>66</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>67</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>68</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>69</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>70</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>71</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>72</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>73</ID>
+      <DefaultText>"Твоя репутация говорит об обратном. После твоего пробуждения ты оставила уже больше сотни трупов, с того времени как я услышал о тебе несколько лет назад".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>74</ID>
+      <DefaultText>Ее смех неприятный и глумливый. "Ты ожидаешь, что мы поверим в это? Ты была агентом последней Мемовиры. Ты была убийцей в течение сотен лет. Моя дорогая, я не осуждаю твои действия, но пожалуйста, не разыгрывай из себя невинную".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>75</ID>
+      <DefaultText>"Хорошо, девушка, у каждого есть свои секреты, свои собственные... хм... несчастные случаи. В этом случае, *я*, со своей стороны, верю твоим торжественным заявлениям".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>76</ID>
+      <DefaultText>"Ты должен верить мне. Я не та... та штучка".</DefaultText>
+      <FemaleText>"Ты должена верить мне. Я не та... та штучка".</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>77</ID>
+      <DefaultText>"Честно, мне наплевать. У нас есть работа, которую мы должны сделать. Давайте же ее сделаем".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>78</ID>
+      <DefaultText>"Может быть ты и была Мэткиной. Но это все на твоей совести".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>79</ID>
+      <DefaultText>"Даже если ты и была, то сейчас ты не она. Я путешествовал с тобой достаточно долго, чтобы понять это".</DefaultText>
+      <FemaleText>"Даже если ты и была, то сейчас ты не она. Я путешествовала с тобой достаточно долго, чтобы понять это".</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>80</ID>
+      <DefaultText>Она смеется, в ее голосе чувствуется легкая издевка. "Вам не нужно притворяться, чтобы ты хорошо думал обо мне. Я просто хочу ясно выразится, что не прибегаю к пыткам без причины".
+
+Она оборачивается. "Есть ли еще комментарии? Нет. Хорошо. Давайте двигаться дальше".</DefaultText>
+      <FemaleText>Она смеется, в ее голосе чувствуется легкая издевка. "Вам не нужно притворяться, чтобы ты хорошо думала обо мне. Я просто хочу ясно выразится, что не прибегаю к пыткам без причины".
+
+Она оборачивается. "Есть ли еще комментарии? Нет. Хорошо. Давайте двигаться дальше".</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>81</ID>
+      <DefaultText>Она опускает свою голову, чтобы вы могли видеть ее лицо. "Я попытаюсь. Я не совершенна - не перед долгой дорогой - но я *пытаюсь*. И... и я надеюсь, вы мне поможете продолжить пытаться дальше".
+
+Она деликатно чихает. "Достаточно этого. Давайте продолжим путь".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>82</ID>
+      <DefaultText>"У меня накопилось слишком много в пространстве между моим сознанием и уже мной. Просто... Я хотела, чтобы ты знал, что я не прибегаю к пыткам без причины". Она прочищает свое горло. "Как бы то ни было".</DefaultText>
+      <FemaleText>"У меня накопилось слишком много в пространстве между моим сознанием и уже мной. Просто... Я хотела, чтобы ты знала, что я не прибегаю к пыткам без причины". Она прочищает свое горло. "Как бы то ни было".</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>83</ID>
+      <DefaultText>Она кивает, ее острые черты нацелены на вас, как будто ножи. "Согласна. Мы не будем говорить об этом снова".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>84</ID>
+      <DefaultText>"Это почти не дает мне... покоя, Тибир. Почти совсем никакого". Она поворачивается к вам.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>85</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>86</ID>
+      <DefaultText>"Ты сказала, что тебя с Мемовирой связывала  история".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>87</ID>
+      <DefaultText>"Расскажи мне о Мемовире снова".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>88</ID>
+      <DefaultText>"Они мертвы сейчас, поэтому тебе больше не нужно беспокоиться, чтобы получить от них одобрение".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>89</ID>
+      <DefaultText>"Тогда продолжай помогать мне, и мы отомстим им".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>90</ID>
+      <DefaultText>"Должно быть тяжело быть младшим ребенком".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>91</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>92</ID>
+      <DefaultText>"Она и я были каганами для *прежней* Мемовиры. Вели различные игры, на различных территориях. Но у меня всегда было с ней соревнование. Кто мог заработать больше шин, кто мог лучше содержать место, кто мог привести в замешательство других. У меня всегда было ощущение, что у нее был какой-то секрет - что-то , что она держала в тайне от остальных - но у меня не было никаких доказательств".
+
+Она пожимает плечами. "Пока не пришел день, когда к ней перешло правление. Она была быстра, нужно отдать ей должное. Ни секунды не тратилось впустую. Я думала, она позволит остальным из нас сбежать. Но она не позволила".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>93</ID>
+      <DefaultText>"Когда она послала охотников за головами за мной, я поняла, что правила игры изменились. Были каганы, которым приходилось сделать выбор - присягнуть на верность или уйти - потому что, ты понимаешь, кровь не очень способствует бизнесу. Лучше не дать всем нашим знаниям угаснуть, верно? Я бы поклялась, потому что восторгалась ее профессионализмом, но она не оставила мне выбора. Ни одному из них".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>94</ID>
+      <DefaultText>"Она безжалостна и мстительна. Будь осторожен рядом с ней".</DefaultText>
+      <FemaleText>"Она безжалостна и мстительна. Будь осторожна рядом с ней".</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>95</ID>
+      <DefaultText>Она качает своей головой. "Конечно, я не должна. Но, знаешь ли, было бы тогда хорошо получить какое-то признание от людей, которые кажется знали, что они делали. Не то, чтобы у меня было какое-то представление о том, чем я все еще занимаюсь, но тем не менее".
+
+Она вздыхает. "Забудь об этом. Становлюсь сентиментальной. Давай продолжать двигаться".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>96</ID>
+      <DefaultText>Она изображает нечто похожее на улыбку. "Мне нравится образ твоего мышления. Я просто... просто хотела бы, чтобы я могла сообщить им то, что я могла сделать. Может это был какой-то шанс, все еще показать остальным из них".
+
+Она трясет свои часы. "Все хорошо. Хватит уже этого крефта. Давайте продолжим наш трудный путь".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>97</ID>
+      <DefaultText>Она фыркает. "Больше похоже на среднего ребенка, при темпе, с которым Меняющийся Бог выбивает нас из седла. Тяжело выделяться из толпы. Кто-нибудь еще вычислил, где мы сейчас находимся, кроме меня? Я старалась изо всех сил на протяжении многих лет. Я хотела показать этим людям, на что я способна".
+
+Она пожимает плечами. "Сейчас слишком поздно, я полагаю. Давайте вернемся к этому".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>98</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>99</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>100</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>101</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>102</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>103</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>104</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>105</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>106</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>107</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>108</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>109</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>110</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>111</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>112</ID>
+      <DefaultText>"Она не рассчитывает на *тебя*, я уверена в этом. Ты разберешься в этом клубке лжи". Она хватает вас за рубашку и притягивает вас близко к себе. "Она источник наших проблем. Она отправила нас в самое сердце Цветения, чтобы избавиться от нас, потому что она знала, что мы либо найдем Мазофа, либо умрем, и в любом случае, она выигрывает. Поэтому сейчас нам нужно изменить эти планы".
+
+Она отпускает тебя, делает шаг назад и разглаживает складки. "У меня есть вера в тебя. Ты и я. Мы остановим эту суку".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>113</ID>
+      <DefaultText>Ее улыбка широкая и сияющая, и еще более прекрасная благодаря своей редкости. "Я не отступлю".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>114</ID>
+      <DefaultText>Она резко качает своей головой. "Только я хочу услышать ее слова, если она прокричит их. Это больше не из-за правды. Это из-за справедливости".
+
+Она вздыхает. "Но нам не нужно спорить друг с другом прямо сейчас. Просто знай, что я хочу, чтобы мне выпал шанс, по крайней мере, один раз всадить в нее нож".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>115</ID>
+      <DefaultText>"Давай же. Пойдем."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>116</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>117</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>118</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>119</ID>
+      <DefaultText>Она почти подавляет свою ухмылку. "Похоже, что ты тогда ошибался. Не переживай. Мы найдем Первую". Ее голос становится убаюкивающим. "У меня есть такие грандиозные планы на счет нее сейчас. Она будет говорить долго, очень долго. Сестрам лучше быть ближе , ты так не думаешь?"</DefaultText>
+      <FemaleText>Она почти подавляет свою ухмылку. "Похоже, что ты тогда ошибалась. Не переживай. Мы найдем Первую". Ее голос становится убаюкивающим. "У меня есть такие грандиозные планы на счет нее сейчас. Она будет говорить долго, очень долго. Сестрам лучше быть ближе , ты так не думаешь?"</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>120</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>121</ID>
+      <DefaultText>"Это как... хорошо. Закрой свои глаза. Сейчас открой один глаз. У тебя есть зрение, но нет глубины. Сейчас открой другой глаз. У тебя есть глубина. Что если бы ты открыл один глаз, затем другой, и потом еще один? Что бы ты тогда увидел?" Она восторженно смеется. "Я вижу *возможности*. Я вижу *реальности*. И я чувствую голод Цветения. Сейчас". Она складывает свои ладони вместе. "Мы должны накормить его".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>122</ID>
+      <DefaultText>"Чистый восторг. Кто остановит меня сейчас?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>123</ID>
+      <DefaultText>"Почему? Ты знал, что я ненавидела Первую. Ты знаешь мою историю в этом месте. Если бы ты обращал на меня какое-то внимание, ты бы догадался".</DefaultText>
+      <FemaleText>"Почему? Ты знала, что я ненавидела Первую. Ты знаешь мою историю в этом месте. Если бы ты обращала на меня какое-то внимание, ты бы догадалась".</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>124</ID>
+      <DefaultText>"О, вот оно. Это наверняка оно".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>125</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>126</ID>
+      <DefaultText>"На что это похоже, быть связанным с Цветением?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>127</ID>
+      <DefaultText>"Расскажи мне снова, на что это похоже, быть связанным с Цветением".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>128</ID>
+      <DefaultText>Она слегка смещается, ее руки на поясе.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>129</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>130</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>131</ID>
+      <DefaultText>"Давай поговорим о братьях и сестрах."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>132</ID>
+      <DefaultText>"У меня есть еще несколько вопросов об отверженных".</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

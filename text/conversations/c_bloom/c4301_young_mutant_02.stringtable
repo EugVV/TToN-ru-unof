@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\c_bloom\c4301_young_mutant_02</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>3</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>"Возле катены, когда она только потерпела крушение, было много всяких искусно сделанных нуменер, но потом все, что было легко найти, растащили".</DefaultText>
+      <FemaleText>"Возле катены, когда она только потерпела крушение, было много всяких искусно сделанных нуменер, но потом все, что было легко найти, растащили".</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>"Ты убил обитающих там призраков?"</DefaultText>
+      <FemaleText>"Ты убил обитающих там призраков?"</FemaleText>
+    </Entry>
+  </Entries>
+</StringTableFile>

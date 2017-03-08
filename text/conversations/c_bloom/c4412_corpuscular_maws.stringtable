@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\c_bloom\c4412_corpuscular_maws</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>6</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>Отвратительное существо глодает и пожирает внутренности и мышцы огромного зверя. Кажется, оно не замечает, как вы подходите.</DefaultText>
+      <FemaleText>Отвратительное существо глодает и пожирает внутренности и мышцы огромного зверя. Кажется, оно не замечает, как вы подходите.</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>Атаковать корпускулярную пасть.</DefaultText>
+      <FemaleText>Атаковать корпускулярную пасть.</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>Оставить корпускулярную пасть в покое.</DefaultText>
+      <FemaleText>[Leave the corpuscular maw alone.]</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>Как только вы приближаетесь, пасть отшатывается и издает пронзительный визг. Другие пасти перестают есть и повторяют визг... а затем набрасываются на вас.</DefaultText>
+      <FemaleText>Как только вы приближаетесь, пасть отшатывается и издает пронзительный визг. Другие пасти перестают есть и повторяют визг... а затем набрасываются на вас.</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>Она, не взглянув на вас, продолжает есть огромную тушу.</DefaultText>
+      <FemaleText>Она, не взглянув на вас, продолжает есть огромную тушу.</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>::хрум:: ::чавк::</DefaultText>
+      <FemaleText>::хрум:: ::хрум::</FemaleText>
+    </Entry>
+  </Entries>
+</StringTableFile>

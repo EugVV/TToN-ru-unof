@@ -1,0 +1,562 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\global\item_global_hall_of_relics</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>105</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>Металлические края гравировки шара давят на вашу ладонь. Связанные друг с другом спирали вращаются вокруг своей оси, притягивая ваши мысли. Притягивая части вашего сознания. 
+
+На ваших глазах из сферы с тихими щелчками появляются фрагменты спиралей, формируя замысловатые символы. 
+
+Кнопки.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>Вы вытаскиваете из мешков шар с гравировкой. На его поверхности тут же появляются кнопки-символы, которые можно нажать.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>Поднести шар к свету.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>Поднести шар к свету еще раз.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>Свет слабо виден через завитки внутренних спиралей шара. Вы видите внутри проблески, говорящие о движении. Возможно, это механизмы.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>Рядом с резными внутренними частями сферы вы видите блеск. Движения, которое вы заметили ранее, уже не видно.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText>Нажать кнопку с выгравированными на ней ручными зеркалами, объединенными в кольцо.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText>"Каллистеж, помоги мне".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>14</ID>
+      <DefaultText>Вы нажимаете пальцем на кнопку и *тут же* чувствуете устремленные на вас глаза — бесчисленное количество глаз, которых больше, чем звезд на небе. Они смотрят на вас, пытаясь понять вашу личность и ваши секреты.
+
+Каллистеж. Каллистеж и ее сестры.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>15</ID>
+      <DefaultText>"Ммм?" — произносит голос Каллистеж в вашей голове. "О, это ты, дорогой. Конечно! Я буду здесь".
+{CALLISTEGE}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>16</ID>
+      <DefaultText>Еще раз нажать кнопку Каллистеж.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>17</ID>
+      <DefaultText>Вы нажимаете кнопку и опять чувствуете, что глаза бесчисленных сестер Каллистеж устремлены на вас.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>18</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>19</ID>
+      <DefaultText>Вы нажимаете кнопку и слышите в своей голове голос Эрритиса. 
+
+"Интересно, что случится, если я вызову самого себя на дуэль".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20</ID>
+      <DefaultText>"Это действительно *ты*?" Голос Эрритиса кричит в вашей голове: "Да! Сотни тысяч раз, да!"
+{ERRITIS}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>21</ID>
+      <DefaultText>Вы опять проникаете в сознание Эрритиса. Он, кажется, обвиняет себя в обмане на дуэли, которую проводит с самим собой. 
+{ERRITIS}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>22</ID>
+      <DefaultText>Нажать кнопку, на которой нарисован меч, сделанный из маленьких мечей.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>23</ID>
+      <DefaultText>"Эрритис, ответь мне, если можешь".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>24</ID>
+      <DefaultText>Еще раз нажать кнопку Эрритиса.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>25</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>26</ID>
+      <DefaultText>Вы нажимаете пальцем на кнопку и слышите, как кто-то бурчит себе под нос... в вашей голове. 
+
+Это Мэткина. Вы узнаете ворчание. 
+{MATKINA}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>27</ID>
+      <DefaultText>"Что?" — говорит Мэткина внутри вашей головы. "О, это ты, кто же еще".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>28</ID>
+      <DefaultText>Вы несколько минут слушаете, как она бормочет проклятья себе под нос. Затем вы убираете палец с кнопки, и ее голос затихает.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>29</ID>
+      <DefaultText>Нажать кнопку с изображением кинжала.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30</ID>
+      <DefaultText>"Мэткина, мне нужна твоя помощь".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>31</ID>
+      <DefaultText>Еще раз нажать кнопку Мэткины.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>32</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>33</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>34</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>35</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>36</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>37</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>38</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>39</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>40</ID>
+      <DefaultText>Кнопка легко нажимается. В своей голове вы слышите смех Тибира. 
+
+Хмм, кажется, рядом с ним находится множество людей, которые сопят, поют и бормочут.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>41</ID>
+      <DefaultText>"Конечно, приятель", — говорит Тибир, кажется, легко воспринявший появление чужого голоса в его голове. "Дай мне немного времени, чтобы найти брюки, и я буду там".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>42</ID>
+      <DefaultText>Он весело что-то насвистывает поверх бормотания собравшейся толпы.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>43</ID>
+      <DefaultText>Нажать кнопку с символом двух соединенных колец.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>44</ID>
+      <DefaultText>"Тибир, ответь мне".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>45</ID>
+      <DefaultText>Еще раз нажать кнопку Тибира.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>46</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>47</ID>
+      <DefaultText>Вы нажимаете символ клетки и слышите в голове голос Алигерна, словно он находится на большом расстоянии от вас. 
+
+"Не понимаю", — бормочет он, на заднем плане слышно звяканье инструментов. "Как будто эта вещь хочет быть сломанной".
+{ALIGERN}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>48</ID>
+      <DefaultText>"Аа?" — говорит Алигерн в вашей голове. "О, это ты. Конечно, малыш".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>49</ID>
+      <DefaultText>Вы чувствуете, что его внимание сосредоточено на устройствах и полностью направлено на кучу деталей, лежащих на столе перед ним.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>50</ID>
+      <DefaultText>Нажать символ клетки.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>51</ID>
+      <DefaultText>"Алигерн, помоги мне".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>52</ID>
+      <DefaultText>Еще раз нажать символ Алигерна.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>53</ID>
+      <DefaultText>Убрать шар.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>54</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>55</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>56</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>57</ID>
+      <DefaultText>Затем кнопка щелкает, и голос Алигерна угасает.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>58</ID>
+      <DefaultText>Потом кнопка *ломается*, и ощущение присутствия надменной Каллистеж исчезает.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>59</ID>
+      <DefaultText>Неожиданно слышится шипение, и кнопка втягивается в шар. Голос Эрритиса в вашей голове затихает.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>60</ID>
+      <DefaultText>Неожиданно кнопка с кинжалом втягивается обратно в сферу, издав серию щелчков.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>61</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>62</ID>
+      <DefaultText>Неожиданно кнопка втягивается обратно в сферу, и смех Тибира затихает.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>63</ID>
+      <DefaultText>Интересно. Сфера соединяет вас с людьми, с которыми вы встречались в реальном мире. Более того, вы чувствуете на уровне инстинктов, что сфера может *переместить* ваше сознание к ним, если вы назовете их имя, нажмете кнопку и они будут готовы ответить.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>71</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>72</ID>
+      <DefaultText>Алигерн на короткое время появляется в вашей реальности рядом с вами.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>76</ID>
+      <DefaultText>Пока что вы оставляете своего компаньона одного. Сейчас у вас достаточное количество людей.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>77</ID>
+      <DefaultText>Вы смотрите на сферу и начинаете догадываться. Ваши отношения с бывшим компаньоном плохо закончились. Наверное, вы не сможете больше установить контакт с ним.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>79</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>80</ID>
+      <DefaultText>"Что? О, привет, малыш". Вы слышите, как он вздыхает. "И ответ — "нет". Я прямо *чую*, что ты говорил с Каллистеж. Позови меня, если не возьмешь ее с собой".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>81</ID>
+      <DefaultText>"Ты все еще с *ним*, не так ли? Я говорила тебе, что я думаю по этому поводу. Если он уйдет, дай мне знать. Иначе..."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>82</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>83</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>84</ID>
+      <DefaultText>С тихим *хлопком* Алигерн появляется рядом с вами.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>85</ID>
+      <DefaultText>Алигерн внезапно появляется рядом с вами, немного пошатнувшись на ногах.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>152</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>153</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>154</ID>
+      <DefaultText>Шар, холодный как лед, оттягивает руку. Что-то в воздухе этого места с трудом позволяет сфокусировать взгляд на объекте, так что едва понятно, находится ли здесь предмет или нет.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>155</ID>
+      <DefaultText>В этом тумане вы бережно держите сферу, пытаясь изучить детали, украшающие ее. Вы чувствуете, что сфере не нравится это место. Сфера стремится покинуть его.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>156</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>157</ID>
+      <DefaultText>Эрритис на короткое время появляется в вашей реальности рядом с вами.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>158</ID>
+      <DefaultText>С тихим *хлопком* Эрритис появляется рядом с вами.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>159</ID>
+      <DefaultText>Эрритис внезапно появляется рядом с вами, немного пошатнувшись на ногах.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>160</ID>
+      <DefaultText>Каллистеж на короткое время появляется в вашей реальности рядом с вами.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>161</ID>
+      <DefaultText>С тихим *хлопком* Каллистеж появляется рядом с вами.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>162</ID>
+      <DefaultText>Каллистеж внезапно появляется рядом с вами, немного пошатнувшись на ногах.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>163</ID>
+      <DefaultText>Каллистеж на короткое время появляется в вашей реальности рядом с вами.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>164</ID>
+      <DefaultText>Мэткина на короткое время появляется в вашей реальности рядом с вами.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>165</ID>
+      <DefaultText>С тихим *хлопком* Мэткина появляется рядом с вами.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>166</ID>
+      <DefaultText>Мэткина внезапно появляется рядом с вами, немного пошатнувшись на ногах.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>167</ID>
+      <DefaultText>Мэткина на короткое время появляется в вашей реальности рядом с вами.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>168</ID>
+      <DefaultText>Тибир на короткое время появляется в вашей реальности рядом с вами.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>169</ID>
+      <DefaultText>С тихим *хлопком* Тибир появляется рядом с вами.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>170</ID>
+      <DefaultText>Тибир внезапно появляется рядом с вами, немного пошатнувшись на ногах.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>171</ID>
+      <DefaultText>Тибир на короткое время появляется в вашей реальности рядом с вами.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>172</ID>
+      <DefaultText>Нажать символ дерева.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>173</ID>
+      <DefaultText>Кнопка нажимается только слегка. Вы слышите короткий крик. Голос похож на голос Рин, затем кнопка возвращается в прежнее положение. Осмотрев кнопку более внимательно, вы замечаете два небольших концентрических круга в основании дерева. Значения этих кругов вы не понимаете.
+
+Неожиданно вспышка света заставляет вас зажмуриться. Когда вы открываете глаза, круги и символ дерева уже исчезли.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>174</ID>
+      <DefaultText>Кнопка нажимается только слегка. Вы слышите короткий крик. Голос похож на голос Рин, затем кнопка возвращается в прежнее положение. Осмотрев кнопку более внимательно, вы замечаете два небольших концентрических круга в основании дерева... Это выглядит подозрительно похоже на символ "бога" Рин — Аля.
+
+Неожиданно вспышка света заставляет вас зажмуриться. Когда вы открываете глаза, круги и символ дерева уже исчезли.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>175</ID>
+      <DefaultText>Кнопка легко нажимается. Вы слышите, как девочка напевает странную мелодию. Это Рин!
+
+Песня резко обрывается, и кнопка возвращается к своему прежнему положению. Ее нельзя нажать еще раз. Похоже на то, что кто-то спрятал кнопку от вас.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>177</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>178</ID>
+      <DefaultText>Нажать символ дерева.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>179</ID>
+      <DefaultText>Попробовать еще раз нажать кнопку с символом дерева.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>180</ID>
+      <DefaultText>Как бы сильно вы не нажимали кнопку, она не двигается.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>181</ID>
+      <DefaultText>Наверное, Рин еще на Краю Утеса.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>182</ID>
+      <DefaultText>Кнопка легко нажимается. Вы слышите, как Рин плачет — тихо, как будто она пытается сдержать слезы и сделать так, чтобы ее никто не услышал.
+
+Ее рыдания обрываются, когда она замечает ваше присутствие. "Кто — кто здесь? Пожалуйста! Кто бы ты ни был, помоги м..."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>183</ID>
+      <DefaultText>Похоже, что вы должны поговорить с Толь,чтобы вновь услышать Рин.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>184</ID>
+      <DefaultText>Холодный голос Толь Магуур прерывает ее. "С кем ты разговариваешь, моя птичка? Кто бы это ни был..."
+
+Неожиданный силовой залп поражает вас, возникает боль в глазах, и соединение исчезает. Кнопка возвращается к своему прежнему положению. Ее нельзя нажать еще раз.</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

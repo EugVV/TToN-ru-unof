@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>quests\a_sagus\quest_rhins_satchel</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>14</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>0</ID>
+      <DefaultText>Мешок Рин</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>Поговорить с Толь Магуур о сумке Рин.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>Получить сумку у Толь.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>Убил Толь и забрал сумку</DefaultText>
+      <FemaleText>Убила Толь и забрала сумку</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>Убедил Толь отдать сумку</DefaultText>
+      <FemaleText>Убедила Толь отдать сумку</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>Купил сумку у Толь</DefaultText>
+      <FemaleText>Купила сумку у Толь</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>Украл сумку у Толь</DefaultText>
+      <FemaleText>Украла сумку у Толь</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>10000</ID>
+      <DefaultText>Рин сказала, что у работорговцев, которые похитили ее, остался ее мешок с несколькими личными вещами. Она просит вас вернуть ей мешок.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10001</ID>
+      <DefaultText>Рин сказала, что убежала, не взяв мешок с собой. Возможно, он еще у Толь Магуур.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10002</ID>
+      <DefaultText>Толь подтвердила, что мешок Рин у нее. Вам нужно как-то забрать у нее мешок.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10003</ID>
+      <DefaultText>Вы убили Толь, и Рин забрала мешок с ее трупа.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10004</ID>
+      <DefaultText>Это было нелегко, но вы сумели убедить Толь, что если Рин принадлежит вам, то вам принадлежит и ее имущество.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10005</ID>
+      <DefaultText>Толь не сразу согласилась отдать мешок. Вам пришлось заплатить больше, чтобы получить вещи Рин.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10006</ID>
+      <DefaultText>Толь не согласилась отдать мешок, но вам удалось украсть его, когда она отвлеклась.</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

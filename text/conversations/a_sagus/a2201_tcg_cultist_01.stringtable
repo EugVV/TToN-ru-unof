@@ -1,0 +1,485 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\a_sagus\a2201_tcg_cultist_01</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>91</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>Лицо служительницы на миг принимает удивленное выражение, когда она видит вашу татуировку. Затем она уважительно склоняет голову: "Почтенный Сосуд, не думаю, что мы встречались раньше. Касмин и Мимеон знают, что вы посетили нас?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>"Да, Ваше Святейшество?" — произносит она.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>"Хромой стихус прячется на свалке. Идите сейчас же и уведите его в какое-нибудь безопасное место".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>"Доброго вам дня".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>"И вам также, Святейшество".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>"Будет исполнено, Ваше Святейшество", — говорит она, поклонившись. — "Мы вскоре вернемся".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>"Приветствую вас вновь, возлюбленный Сосуд", — говорит она. — "Чем я могу вам помочь?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>"Я хочу попросить вас увести отсюда стихуса-изгоя. Никто не должен вас видеть. Сможете это устроить?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>"Доброго вам дня".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>"И вам также, Почтенный Сосуд".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>"Мы не сильны в обмане и уловках", — смущенно произносит служительница. — "Прошу прощения".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText>"Наверняка умный человек вроде вас сумеет найти способ тайно переправить одного стихуса в укрытие".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>14</ID>
+      <DefaultText>"Я понимаю вашу озабоченность, но мне нужно, чтобы вы сопроводили стихуса-изгоя в безопасное место".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>15</ID>
+      <DefaultText>Она изучает вас, глядя искоса, а затем кивает: "Ваш бессмертный отец также был нетерпелив по отношению к границам возможного. Хорошо. Хотите, чтобы мы попытались это сделать сейчас или позже?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>16</ID>
+      <DefaultText>"Я даже не представляю, с чего начать", — говорит она, качая головой.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>17</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>18</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>19</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20</ID>
+      <DefaultText>"Я хочу попросить вас тайно переправить отсюда хромого стихуса. Никто не должен вас видеть. Сможете это устроить?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>21</ID>
+      <DefaultText>"Если такова ваша воля", — встревожено говорит она, — "скажите, когда мы должны это сделать".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>22</ID>
+      <DefaultText>"Я хочу, чтобы вы сейчас же сопроводили стихуса-изгоя в безопасное место".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>23</ID>
+      <DefaultText>"Хорошо, возлюбленный Сосуд", — сглотнув, произносит она. — "Мы вскоре вернемся".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>24</ID>
+      <DefaultText>"Позже. Сперва мне нужно кое с чем разобраться".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>25</ID>
+      <DefaultText>"Разумеется", — говорит она, торжественно кивая.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>26</ID>
+      <DefaultText>"Я хочу, чтобы вы и остальные присмотрели за сиротами, живущими рядом со свалкой".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>27</ID>
+      <DefaultText>"Охотно, Святейшество. Мы будем заботиться о них, как о собственных детях".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>28</ID>
+      <DefaultText>Лицо служительницы на миг принимает удивленное выражение, когда она видит вас. Затем она коротко, но уважительно кланяется: "Святейшество, мы не ожидали вас здесь увидеть. Чем могу служить?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>29</ID>
+      <DefaultText>Лицо служительницы на миг принимает удивленное выражение, когда она видит вас. Затем она слегка склоняет голову в знак уважения: "Приветствую, Почтенный Сосуд. Чем могу служить?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30</ID>
+      <DefaultText>"Приветствую вас вновь, Почтенный Сосуд. Вы уже говорили с Касмин и Мимеоном?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>31</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>32</ID>
+      <DefaultText>"Кто такие Касмин и Мимеон?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>33</ID>
+      <DefaultText>"Где, говорите, я могу найти Касмин и Мимеона?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>34</ID>
+      <DefaultText>"Они представляют тех из нас, кто чтит Меняющегося Бога", — она вновь склоняет голову. — "Вашего бессмертного отца. Их можно найти в Малом Круге".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>35</ID>
+      <DefaultText>"В Малом Круге, Почтенный Сосуд".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>36</ID>
+      <DefaultText>"Вы кажетесь менее почтительной, чем прочие служители. Почему?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>37</ID>
+      <DefaultText>"Не все из нас *почитают* вашего отца", — осторожно произносит она. — "Мы лишь чтим его за безграничную мудрость и бездонное знание и стремимся подражать ему".
+
+Она прочищает горло: "Но поклоняться ему? Нет".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>38</ID>
+      <DefaultText>"Вы испытываете меня", — говорит она, скорее довольная, и прочищает горло.
+
+"Некоторые из нас почитают вас, это правда. Другие — включая меня — чтят вас за безграничную мудрость. За бездонное знание. Мы стремимся подражать вам, стать вами", — она кашляет, слегка покраснев. — "Если можно так выразиться".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>39</ID>
+      <DefaultText>"Вы кажетесь менее почтительной, чем другие мои последователи. Почему?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>40</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>41</ID>
+      <DefaultText>"Существо находится в Подбрюшье", — говорит она, лукаво глядя на товарища. — "Мы нарядили его в одежду Баранта, поскольку он самый рослый из нас. Люди стараются нас избегать, так что никто особо не присматривался".
+
+Она кланяется: "Что-нибудь еще, Ваше Святейшество?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>42</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>43</ID>
+      <DefaultText>"Существо в безопасности", — говорит она, лукаво глядя на товарища. — "Мы нарядили его в одежду Баранта, поскольку он самый рослый из нас".
+
+Она кланяется: "Что-нибудь еще?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>44</ID>
+      <DefaultText>"Кто жил в разрушенном доме у края утеса?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>45</ID>
+      <DefaultText>Служительница смотрит на остальных. Они качают головами.
+
+"Один человек", — говорит она, — "но мы не знаем, как его зовут и где он сейчас. Он всегда старался нас избегать".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>46</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>47</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>48</ID>
+      <DefaultText>"Кто жил в разрушенном доме у края утеса?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>49</ID>
+      <DefaultText>Служительница смотрит на остальных. Они качают головами.
+
+"Один человек", — говорит она, — "но мы не знаем, как его зовут и где он. Он всегда старался нас избегать".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>50</ID>
+      <DefaultText>"Кажется, кто-то разграбил разрушенный дом у края утеса. Вы видели, кто это был?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>51</ID>
+      <DefaultText>"Да", — произносит служительница, и на ее лице появляется озорное выражение. — "Но мне интересно, смогу ли я убедить вас поделиться с нами чем-нибудь в обмен на нашу помощь".
+
+Она не обращает внимание на удивленные взгляды прочих служителей: "Расскажите нам о своем рождении".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>52</ID>
+      <DefaultText>(Истина) "Хорошо. Я очнулся высоко над землей и, упав, разбился насмерть".</DefaultText>
+      <FemaleText>(Истина) "Хорошо. Я очнулась высоко над землей и, упав, разбилась насмерть".</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>53</ID>
+      <DefaultText>(Ложь) "Если так нужно. Я очнулся на театральных подмостках посреди представления «Габракси — любовный автомат»".</DefaultText>
+      <FemaleText>(Ложь) "Если так нужно. Я очнулась на театральных подмостках посреди представления "Габракси — эротичный робот".</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>54</ID>
+      <DefaultText>"Нет. Мое время ценнее вашего. А теперь говорите то, что мне нужно знать".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>55</ID>
+      <DefaultText>"Что ж", — говорит она, скорее разочарованная, нежели оскорбленная. — "Хорошо".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>56</ID>
+      <DefaultText>"Сомневаюсь, чтобы он не одобрил простое любопытство, — говорит она, изогнув бровь. — Ну же. Ваша тайна останется с нами".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>57</ID>
+      <DefaultText>"Мы *правда* видели, как кто-то рыскал среди развалин перед тем, как пришли вы", — говорит она, глядя на кучу обломков. — "Чумазые дети — вероятно, сироты — рылись в руинах. Думаю, они утащили еду и ценные вещи, но мы старались особо не всматриваться".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>58</ID>
+      <DefaultText>"Вы, должно быть, шутите", — побледнев, говорит она.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>59</ID>
+      <DefaultText>"Нет!" — говорит она, широко распахнув глаза. — "Я никогда не слышала об этой пьесе. О чем она?" Один из служителей позади нее как будто чем-то подавился.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>60</ID>
+      <DefaultText>"Это правда. Если не вдаваться в подробности, я пережил падение и пришел к пониманию себя".</DefaultText>
+      <FemaleText>"Это правда. Если не вдаваться в подробности, я пережила падение и пришла к пониманию себя".</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>61</ID>
+      <DefaultText>"Никто не сумел бы выжить. А я смог".</DefaultText>
+      <FemaleText>"Никто не сумел бы выжить. А я смогла".</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>62</ID>
+      <DefaultText>"О влюбленных Жрецах Вечности, которые случайно откапывают шаловливого робота. Но история тут не главное".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>63</ID>
+      <DefaultText>"Это скорее опера, если быть точным. С довольно *сложной* хореографией".</DefaultText>
+      <FemaleText>"Это скорее опера, если быть точной. С довольно *сложной* хореографией".</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>64</ID>
+      <DefaultText>"Потрясающе", — говорит она, качая головой. — "Никому из вас не посчастливилось проснуться в постели, ведь так?"
+
+Она прочищает горло: "Что ж, сделка есть сделка".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>65</ID>
+      <DefaultText>"Понятно", — выдавливает она. — "Никому из вас не посчастливилось проснуться в постели, ведь так?"
+
+Она прочищает горло: "Что ж, сделка есть сделка".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>66</ID>
+      <DefaultText>(Истина) "Вообще-то я пошутил. На самом деле я очнулся высоко над землей и, упав, разбился насмерть".</DefaultText>
+      <FemaleText>(Истина) "Вообще-то я пошутила. На самом деле я очнулась высоко над землей и, упав, разбилась насмерть".</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>67</ID>
+      <DefaultText>"Понимаю", — говорит она, хотя совершенно очевидно, что это не так. — "Вы, гм, досмотрели до самого конца?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>68</ID>
+      <DefaultText>"П-понимаю", — произносит она. — "Вы, гм, закончили пьесу?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>69</ID>
+      <DefaultText>"Ну, уходить со сцены до окончания представления — плохая примета, так что…"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>70</ID>
+      <DefaultText>"Нет. Я схватил первые попавшиеся ненужные штаны и сбежал так быстро, как только мог".</DefaultText>
+      <FemaleText>"Нет. Я схватила первые попавшиеся ненужные штаны и сбежала так быстро, как только могла".</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>72</ID>
+      <DefaultText>Она несколько раз моргает. Мало-помалу до нее доходит.
+
+"А! Ох", — она краснеет и прочищает горло. — "Что ж, сделка есть сделка".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>73</ID>
+      <DefaultText>"Конечно", — говорит она, а потом до нее доходит. — "Ох".
+
+Она прочищает горло: "Что ж, сделка есть сделка".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>77</ID>
+      <DefaultText>"Кажется, кто-то разграбил разрушенный дом у края утеса. Вы видели, кто это был?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>78</ID>
+      <DefaultText>"Да, Ваше Святейшество. Чумазые дети — вероятно, сироты — рылись в руинах. Думаю, они утащили еду и ценные вещи, но мы старались особо не всматриваться".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>79</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>80</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>81</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>82</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>83</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>84</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>85</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>86</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>87</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>89</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>90</ID>
+      <DefaultText>""</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>91</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>93</ID>
+      <DefaultText>"Почему, говорите, вы менее почтительна, чем прочие сектанты?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>94</ID>
+      <DefaultText>"Мы все по-разному истолковываем уроки вашего отца. Я уважаю его за мудрость, но не боготворю".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>95</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>97</ID>
+      <DefaultText>"Почему, говорите, вы менее почтительна, чем прочие мои последователи?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>98</ID>
+      <DefaultText>"Я хочу следовать Вашему примеру, Святейшество, а не боготворить тебя".</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

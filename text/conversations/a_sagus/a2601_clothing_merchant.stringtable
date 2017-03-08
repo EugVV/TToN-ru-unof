@@ -1,0 +1,1056 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\a_sagus\a2601_clothing_merchant</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>203</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>Высокий, худой и изящно одетый пожилой мужчина стоит в тени искусно сделанного прилавка. Покрой, цвет и качество его одежды по своей гармоничности напоминают симфонию, а такое выражение благосклонной снисходительности больше подходит лицу короля.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>Санголин кланяется, когда вы входите. "С возвращением, господин. Большая честь вновь быть к вашим услугам. Чего желаете?"</DefaultText>
+      <FemaleText>Санголин кланяется, когда вы входите. "С возвращением, госпожа. Большая честь вновь быть к вашим услугам. Чего желаете?"</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>Санголин кланяется, когда вы входите. "С возвращением. Большая честь вновь быть к вашим услугам. Чего желаете?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>Высокий, худой и изящно одетый пожилой мужчина стоит в тени искусно сделанного прилавка. Покрой, цвет и качество его одежды по своей гармоничности напоминают симфонию, а такое выражение благосклонной снисходительности больше подходит лицу короля.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>"Покажи, что у тебя есть на продажу".
+
+{STORE}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>"Прощай".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText>"Я хочу купить официальную городскую эмблему".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText>"Ты уверены, что не сможешь продать мне городскую эмблему?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>14</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>15</ID>
+      <DefaultText>"Расскажи мне о площади Правительства".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>16</ID>
+      <DefaultText>"Давай снова поговорим о площади Правительства".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>17</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>18</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>19</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>21</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>22</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>23</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>24</ID>
+      <DefaultText>"Конечно, господин". 
+
+Он подносит палец к подбородку. "Дайте подумать... Там располагается Башня Совета и Орден Истины. И, конечно, Красная Чаща — огражденный дворик на краю площади. Или вы хотели узнать о фонтане?"</DefaultText>
+      <FemaleText>"Конечно, госпожа". 
+
+Он подносит палец к подбородку. "Дайте подумать... Там располагается Башня Совета и Орден Истины. И, конечно, Красная Чаща — огражденный дворик на краю площади. Или вы хотели узнать о фонтане?"</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>25</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>27</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>28</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>29</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>31</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>32</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>33</ID>
+      <DefaultText>"Что ты продаешь?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>34</ID>
+      <DefaultText>"Повтори, что ты продаешь".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>35</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>36</ID>
+      <DefaultText>"Мы предлагаем изысканную одежду для горожан, у которых есть вкус, а также броню для тех, кто путешествует в менее цивилизованные места".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>37</ID>
+      <DefaultText>"Мы продаем лучшую одежду и броню для тех, кто может ее себе позволить. Качество у нас настолько высокое, что мы являемся сертифицированными поставщиками официальных городских эмблем для Утесов Сагуса".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>38</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>39</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>40</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>41</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>42</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>43</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>44</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>45</ID>
+      <DefaultText>"Городские эмблемы не продаются. Они *выдаются* выбранным или назначенным государственным служащим Утесов Сагуса. И продавать их тому, кто не является служащим города, незаконно. Я не стану нарушать закон". 
+
+Он задумывается: "Конечно, большинство служащих платят мне за материалы. Но нет, я не стану рисковать и подрывать доверие к себе".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>46</ID>
+      <DefaultText>"Разумеется. Как я и говорил, это незаконно. И очень рискованно".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>47</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>48</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>49</ID>
+      <DefaultText>"Приходите еще".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>50</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>51</ID>
+      <DefaultText>"Как стать гражданином Утесов Сагуса?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>52</ID>
+      <DefaultText>"Повтори, как стать гражданином Утесов Сагуса".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>53</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>54</ID>
+      <DefaultText>"Необходимо принести клятву Семьям Рабов и отдать год жизни для создания стража. Но не мне об этом рассказывать. Поговорите с секретарем Совета".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>55</ID>
+      <DefaultText>"Как я уже говорил, побеседуйте с секретарем Совета по этому поводу... К слову, восхищаюсь вашим интересом".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>56</ID>
+      <DefaultText>Санголин глубоко кланяется при виде вас. "С возвращением, господин. Я вижу, вы стали гражданином. Мои поздравления! И я с удовольствием покажу вам нашу эксклюзивную коллекцию специально для Утесов".</DefaultText>
+      <FemaleText>Санголин глубоко кланяется при виде вас. "С возвращением, госпожа. Я вижу, вы стали гражданкой. Мои поздравления! И я с удовольствием покажу вам нашу эксклюзивную коллекцию специально для Утесов".</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>57</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>58</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>59</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>60</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>61</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>62</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>63</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>64</ID>
+      <DefaultText>"Не проходил ли мимо клинок в тяжелой броне? Он будто спит на ходу".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>65</ID>
+      <DefaultText>"Не заглядывала ли сюда белокожая суровая женщина? Крутая нравом и опасная?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>66</ID>
+      <DefaultText>Он качает головой: "Если бы я кого-то видел, то сразу бы сообщил стражам".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>67</ID>
+      <DefaultText>Он хмуро задумывается, затем кивает: "Да. Я даже продал ей плащ. Она старалась максимально закрыть им свое лицо. Впрочем, с таким лицом, как у нее, меня не удивляет ее желание спрятаться".
+
+Он смотрит в сторону здания совета: "Я подумал, что она, должно быть, выполняет *секретное* поручение Семей. Но я не спрашивал".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>68</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>69</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>70</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>71</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>72</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>73</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>74</ID>
+      <DefaultText>"Можно спросить тебя о другом?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>76</ID>
+      <DefaultText>"Конечно. Что вы хотите узнать?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>77</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>78</ID>
+      <DefaultText>"Расскажи мне о людях, что живут здесь".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>79</ID>
+      <DefaultText>"У меня есть еще вопрос про живущих здесь людей".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>80</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>81</ID>
+      <DefaultText>"Я не люблю сплетни, господин. Но раз уж вы просите. О ком вы хотите узнать?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>82</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>83</ID>
+      <DefaultText>"Безусловно. О ком вы хотите узнать?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>84</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>85</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>86</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>87</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>88</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>89</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>90</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>91</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>92</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>93</ID>
+      <DefaultText>"Для ботинок это хорошая цена. Я беру их".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>94</ID>
+      <DefaultText>"Отлично, господин. Я заверну их. В левом ботинке будет *запасная пряжка*".
+
+{MONEY}
+{LOOT}</DefaultText>
+      <FemaleText>"Отлично, госпожа. Я заверну их. В левом ботинке будет *запасная пряжка*".
+
+{MONEY}
+{LOOT}</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>95</ID>
+      <DefaultText>"Я не стану платить".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>96</ID>
+      <DefaultText>"Похоже, сделка не состоится. Подумайте еще!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>97</ID>
+      <DefaultText>"У меня столько нет".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>98</ID>
+      <DefaultText>"В таком случае, я не продам ботинки. Моя цена конечная".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>99</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>100</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>101</ID>
+      <DefaultText>Он поджимает губы: "Я не беру взяток. Но... если вы купите, скажем, эти красные ботинки за [Global: a2601_SangolinBribe] шинов, я могу случайно забыть *что-то ценное* в одном из них".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>102</ID>
+      <DefaultText>"Ботинки стоят [Global: a2601_SangolinBribe] шинов. *Запасная пряжка* пойдет в подарок".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>103</ID>
+      <DefaultText>"Как уговорить тебя рискнуть?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>104</ID>
+      <DefaultText>"Повтори свое предложение. За ботинки с *чем-то ценным* внутри".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>105</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>106</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>107</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>108</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>109</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>110</ID>
+      <DefaultText>"Вообще-то мне только что предоставили должность заместителя помощника надсмотрщика за казнями. Наверное, тебе еще не пришло письмо. Это ведь не проблема?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>111</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>112</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>113</ID>
+      <DefaultText>Подождать, когда Санголин отвернется, и попытаться украсть эмблему с манекена.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>114</ID>
+      <DefaultText>Санголин отворачивается от вас, и вы воруете эмблему с манекена. 
+
+Вы успеваете спрятать ее до того, как он поворачивается обратно. Он ничего не замечает.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>115</ID>
+      <DefaultText>Когда Санголин отворачивается, вы пытаетесь снять эмблему с манекена, но вам не хватает ловкости и времени повторить попытку. Санголин поворачивается к вам, но ничего не замечает.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>116</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>117</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>118</ID>
+      <DefaultText>"Что вы, вы не нарушите закон! Моего друга только что назначили заместителем помощника надсмотрщика Йин. Скоро вам принесут письмо с подтверждением, но вы же знаете Йин. Работу с документами откладывает в долгий ящик".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>119</ID>
+      <DefaultText>"Все хорошо, Тибир. Об этом скоро доложат. Санголин, задержка с письмом от Йина ведь не проблема?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>120</ID>
+      <DefaultText>"Конечно, нет, господин. Я прекрасно знаю о том, какие неторопливые в этом городе бюрократы. Я заверну для вас эмблему", — улыбается он.</DefaultText>
+      <FemaleText>"Конечно, нет, госпожа. Я прекрасно знаю о том, какие неторопливые в этом городе бюрократы. Я заверну для вас эмблему", — улыбается он.</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>121</ID>
+      <DefaultText>Санголин сконфуженно вздыхает: "Ужасно жаль, господин. Я бы поверил вам на слово, но в том, что касается ведения бизнеса в этом городе, я должен быть предельно осторожен. Боюсь, придется подождать, когда придут документы".</DefaultText>
+      <FemaleText>Санголин сконфуженно вздыхает: "Ужасно жаль, госпожа. Я бы поверил вам на слово, но в том, что касается ведения бизнеса в этом городе, я должен быть предельно осторожен. Боюсь, придется подождать, когда придут документы".</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>122</ID>
+      <DefaultText>"Конечно, нет, господин. Я прекрасно знаю о том, какие неторопливые в этом городе бюрократы. Я заверну для вас эмблему", — улыбается он. "А в честь получения вашей первой работы в городе я дарю вам эту прекрасную пару перчаток".
+
+{LOOT: Give player red gloves.}</DefaultText>
+      <FemaleText>"Конечно, нет, госпожа. Я прекрасно знаю о том, какие неторопливые в этом городе бюрократы. Я заверну для вас эмблему", — улыбается он. "А в честь получения вашей первой работы в городе я дарю вам эту прекрасную пару перчаток".</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>123</ID>
+      <DefaultText>Санголин хмурится: "Мне неприятно это говорить, но я вам не верю, господин. Даже не пытайтесь обмануть меня снова".</DefaultText>
+      <FemaleText>Санголин хмурится: "Мне неприятно это говорить, но я вам не верю, госпожа. Даже не пытайтесь обмануть меня снова".</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>124</ID>
+      <DefaultText>Поняв, что вы задумали, Тибир отвлекает Санголина вопросами о красивом жилете. Когда они оба отворачиваются от вас, вы воруете эмблему с манекена. 
+
+Вы успеваете спрятать ее до того, как Санголин поворачивается обратно. Он ничего не замечает.
+{GAVIN: Tybir attitude adjustment here?}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>125</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>126</ID>
+      <DefaultText>Поняв, что вы задумали, Тибир отвлекает Санголина вопросами о красивом жилете. Когда они оба отворачиваются, вы пытаетесь снять эмблему с манекена, но вам не хватает ловкости и времени повторить попытку.
+
+Санголин поворачивается, ничего не замечая, но Тибир закатывает глаза.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>127</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>135</ID>
+      <DefaultText>"Спасибо, Тибир. Нет нужды настаивать. Давай поговорим о чем-нибудь другом".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>136</ID>
+      <DefaultText>Санголин хмурится: "Мне неприятно это говорить, господин, особенно в свете того, что вы сделали для Утесов Сагуса, но, боюсь, никакой вы не служитель города. Даже не пытайтесь обмануть меня снова".</DefaultText>
+      <FemaleText>Санголин хмурится: "Мне неприятно это говорить, госпожа, особенно в свете того, что вы сделали для Утесов Сагуса, но, боюсь, никакой вы не служитель города. Даже не пытайтесь обмануть меня снова".</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>137</ID>
+      <DefaultText>Санголин сконфуженно вздыхает: "Ужасно жаль, господин. Хотел бы я принять ваши слова на веру, особенно в свете того, сколько вы сделали для города, но в том, что касается бизнеса, мне стоит быть предельно осторожным. Боюсь, придется подождать, когда придут документы".</DefaultText>
+      <FemaleText>Санголин сконфуженно вздыхает: "Ужасно жаль, госпожа. Хотел бы я принять ваши слова на веру, особенно в свете того, сколько вы сделали для города, но в том, что касается бизнеса, мне стоит быть предельно осторожным. Боюсь, придется подождать, когда придут документы".</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>138</ID>
+      <DefaultText>"Конечно, нет, господин. Вы столько сделали для города. Я уверен, вы станете прекрасным служащим. Я заверну для вас эмблему". Он улыбается:</DefaultText>
+      <FemaleText>"Конечно, нет, госпожа. Вы столько сделали для города. Я уверен, вы станете прекрасной служащей. Я заверну для вас эмблему". Он улыбается:</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>139</ID>
+      <DefaultText>"Конечно, нет, господин. Я прекрасно знаю о том, какие неторопливые в этом городе бюрократы. Я заверну для вас эмблему". Он улыбается: "А в благодарность за все ваши заслуги я дарю вам эту прекрасную пару перчаток".
+
+{LOOT: Give player red gloves.}</DefaultText>
+      <FemaleText>"Конечно, нет, госпожа. Я прекрасно знаю о том, какие неторопливые в этом городе бюрократы. Я заверну для вас эмблему". Он улыбается: "А в благодарность за все ваши заслуги я дарю вам эту прекрасную пару перчаток".</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>140</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>141</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>142</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>143</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>144</ID>
+      <DefaultText>"Конечно, господин".</DefaultText>
+      <FemaleText>"Конечно, госпожа".</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>145</ID>
+      <DefaultText>"Добрый день", — говорит он, слегка кланяясь. —  "Меня зовут Санголин, и это мой магазин «Мастерская Санголина». Добро пожаловать! Чем я могу помочь?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>146</ID>
+      <DefaultText>"Добрый день", — говорит он, слегка кланяясь. —  "Меня зовут Санголин, и это мой магазин «Мастерская Санголина». Добро пожаловать! Чем я могу помочь?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>147</ID>
+      <DefaultText>"Добрый день", — он вглядывается в вас и когда узнает, распахивает глаза. — "Постойте-ка! Это же благодаря вам те *существа* свернули свои подземные раскопки? Пелиай мне все рассказал об этом".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>148</ID>
+      <DefaultText>"Добрый день", —  он вглядывается в вас и когда узнает, распахивает глаза. — "Постойте-ка! Это же благодаря вам те *существа* свернули свои подземные раскопки? Пелиай мне все рассказал об этом". 
+
+Он лучезарно улыбается: "Меня зовут Санголин, и это мой магазин «Мастерская Санголина». Проходите, пожалуйста! Чем я могу помочь?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>149</ID>
+      <DefaultText>"Каждый джалей в фонтане говорит на своем мертвом языке. Мне нравится их приглушенный лепет, он похож на шум дождя, но некоторых людей он сводит с ума". Он пожимает плечами.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>150</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>151</ID>
+      <DefaultText>"Расскажи мне о фонтане".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>152</ID>
+      <DefaultText>"Расскажи мне еще раз о фонтане".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>153</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>154</ID>
+      <DefaultText>"Расскажи мне о Башне Совета".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>155</ID>
+      <DefaultText>"Расскажи мне еще раз о Башне Совета".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>156</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>157</ID>
+      <DefaultText>"Что тебе известно об Ордене Истины?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>158</ID>
+      <DefaultText>"Расскажи мне еще раз об Ордене Истины".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>159</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>160</ID>
+      <DefaultText>"Расскажи мне о Доме Пустого Времени".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>161</ID>
+      <DefaultText>"Расскажи мне еще раз о Доме Пустого Времени".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>162</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>163</ID>
+      <DefaultText>"Что такое Красная Чаща?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>164</ID>
+      <DefaultText>"Расскажи еще раз, что такое Красная Чаща".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>165</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>166</ID>
+      <DefaultText>"Что ты знаешь о секретаре Совета?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>167</ID>
+      <DefaultText>"Расскажи мне еще раз о секретаре Совета".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>168</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>169</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>170</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>171</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>172</ID>
+      <DefaultText>"Ты знаешь что-нибудь о Сведущей Йене?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>173</ID>
+      <DefaultText>"Расскажи еще раз о Сведущей Йене".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>174</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>176</ID>
+      <DefaultText>Снова попытаться украсть эмблему, пока Санголин не смотрит.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>177</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>178</ID>
+      <DefaultText>"Это одно из самых странных и удивительных мест на площади. Существа, обитающие там, зовутся джалеями, и разговаривают они на тысяче мертвых языков. Жрецы считают, что рождение нового джалея — верный признак того, что еще один язык стал мертвым".
+
+Он покачивает головой: "Можно слушать их месяцами и ни разу не услышать одного и того же языка дважды. К тому же ни один из языков невозможно понять".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>180</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>181</ID>
+      <DefaultText>"Она настолько древняя, что возраст ее невозможно определить. Башня уходит глубоко под землю к самым кузницам Подбрюшья. В ней заседает Совет Утесов Сагуса — самый главный и справедливый законодательный орган в Девятом Мире. И я говорю так не только потому, что они мои самые ценные покупатели. Они управляли городом веками. А благодаря мне они еще и прекрасно выглядят".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>182</ID>
+      <DefaultText>"Там заседают наши мудрые и великодушные правители. Совет правит городом со времен самой Чилы Великой".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>183</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>184</ID>
+      <DefaultText>"Они создают городу хорошую репутацию. Они мудрые ученые и глубокие философы", —  он улыбается. — "И к тому же замечательные покупатели. Очень скрупулезно подбирают себе одежду".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>185</ID>
+      <DefaultText>"Это мозговой центр Утесов Сагуса. Их безудержная тяга к знаниям вдохновляет всех нас".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>186</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>187</ID>
+      <DefaultText>"Видите ту арку возле Ордена Истины? Это самое любопытное. Кажется, что она переправляет детей... куда-то еще. Я видел, как дети в нее входят и как выходят, но я понятия не имею, куда они отправляются или откуда прибывают".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>188</ID>
+      <DefaultText>"Я мало что об этом знаю. Это дверь в никуда. Иногда из нее выходят дети".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>189</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>190</ID>
+      <DefaultText>"Я зову его Шепчущим Лесом. Это очень любопытное и древнее местечко. Можешь кричать там хоть во весь голос, но никто, кроме твоего спутника, тебя не услышит. Прекрасное место для дипломатии".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>191</ID>
+      <DefaultText>"Это место для обмена тайнами. Там приятный воздух, и никто не сможет ничего подслушать".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>198</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>199</ID>
+      <DefaultText>Он улыбается: "Этот человек может дотянуться куда угодно. Буквально куда угодно. Он занимается документацией Совета и хранит все бумаги в сотне различных мест в городе, но когда они ему нужны, он просто протягивает руки и достает их из воздуха".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>200</ID>
+      <DefaultText>"Он обеспечивает бесперебойную работу Совета, и у него самая необычная система хранения документов. Если вы ищете в городе бюрократа, то вам к нему".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>201</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>202</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>203</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>204</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>205</ID>
+      <DefaultText>"Говорят, что она знает все. Но это чушь. Она определенно точно не в курсе, как надо одеваться. Я предложил ей свою помощь, но она так и не заходит ко мне в магазин. Говорит, слишком дорого".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>206</ID>
+      <DefaultText>"Она знает обо всем, кроме моды. Все тайны, о да. А вот в одежде не разбирается. Мне кажется, она безнадежна".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>207</ID>
+      <DefaultText>Он откашливается и обращает ваше внимание на изысканно одетого манекена с эмблемой городского служащего: "Также для нашего магазина большая честь предоставлять государственным служащим официальные эмблемы Утесов Сагуса. Можете поверить, они не зря нам доверяют".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>208</ID>
+      <DefaultText>"Спасибо, Тибир, но не будем приносить лишних неудобств этому джентльмену. Возможно, мы могли бы помочь уменьшить его риски?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>209</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>210</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>211</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>212</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>213</ID>
+      <DefaultText>"Что ты знаешь об Альсен Пери?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>214</ID>
+      <DefaultText>"Расскажи мне еще раз об Альсен Пери".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>215</ID>
+      <DefaultText>"Она частенько заглядывает сюда, но не всегда уходит с покупками. Больше я о ней ничего не знаю, разве что то, что она является детским хиургом", — он вскидывает брови. — "Не думаю, что это ее *единственное* занятие. Порой я вижу, как она разговаривает с незнакомыми мне людьми из разных частей города. Как правило, с супружескими парами. И все это происходит шито-крыто, ну, вы понимаете".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>216</ID>
+      <DefaultText>"Она хиург по профессии и, очевидно, любит изысканную одежду. Альсен — одна из моих лучших покупательниц, но о личном со мной не говорит".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>217</ID>
+      <DefaultText>"На сегодня это все? Может быть, вас заинтересует наша прекрасная коллекция доспехов?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>218</ID>
+      <DefaultText>Он смотрит на вас и качает головой. "Действительно, нынче надсмотрщик Йин нанимает кого ни попадя. Было время, когда городские служащие должны были *знать* Утесы Сагуса". Он неодобрительно цыкает. "Неважно. Вы спросили о Башне Совета".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>220</ID>
+      <DefaultText>Он неодобрительно цыкает. "Говоришь, вам дал полномочия надсмотрщик Йин? Действительно, стандарты Йина сильно снизились. Это должен знать любой чиновник".
+
+Он покачивает головой: "Прошу прощения. Вы спросили о секретаре Совета".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>221</ID>
+      <DefaultText>"Все хорошо, Тибир. Об этом скоро доложат. Санголин, задержка с письмом от Йина ведь не проблема?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>222</ID>
+      <DefaultText>Он тихо смеется. "Дружок, вы не городской служащий. Все вопросы, которые вы мне задали, выдают ваше невежество". Он широко разводит руки. "Зла я вам не желаю, но я не могу просто *выдать* тебе эмблему городского служащего".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>223</ID>
+      <DefaultText>"Вообще-то мне только что предоставили должность заместителя помощника надсмотрщика за казнями. Наверное, вам еще не пришло письмо. Это ведь не проблема?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>224</ID>
+      <DefaultText>Он смотрит на вас и качает головой. "Действительно, нынче надсмотрщик Йин нанимает кого ни попадя. Было время, когда городские служащие должны были *знать* Утесы Сагуса". Он неодобрительно цыкает. "Неважно. Вы спросили о Красной Чаще".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>226</ID>
+      <DefaultText>Он смотрит на вас и качает головой. "Действительно, нынче надсмотрщик Йин нанимает кого ни попадя. Было время, когда городские служащие должны были *знать* Утесы Сагуса". Он неодобрительно цыкает. "Неважно. Вы спросили о фонтане".</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

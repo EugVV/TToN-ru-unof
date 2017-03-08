@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\companions\respawn barks\a2201_respawn_barks</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>13</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>"Ты не знал, что отверженные были такими ранимыми, что ты бы потерял сознание при виде трупа".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>"Отражения моих сестер говорят мне, что ты разговаривал с трупом. Ты нашел, что-нибудь стоящее?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>"Не совсем та реакция, которую я ожидала".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>"Я чувствовал себя, как будто я умираю в многочисленных развалинах, но обычно я пил".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>"Это из-за вида крови? Я часто падал в обморок при виде крови. Подожди...разве это был я?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>"Я не виню тебя. *Я* тоже не выношу вида мертвых тел".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>"Наконец-то. Я думал, ты собираешься заставить меня справляться с ними самому".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>"Ты мог бы быть более внимателен со своими идиотскими выходками. Временами бывает очень неловко".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>"Ага! Сегодня я спас *двоих* друзей!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText>"Давно пора. Я собиралась позволить им поиметь ее".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText>"Ты может предупредишь меня в следующий раз, когда попытаешься сделать какую-нибудь глупость, парень".</DefaultText>
+      <FemaleText>«Ты может предупредишь меня в следующий раз, когда попытаешься сделать какую-нибудь глупость, девушка".</FemaleText>
+    </Entry>
+  </Entries>
+</StringTableFile>

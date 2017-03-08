@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\a_sagus\a1101_thebrokendome_goonambush</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>5</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>Несколько хорошо вооруженных головорезов стоят вокруг купола, изучая резонансную камеру. Один из них рассматривает соединения между саркофагом и остальными машинами. Он поднимает голову, и вы замечаете, как сужаются его глаза под шлемом: "Мне казалось, что задача Финика — не пускать сюда отбросы".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>Мужчина разглядывает вас с головы до ног: "Ты не вовремя, друг. Мемовира заявила свои права на этот купол в качестве вознаграждения. Как по мне, я бы просто сказал тебе проваливать, но командирше не нужны свидетели. Извини".
+
+Он достает оружие, и товарищи следуют его примеру...</DefaultText>
+      <FemaleText>Мужчина разглядывает вас с головы до ног: "Ты не вовремя, подруга. Мемовира заявила свои права на этот купол в качестве вознаграждения. Как по мне, я бы просто сказал тебе проваливать, но командирше не нужны свидетели. Извини".
+
+Он достает оружие, и товарищи следуют его примеру...</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>"Он вернулся! Убить его!"</DefaultText>
+      <FemaleText>"Она вернулась! Убить ее!"</FemaleText>
+    </Entry>
+  </Entries>
+</StringTableFile>

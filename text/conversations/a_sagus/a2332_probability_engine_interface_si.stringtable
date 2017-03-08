@@ -1,0 +1,236 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\a_sagus\a2332_probability_engine_interface_si</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>44</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>Этот прибор выглядит так, как будто он однажды был частью какого-то большого прибора, помещенного в скальную породу под городом. Толстый кабель исчезает в стене. Прибор издает низкий гул на грани возможностей твоего слуха.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>Провода и кабели тянутся от этого прибора и уходят в каменную стену.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>У тебя возникает знакомое чувство.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>14</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>15</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>16</ID>
+      <DefaultText>Вы моментально начинаете понимать что это генератор случайных событий, о котором говорила та женщина-призрак в Лабиринте.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>17</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>18</ID>
+      <DefaultText>Постараться использовать интерфейс.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>19</ID>
+      <DefaultText>Попытаться воспользоваться интерфейсом снова.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>21</ID>
+      <DefaultText>Ты тыкаешь в него пальцем, проводишь по нему, кричишь не него, спокойно разговариваешь с ним, но интерфейс никак не реагирует на твои команды.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>22</ID>
+      <DefaultText>Что-бы вы не делали, интерфейс не реагирует.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>23</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>24</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>25</ID>
+      <DefaultText>Оставить его.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>26</ID>
+      <DefaultText>Сейчас экран не светится и прибор не отвечает.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>28</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>29</ID>
+      <DefaultText>Интерфейс сломался. Все же вам удается его отключить, но вы не имеете ни малейшего понятия , как запустить его снова.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30</ID>
+      <DefaultText>Что бы вы не делали, это не приносит никакого результата.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>31</ID>
+      <DefaultText>Попытаться догадаться, как этот аппарат работает.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>32</ID>
+      <DefaultText>При касании шероховатой поверхности, появляется дисплей интерфейса, но, кажется, он не реагирует на твои жесты и команды.
+
+На дисплее отображается огромная сеть других устройств, к которым он должен подключаться. Если ты правильно все прочитал, существует больше множество машин и устройств, работающих где-то под городом. С помощью этого интерфейса можно управлять ими.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>33</ID>
+      <DefaultText>Вы произносите слово 'нешу,' и интерфейс загорается. Вы вводите тех же пять символов, которые вы видели, как их использовал человек-призрак в Лабиринте.
+
+Вы уже почти собираетесь повторить этот ритуал во второй раз, но встречаете какое-то сопротивление. Ваша рука просто не хочет слушаться.
+
+Это не физическое сопротивление. Что-то в вашем мозгу не позволяет завершить вам эту последовательность.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>34</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>35</ID>
+      <DefaultText>Отключить генератор случайных событий.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>36</ID>
+      <DefaultText>Попытаться отключить генератор случайных событий снова.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>37</ID>
+      <DefaultText>Снова вы произносите слово 'нешу,' и вводите пять символов в той же последовательности, что и человек-призрак. Когда вы пытаетесь ввести их во второй раз, что-то останавливает вас. Ваша рука отказывается повиноваться.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>38</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>39</ID>
+      <DefaultText>Побороть сопротивление, во что бы то ни стало.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>40</ID>
+      <DefaultText>Попытаться побороть сопротивление снова.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>41</ID>
+      <DefaultText>Не обращать внимание.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>42</ID>
+      <DefaultText>Вы сдаетесь. Через какую-то секунду, интерфейс возвращается в прежнее состояние и гаснет.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>43</ID>
+      <DefaultText>Ты собираешь всю свою волю в кулак, ка будто какой-то другой *разум* пытается контролировать твое тело. В итоге, ты преодолеваешь сопротивление, вводишь последовательность чисел второй раз. Интерфейс гаснет и прибор замолкает. Все кончено.
+
+{SCRIPT: Need to make the VFX here shut off.}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>44</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>45</ID>
+      <DefaultText>Вы пытаетесь заставить свою руку слушаться, двигая ей, но ничего не получается. Что-то внутри вас не хочет, чтобы эти приборы выключались.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>46</ID>
+      <DefaultText>Вы пытаетесь снова, но опять безрезультатно. Что-бы не сопротивлялось вам, оно очень сильное.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>47</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>48</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>49</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>50</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

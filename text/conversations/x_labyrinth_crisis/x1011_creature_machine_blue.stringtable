@@ -1,0 +1,177 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\x_labyrinth_crisis\x1011_creature_machine_blue</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>33</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>18</ID>
+      <DefaultText>Этот аппарат захвачен фрагментом Скорби. От спутанных кабелей, которые ведут к стоящему рядом резервуару, исходит ощутимая волна ярости. Кажется, это причиняет страдания существу внутри.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>19</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20</ID>
+      <DefaultText>Кабели поддаются с трудом. Злобное напряжение, скрытое внутри, борется за каждый миллиметр, еще больше скручивая их и сопротивляясь любым попыткам их распутать.
+
+Наконец распрямленные кабели лежат на земле. Существо прекращает судорожно дергаться и вновь погружается в мирный сон. Теперь оно готово к контакту.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>21</ID>
+      <DefaultText>Как только вы беретесь за кабели, они вырываются и сжимаются, с силой вдавливаясь в землю. Создание, находящееся внутри, сопротивляется любым попыткам их распутать. Наконец оно уступает и устремляется прочь из аппарата. Когда кабели вытягиваются, тварь принимается кружить рядом, пронзая ваш разум своими шипами.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>22</ID>
+      <DefaultText>Распутать кабели, вытянув их.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>23</ID>
+      <DefaultText>Еще раз попытаться вытянуть кабели.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>24</ID>
+      <DefaultText>Уйти.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>25</ID>
+      <DefaultText>Захваченные Скорбью кабели, ведущие к аппарату, все еще спутаны и причиняют сильные страдания находящемуся рядом существу.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>26</ID>
+      <DefaultText>Возиться с этим аппаратом больше не нужно: существо спокойно плавает в стоящем рядом резервуаре. Скорбь его не тревожит.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>27</ID>
+      <DefaultText>Торчащие из этого аппарата кабели монотонно вибрируют, подавая *что-то* в стоящий рядом резервуар существа.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>28</ID>
+      <DefaultText>Клубок не может сопротивляться и с разъяренным визгом расплетается.
+
+Существо прекращает судорожно дергаться и вновь погружается в мирный сон. Теперь оно готово к контакту.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>29</ID>
+      <DefaultText>Спутанный кабель, захваченный Скорбью, становится на дыбы, словно зверь, готовый напасть, и делает злобные выпады, сопротивляясь любым попыткам его распутать. Это бесполезно.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>31</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>32</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>33</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>34</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>35</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>36</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>37</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>38</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>39</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>40</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>41</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>42</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>43</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>44</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>45</ID>
+      <DefaultText>Фрагмент Скорби покинул этот аппарат, позволив кабелям распутаться самостоятельно.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>46</ID>
+      <DefaultText>Фрагмент Скорби, находившийся внутри этого устройства, с шипящим рычанием обретает форму.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>49</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>50</ID>
+      <DefaultText>Когда нити встают на место, изогнутый металлический прут, находившийся под ними, вываливается на землю. Похоже, аппарат больше в нем не нуждается. Это был какой-то проводник данных, бесполезный здесь, но, если соединить концы двух оголенных проводов, из него может получиться удобный одноразовый телепорт.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>51</ID>
+      <DefaultText>Когда нити встают на место, из гнезда появляется светящийся купол из каленого стекла, внутри которого кружатся сверкающие энергетические потоки. Он может стать полезным оружием против фрагментов Скорби.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>53</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

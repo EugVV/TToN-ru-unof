@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\x_labyrinth\x6101_stasis_pylon_02</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>21</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>Это странное устройство вибрирует и гудит в едва слышимом для вас диапазоне. Каждые несколько секунд в воздухе вокруг него появляется рябь, и между столбом и огромной башней, что неподалеку, создается арка энергии. Сбоку устройства светится небольшая панель управления.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>Странно, но другие отверженные, которые все еще во власти иллюзий Лабиринта, обходят эти столбы стороной. Если они подходят ближе, то их действия замедляются, но несильно.
+
+Навряд ли это происходит из-за эффекта, создаваемого столбами, скорее, из-за того, за что отверженные их *принимают*. Если вы активируете все столбы, эффект может оказаться куда более значительным.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>Как и раньше, устройство издает какой-то низкочастотный гул. Сбоку светится небольшая панель управления.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText>Отойти назад.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>15</ID>
+      <DefaultText>Попытаться включить столб.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>16</ID>
+      <DefaultText>Вы легко разбираетесь с управлением. В течение считанных секунд в воздухе вокруг столба появляется рябь, и арка энергии соединяет столб с другими устройствами поблизости. Гул устройства нарастает.
+
+Когда вы отходите от панели управления, энергия столба угасает. Рукоятка, которую вы повернули, медленно возвращается в исходное положение.
+
+Очень скоро энергия столба снова сойдет на нет.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>17</ID>
+      <DefaultText>Когда все три столба активированы, огромная башня сотрясает воздух. Каждый отверженный, попавший в сети ее энергии, в том числе и те, кто все еще находится под воздействием иллюзий, замирает на месте.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>18</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>19</ID>
+      <DefaultText>Активировать столб.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20</ID>
+      <DefaultText>В воздухе вокруг столба появляется рябь, и арка энергии соединяет столб с другими устройствами поблизости.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>21</ID>
+      <DefaultText>Он практически сразу начинает терять энергию.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>22</ID>
+      <DefaultText>Пока вокруг нет врагов, можно потратить немного времени на изучение этого устройства. Вы отходите.</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

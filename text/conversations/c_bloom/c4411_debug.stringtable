@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\c_bloom\c4411_debug</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>8</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>[This is a DEBUG object and should be removed when no longer debugging.]
+
+{DEBUG: remove this object when done bebugging}</DefaultText>
+      <FemaleText>[This is a DEBUG object and should be removed when no longer debugging.]
+
+{DEBUG: remove this object when done bebugging}</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>[Deactivate Tube 1]</DefaultText>
+      <FemaleText>[Deactivate Tube 1]</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>[Deactivate Tube 2]</DefaultText>
+      <FemaleText>[Deactivate Tube 2]</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>[Deactivate Tube 3]</DefaultText>
+      <FemaleText>[Deactivate Tube 3]</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>Отойти.</DefaultText>
+      <FemaleText>Отойти.</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>[Tube 1 deactivated]</DefaultText>
+      <FemaleText>[Tube 1 deactivated]</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>[Tube 2 deactivated]</DefaultText>
+      <FemaleText>[Tube 2 deactivated]</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>[Tube 3 deactivated]</DefaultText>
+      <FemaleText>[Tube 3 deactivated]</FemaleText>
+    </Entry>
+  </Entries>
+</StringTableFile>

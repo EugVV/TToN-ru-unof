@@ -1,0 +1,234 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\c_bloom\c4101_courtyard_well</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>38</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>0</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>Пруд полон желтоватой 'водой', падающей сверху. Плоть Цветения вокруг мокрая и испещренная отпечатками рук и ног. Видимо, обитатели Цветения часто используют этот пруд для мытья и питья.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>Выпить жидкости.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>Уйти от пруда.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>Вы отпиваете желтоватой "воды". Она жирная и кисловатая на вкус, но жажду утоляет. Вы пьете еще...
+
+...и слышите шепот. Сперва он едва различим, но потом становится громче и разделяется на чирикающие голоса Цветения. Голоса жужжат в ушах и в голове. Вы с трудом удерживаете равновесие. Чувства притупляются, но голоса Цветения слышны *четче* прежнего. 
+
+{DP}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>Заглянуть в пруд.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>Пруд уходит вниз, будто колодец. Если у него и есть дно, то отсюда его не видно.
+
+Кажется, в глубине пруда что-то шевелится.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>Нырнуть в пруд и попытаться выловить шевелящийся предмет.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>Чем глубже вы опускаетесь, тем дальше друг от друга становятся стенки колодца, превращаясь в большую пещеру. У края пещеры вы дотягиваетесь до извивающегося объекта, который видели с поверхности, и пытаетесь отцепить его от костяного узла плоти Цветения. Наконец, высвободив его, вы плывете наверх, выныривая как раз тогда, когда в легких кончается воздух.
+
+{SOUND: Splash as player jumps into the courtyard pool.}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>Вы ныряете в мутную жидкость. На глубине видно, как ствол превращается в большую пещеру.
+
+У края пещеры вы дотягиваетесь до извивающейся штуки, которую видели с поверхности, и пытаетесь отцепить ее от костяного узла плоти Цветения. Однако, отцепить ее не удается, и вы вынуждены плыть наверх, пока в легких не закончился воздух.
+
+{SOUND: Splash as player jumps into the courtyard pool.}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>Вы ныряете в мутную жидкость. На глубине видно, как ствол превращается в большую пещеру.
+
+У края пещеры вы дотягиваетесь до извивающейся штуки, которую видели с поверхности. Однако, вы теряете ориентацию в мутной жидкости, и не понимаете, где верх, а где низ. Вы плывете в одно сторону, потом в другую, пытаясь вынырнуть. Вдруг что-то острое режет вам ногу. Вы инстинктивно открываете рот, чтобы вдохнуть, и жидкость заполняет вам горло...
+
+{AUDIO: Splash as player jumps into the courtyard pool.}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText>Набрать немного жидкости.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText>На краю пруда обнаруживается небольшая бутылка. Вы наполняете ее желтоватой жидкостью.
+
+{LOOT}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>14</ID>
+      <DefaultText>Пруд уходит вниз, будто колодец. Если у него и есть дно, то отсюда его не видно.
+
+Ваши зоркие глаза видят нечто длинное и червеобразное в глубине пруда. Кажется, оно запуталось в выпуклости плоти Цветения, и теперь беспомощно вертится, пытаясь отцепиться.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>15</ID>
+      <DefaultText>Все кружится, и ваш взгляд останавливается на анине, что стоит поодаль. Анин смотрит на вас: глаза его зловеще блестят.
+
+Вдруг становится ясно, что голоса Цветения говорят не с вами. Они говорят с этим анином, наполняя его умишко *голодом* по хозяйке, Скайди... Укусить ее за шею, напиться теплой крови... Голоса говорят и со Скайди, притупляя ее чувства и наполняя ее мозг беспомощной апатией.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>16</ID>
+      <DefaultText>На освещенном дворе видно, что извивающийся 'объект' — это какой-то пухлый червь. Его кожа постоянно меняется: от серебристого металла к мягкому синту, затем к кожистой чешуе и другим незнакомым субстанциям. Червь будто тянется к вашей оголенной плоти, и, позволь вы ему, он прицепился бы к вашей руке или ноге.
+
+{DP}
+
+{LOOT}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>17</ID>
+      <DefaultText>В данном месте чувствуется, что голоса Цветения обращаются не к вам... Они неустанно шепчут кому-то еще, но непонятно, кому именно.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>18</ID>
+      <DefaultText>Пруд уходит вниз, будто колодец. В глубине не видно ничего интересного.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>19</ID>
+      <DefaultText>Вы снова отпиваете желтоватой "воды", и снова голоса Цветения заполняют ваш разум, притупляя мысли и рефлексы.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>22</ID>
+      <DefaultText>Снова посмотреть в пруд.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>23</ID>
+      <DefaultText>Вы снова отпиваете побольше желтоватой "воды". Голоса Цветения становятся громче, заглушают мысли, бешено звенят в ушах. Перед глазами все плывет... вы спотыкаетесь, валитесь на землю, и становится совсем темно.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>24</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>26</ID>
+      <DefaultText>Выпить еще жидкости.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>27</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>29</ID>
+      <DefaultText>Снова нырнуть за шевелящимся предметом.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30</ID>
+      <DefaultText>Вы ныряете в пруд и добираетесь до извивающейся штуковины. В этот раз вам удается отцепить ее от узла плоти Цветения, и вы выныриваете с добычей в руках.
+
+{SOUND: Splash as player jumps into the courtyard pool.}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>31</ID>
+      <DefaultText>Вы ныряете в пруд и добираетесь до извивающейся штуковины... Но ее опять не удается отцепить, и приходится выныривать с пустыми руками, пока в легких не закончился воздух.
+
+{SOUND: Splash as player jumps into the courtyard pool.}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>32</ID>
+      <DefaultText>Вы ныряете в пруд и добираетесь до извивающейся штуковины. В этот раз несколькими резкими движениями вам удается отцепить ее, и вы выныриваете, пока в легких не закончился воздух.
+
+{SOUND: Splash as player jumps into the courtyard pool.}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>33</ID>
+      <DefaultText>Вы ныряете в пруд и добираетесь до извивающейся штуковины. Однако, вы теряете ориентацию в мутной жидкости, и не понимаете, где верх, а где низ. Вы плывете в одно сторону, потом в другую, пытаясь вынырнуть. Но жидкость темнеет, и воздух в легких заканчивается.
+
+{AUDIO: Splash as player jumps into the courtyard pool.}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>34</ID>
+      <DefaultText>Через "воду" доносится далекое эхо, и вас тянет куда-то вглубь. Все проваливается во тьму...
+
+{AUDIO: Faint, desperate gurgling as the player drowns. (This is optional — only if you want to try it Alex.)}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>35</ID>
+      <DefaultText>Вы опять подносите желтую жидкость к губам. Действие предыдущей порции еще не прекратилось, и от новой, скорее всего, будет только хуже...</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>36</ID>
+      <DefaultText>Все равно выпить жидкости.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>37</ID>
+      <DefaultText>Не пить.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>38</ID>
+      <DefaultText>Вы выливаете жидкость обратно в пруд.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>41</ID>
+      <DefaultText>Возле колодца голоса почти не слышны. Шепот, который пытался манипулировать Скайди и ее анином, пропал.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>42</ID>
+      <DefaultText>Жирная, кислая жидкость на вкус такая же, как цветовода из другого колодца. По мере питья в голове нарастает шепот Цветения, а ваши собственные мысли и рефлексы замедляются и слабнут.</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>
