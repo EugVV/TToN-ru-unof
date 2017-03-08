@@ -6,32 +6,32 @@
   <Entries>
     <Entry>
       <ID>0</ID>
-      <DefaultText>Умение: Цивилизованность</DefaultText>
+      <DefaultText>Знания: Цивилизация</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>1</ID>
-      <DefaultText>Умение: Механизмы</DefaultText>
+      <DefaultText>Знания: Механизмы</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>2</ID>
-      <DefaultText>Умение: Мистический</DefaultText>
+      <DefaultText>Знания: Мистицизм</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>3</ID>
-      <DefaultText>Умение: Естественный</DefaultText>
+      <DefaultText>Знания: Естественные</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>4</ID>
-      <DefaultText>Умение: Универсальный</DefaultText>
+      <DefaultText>Знания: Универсальные</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>5</ID>
-      <DefaultText>Умение: Дикость</DefaultText>
+      <DefaultText>Знания: Дикая природа</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1141,7 +1141,7 @@
     </Entry>
     <Entry>
       <ID>227</ID>
-      <DefaultText>Умение: Механизмы</DefaultText>
+      <DefaultText>Знания: Механизмы</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -2906,7 +2906,7 @@
     </Entry>
     <Entry>
       <ID>581</ID>
-      <DefaultText>Верт. синхр.</DefaultText>
+      <DefaultText>Вертикальная синхронизация</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -4916,12 +4916,12 @@
     </Entry>
     <Entry>
       <ID>983</ID>
-      <DefaultText>Выйти в  меню</DefaultText>
+      <DefaultText>Выйти в меню</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>984</ID>
-      <DefaultText>Выйти на Рабочий стол</DefaultText>
+      <DefaultText>Выйти из игры</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -5041,7 +5041,7 @@
     </Entry>
     <Entry>
       <ID>1008</ID>
-      <DefaultText>Отдача Потока</DefaultText>
+      <DefaultText>Отклики Потоков</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -5641,12 +5641,12 @@
     </Entry>
     <Entry>
       <ID>1128</ID>
-      <DefaultText>Показать способности</DefaultText>
+      <DefaultText>Панель способностей</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>1129</ID>
-      <DefaultText>Показать вещи</DefaultText>
+      <DefaultText>Панель вещей</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -5701,22 +5701,22 @@
     </Entry>
     <Entry>
       <ID>1140</ID>
-      <DefaultText>Смотреть влево</DefaultText>
+      <DefaultText>Вид влево</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>1141</ID>
-      <DefaultText>Смотреть вправо</DefaultText>
+      <DefaultText>Вид вправо</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>1142</ID>
-      <DefaultText>Смотреть вверх</DefaultText>
+      <DefaultText>Вид вверх</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>1143</ID>
-      <DefaultText>Смотреть вниз</DefaultText>
+      <DefaultText>Вид вниз</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -6451,7 +6451,7 @@
     </Entry>
     <Entry>
       <ID>1290</ID>
-      <DefaultText>Скрывать взаимодействия в бою</DefaultText>
+      <DefaultText>Скрывать в бою доступное для воздействия</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -7311,7 +7311,7 @@
     </Entry>
     <Entry>
       <ID>1463</ID>
-      <DefaultText>Скрыть критические задания</DefaultText>
+      <DefaultText>Скрыть задачи кризиса</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
