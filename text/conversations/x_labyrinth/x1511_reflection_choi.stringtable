@@ -11,52 +11,56 @@
     </Entry>
     <Entry>
       <ID>2</ID>
-      <DefaultText>[Talk to Choi.]</DefaultText>
+      <DefaultText>Заговорить с Чой.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>6</ID>
-      <DefaultText>[Form a connection to Choi.]</DefaultText>
+      <DefaultText>Создать связь с отражением Чой.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>7</ID>
-      <DefaultText />
+      <DefaultText>[Вы пытаетесь остановить связь с отражением, но ничего не получается. Уже установленные связи не позволяют вам этого сделать.]</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>8</ID>
-      <DefaultText>[You feel a bond materialize between you, granting you Choi's bonus.]</DefaultText>
+      <DefaultText>Вы открываете свой разум для нее, и ледяной страх вливается в вас, наполняя вены и сжимая горло. 
+
+Вы глубоко вздыхаете, прогоняя чужие эмоции, и физические симтомы стихают... по крайней мере пока. 
+
+Напряженные плечи Чой слегка расслабляются. Вы чувствуете, что часть ее бремени теперь на вас. </DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>9</ID>
-      <DefaultText>[Break your connection with Choi.]</DefaultText>
+      <DefaultText>Разорвать вашу связь с Чой.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>10</ID>
-      <DefaultText>[As the bond between you dissolves, you feel a moment of sudden and agonizing loss.]</DefaultText>
+      <DefaultText>Вы разрываете свою связь с Чой. Дрожа, она сжимается еще сильнее. </DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>11</ID>
-      <DefaultText>[Leave Choi alone.]</DefaultText>
+      <DefaultText>Оставить Чой одну. </DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>12</ID>
-      <DefaultText>[Choi's reflection appears before you.</DefaultText>
+      <DefaultText>Прозрачная фигура Чой мерцает, но сама она не двигается. Мягкий стон вырывается из глубины ее горла, полный боли и страха. </DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>13</ID>
-      <DefaultText>You can feel the connection you made with the reflection thrum with power.]</DefaultText>
+      <DefaultText>Ее страх накатывает на вас, как поток холодной воды, бессловесным плачем обвивая ваши нервы, как белое пламя. </DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>14</ID>
-      <DefaultText>You can feel a pull from the reflection, urging you to connect with it somehow.]</DefaultText>
+      <DefaultText>Звук нарастает, заполняя воздух вокруг вас невидимой, электрической силой, хором тысяч оборвавшихся слабых криков. </DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -66,7 +70,7 @@
     </Entry>
     <Entry>
       <ID>16</ID>
-      <DefaultText>:всхлипывание:</DefaultText>
+      <DefaultText>Она вздрагивает, как от удара, но не отвечает. </DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -102,22 +106,26 @@
     </Entry>
     <Entry>
       <ID>22</ID>
-      <DefaultText>[Choi's reflection appears before you.</DefaultText>
+      <DefaultText>Прозрачная девушка — вы догадались, что это Чой, — свернулась здесь калачиком, обхватив плечи руками. Ее глаза закрыты, дыхание медленное и ровное. Если не считать размеренно поднимающихся и опускающихся плеч, она совершенно неподвижна.
+
+Поэтому вы хорошо слышите звук, который она издает. Это стон, доносящийся из ее горла. Низкий, гортанный звук боли и страха. </DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
-      <ID>23</ID>
-      <DefaultText>You can feel the connection you made with the reflection thrum with power.]</DefaultText>
+      <DefaultText>
+
+Звук нарастает, взывая к вам, но, кажется, он... странно приглушен. Вы не можете установить связь с Чой пока у вас имеются другие связи. </DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
-      <ID>24</ID>
-      <DefaultText>You can feel a pull from the reflection, urging you to connect with it somehow.]</DefaultText>
+      <DefaultText>
+
+Звук нарастает, заполняя воздух вокруг вас невидимой, электрической силой, хором тысяч оборвавшихся слабых криков. Волоски на ваших руках поднимаются наэлектризованные.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>25</ID>
-      <DefaultText>You can feel a pull from the reflection but cannot form a bond with it, since you are at your limit.]</DefaultText>
+      <DefaultText>Звук нарастает, взывая к вам, но он приглушен. Вы не можете установить связь с Чой пока у вас имеются другие связи. </DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -132,7 +140,7 @@
     </Entry>
     <Entry>
       <ID>28</ID>
-      <DefaultText>[Talk to Choi.]</DefaultText>
+      <DefaultText>Заговорить с Чой. </DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -167,7 +175,7 @@
     </Entry>
     <Entry>
       <ID>36</ID>
-      <DefaultText>"Farewell."</DefaultText>
+      <DefaultText>"До встречи."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -177,7 +185,7 @@
     </Entry>
     <Entry>
       <ID>44</ID>
-      <DefaultText>Она отшатывается, словно от удара, но ничего не отвечает.</DefaultText>
+      <DefaultText>Она вздрагивает, словно от удара, но ничего не отвечает.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -224,7 +232,7 @@
     </Entry>
     <Entry>
       <ID>53</ID>
-      <DefaultText>"What happened to you?"</DefaultText>
+      <DefaultText>"Что случилось с тобой?"</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>

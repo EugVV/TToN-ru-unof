@@ -8,7 +8,7 @@
       <ID>1</ID>
       <DefaultText>Полный человек делает хаотичные движения своими потрескавшимися и окровавленными руками, раздраженно теребя свои толстые губы, почесывая поредевшие волосы или бессмысленно рисуя в воздухе фигуры. Его одежда измазана краской, грязью, засохшей кровью и глиной. 
 
-Его глаза до краев наполняются слезами отчаянья, пока он изучает странно знакомые скульптуры вокруг него.</DefaultText>
+Его глаза до краев наполняются слезами отчаянья, пока он изучает странно знакомые скульптуры вокруг него. </DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -30,7 +30,7 @@
     </Entry>
     <Entry>
       <ID>5</ID>
-      <DefaultText>Оставить скульптора наедине со своей работой.</DefaultText>
+      <DefaultText>Оставить скульптора наедине со своей работой. </DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -97,7 +97,7 @@
     </Entry>
     <Entry>
       <ID>17</ID>
-      <DefaultText>Постараться вспомнить, отчего скульптуры выглядят такими знакомыми.</DefaultText>
+      <DefaultText>Постараться вспомнить, отчего скульптуры выглядят такими знакомыми. </DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -151,7 +151,7 @@
     </Entry>
     <Entry>
       <ID>25</ID>
-      <DefaultText />
+      <DefaultText>""</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -168,7 +168,7 @@
     </Entry>
     <Entry>
       <ID>28</ID>
-      <DefaultText />
+      <DefaultText>""</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -205,12 +205,12 @@
     </Entry>
     <Entry>
       <ID>35</ID>
-      <DefaultText>Заофи безучастно смотрит в небо, его безучастные пальцы модулируют скульптуру в воздухе, его губы безмолвно двигаются.</DefaultText>
+      <DefaultText>Заофи безучастно смотрит в небо, его безучастные пальцы модулируют скульптуру в воздухе, его губы безмолвно двигаются. </DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>36</ID>
-      <DefaultText />
+      <DefaultText> Follow-up PQ. 36</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -220,7 +220,7 @@
     </Entry>
     <Entry>
       <ID>38</ID>
-      <DefaultText />
+      <DefaultText>""</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -232,12 +232,12 @@
     </Entry>
     <Entry>
       <ID>40</ID>
-      <DefaultText />
+      <DefaultText>""</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>42</ID>
-      <DefaultText />
+      <DefaultText>""</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -247,7 +247,7 @@
     </Entry>
     <Entry>
       <ID>44</ID>
-      <DefaultText>"Расскажи мне о Дендра О'хуре".</DefaultText>
+      <DefaultText>"Расскажи мне о Дендра О'хур".</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -264,17 +264,17 @@
     </Entry>
     <Entry>
       <ID>47</ID>
-      <DefaultText />
+      <DefaultText>""</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>48</ID>
-      <DefaultText />
+      <DefaultText>""</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>49</ID>
-      <DefaultText />
+      <DefaultText>Bank 49</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -284,12 +284,12 @@
     </Entry>
     <Entry>
       <ID>51</ID>
-      <DefaultText />
+      <DefaultText>"Сколько раз ты снова пытался воспроизвести эту сцену?"</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>52</ID>
-      <DefaultText />
+      <DefaultText>Bank 52</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -299,7 +299,7 @@
     </Entry>
     <Entry>
       <ID>54</ID>
-      <DefaultText />
+      <DefaultText>"За последние недели я познал больше неудач, чем было успехов за все время моей работы", - говорит Заофи. - "Я уже сбился со счета."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -320,7 +320,7 @@
       <ID>57</ID>
       <DefaultText>(Ложь) "Он был влюблен в свою убийцу. Вот почему он искал ее объятий".
 
-{JOURNAL: Journal entry here, hinting that the player should "come back later" to see how he's progressed.} This will be after the player returns to Sagus Cliffs.}</DefaultText>
+{JOURNAL: Journal entry here, hinting that the player should "come back later" to see how he's progressed. This will be after the player returns to Sagus Cliffs.}</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -346,7 +346,7 @@
     </Entry>
     <Entry>
       <ID>62</ID>
-      <DefaultText />
+      <DefaultText>Bank 62</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -371,7 +371,7 @@
     </Entry>
     <Entry>
       <ID>67</ID>
-      <DefaultText />
+      <DefaultText>Bank 67</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -426,7 +426,7 @@
     </Entry>
     <Entry>
       <ID>76</ID>
-      <DefaultText />
+      <DefaultText>Bank 76</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -450,9 +450,7 @@
       <ID>80</ID>
       <DefaultText>Пожалуй, Заофи выглядит более больным, чем когда вы видели его в последний раз, а его скульптуры кажутся еще менее завершенными чем ранее. В некоторых случаях, отверженные, объятые Скорбью, становятся буквально безобразными. 
 
-"О, это ты", — произносит Заофи, прерывисто моргая. От него несет как от самогонной установки в сточной канаве. 
-
-{SCRIPT: Zaofi is sitting, but not working.}</DefaultText>
+"О, это ты", — произносит Заофи, прерывисто моргая. От него несет как от самогонной установки в сточной канаве.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -462,7 +460,7 @@
     </Entry>
     <Entry>
       <ID>82</ID>
-      <DefaultText />
+      <DefaultText>Bank 82</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -477,7 +475,7 @@
     </Entry>
     <Entry>
       <ID>87</ID>
-      <DefaultText />
+      <DefaultText>Bank 87</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -496,9 +494,7 @@
     </Entry>
     <Entry>
       <ID>90</ID>
-      <DefaultText>"Не хочу больше слышать об искусстве. Я побежден".
-
-{SCRIPT: Zaofi is sitting, but not working.}</DefaultText>
+      <DefaultText>"Не хочу больше слышать об искусстве. Я побежден".</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -508,7 +504,7 @@
     </Entry>
     <Entry>
       <ID>92</ID>
-      <DefaultText />
+      <DefaultText>Bank 92</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -533,7 +529,7 @@
     </Entry>
     <Entry>
       <ID>97</ID>
-      <DefaultText />
+      <DefaultText>Bank 97</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -562,7 +558,7 @@
       <ID>102</ID>
       <DefaultText>"Это подобие я вырезал из камня всем своим сердцем. Оно несет в себе частичку истины, которую смертные никогда не должны видеть. Я беру это".
 
-Заофи вытирает пот ладонью со своих бровей. "Секунду спустя, оба — она и скульптура исчезли! Никогда больше эти руки не будут работать с глиной или камнем. Никогда больше я не буду пытаться привлечь внимание Всевышнего!"</DefaultText>
+Заофи вытирает пот ладонью со своих бровей. "Секунду спустя, оба — она и скульптура исчезли! Никогда больше эти руки не будут работать с глиной или камнем. Никогда больше я не буду пытаться привлечь внимание Всевышнего!" </DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -574,7 +570,7 @@
       <ID>104</ID>
       <DefaultText>(Ложь) "Он был всего лишь обычным человеком... ничем не примечательной личностью".
 
-{JOURNAL: Journal entry here, hinting that the player should "come back later" to see how he's progressed.} This will be after the player returns to Sagus Cliffs.}</DefaultText>
+{JOURNAL: Journal entry here, hinting that the player should "come back later" to see how he's progressed. This will be after the player returns to Sagus Cliffs.}</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -584,14 +580,12 @@
     </Entry>
     <Entry>
       <ID>106</ID>
-      <DefaultText>Лишь только когда-то пылкий скульптор усаживается посреди статуй, которые все еще в том же, безликом, незавершенном состоянии, как вы покидаете его. Он смотрит на вас, чихает и гладит свою неухоженную бороду. Он выглядит так, как будто он ночевал на улице неделями.
-
-+{SCRIPT: Zaofi is sitting, but not working.}</DefaultText>
+      <DefaultText>Лишь только когда-то пылкий скульптор усаживается посреди статуй, которые все еще в том же, безликом, незавершенном состоянии, как вы покидаете его. Он смотрит на вас, чихает и гладит свою неухоженную бороду. Он выглядит так, как будто он ночевал на улице неделями.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>107</ID>
-      <DefaultText />
+      <DefaultText>Bank 107</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -616,14 +610,14 @@
     </Entry>
     <Entry>
       <ID>112</ID>
-      <DefaultText />
+      <DefaultText>Bank 112</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>113</ID>
       <DefaultText>"Я не могу!" — заявляет Заофи, затем чихает в свой локоть. — "Я попался в ловушку проклятых оков моего неожиданного прозрения. Человек бросил вызов неизвестному, но оно убило его! Он — воплощение нашей мятежной души. Если я создам ему лицо, его смерть не будет значить ничего!"
 
-Заофи выпрямляется во весь рост. "Таким образом, я буду воплощать противоположность, сидя здесь и позволяя миру созерцать мое затухание. Моя смерть вдохновит других, следовать примеру этого более сильного человека!"</DefaultText>
+Заофи выпрямляется во весь рост. "Таким образом, я буду воплощать противоположность, сидя здесь и позволяя миру созерцать мое затухание. Моя смерть вдохновит других, следовать примеру этого более сильного человека!" </DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -669,22 +663,22 @@
     </Entry>
     <Entry>
       <ID>121</ID>
-      <DefaultText />
+      <DefaultText>Script Node 121</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>122</ID>
-      <DefaultText />
+      <DefaultText>Script Node 122</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>123</ID>
-      <DefaultText />
+      <DefaultText>Script Node 123</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>124</ID>
-      <DefaultText />
+      <DefaultText>Script Node 124</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -739,12 +733,12 @@
     </Entry>
     <Entry>
       <ID>135</ID>
-      <DefaultText />
+      <DefaultText>Script Node 135</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>136</ID>
-      <DefaultText />
+      <DefaultText>Script Node 136</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -811,7 +805,7 @@
     </Entry>
     <Entry>
       <ID>150</ID>
-      <DefaultText />
+      <DefaultText>Script Node 150</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -826,7 +820,7 @@
     </Entry>
     <Entry>
       <ID>153</ID>
-      <DefaultText>Вы вновь переключаете свое внимание на Заофи.</DefaultText>
+      <DefaultText>Вы вновь переключаете свое внимание на Заофи. </DefaultText>
       <FemaleText />
     </Entry>
   </Entries>

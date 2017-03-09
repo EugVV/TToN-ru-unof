@@ -38,19 +38,19 @@
     </Entry>
     <Entry>
       <ID>7</ID>
-      <DefaultText />
+      <DefaultText>[Otero thinks Tybir is in the party!]</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>8</ID>
-      <DefaultText />
+      <DefaultText>[Otero asks how you liked Government Square.]</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>9</ID>
       <DefaultText>С далекого моря долетает ветер. Он проносится между вами и мальчиком и устремляется вверх, к пикам Утесов Сагуса.
 
-Отеро глядит на вас, а потом на толпу на площади. Кажется, он кого-то высматривает.</DefaultText>
+Отеро глядит на вас, а потом на толпу на площади. Кажется, он кого-то высматривает. </DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -158,7 +158,7 @@
     </Entry>
     <Entry>
       <ID>28</ID>
-      <DefaultText>Алигерн фыркает, но ничего не говорит.</DefaultText>
+      <DefaultText>Алигерн фыркает, но ничего не говорит. </DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -178,12 +178,12 @@
     </Entry>
     <Entry>
       <ID>32</ID>
-      <DefaultText />
+      <DefaultText>""</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>33</ID>
-      <DefaultText />
+      <DefaultText>Bank 33</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -212,7 +212,7 @@
     </Entry>
     <Entry>
       <ID>38</ID>
-      <DefaultText />
+      <DefaultText>Bank 38</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -237,7 +237,7 @@
     </Entry>
     <Entry>
       <ID>43</ID>
-      <DefaultText />
+      <DefaultText>Bank 43</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -259,32 +259,32 @@
       <ID>47</ID>
       <DefaultText>"Мне и не надо", — отвечает Отеро. — "Все свое ношу с собой".
 
-Он похлопывает по сумкам.</DefaultText>
+Он похлопывает по сумкам. </DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>48</ID>
-      <DefaultText />
+      <DefaultText>""</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>49</ID>
-      <DefaultText />
+      <DefaultText>""</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>50</ID>
-      <DefaultText />
+      <DefaultText>""</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>51</ID>
-      <DefaultText />
+      <DefaultText>""</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>52</ID>
-      <DefaultText />
+      <DefaultText>""</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -323,7 +323,7 @@
     </Entry>
     <Entry>
       <ID>59</ID>
-      <DefaultText>"Да. Если коротко: бандиты, кэркеры и вонища", — улыбается он.</DefaultText>
+      <DefaultText>"Да. Если коротко: бандиты, кэркеры и вонища", — улыбается он. </DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -352,7 +352,7 @@
     </Entry>
     <Entry>
       <ID>65</ID>
-      <DefaultText />
+      <DefaultText>Bank 65</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -367,7 +367,7 @@
     </Entry>
     <Entry>
       <ID>70</ID>
-      <DefaultText />
+      <DefaultText>Bank 65</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -382,7 +382,7 @@
     </Entry>
     <Entry>
       <ID>73</ID>
-      <DefaultText />
+      <DefaultText>Bank 65</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -397,7 +397,7 @@
     </Entry>
     <Entry>
       <ID>76</ID>
-      <DefaultText />
+      <DefaultText>Bank 65</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -412,7 +412,7 @@
     </Entry>
     <Entry>
       <ID>79</ID>
-      <DefaultText />
+      <DefaultText>Bank 65</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -456,10 +456,10 @@
       <ID>88</ID>
       <DefaultText>"Ты убил Корро?" — щурится Отеро. — "Я не то чтобы не верю, но ведь подо всей этой слизью он был крепкий как незнамо кто. Но вообще да, я не видел его с тех пор, как он ушел вниз по лестнице за звездой".
 
-Он глядит на вас и вскидывает брови: "Как и ты!"</DefaultText>
+Он глядит на вас и вскидывает брови: "Как и ты!" </DefaultText>
       <FemaleText>"Ты убила Корро?" — щурится Отеро. — "Я не то чтобы не верю, но ведь подо всей этой слизью он был крепкий как незнамо кто. Но вообще да, я не видел его с тех пор, как он ушел вниз по лестнице за звездой".
 
-Он глядит на вас и вскидывает брови: "Как и ты!"</FemaleText>
+Он глядит на вас и вскидывает брови: "Как и ты!" </FemaleText>
     </Entry>
     <Entry>
       <ID>89</ID>
@@ -495,7 +495,7 @@
     </Entry>
     <Entry>
       <ID>95</ID>
-      <DefaultText />
+      <DefaultText>Bank 95</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -505,7 +505,7 @@
     </Entry>
     <Entry>
       <ID>97</ID>
-      <DefaultText />
+      <DefaultText>""</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -517,7 +517,7 @@
     </Entry>
     <Entry>
       <ID>99</ID>
-      <DefaultText />
+      <DefaultText>""</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -609,7 +609,7 @@
     </Entry>
     <Entry>
       <ID>117</ID>
-      <DefaultText>Он кидает быстрый взгляд на Каллистеж, будто ждет, что она кинется на него.</DefaultText>
+      <DefaultText>Он кидает быстрый взгляд на Каллистеж, будто ждет, что она кинется на него. </DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -636,12 +636,11 @@
       <DefaultText>"Или свежий воздух", — с ухмылкой отвечает мальчик. — "Или самоуважение". Алигерн закатывает глаза, но все же улыбается и уступает.
 
 "Ладно", — говорит Отеро. — "Что ты хочешь узнать?"</DefaultText>
-      <FemaleText>It is still unclear which line causes this one to appear, so the translation might need to be corrected according to the context. This question is in the Q&amp;A sheet, line 99.
-— Natalia Veselova</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>122</ID>
-      <DefaultText />
+      <DefaultText>Bank 122</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -676,7 +675,7 @@
     </Entry>
     <Entry>
       <ID>131</ID>
-      <DefaultText>Отеро свистит.</DefaultText>
+      <DefaultText>Отеро свистит. </DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -728,7 +727,7 @@
     </Entry>
     <Entry>
       <ID>141</ID>
-      <DefaultText />
+      <DefaultText>Bank 141</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -743,7 +742,7 @@
     </Entry>
     <Entry>
       <ID>145</ID>
-      <DefaultText />
+      <DefaultText>Bank 145</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -773,22 +772,22 @@
     </Entry>
     <Entry>
       <ID>153</ID>
-      <DefaultText />
+      <DefaultText>""</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>154</ID>
-      <DefaultText />
+      <DefaultText>Script Node 154</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>155</ID>
-      <DefaultText />
+      <DefaultText>""</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>156</ID>
-      <DefaultText />
+      <DefaultText>""</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -798,7 +797,7 @@
     </Entry>
     <Entry>
       <ID>158</ID>
-      <DefaultText />
+      <DefaultText>""</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -849,132 +848,132 @@
     </Entry>
     <Entry>
       <ID>296</ID>
-      <DefaultText />
+      <DefaultText>""</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>297</ID>
-      <DefaultText />
+      <DefaultText>""</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>298</ID>
-      <DefaultText />
+      <DefaultText>""</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>299</ID>
-      <DefaultText />
+      <DefaultText>""</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>300</ID>
-      <DefaultText />
+      <DefaultText>""</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>301</ID>
-      <DefaultText />
+      <DefaultText>""</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>302</ID>
-      <DefaultText />
+      <DefaultText>""</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>303</ID>
-      <DefaultText />
+      <DefaultText>""</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>304</ID>
-      <DefaultText />
+      <DefaultText>""</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>305</ID>
-      <DefaultText />
+      <DefaultText> Follow-up PQ. 305</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>306</ID>
-      <DefaultText />
+      <DefaultText>""</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>307</ID>
-      <DefaultText />
+      <DefaultText>""</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>308</ID>
-      <DefaultText />
+      <DefaultText>""</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>309</ID>
-      <DefaultText />
+      <DefaultText>""</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>310</ID>
-      <DefaultText />
+      <DefaultText>""</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>311</ID>
-      <DefaultText />
+      <DefaultText>""</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>312</ID>
-      <DefaultText />
+      <DefaultText>""</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>313</ID>
-      <DefaultText />
+      <DefaultText>""</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>314</ID>
-      <DefaultText />
+      <DefaultText>""</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>315</ID>
-      <DefaultText>Рин тихонько фыркает.</DefaultText>
+      <DefaultText>Рин тихонько фыркает. </DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>316</ID>
-      <DefaultText />
+      <DefaultText>""</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>317</ID>
-      <DefaultText />
+      <DefaultText>""</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>318</ID>
-      <DefaultText />
+      <DefaultText>"Если я увижу ее, то постараюсь привести."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>319</ID>
-      <DefaultText />
+      <DefaultText>""</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>320</ID>
-      <DefaultText />
+      <DefaultText>""</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>321</ID>
-      <DefaultText />
+      <DefaultText>Script Node 321</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -997,7 +996,7 @@
     </Entry>
     <Entry>
       <ID>325</ID>
-      <DefaultText>"Ничего я никому не говорил!" — возражает Отеро, поникнув.</DefaultText>
+      <DefaultText>"Ничего я никому не говорил!" — возражает Отеро, поникнув. </DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1007,12 +1006,12 @@
     </Entry>
     <Entry>
       <ID>327</ID>
-      <DefaultText>Рин резко выдыхает, но больше ничего не говорит. Вы смотрите на нее и видите, что она, сложив руки на груди, изучает горизонт так пристально, будто он что-то от нее скрывает.</DefaultText>
+      <DefaultText>Рин резко выдыхает, но больше ничего не говорит. Вы смотрите на нее и видите, что она, сложив руки на груди, изучает горизонт так пристально, будто он что-то от нее скрывает. </DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>328</ID>
-      <DefaultText>Он снова кидает быстрый, едва заметный взгляд на Рин.</DefaultText>
+      <DefaultText>Он снова кидает быстрый, едва заметный взгляд на Рин. </DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1042,7 +1041,7 @@
     </Entry>
     <Entry>
       <ID>334</ID>
-      <DefaultText />
+      <DefaultText>Script Node 334</DefaultText>
       <FemaleText />
     </Entry>
   </Entries>
