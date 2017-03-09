@@ -6,32 +6,32 @@
   <Entries>
     <Entry>
       <ID>0</ID>
-      <DefaultText>Знания: Цивилизация</DefaultText>
+      <DefaultText>Знания: цивилизация</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>1</ID>
-      <DefaultText>Знания: Механизмы</DefaultText>
+      <DefaultText>Знания: механизмы</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>2</ID>
-      <DefaultText>Знания: Мистицизм</DefaultText>
+      <DefaultText>Знания: мистицизм</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>3</ID>
-      <DefaultText>Знания: Естественные</DefaultText>
+      <DefaultText>Знания: естественные</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>4</ID>
-      <DefaultText>Знания: Универсальные</DefaultText>
+      <DefaultText>Знания: общие</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>5</ID>
-      <DefaultText>Знания: Дикая природа</DefaultText>
+      <DefaultText>Знания: природа</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -41,7 +41,7 @@
     </Entry>
     <Entry>
       <ID>7</ID>
-      <DefaultText>Сосредоточенность</DefaultText>
+      <DefaultText>Концентрация</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -61,7 +61,7 @@
     </Entry>
     <Entry>
       <ID>11</ID>
-      <DefaultText>Связь с Потоком</DefaultText>
+      <DefaultText>Управление Потоками</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -71,12 +71,12 @@
     </Entry>
     <Entry>
       <ID>13</ID>
-      <DefaultText>Перемещение</DefaultText>
+      <DefaultText>Грузоподъемность</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>14</ID>
-      <DefaultText>Целительство</DefaultText>
+      <DefaultText>Лечение</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -96,7 +96,7 @@
     </Entry>
     <Entry>
       <ID>18</ID>
-      <DefaultText>Ловкие пальцы</DefaultText>
+      <DefaultText>Ловкость рук</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -111,7 +111,7 @@
     </Entry>
     <Entry>
       <ID>21</ID>
-      <DefaultText>Решительный</DefaultText>
+      <DefaultText>Разрушение</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -136,7 +136,7 @@
     </Entry>
     <Entry>
       <ID>26</ID>
-      <DefaultText>Устрашение</DefaultText>
+      <DefaultText>Запугивание</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -146,52 +146,52 @@
     </Entry>
     <Entry>
       <ID>28</ID>
-      <DefaultText>Владение сильным ударом</DefaultText>
+      <DefaultText>тяжелое оружие ближнего боя</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>29</ID>
-      <DefaultText>Владение сильным оружием</DefaultText>
+      <DefaultText>тяжелое оружие ближнего боя</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>30</ID>
-      <DefaultText>Владение сильным прицеливанием</DefaultText>
+      <DefaultText>тяжелое оружие дальнего боя</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>31</ID>
-      <DefaultText>Владение легким ударом</DefaultText>
+      <DefaultText>легкое оружие ближнего боя</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>32</ID>
-      <DefaultText>Владение легким оружием</DefaultText>
+      <DefaultText>легкое оружие ближнего боя</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>33</ID>
-      <DefaultText>Владение легким прицеливанием</DefaultText>
+      <DefaultText>легкое оружие дальнего боя</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>34</ID>
-      <DefaultText>Владение средним ударом</DefaultText>
+      <DefaultText>среднее оружие ближнего боя</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>35</ID>
-      <DefaultText>Владение средним оружием</DefaultText>
+      <DefaultText>среднее оружие ближнего боя</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>36</ID>
-      <DefaultText>Владение средним прицеливанием</DefaultText>
+      <DefaultText>среднее оружие дальнего боя</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>37</ID>
-      <DefaultText>Инициативность</DefaultText>
+      <DefaultText>Инициатива</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -201,7 +201,7 @@
     </Entry>
     <Entry>
       <ID>39</ID>
-      <DefaultText>Мощная защита</DefaultText>
+      <DefaultText>Защита</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -211,22 +211,22 @@
     </Entry>
     <Entry>
       <ID>41</ID>
-      <DefaultText>Неспособность</DefaultText>
+      <DefaultText>Нет навыка</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>42</ID>
-      <DefaultText>Новичок</DefaultText>
+      <DefaultText>Начальный</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>43</ID>
-      <DefaultText>Подготовленный</DefaultText>
+      <DefaultText>Опытный</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>44</ID>
-      <DefaultText>Специалист</DefaultText>
+      <DefaultText>Экспертный</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -291,7 +291,7 @@
     </Entry>
     <Entry>
       <ID>57</ID>
-      <DefaultText>Провал</DefaultText>
+      <DefaultText>Неудача</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -301,27 +301,27 @@
     </Entry>
     <Entry>
       <ID>59</ID>
-      <DefaultText>Абсолютный провал</DefaultText>
+      <DefaultText>Абсолютная неудача</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>60</ID>
-      <DefaultText>{0}</DefaultText>
+      <DefaultText>[{0}] </DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>61</ID>
-      <DefaultText>{0}</DefaultText>
+      <DefaultText>[{0}] </DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>62</ID>
-      <DefaultText>Выздоровление</DefaultText>
+      <DefaultText>Восстановление</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>63</ID>
-      <DefaultText>Оставшиеся очки выздоровления</DefaultText>
+      <DefaultText>Оставшиеся очки восстановления</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -411,7 +411,7 @@
     </Entry>
     <Entry>
       <ID>81</ID>
-      <DefaultText>Записи</DefaultText>
+      <DefaultText>Заметки</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -531,17 +531,17 @@
     </Entry>
     <Entry>
       <ID>105</ID>
-      <DefaultText>Маленький</DefaultText>
+      <DefaultText>маленький</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>106</ID>
-      <DefaultText>Средний</DefaultText>
+      <DefaultText>средний</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>107</ID>
-      <DefaultText>Крупный</DefaultText>
+      <DefaultText>большой</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -786,47 +786,47 @@
     </Entry>
     <Entry>
       <ID>156</ID>
-      <DefaultText>Дополнительное легкое оружие</DefaultText>
+      <DefaultText>Бонус легкого оружия</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>157</ID>
-      <DefaultText>Физический</DefaultText>
+      <DefaultText>физический</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>158</ID>
-      <DefaultText>[Color: Acid]Кислотный[/Color]</DefaultText>
+      <DefaultText>[Color: Acid]кислотный[/Color]</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>159</ID>
-      <DefaultText>[Color: Cold]Холодный[/Color]</DefaultText>
+      <DefaultText>[Color: Cold]ледяной[/Color]</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>160</ID>
-      <DefaultText>[Color: Relativistic]Относительный[/Color]</DefaultText>
+      <DefaultText>[Color: Relativistic] относительный[/Color]</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>161</ID>
-      <DefaultText>[Color: Electricity]Электрический[/Color]</DefaultText>
+      <DefaultText>[Color: Electricity]электрический[/Color]</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>162</ID>
-      <DefaultText>Гравитационный</DefaultText>
+      <DefaultText>гравитационный</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>163</ID>
-      <DefaultText>[Color: Heat]Теплый[/Color]</DefaultText>
+      <DefaultText>[Color: Heat]тепловой[/Color]</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>164</ID>
-      <DefaultText>[Color: Mental]Психический[/Color]</DefaultText>
+      <DefaultText>[Color: Mental]ментальный[/Color]</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -841,7 +841,7 @@
     </Entry>
     <Entry>
       <ID>167</ID>
-      <DefaultText>[Color: Transdimensional]Многомерный[/Color]</DefaultText>
+      <DefaultText>[Color: Transdimensional]межпространственный[/Color]</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -896,7 +896,7 @@
     </Entry>
     <Entry>
       <ID>178</ID>
-      <DefaultText>Напасть</DefaultText>
+      <DefaultText>Атака</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -911,37 +911,37 @@
     </Entry>
     <Entry>
       <ID>181</ID>
-      <DefaultText>Предмет получен: {0}.</DefaultText>
+      <DefaultText>Получен предмет: {0}</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>182</ID>
-      <DefaultText>Поток цвета {0} вырос ({1}).</DefaultText>
+      <DefaultText>{0} Поток повышен ({1})</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>183</ID>
-      <DefaultText>Поток цвета {0} уменьшился ({1}).</DefaultText>
+      <DefaultText>{0} Поток понижен ({1})</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>184</ID>
-      <DefaultText>Утерян предмет: {0}.</DefaultText>
+      <DefaultText>Потерян предмет: {0}</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>185</ID>
-      <DefaultText>Получены шины: {0}.</DefaultText>
+      <DefaultText>Получены шины: {0}</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>186</ID>
-      <DefaultText>Потеряны шины: {0}.</DefaultText>
+      <DefaultText>Потеряны шины: {0}</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>187</ID>
-      <DefaultText>Получен опыт: {0}.</DefaultText>
+      <DefaultText>Получен опыт: {0}</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -951,22 +951,22 @@
     </Entry>
     <Entry>
       <ID>189</ID>
-      <DefaultText>Восстановлено {0} резерва {1}.</DefaultText>
+      <DefaultText>Восстановлено {0} {1}.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>190</ID>
-      <DefaultText>Нанесено {0} урона резерву {1}.</DefaultText>
+      <DefaultText>Параметр {1} уменьшен на {0}.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>191</ID>
-      <DefaultText>{0}:{2} перманентно больше на {1}.</DefaultText>
+      <DefaultText>{0}: {2} перманентно больше на {1}. </DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>192</ID>
-      <DefaultText>{0}:{2} перманентно меньше на {1}.</DefaultText>
+      <DefaultText>{0}: {2} перманентно меньше на {1}. </DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -996,12 +996,12 @@
     </Entry>
     <Entry>
       <ID>198</ID>
-      <DefaultText>Задание не выполнено.</DefaultText>
+      <DefaultText>Задание провалено.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>199</ID>
-      <DefaultText>Преобладающий поток: {0}</DefaultText>
+      <DefaultText>Доминирующий Поток: {0}</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1141,7 +1141,7 @@
     </Entry>
     <Entry>
       <ID>227</ID>
-      <DefaultText>Знания: Механизмы</DefaultText>
+      <DefaultText>Знания: механизмы</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1231,7 +1231,7 @@
     </Entry>
     <Entry>
       <ID>245</ID>
-      <DefaultText>Резерв параметров нужен для приложения усилия.\nЦена усилия показана в нижнем левом углу кнопки.</DefaultText>
+      <DefaultText>Параметры нужны для приложения усилия.\nЗатраты на усилие показаны в нижнем левом углу кнопки.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1241,27 +1241,27 @@
     </Entry>
     <Entry>
       <ID>247</ID>
-      <DefaultText>Уровни усилия</DefaultText>
+      <DefaultText>Усилие</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>248</ID>
-      <DefaultText>Каждый уровень усилия снижает сложность задания на 3 за счет резерва параметров.</DefaultText>
+      <DefaultText>Каждый пункт усилия снижает сложность задания на 3 за счет резерва параметров.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>249</ID>
-      <DefaultText>Уровень усилия: {0}</DefaultText>
+      <DefaultText>Усилие: {0}</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>250</ID>
-      <DefaultText>Уровень усилия: {0} — недостаточно резерва!</DefaultText>
+      <DefaultText>Усилие: {0} — недостаточно резерва!</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>251</ID>
-      <DefaultText>Уровень усилия: {0} — дополнительных усилий не требуется.</DefaultText>
+      <DefaultText>Усилие: {0} — дополнительных усилий не требуется.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1331,7 +1331,7 @@
     </Entry>
     <Entry>
       <ID>265</ID>
-      <DefaultText>Максимум теперь {2}.</DefaultText>
+      <DefaultText>Теперь максимум для параметра {1} составляет {2}.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1386,7 +1386,7 @@
     </Entry>
     <Entry>
       <ID>276</ID>
-      <DefaultText>Макс. усилие: {0}</DefaultText>
+      <DefaultText>Предельное усилие: {0}</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1396,7 +1396,7 @@
     </Entry>
     <Entry>
       <ID>278</ID>
-      <DefaultText>Броня: {0}</DefaultText>
+      <DefaultText> Броня: {0}</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1416,7 +1416,7 @@
     </Entry>
     <Entry>
       <ID>282</ID>
-      <DefaultText>{0} оружие</DefaultText>
+      <DefaultText>{0}</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1451,8 +1451,8 @@
     </Entry>
     <Entry>
       <ID>289</ID>
-      <DefaultText>Одаренный</DefaultText>
-      <FemaleText>Одарённая</FemaleText>
+      <DefaultText>Сообразительный</DefaultText>
+      <FemaleText>Сообразительная</FemaleText>
     </Entry>
     <Entry>
       <ID>290</ID>
@@ -1471,18 +1471,18 @@
     </Entry>
     <Entry>
       <ID>293</ID>
-      <DefaultText>Механик</DefaultText>
-      <FemaleText>Механик</FemaleText>
+      <DefaultText>Практичный</DefaultText>
+      <FemaleText>Практичная</FemaleText>
     </Entry>
     <Entry>
       <ID>294</ID>
-      <DefaultText>Мистический</DefaultText>
-      <FemaleText>Мистическая</FemaleText>
+      <DefaultText>Таинственный</DefaultText>
+      <FemaleText>Таинственная</FemaleText>
     </Entry>
     <Entry>
       <ID>295</ID>
-      <DefaultText>Наблюдательный</DefaultText>
-      <FemaleText>Наблюдательная</FemaleText>
+      <DefaultText>Внимательный</DefaultText>
+      <FemaleText>Внимательная</FemaleText>
     </Entry>
     <Entry>
       <ID>296</ID>
@@ -1491,8 +1491,8 @@
     </Entry>
     <Entry>
       <ID>297</ID>
-      <DefaultText>Ловкий</DefaultText>
-      <FemaleText>Ловкая</FemaleText>
+      <DefaultText>Изворотливый</DefaultText>
+      <FemaleText>Изворотливая</FemaleText>
     </Entry>
     <Entry>
       <ID>298</ID>
@@ -1516,23 +1516,23 @@
     </Entry>
     <Entry>
       <ID>302</ID>
-      <DefaultText>Крепкий</DefaultText>
-      <FemaleText>Крепкая</FemaleText>
+      <DefaultText>Выносливый</DefaultText>
+      <FemaleText>Выносливая</FemaleText>
     </Entry>
     <Entry>
       <ID>303</ID>
-      <DefaultText>Гневный</DefaultText>
-      <FemaleText>Гневная</FemaleText>
+      <DefaultText>Раздражительный</DefaultText>
+      <FemaleText>Раздражительная</FemaleText>
     </Entry>
     <Entry>
       <ID>304</ID>
-      <DefaultText>Межпространственная</DefaultText>
-      <FemaleText>Межпространственная</FemaleText>
+      <DefaultText>Искусная</DefaultText>
+      <FemaleText>Искусная</FemaleText>
     </Entry>
     <Entry>
       <ID>305</ID>
-      <DefaultText>Чрезмерно импульсивный</DefaultText>
-      <FemaleText>Чрезмерно импульсивный</FemaleText>
+      <DefaultText>Сверхимпульсивный</DefaultText>
+      <FemaleText>Сверхимпульсивный</FemaleText>
     </Entry>
     <Entry>
       <ID>306</ID>
@@ -1546,87 +1546,87 @@
     </Entry>
     <Entry>
       <ID>308</ID>
-      <DefaultText>Потерянные</DefaultText>
-      <FemaleText>Потерянные</FemaleText>
+      <DefaultText>Потерянный</DefaultText>
+      <FemaleText>Потерянный</FemaleText>
     </Entry>
     <Entry>
       <ID>309</ID>
-      <DefaultText>Вы осторожны, щепетильны и всегда начеку.</DefaultText>
+      <DefaultText>Вы осторожны, внимательны к деталям и всегда начеку.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>310</ID>
-      <DefaultText>Вы красноречивы и располагаете к себе, умеете склонить всех на свою сторону.</DefaultText>
+      <DefaultText>Вы красноречивы, обаятельны и умеете убеждать других в своей точке зрения.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>311</ID>
-      <DefaultText>Вы смекалисты и выносите верные суждения об окружающих. Можете обманывать других, но сами обманываетесь редко. Однако, вы не очень хорошо усваиваете простейшие знания.</DefaultText>
+      <DefaultText>Вы быстро соображаете, верно оцениваете окружающих и можете легко обвести их вокруг пальца, а сами редко оказываетесь в дураках. Однако, вам не очень хорошо даються обычные знания.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>312</ID>
-      <DefaultText>Вы быстры, гибки и ловки, способны двигаться изящно и красиво.</DefaultText>
+      <DefaultText>Вы быстры, проворны и умеете двигаться изящно и красиво.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>313</ID>
-      <DefaultText>У вас прекрасная память, и вы быстро понимаете то, что иным понять трудно. Однако, вы легко отвлекаетесь.</DefaultText>
+      <DefaultText>Вы обладаете прекрасной памятью и можете осознать то, что недоступно пониманию других... хотя при этом вы склонны к рассеяности.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>314</ID>
-      <DefaultText>Вы любите учиться и знаете много о многом. Однако, вы не очень-то общительны.</DefaultText>
+      <DefaultText>Вы любите учиться и знаете много о разных вещах. Однако, вы не очень общительны.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>315</ID>
-      <DefaultText>Вы хорошо обращаетесь с машинами и древними технологиями, а вот компанию не любите.</DefaultText>
+      <DefaultText>Вы легче находите общий язык с механизмами и технологиями древних, чем с людьми.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>316</ID>
-      <DefaultText>Вы хорошо разбираетесь в нуменерах, особенно в странных древних силах, а вот компанию не любите.</DefaultText>
+      <DefaultText>Вы хорошо разбираетесь в нуменерах, особенно в странных силах древних. А вот в людях вам разобраться не так просто.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>317</ID>
-      <DefaultText>Вы подмечаете мельчайшие детали, которые подчас не видны другим.</DefaultText>
+      <DefaultText>Вы умеете подмечать мельчайшие детали, на которые другие просто не обращают внимания.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>318</ID>
-      <DefaultText>Вы любите природу и борьбу со стихией. Вы довольно суровы, как и все, кто живет на природе. Люди и машины для вас загадка.</DefaultText>
+      <DefaultText>Вы любите природу и знаете, как справиться со стихией. Жизнь на природе закалила вас. Однако, люди и механизмы являются для вас загадкой.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>319</ID>
-      <DefaultText>Вы быстро говорите и думаете. Хоть вы и не из крепких, но умеете обернуть все так, что физическая сила и не требуется.</DefaultText>
+      <DefaultText>Вы быстро говорите и быстро думаете. Вы не сильны физически, но умеете сделать так, чтобы сила и не понадобилась.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>320</ID>
-      <DefaultText>Вы скрытны и уклончивы, как в словах, так и в делах. Ваша сила в малозаметности, а не в скорости.</DefaultText>
+      <DefaultText>Вы скрытны и уклончивы, как в словах, так и в делах. Ваше преимущество в незаметности, а не в скорости.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>321</ID>
-      <DefaultText>Вы физически сильны и грозны, однако не слишком ловки и умны.</DefaultText>
+      <DefaultText>Вы сильны физически и грозно выглядите, однако не очень сообразительны и проворны.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>322</ID>
-      <DefaultText>Вы дисциплинированны, упрямы и независимы. Вы знаете, что уверенность в себе важнее фактов.</DefaultText>
+      <DefaultText>Вы своенравны, упрямы и независимы. Вы знаете, что уверенность в себе важнее фактов.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>323</ID>
-      <DefaultText>Никто не сравнится с вами в скорости. Пусть вы и не особо ловки, но зато *очень быстры*.</DefaultText>
+      <DefaultText>Вы превосходите в скорости любого. Может вы и не особо ловки, но зато вы сама быстрота.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>324</ID>
-      <DefaultText>Вы можете принять на себя много ударов, от которых погибло бы большинство людей.</DefaultText>
+      <DefaultText>Вы отлично держите удар и можете устоять там, где не получиться у большинства других.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1636,12 +1636,12 @@
     </Entry>
     <Entry>
       <ID>326</ID>
-      <DefaultText>Способность Каллистеж существовать в нескольких измерениях позволяет ей видеть все так, как никто иной.</DefaultText>
+      <DefaultText>Способность Каллистеж существовать в нескольких измерениях дает ей возможность взглянуть на многие вещи под другим углом.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>327</ID>
-      <DefaultText>Сначала действовать! Вопросы пусть задают другие, если смогут. Эрритис пока не осознал недостатков такого подхода...</DefaultText>
+      <DefaultText>Первым делом действие! Разбираться будем потом - если вообще будем! Эрритис не видит проблем в таком подходе.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1656,18 +1656,18 @@
     </Entry>
     <Entry>
       <ID>330</ID>
-      <DefaultText>Рин, может, и потеряна, но не беспомощна. Она просто... одна.</DefaultText>
+      <DefaultText>Может Рин и потерялась, но она не беспомощна. Просто она... одинока.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>331</ID>
-      <DefaultText>Вещает Серебром</DefaultText>
-      <FemaleText />
+      <DefaultText>Болтающий серебряным языком</DefaultText>
+      <FemaleText>Болтающая серебряным языком</FemaleText>
     </Entry>
     <Entry>
       <ID>332</ID>
-      <DefaultText>Живет в тени</DefaultText>
-      <FemaleText />
+      <DefaultText>Дышащий тенью</DefaultText>
+      <FemaleText>Дышащая тенью</FemaleText>
     </Entry>
     <Entry>
       <ID>333</ID>
@@ -1681,8 +1681,8 @@
     </Entry>
     <Entry>
       <ID>335</ID>
-      <DefaultText>Отлично защищается</DefaultText>
-      <FemaleText />
+      <DefaultText>Умеющий защишаться</DefaultText>
+      <FemaleText>Умеющая защишаться</FemaleText>
     </Entry>
     <Entry>
       <ID>336</ID>
@@ -1746,7 +1746,7 @@
     </Entry>
     <Entry>
       <ID>348</ID>
-      <DefaultText>Убивает</DefaultText>
+      <DefaultText>Забирающая жизни</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1756,27 +1756,27 @@
     </Entry>
     <Entry>
       <ID>350</ID>
-      <DefaultText>Герой, как сам и говорит</DefaultText>
+      <DefaultText>Считающий себя героем</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>351</ID>
-      <DefaultText>Умеет о себе позаботиться</DefaultText>
+      <DefaultText>Заботящийся сам о себе</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>352</ID>
-      <DefaultText>Говорит с богами</DefaultText>
+      <DefaultText>Говорящий с богами</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>353</ID>
-      <DefaultText>Пронзает реальности</DefaultText>
+      <DefaultText>Пронзающая реальности</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>354</ID>
-      <DefaultText>Сражается со своими демонами</DefaultText>
+      <DefaultText>Борющийся со своими демонами</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1786,12 +1786,12 @@
     </Entry>
     <Entry>
       <ID>356</ID>
-      <DefaultText>Вы всегда найдете верное слово. Нет ситуаций, где не помогли бы слова.</DefaultText>
+      <DefaultText>В любой ситуации вы всегда найдете, что сказать. И для вас не существует проблем, которые нельзя решить словами.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>357</ID>
-      <DefaultText>Тень — ваша мать и друг. Только вам ничего не грозит во тьме.</DefaultText>
+      <DefaultText>Вы скрываетесь в складках между измерениями, избегая даже самых наблюдательных глаз. Появляясь, вы разрываете саму реальность и ваших врагов заодно с ней.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1806,7 +1806,7 @@
     </Entry>
     <Entry>
       <ID>360</ID>
-      <DefaultText>Вы изучаете способы защитить себя и других как физически, так и морально, в любой ситуации.</DefaultText>
+      <DefaultText>Вы знаете способы защитить себя и других, физически и ментально, в любой ситуации.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1871,7 +1871,7 @@
     </Entry>
     <Entry>
       <ID>373</ID>
-      <DefaultText>Мэткина — опаснейшая убийца Протектората. Она словно родилась для убийств.</DefaultText>
+      <DefaultText>Мэткина - самая смертоносная убийца в Протекторате и это известно всем.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1881,27 +1881,27 @@
     </Entry>
     <Entry>
       <ID>375</ID>
-      <DefaultText>Эрритис — герой, потому что сам в это верит. Чем больше подвигов он совершает, тем лучше подтверждаются его слова.</DefaultText>
+      <DefaultText>Эрритис - герой, потому что он сам так считает. И чем героичней его поступки, тем сильнее его убежденность.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>376</ID>
-      <DefaultText>Тибир прожил достаточно, чтобы освоить законы выживания, порой даже за чужой счет.</DefaultText>
+      <DefaultText>Тибир не прожил бы так долго, если б не научился выживать, порой даже за чужой счет.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>377</ID>
-      <DefaultText>Рин утверждает, что камни, которые она носит с собой — боги. Они якобы помогают ей, хотя это никак не проверить.</DefaultText>
+      <DefaultText>Рин утверждает, что камни, которые она носит с собой — боги. Они якобы помогают ей, хотя невозможно найти этому подтверждение.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>378</ID>
-      <DefaultText>Каллистеж обладает знаниями нескольких реальностей, и ничто не сравнится по силе с ее эзотериями</DefaultText>
+      <DefaultText>Каллистеж обладает знанием множества реальностей и эзотерий. Она является силой с которой стоит считаться.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>379</ID>
-      <DefaultText>Похоже, что татуировки Алигерна причиняют ему боль, но также они придают ему силу.</DefaultText>
+      <DefaultText>Похоже, что татуировки Алигерна причиняют ему сильную боль, но при этом они являются источником большой силы.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1936,7 +1936,7 @@
     </Entry>
     <Entry>
       <ID>386</ID>
-      <DefaultText>Физический</DefaultText>
+      <DefaultText>физический</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1986,7 +1986,7 @@
     </Entry>
     <Entry>
       <ID>396</ID>
-      <DefaultText>Межпространственный</DefaultText>
+      <DefaultText>межпространственный</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -2001,22 +2001,22 @@
     </Entry>
     <Entry>
       <ID>399</ID>
-      <DefaultText>Исследовательские навыки</DefaultText>
+      <DefaultText>Исследование</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>400</ID>
-      <DefaultText>Боевые навыки</DefaultText>
+      <DefaultText>Сражение</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>401</ID>
-      <DefaultText>Получены шины: {0}.</DefaultText>
+      <DefaultText>Получены шины: {0}</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>402</ID>
-      <DefaultText>Потеряны шины: {0}.</DefaultText>
+      <DefaultText>Потеряны шины: {0}</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -2056,12 +2056,12 @@
     </Entry>
     <Entry>
       <ID>410</ID>
-      <DefaultText>О персонаже</DefaultText>
+      <DefaultText>Персонаж</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>411</ID>
-      <DefaultText>Умения, способности и другие данные о персонаже.</DefaultText>
+      <DefaultText>Просмотр навыков, способностей и других данных о персонаже.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -2071,7 +2071,7 @@
     </Entry>
     <Entry>
       <ID>413</ID>
-      <DefaultText>Позволяет говорить с персонажами, когда они присоединятся к группе.</DefaultText>
+      <DefaultText>Вы можете разговаривать с персонажами после того, как они присоединятся к группе.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -2111,32 +2111,32 @@
     </Entry>
     <Entry>
       <ID>421</ID>
-      <DefaultText>Записи и заметки о заданиях и сведения о Девятом Мире.</DefaultText>
+      <DefaultText>Просмотр записей и заметок о заданиях.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>422</ID>
-      <DefaultText>Вещи группы</DefaultText>
+      <DefaultText>Вещи</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>423</ID>
-      <DefaultText>Здесь можно осмотреть, использовать или передать вещи и снаряжение.</DefaultText>
+      <DefaultText>Просмотр и различные действия со снаряжением.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>424</ID>
-      <DefaultText>Получено: {1} {0}.</DefaultText>
+      <DefaultText>Получено: {1} {0}</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>425</ID>
-      <DefaultText>Потеряно: {1} {0}.</DefaultText>
+      <DefaultText>Потеряно: {1} {0}</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>426</ID>
-      <DefaultText>[[Color: TooltipFormatting]Резервы[/Color], потраченные на усилие, восстановлены!]</DefaultText>
+      <DefaultText>[Усилие приложено без затрат параметров!]</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -2216,12 +2216,12 @@
     </Entry>
     <Entry>
       <ID>442</ID>
-      <DefaultText>{0} получает состояние {1}</DefaultText>
+      <DefaultText>{0} получает эффект {1}</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>443</ID>
-      <DefaultText>{0} лишается состояния {1}</DefaultText>
+      <DefaultText>{0} лишается эффекта {1}</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -2261,12 +2261,12 @@
     </Entry>
     <Entry>
       <ID>451</ID>
-      <DefaultText>{0} получает состояние {1}.</DefaultText>
+      <DefaultText>{0} получает эффект {1}.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>452</ID>
-      <DefaultText>{0} получает состояние {1} до следующего сна всей группы.</DefaultText>
+      <DefaultText>{0} получает эффект {1} до следующего отдыха всей группы.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -2281,12 +2281,12 @@
     </Entry>
     <Entry>
       <ID>455</ID>
-      <DefaultText>Нельзя устраивать передышку при полных резервах параметров.</DefaultText>
+      <DefaultText>Нельзя устраивать передышку при полных значениях параметров.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>456</ID>
-      <DefaultText>{0} получает {1} состояние на {2} рнд.</DefaultText>
+      <DefaultText>{0} получает {1} состояние на {2} раунда.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -2321,7 +2321,7 @@
     </Entry>
     <Entry>
       <ID>463</ID>
-      <DefaultText>Вещи</DefaultText>
+      <DefaultText>Предметы</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -2341,7 +2341,7 @@
     </Entry>
     <Entry>
       <ID>467</ID>
-      <DefaultText>Активные способности, даваемые типом или специализацией персонажа.</DefaultText>
+      <DefaultText>Активные способности, даваемые типом или склонностью персонажа.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -2366,7 +2366,7 @@
     </Entry>
     <Entry>
       <ID>472</ID>
-      <DefaultText>говорит,</DefaultText>
+      <DefaultText> говорит,</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -2386,27 +2386,27 @@
     </Entry>
     <Entry>
       <ID>476</ID>
-      <DefaultText>Урон: {0} {1}</DefaultText>
+      <DefaultText>{0} {1} урона</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>477</ID>
-      <DefaultText>Активно раундов: {0}</DefaultText>
+      <DefaultText>Длится раундов: {0}</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>478</ID>
-      <DefaultText>Активно {0} раунд</DefaultText>
+      <DefaultText>Длится {0} раунд</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>479</ID>
-      <DefaultText>Активно в течение всего кризиса</DefaultText>
+      <DefaultText>Длится в течение одного кризиса</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>480</ID>
-      <DefaultText>Активно до следующего сна</DefaultText>
+      <DefaultText>Длится до следующего отдыха</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -2416,52 +2416,52 @@
     </Entry>
     <Entry>
       <ID>482</ID>
-      <DefaultText>[Color: TooltipFormatting]Цель:[/Color] точка на земле</DefaultText>
+      <DefaultText>[Color: TooltipFormatting]Цель:[/Color] указанная точка</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>483</ID>
-      <DefaultText>[Color: TooltipFormatting]Цель:[/Color] все существа. Зона вокруг игрока: {0}</DefaultText>
+      <DefaultText>[Color: TooltipFormatting]Цель:[/Color] все вокруг персонажа ({0})</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>484</ID>
-      <DefaultText>[Color: TooltipFormatting]Цель:[/Color] союзники. Зона вокруг игрока: {0}</DefaultText>
+      <DefaultText>[Color: TooltipFormatting]Цель:[/Color] союзники вокруг персонажа ({0})</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>485</ID>
-      <DefaultText>[Color: TooltipFormatting]Цель:[/Color] враги. Зона вокруг игрока: {0}</DefaultText>
+      <DefaultText>[Color: TooltipFormatting]Цель:[/Color] противники вокруг персонажа ({0})</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>486</ID>
-      <DefaultText>[Color: TooltipFormatting]Цель:[/Color] все существа. Зона вокруг указанной цели: {0}.</DefaultText>
+      <DefaultText>[Color: TooltipFormatting]Цель:[/Color] все в зоне действия ({0})</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>487</ID>
-      <DefaultText>[Color: TooltipFormatting]Цель:[/Color] союзники. Зона вокруг указанной цели: {0}.</DefaultText>
+      <DefaultText>[Color: TooltipFormatting]Цель:[/Color] союзники в зоне действия ({0})</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>488</ID>
-      <DefaultText>[Color: TooltipFormatting]Цель:[/Color] враги. Зона вокруг указанной цели: {0}</DefaultText>
+      <DefaultText>[Color: TooltipFormatting]Цель:[/Color] противники в зоне действия ({0})</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>489</ID>
-      <DefaultText>[Color: TooltipFormatting]Цель:[/Color] 1 враг</DefaultText>
+      <DefaultText>[Color: TooltipFormatting]Цель:[/Color] противник</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>490</ID>
-      <DefaultText>[Color: TooltipFormatting]Цель:[/Color] 1 союзник</DefaultText>
+      <DefaultText>[Color: TooltipFormatting]Цель:[/Color] союзник</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>491</ID>
-      <DefaultText>[Color: TooltipFormatting]Цель:[/Color] 1 существо</DefaultText>
+      <DefaultText>[Color: TooltipFormatting]Цель:[/Color] любой персонаж</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -2471,52 +2471,52 @@
     </Entry>
     <Entry>
       <ID>493</ID>
-      <DefaultText>На себя</DefaultText>
+      <DefaultText>на себя</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>494</ID>
-      <DefaultText>Ближайшая (2м)</DefaultText>
+      <DefaultText>очень маленький радиус</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>495</ID>
-      <DefaultText>Небольшая (5м)</DefaultText>
+      <DefaultText>маленький радиус</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>496</ID>
-      <DefaultText>Средняя (10м)</DefaultText>
+      <DefaultText>средний радиус</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>497</ID>
-      <DefaultText>Большая (15м)</DefaultText>
+      <DefaultText>большой радиус</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>498</ID>
-      <DefaultText>Огромная (30м)</DefaultText>
+      <DefaultText>очень большой радиус</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>499</ID>
-      <DefaultText>[Color: TooltipFormatting]Цель:[/Color] все существа в конусе. Диапазон: {0}.</DefaultText>
+      <DefaultText>[Color: TooltipFormatting]Цель:[/Color] все в конусе ({0})</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>500</ID>
-      <DefaultText>[Color: TooltipFormatting]Цель:[/Color] все враги в конусе. Диапазон: {0}.</DefaultText>
+      <DefaultText>[Color: TooltipFormatting]Цель:[/Color] противники в конусе ({0})</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>501</ID>
-      <DefaultText>[Color: TooltipFormatting]Цель:[/Color] все союзники в конусе. Диапазон: {0}.</DefaultText>
+      <DefaultText>[Color: TooltipFormatting]Цель:[/Color] союзники в конусе ({0})</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>502</ID>
-      <DefaultText>Недоступно: задействование слишком дорого!</DefaultText>
+      <DefaultText>Недоступно: недосточно параметров для активации!</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -2526,7 +2526,7 @@
     </Entry>
     <Entry>
       <ID>505</ID>
-      <DefaultText>Недоступно: способность не сочетается с используемым оружием!</DefaultText>
+      <DefaultText>Недоступно: невозможно использовать с текущим оружием!</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -2536,7 +2536,7 @@
     </Entry>
     <Entry>
       <ID>507</ID>
-      <DefaultText>[Color: TooltipFormatting]Цена:[/Color] {0} {1}</DefaultText>
+      <DefaultText>[Color: TooltipFormatting]Затраты на активацию:[/Color] {0} {1}</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -2546,7 +2546,7 @@
     </Entry>
     <Entry>
       <ID>509</ID>
-      <DefaultText>[Color: TooltipFormatting]Цена:[/Color] {0}</DefaultText>
+      <DefaultText>[Color: TooltipFormatting]Затраты на активацию:[/Color] {0}</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -2576,7 +2576,7 @@
     </Entry>
     <Entry>
       <ID>515</ID>
-      <DefaultText>Урон от оружия: {0}</DefaultText>
+      <DefaultText>Урон от оружия {0}</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -2591,22 +2591,22 @@
     </Entry>
     <Entry>
       <ID>518</ID>
-      <DefaultText>Восстанавливает {1} на {0} очков</DefaultText>
+      <DefaultText>Восстанавливает {1} на {0}</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>519</ID>
-      <DefaultText>+</DefaultText>
+      <DefaultText> + </DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>520</ID>
-      <DefaultText>x</DefaultText>
+      <DefaultText> x </DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>521</ID>
-      <DefaultText>Восстанавливает {0} {1} очков наименьшего резерва</DefaultText>
+      <DefaultText>Восстанавливает {0} {1} очков наименьшего параметра</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -2626,27 +2626,27 @@
     </Entry>
     <Entry>
       <ID>525</ID>
-      <DefaultText>Снимает состояние {0}</DefaultText>
+      <DefaultText>Снимает эффект {0}</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>526</ID>
-      <DefaultText>Убирает {0} случайных {1} состояний(-я)</DefaultText>
+      <DefaultText>Убирает {0} случайных {1} эффектов</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>527</ID>
-      <DefaultText>Положительный</DefaultText>
+      <DefaultText>Положительные</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>528</ID>
-      <DefaultText>Отрицательный</DefaultText>
+      <DefaultText>Отрицательные</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>529</ID>
-      <DefaultText>Статус</DefaultText>
+      <DefaultText>Статусные</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -2731,7 +2731,7 @@
     </Entry>
     <Entry>
       <ID>546</ID>
-      <DefaultText>({0} использований)</DefaultText>
+      <DefaultText>Использований: {0}</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -2741,7 +2741,7 @@
     </Entry>
     <Entry>
       <ID>548</ID>
-      <DefaultText>Недоступно: требуется состояние {0}</DefaultText>
+      <DefaultText>Недоступно: требуется эффект {0}</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -2791,7 +2791,7 @@
     </Entry>
     <Entry>
       <ID>558</ID>
-      <DefaultText>[Color: TooltipFormatting]Модификаторы атаки:[/Color] {0}</DefaultText>
+      <DefaultText>[Color: TooltipFormatting]Итоговый модификатор:[/Color] {0}</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -2811,12 +2811,12 @@
     </Entry>
     <Entry>
       <ID>562</ID>
-      <DefaultText>Модификаторы {0}:</DefaultText>
+      <DefaultText>Модификаторы для {0}:</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>563</ID>
-      <DefaultText>(1d20{0} против {1})</DefaultText>
+      <DefaultText> (1d20{0} против {1})</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -2826,7 +2826,7 @@
     </Entry>
     <Entry>
       <ID>565</ID>
-      <DefaultText>(1d20 против {0})</DefaultText>
+      <DefaultText> (1d20 против {0})</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -2921,7 +2921,7 @@
     </Entry>
     <Entry>
       <ID>584</ID>
-      <DefaultText>Не владеет никаким оружием</DefaultText>
+      <DefaultText>Не владеет оружием</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -3096,27 +3096,27 @@
     </Entry>
     <Entry>
       <ID>619</ID>
-      <DefaultText>Осмотрительный</DefaultText>
-      <FemaleText>Осмотрительный</FemaleText>
+      <DefaultText>Хитрый</DefaultText>
+      <FemaleText>Хитрый</FemaleText>
     </Entry>
     <Entry>
       <ID>620</ID>
-      <DefaultText>Скрытная</DefaultText>
-      <FemaleText>Скрытная</FemaleText>
+      <DefaultText>Незаметная</DefaultText>
+      <FemaleText>Незаметная</FemaleText>
     </Entry>
     <Entry>
       <ID>621</ID>
-      <DefaultText>У Алигерна тяжелая жизнь. Поэтому он решает проблемы... по-своему.</DefaultText>
+      <DefaultText>Алигерну в жизни пришлось нелегко, но зато он выработал... уникальный подход к решению проблем.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>622</ID>
-      <DefaultText>Тяжело понять, когда Тибир говорит правду. Он отказывается даже от слов, произнесенных им 30 секунд назад.</DefaultText>
+      <DefaultText>Тибир обладает талантом жонглировать словами - очень сложно понять, что в его словах является истиной.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>623</ID>
-      <DefaultText>Мэткину лучше держать рядом, нежели за спиной.</DefaultText>
+      <DefaultText>Мэткина из тех союзников, которых лучше держать рядом, нежели за спиной.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -3141,7 +3141,7 @@
     </Entry>
     <Entry>
       <ID>628</ID>
-      <DefaultText>{0} {1}. {2}.</DefaultText>
+      <DefaultText>{0} {1}, {2}</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -3151,7 +3151,7 @@
     </Entry>
     <Entry>
       <ID>630</ID>
-      <DefaultText>Резерв параметра</DefaultText>
+      <DefaultText>Параметр</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -3186,7 +3186,7 @@
     </Entry>
     <Entry>
       <ID>637</ID>
-      <DefaultText>Макс. усилие</DefaultText>
+      <DefaultText>Предел усилия</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -3201,7 +3201,7 @@
     </Entry>
     <Entry>
       <ID>640</ID>
-      <DefaultText>Цена брони</DefaultText>
+      <DefaultText>Штраф от брони</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -3221,32 +3221,32 @@
     </Entry>
     <Entry>
       <ID>644</ID>
-      <DefaultText>Увеличить резервы параметров</DefaultText>
+      <DefaultText>Увеличить параметры</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>645</ID>
-      <DefaultText>Доп. усилие</DefaultText>
+      <DefaultText>Предел усилия</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>646</ID>
-      <DefaultText>Усилить талант</DefaultText>
+      <DefaultText>Развить талант</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>647</ID>
-      <DefaultText>Улучшенная способность</DefaultText>
+      <DefaultText>Улучшить способность</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>648</ID>
-      <DefaultText>Сниженная цена брони</DefaultText>
+      <DefaultText>Уменьшить штраф для брони</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>649</ID>
-      <DefaultText>Сменить направление</DefaultText>
+      <DefaultText>Сменить склонность</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -3256,7 +3256,7 @@
     </Entry>
     <Entry>
       <ID>651</ID>
-      <DefaultText>Выберите, на что потратить очки опыта. Выбирать можно один раз за уровень.</DefaultText>
+      <DefaultText>Выберите, на что потратить очки опыта. Вы можете выбрать каждый вариант только один раз на уровне.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -3271,22 +3271,22 @@
     </Entry>
     <Entry>
       <ID>654</ID>
-      <DefaultText>Распределите очки по резервам.</DefaultText>
+      <DefaultText>Распределите очки по вашим параметрам.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>655</ID>
-      <DefaultText>Вложите талант в выбранный резерв.</DefaultText>
+      <DefaultText>Выберете параметр для которого вы хотите развить талант.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>656</ID>
-      <DefaultText>Увеличивает уровень макс. усилия на 1.</DefaultText>
+      <DefaultText>Увеличивает уровень предельного усилия на 1.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>657</ID>
-      <DefaultText>Снизить снижение силы и скорости для всей брони на 1. Снижения не могут быть ниже 0.</DefaultText>
+      <DefaultText>Уменьшить штраф к силе и скорости для всей брони на 1. Штраф не может быть меньше 0.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -3296,17 +3296,17 @@
     </Entry>
     <Entry>
       <ID>659</ID>
-      <DefaultText>Выберите способность для развития.</DefaultText>
+      <DefaultText>Выберите способность для изучения.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>660</ID>
-      <DefaultText>Выберите новое направление. Его можно менять когда угодно, но каждый раз это будет дороже. Менять направление может только Последний Отверженный.</DefaultText>
+      <DefaultText>Ваша склонность предоставляет вам дополнительные способности, независящие от вашего типа. Каждая склонность ориентированна на свой собственный подход к решению проблем.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>661</ID>
-      <DefaultText>Увеличить резервы силы, скорости и интеллекта на 4 очка, в любом сочетании.</DefaultText>
+      <DefaultText>Увеличение вашей силы, скорости и интеллекта на 4 очка, в любом сочетании.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -3321,7 +3321,7 @@
     </Entry>
     <Entry>
       <ID>664</ID>
-      <DefaultText>Выберите новую способность, или улучшите изученную.</DefaultText>
+      <DefaultText>Выберите новую способность, или улучшите уже имеющуюся.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -3351,12 +3351,12 @@
     </Entry>
     <Entry>
       <ID>670</ID>
-      <DefaultText>Открытые способности</DefaultText>
+      <DefaultText>Получены способности</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>671</ID>
-      <DefaultText>Улучшенный навык</DefaultText>
+      <DefaultText>Улучшить навык</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -3366,12 +3366,12 @@
     </Entry>
     <Entry>
       <ID>673</ID>
-      <DefaultText>Выберите навык для развития.</DefaultText>
+      <DefaultText>Выберите навык для изучения.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>674</ID>
-      <DefaultText>Выберите новую способность для развития.</DefaultText>
+      <DefaultText>Выберите новую способность для изучения.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -3381,7 +3381,7 @@
     </Entry>
     <Entry>
       <ID>676</ID>
-      <DefaultText>Состояния</DefaultText>
+      <DefaultText>Эффекты</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -3431,7 +3431,7 @@
     </Entry>
     <Entry>
       <ID>686</ID>
-      <DefaultText>Надеть предмет</DefaultText>
+      <DefaultText>Надеть</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -3446,12 +3446,12 @@
     </Entry>
     <Entry>
       <ID>689</ID>
-      <DefaultText>Использовать предмет</DefaultText>
+      <DefaultText>Использовать</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>690</ID>
-      <DefaultText>Бросить предмет</DefaultText>
+      <DefaultText>Выбросить</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -3461,12 +3461,12 @@
     </Entry>
     <Entry>
       <ID>692</ID>
-      <DefaultText>Вспомогательный</DefaultText>
+      <DefaultText>Для левой руки</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>693</ID>
-      <DefaultText>Тело</DefaultText>
+      <DefaultText>Одежда</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -3481,7 +3481,7 @@
     </Entry>
     <Entry>
       <ID>696</ID>
-      <DefaultText>Личное</DefaultText>
+      <DefaultText>Приращение</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -3491,17 +3491,17 @@
     </Entry>
     <Entry>
       <ID>698</ID>
-      <DefaultText>{0} оружие</DefaultText>
+      <DefaultText>{0}</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>699</ID>
-      <DefaultText>Без оружия</DefaultText>
+      <DefaultText>без оружия</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>700</ID>
-      <DefaultText>Предмет</DefaultText>
+      <DefaultText>предмет</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -3551,7 +3551,7 @@
     </Entry>
     <Entry>
       <ID>710</ID>
-      <DefaultText>Выберите способности для изучения или развития.</DefaultText>
+      <DefaultText>Выберите способности для изучения.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -3601,27 +3601,27 @@
     </Entry>
     <Entry>
       <ID>720</ID>
-      <DefaultText>Скорость передвижения</DefaultText>
+      <DefaultText>скорость передвижения</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>721</ID>
-      <DefaultText>Цена брони: {0}</DefaultText>
+      <DefaultText>штраф от брони для {0}</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>722</ID>
-      <DefaultText>снижение стоимости брони на {0} {1}</DefaultText>
+      <DefaultText>штраф от брони для {0}</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>723</ID>
-      <DefaultText>Цена усилия</DefaultText>
+      <DefaultText>Затраты на усилие</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>724</ID>
-      <DefaultText>Резерв {0}</DefaultText>
+      <DefaultText>{0}</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -3666,7 +3666,7 @@
     </Entry>
     <Entry>
       <ID>733</ID>
-      <DefaultText>Размер магазина: {0}</DefaultText>
+      <DefaultText>Размер обоймы: {0}</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -3721,32 +3721,32 @@
     </Entry>
     <Entry>
       <ID>744</ID>
-      <DefaultText>[Всплеск Потоков: требуемый навык связи с Потоками — {0}]</DefaultText>
+      <DefaultText>[Всплеск Потоков: требуется навык Управление Потоками — {0}]</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>745</ID>
-      <DefaultText>[Всплеск Потоков: нужно {0} опыта]</DefaultText>
+      <DefaultText>[Всплеск Потоков: необходимо {0} опыта]</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>746</ID>
-      <DefaultText>[Нельзя пытаться повторно при ослаблении]</DefaultText>
+      <DefaultText>[Нельзя повторить пока вы ослаблены]</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>747</ID>
-      <DefaultText>[Всплеск Потоков: цена — {0} опыта]</DefaultText>
+      <DefaultText>[Всплеск Потоков: затраты - {0} опыта]</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>748</ID>
-      <DefaultText>Снять предмет</DefaultText>
+      <DefaultText>Снять</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>749</ID>
-      <DefaultText>Вещи для задания</DefaultText>
+      <DefaultText>Предметы для заданий</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -3761,22 +3761,22 @@
     </Entry>
     <Entry>
       <ID>752</ID>
-      <DefaultText>Цена: {0}</DefaultText>
+      <DefaultText>Затраты: {0}</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>753</ID>
-      <DefaultText>[Color: TooltipFormatting]Для усилия используется резерв:[/Color] {0}</DefaultText>
+      <DefaultText>[Color: TooltipFormatting]Для усилия используется:[/Color] {0}</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>754</ID>
-      <DefaultText>[Color: TooltipFormatting]Для усилия используется резерв:[/Color] {0} или {1}</DefaultText>
+      <DefaultText>[Color: TooltipFormatting]Для усилия используется:[/Color] {0} или {1}</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>755</ID>
-      <DefaultText>[Color: TooltipFormatting]Для усилия используется резерв:[/Color] {0}, {1} или {2}</DefaultText>
+      <DefaultText>[Color: TooltipFormatting]Для усилия используется:[/Color] {0}, {1} или {2}</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -3786,7 +3786,7 @@
     </Entry>
     <Entry>
       <ID>757</ID>
-      <DefaultText>Использование шифра</DefaultText>
+      <DefaultText>Шифры</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -3881,12 +3881,12 @@
     </Entry>
     <Entry>
       <ID>776</ID>
-      <DefaultText>{0} использует {1}</DefaultText>
+      <DefaultText>Базовый параметр: {1}</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>777</ID>
-      <DefaultText>Ход невидимого врага</DefaultText>
+      <DefaultText>Ход невидимого противника</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -3901,7 +3901,7 @@
     </Entry>
     <Entry>
       <ID>780</ID>
-      <DefaultText>Станете ли вы...</DefaultText>
+      <DefaultText>Вы будете...</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -3921,47 +3921,47 @@
     </Entry>
     <Entry>
       <ID>784</ID>
-      <DefaultText>[Color: TooltipFormatting]+15% за уровень на сложных заданиях со знаком данного навыка. Неспособность дает -15% штрафа.[/Color] \n\nРабочие знания о машинах, механике и физических науках.</DefaultText>
+      <DefaultText>[Color: TooltipFormatting]Каждый уровень подготовки даёт улучшение +15% при проверках, связанных с этим навыком. Отсутствие навыка даёт штраф -15%.[/Color] \n\nПрактические знания о механизмах, механике и технических науках.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>785</ID>
-      <DefaultText>[Color: TooltipFormatting]+15% за уровень на сложных заданиях со знаком данного навыка. Неспособность дает -15% штрафа.[/Color]\n\nРабочие знания о науках, которые не назвать ни физическими, ни естественными.</DefaultText>
+      <DefaultText>[Color: TooltipFormatting]Каждый уровень подготовки даёт улучшение +15% при проверках, связанных с этим навыком. Отсутствие навыка даёт штраф -15%.[/Color]\n\nПрактические знания о науках, которые не назвать ни техническими, ни естественными.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>786</ID>
-      <DefaultText>[Color: TooltipFormatting]+15% за уровень на сложных заданиях со знаком данного навыка. Неспособность дает -15% штрафа.[/Color]\n\nРабочие знания о естественных науках.</DefaultText>
+      <DefaultText>[Color: TooltipFormatting]Каждый уровень подготовки даёт улучшение +15% при проверках, связанных с этим навыком. Отсутствие навыка даёт штраф -15%.[/Color]\n\nПрактические знания о естественных науках.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>787</ID>
-      <DefaultText>[Color: TooltipFormatting]+15% за уровень на сложных заданиях со знаком данного навыка. Неспособность дает -15% штрафа.[/Color]\n\nТеоретические знания о машинах, механике и физических науках.</DefaultText>
+      <DefaultText>[Color: TooltipFormatting]Каждый уровень подготовки даёт улучшение +15% при проверках, связанных с этим навыком. Отсутствие навыка даёт штраф -15%.[/Color]\n\nТеоретические познания в технических науках, знание механизмов и механики.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>788</ID>
-      <DefaultText>[Color: TooltipFormatting]+15% за уровень на сложных заданиях со знаком данного навыка. Неспособность дает -15% штрафа.[/Color]\n\nТеоретические знания о науках, которые не назвать ни физическими, ни естественными, включая знания о странных и межпространственных существах.</DefaultText>
+      <DefaultText>[Color: TooltipFormatting]Каждый уровень подготовки даёт улучшение +15% при проверках, связанных с этим навыком. Отсутствие навыка даёт штраф -15%.[/Color]\n\nЗнания, которые нельзя отнести к естественным или техническим наукам, включая знания о странных и межпространственных существах.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>789</ID>
-      <DefaultText>[Color: TooltipFormatting]+15% за уровень на сложных заданиях со знаком данного навыка. Неспособность дает -15% штрафа.[/Color]\n\nТеоретические знания о естественных науках и физических существах.</DefaultText>
+      <DefaultText>[Color: TooltipFormatting]Каждый уровень подготовки даёт улучшение +15% при проверках, связанных с этим навыком. Отсутствие навыка даёт штраф -15%.[/Color]\n\nТеоретические познания в естественных науках, знание живых существ.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>790</ID>
-      <DefaultText>[Color: TooltipFormatting]+15% за уровень на сложных заданиях со знаком данного навыка. Неспособность дает -15% штрафа.[/Color]\n\nПоследний Отверженный получает доступ к предыдущему сознанию. Данный навык символизирует ваше упорство и скорость в восстановлении данных событий.</DefaultText>
+      <DefaultText>[Color: TooltipFormatting]Каждый уровень подготовки даёт улучшение +15% при проверках, связанных с этим навыком. Отсутствие навыка даёт штраф -15%.[/Color]\n\nПоследний Отверженный может получить доступ к воспоминаниям предыдущих воплощений. Этот навык отражает вашу сосредоточенность и проницательность при попытке вспомнить прошлые события.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>791</ID>
-      <DefaultText>[Color: TooltipFormatting]Снижает штрафы за используемые личные артефакты.[/Color]\n\n— Неспособность: недоступна одна ячейка для личного артефакта.\n— Новичок: каждый используемый личный артефакт оказывает отрицательное воздействие.\n— Умелый: личный артефакт в первой ячейке не оказывает отрицательного воздействия.\n— Специалист: личные артефакты в обеих ячейках не оказывают отрицательного воздействия.</DefaultText>
+      <DefaultText>[Color: TooltipFormatting]Смягчает негативные последствия при экипировке Приращений.[/Color]\n\nНет навыка: можно экипировать только один артефакт.\nНачальный уровень: можно экипировать два артефакта.\nОпытный уровень: можно экипировать два артефакта и один не будет оказывать негативного влияния.\nЭкспертный уровень: можно экипировать два артефакта и оба не будут оказывать негативного влияния.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>792</ID>
-      <DefaultText>[Color: TooltipFormatting]За каждый новый уровень увеличивает лимит шифров персонажа на 2 (неспособность уменьшается на 1).[/Color]\n\nВсе шифры выделяют странную энергию, импульсы или жидкости. Без должного распознавания и хранения шифров их накопление может привести к катастрофе. Со временем вы научитесь безопасно хранить дополнительные шифры, и шансов на отращивание новых конечностей или на неожиданные мутации почти не останется.</DefaultText>
+      <DefaultText>[Color: TooltipFormatting]Каждый уровень подготовки повышает лимит переносимых персонажем шифров на 2. Отсутствие навыка снижает лимит на 1.[/Color]\n\nВсе шифры излучают, пульсируют или сочатся странной энергией и выделениями. Без должного распознавания и соблюдения правил хранения, накопление шифров может привести к катастрофической реакции. Потренировавшись, вы можете научиться безопасно хранить дополнительные шифры, чем существенно снизите шансы на отращивание лишних конечностей и другие мутации.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -3971,52 +3971,52 @@
     </Entry>
     <Entry>
       <ID>794</ID>
-      <DefaultText>[Color: TooltipFormatting]+5 здоровья за уровень. Неспособность снижает получаемое здоровье на 2.[/Color]\n\nОпределяет, сколько урона может принять на себя персонаж.</DefaultText>
+      <DefaultText>[Color: TooltipFormatting]За каждый уровень поготовки здоровье повышается на 5. Отсутствие навыка снижает здоровье на 2.[/Color]\n\nОпределяет, сколько урона может выдержать персонаж.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>795</ID>
-      <DefaultText>[Color: TooltipFormatting]Любая целительная способность или предмет восстанавливают на 5 очков больше здоровья. Неспособность дает 2 очка штрафа при лечении[/Color]\n\nУмение обработать раны спутников наилучшим образом, используя и эзотерии, и шифры.</DefaultText>
+      <DefaultText>[Color: TooltipFormatting]Любая целительная способность или предмет восстанавливают на 5 единиц здоровья больше за каждый уровень подготовки. Отсутствие навыка снижает значение восстанавливаемого здоровья на 2 единицы.[/Color]\n\nУмение обрабатывать раны наилучшим образом, используя и эзотерии, и шифры.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>796</ID>
-      <DefaultText>[Color: TooltipFormatting]Открывает новые ветви диалога, добавляет по 15% за уровень на сложных заданиях со знаком данного навыка. Неспособность дает -15% штрафа.[/Color]\n\nЯсный взор, слух и даже обоняние. Позволяет персонажу замечать то, что ускользает от внимания других.</DefaultText>
+      <DefaultText>[Color: TooltipFormatting]Каждый уровень подготовки даёт улучшение +15% при проверках, связанных с этим навыком. Отсутствие навыка даёт штраф -15%.[/Color]\n\nОбостренные зрение, слух и даже обоняние позволяют персонажу замечать то, что ускользает от внимания других.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>797</ID>
-      <DefaultText>[Color: TooltipFormatting]+15% за уровень на сложных заданиях со знаком данного навыка. Неспособность дает -15% штрафа.[/Color]\n\nОтличное знание механизмов и умение работать с тонкими устройствами.</DefaultText>
+      <DefaultText>[Color: TooltipFormatting]Каждый уровень подготовки даёт улучшение +15% при проверках, связанных с этим навыком. Отсутствие навыка даёт штраф -15%.[/Color]\n\nХорошая мелкая моторика и способность управляться с чувствительными устройствами.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>798</ID>
-      <DefaultText>[Color: TooltipFormatting]Бонус к дальности передвижения во время хода в кризисе. Неспособность сокращает дальность.[/Color]\n\nСпособность бежать по опасной местности, избегая препятствий и врагов лучше, чем это могут делать более медленные персонажи.</DefaultText>
+      <DefaultText>[Color: TooltipFormatting]Бонус к дальности передвижения во время каждого хода в кризисе. Отсутствие навыка сокращает дальность передвижения.[/Color]\n\nСпособность бежать по опасной местности, избегая препятствий и противников лучше, чем это могут делать более медленные персонажи.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>799</ID>
-      <DefaultText>[Color: TooltipFormatting]+15% за уровень на сложных заданиях со знаком данного навыка. Неспособность дает -15% штрафа.[/Color]\n\nОтточенное умение все ломать.</DefaultText>
+      <DefaultText>[Color: TooltipFormatting]Каждый уровень подготовки даёт улучшение +15% при проверках, связанных с этим навыком. Отсутствие навыка даёт штраф -15%.[/Color]\n\nХорошо отточенное умение все ломать.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>800</ID>
-      <DefaultText>[Color: TooltipFormatting]+15% за уровень при использовании способности «Спрятаться». Работает только в кризисе. Неспособность дает -15% штрафа.[/Color]\n\nНахождение в тени помогает как избежать врагов, так и застать их врасплох.</DefaultText>
+      <DefaultText>[Color: TooltipFormatting]Каждый уровень подготовки даёт улучшение +15% при использовании способности «Спрятаться». Работает только в кризисе. Отсутствие навыка даёт штраф -15%.[/Color]\n\nНезаметное передвижение помогает как избежать врагов, так и застать их врасплох.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>801</ID>
-      <DefaultText>[Color: TooltipFormatting]+15% за уровень на сложных заданиях со знаком данного навыка. Неспособность дает -15% штрафа.[/Color]\n\nНа случай, если надо убедить кого-то в том, что ложь есть правда.</DefaultText>
+      <DefaultText>[Color: TooltipFormatting]Каждый уровень подготовки даёт улучшение +15% при проверках, связанных с этим навыком. Отсутствие навыка даёт штраф -15%.[/Color]\n\nНа случай, если надо убедить кого-то в том, что ложь есть правда.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>802</ID>
-      <DefaultText>[Color: TooltipFormatting]+15% за уровень на сложных заданиях со знаком данного навыка. Неспособность дает -15% штрафа.[/Color]\n\nИной вид убеждения, где вы применяете свою репутацию (как действительную, так и выдуманную) или иные угрозы, чтобы добиться своего.</DefaultText>
+      <DefaultText>[Color: TooltipFormatting]Каждый уровень подготовки даёт улучшение +15% при проверках, связанных с этим навыком. Отсутствие навыка даёт штраф -15%.[/Color]\n\nВид убеждения, когда вы используете свою репутацию (ложную или нет) или другие угрозы, чтобы добиться своего.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>803</ID>
-      <DefaultText>[Color: TooltipFormatting]+15% за уровень на сложных заданиях со знаком данного навыка. Неспособность дает -15% штрафа.[/Color]\n\nСпособность убедить нерасположенного к вам собеседника взглянуть на все с вашей точки зрения, или просто сделать то, что вы хотите.</DefaultText>
+      <DefaultText>[Color: TooltipFormatting]Каждый уровень подготовки даёт улучшение +15% при проверках, связанных с этим навыком. Отсутствие навыка даёт штраф -15%.[/Color]\n\nСпособность убедить несговорчивого собеседника взглянуть на все с вашей точки зрения, или просто сделать то, что вы хотите.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -4066,7 +4066,7 @@
     </Entry>
     <Entry>
       <ID>813</ID>
-      <DefaultText>[Color: TooltipFormatting]Позволяет персонажу раньше сделать ход во время кризиса.[/Color]\n\nВлияет на скорость реакции и владение ситуацией. Развитие данного навыка не даст врагам застать персонажа врасплох.</DefaultText>
+      <DefaultText>[Color: TooltipFormatting]Позволяет персонажу начать действовать раньше на каждом ходу во время кризиса. Отсутствие навыка приводит к более позднему началу активных действий.[/Color]\n\nВлияет на скорость реакции и владение ситуацией. Развитие данного навыка не дает противникам застать персонажа врасплох.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -4091,7 +4091,7 @@
     </Entry>
     <Entry>
       <ID>818</ID>
-      <DefaultText>Учебный уровень навыка {0}</DefaultText>
+      <DefaultText>уровень навыка {0}</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -4136,37 +4136,37 @@
     </Entry>
     <Entry>
       <ID>827</ID>
-      <DefaultText>Дает +{0} доп. урона за каждый уровень усилия, макс. {1}</DefaultText>
+      <DefaultText>+{0} урона за каждый пункт усилия (максимум +{1})</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>828</ID>
-      <DefaultText>{0} на {1}</DefaultText>
+      <DefaultText>{0} при {1}</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>829</ID>
-      <DefaultText>Атаки оружием</DefaultText>
+      <DefaultText>атаке оружием</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>830</ID>
-      <DefaultText>Применение дальних способностей</DefaultText>
+      <DefaultText>использовании дистанционных способностей</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>831</ID>
-      <DefaultText>Применение ближних способностей</DefaultText>
+      <DefaultText>использовании способностей малой дальности</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>832</ID>
-      <DefaultText>Применение личных способностей</DefaultText>
+      <DefaultText>использовании способностей, действующих на себя</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>833</ID>
-      <DefaultText>Атаки эзотериями</DefaultText>
+      <DefaultText>атаке эзотериями</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -4201,67 +4201,67 @@
     </Entry>
     <Entry>
       <ID>840</ID>
-      <DefaultText>Атаки</DefaultText>
+      <DefaultText>атаках</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>841</ID>
-      <DefaultText>Атаки издали</DefaultText>
+      <DefaultText>дистанционных атаках</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>842</ID>
-      <DefaultText>Атаки вблизи</DefaultText>
+      <DefaultText>атаках в ближнем бою</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>843</ID>
-      <DefaultText>Силовые задания</DefaultText>
+      <DefaultText>проверках Силы</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>844</ID>
-      <DefaultText>Скоростные задания</DefaultText>
+      <DefaultText>проверках Скорости</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>845</ID>
-      <DefaultText>Интеллектуальные задания</DefaultText>
+      <DefaultText>проверках Интеллекта</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>846</ID>
-      <DefaultText>Атаки оружием издали</DefaultText>
+      <DefaultText>дистанционных атаках оружием</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>847</ID>
-      <DefaultText>Неоружейные атаки издали</DefaultText>
+      <DefaultText>дистанционных атаках без оружия</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>848</ID>
-      <DefaultText>Атаки оружием вблизи</DefaultText>
+      <DefaultText>атаках оружием ближнего боя</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>849</ID>
-      <DefaultText>Неоружейные атаки вблизи</DefaultText>
+      <DefaultText>атаках без оружия</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>850</ID>
-      <DefaultText>Задания: {0}</DefaultText>
+      <DefaultText>проверке: {0}</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>851</ID>
-      <DefaultText>на</DefaultText>
+      <DefaultText> при </DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>852</ID>
-      <DefaultText>или</DefaultText>
+      <DefaultText> или</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -4276,7 +4276,7 @@
     </Entry>
     <Entry>
       <ID>855</ID>
-      <DefaultText>[Color: TooltipFormatting]Цена:[/Color] {0} {1} за ход при активности</DefaultText>
+      <DefaultText>[Color: TooltipFormatting]Затраты:[/Color] {0} {1} за ход пока активно</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -4311,27 +4311,27 @@
     </Entry>
     <Entry>
       <ID>862</ID>
-      <DefaultText>Клинки — элитные воины Девятого Мира, в бою полагающиеся на оружие и броню. Клинками могут быть охотники, стражи и солдаты, а иногда разведчики, военачальники, бандиты и даже атлеты. Клинок может обладать большой силой, и использовать самое тяжелое оружие и броню. Также он может обладать высокой скоростью, и использовать легкое оружие и броню.</DefaultText>
+      <DefaultText>Клинки - элитные воины Девятого Мира, в бою полагающиеся на оружие и броню. Разведчики, охранники, солдаты и военачальники могут быть Клинками. Клинок может обладать большой Силой и использовать самое тяжелое оружие и броню. Или обладать высокой Скоростью и использовать легкое или дистанционное оружие и среднюю или легкую броню.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>863</ID>
-      <DefaultText>Ключи — отважные исследователи и искатели приключений. Они — мастера на все руки, а их название, возможно, происходит из старых сказок о хитром и смекалистом герое, которого звали Ключ. Ключи воруют, обманывают и выпутываются из передряг благодаря хитрости или удаче. Они не отдают предпочтение какому-то одному навыку или тактике, а используют любое оружие, броню, эзотерии и все другие, что попадется под руку. Ключи раскрываются во всей красе, когда им удается совместить все свои инструменты. Они охотники (особенно за сокровищами), мошенники, скальды, разбойники, разведчики и эксперты в самых разных областях.</DefaultText>
+      <DefaultText>Ключи - отважные исследователи и искатели приключений. Их разносторонность - это ключ ко всем профессиям - отсюда и название. Хотя, возможно, оно происходит из старых сказок о хитром и находчивом герое, которого, кажется, звали Ключ. Наиболее успешные Ключи сочетают использование оружия, брони, эзотерий, шифров и хорошо подвешенного языка. Они охотники за сокровищами, мошенники, скальды, разбойники и эксперты в самых разных областях.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>864</ID>
-      <DefaultText>В Девятом Мире нано порой называют магами, волшебниками, колдунами или ведьмами. Есть термин "наномаг", а его способности называются "наномагией". Некоторые утверждают, что говорят от лица богов и иных сверхъестественных сущностей. Как их ни называй, нано владеют тайнами прошлого так хорошо, что могут творить чудеса. С помощью нуменер они меняют реальность или узнают то, что иначе никак не узнать. Термин "нано" происходит от слова "нанотехнология", которая присутствует повсеместно в Девятом Мире (вне зависимости от того, осознают ли это жители). Некоторые называют эти невидимые, нуминозные частицы, пронизывающие все вокруг, нанодухами.</DefaultText>
+      <DefaultText>Жители Девятого Мира иногда называют Нано магами, волшебниками, колдунами или ведьмами. Но как бы они не назывались, Нано настолько преуспели в изучении тайн прошлого, что, кажется, они действительно творят чудеса, используя эзотерии - некое подобие заклинаний, которые сочетает в себе жесты, вербальные комманды и ментальные усилия. Нано могут использовать нано-духов - сверхъестесвенные частицы, которыми наполнен мир вокруг, для изменения реальности или познания того, что невозможно узнать иными способами.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>865</ID>
-      <DefaultText>Сменить тип персонажа</DefaultText>
+      <DefaultText>Выберите тип</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>866</ID>
-      <DefaultText>Сменить характеристику персонажа</DefaultText>
+      <DefaultText>Выберите характеристику</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -4341,8 +4341,8 @@
     </Entry>
     <Entry>
       <ID>868</ID>
-      <DefaultText>Вы точно хотите продолжить? Это ваш последний шанс изменить тип персонажа или характеристику Последнего Отверженного.</DefaultText>
-      <FemaleText>Вы точно хотите продолжить? Это ваш последний шанс изменить тип персонажа или характеристику Последней Отверженной.</FemaleText>
+      <DefaultText>Вы точно хотите продолжить? Это ваш последний шанс сменить тип или характеристику Последнего Отверженного.</DefaultText>
+      <FemaleText>Вы точно хотите продолжить? Это ваш последний шанс сменить тип или характеристику Последней Отверженной.</FemaleText>
     </Entry>
     <Entry>
       <ID>869</ID>
@@ -4351,17 +4351,17 @@
     </Entry>
     <Entry>
       <ID>870</ID>
-      <DefaultText>Недоступно: Используется только в {0}!</DefaultText>
+      <DefaultText>Недоступно: используется только в {0}</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>871</ID>
-      <DefaultText>кризисе</DefaultText>
+      <DefaultText>бою</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>872</ID>
-      <DefaultText>разговоре</DefaultText>
+      <DefaultText>диалоге</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -4381,7 +4381,7 @@
     </Entry>
     <Entry>
       <ID>876</ID>
-      <DefaultText>[Color: TooltipFormatting]+15% за уровень на сложных заданиях со знаком данного навыка.[/Color]\n\nЧтобы находить самые ценные шифры и артефакты, нужно знать, какую панель открыть, или какой биомеханический волдырь проткнуть.</DefaultText>
+      <DefaultText>[Color: TooltipFormatting]Бонус +15% за уровень при приверках данного навыка.[/Color]\n\nЧтобы находить самые ценные шифры и артефакты, нужно знать, какую панель открыть, или какой биомеханический волдырь проткнуть.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -4396,12 +4396,12 @@
     </Entry>
     <Entry>
       <ID>879</ID>
-      <DefaultText>Резерв параметра, потраченный на усилие, восстановлен</DefaultText>
+      <DefaultText>Затраты параметра, потраченные на усилие, восстановлены</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>880</ID>
-      <DefaultText>[Прочесть мысли] </DefaultText>
+      <DefaultText>[Чтение мыслей]</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -4436,12 +4436,12 @@
     </Entry>
     <Entry>
       <ID>887</ID>
-      <DefaultText>Состояние: {0}</DefaultText>
+      <DefaultText>Эффект: {0}</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>888</ID>
-      <DefaultText>&lt;quad class="armor"&gt;Броня: {0}</DefaultText>
+      <DefaultText>{0} &lt;quad class="armor"&gt; Броня</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -4451,32 +4451,32 @@
     </Entry>
     <Entry>
       <ID>890</ID>
-      <DefaultText>[Color: TooltipFormatting]Негативные состояния (можно улучшить навыком "Концентрация"):[/Color]</DefaultText>
+      <DefaultText>[Color: TooltipFormatting]Негативные эффекты (можно улучшить навыком "Концентрация"):[/Color]</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>891</ID>
-      <DefaultText>[Color: TooltipFormatting]Полученные способности:[/Color]</DefaultText>
+      <DefaultText>[Color: TooltipFormatting]Дает способности:[/Color]</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>892</ID>
-      <DefaultText>все задания</DefaultText>
+      <DefaultText>любых проверках</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>893</ID>
-      <DefaultText>[Color: TooltipFormatting]На время действия:[/Color]</DefaultText>
+      <DefaultText>[Color: TooltipFormatting]Пока действует:[/Color]</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>894</ID>
-      <DefaultText>Осталось {0} из {1} применений на {2}.</DefaultText>
+      <DefaultText>Можно использовать {0}/{1} за {2}</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>895</ID>
-      <DefaultText>Недоступно: Все применения на {0} использованы!</DefaultText>
+      <DefaultText>Недоступно: нельзя больше использовать в этот {0}!</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -4491,12 +4491,12 @@
     </Entry>
     <Entry>
       <ID>898</ID>
-      <DefaultText>Поспите, чтобы обновить.</DefaultText>
+      <DefaultText> Отдохните.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>899</ID>
-      <DefaultText>кризис</DefaultText>
+      <DefaultText>Кризис</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -4511,32 +4511,32 @@
     </Entry>
     <Entry>
       <ID>902</ID>
-      <DefaultText>Чтобы купить шаги вперед для данного персонажа, нужно потратить опыт. Шаги вперед позволяют улучшать параметры, навыки и умения персонажа.\n\nКаждый 4-й купленный шаг вперед повышает уровень персонажа, дает ему новые способности, параметры и позволяет развивать навыки.</DefaultText>
+      <DefaultText>Используйте очки опыта для продвижения. Каждое продвижение позволяет улучшать параметры, способности и навыки персонажа.\n\nКаждое четвертое продвижение повышает уровень персонажа, открывая новые способности и навыки.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>903</ID>
-      <DefaultText>Талант является вашим врожденным даром с определенным резервом параметров. Каждый балл таланта уменьшает общую стоимость активации способности и/или расходы на усилие на 1 балл. В результате можно будет бесплатно активировать способности и уровни усилия.</DefaultText>
+      <DefaultText>Талант это ваша природная способность хорошо использовать конкретный параметр. Каждый пункт таланта уменьшает на 1 общие затраты на активацию способностей и приложение усилий. Это может привести к возможности активировать способности и прикладывать усилия без затрат параметров.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>904</ID>
-      <DefaultText>[Color: TooltipFormatting]Резерв параметра {0}:[/Color] {1}/{2}</DefaultText>
+      <DefaultText>[Color: TooltipFormatting]Параметр {0}:[/Color] {1}/{2}</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>905</ID>
-      <DefaultText>Очки параметров для [Color: Might]Силы[/Color], [Color: Speed]Скорости[/Color], и [Color: Intellect]Интеллекта[/Color] обозначают запас ресурсов, которые вы можете потратить, чтобы активировать способности или увеличить свои шансы на успех в любой ситуации, требующей усилий. Очки параметров могут быть восстановлены путем использования предметов или во время сна.</DefaultText>
+      <DefaultText>Очки параметров для [Color: Might]Силы[/Color], [Color: Speed]Скорости[/Color], и [Color: Intellect]Интеллекта[/Color] обозначают запасы ресурсов, которые вы можете потратить, чтобы активировать способности или увеличить свои шансы на успех в любой ситуации, требующей усилий. Очки параметров могут быть восстановлены путем использования предметов или во время сна.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>906</ID>
-      <DefaultText>Максимальный уровень усилия, которое данный персонаж может приложить к любому броску.\n\nЕсли атака, общение или предмет требуют броска, персонаж может приложить усилие, чтобы повысить шанс успеха. На каждый уровень усилия нужно 2 очка из резерва, относящегося к броску (вложенный в параметр талант снижает затраты).</DefaultText>
+      <DefaultText>Предельное значение усилия, которое данный персонаж может приложить при любой проверке.\n\nЕсли атака, общение или предмет требуют проверки, персонаж может приложить усилие, чтобы повысить шанс успеха. На приложение усилия нужно затратить очки параметра, отвечающего за проверку (связанный с параметром талант снижает затраты).</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>907</ID>
-      <DefaultText>[Color: TooltipFormatting]Максимальное усилие:[/Color] {0}</DefaultText>
+      <DefaultText>[Color: TooltipFormatting]Предельное усилие:[/Color] {0}</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -4566,12 +4566,12 @@
     </Entry>
     <Entry>
       <ID>913</ID>
-      <DefaultText>Количество шифров, которые данный персонаж может безопасно переносить. Если у персонажа имеется при себе больше шифров, энергии нуменер начинают взаимодействовать между собой и вызывают прогрессирующую шифровую болезнь.</DefaultText>
+      <DefaultText>Количество шифров, которое данный персонаж может безопасно переносить. Если у персонажа имеется при себе больше шифров, энергии нуменер начинают взаимодействовать между собой и вызывают прогрессирующую шифровую болезнь.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>914</ID>
-      <DefaultText>Состояния — временные изменения, влияющие на параметры и действия персонажа.</DefaultText>
+      <DefaultText>Эффекты — временные изменения, влияющие на параметры и действия персонажа.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -4581,7 +4581,7 @@
     </Entry>
     <Entry>
       <ID>916</ID>
-      <DefaultText>{0} — защита цели</DefaultText>
+      <DefaultText>{0} цели</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -4591,7 +4591,7 @@
     </Entry>
     <Entry>
       <ID>918</ID>
-      <DefaultText>Нападение врага</DefaultText>
+      <DefaultText>Нападение противника</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -4601,7 +4601,7 @@
     </Entry>
     <Entry>
       <ID>920</ID>
-      <DefaultText>Настройка персонажа</DefaultText>
+      <DefaultText>Создание персонажа</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -4616,17 +4616,17 @@
     </Entry>
     <Entry>
       <ID>923</ID>
-      <DefaultText>[Color: Might]Сила[/Color] означает физическое могущество и стойкость персонажа. Каждое очко [Color: Might]Силы[/Color] также увеличивает [Color: Health]Здоровье[/Color] на {0}.</DefaultText>
+      <DefaultText>[Color: Might]Сила[/Color] отражает физические возможности и стойкость персонажа. Каждое очко [Color: Might]Силы[/Color] увеличивает [Color: Health]Здоровье[/Color] на {0}.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>924</ID>
-      <DefaultText>[Color: Speed]Скорость[/Color] означает ловкость и быстроту реакции персонажа. Каждые {0} очка [Color: Speed]Скорости[/Color] увеличивают &lt;quad class="evasion"&gt;[Color: Speed]Уклонение[/Color] на {1}%.</DefaultText>
+      <DefaultText>[Color: Speed]Скорость[/Color] отражает ловкость и скорость реакции персонажа. Каждые {0} очка [Color: Speed]Скорости[/Color] увеличивают &lt;quad class="evasion"&gt; [Color: Speed]Уклонение[/Color] на {1}%.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>925</ID>
-      <DefaultText>[Color: Intellect]Интеллект[/Color] означает умственные способности, силу воли и личность персонажа. Каждые {0} очка [Color: Intellect]Интеллекта[/Color] увеличивают &lt;quad class="willpower"&gt;[Color: Intellect]Силу воли[/Color] на {1}%.</DefaultText>
+      <DefaultText>[Color: Intellect]Интеллект[/Color] отражает умственные способности, силу воли и личность персонажа. Каждые {0} очка [Color: Intellect]Интеллекта[/Color] увеличивают &lt;quad class="willpower"&gt; [Color: Intellect]Силу воли[/Color] на {1}%.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -4651,7 +4651,7 @@
     </Entry>
     <Entry>
       <ID>930</ID>
-      <DefaultText>Просмотрите и улучшите навыки, способности и параметры персонажа.</DefaultText>
+      <DefaultText>Просмотр и улучшение навыков, способностей и параметров персонажа.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -4676,22 +4676,22 @@
     </Entry>
     <Entry>
       <ID>935</ID>
-      <DefaultText>Конечная сложность: {0}</DefaultText>
+      <DefaultText>Итоговая сложность: {0}</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>936</ID>
-      <DefaultText>против {0}</DefaultText>
+      <DefaultText>Сравнивается с{0}</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>937</ID>
-      <DefaultText>Малая</DefaultText>
+      <DefaultText>Небольшая</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>938</ID>
-      <DefaultText>Средний</DefaultText>
+      <DefaultText>Средняя</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -4701,12 +4701,12 @@
     </Entry>
     <Entry>
       <ID>940</ID>
-      <DefaultText>Прибавка</DefaultText>
+      <DefaultText> Прибавка</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>941</ID>
-      <DefaultText>Штраф</DefaultText>
+      <DefaultText> Штраф</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -4721,7 +4721,7 @@
     </Entry>
     <Entry>
       <ID>944</ID>
-      <DefaultText>[Color: TooltipFormatting]Итого модификаторов защиты:[/Color] {0}</DefaultText>
+      <DefaultText>[Color: TooltipFormatting]Общий модификатор защиты:[/Color] {0}</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -4746,32 +4746,32 @@
     </Entry>
     <Entry>
       <ID>949</ID>
-      <DefaultText>[Color: TooltipFormatting]Итоговая цена:[/Color] {0} {1}</DefaultText>
+      <DefaultText>[Color: TooltipFormatting]Итоговые затраты:[/Color] {0} {1}</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>950</ID>
-      <DefaultText>[Color: TooltipFormatting]Цена использования:[/Color] {0} {1}</DefaultText>
+      <DefaultText>[Color: TooltipFormatting]Затраты на использование:[/Color] {0} {1}</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>951</ID>
-      <DefaultText>[Color: TooltipFormatting]Цена усилия ({0}):[/Color] {1} {2}</DefaultText>
+      <DefaultText>[Color: TooltipFormatting]Затраты на усилие ({0}):[/Color] {1} {2}</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>952</ID>
-      <DefaultText>[Color: TooltipFormatting]Цена повтора:[/Color] {0} {1}</DefaultText>
+      <DefaultText>[Color: TooltipFormatting]Затраты на повтор:[/Color] {0} {1}</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>953</ID>
-      <DefaultText>[Color: TooltipFormatting]Талант ({0}):[/Color] {1} к Итоговой цене</DefaultText>
+      <DefaultText>[Color: TooltipFormatting]Талант ({0}):[/Color] {1} к итоговым затратам</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>954</ID>
-      <DefaultText>[Color: NegativeModifier]При повреждении на усилие требуется по 1 очку больше за уровень![/Color]</DefaultText>
+      <DefaultText>[Color: NegativeModifier]Когда вы ослабленны, каждый пункт усилия стоит больше на 1![/Color]</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -4786,12 +4786,12 @@
     </Entry>
     <Entry>
       <ID>957</ID>
-      <DefaultText>Действующих состояний нет.</DefaultText>
+      <DefaultText>Действующих эффектов нет.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>958</ID>
-      <DefaultText>Цена: &lt;quad class="shins"&gt; {0}</DefaultText>
+      <DefaultText>Стоимость: &lt;quad class="shins"&gt; {0}</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -4806,22 +4806,22 @@
     </Entry>
     <Entry>
       <ID>961</ID>
-      <DefaultText>Уничтожить вещь</DefaultText>
+      <DefaultText>Уничтожить</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>962</ID>
-      <DefaultText>Если бросить эту вещь, она пропадет. Вы точно хотите это сделать?</DefaultText>
+      <DefaultText>Если бросить эту вещь, она пропадёт. Вы точно хотите это сделать?</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>963</ID>
-      <DefaultText>Уровень навыка в {0} увеличен на {1}. Текущий уровень навыка: {2}</DefaultText>
+      <DefaultText>Уровень навыка {0} увеличен на {1}. Текущий уровень навыка: {2}</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>964</ID>
-      <DefaultText>Уровень навыка в {0} уменьшен на {1}. Текущий уровень навыка: {2}</DefaultText>
+      <DefaultText>Уровень навыка {0} уменьшен на {1}. Текущий уровень навыка: {2}</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -4831,22 +4831,22 @@
     </Entry>
     <Entry>
       <ID>966</ID>
-      <DefaultText>Ближний бой</DefaultText>
+      <DefaultText>Оружие ближнего боя</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>967</ID>
-      <DefaultText>Дальний бой</DefaultText>
+      <DefaultText>Дистанционное оружие</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>968</ID>
-      <DefaultText>Малое оружие</DefaultText>
+      <DefaultText>Лёгкое оружие</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>969</ID>
-      <DefaultText>Тактическое оружие</DefaultText>
+      <DefaultText>Среднее оружие</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -4866,12 +4866,12 @@
     </Entry>
     <Entry>
       <ID>973</ID>
-      <DefaultText>[Color: Energy]Энергия[/Color]</DefaultText>
+      <DefaultText>[Color: Energy]энергетический[/Color]</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>974</ID>
-      <DefaultText>[Color: Chemical]Химия[/Color]</DefaultText>
+      <DefaultText>[Color: Chemical]химический[/Color]</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -4881,7 +4881,7 @@
     </Entry>
     <Entry>
       <ID>976</ID>
-      <DefaultText>(Артефакт)</DefaultText>
+      <DefaultText>(артефакт)</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -4896,7 +4896,7 @@
     </Entry>
     <Entry>
       <ID>979</ID>
-      <DefaultText>Атаки шифров</DefaultText>
+      <DefaultText>атаке с помощью шифров</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -4906,7 +4906,7 @@
     </Entry>
     <Entry>
       <ID>981</ID>
-      <DefaultText>Выберите местоположение цели</DefaultText>
+      <DefaultText>Выберите местоположение</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -4961,12 +4961,12 @@
     </Entry>
     <Entry>
       <ID>992</ID>
-      <DefaultText>{0} резерв {1} на {2}</DefaultText>
+      <DefaultText>{0} параметр {1} на {2}</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>993</ID>
-      <DefaultText>Разблокирована характеристика: {0}</DefaultText>
+      <DefaultText>Разблокирована Характеристика: {0}</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -4991,7 +4991,7 @@
     </Entry>
     <Entry>
       <ID>998</ID>
-      <DefaultText>Небоевые задания</DefaultText>
+      <DefaultText>не боевых проверках</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -5056,12 +5056,12 @@
     </Entry>
     <Entry>
       <ID>1011</ID>
-      <DefaultText>Осн. Поток меняется</DefaultText>
+      <DefaultText>Доминирующий Поток изменился</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>1012</ID>
-      <DefaultText>Все Потоки меняются</DefaultText>
+      <DefaultText>Все Потоки изменились</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -5076,7 +5076,7 @@
     </Entry>
     <Entry>
       <ID>1015</ID>
-      <DefaultText>Дитя</DefaultText>
+      <DefaultText>Ребёнок</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -5086,7 +5086,7 @@
     </Entry>
     <Entry>
       <ID>1017</ID>
-      <DefaultText>Выберите способ развития</DefaultText>
+      <DefaultText>Выберите вариант для продвижения</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -5111,27 +5111,27 @@
     </Entry>
     <Entry>
       <ID>1022</ID>
-      <DefaultText>Развитие персонажа</DefaultText>
+      <DefaultText>Продвижение персонажа</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>1023</ID>
-      <DefaultText>Выберите способность для улучшения: это добавит ей 15% меткости за каждый новый ее уровень.</DefaultText>
+      <DefaultText>Выберите способность для улучшения. Улучшение повышает шансы попадания на +15% за каждый уровень развития.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>1024</ID>
-      <DefaultText>Повысить макс. уровень усилия</DefaultText>
+      <DefaultText>Повысить предельное усилие</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>1025</ID>
-      <DefaultText>Повышение макс. уровня усилия позволить прилагать больше усилий на заданиях.</DefaultText>
+      <DefaultText>Повышение предельного усилия позволит прилагать большее усилие при проверках.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>1026</ID>
-      <DefaultText>Макс. уровень усилия: {0} &gt; {1}</DefaultText>
+      <DefaultText>Предельное усилие: {0} &gt; {1}</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -5151,7 +5151,7 @@
     </Entry>
     <Entry>
       <ID>1030</ID>
-      <DefaultText>Характеристика влияет на параметры и навыки.\nВыбрав, ее нельзя будет сменить.</DefaultText>
+      <DefaultText>Характеристика влияет на параметры и навыки.\nОднажды выбранная, она больше не может быть изменена.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -5216,7 +5216,7 @@
     </Entry>
     <Entry>
       <ID>1043</ID>
-      <DefaultText>Данную способность дает отражение в крепости.</DefaultText>
+      <DefaultText>Данную способность дает отражение в Лабиринте.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -5226,17 +5226,17 @@
     </Entry>
     <Entry>
       <ID>1045</ID>
-      <DefaultText>Тип</DefaultText>
+      <DefaultText>Тип -</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>1046</ID>
-      <DefaultText>Характеристика</DefaultText>
+      <DefaultText>Характеристика -</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>1047</ID>
-      <DefaultText>Направление</DefaultText>
+      <DefaultText>Склонность -</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -5266,12 +5266,12 @@
     </Entry>
     <Entry>
       <ID>1053</ID>
-      <DefaultText>Распределить очки резерва</DefaultText>
+      <DefaultText>Распределите очки парметров</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>1054</ID>
-      <DefaultText>Очки резерва нужны для применения способностей и приложения усилий.</DefaultText>
+      <DefaultText>Очки параметров нужны для активации способностей и приложения усилий.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -5281,7 +5281,7 @@
     </Entry>
     <Entry>
       <ID>1056</ID>
-      <DefaultText>Выбрать типовые способности</DefaultText>
+      <DefaultText>Выберите способности</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -5291,22 +5291,22 @@
     </Entry>
     <Entry>
       <ID>1058</ID>
-      <DefaultText>+1 [Color: Might]Сила[/Color] Резерв\n+1 [Color: Speed]Скорость[/Color] Резерв\n2 очка для любого резерва\nМожно выбрать 1 начальный оружейный навык\n1 способность на каждом уровне\nНа 1 уровне можно выбрать атлетический навык</DefaultText>
+      <DefaultText>+1 [Color: Might]Сила[/Color]\n+1 [Color: Speed]Скорость[/Color]\n2 очка для любых параметров\n+15 [Color: Health]Здоровья[/Color] на первом уровне\n+10 [Color: Health]Здоровья[/Color] на последующих уровнях\n1 начальный оружейный навык\n1 способность на каждом уровне\n1 атлетический навык на первом уровне</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>1059</ID>
-      <DefaultText>4 очка для любого резерва\n2 способности на 1 уровне\n1 способность на всех последующих уровнях\nНа каждом уровне можно выбирать исследовательский навык</DefaultText>
+      <DefaultText>4 очка для любых параметров\n+10 [Color: Health]Здоровья[/Color] на первом уровне\n+7 [Color: Health]Здоровья[/Color] на последующих уровнях\n2 способности на первом уровне\n1 способность на последующих уровнях\n1 навык исследования на каждом уровне</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>1060</ID>
-      <DefaultText>+2 [Color: Intellect]Интеллект[/Color] Резерв\n2 очка для любого резерва\nПо 2 способности на каждом уровне\nНа 1 уровне можно выбрать навык знания</DefaultText>
+      <DefaultText>+2 [Color: Intellect]Интеллект[/Color]\n2 очка для любых параметров\n+5 [Color: Health]Здоровья[/Color] на каждом уровне\n2 способности на каждом уровне\n1 навык знания на первом уровне</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>1061</ID>
-      <DefaultText>Выберите исследовательский навык</DefaultText>
+      <DefaultText>Выберите навык исследования</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -5316,12 +5316,12 @@
     </Entry>
     <Entry>
       <ID>1063</ID>
-      <DefaultText>Навыки необходимы на определенных испытаниях или дают иные преимущества на каждом уровне развития.</DefaultText>
+      <DefaultText>Навыки необходимы на определенных испытаниях или дают иные преимущества на каждом уровне подготовки.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>1064</ID>
-      <DefaultText>Только клинки могут развивать оружейные навыки.</DefaultText>
+      <DefaultText>Только Клинки могут получить оружейные навыки.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -5341,7 +5341,7 @@
     </Entry>
     <Entry>
       <ID>1068</ID>
-      <DefaultText>Резервы</DefaultText>
+      <DefaultText>Параметры</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -5356,7 +5356,7 @@
     </Entry>
     <Entry>
       <ID>1071</ID>
-      <DefaultText>Исслед. навык</DefaultText>
+      <DefaultText>Навык исследования</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -5366,7 +5366,7 @@
     </Entry>
     <Entry>
       <ID>1073</ID>
-      <DefaultText>Характер-ка</DefaultText>
+      <DefaultText>Характеристика</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -5411,7 +5411,7 @@
     </Entry>
     <Entry>
       <ID>1082</ID>
-      <DefaultText>Напасть</DefaultText>
+      <DefaultText>Атака</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -5431,32 +5431,32 @@
     </Entry>
     <Entry>
       <ID>1086</ID>
-      <DefaultText>Талант необходим на всех заданиях и испытаниях, где требуется данный параметр. За каждое очко таланта в данном параметре можно использовать по 1 уровню усилия, не затрагивая резерв параметра. Также талант снижает затраты на применение способностей, так что некоторые из них можно даже применять бесплатно.</DefaultText>
+      <DefaultText>Талант дает бонус при всех проверках и испытаниях, где используется его параметр. За каждое очко таланта можно использовать по одному усилию без затрат параметра. Также талант снижает затраты на активацию способностей, так что некоторые из них можно применять бесплатно.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>1087</ID>
-      <DefaultText>Способности позволяют выполнять в бою особые действия, приносят пользу при исследовании мира и при общении, или дают постоянные пассивные преимущества. На каждом уровне вы будете получать доступ к новым, более мощным способностям. У каждого типа персонажа свои способности.</DefaultText>
+      <DefaultText>Способности позволяют выполнять в бою особые действия, приносят пользу при исследовании мира и общении, или дают постоянные пассивные преимущества. На каждом уровне вы будете получать доступ к новым, более мощным способностям. У каждого Типа персонажа свои способности.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>1088</ID>
-      <DefaultText>Исследовательские навыки полезны на любых заданиях и испытаниях. Применяемый исследовательский навык добавляет шансов на успех. Некоторые ИН добавляют здоровья, позволяют носить больше шифров, и дают иные преимущества.</DefaultText>
+      <DefaultText>Навыки исследования полезны при различных проверках и испытаниях. Применение навыка исследования повышает шансы на успех. Некоторые навыки добавляют здоровья, позволяют носить больше шифров, и дают другие преимущества.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>1089</ID>
-      <DefaultText>Оружейные навыки позволяют лучше использовать оружие в бою и добавляют вам шансов поразить цель.</DefaultText>
+      <DefaultText>Оружейные навыки позволяют лучше использовать оружие в бою и повышают шансы поразить цель.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>1090</ID>
-      <DefaultText>Показывает, что не использует данный персонаж.\n[Color: Grey]Чтобы переместить, бросить или использовать предмет, перетаскивайте его мышью.[/Color]</DefaultText>
+      <DefaultText>Здесь находятся все предметы, которые есть у персонажа.\n[Color: Grey]Чтобы переместить, бросить или использовать предмет, перетаскивайте его мышью.[/Color]</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>1091</ID>
-      <DefaultText>Здесь показаны все вещи для заданий, что есть у группы.</DefaultText>
+      <DefaultText>Здесь находятся все предметы для заданий.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -5481,32 +5481,32 @@
     </Entry>
     <Entry>
       <ID>1096</ID>
-      <DefaultText>Сопротивление</DefaultText>
+      <DefaultText> Сопротивление</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>1097</ID>
-      <DefaultText>[Color: TooltipFormatting]+15% за уровень при атаках оружием ближнего боя. Неспособность дает -15% штрафа при атаках этого типа.[/Color]\n\nДля владения мечами, топорами или булавами нужна крепкая стойка и сильная рука.</DefaultText>
+      <DefaultText>[Color: TooltipFormatting]Каждый уровень подготовки дает бонус +15% при атаках оружием ближнего боя. Отсутствие навыка дает штраф -15% при атаках этого типа.[/Color]\n\nВладение мечами, топорами или булавами требует крепкой стойки и сильной руки.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>1098</ID>
-      <DefaultText>[Color: TooltipFormatting]+15% за уровень при атаках дальнобойным оружием. Неспособность дает -15% штрафа при атаках этого типа.[/Color]\n\nДля прицела из арбалетов, пистолетов и иного огнестрельного оружия нужен зоркий глаз и правильное дыхание.</DefaultText>
+      <DefaultText>[Color: TooltipFormatting]Каждый уровень подготовки дает бонус +15% при атаках дальнобойным оружием. Отсутствие навыка дает штраф -15% при атаках этого типа.[/Color]\n\nДля прицеливание из арбалетов, пистолетов и другого дистанционного оружия нужен зоркий глаз и правильное дыхание.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>1099</ID>
-      <DefaultText>[Color: TooltipFormatting]+15% за уровень при атаках легким оружием. Неспособность дает -15% штрафа при атаках этого типа.[/Color]\n\nКинжалы, дубинки и пистолеты требуют скорости и умного отвлечения соперника.</DefaultText>
+      <DefaultText>[Color: TooltipFormatting]Каждый уровень подготовки дает бонус +15% при атаках легким оружием. Отсутствие навыка дает штраф -15% при атаках этого типа.[/Color]\n\nЛегкое оружие, наподобие кинжалов, дубинок и пистолетов, требует быстрой реакции и умения отвлечь соперника.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>1100</ID>
-      <DefaultText>[Color: TooltipFormatting]+15% за уровень при атаках средним оружием. Неспособность дает -15% штрафа при атаках этого типа.[/Color]\n\nБаланс силы и скорости позволяет метко разить средними орудиями: арбалетами, винтовками и одноручным оружием для ближнего боя.</DefaultText>
+      <DefaultText>[Color: TooltipFormatting]Каждый уровень подготовки дает бонус +15% при атаках средним оружием. Отсутствие навыка дает штраф -15% при атаках этого типа.[/Color]\n\nБаланс силы и скорости позволяет метко разить средним оружием - арбалетами, винтовками и холодным одноручным оружием.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>1101</ID>
-      <DefaultText>[Color: TooltipFormatting]+15% за уровень при атаках тяжелым оружием. Неспособность дает -15% штрафа при атаках этого типа.[/Color]\n\nЧтобы нанести удар двуручным оружием ближнего боя или попасть в цель из некоего подобия пушки, нужна отличная координация и устойчивость.</DefaultText>
+      <DefaultText>[Color: TooltipFormatting]Каждый уровень подготовки дает бонус +15% при атаках тяжелым оружием. Отсутствие навыка дает штраф -15% при атаках этого типа.[/Color]\n\nЧтобы нанести удар двуручным оружием или попасть в цель из пушки, требуется отличная координация и устойчивость.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -5516,12 +5516,12 @@
     </Entry>
     <Entry>
       <ID>1103</ID>
-      <DefaultText>[Color: Miss]Напасть (без действия)[/Color]</DefaultText>
+      <DefaultText>[Color: Miss]Атака (без действия)[/Color]</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>1104</ID>
-      <DefaultText>[Color: Miss]Напасть (слишком далеко)[/Color]</DefaultText>
+      <DefaultText>[Color: Miss]Атака (слишком далеко)[/Color]</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -5541,17 +5541,17 @@
     </Entry>
     <Entry>
       <ID>1108</ID>
-      <DefaultText>Выбрать врага</DefaultText>
+      <DefaultText>Выбрать противника</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>1109</ID>
-      <DefaultText>[Color: Speed]Уклонение[/Color]</DefaultText>
+      <DefaultText>[Color: Speed] Уклонение[/Color]</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>1110</ID>
-      <DefaultText>[Color: Intellect]Сила воли[/Color]</DefaultText>
+      <DefaultText>[Color: Intellect] Сила воли[/Color]</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -5561,12 +5561,12 @@
     </Entry>
     <Entry>
       <ID>1112</ID>
-      <DefaultText>Уклонение добавляет шансов увернуться от ударов оружием.</DefaultText>
+      <DefaultText>Уклонение дает шанс увернуться от обычных атак.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>1113</ID>
-      <DefaultText>Сила воли добавляет шансов не пострадать от эзотерических атак.</DefaultText>
+      <DefaultText>Сила воли дает шанс не пострадать от эзотерических атак.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -5601,7 +5601,7 @@
     </Entry>
     <Entry>
       <ID>1120</ID>
-      <DefaultText>Напасть</DefaultText>
+      <DefaultText>Атака</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -5676,7 +5676,7 @@
     </Entry>
     <Entry>
       <ID>1135</ID>
-      <DefaultText>О персонаже</DefaultText>
+      <DefaultText>Персонаж</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -5691,7 +5691,7 @@
     </Entry>
     <Entry>
       <ID>1138</ID>
-      <DefaultText>Карта местности</DefaultText>
+      <DefaultText>Карта</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -5941,7 +5941,7 @@
     </Entry>
     <Entry>
       <ID>1188</ID>
-      <DefaultText>Осмотр</DefaultText>
+      <DefaultText>Осмотреть предмет</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -5966,12 +5966,12 @@
     </Entry>
     <Entry>
       <ID>1193</ID>
-      <DefaultText>&lt;quad class="action"&gt;Расходует действие</DefaultText>
+      <DefaultText>&lt;quad class="action"&gt; Расходует действие</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>1194</ID>
-      <DefaultText>&lt;quad class="move"&gt;Расходует движение</DefaultText>
+      <DefaultText>&lt;quad class="move"&gt; Расходует движение</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -5986,7 +5986,7 @@
     </Entry>
     <Entry>
       <ID>1197</ID>
-      <DefaultText>Защитник:</DefaultText>
+      <DefaultText>Цель может избежать воздействия при помощи</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -6021,17 +6021,17 @@
     </Entry>
     <Entry>
       <ID>1204</ID>
-      <DefaultText>Урон от оружия: {0}</DefaultText>
+      <DefaultText>урон от оружия {0}</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>1205</ID>
-      <DefaultText>Урон от оружия</DefaultText>
+      <DefaultText>урон от оружия</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>1206</ID>
-      <DefaultText>{0} {1} {2} урон</DefaultText>
+      <DefaultText>урон {0} ({1}, {2})</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -6066,7 +6066,7 @@
     </Entry>
     <Entry>
       <ID>1213</ID>
-      <DefaultText>Исцеляет {0} очков из {1}</DefaultText>
+      <DefaultText> восстанавливает {0} {1}</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -6101,12 +6101,12 @@
     </Entry>
     <Entry>
       <ID>1220</ID>
-      <DefaultText>Эффекты ослаблены на {0} {1}</DefaultText>
+      <DefaultText>{1} {0} снимает негативное воздействие</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>1221</ID>
-      <DefaultText>Цена брони:</DefaultText>
+      <DefaultText>Штраф при ношении брони:</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -6146,7 +6146,7 @@
     </Entry>
     <Entry>
       <ID>1229</ID>
-      <DefaultText>Дальность используемого оружия</DefaultText>
+      <DefaultText>радиус действия используемого оружия</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -6216,7 +6216,7 @@
     </Entry>
     <Entry>
       <ID>1243</ID>
-      <DefaultText>Оказавшись в трудной ситуации, вы можете потратить очки силы, скорости или интеллекта, чтобы повысить свои шансы на успех. Это действие называется "усилие".\n\nЧтобы передвинуть чашу, вы можете потратить силу — но помните, что применение усилий не гарантирует успех.</DefaultText>
+      <DefaultText>Вам предстоит выполнить свою первую задачу. У вас есть три параметра - &lt;quad class="mightpool"&gt;[Color: Might]Сила[/Color], &lt;quad class="speedpool"&gt;[Color: Speed]Скорость[/Color] и &lt;quad class="intellectpool"&gt;[Color: Intellect]Интеллект[/Color] - вы можете потратить их, чтобы повысить свои шансы на успех. Это действие называется "усилие".\n\nЧтобы передвинуть чашу, вы можете потратить Силу — но помните, что применение усилий не гарантирует успех.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -6246,7 +6246,7 @@
     </Entry>
     <Entry>
       <ID>1249</ID>
-      <DefaultText>Вы или ваш спутник теперь имеете преимущество в одном из параметров, что дает скидку при использовании очков этого параметра. Каждый уровень преимущества снижает цену активации способности на 1. Все оставшиеся очки дают 1 бесплатный уровень усилий, что повышает ваши шансы на успех.</DefaultText>
+      <DefaultText>Вы или ваш спутник имеете талант в одном из параметров, что дает скидку при использовании очков этого параметра. Каждый уровень таланта снижает затраты на активацию способности или приложение усилия на 1.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -6321,7 +6321,7 @@
     </Entry>
     <Entry>
       <ID>1264</ID>
-      <DefaultText>Напасть</DefaultText>
+      <DefaultText>Атака</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -6381,7 +6381,7 @@
     </Entry>
     <Entry>
       <ID>1276</ID>
-      <DefaultText>Персонаж не может двигаться и совершать действия.</DefaultText>
+      <DefaultText>персонаж не может двигаться и совершать действия</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -6406,7 +6406,7 @@
     </Entry>
     <Entry>
       <ID>1281</ID>
-      <DefaultText>Выбрать фокус</DefaultText>
+      <DefaultText>Выберите Склонность</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -6416,17 +6416,17 @@
     </Entry>
     <Entry>
       <ID>1283</ID>
-      <DefaultText>Маленький</DefaultText>
+      <DefaultText>маленький радиус</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>1284</ID>
-      <DefaultText>Крупный</DefaultText>
+      <DefaultText>большой радиус</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>1285</ID>
-      <DefaultText>Все</DefaultText>
+      <DefaultText>все</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -6486,7 +6486,7 @@
     </Entry>
     <Entry>
       <ID>1297</ID>
-      <DefaultText>Доминирующий поток: {0}</DefaultText>
+      <DefaultText>Доминирующий Поток: {0}</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -6501,7 +6501,7 @@
     </Entry>
     <Entry>
       <ID>1300</ID>
-      <DefaultText>[Color: TooltipFormatting]Опыта до следующего повышения:[/Color] {0}</DefaultText>
+      <DefaultText>[Color: TooltipFormatting]Опыта до следующего продвижения:[/Color] {0}</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -6616,17 +6616,17 @@
     </Entry>
     <Entry>
       <ID>1323</ID>
-      <DefaultText>[Color: TooltipFormatting]Личный предмет — заблокировано[/Color]</DefaultText>
+      <DefaultText>[Color: TooltipFormatting]Приращение — заблокировано[/Color]</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>1324</ID>
-      <DefaultText>Вы не можете ничего поместить в эту ячейку. Повысьте уровень подготовки в навыке "Концентрация", чтобы использовать дополнительные личные предметы.</DefaultText>
+      <DefaultText>Вы не можете ничего поместить в эту ячейку. Повысьте уровень подготовки в навыке "Концентрация", чтобы использовать дополнительные Приращения.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>1325</ID>
-      <DefaultText>[Color: TooltipFormatting]Личный предмет — использование[/Color]</DefaultText>
+      <DefaultText>[Color: TooltipFormatting]Приращение — использование[/Color]</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -6636,7 +6636,7 @@
     </Entry>
     <Entry>
       <ID>1327</ID>
-      <DefaultText>[Color: TooltipFormatting]Личный предмет — мастерство[/Color]</DefaultText>
+      <DefaultText>[Color: TooltipFormatting]Приращение — мастерство[/Color]</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -6656,7 +6656,7 @@
     </Entry>
     <Entry>
       <ID>1331</ID>
-      <DefaultText>Показать обзор текущей области.</DefaultText>
+      <DefaultText>Просмотр карты текущей области.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -6686,7 +6686,7 @@
     </Entry>
     <Entry>
       <ID>1337</ID>
-      <DefaultText>Не враг</DefaultText>
+      <DefaultText>Не противник</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -6706,7 +6706,7 @@
     </Entry>
     <Entry>
       <ID>1341</ID>
-      <DefaultText>Выбрать врага</DefaultText>
+      <DefaultText>Выбрать противника</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -6716,7 +6716,7 @@
     </Entry>
     <Entry>
       <ID>1343</ID>
-      <DefaultText>Исцелено {0}</DefaultText>
+      <DefaultText>Восстановлено {0}</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -6731,7 +6731,7 @@
     </Entry>
     <Entry>
       <ID>1346</ID>
-      <DefaultText>Макс. усилие</DefaultText>
+      <DefaultText>Предельное усилие</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -6741,12 +6741,12 @@
     </Entry>
     <Entry>
       <ID>1348</ID>
-      <DefaultText>Состояния</DefaultText>
+      <DefaultText>Эффекты</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>1349</ID>
-      <DefaultText>Временные условия, которые влияют на параметры и действия персонажа.</DefaultText>
+      <DefaultText>Временные состояния, которые влияют на параметры и действия персонажа.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -6766,7 +6766,7 @@
     </Entry>
     <Entry>
       <ID>1353</ID>
-      <DefaultText>Описание: {0}</DefaultText>
+      <DefaultText>Характеристика: {0}</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -6776,7 +6776,7 @@
     </Entry>
     <Entry>
       <ID>1355</ID>
-      <DefaultText>Направление: {0}</DefaultText>
+      <DefaultText>Склонность: {0}</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -6791,7 +6791,7 @@
     </Entry>
     <Entry>
       <ID>1358</ID>
-      <DefaultText>Активно {0} ночлегов</DefaultText>
+      <DefaultText>Активно в течение {0} дней</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -6941,12 +6941,12 @@
     </Entry>
     <Entry>
       <ID>1388</ID>
-      <DefaultText>При атаке можно использовать Усилие, чтобы увеличить шанс удара. Как и в других заданиях, Усилие повышает ваши шансы на 20%, забирая одно очко из Резерва параметров. При безоружной атаке тратится Скорость, но при использовании оружия и Способностей вместо нее могут расходоваться Сила или Интеллект.</DefaultText>
+      <DefaultText>При атаке можно использовать усилие, чтобы увеличить шанс нанести успешный удар. Как и в других ситуациях, усилие повышает ваши шансы на 20%, отнимая одно очко от соответствующего параметра. При безоружной атаке тратится Скорость, но при использовании оружия и способностей вместо нее могут расходоваться Сила или Интеллект.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>1389</ID>
-      <DefaultText>Когда вы прилагаете Усилие во время атаки, также повышается урон, который вы наносите. Разные виды оружия и Способностей приносят разное количество бонусов от использования Усилия.</DefaultText>
+      <DefaultText>Когда вы прилагаете усилие во время атаки, то также повышается и урон, который вы наносите. Разные виды оружия и способностей получают разную величину бонусов от использования усилия.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -6956,22 +6956,22 @@
     </Entry>
     <Entry>
       <ID>1391</ID>
-      <DefaultText>Состояния — это временные обстоятельства или положения, которые могут повысить или понизить параметры персонажа. Скорбь наложила состояние на оставшееся Отражение. Вы не можете избавиться от состояния, зато можете найти другой способ справиться с ним.</DefaultText>
+      <DefaultText>Эффекты — это временные состояния или статусные эффекты, которые могут повышать или понижать параметры персонажа. Скорбь наложила эффект на оставшееся Отражение. Вы не можете избавиться от эффекта, зато можете найти другой способ справиться с ним.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>1392</ID>
-      <DefaultText>Параметр Броня &lt;quad class="armor"&gt;уменьшает [DamageIcon: Physical]Физический урон. Состояние, которое Скорбь наложила на этого персонажа, усилило его &lt;quad class="armor"&gt;Броню на 10. Это значит, что он будет поглощать по 10 очков урона с каждой атаки.\n\nБроня этого &lt;quad class="armor"&gt;Отражения теперь слишком сильна, и вы не сможете побороть его без оружия.</DefaultText>
+      <DefaultText>Параметр &lt;quad class="armor"&gt; Броня уменьшает [DamageIcon: Physical] физический урон. Эффект, который Скорбь наложила на этого персонажа, усилил его &lt;quad class="armor"&gt; Броню на 10. Это значит, что он будет поглощать по 10 очков урона с каждой атаки.\n\n&lt;quad class="armor"&gt; Броня этого Отражения теперь слишком сильна, и вы не сможете справиться с ним без оружия.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>1393</ID>
-      <DefaultText>Параметр &lt;quad class="resistance"&gt;Сопротивление работает так же, как и &lt;quad class="armor"&gt;Броня, только уменьшает урон от [DamageIcon: Energy][Color: Energy]Energy[/Color], [DamageIcon: Chemical][Color: Chemical]Химических[/Color], [DamageIcon: Mental][Color: Mental]Ментальных[/Color] и [DamageIcon: Transdimensional][Color: Transdimensional]Межпространственных[/Color] источников.</DefaultText>
+      <DefaultText>Параметр &lt;quad class="resistance"&gt; Сопротивление работает так же, как и &lt;quad class="armor"&gt; Броня, только уменьшает урон от [DamageIcon: Energy][Color: Energy]энергетических[/Color], [DamageIcon: Chemical][Color: Chemical]химических[/Color], [DamageIcon: Mental][Color: Mental]ментальных[/Color] и [DamageIcon: Transdimensional][Color: Transdimensional]межпространственных[/Color] атак.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>1394</ID>
-      <DefaultText>Чтобы подобрать добычу, нажмите [Control: lmb] возле подсвечивающегося предмета. Затем нажмите "Взять все" или щелкните дважды по каждому отдельному предмету.</DefaultText>
+      <DefaultText>Чтобы подобрать предмет, нажмите [Control: lmb] на подсвеченном предмете. Затем нажмите "Взять все" или щелкните дважды по каждому предмету.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -6996,27 +6996,27 @@
     </Entry>
     <Entry>
       <ID>1399</ID>
-      <DefaultText>Чтобы легче было передвинуть чашу перед вами, нажмите [Control: lmb], чтобы потратить силу на усилие большего уровня. Если не получится, то ничего страшного. В игре Torment после неудачи иногда происходит нечто интересное.</DefaultText>
+      <DefaultText>Для облегчения задачи по передвежению чаши, нажмите [Control: lmb], чтобы потратить Силу на приложение большего усилия. Не расстраивайтесь, если у вас не получиться. В игре Torment даже неудачи часто приводят к интересным последствиям.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>1400</ID>
-      <DefaultText>Вы подобрали несколько предметов и оборудование. Чтобы использовать их в полной мере, их необходимо просмотреть, надеть их или раздать членам вашей команды. Чтобы просмотреть инвентарь, нажмите кнопку Инвентаря в правом нижнем углу элементов HUD.</DefaultText>
+      <DefaultText>Вы подобрали несколько предметов и снаряжение. Чтобы извлечь пользу от их наличия, вам будет необходимо их осмотреть, экипировать или распределить между членам вашей команды. Чтобы просмотреть Инвентарь, нажмите кнопку Инвентаря в правом нижнем углу элементов HUD.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>1401</ID>
-      <DefaultText>Вы подобрали несколько предметов и оборудование. Чтобы использовать их в полной мере, их необходимо просмотреть, надеть их или раздать членам вашей команды. Чтобы просмотреть Инвентарь, нажмите [Control: dpadup].</DefaultText>
+      <DefaultText>Вы подобрали несколько предметов и снаряжение. Чтобы извлечь пользу от их наличия, вам будет необходимо их осмотреть, экипировать или распределить между членам вашей команды. Чтобы просмотреть Инвентарь, нажмите [Control: dpadup].</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>1402</ID>
-      <DefaultText>В Инвентаре вы можете просматривать, надевать предметы, а также управлять ими. В нем есть несколько разделов.</DefaultText>
+      <DefaultText>В Инвентаре вы можете совершать различные действия с предметами и снаряжением. Интвентарь имеет несколько секций.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>1403</ID>
-      <DefaultText>В последнем разделе хранятся имеющиеся у вас шифры и отображается ваш Предел Шифров.\n\nШифры, отображающиеся во внутренних кругах и подсвечивающиеся синим, безопасны. Шифры, находящиеся во внешнем круге и подсвечивающиеся оранжевым, выходят за Пределы Шифров и оказывают негативное влияние, пока вы их носите. Вы можете их продать, выбросить или передать другому члену команды, чтобы соблюсти свой Предел Шифров.</DefaultText>
+      <DefaultText>В последней секции хранятся имеющиеся у вас шифры и отображается ваш Лимит шифров.\n\nШифры, расположенные во внутренних кругах и подсвечивающиеся синим, не представляют опасности. Шифры, расположенные во внешнем круге и подсвечивающиеся оранжевым, превышают ваш Лимит шифров и оказывают негативное влияние, пока вы их носите. Чтобы не выходить за свой Лимит шифров, вы можете продать шифры, выбросить или передать другому члену команды.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -7031,12 +7031,12 @@
     </Entry>
     <Entry>
       <ID>1406</ID>
-      <DefaultText>Во время кризиса нельзя передавать друг другу вещи.</DefaultText>
+      <DefaultText>Во время кризиса нельзя передавать друг другу предметы.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>1407</ID>
-      <DefaultText>Вы только что обзавелись первыми спутниками. Спутники будут сопровождать Последнего Отверженного/Последнюю Отверженную, и ими можно управлять во время кризиса. Они могут рассказать вам о своем прошлом, и вы можете использовать их Способности и Навыки\n\nУ ваших спутников свои собственные цели и разные характеры, и они могут уйти от вас, присмотревшись к вашим поступкам. В путешествии по Девятому Миру вы найдете и других спутников.</DefaultText>
+      <DefaultText>Вы только что обзавелись первыми спутниками. Спутники будут сопровождать вас, и ими можно управлять во время кризиса. Они могут рассказать вам о своем прошлом, и вы можете использовать их способности и навыки.\n\nУ ваших спутников свои собственные цели и разные характеры, и они могут уйти от вас, присмотревшись к вашим поступкам. В путешествии по Девятому Миру вы найдете и других спутников.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -7046,32 +7046,32 @@
     </Entry>
     <Entry>
       <ID>1409</ID>
-      <DefaultText>С их помощью вы сможете исследовать окружающий мир: находить предметы, оборудование и другие полезные вещи. Когда вы будете готовы, покиньте Разрушенный Купол, воспользовавшись лестницей в северо-восточной части.</DefaultText>
+      <DefaultText>Воспользуйтесь возможностью исследовать окружающий мир - вы можете найти предметы, снаряжение и другие полезные вещи. Когда будете готовы, покиньте Разрушенный Купол, воспользовавшись лестницей в северо-восточной части.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>1410</ID>
-      <DefaultText>Если в окне Усилия выбрать портрет спутника, то он сможет помочь Последнему Отверженному/Последней Отверженной с некоторыми заданиями. При этом будут уменьшаться Резервы параметров вашего спутника. К тому же у него могут быть Навыки, Способности и характеристика, благодаря которым он легче справится с заданием.\n\nСпутники не могут помогать вам во время кризиса, а могут только использовать свои параметры в свой ход.</DefaultText>
+      <DefaultText>Если в окне усилия выбрать портрет спутника, то он сможет помочь вам с некоторыми проверками. При этом будут уменьшаться параметры вашего спутника. К тому же у него могут быть навыки, способности и Характеристика, благодаря которым он легче справится с проверкой.\n\nСпутники не могут помогать вам во время кризиса, а могут только использовать свои параметры в свой ход.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>1411</ID>
-      <DefaultText>Вы получили Прикрепленный предмет. Эти предметы являются могущественными артефактами-нуменерами и назначаются в ячейки для Прикрепленных предметов в окне Инвентаря. Когда они надеты, они встраиваются прямо в ваш скелет, нервную системы или органы и оказывают положительный эффект, но такое внедрение может иметь и негативные последствия.</DefaultText>
+      <DefaultText>Вы получили Приращение. Эти предметы являются могущественными артефактами-нуменерами и помещаются в ячейки для Приращений в окне экипировки. Когда они надеты, они встраиваются прямо в ваш скелет, нервную систему или органы, обеспечивая значительные положительные эффекты, но их агрессивная природа также вызывает и негативные последствия.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>1412</ID>
-      <DefaultText>Руководство: связанные предметы</DefaultText>
+      <DefaultText>Руководство: приращения</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>1413</ID>
-      <DefaultText>В кризисе персонажи совершают ходы в соответствии с очередностью, показанной в верхней части экрана. Очередность определяется Инициативностью каждого из персонажей. (Вы можете увеличить счет, развивая Навык Инициативности).</DefaultText>
+      <DefaultText>В кризисе персонажи совершают ходы в соответствии с очередностью, показанной в верхней части экрана. Очередность определяется Инициативой каждого из персонажей. Вы можете повлиять на очередность, развивая навык Инициатива.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>1414</ID>
-      <DefaultText>Не со всеми врагами нужно применять грубую силу. Попытайтесь использовать находящиеся поблизости нуменеры или напрямую обратиться к Корро.\n\nСпособ прохождения кризиса вы выбираете самостоятельно, но ваши действия приведут к определенным последствиям.</DefaultText>
+      <DefaultText>Не со всеми противниками нужно применять грубую силу. Попытайтесь использовать находящиеся поблизости нуменеры или напрямую обратиться к Корро.\n\nСпособ прохождения кризиса вы выбираете самостоятельно, но ваш выбор может привести к разным последствиям.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -7081,12 +7081,12 @@
     </Entry>
     <Entry>
       <ID>1416</ID>
-      <DefaultText>Избавившись от Корро и его бандитов, вы можете продолжить путь к Утесам Сагуса. Чтобы добраться до города, перейдите мост в северной части платформы.</DefaultText>
+      <DefaultText>Избавившись от Корро и его подручных, вы можете продолжить путь к Утесам Сагуса. Чтобы добраться до города, перейдите мост в северной части платформы.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>1417</ID>
-      <DefaultText>Прежде чем идти, стоит немного отдохнуть и обыскать тела побежденных врагов, забрав снаряжение и ценные вещи.</DefaultText>
+      <DefaultText>Прежде чем уйти, вы можете обыскать тела побежденных противников, забрав снаряжение и ценные вещи.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -7116,37 +7116,37 @@
     </Entry>
     <Entry>
       <ID>1423</ID>
-      <DefaultText>Чтобы легче было передвинуть чашу перед вами, нажмите [Control: leftstick], чтобы потратить силу на усилие большего уровня. Если не получится, то ничего страшного. В игре Torment после неудачи иногда происходит нечто интересное.</DefaultText>
+      <DefaultText>Чтобы легче было передвинуть чашу перед вами, нажмите [Control: leftstick], чтобы потратить Силу на приложение большего усилия. Не расстраивайтесь, если у вас не получиться. В игре Torment даже неудачи часто приводят к интересным последствиям.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>1424</ID>
-      <DefaultText>Используйте Очки Опыта, нажав кнопку [Control: y].\n\n Вы можете выбрать между 4 Шагами улучшений. Собрав все 4 шага, вы повысите свой Уровень. Вам станут доступны новые Способности и другие бонусы.</DefaultText>
+      <DefaultText>Используйте Очки Опыта, нажав кнопку [Control: y].\n\n Вы можете выбрать получить четыре Продвижения. Получив все четыре Продвижения, вы повысите свой Уровень. Вам станут доступны новые способности и другие бонусы.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>1425</ID>
-      <DefaultText>Первый раздел — Багаж. В нем отображаются все предметы, имеющиеся у выбранного персонажа. В Багаже хранятся холодное оружие и оружие дальнего боя, щиты, броня, трофеи, например кольца и амулеты, и Прикрепленные предметы.</DefaultText>
+      <DefaultText>Первая секция - это Снаряжение. Здесь отображаются все предметы, которые использует данный персонаж. Снаряжение включает в себя оружие ближнего и дальнего боя, щиты, броню или одежду, украшения типа колец или амулетов, и Приращения.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>1426</ID>
-      <DefaultText>В Рюкзаке находятся предметы, которые надеты на выбранном персонаже. Вы можете надевать, осматривать и перемещать предметы из него.</DefaultText>
+      <DefaultText>Вторая секция - это Рюкзак. Здесь находятся все предметы, которые несет данный персонаж. Вы можете надевать, осматривать и перемещать предметы.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>1427</ID>
-      <DefaultText>В Предметах для Заданий находятся особые предметы, необходимые для выполнения заданий. Предметы для Заданий нельзя выкинуть или продать, поэтому вам не придется беспокоиться об их случайной утрате.</DefaultText>
+      <DefaultText>Третья секция - это Предметы для заданий. Здесь находятся особые предметы необходимые для выполнения заданий. Предметы для заданий нельзя выкинуть или продать, поэтому вам не придется беспокоиться об их случайной утрате.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>1428</ID>
-      <DefaultText>Одновременно могут быть надеты только 2 Прикрепленных предмета. Если ваш Навык Сосредоточенности на уровне Новичка, то оба предмета оказывают негативное воздействие. Если ваш уровень Подготовленный, вы не чувствуете воздействия первого предмета. Если ваш уровень Специалист, вы не чувствуете воздействия обоих Прикрепленных предметов. Если ваш уровень Неспособность, то одна из ячеек для Прикрепленных предметов будет заблокирована, пока вы не разовьете Навык Сосредоточенности.</DefaultText>
+      <DefaultText>Одновременно могут быть надеты только два Приращения. Если ваш навык Концентрация на начальном уровне, то оба предмета оказывают негативное воздействие. Если у вас опытный уровень, то вы не чувствуете воздействия одного предмета. Если ваш уровень экспертный, вы не чувствуете негативных воздействия обоих Приращениц. Если у вас вообще нет этого навыка, то одна из ячеек для Приращений будет заблокирована, пока вы не разовьете навык Концентрация.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>1429</ID>
-      <DefaultText>Сделанный вами выбор в воспоминаниях и зеркале начал оказывать влияние на персонажа, но у вас есть возможность определить некоторые параметры. Во-первых, вы можете изменить Тип. Тип определяет Способности и Навыки, которые вы сможете получить по мере прохождения игры.</DefaultText>
+      <DefaultText>Сделанный вами в воспоминаниях и зеркале выбор начал оказывать влияние на персонажа, но у вас есть возможность определить некоторые параметры. Во-первых, вы можете изменить Тип. Тип определяет способности и навыки, которые вы сможете получить по мере прохождения игры.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -7156,22 +7156,22 @@
     </Entry>
     <Entry>
       <ID>1431</ID>
-      <DefaultText>Резервы параметров — это ресурсы, которые можно использовать, чтобы приложить Усилие или активировать Способности. Очки можно распределять по своему усмотрению. Клинки предпочитают такие способности, как Мощь и/или Скорость, тогда как нано отдают предпочтение Интеллекту. Способности ключей должны быть сбалансированными.</DefaultText>
+      <DefaultText>Параметры — это ресурсы, которые можно использовать, чтобы приложить усилие или активировать способность. Очки можно распределять по своему усмотрению. Клинки отдают предпочтение Силе или Скорости, а Нано больше склоняются к Интеллекту. Ключи обычно имеют сбалансированные параметры.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>1432</ID>
-      <DefaultText>Разблокированные в зависимости от Типа, Способности могут представлять собой активные действия (например, атаки или эзотерии, напоминающие заклинания) либо особые пассивные эффекты.</DefaultText>
+      <DefaultText>Набор способностей зависит от Типа и представляет собой или активные действия (например, атаки или эзотерии, напоминающие заклинания), или особые пассивные эффекты.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>1433</ID>
-      <DefaultText>Большинство Навыков увеличивает вероятность успешного выполнения определенных действий и задач, но некоторые Навыки дают другие пассивные бонусы. Каждый Навык начинает совершенствоваться на [Skill: Untrained]уровне Новичка и может улучшиться до уровней [Skill: Trained]Подготовленного и [Skill: Specialized]Специалиста, что позволяет получать больше бонусов на каждом уровне.\n\nХарактеристики часто задерживают Навыки на [Skill: Inability]уровне Неспособности, что означает ухудшение. В случае улучшения Навыки возвращаются на уровень Новичка.</DefaultText>
+      <DefaultText>Большинство навыков увеличивает вероятность успешного выполнения определенных действий и задач, но некоторые навыки дают пассивные бонусы. Каждый навык изначально находиться на начальном [Skill: Untrained] уровне и может быть улучшен до опытного [Skill: Trained] и экспертного [Skill: Specialized] уровня, что позволит получать больше бонусов.\n\nВ зависимости от Типа и Характеристики персонаж может вообще не обладать [Skill: Inability] некоторыми навыками, что приводит к штрафам. При обучении таким навыкам, они становятся начального уровня.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>1434</ID>
-      <DefaultText>Навыки обращения с оружием повышают вероятность нанесения удара оружием определенного типа. Как и другие Навыки, они начинают совершенствоваться на [Skill: Untrained]уровне Новичка и могут улучшиться до уровней [Skill: Trained]Подготовленного и [Skill: Specialized]Специалиста.</DefaultText>
+      <DefaultText>Оружейные навыки повышают вероятность нанесения удара оружием определенного типа. Как и остальные навыки, они начинаются с начального [Skill: Untrained] уровня и могут быть улучшены до опытного [Skill: Trained] и экспертного [Skill: Specialized] уровня.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -7186,22 +7186,22 @@
     </Entry>
     <Entry>
       <ID>1437</ID>
-      <DefaultText>Каллистеж — это пространственный слой, который одновременно существует в нескольких реальностях. Она может использовать эту межпространственную энергию для перемещения из одного места в другое с помощью Способности Пространственного Наложения.\n\nТелепортация использует &lt;quad class="move"&gt; Движение вместо &lt;quad class="action"&gt; Действия, благодаря чему она может активировать Способность и начать делать что-то другое.</DefaultText>
+      <DefaultText>Каллистеж — пространственная оболочка, которая одновременно существует в нескольких реальностях. Она может использовать межпространственную энергию для перемещения из одного места в другое с помощью способности "Пространственное Совмещение".\n\nТелепортация расходует &lt;quad class="move"&gt; движение вместо &lt;quad class="action"&gt; действия. Благодаря этому Каллистеж может активировать способность и сделать что-то еще.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>1438</ID>
-      <DefaultText>Тело Алигерна покрыто странными татуировками, которые перемещаются с места на место. Он может использовать способность живых татуировок отделять от себя нить чернил, что дает ему [FettleIcon: Status]состояние живых татуировок. Когда это состояние активно, он получает больше бонусов за счет последовательного выполнения схожих действий (атаки, исцеления, применения других состояний).  Выполнение другого действия прерывает последовательность и снимает состояние.\n\nЭта Способность использует &lt;quad class="move"&gt; Движение вместо &lt;quad class="action"&gt; Действия, благодаря чему он может активировать Способность и начать делать что-то другое.</DefaultText>
+      <DefaultText>Тело Алигерна покрыто странными перемещающимися татуировками. Он может использовать способность "Живые татуировки" и отделить от себя нить чернил, что дает ему эффект [FettleIcon: Status] Живые татуировки. Пока этот эффект действует, Алигерн получает бонусы за счет последовательного выполнения схожих действий (атаки, лечение, использование других эффектов). Выполнение разных действий прерывает последовательность и снимает эффект.\n\nЭта способность расходует &lt;quad class="move"&gt; движение вместо &lt;quad class="action"&gt; действия. Благодаря этому Алигерн может активировать способность и сделать что-то еще.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>1439</ID>
-      <DefaultText>Чтобы задействовать Способность, используйте [Control: lmb] на ее значке на панели Способностей над изображениями членов группы.</DefaultText>
+      <DefaultText>Чтобы задействовать способность, используйте [Control: lmb] на ее значке на панели способностей над изображениями членов группы.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>1440</ID>
-      <DefaultText>Чтобы задействовать Способность, нажмите [Control: lt], чтобы вызвать радиальное меню Способности.</DefaultText>
+      <DefaultText>Чтобы задействовать способность, нажмите [Control: lt], чтобы вызвать радиальное меню способности.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -7266,7 +7266,7 @@
     </Entry>
     <Entry>
       <ID>1453</ID>
-      <DefaultText>Главные Потоки поменяли положение.</DefaultText>
+      <DefaultText>Доминирующие Потоки поменялись местами</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -7276,12 +7276,12 @@
     </Entry>
     <Entry>
       <ID>1455</ID>
-      <DefaultText>Во время прохождения кризиса члены группы могут изменять только предметы в своих ячейках для оружия или снаряжения для левой руки и только во время своего хода.</DefaultText>
+      <DefaultText>Во время прохождения кризиса члены группы могут изменять только предметы в своих слотах для оружия или снаряжения для левой руки, и только во время своего хода.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>1456</ID>
-      <DefaultText>Предел Шифров персонажа — это установленное количество шифров, которое они могут безопасно носить.\n\nВ разделе "Шифр" экрана "Инвентарь" незаблокированные слоты во внутренних кольцах (выделены синим цветом, если они заполнены) содержат шифры, которые можно использовать, избегая при этом шифровой болезни. Слоты в наружном кольце (выделены оранжевым цветом, если заполнены) отображают шифры, которые превысили ваш Предел Шифров.\n\nМожно уменьшить симптомы шифровой болезни, используя, продавая или передавая какой-либо шифр другому члену группы.</DefaultText>
+      <DefaultText>Лимит шифров — это количество шифров, которое персонаж может безопасно носить.\n\nШифры, находящиеся в незаблокированных слотах внутренних колец (выделеются синим цветом), можно носить не получая шифровую болезнь. Шифры, находящиеся в наружном кольце (выделяются оранжевым цветом), превышают ваш лимит шифров и приводят к шифровой болезни.\n\nВы можете уменьшить симптомы шифровой болезни, использовав, продав или передав шифр другому члену группы.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -7301,17 +7301,17 @@
     </Entry>
     <Entry>
       <ID>1461</ID>
-      <DefaultText>Восполняет снижение эффективности атак с применением эзотерий, наблюдаемое при использовании брони, на {0}%</DefaultText>
+      <DefaultText>Штраф от ношения брони для атак эзотериями снижается на {0}%</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>1462</ID>
-      <DefaultText>Используемого</DefaultText>
+      <DefaultText>Используется персонажем</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>1463</ID>
-      <DefaultText>Скрыть задачи кризиса</DefaultText>
+      <DefaultText>Скрыть задачи в кризисе</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -7337,8 +7337,8 @@
     </Entry>
     <Entry>
       <ID>1468</ID>
-      <DefaultText>Одаренный</DefaultText>
-      <FemaleText>Одарённая</FemaleText>
+      <DefaultText>Сообразительный</DefaultText>
+      <FemaleText>Сообразительная</FemaleText>
     </Entry>
     <Entry>
       <ID>1469</ID>
@@ -7357,18 +7357,18 @@
     </Entry>
     <Entry>
       <ID>1472</ID>
-      <DefaultText>Механик</DefaultText>
-      <FemaleText>Механик</FemaleText>
+      <DefaultText>Практичный</DefaultText>
+      <FemaleText>Практичная</FemaleText>
     </Entry>
     <Entry>
       <ID>1473</ID>
-      <DefaultText>Мистический</DefaultText>
-      <FemaleText>Мистическая</FemaleText>
+      <DefaultText>Таинственный</DefaultText>
+      <FemaleText>Таинственная</FemaleText>
     </Entry>
     <Entry>
       <ID>1474</ID>
-      <DefaultText>Наблюдательный</DefaultText>
-      <FemaleText>Наблюдательная</FemaleText>
+      <DefaultText>Внимательный</DefaultText>
+      <FemaleText>Внимательная</FemaleText>
     </Entry>
     <Entry>
       <ID>1475</ID>
@@ -7377,8 +7377,8 @@
     </Entry>
     <Entry>
       <ID>1476</ID>
-      <DefaultText>Ловкий</DefaultText>
-      <FemaleText>Ловкая</FemaleText>
+      <DefaultText>Изворотливый</DefaultText>
+      <FemaleText>Изворотливая</FemaleText>
     </Entry>
     <Entry>
       <ID>1477</ID>
@@ -7402,13 +7402,13 @@
     </Entry>
     <Entry>
       <ID>1481</ID>
-      <DefaultText>Крепкий</DefaultText>
-      <FemaleText>Крепкая</FemaleText>
+      <DefaultText>Выносливый</DefaultText>
+      <FemaleText>Выносливая</FemaleText>
     </Entry>
     <Entry>
       <ID>1482</ID>
-      <DefaultText>Гневный</DefaultText>
-      <FemaleText>Гневная</FemaleText>
+      <DefaultText>Раздражительный</DefaultText>
+      <FemaleText>Раздражительная</FemaleText>
     </Entry>
     <Entry>
       <ID>1483</ID>
@@ -7417,28 +7417,28 @@
     </Entry>
     <Entry>
       <ID>1484</ID>
-      <DefaultText>Межпространственная</DefaultText>
-      <FemaleText>Межпространственная</FemaleText>
+      <DefaultText>Искусный</DefaultText>
+      <FemaleText>Искусная</FemaleText>
     </Entry>
     <Entry>
       <ID>1485</ID>
-      <DefaultText>Осмотрительный</DefaultText>
-      <FemaleText>Осмотрительный</FemaleText>
+      <DefaultText>Хитрый</DefaultText>
+      <FemaleText>Хитрая</FemaleText>
     </Entry>
     <Entry>
       <ID>1486</ID>
-      <DefaultText>Потерянные</DefaultText>
-      <FemaleText>Потерянные</FemaleText>
+      <DefaultText>Потерянный</DefaultText>
+      <FemaleText>Потерянный</FemaleText>
     </Entry>
     <Entry>
       <ID>1487</ID>
-      <DefaultText>Чрезмерно импульсивный</DefaultText>
-      <FemaleText>Чрезмерно импульсивный</FemaleText>
+      <DefaultText>Сверхимпульсивный</DefaultText>
+      <FemaleText>Сверхимпульсивный</FemaleText>
     </Entry>
     <Entry>
       <ID>1488</ID>
-      <DefaultText>Скрытная</DefaultText>
-      <FemaleText>Скрытная</FemaleText>
+      <DefaultText>Незаметная</DefaultText>
+      <FemaleText>Незаметная</FemaleText>
     </Entry>
   </Entries>
 </StringTableFile>

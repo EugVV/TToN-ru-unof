@@ -16,17 +16,17 @@
     </Entry>
     <Entry>
       <ID>2</ID>
-      <DefaultText>Защититься от следующих атак.</DefaultText>
+      <DefaultText>Защищает от входящих атак.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>3</ID>
-      <DefaultText>Взрыв мозга</DefaultText>
+      <DefaultText>Ментальный взрыв</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>4</ID>
-      <DefaultText>Вы чувствуете в голове резкие приступы боли!</DefaultText>
+      <DefaultText>Это взрывает ваш разум!</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1081,7 +1081,7 @@
     </Entry>
     <Entry>
       <ID>215</ID>
-      <DefaultText>Поэтапный</DefaultText>
+      <DefaultText>Фазовый</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1146,7 +1146,7 @@
     </Entry>
     <Entry>
       <ID>228</ID>
-      <DefaultText>Выберите тип урона. Выполните [TotalDamage] данного типа и получите небольшой дополнительный эффект на основе выбора.\n\n[DamageFromEffort].</DefaultText>
+      <DefaultText>Выберите тип урона. Нанесите [TotalDamage] выбранного типа и получите небольшой дополнительный эффект в зависимости от вашего выбора.\n\n[DamageFromEffort]</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1171,12 +1171,12 @@
     </Entry>
     <Entry>
       <ID>233</ID>
-      <DefaultText>Поэтапный</DefaultText>
+      <DefaultText>Фазовый сдвиг</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>234</ID>
-      <DefaultText>Эффект перехода между измерениями, при котором цель существует частично в другом измерении.</DefaultText>
+      <DefaultText>Эффект от перехода между измерениями, при котором цель существует частично в другом измерении.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1531,7 +1531,7 @@
     </Entry>
     <Entry>
       <ID>305</ID>
-      <DefaultText>Наносит [Damage] всем врагам, оказавшимся в пределах радиуса поражения. Даже в случае промаха наносит [Color: Damage]1 урон[/Color] для каждого уровня примененного Усилия.\n\n[DamageFromEffort].</DefaultText>
+      <DefaultText>Наносит [Damage] всем врагам в зоне действия. Даже в случае промаха наносит [Color: Damage]1 урон[/Color] за каждый пункт приложенного усилия.\n\n[DamageFromEffort].</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1581,17 +1581,17 @@
     </Entry>
     <Entry>
       <ID>315</ID>
-      <DefaultText>Энтропическое поле</DefaultText>
+      <DefaultText>Область энтропии</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>316</ID>
-      <DefaultText>Создайте энергетическое поле, которое уничтожит защиту ваших врагов. Цели, оказавшиеся в пределах воздействия поля, становятся Уязвимыми к урону выбранного вами типа.</DefaultText>
+      <DefaultText>Создайте энергетическое поле, которое уничтожит защиту ваших врагов. Цели, оказавшиеся в пределах воздействия поля, становятся уязвимыми к урону выбранного вами типа.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>317</ID>
-      <DefaultText>При попадании дает состояние [Fettles] ([FettleEffectsBasic]) Уменьшение прочности Брони [BonusAmount1] на Уровень, уменьшение уровня Стойкости [BonusAmount2] на Уровень.</DefaultText>
+      <DefaultText>При попадании накладывает эффект [Fettles] ([FettleEffectsBasic]) Броня снижается на [BonusAmount1] за каждый уровень подготовки, Сопротивление снижается на [BonusAmount2] за каждый уровень подготовки.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1611,7 +1611,7 @@
     </Entry>
     <Entry>
       <ID>321</ID>
-      <DefaultText>Нервировать</DefaultText>
+      <DefaultText>Стимуляция</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1621,12 +1621,12 @@
     </Entry>
     <Entry>
       <ID>323</ID>
-      <DefaultText>Устраните все негативные состояния (устраняет [FettleIcon: Debuff][Color: NegativeModifier]Обход с фланга[/Color] и [FettleIcon: Debuff][Color: NegativeModifier]Серьезный урон[/Color]). [Healing].</DefaultText>
+      <DefaultText>Устраняет все негативные эффекты (кроме [FettleIcon: Debuff][Color: NegativeModifier]Обход с фланга[/Color] и [FettleIcon: Debuff][Color: NegativeModifier]Длительный урон[/Color]). [Healing].</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>324</ID>
-      <DefaultText>Защищенный</DefaultText>
+      <DefaultText>Под защитой</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1641,7 +1641,7 @@
     </Entry>
     <Entry>
       <ID>327</ID>
-      <DefaultText>Уязвимый</DefaultText>
+      <DefaultText>Уязвимость</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1656,22 +1656,22 @@
     </Entry>
     <Entry>
       <ID>330</ID>
-      <DefaultText>Пространственная суперпозиция</DefaultText>
+      <DefaultText>Пространственное совмещение</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>331</ID>
-      <DefaultText>Каллистеж представляет из себя пространственный слой и постоянно перемещается между вселенными. Несколько ее копий одновременно присутствуют в разных местах. С помощью этой способности она может меняться местами с Каллистеж, пребывающей в соседней вселенной. Это выглядит как мгновенное перемещение. Каждый раз, когда она делает это, для полного воплощения в физической форме ей необходимо некоторое время.</DefaultText>
+      <DefaultText>Как пространственная оболочка, Каллистеж постоянно перемещается между вселенными. Несколько ее копий одновременно присутствуют в разных местах. С помощью этой способности она может поменяться местами с Каллистеж, пребывающей в соседней вселенной. Это выглядит как мгновенная телепортация. Каждый раз, когда она делает это, для полного воплощения в физическую форму ей необходимо некоторое время.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>332</ID>
-      <DefaultText>Переместитесь в точку в рамках радиуса воздействия и приобретите состояние [Fettles] ([FettleDescriptions])</DefaultText>
+      <DefaultText>Переместитесь в точку в пределах радиуса действия и приобретите статус [Fettles] ([FettleDescriptions])</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>333</ID>
-      <DefaultText>Приобретите состояние [Fettles] ([FettleEffectsBasic]) Бонус к Броне +[BonusAmount1] на Уровень, бонус к Стойкости +[BonusAmount2] на Уровень.</DefaultText>
+      <DefaultText>Получите эффект [Fettles] ([FettleEffectsBasic]). Бонус к Броне составляет +[BonusAmount1] за каждый уровень подготовки, бонус к Сопротивлению составляет +[BonusAmount2] за каждый уровень подготовки.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1716,7 +1716,7 @@
     </Entry>
     <Entry>
       <ID>342</ID>
-      <DefaultText>Незамедлительно завершает попытку. Совершите базовую атаку на первого начавшего двигаться врага в радиусе поражения оружия. Приобретите полученный таким образом [PassiveEffectsBasic].</DefaultText>
+      <DefaultText>Завершает ход немедленно. Проведите основную атаку против первого начавшего двигаться противника в радиусе поражения оружия. При успехе получите бонус [PassiveEffectsBasic].</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1731,7 +1731,7 @@
     </Entry>
     <Entry>
       <ID>345</ID>
-      <DefaultText>Дает Состояние [Fettles], вынуждая цель атаковать вас.</DefaultText>
+      <DefaultText>Вы получаете статус [Fettles], который вынуждает цель атаковать вас.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1746,7 +1746,7 @@
     </Entry>
     <Entry>
       <ID>348</ID>
-      <DefaultText>Спрятанный</DefaultText>
+      <DefaultText>Скрытый</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1771,7 +1771,7 @@
     </Entry>
     <Entry>
       <ID>353</ID>
-      <DefaultText>Прерванный</DefaultText>
+      <DefaultText>Разложение</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1896,7 +1896,7 @@
     </Entry>
     <Entry>
       <ID>378</ID>
-      <DefaultText>Ошарашенный</DefaultText>
+      <DefaultText>Оглушение</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1936,7 +1936,7 @@
     </Entry>
     <Entry>
       <ID>386</ID>
-      <DefaultText>Обученный без защиты</DefaultText>
+      <DefaultText>Обучение без брони</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1946,7 +1946,7 @@
     </Entry>
     <Entry>
       <ID>388</ID>
-      <DefaultText>Приобретите [StatModifiers], если броня отсутствует или вы носите Легкую броню.</DefaultText>
+      <DefaultText>Вы получаете бонус [StatModifiers], когда носите Легкую броню или вообще обходитесь без брони.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1961,7 +1961,7 @@
     </Entry>
     <Entry>
       <ID>391</ID>
-      <DefaultText>Накладывает состояние [Fettles] на всех врагов в радиусе воздействия, что вынуждает их атаковать вас.</DefaultText>
+      <DefaultText>Накладывает состояние [Fettles] на всех противников в радиусе действия, что вынуждает их атаковать вас.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -2046,12 +2046,12 @@
     </Entry>
     <Entry>
       <ID>408</ID>
-      <DefaultText>Защищенный</DefaultText>
+      <DefaultText>Щит</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>409</ID>
-      <DefaultText>Защищенный</DefaultText>
+      <DefaultText>Щит</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -2061,22 +2061,22 @@
     </Entry>
     <Entry>
       <ID>411</ID>
-      <DefaultText>Прерванный</DefaultText>
+      <DefaultText>Разложение</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>412</ID>
-      <DefaultText>Энергичный</DefaultText>
+      <DefaultText>Заряд</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>413</ID>
-      <DefaultText>Отвлекающий</DefaultText>
+      <DefaultText>Отвлечен</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>414</ID>
-      <DefaultText>Отправленный в нокдаун</DefaultText>
+      <DefaultText>Нокдаун</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -2086,7 +2086,7 @@
     </Entry>
     <Entry>
       <ID>416</ID>
-      <DefaultText>Прятать</DefaultText>
+      <DefaultText>Скрытность</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -2131,7 +2131,7 @@
     </Entry>
     <Entry>
       <ID>425</ID>
-      <DefaultText>Ночной</DefaultText>
+      <DefaultText>Под покровом ночи</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -2141,7 +2141,7 @@
     </Entry>
     <Entry>
       <ID>427</ID>
-      <DefaultText>Обучение и Точность</DefaultText>
+      <DefaultText>Обучение и точность</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -2156,7 +2156,7 @@
     </Entry>
     <Entry>
       <ID>430</ID>
-      <DefaultText>Амавротическая рана</DefaultText>
+      <DefaultText>Амаврозный урон</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -2216,7 +2216,7 @@
     </Entry>
     <Entry>
       <ID>442</ID>
-      <DefaultText>Натренированный в защите</DefaultText>
+      <DefaultText>Обучение в броне</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -2226,7 +2226,7 @@
     </Entry>
     <Entry>
       <ID>444</ID>
-      <DefaultText>Находчивый</DefaultText>
+      <DefaultText>Находчивость</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -2246,12 +2246,12 @@
     </Entry>
     <Entry>
       <ID>448</ID>
-      <DefaultText>Сканировать мысли</DefaultText>
+      <DefaultText>Чтение мыслей</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>449</ID>
-      <DefaultText>В окне беседы отображаются самые легко читаемые мысли большинства людей и существ, с которыми вы говорите.</DefaultText>
+      <DefaultText>В окне диалога отображаются самые легко читаемые мысли большинства людей и существ, с которыми вы говорите.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -2276,7 +2276,7 @@
     </Entry>
     <Entry>
       <ID>454</ID>
-      <DefaultText>Чтец</DefaultText>
+      <DefaultText>Риторика</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -2346,7 +2346,7 @@
     </Entry>
     <Entry>
       <ID>468</ID>
-      <DefaultText>Вязка затычка</DefaultText>
+      <DefaultText>Вязкая смола</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -2391,17 +2391,17 @@
     </Entry>
     <Entry>
       <ID>477</ID>
-      <DefaultText>[PassiveEffectsBasic]. Невозможно задействовать напрямую. Устраняется большинством действий, например, атак и эзотерий.</DefaultText>
+      <DefaultText>[PassiveEffectsBasic], персонаж не может быть выбран в качестве цели. Состояние теряется при большинстве действий, например, при атаках оружием и эзотериями</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>478</ID>
-      <DefaultText>Спрятанный</DefaultText>
+      <DefaultText>Скрытый</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>479</ID>
-      <DefaultText>Стрвх</DefaultText>
+      <DefaultText>Страх</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -2571,7 +2571,7 @@
     </Entry>
     <Entry>
       <ID>513</ID>
-      <DefaultText>Попытайтесь получить состояние [Fettles] ([FettleDescriptions])\n\nВидимость и расстояние до врагов влияют на сложность.</DefaultText>
+      <DefaultText>Попытка войти в состояние [Fettles] ([FettleDescriptions])\n\nВидимость и расстояние до врагов влияют на шанс успеха.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -2586,7 +2586,7 @@
     </Entry>
     <Entry>
       <ID>516</ID>
-      <DefaultText>Придает состояние [Fettles]. В активном состоянии несколько раз подряд используйте похожие действия (атаки, защитные эзотерии/шифры или исцеляющие эзотерии/шифры), чтобы вызвать последовательное увеличение воздействия. Использование разных действий нарушает последовательность и устраняет состояние.</DefaultText>
+      <DefaultText>Дает эффект [Fettles]. Пока эффект действует, используйте аналогичные действия (атаки, защитные эзотерии/шифры или исцеляющие эзотерии/шифры) в течении нескольких ходов подряд, чтобы вызвать последовательное увеличение эффектов. Использование разных действий нарушает последовательность и отменяет эффект. Также эффект отменяется, если последовательнось достигает 4 повторений.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -2606,7 +2606,7 @@
     </Entry>
     <Entry>
       <ID>520</ID>
-      <DefaultText>Переместитесь в точку в пределах определенного радиуса.</DefaultText>
+      <DefaultText>Переместитесь в точку в пределах радиуса действия.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -2626,7 +2626,7 @@
     </Entry>
     <Entry>
       <ID>524</ID>
-      <DefaultText>[PassiveEffectsBasic] и поглощает Движение для остановки.</DefaultText>
+      <DefaultText>[PassiveEffectsBasic] и поглощает способность к движению</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -2781,7 +2781,7 @@
     </Entry>
     <Entry>
       <ID>556</ID>
-      <DefaultText>Очарование</DefaultText>
+      <DefaultText>Обаятельность</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -2926,7 +2926,7 @@
     </Entry>
     <Entry>
       <ID>585</ID>
-      <DefaultText>Автоматическое успешное выполнение следующего задания Ловкие пальцы или Удар.</DefaultText>
+      <DefaultText>Гарантирует успех при следующей проверке навыков Ловкость рук или Разрушение.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -2951,7 +2951,7 @@
     </Entry>
     <Entry>
       <ID>590</ID>
-      <DefaultText>Приобретите [StatModifiers].</DefaultText>
+      <DefaultText>Вы получаете бонус [StatModifiers].</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -2966,7 +2966,7 @@
     </Entry>
     <Entry>
       <ID>593</ID>
-      <DefaultText>Незамедлительно завершает попытку. Если эта способность активна и любой союзник на Близком расстоянии поражен атакой, поменяйтесь с ним местами и примите на себя урон, состояния или другие воздействия.</DefaultText>
+      <DefaultText>Завершает ход немедленно. Если эта способность активна и любой союзник на Близком расстоянии поражен атакой, поменяйтесь с ним местами и примите на себя урон, состояния или другие воздействия.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -3051,12 +3051,12 @@
     </Entry>
     <Entry>
       <ID>610</ID>
-      <DefaultText>Обученный разведчик</DefaultText>
+      <DefaultText>Мастер проникновений</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>611</ID>
-      <DefaultText>Остальные члены группы приобретают [PassiveEffectsBasic].</DefaultText>
+      <DefaultText>Все остальные члены группы получают бонус [PassiveEffectsBasic].</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -3066,12 +3066,12 @@
     </Entry>
     <Entry>
       <ID>613</ID>
-      <DefaultText>Остальные члены группы приобретают [PassiveEffectsBasic].</DefaultText>
+      <DefaultText>Все остальные члены группы получают бонус [PassiveEffectsBasic].</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>614</ID>
-      <DefaultText>Принужденный</DefaultText>
+      <DefaultText>Провокация</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -3086,7 +3086,7 @@
     </Entry>
     <Entry>
       <ID>617</ID>
-      <DefaultText>Все враги, которые не смогли противостоять атаке, получают состояние [Fettles] (они вынуждены атаковать вас и получить [FettleEffectsBasic])</DefaultText>
+      <DefaultText>На всех врагов, не сумевших избежать воздействия, накладывается эффект [Fettles] (они получаю штраф [FettleEffectsBasic] и вынуждены атаковать вас)</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -3106,12 +3106,12 @@
     </Entry>
     <Entry>
       <ID>621</ID>
-      <DefaultText>Усилить эзотерии</DefaultText>
+      <DefaultText>Усиленные эзотерии</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>622</ID>
-      <DefaultText>В состоянии [FettleIcon: Status][Color: PositiveModifier]Перехода[/Color] радиус воздействия эзотерий Каллистеж увеличивается на один шаг по сравнению с обычным состоянием, и любые примененные состояния действуют в течение [Color: PositiveModifier]+2 раундов[/Color].</DefaultText>
+      <DefaultText>В состоянии [FettleIcon: Status][Color: PositiveModifier]Фазовый сдвиг[/Color] радиус воздействия эзотерий Каллистеж увеличивается на один шаг и любые эффекты действуют на [Color: PositiveModifier]2 раунда[/Color] дольше.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -3121,7 +3121,7 @@
     </Entry>
     <Entry>
       <ID>624</ID>
-      <DefaultText>Приобретите [PassiveEffectsBasic] против врагов с более низкой Инициативностью, чем у Тибира.</DefaultText>
+      <DefaultText>Вы получаете [PassiveEffectsBasic] против врагов с более низкой Инициативностью, чем у Тибира.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -3136,22 +3136,22 @@
     </Entry>
     <Entry>
       <ID>627</ID>
-      <DefaultText>Мастер щитов</DefaultText>
+      <DefaultText>Мастер щита</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>628</ID>
-      <DefaultText>Приобретите [StatModifiers] на то время, пока предмет размещен во Вспомогательной ячейке.</DefaultText>
+      <DefaultText>Вы получаете [StatModifiers], если держите что-то в левой руке.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>629</ID>
-      <DefaultText>Навык гибкости</DefaultText>
+      <DefaultText>Гибкость</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>630</ID>
-      <DefaultText>Выберите один навык исследования, умения или разговора. [Color: PositiveModifier]+1 к уровню владения[/Color] этим навыком в случае его активности.</DefaultText>
+      <DefaultText>Выберите один навык исследования, знания или общения и получите [Color: PositiveModifier]+1 к уровню подготовки[/Color] для этого навыка.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -3926,22 +3926,22 @@
     </Entry>
     <Entry>
       <ID>785</ID>
-      <DefaultText>Объемная сила</DefaultText>
+      <DefaultText>Пространственная сила</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>786</ID>
-      <DefaultText>В состоянии [FettleIcon: Status][Color: PositiveModifier]Перехода[/Color] приобретите [PassiveEffectsBasic].</DefaultText>
+      <DefaultText>В состоянии [FettleIcon: Status][Color: PositiveModifier]Фазовый сдвиг[/Color] вы получаете [PassiveEffectsBasic].</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>787</ID>
-      <DefaultText>Навык гибкости</DefaultText>
+      <DefaultText>Гибкость</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>788</ID>
-      <DefaultText>Увеличивает уровень выбранного навыка ключа: [PassiveEffectsBasic].</DefaultText>
+      <DefaultText>Увеличивает уровень выбранного навыка Ключа: [PassiveEffectsBasic].</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -3961,7 +3961,7 @@
     </Entry>
     <Entry>
       <ID>792</ID>
-      <DefaultText>Персонаж не может двигаться и совершать действия.</DefaultText>
+      <DefaultText>персонаж не может двигаться и совершать действия</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -4111,7 +4111,7 @@
     </Entry>
     <Entry>
       <ID>822</ID>
-      <DefaultText>Бессрочно повышает [Color: Might]Мощь[/Color] на 1 и [Healing].</DefaultText>
+      <DefaultText>Перманентно повышает [Color: Might]Силу[/Color] на 1 и [Healing].</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -4231,12 +4231,12 @@
     </Entry>
     <Entry>
       <ID>846</ID>
-      <DefaultText>Кровавые наниты</DefaultText>
+      <DefaultText>Кровяные наниты</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>847</ID>
-      <DefaultText>Миллионы крошечных машин постоянно перемещаются в вашем кровотоке, укрепляя вашу иммунную систему и почти мгновенно заживляя раны.</DefaultText>
+      <DefaultText>Миллионы крошечных машин постоянно находятся в вашей крови, укрепляя вашу иммунную систему и почти мгновенно заживляя раны.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -4246,22 +4246,22 @@
     </Entry>
     <Entry>
       <ID>849</ID>
-      <DefaultText>Это устройство, изготовленное из синтетических материалов и начиненное передовыми сенсорными технологиями, значительно повышает остроту вашего зрения. Ему также свойственно случайным образом менять свое положение: эта немного неудобная особенность не раз привлекала удивленные взгляды прохожих.</DefaultText>
+      <DefaultText>Это устройство, изготовленное из синтетических материалов и начиненное передовыми сенсорными технологиями, значительно повышает остроту вашего зрения. Также глаз имеет одно немного обескураживающее свойство - время от времени он вращается сам по себе, привлекая удивленные взгляды прохожих.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>850</ID>
-      <DefaultText>Нуменерский анализатор</DefaultText>
+      <DefaultText>Мозговой анализатор</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>851</ID>
-      <DefaultText>В этом имплантате хранится копия сознания нано, давно ушедшего в небытие, и вы слышите шепот немного сбитого с толку джентльмена преклонного возраста, который передает вам загадочные и туманные знания. Нередко эти знания не поддаются пониманию и только запутывают вас, но иногда они приносят пользу.</DefaultText>
+      <DefaultText>В этом имплантате хранится копия сознания Нано, давно ушедшего в небытие. В своем разуме вы слышите шепот немного озадаченного джентльмена преклонного возраста, который передает вам таинственные и непонятные знания. Часто эти знания не поддаются пониманию и сбивают вас с толку, но иногда они бывают полезны.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>852</ID>
-      <DefaultText>Ранящая Память</DefaultText>
+      <DefaultText>Разрывающая Память</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -4291,7 +4291,7 @@
     </Entry>
     <Entry>
       <ID>858</ID>
-      <DefaultText>+25 % к вероятности нанесения решающего удара с помощью свирепой атаки.</DefaultText>
+      <DefaultText>+25 % к вероятности нанесения критического удара.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -4301,17 +4301,17 @@
     </Entry>
     <Entry>
       <ID>860</ID>
-      <DefaultText>Атакуйте все цели, выстроенные перед вами полукругом, нанося [Damage] всем противникам, которым не удалось уклониться.</DefaultText>
+      <DefaultText>Атакуйте все цели в полукруге перед вами, нанося [Damage] всем противникам, которым не удалось уклониться.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>861</ID>
-      <DefaultText>Внезапный удар</DefaultText>
+      <DefaultText>Подлый удар</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>862</ID>
-      <DefaultText>Атака, наносящая [Damage]. Если на цель воздействует негативное состояние, наложите состояние [Fettles] на 1 раунд ([FettleEffectsBasic]).</DefaultText>
+      <DefaultText>Атака, наносящая [Color: Damage][Damage][/Color]. Если цель уже находиться под воздействием другого негативного эффекта, то на нее накладывается эффект [Fettles] ([FettleEffectsBasic]) на 1 раунд</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -4341,7 +4341,7 @@
     </Entry>
     <Entry>
       <ID>868</ID>
-      <DefaultText>Распространите перед собой облако нано-частиц, нанося [Damage] и накладывая состояние [Fettles] на всех врагов, которые не смогли противостоять атаке ([FettleEffectsBasic]).\n\n[DamageFromEffort].</DefaultText>
+      <DefaultText>Распылите перед собой облако нано-частиц, нанося [Damage] и накладывая эффект [Fettles] ([FettleEffectsBasic]) на всех врагов, которые не смогли избежать атаки.\n\n[DamageFromEffort].</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -4356,17 +4356,17 @@
     </Entry>
     <Entry>
       <ID>871</ID>
-      <DefaultText>Насыщенное оружие</DefaultText>
+      <DefaultText>Заряженное оружие</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>872</ID>
-      <DefaultText>Выберите тип урона и совершите атаку с помощью оружия. Нанесите [Color: Damage]урон с помощью оружия[/Color] выбранного типа и получите бонусные эффекты в зависимости от типа.</DefaultText>
+      <DefaultText>Выберите тип урона и затем атакуйте с помощью оружия. Тип урона основного оружия меняется на выбранный и получает соответствующие ему бонусные эффекты.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>873</ID>
-      <DefaultText>Навык с защитой</DefaultText>
+      <DefaultText>Мастер защиты</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -4421,7 +4421,7 @@
     </Entry>
     <Entry>
       <ID>884</ID>
-      <DefaultText>Каллистеж может открывать тонкий слой, разделяющий измерения, в которых находятся ее копии. В состоянии Перехода ее атаки заряжены Межпространственной энергией, собранной со всех вселенных.</DefaultText>
+      <DefaultText>Каллистеж может открывать тонкий слой, разделяющий измерения, в которых находятся ее копии. В состоянии Фазовый сдвиг ее атаки заряжены межпространственной энергией, собранной со всех реальностей.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -4431,7 +4431,7 @@
     </Entry>
     <Entry>
       <ID>886</ID>
-      <DefaultText>В состоянии Перехода навыки Каллистеж, связанные с созданием и управлением эзотериями, достигают беспримерного уровня точности.</DefaultText>
+      <DefaultText>В состоянии Фазовый сдвиг навыки Каллистеж, связанные с созданием и управлением эзотериями, достигают беспримерного уровня точности.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -4511,7 +4511,7 @@
     </Entry>
     <Entry>
       <ID>902</ID>
-      <DefaultText>Обратите против врагов их же слабые места. +25 % к вероятности нанесения решающего удара с помощью этой атаки.</DefaultText>
+      <DefaultText>Обратите против врагов их же слабые места. +25 % к вероятности нанесения критического удара с помощью этой атаки.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -4591,17 +4591,17 @@
     </Entry>
     <Entry>
       <ID>918</ID>
-      <DefaultText>Обозначьте в качестве цели союзника, в радиусе поражения оружия которого находятся враги, затем выберите одного из врагов. Выбранный союзник незамедлительно совершит атаку на этого врага.</DefaultText>
+      <DefaultText>Обозначьте в качестве цели союзника, в радиусе поражения оружия которого находятся противники, затем выберите одного из противников. Выбранный союзник незамедлительно совершит атаку на этого противника.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>919</ID>
-      <DefaultText>[Color: PositiveModifier]+1 к максимальному Усилию[/Color] для заданий Убеждение, Хитрость и Устрашение.</DefaultText>
+      <DefaultText>[Color: PositiveModifier]+1 к предельному значению усилия[/Color] для проверок навыков Убеждение, Хитрость и Запугивание.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>920</ID>
-      <DefaultText>Приобретите [PassiveEffectsBasic].</DefaultText>
+      <DefaultText>Вы получаете [PassiveEffectsBasic].</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -4611,7 +4611,7 @@
     </Entry>
     <Entry>
       <ID>922</ID>
-      <DefaultText>Если персонаж находится в [FettleIcon: Status][Color: PositiveModifier]Скрытом[/Color] состоянии или обозначении в качестве цели врага, который [FettleIcon: Debuff][Color: NegativeModifier]Ослеплен[/Color], вы приобретаете [SimpleTaskModifiers] и [SimpleDamageModifiers].</DefaultText>
+      <DefaultText>Если вы находитесь в состоянии [FettleIcon: Status] [Color: PositiveModifier]Скрытности[/Color] или на цель наложен эффект [FettleIcon: Debuff] [Color: NegativeModifier]Ослепление[/Color], вы получаете бонус [SimpleTaskModifiers] и [SimpleDamageModifiers].</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -4626,7 +4626,7 @@
     </Entry>
     <Entry>
       <ID>925</ID>
-      <DefaultText>Если враг не может противостоять атаке, наложите состояние [Fettles] ([FettleDescriptions])</DefaultText>
+      <DefaultText>Если сопротивляемость цели не сработала, на противника накладывает эффект [Fettles] ([FettleDescriptions])</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -4636,7 +4636,7 @@
     </Entry>
     <Entry>
       <ID>927</ID>
-      <DefaultText>Остальные члены группы приобретают [PassiveEffectsBasic].</DefaultText>
+      <DefaultText>Все остальные члены группы получают бонус [PassiveEffectsBasic].</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -4646,7 +4646,7 @@
     </Entry>
     <Entry>
       <ID>929</ID>
-      <DefaultText>Приобретите [PassiveEffectsBasic].</DefaultText>
+      <DefaultText>Вы получаете [PassiveEffectsBasic].</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -4661,7 +4661,7 @@
     </Entry>
     <Entry>
       <ID>932</ID>
-      <DefaultText>Позволяет персонажам любого Типа носить броню с небольшими затратами. Приобретите [PassiveEffectsBasic].</DefaultText>
+      <DefaultText>Позволяет персонажам любого Типа носить броню с небольшими затратами. Вы получаете [PassiveEffectsBasic].</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -4671,7 +4671,7 @@
     </Entry>
     <Entry>
       <ID>934</ID>
-      <DefaultText>Когда Мэткина в [FettleIcon: Status][Color: PositiveModifier]Скрытом[/Color] состоянии или враг [FettleIcon: Debuff][Color: NegativeModifier]Ослеплен[/Color], вы приобретаете [PassiveEffectsBasic] и можете наложить или продлить действие состояния [Fettles] на цель ([FettleDescriptions]) [Duration].</DefaultText>
+      <DefaultText>Когда Мэткина находиться в состоянии [FettleIcon: Status][Color: PositiveModifier]Скрытность[/Color] или на противника наложен эффект [FettleIcon: Debuff][Color: NegativeModifier]Ослепление[/Color], она получает бонус [PassiveEffectsBasic] и можете наложить или продлить действие эффекта [Fettles] ([FettleDescriptions]) [Duration].</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -4686,7 +4686,7 @@
     </Entry>
     <Entry>
       <ID>937</ID>
-      <DefaultText>Приобретите бонус к Инициативным действиям.</DefaultText>
+      <DefaultText>Вы получаете бонус к Инициативным действиям.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -4701,7 +4701,7 @@
     </Entry>
     <Entry>
       <ID>940</ID>
-      <DefaultText>Приобретите [StatModifiers] (позволяет носить дополнительные шифры).</DefaultText>
+      <DefaultText>Вы получаете [StatModifiers].</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -4776,17 +4776,17 @@
     </Entry>
     <Entry>
       <ID>955</ID>
-      <DefaultText>Амавротическое поле</DefaultText>
+      <DefaultText>Амаврозное поле</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>956</ID>
-      <DefaultText>Невидимый</DefaultText>
+      <DefaultText>Невидимость</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>957</ID>
-      <DefaultText>Невозможно задействовать напрямую. В отличие от [FettleIcon: Status][Color: PositiveModifier]Скрытого[/Color] состояния, это состояние не снимается во время совершения действий, таких как атаки или применение эзотерий.</DefaultText>
+      <DefaultText>Персонаж не может быть выбран в качестве цели. В отличие от состояния [FettleIcon: Status] [Color: PositiveModifier]Скрытность[/Color], это состояние не теряется во время совершения действий, таких как атаки или применение эзотерий.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -4936,7 +4936,7 @@
     </Entry>
     <Entry>
       <ID>987</ID>
-      <DefaultText>Приобретите [PassiveEffectsBasic].</DefaultText>
+      <DefaultText>Вы получаете [PassiveEffectsBasic].</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -4946,7 +4946,7 @@
     </Entry>
     <Entry>
       <ID>989</ID>
-      <DefaultText>Манипуляции с Гравитацией</DefaultText>
+      <DefaultText>Управление гравитацией</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -4961,12 +4961,12 @@
     </Entry>
     <Entry>
       <ID>992</ID>
-      <DefaultText>Связь с Инфосферой</DefaultText>
+      <DefaultText>Связь со Сферой Данных</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>993</ID>
-      <DefaultText>Приобретите [StatModifiers].</DefaultText>
+      <DefaultText>Вы получаете [StatModifiers].</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -4976,12 +4976,12 @@
     </Entry>
     <Entry>
       <ID>995</ID>
-      <DefaultText>Энергия</DefaultText>
+      <DefaultText>Подзарядка</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>996</ID>
-      <DefaultText>Выберите тип урона. Наложите состояние [Fettles] (весь нанесенный урон будет преобразован в урон выбранного типа).</DefaultText>
+      <DefaultText>Выберите тип урона и получите эффект [Fettles] (весь урон преобразуется в урон выбранного типа)</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -4996,12 +4996,12 @@
     </Entry>
     <Entry>
       <ID>999</ID>
-      <DefaultText>Глаз тактического наведения</DefaultText>
+      <DefaultText>Глазное наведение</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>1000</ID>
-      <DefaultText>Приобретите [SimpleTaskModifiers].</DefaultText>
+      <DefaultText>Вы получаете бонус [SimpleTaskModifiers].</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -5011,32 +5011,32 @@
     </Entry>
     <Entry>
       <ID>1002</ID>
-      <DefaultText>Получение [Color: PositiveModifier]+[BonusAmount1]% бонуса[/Color] для каждого уровня усилия применительно к задачам Восприятия, Знания: Механизмы, Знания: Мистицизм и Знания: Естественные.</DefaultText>
+      <DefaultText>Вы получаете [Color: PositiveModifier]+[BonusAmount1]% улучшения[/Color] для каждого уровня усилия применительно к задачам Восприятия, Знания: механизмы, Знания: мистицизм и Знания: естественные.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>1003</ID>
-      <DefaultText>Дух чумы</DefaultText>
+      <DefaultText>Духи чумы</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>1004</ID>
-      <DefaultText>Придайте решающим ударам энергию энтропии, накладывая состояние [Fettles] поверх обычных эффектов способности ([FettleDescriptions])</DefaultText>
+      <DefaultText>Усиливает критические удары силой энтропии, которая накладывает эффект [Fettles] ([FettleDescriptions]) помимо обычных эффектов способностей.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>1005</ID>
-      <DefaultText>Энергия энтропии дестабилизирует цель, что способствует повышению негативного влияния через каждый раунд.</DefaultText>
+      <DefaultText>сила энтропии дестабилизирует цель, каждый раунд усиливая негативные эффекты</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>1006</ID>
-      <DefaultText>Шторм</DefaultText>
+      <DefaultText>Водоворот</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>1007</ID>
-      <DefaultText>Нанесите [Damage] в размере [TotalDamage]. Даже в случае промаха наносит [Color: Damage]1 урон[/Color] для каждого уровня примененного Усилия.\n\n[DamageFromEffort].</DefaultText>
+      <DefaultText>Наносит [Damage], суммарно [TotalDamage]. Даже в случае промаха наносит [Color: Damage]1 урон[/Color] для каждого пункта примененного усилия.\n\n[DamageFromEffort].</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -5046,17 +5046,17 @@
     </Entry>
     <Entry>
       <ID>1009</ID>
-      <DefaultText>Призовите конструкт, который будет сражаться на вашей стороне и оттягивать на себя атаки находящихся поблизости врагов. Этот персонаж может единовременно призвать только 1 Живой огонь.</DefaultText>
+      <DefaultText>Призовите констракт, который будет сражаться на вашей стороне и оттягивать на себя атаки находящихся поблизости противников.Одновременно можно призвать призвать только 1 Живой огонь.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>1010</ID>
-      <DefaultText>Тяжкий труд</DefaultText>
+      <DefaultText>Тяжелая работа</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>1011</ID>
-      <DefaultText>[Color: PositiveModifier]+5 % бонуса[/Color] на каждом уровне Усилия, затраченного на задания Удар, Ловкие пальцы или Сбор.</DefaultText>
+      <DefaultText>Вы получаете [Color: PositiveModifier]бонус +5%[/Color] за каждый пункт усилия при проверке навыков Разрушение или Ловкость рук.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -5066,7 +5066,7 @@
     </Entry>
     <Entry>
       <ID>1013</ID>
-      <DefaultText>[Color: PositiveModifier]+10 % шанса на абсолютный успех[/Color] при совершении атак с помощью оружия.</DefaultText>
+      <DefaultText>[Color: PositiveModifier]+10% шанса на абсолютный успех[/Color] при совершении атак с помощью оружия.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -5116,7 +5116,7 @@
     </Entry>
     <Entry>
       <ID>1023</ID>
-      <DefaultText>Приобретите [FettleEffectsBasic].</DefaultText>
+      <DefaultText>Вы получаете [FettleEffectsBasic].</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -5126,57 +5126,57 @@
     </Entry>
     <Entry>
       <ID>1025</ID>
-      <DefaultText>Приобретите [SimpleTaskModifiers].</DefaultText>
+      <DefaultText>Вы получаете бонус [SimpleTaskModifiers].</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>1026</ID>
-      <DefaultText>Отклонение удара</DefaultText>
+      <DefaultText>Пространственный рывок</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>1027</ID>
-      <DefaultText>Переместитесь в точку и атакуйте всех врагов на Близком расстоянии от точки. Враги, которые не смогли противостоять атаке, получают состояние [Fettles] ([FettleEffectsBasic])</DefaultText>
+      <DefaultText>Телепортируйтесь в указанную точку и атакуйте всех противников на небольшом расстоянии от нее. На противников, не сумевших избежать атаки, накладывается эффект [Fettles] ([FettleEffectsBasic])</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>1028</ID>
-      <DefaultText>Используй преимущество</DefaultText>
+      <DefaultText>Использование преимущества</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>1029</ID>
-      <DefaultText>Приобретите [Color: PositiveModifier] +30 % шанса на абсолютный успех[/Color] при совершении атак на цели с негативными состояниями.</DefaultText>
+      <DefaultText>Вы получаете [Color: PositiveModifier]+30% шанса на абсолютный успех[/Color] при совершении атак на цели с негативными эффектами.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>1030</ID>
-      <DefaultText>Переменчивая попытка</DefaultText>
+      <DefaultText>Универсальное усилие</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>1031</ID>
-      <DefaultText>При активном [FettleIcon: Buff][Color: PositiveModifier]навыке Гибкости[/Color] получите [Color: PositiveModifier]+[BonusAmount1]% бонуса[/Color] для каждого уровня Усилия, примененного для заданий, для выполнения которых необходим данный навык.</DefaultText>
+      <DefaultText>При действующем эффекте [FettleIcon: Buff][Color: PositiveModifier]Гибкость[/Color], при проверках выбранного навыка вы получаете [Color: PositiveModifier]+[BonusAmount1]% бонуса[/Color] для каждого пункта усилия.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>1032</ID>
-      <DefaultText>Атака Кольцевыми Червями</DefaultText>
+      <DefaultText>Атака червями</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>1033</ID>
-      <DefaultText>Атака, наносящая [Damage]. Если на цель воздействует какое-либо [FettleIcon: Debuff]негативное состояние, вы [Color: Heal]восстановите Здоровье на [BonusAmount1]% нанесенного урона[/Color].</DefaultText>
+      <DefaultText>Атака, наносящая [Damage]. Если цель находится под воздействием [FettleIcon: Debuff]негативного эффекта, то вы [Color: Heal] восстанавливаете Здоровье на [BonusAmount1]% нанесенного урона[/Color].</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>1034</ID>
-      <DefaultText>Зажигательная бомба</DefaultText>
+      <DefaultText>Отбрасывающая бомба</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>1035</ID>
-      <DefaultText>Атакуйте всех врагов в радиусе поражения и нанесите [Damage]. Все враги с негативными состояниями, которых вам удалось ударить, также оказываются отброшенными на Небольшое расстояние.\n\n[DamageFromEffort].</DefaultText>
+      <DefaultText>Атакуйте всех противников в радиусе поражения и нанесите [Damage]. Все противники с негативными эффектами, не сумевшие избежать атаки, отбрасываются на небольшое расстояние.\n\n[DamageFromEffort].</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -5186,7 +5186,7 @@
     </Entry>
     <Entry>
       <ID>1037</ID>
-      <DefaultText>Призовите психического конструкта, который поможет вам обойти врагов с фланга. Этот персонаж может единовременно призвать только 1 Призрачного воина.</DefaultText>
+      <DefaultText>Призовите психического констракта, который поможет вам окружить противников. Одновременно персонаж может призвать только одного Призрачного воина.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -5261,17 +5261,17 @@
     </Entry>
     <Entry>
       <ID>1052</ID>
-      <DefaultText>[Color: PositiveModifier]+1 к максимальному Усилию[/Color] при выполнении всех не являющихся боевыми заданий.</DefaultText>
+      <DefaultText>[Color: PositiveModifier]+1 к предельному усилию[/Color] при выполнении любых небоевых задач.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>1053</ID>
-      <DefaultText>Уникальный удар</DefaultText>
+      <DefaultText>Сингулярный удар</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>1054</ID>
-      <DefaultText>Добавляйте [SimpleDamageModifiers] ко всем атакам.</DefaultText>
+      <DefaultText>Все атаки наносят дополнительно [SimpleDamageModifiers].</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -5281,7 +5281,7 @@
     </Entry>
     <Entry>
       <ID>1056</ID>
-      <DefaultText>Перейдите в состояние [Fettles] (не допускает обозначения в качестве цели, снимается только по истечении срока, а не вследствие какого-либо действия).</DefaultText>
+      <DefaultText>Перейдите в состояние [Fettles] (вас невозможно выбрать в качестве цели и состояние не снимается никакими действиями).</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -5291,7 +5291,7 @@
     </Entry>
     <Entry>
       <ID>1058</ID>
-      <DefaultText>Приобретите дополнительные [SimpleTaskModifiers] и преобразуйте весь урон в [DamageIcon: Relativistic][Color: Relativistic]Относительный[/Color] при совершении атаки в [FettleIcon: Status][Color: PositiveModifier]Скрытом[/Color] состоянии или обозначении в качестве цели врага, который [FettleIcon: Debuff][Color: NegativeModifier]Ослеплен[/Color].</DefaultText>
+      <DefaultText>Вы получаете бонус [SimpleTaskModifiers] и преобразуете весь урон в [DamageIcon: Relativistic][Color: Relativistic]Относительный[/Color] при совершении атаки в состоянии [FettleIcon: Status][Color: PositiveModifier]Скрытность[/Color] или против противника, на которого наложен эффект [FettleIcon: Debuff][Color: NegativeModifier]Ослепление[/Color].</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -5316,7 +5316,7 @@
     </Entry>
     <Entry>
       <ID>1063</ID>
-      <DefaultText>Незамедлительно завершает ход. Когда враг промахивается, вы совершаете базовую атаку ему в ответ, если он находится в радиусе поражения. Количество атак, которые можно совершить таким образом при каждой попытке, не ограничено.</DefaultText>
+      <DefaultText>Незамедлительно завершает ход. Каждый раз, когда противник, атакуя вас, промахивается, вы совершаете ответную основную атаку по нему, если он находится в радиусе поражения. Количество атак, которые можно совершить таким образом на каждом ходу, не ограничено.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -5346,27 +5346,27 @@
     </Entry>
     <Entry>
       <ID>1069</ID>
-      <DefaultText>Остальные члены группы приобретают [PassiveEffectsBasic].</DefaultText>
+      <DefaultText>Все остальные члены группы получают бонус [PassiveEffectsBasic].</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>1070</ID>
-      <DefaultText>В состоянии [FettleIcon: Status][Color: PositiveModifier]Перехода[/Color] приобретите [PassiveEffectsBasic].</DefaultText>
+      <DefaultText>В состоянии [FettleIcon: Status][Color: PositiveModifier]Фазовый сдвиг[/Color] персонаж получает бонус [PassiveEffectsBasic].</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>1071</ID>
-      <DefaultText>Жизненная сила Отверженного</DefaultText>
+      <DefaultText>Живучесть Отверженного</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>1072</ID>
-      <DefaultText>Мэткина никогда не получает [FettleIcon: Debuff][Color: NegativeModifiers]Серьезный урон[/Color], если при ударе теряет сознание (снижение уровня до [Color: Health]0 Здоровья[/Color]).</DefaultText>
+      <DefaultText>Мэткина никогда не получает эффекта [FettleIcon: Debuff][Color: NegativeModifiers]Длительный урон[/Color], если при ударе теряет сознание (снижение уровня до [Color: Health]0 Здоровья[/Color]).</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>1073</ID>
-      <DefaultText>Враги в радиусе поражения Мэткиной, которые не смогли противостоять атаке, получают состояние [Fettles] ([FettleEffectsBasic]).</DefaultText>
+      <DefaultText>Противники в радиусе поражения Мэткины, которые не смогли избежать атаки, получают эффект [Fettles] ([FettleEffectsBasic]).</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -5376,47 +5376,47 @@
     </Entry>
     <Entry>
       <ID>1075</ID>
-      <DefaultText>В [FettleIcon: Status][Color: PositiveModifier]Скрытом[/Color] состоянии или при атаке на [FettleIcon: Debuff][Color: NegativeModifier]Ослепленного[/Color] врага автоматически убейте цель, если она имеет менее [Color: Health][BonusAmount1]% Здоровья[/Color].</DefaultText>
+      <DefaultText>В состоянии [FettleIcon: Status][Color: PositiveModifier]Скрытность[/Color] или при атаке противника с эффектом [FettleIcon: Debuff][Color: NegativeModifier]Ослепление[/Color], автоматически убивает цель, если она имеет менее [Color: Health][BonusAmount1]% Здоровья[/Color].</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>1076</ID>
-      <DefaultText>Искусный шифр</DefaultText>
+      <DefaultText>Адепт шифров</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>1077</ID>
-      <DefaultText>Сохраните следующий использованный шифр, чтобы повторно использовать его. Использование с предметами, дающими бессрочные бонусы, невозможно.</DefaultText>
+      <DefaultText>Сохраните следующий использованный шифр, чтобы повторно использовать его. Не работает с шифрами, дающими перманентные бонусы.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>1078</ID>
-      <DefaultText>Бог Укрытия</DefaultText>
+      <DefaultText>Бог Скрытности</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>1079</ID>
-      <DefaultText>Приобретите [PassiveEffectsBasic].</DefaultText>
+      <DefaultText>Вы получаете бонус [PassiveEffectsBasic].</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>1080</ID>
-      <DefaultText>Мантия Ахла</DefaultText>
+      <DefaultText>Плащ Аля</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>1081</ID>
-      <DefaultText>Остальные члены группы приобретают [PassiveEffectsBasic].</DefaultText>
+      <DefaultText>Все остальные члены группы получают бонус [PassiveEffectsBasic].</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>1082</ID>
-      <DefaultText>Сапожник</DefaultText>
+      <DefaultText>Собиратель камней</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>1083</ID>
-      <DefaultText>Приобретите [PassiveEffectsBasic].</DefaultText>
+      <DefaultText>Вы получаете [PassiveEffectsBasic].</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -5436,17 +5436,17 @@
     </Entry>
     <Entry>
       <ID>1087</ID>
-      <DefaultText>Приобретите [StatModifiers] и [SimpleTaskModifiers].</DefaultText>
+      <DefaultText>Вы получаете [StatModifiers] и [SimpleTaskModifiers].</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>1088</ID>
-      <DefaultText>Никогда не скучно</DefaultText>
+      <DefaultText>Скучно не бывает</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>1089</ID>
-      <DefaultText>Эрритис носится по полю боя, приобретая [Color: PositiveModifier]+20 % к вероятности нанесения решающего удара[/Color] каждый раз при совершении атаки на новую цель.</DefaultText>
+      <DefaultText>Эрритис носится по полю боя, получая бонус [Color: PositiveModifier]+20 % к вероятности нанесения критического удара[/Color] каждый раз, когда он атакует новую цель.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -5461,12 +5461,12 @@
     </Entry>
     <Entry>
       <ID>1092</ID>
-      <DefaultText>Динамическая наноэнергия</DefaultText>
+      <DefaultText>Кинетическая сверхактивность</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>1093</ID>
-      <DefaultText>Приобретите [PassiveEffectsBasic].</DefaultText>
+      <DefaultText>Вы получаете [PassiveEffectsBasic].</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -5486,7 +5486,7 @@
     </Entry>
     <Entry>
       <ID>1097</ID>
-      <DefaultText>Когда Эрритис наносит решающий удар, его атаки приобретают [Color: Damage]+[BonusAmount1] к урону[/Color] на все оставшееся время Кризиса. Данный эффект накапливается, увеличиваясь после нанесения каждого решающего удара.</DefaultText>
+      <DefaultText>Когда Эрритис наносит решающий удар, его атаки приобретают [Color: Damage]+[BonusAmount1] к урону[/Color] на все оставшееся время Кризиса. Данный эффект накапливается, увеличиваясь после нанесения каждого критического удара.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -5501,17 +5501,17 @@
     </Entry>
     <Entry>
       <ID>1100</ID>
-      <DefaultText>Принуждение к сражению на стороне заклинателя.</DefaultText>
+      <DefaultText>Заставляет сражаться на вашей стороне</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>1101</ID>
-      <DefaultText>Увеличение предела шифра</DefaultText>
+      <DefaultText>Повышение лимита шифров</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>1102</ID>
-      <DefaultText>Благодаря практике в обращении с шифрами вы можете переносить больше предметов без отрицательных последствий.</DefaultText>
+      <DefaultText>Благодаря практике в обращении с шифрами, вы можете переносить большее их количество без риска получения негативных последствий.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -5521,12 +5521,12 @@
     </Entry>
     <Entry>
       <ID>1104</ID>
-      <DefaultText>Нано получают повышение навыка Сосредоточенности.</DefaultText>
+      <DefaultText>Нано получают один уровень подготовки для навыка Концентрация.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>1105</ID>
-      <DefaultText>Автоматическое успешное выполнение следующего задания Убеждение, Хитрость или Устрашение.</DefaultText>
+      <DefaultText>Гарантирует успех при следующей проверке навыков Убеждение, Хитрость или Запугивание.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -5541,7 +5541,7 @@
     </Entry>
     <Entry>
       <ID>1108</ID>
-      <DefaultText>[PassiveEffectsBasic] и [Color: PositiveModifier]+20 % к вероятности нанесения решающего удара при атаке[/Color]</DefaultText>
+      <DefaultText>[PassiveEffectsBasic] и [Color: PositiveModifier]+20 % к вероятности нанесения критического удара при атаке[/Color]</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -5581,7 +5581,7 @@
     </Entry>
     <Entry>
       <ID>1116</ID>
-      <DefaultText>[FettleEffectsBasic] и автоматически выполняемая попытка спрятаться предпринимается в конце каждого действия.</DefaultText>
+      <DefaultText>[FettleEffectsBasic] и в конце каждого хода предпринимается автоматическая попытка войти в состояние скрытности</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -5616,12 +5616,12 @@
     </Entry>
     <Entry>
       <ID>1123</ID>
-      <DefaultText>Оборона Нихтемерона</DefaultText>
+      <DefaultText>Защита нихтемерона</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>1124</ID>
-      <DefaultText>Дает случайное состояние любому атакующему, эффект непредсказуем, как и сам нихтемерон.</DefaultText>
+      <DefaultText>Накладывает случайный эффект на любого противника атакующего вас в ближнем бою. Эффект непредсказуем, как и сам нихтемерон.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -5636,42 +5636,42 @@
     </Entry>
     <Entry>
       <ID>1127</ID>
-      <DefaultText>Интеллект катена</DefaultText>
+      <DefaultText>Интеллект Катены</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>1128</ID>
-      <DefaultText>Максимальное Усилие +1 при заданиях на Интеллект.</DefaultText>
+      <DefaultText>Предельное усилие при проверках Интеллекта увеличивается на +1.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>1129</ID>
-      <DefaultText>Сумасшествие Инифира</DefaultText>
+      <DefaultText>Безумие Инифира</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>1130</ID>
-      <DefaultText>Дает силу за счет ярости, но нужно заплатить цену за силу: [PassiveEffectsBasic].</DefaultText>
+      <DefaultText>Дает силу за счет ярости, но эта сила имеет свою цену: [PassiveEffectsBasic].</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>1131</ID>
-      <DefaultText>Мирное время Серии</DefaultText>
+      <DefaultText>Умиротворенность Серии</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>1132</ID>
-      <DefaultText>Приобретите [PassiveEffectsBasic].</DefaultText>
+      <DefaultText>Вы получаете [PassiveEffectsBasic].</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>1133</ID>
-      <DefaultText>Бальзам Чоя</DefaultText>
+      <DefaultText>Утешение Чой</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>1134</ID>
-      <DefaultText>Приобретите [PassiveEffectsBasic].</DefaultText>
+      <DefaultText>Вы получаете [PassiveEffectsBasic].</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -5681,12 +5681,12 @@
     </Entry>
     <Entry>
       <ID>1136</ID>
-      <DefaultText>Все компаньоны на небольшом расстоянии получают состояние [Fettles] ([FettleDescriptions])</DefaultText>
+      <DefaultText>Все союзники на небольшом расстоянии получают эффект [Fettles] ([FettleDescriptions])</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>1137</ID>
-      <DefaultText>Сумасшествие Инифира</DefaultText>
+      <DefaultText>Безумие Инифира</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -5736,12 +5736,12 @@
     </Entry>
     <Entry>
       <ID>1147</ID>
-      <DefaultText>Наносит [Damage] и накладывает состояние [Fettles], если цель не устояла против ([FettleEffectsBasic])\n\n[DamageFromEffort].</DefaultText>
+      <DefaultText>Наносит [Damage] и если сопротивляемость цели не сработала, то накладывает эффект [Fettles] ([FettleEffectsBasic])\n\n[DamageFromEffort]</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>1148</ID>
-      <DefaultText>Так как Каллистеж училась смертельной атаке много лет назад, ее соединение со вселенными ограничено гибкостью соединения. Она может только вызывать энергии перехода между измерениями для своей атаки.</DefaultText>
+      <DefaultText>Так как Каллистеж изучала эзотерию "Стремительная Атака" много лет назад, ее связь с мультивселенной имеет ограниченную гибкость. Она может призвать только межпространственную энергию для своей атаки.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -5926,7 +5926,7 @@
     </Entry>
     <Entry>
       <ID>1185</ID>
-      <DefaultText>Остальные члены группы приобретают [PassiveEffectsBasic].</DefaultText>
+      <DefaultText>Все остальные члены группы получают бонус [PassiveEffectsBasic].</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -5946,7 +5946,7 @@
     </Entry>
     <Entry>
       <ID>1189</ID>
-      <DefaultText>Многомерное нападение</DefaultText>
+      <DefaultText>Межпространственная атака</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -6046,7 +6046,7 @@
     </Entry>
     <Entry>
       <ID>1209</ID>
-      <DefaultText>Приобретите состояние [Fettles] ([FettleEffectsBasic])</DefaultText>
+      <DefaultText>Дает эффект [Fettles] ([FettleEffectsBasic])</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -6071,12 +6071,12 @@
     </Entry>
     <Entry>
       <ID>1214</ID>
-      <DefaultText>[PassiveEffectsBasic] и автоматически выполняемая попытка спрятаться предпринимается в конце каждой попытки.</DefaultText>
+      <DefaultText>[PassiveEffectsBasic] и в конце каждого хода предпринимается автоматическая попытка войти в состояние скрытности</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>1215</ID>
-      <DefaultText>Постоянно представляется [Color: PositiveModifier]+1 к уровню владения Сосредоточенностью[/Color].</DefaultText>
+      <DefaultText>Перманентно увеличивает [Color: PositiveModifier]навык Концентрация на +1[/Color].</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -6096,12 +6096,12 @@
     </Entry>
     <Entry>
       <ID>1219</ID>
-      <DefaultText>Вес брони почти ничего не значит для вас. Когда другие напуганы и совершают ошибки, вы действуете в битве со спокойной уверенностью.</DefaultText>
+      <DefaultText>Вес брони почти ничего не значит для вас. Когда другие напуганы и совершают ошибки, вы можете двигаться через битву со спокойной уверенностью.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>1220</ID>
-      <DefaultText>В середине битвы вы отходите, создавая ловушку... и глупец, который попытается извлечь из этого преимущества, быстро поймет свою ошибку.</DefaultText>
+      <DefaultText>В середине битвы вы отходите, создавая ловушку... и глупец, который попытается извлечь из этого преимущество, быстро поймет свою ошибку.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -6121,12 +6121,12 @@
     </Entry>
     <Entry>
       <ID>1224</ID>
-      <DefaultText>Шутки о культуре, происхождении, истории, запахе и брачных ритуалах врагов заставляют ваших друзей покатываться от смеха, а врагов — кипеть от ярости. Они будут пытаться убить вас за неуважение, чтобы прекратить такое поведение, так как вы ставите себя выше их.</DefaultText>
+      <DefaultText>Шутки о культуре, происхождении, истории, запахе и брачных ритуалах врагов заставляют ваших друзей покатываться от смеха, а врагов — кипеть от ярости. Они будут пытаться убить вас за это, игнорируя всех остальных.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>1225</ID>
-      <DefaultText>Цепь, крюк и неуравновешенный враг — все, что вам нужно, чтобы испортить кому-то день.  Вы наматываете цепь вокруг цели и сбиваете с ног врага, ошеломленного серией ваших атак.</DefaultText>
+      <DefaultText>Цепь, крюк и неуравновешенный противник - вот и все, что вам нужно, чтобы испортить кому-то день.  Вы наматываете цепь вокруг цели и подтягиваете ее в пределы досягаемости ваших атак.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -6141,7 +6141,7 @@
     </Entry>
     <Entry>
       <ID>1228</ID>
-      <DefaultText>Иногда вы можете быть окружены, и в этом случае точные удары будут не лучшим выходом. Иногда нужна только грубая сила. Покажите им, как они ошиблись, выбрав такой путь.</DefaultText>
+      <DefaultText>Иногда вы можете быть окружены, и в этом случае точные удары будут не лучшим выходом. Иногда нужна только грубая сила. Покажите им, как они ошиблись.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -6181,7 +6181,7 @@
     </Entry>
     <Entry>
       <ID>1236</ID>
-      <DefaultText>Ваш живой темперамент иногда может быть помехой... но если вы сфокусируетесь на приобретении навыка, вам не будет равных.</DefaultText>
+      <DefaultText>Ваш непостоянный темперамент иногда может быть помехой... но когда вы фокусируетесь на каком-то навыке, вам нет равных.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -6191,22 +6191,22 @@
     </Entry>
     <Entry>
       <ID>1238</ID>
-      <DefaultText>Кому нужны доспехи? Они замедляют движения и делают неповоротливым, а лишняя тяжесть может привести только к тому, что вас убьют. Вы же предпочитаете скорость и подвижность.</DefaultText>
+      <DefaultText>Кому нужны доспехи? Они медленные и громоздкие, и лишний вес может привести только к тому, что вас просто убьют. Вы предпочитаете скорость и подвижность.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>1239</ID>
-      <DefaultText>Вы щелкаете пальцами, и узлы сами распутываются. Двери со стуком распахиваются.  Ящики открываются. Это легко, если вы знаете, как это делать.</DefaultText>
+      <DefaultText>По щелчку ваших пальцев узлы распутываются сами. Двери распахиваются. Ящики открываются. Это легко, если вы знаете, как это сделать.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>1240</ID>
-      <DefaultText>Зачем сражаться честно? Нужно победить противников любой ценой — вы знаете, что они сделают так же в противоположной ситуации.</DefaultText>
+      <DefaultText>Зачем сражаться честно? Победить противников нужно любой ценой — и вы знаете, что они на вашем месте поступили бы точно так же.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>1241</ID>
-      <DefaultText>Вы вкладываете энергию в свое оружие, наполняя его тайной силой. Это превосходная защита от одетого в доспехи врага.</DefaultText>
+      <DefaultText>Вы направляете энергию в свое оружие, наполняя его эзотерической силой. Это прекрасное противоядие против бронированного противника.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -6216,7 +6216,7 @@
     </Entry>
     <Entry>
       <ID>1243</ID>
-      <DefaultText>Вы можете сделать союзником любого, кто встретится вам на пути. Получить доступ к своей тайной силе и изменить их решения.</DefaultText>
+      <DefaultText>Вы можете сделать союзником любого, кто встретится вам на пути. Используйте вашу тайную силу и измените их мнение о вас.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -6226,7 +6226,7 @@
     </Entry>
     <Entry>
       <ID>1245</ID>
-      <DefaultText>В другом пространстве также существуют различные места. Есть способ соединить два пункта, сложив ткань реальности. Связав два пункта, вы можете фактически присутствовать в двух местах одновременно... а получившийся энергетический взрыв замедлит продвижение врагов.</DefaultText>
+      <DefaultText>Любого места можно достичь, сложив ткань реальности и соединив две точки пространства. При соприкосновении этих точех, вы можете присутствовать в двух местах одновременно... а происходящий всплеск энергии замедляет ваших противников.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -6266,17 +6266,17 @@
     </Entry>
     <Entry>
       <ID>1253</ID>
-      <DefaultText>Атаковать тела и сознания своих врагов взрывом полученной энергии.</DefaultText>
+      <DefaultText>Атакует тела и сознание ваших противников взрывом призванной энергии.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>1254</ID>
-      <DefaultText>Говоря с обитателями Девятого Мира, вы иногда способны читать их мысли. Это часто полезно, но редко воспринимается положительно.</DefaultText>
+      <DefaultText>Говоря с обитателями Девятого Мира, вы иногда способны прочесть их мысли. Это часто бывает полезно, но редко принимается во внимание.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>1255</ID>
-      <DefaultText>Направьте незаметно действующую эзотерию через тело союзника, устраняя наиболее серьезные отрицательные последствия и исцеляя раны.</DefaultText>
+      <DefaultText>Направьте незаметно действующую эзотерию через тело союзника, устраняя наиболее серьезные отрицательные эффекты и исцеляя раны.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -6386,12 +6386,12 @@
     </Entry>
     <Entry>
       <ID>1277</ID>
-      <DefaultText>Чужеродные мысли этого существа заполняют ваше сознание, бросаясь на тех, кто имеет глупость напасть на вас.</DefaultText>
+      <DefaultText>Чужеродные мысли этого существа заполняют ваше сознание, набросываясь на тех, кто имеет глупость напасть на вас.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>1278</ID>
-      <DefaultText>Успокаивающая музыка Серии обволакивает ваше тело, усиливая все способности.</DefaultText>
+      <DefaultText>Успокаивающая музыка Серии мягко обволакивает вас, укрепляя тело и дух.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -6421,17 +6421,17 @@
     </Entry>
     <Entry>
       <ID>1284</ID>
-      <DefaultText>Вы нападаете из тени. Вы видите слабости своих врагов и в *первую очередь* наносите самый сильный удар.</DefaultText>
+      <DefaultText>Вы нападаете из тени. Вы имеете возможность ударить первым и нанести сильнейший удар в самое слабое место вашего противника.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>1285</ID>
-      <DefaultText>Тьма — ваш союзник. Вы превосходно владеете навыками, требующими скрытности.</DefaultText>
+      <DefaultText>Темнота - ваш союзник. Вы превосходно владеете навыками необходимыми для темных дел.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>1286</ID>
-      <DefaultText>Ваше оружие стремительно пронзает измерения, разрушая броню, плоть и саму реальность.</DefaultText>
+      <DefaultText>Ваше оружие размывается между множественными измерениями, разрывая броню, плоть и саму реальность.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -6481,7 +6481,7 @@
     </Entry>
     <Entry>
       <ID>1296</ID>
-      <DefaultText>Мало что может поставить Каллистеж в тупик. Во всяком случае, она никогда не остается в этом состоянии надолго. Члены группы, выполняющие задачи, связанные со Знанием, могут воспользоваться огромным опытом Каллистеж.</DefaultText>
+      <DefaultText>Мало что может поставить Каллистеж в тупик. Во всяком случае, она никогда не остаётся в этом состоянии надолго. Члены группы, решающие задачи, связанные со знанием, могут воспользоваться огромным опытом Каллистеж.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -6516,7 +6516,7 @@
     </Entry>
     <Entry>
       <ID>1303</ID>
-      <DefaultText>Тяжело раненному врагу сложно заметить спрятанный клинок. Скрытные атаки Мэткины против таких целей всегда смертельны.</DefaultText>
+      <DefaultText>Тяжело раненному противнику сложно заметить спрятанный клинок. Скрытные атаки Мэткины против таких целей всегда смертельны.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -6551,7 +6551,7 @@
     </Entry>
     <Entry>
       <ID>1310</ID>
-      <DefaultText>Красноречие и обаяние ключа передаются его товарищам. В его присутствии всем членам группы становится гораздо легче подобрать подходящие слова, чтобы выбраться из сложной ситуации.</DefaultText>
+      <DefaultText>Красноречие и обаяние Ключа передаются его товарищам. В его присутствии всем членам группы становится гораздо легче подобрать подходящие слова, чтобы выпутаться из сложной ситуации.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -6581,7 +6581,7 @@
     </Entry>
     <Entry>
       <ID>1316</ID>
-      <DefaultText>Ловкость — не самое героическое качество. То ли дело умение громить врагов могучими ударами. Следуя героическому примеру Эрритиса, все члены группы начинают разбивать все, что попадается под руку, на маленькие кусочки.</DefaultText>
+      <DefaultText>Утонченность - не самое героическое качество. То ли дело крушить все могучими ударами. Следуя героическому примеру Эрритиса, все члены группы начинают разбивать все, что попадается под руку, на маленькие кусочки.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -6601,12 +6601,12 @@
     </Entry>
     <Entry>
       <ID>1320</ID>
-      <DefaultText>Рин утверждает, что имеет связь с богом, который знает все о том, как прятаться. Трудно поспорить с тем, что какая-то сила помогает Рин.</DefaultText>
+      <DefaultText>Рин утверждает, что имеет связь с богом, который знает все о том, как прятаться. И глядя на результат, с этим трудно поспорить.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>1321</ID>
-      <DefaultText>Независимо от того, существует ли на самом деле этот бог пряток, присутствие Рин приносит пользу ее друзьям.</DefaultText>
+      <DefaultText>Независимо от того, существует ли на самом деле этот бог скрытности, пока Рин рядом, это приносит пользу ее друзьям.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -6656,7 +6656,7 @@
     </Entry>
     <Entry>
       <ID>1331</ID>
-      <DefaultText>[Healing] всех союзников в пределах заданной точки.</DefaultText>
+      <DefaultText>[Healing] всех союзников в радиусе действия.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -6691,7 +6691,7 @@
     </Entry>
     <Entry>
       <ID>1338</ID>
-      <DefaultText>Собирает струйки, которые атакуют ближайшего врага, нанося [Damage].</DefaultText>
+      <DefaultText>Призывает огоньки, которые атакуют ближайшего противника, нанося [Damage].</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -6716,7 +6716,7 @@
     </Entry>
     <Entry>
       <ID>1343</ID>
-      <DefaultText>Бог Перемен.</DefaultText>
+      <DefaultText>Бог Перемен</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>

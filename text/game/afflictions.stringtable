@@ -96,7 +96,7 @@
     </Entry>
     <Entry>
       <ID>18</ID>
-      <DefaultText>Под контролем</DefaultText>
+      <DefaultText>Контроль</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -106,7 +106,7 @@
     </Entry>
     <Entry>
       <ID>20</ID>
-      <DefaultText>Потрясение</DefaultText>
+      <DefaultText>Ошеломление</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -166,12 +166,12 @@
     </Entry>
     <Entry>
       <ID>32</ID>
-      <DefaultText>Ошеломление</DefaultText>
+      <DefaultText>Потрясение</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>33</ID>
-      <DefaultText>Ошеломление — описание</DefaultText>
+      <DefaultText>Потрясение — описание</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -186,7 +186,7 @@
     </Entry>
     <Entry>
       <ID>36</ID>
-      <DefaultText>Быстрота</DefaultText>
+      <DefaultText>Ускорение</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -241,7 +241,7 @@
     </Entry>
     <Entry>
       <ID>47</ID>
-      <DefaultText>Персонаж не может двигаться</DefaultText>
+      <DefaultText>персонаж не может двигаться</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -261,7 +261,7 @@
     </Entry>
     <Entry>
       <ID>51</ID>
-      <DefaultText>Превращает весь урон в межпространственный и обеспечивает [PassiveEffectsBasic] [Color: Damage]+100%[/Color] к урону, нанесенному этому персонажу (за исключением межпространственного)</DefaultText>
+      <DefaultText>Весь урон преобразуется в межпространственный и вы получаете [PassiveEffectsBasic], но при этом межпространственный урон по этому персонажу увеличивается на [Color: Damage]+100%[/Color]</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -466,12 +466,12 @@
     </Entry>
     <Entry>
       <ID>92</ID>
-      <DefaultText>Сопряженная подпрограмма</DefaultText>
+      <DefaultText>Пропорционная подпрограмма</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>93</ID>
-      <DefaultText>Когда в следующий раз у персонажа останется [BonusAmount1]% [Color: Health]здоровья[/Color] или другого параметра, он автоматически восстановит [Color: Health]здоровье[/Color] и все очки параметров.</DefaultText>
+      <DefaultText>Когда [Color: Health]Здоровье[/Color] или другой параметр персонажа опуститься до [BonusAmount1]%, он автоматически восстановит [Color: Health]Здоровье[/Color] и все очки параметров</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -726,7 +726,7 @@
     </Entry>
     <Entry>
       <ID>144</ID>
-      <DefaultText>Зловещий шепот наполняет ваш ум. Он намекает на бесчисленные секреты, которые можно раскрыть.</DefaultText>
+      <DefaultText>зловещий шепот наполняет ваш ум и намекает на бесчисленные секреты, которые можно раскрыть</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -766,12 +766,12 @@
     </Entry>
     <Entry>
       <ID>152</ID>
-      <DefaultText>Следующее попадание по этому персонажу нанесет [Damage]</DefaultText>
+      <DefaultText>следующее попадание по этому персонажу будет увеличено на [Damage]</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>153</ID>
-      <DefaultText>Превращает весь урон в межпространственный и обеспечивает [PassiveEffectsBasic] [Color: Damage]+50%[/Color] к урону, нанесенному этому персонажу (за исключением межпространственного)</DefaultText>
+      <DefaultText>Преобразует весь урон в межпространственный и дает бонус [PassiveEffectsBasic], но при этом межпространственный урон по этому персонажу увеличен на [Color: Damage]+50%[/Color]</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -791,7 +791,7 @@
     </Entry>
     <Entry>
       <ID>157</ID>
-      <DefaultText>Превращает весь наносимый урон в [DamageIcon: Energy][Color: Energy]энергетический[/Color] и [PassiveEffectsBasic]</DefaultText>
+      <DefaultText>Преобразует весь наносимый урон в [DamageIcon: Energy][Color: Energy]энергетический[/Color] и дает бонус [PassiveEffectsBasic]</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -816,7 +816,7 @@
     </Entry>
     <Entry>
       <ID>162</ID>
-      <DefaultText>Дарует иммунитет ко многим состояниям, которые наносят урон каждый ход, таким как [FettleIcon: Debuff][Color: NegativeModifier]"Кровотечение"[/Color] или [FettleIcon: Debuff][Color: NegativeModifier]"Ожог"[/Color].</DefaultText>
+      <DefaultText>Дарует иммунитет ко многим эффектам, которые наносят урон каждый ход, таким как [FettleIcon: Debuff][Color: NegativeModifier]"Кровотечение"[/Color] или [FettleIcon: Debuff][Color: NegativeModifier]"Ожог"[/Color].</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>

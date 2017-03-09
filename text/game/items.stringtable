@@ -711,12 +711,12 @@
     </Entry>
     <Entry>
       <ID>141</ID>
-      <DefaultText>Жидкоплоть</DefaultText>
+      <DefaultText>Распылитель плоти</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>142</ID>
-      <DefaultText>Эта крошечная канистра из синта распыляет липкое гелеобразное вещество. При попадании на раны этот гель мгновенно закрывает и затягивает их.</DefaultText>
+      <DefaultText>Эта небольшая канистра из синта распыляет липкое гелеобразное вещество. При попадании на раны этот гель мгновенно закрывает и затягивает их.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -776,17 +776,17 @@
     </Entry>
     <Entry>
       <ID>154</ID>
-      <DefaultText>Осколок кристалла</DefaultText>
+      <DefaultText>Кристаллический осколок</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>155</ID>
-      <DefaultText>Насыщенный осколок кристалла</DefaultText>
+      <DefaultText>Заряженный кристаллический осколок</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>156</ID>
-      <DefaultText>Нашелся в обломках резонансной камеры Меняющегося Бога. Острый, можно использовать как оружие. На Рифе Падших Миров в осколок ударил раскаленный луч с таинственного обелиска, и теперь кристалл наделен силой того обелиска.</DefaultText>
+      <DefaultText>Вы нашли этот осколок в обломках резонансной камеры Меняющегося Бога. Он острый и его можно использовать как оружие. На Рифе Падших Миров в осколок ударил раскаленный луч с таинственного обелиска, и теперь он наделен силой того обелиска.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -796,7 +796,7 @@
     </Entry>
     <Entry>
       <ID>158</ID>
-      <DefaultText>Нашелся в обломках резонансной камеры Меняющегося Бога. Острый, можно использовать как оружие.</DefaultText>
+      <DefaultText>Вы нашли этот осколок в обломках резонансной камеры Меняющегося Бога. Он острый и его можно использовать как оружие.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1031,12 +1031,12 @@
     </Entry>
     <Entry>
       <ID>219</ID>
-      <DefaultText>Баундер</DefaultText>
+      <DefaultText>Прыгун</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>220</ID>
-      <DefaultText>Тяжелый и крепкий коричневый шар похож на камень, который стал гладким в постоянном потоке воды. На одной стороне шара есть впадина, куда идеально ложится человеческая рука. При включении баундер поглощает пользователя и переносит его в близлежащее место, находящееся в поле зрения.</DefaultText>
+      <DefaultText>Тяжелый и крепкий коричневый шар похож на камень, который стал гладким в постоянном потоке воды. На одной стороне шара есть впадина, куда идеально ложится человеческая рука. При включении прыгун поглощает пользователя и переносит его в близлежащее место, находящееся в поле зрения.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1411,7 +1411,7 @@
     </Entry>
     <Entry>
       <ID>306</ID>
-      <DefaultText>Эта изящная булавка содержит крошечное устройство для ношения на груди. При давлении на булавку устройство активируется и создает вокруг носителя быстро меняющиеся мерцающие огни, из-за которых врагу сложнее взять хозяина булавки на прицел.</DefaultText>
+      <DefaultText>Эта изящная булавка содержит крошечное устройство для ношения на груди. При давлении на булавку устройство активируется и создает вокруг носителя быстро меняющиеся мерцающие огни, из-за которых противнику сложнее взять хозяина булавки на прицел.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1466,12 +1466,12 @@
     </Entry>
     <Entry>
       <ID>317</ID>
-      <DefaultText>Престидижитатор</DefaultText>
+      <DefaultText>Фокусник</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>318</ID>
-      <DefaultText>В маленькой изящной шкатулке, на бархатной подкладке лежит палец. Он человеческий, и частично выдолбленный. Палец пронизан синтовыми проводами, отчего кожа сохраняется упругой. Черную матовую шкатулку украшают занятные рисунки: гуманоид поедает палец, затем жонглирует, рисует и играет на скрипке. Еще несколько рисунков предупреждают о том, что отрезать себе палец и приставлять на его место Престидижитатор не следует.</DefaultText>
+      <DefaultText>В маленькой изящной шкатулке, на бархатной подкладке лежит палец. Он человеческий, и частично выдолбленный. Палец пронизан синтовыми проводами, отчего кожа сохраняется упругой. Черную матовую шкатулку украшают занятные рисунки: гуманоид поедает палец, затем жонглирует, рисует и играет на скрипке. Еще несколько рисунков предупреждают о том, что отрезать себе палец и приставлять на его место "Фокусника" не следует.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1636,7 +1636,7 @@
     </Entry>
     <Entry>
       <ID>351</ID>
-      <DefaultText>Шепоты</DefaultText>
+      <DefaultText>Шепот</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1661,7 +1661,7 @@
     </Entry>
     <Entry>
       <ID>356</ID>
-      <DefaultText>В пипетке находится жидкость чернее черного. При закапывании в глаза она ровно растекается по всему яблоку, но вместо того, чтобы ослепить, улучшает зрение, а по надобности густеет, чтобы защитить глаз.\n\nЖидкость не срастается с глазом, а находится поверх него. Управляют ей наноприборы, которые удерживают Глаза на месте и регулируют их плотность. Чтобы убрать жидкость из глаз, нужно просто выплакать их обратно в сосуд.</DefaultText>
+      <DefaultText>В пипетке находится жидкость чернее черного. При закапывании в глаза она ровно растекается по всему глазному яблоку, но вместо того, чтобы ослепить, улучшает зрение, а при надобности густеет, чтобы защитить глаз.\n\nЖидкость не срастается с глазом, а находится поверх него. Управляют ей наниты, которые удерживают Глаза на месте и контролируют их толщину. Чтобы убрать жидкость из глаз, нужно просто выплакать их обратно в сосуд.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1766,7 +1766,7 @@
     </Entry>
     <Entry>
       <ID>381</ID>
-      <DefaultText>Ползучая Тьма</DefaultText>
+      <DefaultText>Ползучая тьма</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1826,12 +1826,12 @@
     </Entry>
     <Entry>
       <ID>393</ID>
-      <DefaultText>Прилив духа</DefaultText>
+      <DefaultText>Ментальный прилив</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>394</ID>
-      <DefaultText>Мягкий, плотно запечатанный синтовый контейнер с вихрящимся фиолетовым газом. Контейнер можно открыть, а газ — вдохнуть, что даст прилив душевных сил.</DefaultText>
+      <DefaultText>Мягкий, плотно запечатанный синтовый контейнер с вихрящимся фиолетовым газом. Пурпурную субстанцию добывают в огромном строении, погребенном в песках Запределья. Контейнер можно открыть, а газ — вдохнуть, что даст прилив ментальной энергии.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1946,32 +1946,32 @@
     </Entry>
     <Entry>
       <ID>417</ID>
-      <DefaultText>Силки из густого воздуха</DefaultText>
+      <DefaultText>Загуститель воздуха</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>418</ID>
-      <DefaultText>Если поднести к уху морскую раковину, то можно услышать в ней далекий шум моря. Если же взять в руки это устройство, похожее на бирюзовую флейту, одежда и волосы держателя начнут плавать в воздухе, как если бы он находился под водой. Если подуть в инструмент, из него вылетит мощный залп нанитов, который сгустит воздух поблизости до плотности воды. Воздух замедлит тех, кого держатель инструмента считает врагами, или окажет на них иное отрицательное воздействие.</DefaultText>
+      <DefaultText>Сродни морской раковине, из которой слышится шум моря, если ее поднести к уху, это устройство, похожее на бирюзовую колбообразную флейту, вызывает ощущение нахождения под водой - одежда и волосы свободно плавают, как будто омываемые океанским течением. Если дунуть в устройство, из него вылетит мощная волна нанитов, которая сгустит воздух поблизости до плотности воды. Воздух замедлит всех, кого владелец устройства считает своими противниками.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>419</ID>
-      <DefaultText>Софул</DefaultText>
+      <DefaultText>Очищенная сила</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>420</ID>
-      <DefaultText>Кристалл, пульсирующий сильной энергией. Он мягко расширяется и сжимается, будто дышит. Из центра кристалла выходит игла, и, если воткнуть ее в вену, кристалл передаст вам свою энергию, что ненадолго повысит выносливость и мышечную массу.</DefaultText>
+      <DefaultText>Кристалл, пульсирующий сильной энергией. Он мягко расширяется и сжимается, будто дышит. Из центра кристалла выходит игла, и, если воткнуть ее в вену, кристалл передаст вам свою энергию, что ненадолго повысит физическую выносливость и мышечную массу.\n\nЭти кристаллы выпаривают из мутной жидкости, которую изредка можно найти в Гарравийском Заливе. Происхождение кристаллов неизвестно и процесс их производства без разрушения активной составляющей довольно сложен, но тем не менее они встречаются весьма часто.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>421</ID>
-      <DefaultText>Бистре</DefaultText>
+      <DefaultText>Подвижный мох</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>422</ID>
-      <DefaultText>С виду совершенно обычный камень, покрытый мхом. Если бы он лежал на земле, его мало кто заметил бы. Однако, мох странно движется, и камень при этом вибрирует. Если проглотить камень, он растворится и выпустит заключенную в нем энергию.</DefaultText>
+      <DefaultText>С виду совершенно обычный камень, покрытый мхом и если бы он лежал на земле, то его мало бы кто заметил. Однако, мох странно движется, и камень при этом вибрирует. Если проглотить камень, он растворится и выпустит заключенную в нем мощную энергию. Эти камни можно найти, ныряя в воду возле Утесов Сагуса - возможно они получили свои свойства от неизвестного воздействия окружающих нуменер.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -2086,7 +2086,7 @@
     </Entry>
     <Entry>
       <ID>445</ID>
-      <DefaultText>Сопряженная подпрограмма</DefaultText>
+      <DefaultText>Пропорционная подпрограмма</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -2296,7 +2296,7 @@
     </Entry>
     <Entry>
       <ID>493</ID>
-      <DefaultText>Гром-пушка</DefaultText>
+      <DefaultText>Грохочущая пушка</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -2491,7 +2491,7 @@
     </Entry>
     <Entry>
       <ID>556</ID>
-      <DefaultText>Ранящая Память</DefaultText>
+      <DefaultText>Разрывающая память</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -2501,7 +2501,7 @@
     </Entry>
     <Entry>
       <ID>558</ID>
-      <DefaultText>Неблагозвучное Сознание</DefaultText>
+      <DefaultText>Какофоническое сознание</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -2511,12 +2511,12 @@
     </Entry>
     <Entry>
       <ID>560</ID>
-      <DefaultText>Очи Предела</DefaultText>
+      <DefaultText>Глаза Предела</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>561</ID>
-      <DefaultText>Небольшая стеклянная пластина, из которой сделали брошь. Однако, украшением это не назвать, т.к. множество глаз из иного мира смотрит через стекло на интересное место, в котором обитаете вы. Глаза видят слабость во врагах, особенно в тех, кто уже ослаб.</DefaultText>
+      <DefaultText>Небольшая стеклянная пластина, из которой сделали брошь. Однако, украшением это не назвать, так как множество глаз из иного мира смотрит через стекло на интересное место, в котором обитаете вы. Глаза видят слабости в противниках, особенно в тех, кто уже ослаб.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -2541,7 +2541,7 @@
     </Entry>
     <Entry>
       <ID>566</ID>
-      <DefaultText>Вилка Еретика</DefaultText>
+      <DefaultText>Вилка еретика</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -2581,17 +2581,17 @@
     </Entry>
     <Entry>
       <ID>574</ID>
-      <DefaultText>Умное кольцо</DefaultText>
+      <DefaultText>Умный браслет</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>575</ID>
-      <DefaultText>Плотное облако металлических насекомоподобных дроунов, которые переплелись так тесно, что превратились в твердое кольцо. Чтобы защититься, насекомые кидаются врассыпную, и, применяя разные силы, отражают летящие в них снаряды, одновременно защищая и носителя кольца. Умный носитель может указать насекомым, от чего именно защищаться.</DefaultText>
+      <DefaultText>Плотное облако металлических насекомоподобных дронов, которые переплелись так тесно, что превратились в твердое кольцо. Чтобы защититься, насекомые кидаются врассыпную, и, применяя разные силы, отражают летящие в них снаряды, одновременно защищая и носителя кольца. Умный носитель может указать насекомым, от чего именно защищаться.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>576</ID>
-      <DefaultText>Прозрачная обертка</DefaultText>
+      <DefaultText>Прозрачная шаль</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -2646,12 +2646,12 @@
     </Entry>
     <Entry>
       <ID>589</ID>
-      <DefaultText>Следующий враг, применивший атаку ближнего боя против этого персонажа, будет [FettleIcon: Debuff][Color: NegativeModifier]сбит с ног[/Color].</DefaultText>
+      <DefaultText>Следующий противник, атакующий этого персонажа в ближнем бою, получит эффект [FettleIcon: Debuff][Color: NegativeModifier]Нокдаун[/Color].</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>590</ID>
-      <DefaultText>Следующий враг, применивший атаку ближнего боя против этого персонажа, будет [FettleIcon: Debuff][Color: NegativeModifier]сбит с ног[/Color].</DefaultText>
+      <DefaultText>Следующий противник, атакующий этого персонажа в ближнем бою, получит эффект [FettleIcon: Debuff][Color: NegativeModifier]Нокдаун[/Color].</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -2706,7 +2706,7 @@
     </Entry>
     <Entry>
       <ID>601</ID>
-      <DefaultText>Целительный меч</DefaultText>
+      <DefaultText>Меч исцеления</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -2941,7 +2941,7 @@
     </Entry>
     <Entry>
       <ID>648</ID>
-      <DefaultText>Дает иммунитет к [FettleIcon: Debuff][Color: NegativeModifier]"Потрясению"[/Color] и [FettleIcon: Debuff][Color: NegativeModifier]"Слепоте"[/Color].</DefaultText>
+      <DefaultText>Дает иммунитет к эффектам [FettleIcon: Debuff][Color: NegativeModifier]"Ошеломление"[/Color] и [FettleIcon: Debuff][Color: NegativeModifier]"Ослепление"[/Color].</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -3161,7 +3161,7 @@
     </Entry>
     <Entry>
       <ID>692</ID>
-      <DefaultText>"Быстрые пальцы": +2 до следующего отдыха.</DefaultText>
+      <DefaultText>"Ловкость рук": +2 до следующего отдыха.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -3171,7 +3171,7 @@
     </Entry>
     <Entry>
       <ID>694</ID>
-      <DefaultText>На 3 раунда накладывает состояние "Неподвижность".</DefaultText>
+      <DefaultText>На 3 раунда накладывает эффект "Неподвижность".</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -3196,7 +3196,7 @@
     </Entry>
     <Entry>
       <ID>699</ID>
-      <DefaultText>Восполняет [Color: Health]здоровье[/Color], [Color: Might]силу[/Color], [Color: Speed]скорость[/Color] и [Color: Intellect]интеллект[/Color] всех членов группы.</DefaultText>
+      <DefaultText>Восполняет [Color: Health]Здоровье[/Color], [Color: Might]Силу[/Color], [Color: Speed]Скорость[/Color] и [Color: Intellect]Интеллект[/Color] всех членов группы.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -3221,7 +3221,7 @@
     </Entry>
     <Entry>
       <ID>704</ID>
-      <DefaultText>Крохотная синтовая банка с липкой желеобразной субстанцией. При должном нанесении желе покрывает и мгновенно затягивает раны.</DefaultText>
+      <DefaultText>Небольшая синтовая банка с липкой желеобразной субстанцией. При правильном распылении желе покрывает и мгновенно затягивает раны.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -3446,7 +3446,7 @@
     </Entry>
     <Entry>
       <ID>760</ID>
-      <DefaultText>Бог находок</DefaultText>
+      <DefaultText>Бог Находок</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -3896,12 +3896,12 @@
     </Entry>
     <Entry>
       <ID>850</ID>
-      <DefaultText>Простое и действенное взрывное устройство, принесшее много бед тем, кто имел неосторожность набрести на него. Бомба сделана из мусора и нуменер, и, если метнуть ее во врага, последствия могут быть серьезными и непредсказуемыми.\n\nГоворят, что большинство жертв таких бомб — это те, кто хотел их применить, т.к. бомбы настолько неуправляемые, что представляют равную опасность как для врага, так и для владельца.</DefaultText>
+      <DefaultText>Простое и эффективное взрывное устройство, принесшее много бед тем, кто имел неосторожность наткнуться на него. Бомба сделана из мусора и нуменер, и, если метнуть ее во врага, последствия могут быть серьезными и непредсказуемыми.\n\nГоворят, что большинство жертв подобных бомб — это те, кто пытались их применить, поскольку бомбы настолько нестабильные, что представляют одинаковыю опасность опасность как для противников, так и для владельца.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>851</ID>
-      <DefaultText>Скорпионово Желание</DefaultText>
+      <DefaultText>Желание скорпиона</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -3926,7 +3926,7 @@
     </Entry>
     <Entry>
       <ID>856</ID>
-      <DefaultText>Странный шприц, полный жидкости, которая движется сама по себе вне зависимости от положения шприца. Игла безупречно чиста и украшена странными символами. При введении жидкости в тело пользователь на миг ощущает невероятную ясность мысли, что дает ему весомое преимущество в предстоящем испытании.</DefaultText>
+      <DefaultText>Странный шприц, полный жидкости, которая движется сама по себе вне зависимости от положения шприца. Игла безупречно чиста и украшена странными символами. При введении жидкости в тело пользователь на миг ощущает невероятную ясность мысли, что дает ему весомое преимущество в любом испытании.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -4011,7 +4011,7 @@
     </Entry>
     <Entry>
       <ID>873</ID>
-      <DefaultText>Хитрый фантом</DefaultText>
+      <DefaultText>Крадущийся фантом</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -4056,7 +4056,7 @@
     </Entry>
     <Entry>
       <ID>882</ID>
-      <DefaultText>Бочонок размером с ладонь, сделанный из дерева прочнее стали и настолько гладкого, что напоминает поверхность стекла. Внутри плещется черная жидкость, от запаха которой слезятся глаза. Поглощение жидкости окажет мощное — хоть и скачкообразное — воздействие на разум и дух.</DefaultText>
+      <DefaultText>Бочонок размером с ладонь, сделанный из дерева прочнее стали и настолько гладкого, что напоминает поверхность стекла. Внутри плещется черная жидкость, от запаха которой слезятся глаза. Поглощение жидкости окажет мощное — хоть и неравномерное — воздействие на разум и дух.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -4121,7 +4121,7 @@
     </Entry>
     <Entry>
       <ID>895</ID>
-      <DefaultText>Загадочный шар</DefaultText>
+      <DefaultText>Таинственный шар</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -4136,7 +4136,7 @@
     </Entry>
     <Entry>
       <ID>898</ID>
-      <DefaultText>Тонкий и короткий шелковый шнурок, совершенно не опасный. Однако, если его потереть между ладонями, шнурок начинает вырабатывать тепло и энергию, и в итоге превращается в красный энергетический хлыст. При ударе по врагу хлыст накрепко обвивается вокруг него.</DefaultText>
+      <DefaultText>Тонкий и короткий шелковый шнурок, совершенно не опасный. Однако, если его потереть между ладонями, шнурок начинает вырабатывать тепло и энергию, и в итоге превращается в красный энергетический хлыст. При ударе по противнику хлыст накрепко обвивается вокруг него.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -4501,12 +4501,12 @@
     </Entry>
     <Entry>
       <ID>971</ID>
-      <DefaultText>Кусок кости Цветения</DefaultText>
+      <DefaultText>Костянной осколок Цветения</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>972</ID>
-      <DefaultText>Лезвие этого кинжала сделано из "зуба" Цветения, которому придали форму грубого, но действенного оружия.\n\nВ кости еще сохранилась часть разума Цветения, так что кроме нанесения обычного резаного урона кинжал способен проникать в мысли жертвы и ухудшать ее боевые навыки.\n\nЕсли поднести кинжал к уху, можно услышать нестройные жуткие голоса Цветения, отчего по спине непроизвольно пробегает холодок.</DefaultText>
+      <DefaultText>Лезвие этого кинжала сделано из "зуба" Цветения, которому придали форму грубого, но действенного оружия.\n\nВ кости еще сохранилась часть разума Цветения, так что кроме нанесения обычного урона кинжал способен проникать в мысли жертвы и ухудшать ее боевые навыки.\n\nЕсли поднести кинжал к уху, можно услышать нестройные жуткие голоса Цветения, отчего по спине непроизвольно пробегает холодок.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -4521,7 +4521,7 @@
     </Entry>
     <Entry>
       <ID>975</ID>
-      <DefaultText>Хватка Могучего Калас'Тора</DefaultText>
+      <DefaultText>Браслет Могучего Калас'Тора</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -4641,7 +4641,7 @@
     </Entry>
     <Entry>
       <ID>999</ID>
-      <DefaultText>Смехоплащ</DefaultText>
+      <DefaultText>Усмехающийся плащ</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -4661,7 +4661,7 @@
     </Entry>
     <Entry>
       <ID>1003</ID>
-      <DefaultText>Плащ из лиц</DefaultText>
+      <DefaultText>Плащ лиц</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -4691,7 +4691,7 @@
     </Entry>
     <Entry>
       <ID>1009</ID>
-      <DefaultText>Щит Принца Сетурлов</DefaultText>
+      <DefaultText>Щит принца Сетурлов</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -4741,7 +4741,7 @@
     </Entry>
     <Entry>
       <ID>1019</ID>
-      <DefaultText>Переплетенное кольцо</DefaultText>
+      <DefaultText>Кольцо Сплетения</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -4811,7 +4811,7 @@
     </Entry>
     <Entry>
       <ID>1033</ID>
-      <DefaultText>Игольник</DefaultText>
+      <DefaultText>Иглострел</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -4841,7 +4841,7 @@
     </Entry>
     <Entry>
       <ID>1039</ID>
-      <DefaultText>Реактивный доспех</DefaultText>
+      <DefaultText>Реакционный доспех</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -4851,7 +4851,7 @@
     </Entry>
     <Entry>
       <ID>1041</ID>
-      <DefaultText>Шкура</DefaultText>
+      <DefaultText>Вторая кожа</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -4886,7 +4886,7 @@
     </Entry>
     <Entry>
       <ID>1048</ID>
-      <DefaultText>Конструкция из тонких пластин, напоминающих синт. Во все стороны торчат колючие отростки, отчего броня напоминает странный шипастый панцирь, но природа ее на самом деле куда более сложная и зловещая. Броня сжимается и разжимается, будто дышит, и при этом слышится тихий шепот. Молочно-белый материал больше похож на органический, нежели на искусственный. При носке броня принимает форму тела, в процессе едва слышно вздыхая.</DefaultText>
+      <DefaultText>Рубашка Рин</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -5206,12 +5206,12 @@
     </Entry>
     <Entry>
       <ID>1113</ID>
-      <DefaultText>Острое орудие генерирует и выпускает короткие мощные электроразряды по целям. Жало доработали так, что оно легко крепится на человеческой руке, и оно удобно ложится в ладонь.</DefaultText>
+      <DefaultText>Это устройство генерирует и выпускает в цель мощные электрические разряды. Оно было искусно доработано для крепления на руке, и удобно ложится в ладонь.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>1114</ID>
-      <DefaultText>Разрыв материала</DefaultText>
+      <DefaultText>Разрушение материала</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -5281,7 +5281,7 @@
     </Entry>
     <Entry>
       <ID>1128</ID>
-      <DefaultText>Навсегда повышает [Color: Intellect]интеллект[/Color] на 1 и накладывает [Fettles] ([FettleEffectsBasic]).</DefaultText>
+      <DefaultText>Навсегда повышает [Color: Intellect]Интеллект[/Color] на 1 и накладывает эффект [Fettles] ([FettleEffectsBasic]).</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -5451,12 +5451,12 @@
     </Entry>
     <Entry>
       <ID>1162</ID>
-      <DefaultText>[Healing] и снятие всех [FettleIcon: Debuff] негативных воздействий со всех союзников в зоне действия (за исключением воздействий [FettleIcon: Debuff][Color: NegativeModifier]"В окружении"[/Color] и [FettleIcon: Debuff][Color: NegativeModifier]"Длительный урон"[/Color].</DefaultText>
+      <DefaultText>[Healing] и симает все [FettleIcon: Debuff] негативные эффекты со всех союзников в зоне действия (кроме [FettleIcon: Debuff][Color: NegativeModifier]Обход с фланга[/Color] и [FettleIcon: Debuff][Color: NegativeModifier]Длительный урон[/Color]).</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>1163</ID>
-      <DefaultText>Навсегда добавляет [Color: Positive Modifier]+1 &lt;quad class="resistance"&gt;к стойкости[/Color].</DefaultText>
+      <DefaultText>Перманенто увеличивает [Color: PositiveModifier]&lt;quad class="resistance"&gt; Сопротивление на +1[/Color].</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -5466,7 +5466,7 @@
     </Entry>
     <Entry>
       <ID>1165</ID>
-      <DefaultText>Мгновенно снимает все [FettleIcon: Buff]положительные и [FettleIcon: Status]статусные эффекты со всех врагов. Кроме того, накладывает [Fettles] ([FettleEffectsBasic]).</DefaultText>
+      <DefaultText>Мгновенно снимает все [FettleIcon: Buff]положительные и [FettleIcon: Status]статусные эффекты со всех врагов. В дополнение дает эффект [Fettles] ([FettleEffectsBasic]).</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -5486,7 +5486,7 @@
     </Entry>
     <Entry>
       <ID>1169</ID>
-      <DefaultText>Призванный иллюзорный ужас наносит [Damage] любому врагу в непосредственной зоне поражения</DefaultText>
+      <DefaultText>Призванный иллюзорный ужас наносит [Damage] любому противнику в непосредственной зоне поражения</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -5511,7 +5511,7 @@
     </Entry>
     <Entry>
       <ID>1174</ID>
-      <DefaultText>Призванный сгусток, наносящий ближайшему к нему врагу [Damage] во время своего хода</DefaultText>
+      <DefaultText>Призванный сгусток, наносящий ближайшему к нему противнику [Damage] во время своего хода</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -5556,12 +5556,12 @@
     </Entry>
     <Entry>
       <ID>1183</ID>
-      <DefaultText>Противодействует [FettleIcon: Debuff][Color: NegativeModifier]негативным состояниям[/Color] (за исключением состояний [FettleIcon: Debuff][Color: NegativeModifier]"В окружении"[/Color] и [FettleIcon: Debuff][Color: NegativeModifier]"Длительный урон"[/Color]), наложенным на этого персонажа, и [Healing] за ход</DefaultText>
+      <DefaultText>Противодействует [FettleIcon: Debuff][Color: NegativeModifier]негативным эффектам[/Color] (кроме [FettleIcon: Debuff][Color: NegativeModifier]Обход с фланга[/Color] и [FettleIcon: Debuff][Color: NegativeModifier]Длительный урон[/Color]), накладываемым на этого персонажа, и [Healing] за ход</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>1184</ID>
-      <DefaultText>Отменяет следующее [FettleIcon: Debuff]негативное состояние, наложенное на этого персонажа (за исключением состояний [FettleIcon: Debuff][Color: NegativeModifier]"В окружении"[/Color] и [FettleIcon: Debuff][Color: NegativeModifier]"Длительный урон"[/Color]) и наносит атакующему [Damage].</DefaultText>
+      <DefaultText>Отменяет следующий [FettleIcon: Debuff]негативный эффект, накладываемый на персонажа (кроме [FettleIcon: Debuff][Color: NegativeModifier]Обход с фланга[/Color] и [FettleIcon: Debuff][Color: NegativeModifier]Длительный урон[/Color]) и наносит атакующему [Damage]</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -5576,7 +5576,7 @@
     </Entry>
     <Entry>
       <ID>1187</ID>
-      <DefaultText>После использования энергии двигателя для удара по врагу защита двигателя временно отключается.</DefaultText>
+      <DefaultText>После использования энергии двигателя для удара по противнику защита двигателя временно отключается.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -5586,7 +5586,7 @@
     </Entry>
     <Entry>
       <ID>1189</ID>
-      <DefaultText>После получения урона накладывает [Fettles] на атакующего ([FettleDescriptions]). [Duration].</DefaultText>
+      <DefaultText>При получении урона накладывает на атакующего эффект [Fettles] ([FettleDescriptions]). [Duration].</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -5596,7 +5596,7 @@
     </Entry>
     <Entry>
       <ID>1191</ID>
-      <DefaultText>В начале каждого хода находящегося рядом врага опутывает щупальце. Наносит цели [Damage]. [Healing] владельца.</DefaultText>
+      <DefaultText>В начале каждого хода находящегося рядом противника опутывает щупальце. Наносит цели [Damage]. [Healing] владельца.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -5606,12 +5606,12 @@
     </Entry>
     <Entry>
       <ID>1193</ID>
-      <DefaultText>Получив [DamageIcon: Energy][Color: Energy]энергетический[/Color], [DamageIcon: Chemical][Color: Chemical]химический[/Color], [DamageIcon: Mental][Color: Mental]ментальный[/Color] или [DamageIcon: Transdimensional][Color: Transdimensional]межпространственный[/Color] урон, накладывает [Fettles] ([FettleDescriptions]). [Duration].</DefaultText>
+      <DefaultText>При получении [DamageIcon: Energy][Color: Energy]энергетического[/Color], [DamageIcon: Chemical][Color: Chemical]химического[/Color], [DamageIcon: Mental][Color: Mental]ментального[/Color] или [DamageIcon: Transdimensional][Color: Transdimensional]межпространственного[/Color] урон, дает эффект [Fettles] ([FettleDescriptions]). [Duration].</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>1194</ID>
-      <DefaultText>Получив [DamageIcon: Energy][Color: Energy]энергетический[/Color], [DamageIcon: Chemical][Color: Chemical]химический[/Color], [DamageIcon: Mental][Color: Mental]ментальный[/Color] или [DamageIcon: Transdimensional][Color: Transdimensional]межпространственный[/Color] урон, накладывает [Fettles] ([FettleDescriptions]). [Duration].</DefaultText>
+      <DefaultText>При получении [DamageIcon: Energy][Color: Energy]энергетического[/Color], [DamageIcon: Chemical][Color: Chemical]химического[/Color], [DamageIcon: Mental][Color: Mental]ментального[/Color] или [DamageIcon: Transdimensional][Color: Transdimensional]межпространственного[/Color] урон, дает эффект [Fettles] ([FettleDescriptions]). [Duration].</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -5626,7 +5626,7 @@
     </Entry>
     <Entry>
       <ID>1197</ID>
-      <DefaultText>При получении урона в ближнем бою наносит [Damage] и накладывает на атакующего [Fettles] ([FettleDescriptions]). [Duration].</DefaultText>
+      <DefaultText>При получении урона в ближнем бою наносит в ответ [Damage] и накладывает на атакующего [Fettles] ([FettleDescriptions]). [Duration].</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -5671,7 +5671,7 @@
     </Entry>
     <Entry>
       <ID>1206</ID>
-      <DefaultText>Разрез в измерениях</DefaultText>
+      <DefaultText>Разрез пространства</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -5706,7 +5706,7 @@
     </Entry>
     <Entry>
       <ID>1213</ID>
-      <DefaultText>Открывает канал к ближайшему небесному телу. Выпускает заряд, который наносит [Damage] и накладывает [Fettles] ([Duration]) ближайшему врагу каждый ход, пока действует эффект ([FettleDescriptions]).</DefaultText>
+      <DefaultText>Открывает канал к ближайшему небесному телу. Выпускает заряд, который наносит [Damage] и каждый ход, пока действует, накладывает эффект [Fettles]([FettleDescriptions]) на ближайшего противника. [Duration].</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -5761,7 +5761,7 @@
     </Entry>
     <Entry>
       <ID>1224</ID>
-      <DefaultText>Нижняя рубашка Эрритиса</DefaultText>
+      <DefaultText>Рубашка Эрритиса</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -5936,7 +5936,7 @@
     </Entry>
     <Entry>
       <ID>1259</ID>
-      <DefaultText>Накладывает [Fettles] ([FettleEffectsBasic]).</DefaultText>
+      <DefaultText>При использовании дает эффект [Fettles] ([FettleEffectsBasic]).</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -5946,7 +5946,7 @@
     </Entry>
     <Entry>
       <ID>1261</ID>
-      <DefaultText>Накладывает [Fettles] ([FettleEffectsBasic]).</DefaultText>
+      <DefaultText>При использовании дает эффект [Fettles] ([FettleEffectsBasic]).</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -5956,12 +5956,12 @@
     </Entry>
     <Entry>
       <ID>1263</ID>
-      <DefaultText>Наносит [Damage] и накладывает [Fettles] ([FettleDescriptions]).</DefaultText>
+      <DefaultText>Наносит [Damage] и накладывает эффект [Fettles] ([FettleDescriptions]).</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>1264</ID>
-      <DefaultText>Наносит [Damage] всем персонажам в зоне действия.</DefaultText>
+      <DefaultText>Наносит [Damage] всем в зоне поражения.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -5981,12 +5981,12 @@
     </Entry>
     <Entry>
       <ID>1268</ID>
-      <DefaultText>Навсегда добавляет [Color: PositiveModifier]+1 уровень подготовки в "Быстрых пальцах"[/Color].</DefaultText>
+      <DefaultText>Перманентно повышает уровень подготовки [Color: PositiveModifier]навыка Ловкость Рук на 1[/Color].</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>1269</ID>
-      <DefaultText>Наносит [Damage] и накладывает [Fettles] ([FettleEffectsBasic]).</DefaultText>
+      <DefaultText>Наносит [Damage] и накладывает эффект [Fettles] ([FettleEffectsBasic]).</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -5996,12 +5996,12 @@
     </Entry>
     <Entry>
       <ID>1271</ID>
-      <DefaultText>Наносит [Damage] и накладывает [Fettles] ([FettleEffectsBasic]).</DefaultText>
+      <DefaultText>Наносит [Damage] и накладывает эффект [Fettles] ([FettleEffectsBasic]).</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>1272</ID>
-      <DefaultText>Наносит [Damage] и накладывает [Fettles] на всех врагов в радиусе воздействия ([FettleEffectsBasic]).</DefaultText>
+      <DefaultText>Наносит [Damage] и накладывает эффект [Fettles] на всех противников в зоне поражения ([FettleEffectsBasic]).</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -6021,17 +6021,17 @@
     </Entry>
     <Entry>
       <ID>1276</ID>
-      <DefaultText>Режет врага, нанося [Damage], и накладывает [Fettles] ([FettleEffectsBasic]).</DefaultText>
+      <DefaultText>Режет врага, нанося [Damage], и накладывает эффект [Fettles] ([FettleEffectsBasic]).</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>1277</ID>
-      <DefaultText>[Healing] и накладывает [Fettles] на всех персонажей (включая врагов) в зоне действия ([FettleEffectsBasic]).</DefaultText>
+      <DefaultText>[Healing] и накладывает эффект [Fettles] на всех персонажей (включая противников) в зоне действия ([FettleEffectsBasic]).</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>1278</ID>
-      <DefaultText>Наносит выбранному врагу [Damage].</DefaultText>
+      <DefaultText>Наносит указанному противнику [Damage].</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -6051,7 +6051,7 @@
     </Entry>
     <Entry>
       <ID>1282</ID>
-      <DefaultText>Наносит [Damage] и накладывает [Fettles] всем персонажам на дистанции поражения от выбранной точки ([FettleDescriptions]).</DefaultText>
+      <DefaultText>Наносит [Damage] и накладывает эффект [Fettles] на всех в области поражения ([FettleDescriptions]).</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -6071,12 +6071,12 @@
     </Entry>
     <Entry>
       <ID>1286</ID>
-      <DefaultText>Снимает все [FettleIcon: Debuff]негативные эффекты (за исключением состояний [FettleIcon: Debuff][Color: NegativeModifier]"В окружении"[/Color] и [FettleIcon: Debuff][Color: NegativeModifier]"Длительный урон"[/Color]), а также восстанавливает [Color: Might]силу[/Color], [Color: Speed]скорость[/Color], [Color: Intellect]интеллект[/Color] и [Color: Health]здоровье[/Color].</DefaultText>
+      <DefaultText>Снимает все [FettleIcon: Debuff]негативные эффекты (кроме [FettleIcon: Debuff][Color: NegativeModifier]Обход с фланга[/Color] и [FettleIcon: Debuff][Color: NegativeModifier]Длительный урон[/Color]), а также восстанавливает [Color: Might]Силу[/Color], [Color: Speed]Скорость[/Color], [Color: Intellect]Интеллект[/Color] и [Color: Health]Здоровье[/Color].</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>1287</ID>
-      <DefaultText>Наносит [Damage] и накладывает [Fettles] на всех врагов в радиусе воздействия ([FettleEffectsBasic]).</DefaultText>
+      <DefaultText>Наносит [Damage] и накладывает эффект [Fettles] на всех противников в зоне поражения ([FettleEffectsBasic]).</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -6106,7 +6106,7 @@
     </Entry>
     <Entry>
       <ID>1293</ID>
-      <DefaultText>Накладывает [Fettles] ([FettleDescriptions]). [Duration].</DefaultText>
+      <DefaultText>Накладывает эффект [Fettles] ([FettleDescriptions]). [Duration].</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -6126,7 +6126,7 @@
     </Entry>
     <Entry>
       <ID>1297</ID>
-      <DefaultText>Выберите навык знаний и навсегда получите [Color: PositiveModifiers]+1 уровень подготовки[/Color] в этом навыке.</DefaultText>
+      <DefaultText>Навсегда увеличивает [Color: PositiveModifiers]уровень подготовки на +1[/Color] в навыке знания на ваш выбор.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -6156,7 +6156,7 @@
     </Entry>
     <Entry>
       <ID>1303</ID>
-      <DefaultText>При критических попаданиях на владельца действует [HealingCrit].</DefaultText>
+      <DefaultText>При критических попаданиях владелец меча [HealingCrit].</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -6171,17 +6171,17 @@
     </Entry>
     <Entry>
       <ID>1306</ID>
-      <DefaultText>При критических попаданиях накладывает [CritFettles] ([CritFettleDescriptions]). [CritDuration].</DefaultText>
+      <DefaultText>При критических попаданиях накладывает эффект [CritFettles] ([CritFettleDescriptions]). [CritDuration].</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>1307</ID>
-      <DefaultText>При критических попаданиях владелец получает [CritFettles] ([CritFettleDescriptions]). [CritDuration].</DefaultText>
+      <DefaultText>При критических попаданиях накладывает на владельца эффект [CritFettles] ([CritFettleDescriptions]). [CritDuration]</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>1308</ID>
-      <DefaultText>При попадании накладывает на цель [Fettles] ([FettleDescriptions]). При критических попаданиях владелец также получает [CritFettles] ([CritFettleDescriptions]). [Duration].</DefaultText>
+      <DefaultText>При попадании накладывает на цель эффект [Fettles] ([FettleDescriptions]). Также при критических попаданиях владелец получает эффект [CritFettles] ([CritFettleDescriptions]). [Duration].</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -6211,7 +6211,7 @@
     </Entry>
     <Entry>
       <ID>1314</ID>
-      <DefaultText>Очищенный мох быстроты</DefaultText>
+      <DefaultText>Очищенный подвижный мох</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -6281,7 +6281,7 @@
     </Entry>
     <Entry>
       <ID>1328</ID>
-      <DefaultText>Призывает находящуюся в фазе оболочку гуманоида, которая сражается на вашей стороне и накладывает на пользователя [Fettles] ([FettleDescriptions]).</DefaultText>
+      <DefaultText>Призывает фазового гуманоида для сражения на вашей стороне и дает эффект [Fettles] ([FettleDescriptions]).</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -6291,7 +6291,7 @@
     </Entry>
     <Entry>
       <ID>1330</ID>
-      <DefaultText>Накладывает [Fettles] ([FettleDescriptions]).</DefaultText>
+      <DefaultText>При использовании дает эффект [Fettles] ([FettleDescriptions]).</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -6301,7 +6301,7 @@
     </Entry>
     <Entry>
       <ID>1332</ID>
-      <DefaultText>При получении урона от атаки владелец получает [Fettles] ([FettleDescriptions]). [Duration].</DefaultText>
+      <DefaultText>При получении урона от атаки, накладывает эффект [Fettles] ([FettleDescriptions]). [Duration].</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -6326,7 +6326,7 @@
     </Entry>
     <Entry>
       <ID>1337</ID>
-      <DefaultText>Накладывает [Fettles] ([FettleDescriptions]).</DefaultText>
+      <DefaultText>При использовании дает эффект [Fettles] ([FettleDescriptions]).</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -6361,7 +6361,7 @@
     </Entry>
     <Entry>
       <ID>1344</ID>
-      <DefaultText>Умодельный костюм</DefaultText>
+      <DefaultText>Мыслесшитый костюм</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -6386,7 +6386,7 @@
     </Entry>
     <Entry>
       <ID>1349</ID>
-      <DefaultText>Усиленный умодельный костюм</DefaultText>
+      <DefaultText>Усиленный мыслесшитый костюм</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -6426,12 +6426,12 @@
     </Entry>
     <Entry>
       <ID>1357</ID>
-      <DefaultText>Блестящее стекло</DefaultText>
+      <DefaultText>Мерцающее стекло</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>1358</ID>
-      <DefaultText>Наносит [урон] и восполняет все резервы параметров пользователя ([Color: Might]силу[/Color], [Color: Speed]скорость[/Color] и [Color: Intellect]интеллект[/Color]).</DefaultText>
+      <DefaultText>Наносит [Damage] и восполняет все ваши параметры ([Color: Might]Силу[/Color], [Color: Speed]Скорость[/Color] и [Color: Intellect]Интеллект[/Color]).</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -6456,7 +6456,7 @@
     </Entry>
     <Entry>
       <ID>1363</ID>
-      <DefaultText>Взрыв энергии перехода</DefaultText>
+      <DefaultText>Фазовый детонатор</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -6496,7 +6496,7 @@
     </Entry>
     <Entry>
       <ID>1371</ID>
-      <DefaultText>Карманный пульсар</DefaultText>
+      <DefaultText>Заключенный пульсар</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -6516,7 +6516,7 @@
     </Entry>
     <Entry>
       <ID>1375</ID>
-      <DefaultText>Лимническое тонизирующее вещество</DefaultText>
+      <DefaultText>Озерный восстановитель</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -6576,12 +6576,12 @@
     </Entry>
     <Entry>
       <ID>1387</ID>
-      <DefaultText>Хомут берсерка</DefaultText>
+      <DefaultText>Ошейник берсерка</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>1388</ID>
-      <DefaultText>Перекрывающиеся пластины ржавого вибрирующего железа закрепляются на теле пользователя. От них в его организм поступает молочно-белая жидкость, которая придает силу и ярость.</DefaultText>
+      <DefaultText>Эти перекрывающиеся пластины ржавого вибрирующего железа закрепляются на теле, впрыскивая в него молочно-белую жидкость, которая придает силу и ярость.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -6606,7 +6606,7 @@
     </Entry>
     <Entry>
       <ID>1393</ID>
-      <DefaultText>Сознание ребенка</DefaultText>
+      <DefaultText>Детское очарование</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -6641,7 +6641,7 @@
     </Entry>
     <Entry>
       <ID>1400</ID>
-      <DefaultText>Талисман великодушного жреца</DefaultText>
+      <DefaultText>Талисман миролюбивого жреца</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -6661,12 +6661,12 @@
     </Entry>
     <Entry>
       <ID>1404</ID>
-      <DefaultText>Ошеломляющий удар дубинкой</DefaultText>
+      <DefaultText>Шокирующая дубинка</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>1405</ID>
-      <DefaultText>Это оружие выпускает импульс дезориентирующей энергии и поражает самые уязвимые места противника.</DefaultText>
+      <DefaultText>При ударе это оружие выпускает импульс дезориентирующей энергии, которая поражат самые уязвимые места противника.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -6686,7 +6686,7 @@
     </Entry>
     <Entry>
       <ID>1409</ID>
-      <DefaultText>[CritRangeBonus]. При критических попаданиях владелец получает [CritFettles] ([CritFettleDescriptions]). [CritDuration].</DefaultText>
+      <DefaultText>[CritRangeBonus]. При критических попаданиях накладывает на владельца эффект [CritFettles] ([CritFettleDescriptions]). [CritDuration].</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
