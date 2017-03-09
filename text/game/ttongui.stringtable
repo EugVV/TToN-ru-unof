@@ -916,12 +916,12 @@
     </Entry>
     <Entry>
       <ID>182</ID>
-      <DefaultText>Прилив цвета {0} вырос ({1}).</DefaultText>
+      <DefaultText>Поток цвета {0} вырос ({1}).</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>183</ID>
-      <DefaultText>Прилив цвета {0} уменьшился ({1}).</DefaultText>
+      <DefaultText>Поток цвета {0} уменьшился ({1}).</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
