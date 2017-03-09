@@ -396,7 +396,7 @@
     </Entry>
     <Entry>
       <ID>78</ID>
-      <DefaultText>Журнал</DefaultText>
+      <DefaultText>Дневник</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -696,7 +696,7 @@
     </Entry>
     <Entry>
       <ID>138</ID>
-      <DefaultText>Ввести</DefaultText>
+      <DefaultText>Подтвердить</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -976,7 +976,7 @@
     </Entry>
     <Entry>
       <ID>194</ID>
-      <DefaultText>В журнал добавлено задание: {0}.</DefaultText>
+      <DefaultText>В дневник добавлено задание: {0}.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -2106,7 +2106,7 @@
     </Entry>
     <Entry>
       <ID>420</ID>
-      <DefaultText>Журнал</DefaultText>
+      <DefaultText>Дневник</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -5686,7 +5686,7 @@
     </Entry>
     <Entry>
       <ID>1137</ID>
-      <DefaultText>Журнал</DefaultText>
+      <DefaultText>Дневник</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -6651,7 +6651,7 @@
     </Entry>
     <Entry>
       <ID>1330</ID>
-      <DefaultText>Превращать звездочки в курсив</DefaultText>
+      <DefaultText>Превращать звёздочки в курсив</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
