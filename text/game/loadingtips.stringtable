@@ -21,7 +21,7 @@
     </Entry>
     <Entry>
       <ID>3</ID>
-      <DefaultText>В диалоге или во время Кризиса вы можете приложить дополнительные усилия, затратив на это очки &lt;quad class="mightpool"&gt; [Color: Might]Силы[/Color], &lt;quad class="speedpool"&gt; [Color: Speed]Скорости[/Color] или &lt;quad class="intellectpool"&gt; [Color: Intellect]Интеллекта[/Color].</DefaultText>
+      <DefaultText>В диалоге или во время кризиса вы можете приложить дополнительные усилия, затратив на это очки &lt;quad class="mightpool"&gt; [Color: Might]Силы[/Color], &lt;quad class="speedpool"&gt; [Color: Speed]Скорости[/Color] или &lt;quad class="intellectpool"&gt; [Color: Intellect]Интеллекта[/Color].</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -36,17 +36,17 @@
     </Entry>
     <Entry>
       <ID>6</ID>
-      <DefaultText>Во время Кризиса располагайте членов группы с разных сторон противника, чтобы наложить на него эффект "Обход с фланга".</DefaultText>
+      <DefaultText>Во время кризиса располагайте членов группы с разных сторон противника, чтобы наложить на него эффект "Обход с фланга".</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>7</ID>
-      <DefaultText>Залогом успеха в Кризисах является приложение усилий к атакам — но будьте осторожны, чтобы не потратить очки параметров слишком быстро.</DefaultText>
+      <DefaultText>Залогом успеха в кризисах является приложение усилий к атакам — но будьте осторожны, чтобы не потратить очки параметров слишком быстро.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>8</ID>
-      <DefaultText>Атака редко является единственным решением Кризиса. Попробуйте использовать окружающие предметы или поговорить с противниками.</DefaultText>
+      <DefaultText>Атака редко является единственным решением кризиса. Попробуйте использовать окружающие предметы или поговорить с противниками.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
