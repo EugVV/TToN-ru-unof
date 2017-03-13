@@ -1646,7 +1646,7 @@
     </Entry>
     <Entry>
       <ID>353</ID>
-      <DefaultText>Гравитационный Надзиратель</DefaultText>
+      <DefaultText>Гравитационный надзиратель</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -2376,7 +2376,7 @@
     </Entry>
     <Entry>
       <ID>517</ID>
-      <DefaultText>Стертое из Памяти Лицо</DefaultText>
+      <DefaultText>Стертое из памяти лицо</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -2386,7 +2386,7 @@
     </Entry>
     <Entry>
       <ID>519</ID>
-      <DefaultText>Ball of Bloom-flesh</DefaultText>
+      <DefaultText>Шар из плоти Цветения</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -5451,7 +5451,7 @@
     </Entry>
     <Entry>
       <ID>1162</ID>
-      <DefaultText>[Healing] и симает все [FettleIcon: Debuff] негативные эффекты со всех союзников в зоне действия (кроме [FettleIcon: Debuff][Color: NegativeModifier]Обход с фланга[/Color] и [FettleIcon: Debuff][Color: NegativeModifier]Длительный урон[/Color]).</DefaultText>
+      <DefaultText>[Healing] и симает все [FettleIcon: Debuff] негативные эффекты со всех союзников в зоне действия (кроме эффектов [FettleIcon: Debuff][Color: NegativeModifier]Обход с фланга[/Color] и [FettleIcon: Debuff][Color: NegativeModifier]Травма[/Color]).</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -5551,17 +5551,17 @@
     </Entry>
     <Entry>
       <ID>1182</ID>
-      <DefaultText>Нейтрализует эффекты эзотерий и атак дальнего боя.</DefaultText>
+      <DefaultText>Нейтрализует эффекты эзотерий и атак дальнего боя</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>1183</ID>
-      <DefaultText>Противодействует [FettleIcon: Debuff][Color: NegativeModifier]негативным эффектам[/Color] (кроме [FettleIcon: Debuff][Color: NegativeModifier]Обход с фланга[/Color] и [FettleIcon: Debuff][Color: NegativeModifier]Длительный урон[/Color]), накладываемым на этого персонажа, и [Healing] за ход</DefaultText>
+      <DefaultText>Противодействует [FettleIcon: Debuff][Color: NegativeModifier]негативным эффектам[/Color] (кроме эффектов [FettleIcon: Debuff][Color: NegativeModifier]Обход с фланга[/Color] и [FettleIcon: Debuff][Color: NegativeModifier]Травма[/Color]), накладываемым на этого персонажа, и [Healing] за ход</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>1184</ID>
-      <DefaultText>Отменяет следующий [FettleIcon: Debuff]негативный эффект, накладываемый на персонажа (кроме [FettleIcon: Debuff][Color: NegativeModifier]Обход с фланга[/Color] и [FettleIcon: Debuff][Color: NegativeModifier]Длительный урон[/Color]) и наносит атакующему [Damage]</DefaultText>
+      <DefaultText>Отменяет следующий [FettleIcon: Debuff]негативный эффект, накладываемый на персонажа (кроме эффектов [FettleIcon: Debuff][Color: NegativeModifier]Обход с фланга[/Color] и [FettleIcon: Debuff][Color: NegativeModifier]Травма[/Color]) и наносит атакующему [Damage]</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -5786,7 +5786,7 @@
     </Entry>
     <Entry>
       <ID>1229</ID>
-      <DefaultText>Увеличивает очки параметра ([Color: Might]силы[/Color], [Color: Speed]скорости[/Color] или [Color: Intellect]интеллекта[/Color]) с максимальной величиной на 1.</DefaultText>
+      <DefaultText>Увеличивает очки параметра ([Color: Might]Силы[/Color], [Color: Speed]Скорости[/Color] или [Color: Intellect]Интеллекта[/Color]) с максимальным значением на 1.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -5936,7 +5936,7 @@
     </Entry>
     <Entry>
       <ID>1259</ID>
-      <DefaultText>При использовании дает эффект [Fettles] ([FettleEffectsBasic]).</DefaultText>
+      <DefaultText>При использовании накладывает эффект [Fettles] ([FettleEffectsBasic])</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -5976,7 +5976,7 @@
     </Entry>
     <Entry>
       <ID>1267</ID>
-      <DefaultText>Накладывает на цель [Fettles] ([FettleEffectsBasic]).</DefaultText>
+      <DefaultText>Накладывает на цель эффект [Fettles] ([FettleEffectsBasic]).</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -6046,7 +6046,7 @@
     </Entry>
     <Entry>
       <ID>1281</ID>
-      <DefaultText>Автоматическое успешное выполнение следующей задачи по восприятию, обману или запугиванию.</DefaultText>
+      <DefaultText>Гарантирует успех при следующей проверке навыков Убеждение, Хитрость или Запугивание.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -6071,7 +6071,7 @@
     </Entry>
     <Entry>
       <ID>1286</ID>
-      <DefaultText>Снимает все [FettleIcon: Debuff]негативные эффекты (кроме [FettleIcon: Debuff][Color: NegativeModifier]Обход с фланга[/Color] и [FettleIcon: Debuff][Color: NegativeModifier]Длительный урон[/Color]), а также восстанавливает [Color: Might]Силу[/Color], [Color: Speed]Скорость[/Color], [Color: Intellect]Интеллект[/Color] и [Color: Health]Здоровье[/Color].</DefaultText>
+      <DefaultText>Снимает все [FettleIcon: Debuff]негативные эффекты (кроме эффектов [FettleIcon: Debuff][Color: NegativeModifier]Обход с фланга[/Color] и [FettleIcon: Debuff][Color: NegativeModifier]Травма[/Color]), а также восстанавливает [Color: Might]Силу[/Color], [Color: Speed]Скорость[/Color], [Color: Intellect]Интеллект[/Color] и [Color: Health]Здоровье[/Color].</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>

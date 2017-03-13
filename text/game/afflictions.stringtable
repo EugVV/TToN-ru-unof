@@ -296,7 +296,7 @@
     </Entry>
     <Entry>
       <ID>58</ID>
-      <DefaultText>В окружении</DefaultText>
+      <DefaultText>Обход с фланга</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -761,7 +761,7 @@
     </Entry>
     <Entry>
       <ID>151</ID>
-      <DefaultText>Превращает весь наносимый урон в [DamageIcon: Mental][Color: Mental]ментальный[/Color] и [PassiveEffectsBasic]</DefaultText>
+      <DefaultText>Преобразует весь наносимый урон в [DamageIcon: Mental][Color: Mental]ментальный[/Color] и дает [PassiveEffectsBasic]</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -816,12 +816,12 @@
     </Entry>
     <Entry>
       <ID>162</ID>
-      <DefaultText>Дарует иммунитет ко многим эффектам, которые наносят урон каждый ход, таким как [FettleIcon: Debuff][Color: NegativeModifier]"Кровотечение"[/Color] или [FettleIcon: Debuff][Color: NegativeModifier]"Ожог"[/Color].</DefaultText>
+      <DefaultText>Дает иммунитет к эффектам, которые наносят урон каждый ход, таким как [FettleIcon: Debuff][Color: NegativeModifier]Кровотечение[/Color] или [FettleIcon: Debuff][Color: NegativeModifier]Ожог[/Color].</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>163</ID>
-      <DefaultText>Зараза Скорби</DefaultText>
+      <DefaultText>Заражение Скорби</DefaultText>
       <FemaleText />
     </Entry>
   </Entries>
