@@ -11,7 +11,7 @@
     </Entry>
     <Entry>
       <ID>2</ID>
-      <DefaultText>"Я готов научиться чему-то новому".</DefaultText>
+      <DefaultText>"Я готова научиться чему-то новому".</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -21,22 +21,22 @@
     </Entry>
     <Entry>
       <ID>4</ID>
-      <DefaultText>"Я научился чему-то новому".</DefaultText>
+      <DefaultText>"Я научилась чему-то новому".</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>5</ID>
-      <DefaultText>"Мое понимание усилилось".</DefaultText>
+      <DefaultText>"Моё понимание усилилось".</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>6</ID>
-      <DefaultText>"Идем".</DefaultText>
+      <DefaultText>"Идём".</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>7</ID>
-      <DefaultText>"Я готов".</DefaultText>
+      <DefaultText>"Я готова".</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -46,12 +46,12 @@
     </Entry>
     <Entry>
       <ID>9</ID>
-      <DefaultText>"Хорошо".</DefaultText>
+      <DefaultText>"Отлично".</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>10</ID>
-      <DefaultText>"Вперед".</DefaultText>
+      <DefaultText>"Вперёд".</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -86,7 +86,7 @@
     </Entry>
     <Entry>
       <ID>17</ID>
-      <DefaultText>"Я узнал это... или вспомнил это?"</DefaultText>
+      <DefaultText>"Я научилась этому... или просто вспомнила?"</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -96,12 +96,12 @@
     </Entry>
     <Entry>
       <ID>19</ID>
-      <DefaultText>"Я не могу повредить его!"</DefaultText>
+      <DefaultText>"Мои удары не наносят никакого вреда!"</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>20</ID>
-      <DefaultText>"Я предупреждал тебя!"</DefaultText>
+      <DefaultText>"Я тебя предупреждала!"</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -116,12 +116,12 @@
     </Entry>
     <Entry>
       <ID>23</ID>
-      <DefaultText>"Я едва не повредил его".</DefaultText>
+      <DefaultText>"Я едва задеваю цель".</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>24</ID>
-      <DefaultText>"Нашел его слабое место!"</DefaultText>
+      <DefaultText>"Нашла слабое место!"</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -131,27 +131,27 @@
     </Entry>
     <Entry>
       <ID>26</ID>
-      <DefaultText>"Ты осмелился ударить меня?"</DefaultText>
+      <DefaultText>"Кто осмелился меня ударить?"</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>27</ID>
-      <DefaultText>"Это последний раз, когда ты до меня дотронулся".</DefaultText>
+      <DefaultText>"Это последний раз, когда ты до меня дотрагиваешься".</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>28</ID>
-      <DefaultText>"Ты ударил меня, я ударю тебя".</DefaultText>
+      <DefaultText>"Ты ударяешь меня, я ударю тебя".</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>29</ID>
-      <DefaultText>"Разве ты не видел, как оно приближается".</DefaultText>
+      <DefaultText>"Разве ты не видишь, как оно приближается".</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>30</ID>
-      <DefaultText>"О боги!"</DefaultText>
+      <DefaultText>"Боже мой!"</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -191,7 +191,7 @@
     </Entry>
     <Entry>
       <ID>38</ID>
-      <DefaultText>"Нет?"</DefaultText>
+      <DefaultText>"Нет..."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -206,7 +206,7 @@
     </Entry>
     <Entry>
       <ID>41</ID>
-      <DefaultText>"Не плохо".</DefaultText>
+      <DefaultText>"Неплохо".</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -231,7 +231,7 @@
     </Entry>
     <Entry>
       <ID>46</ID>
-      <DefaultText>"Попробуй это".</DefaultText>
+      <DefaultText>"Попробуй-ка это".</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -241,12 +241,12 @@
     </Entry>
     <Entry>
       <ID>48</ID>
-      <DefaultText>"Сдаться".</DefaultText>
+      <DefaultText>"Сдавайся".</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>49</ID>
-      <DefaultText>"Ты уже потерялся".</DefaultText>
+      <DefaultText>"Ты почти труп".</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -256,7 +256,7 @@
     </Entry>
     <Entry>
       <ID>51</ID>
-      <DefaultText>"Черт возьми."</DefaultText>
+      <DefaultText>"Чёрт возьми."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -306,7 +306,7 @@
     </Entry>
     <Entry>
       <ID>61</ID>
-      <DefaultText>"Вовсе нет".</DefaultText>
+      <DefaultText>"Точно нет".</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -346,7 +346,7 @@
     </Entry>
     <Entry>
       <ID>69</ID>
-      <DefaultText>"Я в нерешительности... Мне больно".</DefaultText>
+      <DefaultText>"Я споткнулась... мне больно".</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -381,7 +381,7 @@
     </Entry>
     <Entry>
       <ID>76</ID>
-      <DefaultText>"Я себя плохо чувствую".</DefaultText>
+      <DefaultText>"Я чувствую себя ужасно".</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -406,7 +406,7 @@
     </Entry>
     <Entry>
       <ID>81</ID>
-      <DefaultText>"То, что надо".</DefaultText>
+      <DefaultText>"То что надо".</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -471,12 +471,12 @@
     </Entry>
     <Entry>
       <ID>95</ID>
-      <DefaultText>"Вперед. Дальше".</DefaultText>
+      <DefaultText>"Вперёд. Дальше".</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>96</ID>
-      <DefaultText>"Черт!. У нас нет на это времени!"</DefaultText>
+      <DefaultText>"Чёрт! У нас нет на это времени!"</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -486,17 +486,17 @@
     </Entry>
     <Entry>
       <ID>98</ID>
-      <DefaultText>"Они окружили меня".</DefaultText>
+      <DefaultText>"Меня окружили".</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>99</ID>
-      <DefaultText>"Я окружен".</DefaultText>
+      <DefaultText>"Я окружена".</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>100</ID>
-      <DefaultText>"Убирайся! Поехали!"</DefaultText>
+      <DefaultText>"Убирайся! Уходи!"</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -521,7 +521,7 @@
     </Entry>
     <Entry>
       <ID>105</ID>
-      <DefaultText>"Черт возьми."</DefaultText>
+      <DefaultText>"Чёрт возьми".</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -531,7 +531,7 @@
     </Entry>
     <Entry>
       <ID>107</ID>
-      <DefaultText>"Черт побери".</DefaultText>
+      <DefaultText>"Чёрт побери".</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -541,7 +541,7 @@
     </Entry>
     <Entry>
       <ID>109</ID>
-      <DefaultText>"Я закончил".</DefaultText>
+      <DefaultText>"Я закончила".</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -551,7 +551,7 @@
     </Entry>
     <Entry>
       <ID>111</ID>
-      <DefaultText>"Завершил".</DefaultText>
+      <DefaultText>"Завершено".</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -606,7 +606,7 @@
     </Entry>
     <Entry>
       <ID>122</ID>
-      <DefaultText>"Теперь я настиг тебя".</DefaultText>
+      <DefaultText>"Наконец я побеждаю".</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -616,7 +616,7 @@
     </Entry>
     <Entry>
       <ID>124</ID>
-      <DefaultText>"Давай закончим это".</DefaultText>
+      <DefaultText>"Давай покончим с этим".</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -656,7 +656,7 @@
     </Entry>
     <Entry>
       <ID>132</ID>
-      <DefaultText>"Это странно... Я промахнулся".</DefaultText>
+      <DefaultText>"Странно... я промахнулась".</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -666,7 +666,7 @@
     </Entry>
     <Entry>
       <ID>134</ID>
-      <DefaultText>"Я промазал".</DefaultText>
+      <DefaultText>"Я промазала".</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -676,12 +676,12 @@
     </Entry>
     <Entry>
       <ID>136</ID>
-      <DefaultText>"Беру на заметку".</DefaultText>
+      <DefaultText>"Возьму на заметку".</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>137</ID>
-      <DefaultText>"Я запомню этого".</DefaultText>
+      <DefaultText>"Стоит запомнить".</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -691,42 +691,42 @@
     </Entry>
     <Entry>
       <ID>139</ID>
-      <DefaultText>"Аннотировал мой журнал".</DefaultText>
+      <DefaultText>"Записала в дневник".</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>140</ID>
-      <DefaultText>"Обновил... обновил мой журнал".</DefaultText>
+      <DefaultText>"Записала... обновила свой дневник".</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>141</ID>
-      <DefaultText>"Потоки переместились. И искатель знаний".</DefaultText>
+      <DefaultText>"Потоки сменились. Я искательница знаний".</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>142</ID>
-      <DefaultText>"Потоки переместились. Я женщина действия".</DefaultText>
+      <DefaultText>"Потоки сменились. Я женщина действия".</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>143</ID>
-      <DefaultText>"Потоки переместились. Я ищу справедливости".</DefaultText>
+      <DefaultText>"Потоки сменились. Я ищу справедливости".</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>144</ID>
-      <DefaultText>"Потоки переместились. Я женщина с состраданием".</DefaultText>
+      <DefaultText>"Потоки сменились. Я женщина с состраданием".</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>145</ID>
-      <DefaultText>"Потоки переместились. Я влиятельная женщина".</DefaultText>
+      <DefaultText>"Потоки сменились. Я влиятельная женщина".</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>146</ID>
-      <DefaultText>"Мое наследие переместилось".</DefaultText>
+      <DefaultText>"Моё наследие изменилось".</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -736,7 +736,7 @@
     </Entry>
     <Entry>
       <ID>332</ID>
-      <DefaultText>"Ты падешь предо мной".</DefaultText>
+      <DefaultText>"Ты падёшь предо мной".</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
