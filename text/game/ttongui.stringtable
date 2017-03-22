@@ -961,12 +961,12 @@
     </Entry>
     <Entry>
       <ID>191</ID>
-      <DefaultText>{0}: {2} перманентно больше на {1}. </DefaultText>
+      <DefaultText>{0}: {2} навсегда увеличен на {1}. </DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>192</ID>
-      <DefaultText>{0}: {2} перманентно меньше на {1}. </DefaultText>
+      <DefaultText>{0}: {2} навсегда уменьшен на {1}. </DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
