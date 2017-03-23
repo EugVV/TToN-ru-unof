@@ -11,13 +11,13 @@
     </Entry>
     <Entry>
       <ID>4</ID>
-      <DefaultText>"Тогда, давай же! Я готова встретиться с тобой!"</DefaultText>
-      <FemaleText>«Тогда, давай же! Я готова встретиться с тобой!»</FemaleText>
+      <DefaultText>"Тогда давай же! Я готова встретиться с тобой!"</DefaultText>
+      <FemaleText>"Тогда давай же! Я готова встретиться с тобой!"</FemaleText>
     </Entry>
     <Entry>
       <ID>5</ID>
-      <DefaultText>"Черт возьми. *Черт возьми*!"</DefaultText>
-      <FemaleText>«Черт возьми. *Черт возьми*!»</FemaleText>
+      <DefaultText>"Чёрт возьми. *Чёрт возьми*!"</DefaultText>
+      <FemaleText>"Чёрт возьми. *Чёрт возьми*!"</FemaleText>
     </Entry>
     <Entry>
       <ID>6</ID>
@@ -27,32 +27,32 @@
     <Entry>
       <ID>7</ID>
       <DefaultText>"Активируй камеру, Мазоф! Верни меня... обратно..."</DefaultText>
-      <FemaleText>«Активируй камеру, Мазоф! Верни меня... обратно...»</FemaleText>
+      <FemaleText>"Активируй камеру, Мазоф! Верни меня... обратно..."</FemaleText>
     </Entry>
     <Entry>
       <ID>8</ID>
-      <DefaultText>"Ты предаешь *меня*? У тебя есть стержень, я дам тебе это".</DefaultText>
-      <FemaleText>«Ты предаешь *меня*? У тебя есть позвоночник, я дам тебе это».</FemaleText>
+      <DefaultText>"Ты предаёшь *меня*? У тебя есть стержень, в этом не откажешь".</DefaultText>
+      <FemaleText>"Ты предаёшь *меня*? У тебя есть стержень, в этом не откажешь".</FemaleText>
     </Entry>
     <Entry>
       <ID>9</ID>
-      <DefaultText>"За это ты умрешь".</DefaultText>
+      <DefaultText>"За это ты умрёшь".</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>10</ID>
-      <DefaultText>"Сейчас? Ты набросишься на меня *сейчас*?</DefaultText>
-      <FemaleText>«Сейчас? Ты набросишься на меня *сейчас*?</FemaleText>
+      <DefaultText>"Сейчас? Ты набросишься на меня *сейчас*?"</DefaultText>
+      <FemaleText>"Сейчас? Ты набросишься на меня *сейчас*?"</FemaleText>
     </Entry>
     <Entry>
       <ID>11</ID>
       <DefaultText>"Хватит уже. Иди *сюда*".</DefaultText>
-      <FemaleText>«Хватит уже. Иди *сюда*».</FemaleText>
+      <FemaleText>"Хватит уже. Иди *сюда*".</FemaleText>
     </Entry>
     <Entry>
       <ID>12</ID>
-      <DefaultText>"Да. *Да*. В конце концов!"</DefaultText>
-      <FemaleText>«Да. *Да*. В конце концов!»</FemaleText>
+      <DefaultText>"Да. *Да*. Наконец!"</DefaultText>
+      <FemaleText>"Да. *Да*. Наконец!"</FemaleText>
     </Entry>
     <Entry>
       <ID>13</ID>
@@ -61,18 +61,18 @@
     </Entry>
     <Entry>
       <ID>14</ID>
-      <DefaultText>"О, это *все*, о чем я мечтал".</DefaultText>
-      <FemaleText>«О, это *все*, о чем я мечтал».</FemaleText>
+      <DefaultText>"О, это *всё*, о чём я мечтал".</DefaultText>
+      <FemaleText>"О, это *всё*, о чём я мечтал".</FemaleText>
     </Entry>
     <Entry>
       <ID>15</ID>
       <DefaultText>"Н-нет. Нет!"</DefaultText>
-      <FemaleText>«Н-нет. Нет!»</FemaleText>
+      <FemaleText>"Н-нет. Нет!"</FemaleText>
     </Entry>
     <Entry>
       <ID>16</ID>
       <DefaultText>"Это не первая моя смерть. Не сотая. Попытайся *сильнее*".</DefaultText>
-      <FemaleText>«Это не первая моя смерть. Не сотая. Попытайся *сильнее*».</FemaleText>
+      <FemaleText>"Это не первая моя смерть. Не сотая. Попытайся *сильнее*".</FemaleText>
     </Entry>
     <Entry>
       <ID>17</ID>
@@ -82,27 +82,27 @@
     <Entry>
       <ID>18</ID>
       <DefaultText>"Жалит, не правда ли? Чтобы быть слабым. Беспомощным".</DefaultText>
-      <FemaleText>«Жалит, не правда ли? Чтобы быть слабым. Беспомощным».</FemaleText>
+      <FemaleText>"Жалит, не правда ли? Чтобы быть слабым. Беспомощным".</FemaleText>
     </Entry>
     <Entry>
       <ID>19</ID>
       <DefaultText>"Это... это не убило тебя? Камера работает!"</DefaultText>
-      <FemaleText>«Это... это не убило тебя? Камера работает!»</FemaleText>
+      <FemaleText>"Это... это не убило тебя? Камера работает!"</FemaleText>
     </Entry>
     <Entry>
       <ID>20</ID>
       <DefaultText>"Ты не получишь меня. Сперва, я сотру тебя с лица этого мира!"</DefaultText>
-      <FemaleText>«Ты не получишь меня. Сперва, я сотру тебя с лица этого мира!»</FemaleText>
+      <FemaleText>"Ты не получишь меня. Сперва, я сотру тебя с лица этого мира!"</FemaleText>
     </Entry>
     <Entry>
       <ID>21</ID>
       <DefaultText>"Я не боюсь тебя. Ты не похож на *него*".</DefaultText>
-      <FemaleText>«Я не боюсь тебя. Ты не похож на *него*».</FemaleText>
+      <FemaleText>"Я не боюсь тебя. Ты не похожа на *него*".</FemaleText>
     </Entry>
     <Entry>
       <ID>22</ID>
       <DefaultText>"Прочь от меня!"</DefaultText>
-      <FemaleText>"Прочь от меня".</FemaleText>
+      <FemaleText>"Прочь от меня!"</FemaleText>
     </Entry>
     <Entry>
       <ID>24</ID>
@@ -111,18 +111,18 @@
     </Entry>
     <Entry>
       <ID>25</ID>
-      <DefaultText>"Она идет сейчас. Я надеюсь, ты удовлетворен. Мы все умрем здесь!"</DefaultText>
-      <FemaleText>«Она идет сейчас. Я надеюсь, ты удовлетворен. Мы все умрем здесь!»</FemaleText>
+      <DefaultText>"Она уже идёт. Я надеюсь, ты удовлетворён. Мы все умрём здесь!"</DefaultText>
+      <FemaleText>"Она уже идёт. Я надеюсь, ты удовлетворена. Мы все умрём здесь!"</FemaleText>
     </Entry>
     <Entry>
       <ID>26</ID>
-      <DefaultText>"Ты чувствуешь это? Порывы ветра? Пальцы на твоем горле? Скорбь идет".</DefaultText>
-      <FemaleText>«Ты чувствуешь это? Порывы ветра? Пальцы на твоем горле? Скорбь идет».</FemaleText>
+      <DefaultText>"Ты чувствуешь это? Порывы ветра? Пальцы на твоём горле? Скорбь идёт".</DefaultText>
+      <FemaleText>"Ты чувствуешь это? Порывы ветра? Пальцы на твоём горле? Скорбь идёт".</FemaleText>
     </Entry>
     <Entry>
       <ID>27</ID>
-      <DefaultText>"Тебе не удастся скрыться от нее, не так ли?"</DefaultText>
-      <FemaleText>«Тебе не удастся скрыться от ее, не так ли?»</FemaleText>
+      <DefaultText>"Тебе не удастся скрыться от неё, не так ли?"</DefaultText>
+      <FemaleText>"Тебе не удастся скрыться от неё, не так ли?"</FemaleText>
     </Entry>
     <Entry>
       <ID>28</ID>
@@ -132,17 +132,17 @@
     <Entry>
       <ID>29</ID>
       <DefaultText>"Ч-что-то не так. Что ты сделал?"</DefaultText>
-      <FemaleText>«Ч-что-то не так. Что ты сделал?"</FemaleText>
+      <FemaleText>"Ч-что-то не так. Что ты сделала?"</FemaleText>
     </Entry>
     <Entry>
       <ID>30</ID>
       <DefaultText>"Посмотрим, кровоточишь ли ты".</DefaultText>
-      <FemaleText>"Посмотрим, если вы кровоточить".</FemaleText>
+      <FemaleText>"Посмотрим, кровоточишь ли ты".</FemaleText>
     </Entry>
     <Entry>
       <ID>32</ID>
       <DefaultText>"Я почти готов!"</DefaultText>
-      <FemaleText>«Я почти готов!»</FemaleText>
+      <FemaleText>"Я почти готов!"</FemaleText>
     </Entry>
   </Entries>
 </StringTableFile>

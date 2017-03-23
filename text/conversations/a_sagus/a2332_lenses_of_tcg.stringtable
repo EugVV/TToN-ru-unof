@@ -389,13 +389,13 @@
     </Entry>
     <Entry>
       <ID>69</ID>
-      <DefaultText>«Маткину, этот прибор должен работать и на тебе тоже. Хочешь попытаться?"
+      <DefaultText>"Мэткина, этот прибор должен работать и на тебе тоже. Хочешь попытаться?"
 {SCRIPT: Only visible if PC doesn't have a good relationship with Matkina and she's active in the party.}</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>70</ID>
-      <DefaultText>"Дай зеркалам шанс, Маткину. Они не причинили *мне* вреда."</DefaultText>
+      <DefaultText>"Дай зеркалам шанс, Мэткина. Они не причинили *мне* вреда".</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -425,7 +425,7 @@
     </Entry>
     <Entry>
       <ID>74</ID>
-      <DefaultText>«Маткину, этот прибор должен работать и на тебе тоже. Хочешь попытаться?"
+      <DefaultText>"Мэткина, этот прибор должен работать и на тебе тоже. Хочешь попытаться?"
 {SCRIPT: Only visible if PC has a good relationship with Matkina.}</DefaultText>
       <FemaleText />
     </Entry>

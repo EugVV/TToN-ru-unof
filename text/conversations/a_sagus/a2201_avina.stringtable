@@ -6,8 +6,8 @@
   <Entries>
     <Entry>
       <ID>1</ID>
-      <DefaultText>Маленькая девочка все еще сидит снаружи старого дома и по прежнему играет на флейте. Она улыбается, когда вы приближаетесь к ней. "Песню сегодня, господин?"</DefaultText>
-      <FemaleText>Маленькая девочка все еще сидит снаружи старого дома и по прежнему играет на флейте. Она улыбается, когда ты подходишь. «Не хотите-ли сегодня песню, мадам?»</FemaleText>
+      <DefaultText>Маленькая девочка всё ещё сидит снаружи старого дома и по-прежнему играет на флейте. Она улыбается, когда вы приближаетесь: "Песню сегодня, господин?"</DefaultText>
+      <FemaleText>Маленькая девочка всё ещё сидит снаружи старого дома и по-прежнему играет на флейте. Она улыбается, когда вы приближаетесь: "Песню сегодня, мадам?"</FemaleText>
     </Entry>
     <Entry>
       <ID>2</ID>
@@ -42,7 +42,7 @@
     <Entry>
       <ID>8</ID>
       <DefaultText>"Потому что их больше, господин".</DefaultText>
-      <FemaleText>«Потому что, у меня есть еще и другие, мадам.»</FemaleText>
+      <FemaleText>"Потому что их больше, мадам".</FemaleText>
     </Entry>
     <Entry>
       <ID>9</ID>
@@ -77,7 +77,7 @@
     <Entry>
       <ID>15</ID>
       <DefaultText>"До свидания, господин".</DefaultText>
-      <FemaleText>«До свидания, мадам.»</FemaleText>
+      <FemaleText>"До свидания, мадам".</FemaleText>
     </Entry>
     <Entry>
       <ID>16</ID>
@@ -107,7 +107,7 @@
     <Entry>
       <ID>21</ID>
       <DefaultText>"Спасибо *тебе*, господин".</DefaultText>
-      <FemaleText>«Спасибо *вам*, мадам.»</FemaleText>
+      <FemaleText>"Спасибо *тебе*, мадам".</FemaleText>
     </Entry>
     <Entry>
       <ID>22</ID>
@@ -161,12 +161,12 @@
     </Entry>
     <Entry>
       <ID>33</ID>
-      <DefaultText>"Ты не знаешь, кто ворует вещи здесь в окрестности?"</DefaultText>
+      <DefaultText>"Ты не знаешь, кто ворует вещи здесь в окрестностях?"</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>34</ID>
-      <DefaultText>«Кто, ты сказала, ворует вещи здесь в окрестности?"</DefaultText>
+      <DefaultText>"Кто, ты сказала, ворует вещи здесь в окрестностях?"</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -520,7 +520,7 @@
     <Entry>
       <ID>103</ID>
       <DefaultText>"Ты хороший человек, господин".</DefaultText>
-      <FemaleText>«Вы хороший человек, мадам.»</FemaleText>
+      <FemaleText>"Ты хороший человек, мадам".</FemaleText>
     </Entry>
     <Entry>
       <ID>104</ID>
@@ -797,17 +797,17 @@
     </Entry>
     <Entry>
       <ID>160</ID>
-      <DefaultText>"Расскажи мне еще раз, что случилось".</DefaultText>
+      <DefaultText>"Расскажи мне ещё раз, что случилось".</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>161</ID>
       <DefaultText>"Ты хороший человек, господин".</DefaultText>
-      <FemaleText>«Вы хороший человек, мадам.»</FemaleText>
+      <FemaleText>"Ты хороший человек, мадам".</FemaleText>
     </Entry>
     <Entry>
       <ID>162</ID>
-      <DefaultText>"С Зеббом все будет хорошо. Я присмотрю за ним".</DefaultText>
+      <DefaultText>"С Зеббом всё будет хорошо. Я присмотрю за ним".</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -929,7 +929,7 @@
     </Entry>
     <Entry>
       <ID>184</ID>
-      <DefaultText>"Вот [Global: a2201_AvinaSadSong]. Сыграй мне печальную песню еще раз".
+      <DefaultText>"Вот [Global: a2201_AvinaSadSong]. Сыграй мне печальную песню ещё раз".
 
 {MONEY}</DefaultText>
       <FemaleText />
@@ -941,13 +941,13 @@
     </Entry>
     <Entry>
       <ID>186</ID>
-      <DefaultText>"Спасибо тебе, господин. Эта песня разобьет твое сердце".</DefaultText>
-      <FemaleText>«Спасибо *вам*, мадам.» Она разобьет твое сердце.»</FemaleText>
+      <DefaultText>"Спасибо тебе, господин. Эта песня разобьёт твоё сердце".</DefaultText>
+      <FemaleText>"Спасибо тебе, мадам. Эта песня разобьёт твоё сердце".</FemaleText>
     </Entry>
     <Entry>
       <ID>187</ID>
       <DefaultText>"Спасибо тебе, господин. Вот она снова".</DefaultText>
-      <FemaleText>«Спасибо *вам*, мадам.» Вот она снова.»</FemaleText>
+      <FemaleText>"Спасибо тебе, мадам. Вот она снова".</FemaleText>
     </Entry>
     <Entry>
       <ID>188</ID>
@@ -966,14 +966,14 @@
     </Entry>
     <Entry>
       <ID>191</ID>
-      <DefaultText>"Вот [Global: a2201_AvinaHappySong]. Сыграй мне веселую песню".
+      <DefaultText>"Вот [Global: a2201_AvinaHappySong]. Сыграй мне весёлую песню".
 
 {MONEY}</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>192</ID>
-      <DefaultText>"Вот [Global: a2201_AvinaHappySong]. Сыграй мне веселую песню снова".
+      <DefaultText>"Вот [Global: a2201_AvinaHappySong]. Сыграй мне весёлую песню снова".
 
 {MONEY}</DefaultText>
       <FemaleText />
@@ -986,12 +986,12 @@
     <Entry>
       <ID>194</ID>
       <DefaultText>"Спасибо тебе, господин, эта песня должна поднять тебе настроение".</DefaultText>
-      <FemaleText>«Спасибо вам, мадам, эта песня должна поднять вам настроение.»</FemaleText>
+      <FemaleText>"Спасибо тебе, мадам, эта песня должна поднять тебе настроение".</FemaleText>
     </Entry>
     <Entry>
       <ID>195</ID>
       <DefaultText>"Спасибо тебе, господин, всегда рада играть эту песню снова".</DefaultText>
-      <FemaleText>«Спасибо вам, мадам, всегда рада играть эту песню снова.»</FemaleText>
+      <FemaleText>"Спасибо тебе, мадам, всегда рада играть эту песню снова".</FemaleText>
     </Entry>
     <Entry>
       <ID>196</ID>

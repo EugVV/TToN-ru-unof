@@ -752,8 +752,8 @@
     </Entry>
     <Entry>
       <ID>175</ID>
-      <DefaultText>"Конечно, «мы» найдем".</DefaultText>
-      <FemaleText>"Конечно "мы" это сделаем".</FemaleText>
+      <DefaultText>"Конечно, «мы» найдём".</DefaultText>
+      <FemaleText>"Конечно, «мы» найдём".</FemaleText>
     </Entry>
     <Entry>
       <ID>176</ID>
@@ -836,7 +836,7 @@
     </Entry>
     <Entry>
       <ID>192</ID>
-      <DefaultText>Пасть остается крепко закрытой, но её голоса возбужденно шепчут вам в уши. «*Мемовира*», — вроде бы это шепчут голоса.
+      <DefaultText>Пасть остается крепко закрытой, но её голоса возбужденно шепчут вам в уши. "*Мемовира*", — вроде бы это шепчут голоса.
 
 {SOUND: "Voices" of the Bloom should be audible during this dialogue.}</DefaultText>
       <FemaleText>Пасти остаются крепко закрытыми, но их голоса возбужденно шепчут вам в уши. "*Мемовира*", — вроде бы это шепчут голоса.
@@ -846,7 +846,7 @@
     <Entry>
       <ID>193</ID>
       <DefaultText>"Мэткина, ты теперь Мемовира. Ты можешь открыть эту Пасть?"</DefaultText>
-      <FemaleText>"Мэткина, ты теперь Мемовира. Ты можешь открыть эти Пасти?"</FemaleText>
+      <FemaleText>"Мэткина, ты теперь Мемовира. Ты можешь открыть эту Пасть?"</FemaleText>
     </Entry>
     <Entry>
       <ID>194</ID>
