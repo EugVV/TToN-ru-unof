@@ -6,367 +6,393 @@
   <Entries>
     <Entry>
       <ID>1</ID>
-      <DefaultText />
-      <FemaleText />
+      <DefaultText>"Итак, наконец ты здесь. У нас мало времени, так что я объясню, как смогу", — его голос глубокий и ровный, но интонации выдают спешку. Его призрачное красивое лицо с бородой кажется знакомым, однако, насколько вы помните, вы никогда его не видели. У него волевой подбородок, он выглядит как будто вмещает великую силу в своём податливом теле. 
+
+"К этому моменту ты уже вероятно понял, что мы сейчас находимся в ментальной конструкции - точнее, в месте, созданным твоим разумом".</DefaultText>
+      <FemaleText>"Итак, наконец ты здесь. У нас мало времени, так что я объясню, как смогу", — его голос глубокий и ровный, но интонации выдают спешку. Его призрачное красивое лицо с бородой кажется знакомым, однако, насколько вы помните, вы никогда его не видели. У него волевой подбородок, он выглядит как будто вмещает великую силу в своём податливом теле. 
+
+"К этому моменту ты уже вероятно поняла, что мы сейчас находимся в ментальной конструкции - точнее, в месте, созданным твоим разумом".</FemaleText>
     </Entry>
     <Entry>
       <ID>2</ID>
-      <DefaultText />
+      <DefaultText>"Время на исходе, дитя. Его не осталось на воображаемые мосты или изваяния из забытых легенд. Нам угрожает забытьё, и неважно, насколько приятна твоя форма, сейчас важна лишь скрытая у тебя внутри сила".</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>3</ID>
-      <DefaultText />
+      <DefaultText>[reactivity to F13 stuff: blood light, bridges healing connections, etc]
+
+{GAVIN: these nodes are temp pending F13 final}</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>4</ID>
-      <DefaultText />
+      <DefaultText>[nothing in F13 tripped off reactivity counters, continues interrogation]
+
+
+{GAVIN: these nodes are temp pending F13 final}</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>5</ID>
-      <DefaultText />
-      <FemaleText />
+      <DefaultText>"Должен сказать, ты выглядишь именно так, как я и ожидал", — он отступает назад и внимательно вас разглядывает. — "Ты довольно красивый мужчина. Не хочу показаться грубым. Ты хорошо сложен."</DefaultText>
+      <FemaleText>"Должен сказать, ты выглядишь именно так, как я и ожидал", — он отступает назад и внимательно вас разглядывает. — "Ты прекрасная, сильная женщина. Не хочу показаться грубым. Ты хорошо сложена."</FemaleText>
     </Entry>
     <Entry>
       <ID>6</ID>
-      <DefaultText />
+      <DefaultText>"Кто ты?"</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>7</ID>
-      <DefaultText />
+      <DefaultText>"Что это за место?"</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>8</ID>
-      <DefaultText />
+      <DefaultText>"Чем именно ты являешься?"</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>9</ID>
-      <DefaultText />
-      <FemaleText />
+      <DefaultText>"Мосты? Забытые легенды? Откуда ты знаешь, что я делал?"</DefaultText>
+      <FemaleText>"Мосты? Забытые легенды? Откуда ты знаешь, что я делала?"</FemaleText>
     </Entry>
     <Entry>
       <ID>10</ID>
-      <DefaultText />
-      <FemaleText />
+      <DefaultText>"Сперва тебе нужно вернуться в своё тело. Когда ты уничтожил те фрагменты Скорби, в пространстве прямо вон там открылся разрыв. Бьюсь об заклад, это твой путь назад".</DefaultText>
+      <FemaleText>"Сперва тебе нужно вернуться в своё тело. Когда ты уничтожила те фрагменты Скорби, в пространстве прямо вон там открылся разрыв. Бьюсь об заклад, это твой путь назад".</FemaleText>
     </Entry>
     <Entry>
       <ID>11</ID>
-      <DefaultText />
+      <DefaultText>Он лучезарно улыбается: "Хороший вопрос! Но чтобы ответить на него, скажи мне: что первое ты вспоминаешь?"</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>12</ID>
-      <DefaultText />
+      <DefaultText>"Я плод твоего воображения. Я остаток твоего сознания. Я голос у тебя в голове. Что более важно, я здесь, чтобы помочь тебе и направить. Поверь мне, тебя понадобится вся помощь, какую сможешь получить".</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>13</ID>
-      <DefaultText />
+      <DefaultText>"Ты — новый разум в старом теле. Смотри, ты построил мысленный образ своего тела, но оно уже покрыто шрамами. Думаешь, это тело таким и было рождено? Нет. Ты был готов к нему, и теперь старое сознание его покинуло. Остался ты."</DefaultText>
+      <FemaleText>"Ты — новый разум в старом теле. Смотри, ты построила мысленный образ своего тела, но оно уже покрыто шрамами. Думаешь, это тело таким и было рождено? Нет. Ты была готова к нему, и теперь старое сознание его покинуло. Осталась ты."</FemaleText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>14</ID>
-      <DefaultText />
+      <DefaultText>"Это сознание было мужчиной по имени Меняющийся Бог — мужчиной, который искал и практически нашёл способ навсегда обмануть смерть, создавая новые тела и связывая с ними свой разум. Но чудовище под названием Скорбь охотится за ним и стремится уничтожить его, его творения и всё его прошлое. Включая тебя. Позволь мне повторить: Скорбь стремится уничтожить *тебя*".
+
+{COLIN: Add quest or have Jesse add quest}</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>15</ID>
-      <DefaultText />
+      <DefaultText>[Expurgated TCG history, 
+
+The changing god created a bunch of castoffs. You're one of them. The last of them, in fact, if he's just vacated you.]
+
+including break with castoffs.]</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>16</ID>
-      <DefaultText />
+      <DefaultText>"Но сперва тебе нужно настроится на силу под названием «Потоки». Твоё тело было создано для использования Потоков, но без этой настройки оно расплывётся в органическую лужу, когда пробудится твой разум. Не волнуйся... это мысленный процесс, простой вопрос правильного выравнивания твоего разума".</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>17</ID>
-      <DefaultText />
+      <DefaultText>"Я чувствую отклик этого места. Я чувствую, как твой разум собирается воедино. Я чувствую, как *ты* переходишь в бытие, я читаю сигналы".</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>18</ID>
-      <DefaultText />
+      <DefaultText>[It's your mind! It's not a real place. This is the Calm, and what you've got here is basically a construct of your imagination. It's empty because you haven't done anything with your new life, but it should fill as you explore the world.]</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>19</ID>
-      <DefaultText />
+      <DefaultText>"Падение с небес и появление здесь".</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>20</ID>
-      <DefaultText />
-      <FemaleText />
+      <DefaultText>"Я очнулся в тёмной камере с дверью, которую не мог открыть".</DefaultText>
+      <FemaleText>"Я очнулась в тёмной камере с дверью, которую не могла открыть".</FemaleText>
     </Entry>
     <Entry>
       <ID>21</ID>
-      <DefaultText />
+      <DefaultText>"Меня преследовало кошмарное создание неодолимой силы".</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>22</ID>
-      <DefaultText />
-      <FemaleText />
+      <DefaultText>Его глаза широко раскрываются, и он присвистывает: "Несомненно ужасное первое воспоминание. Должно быть тебя мучит вопрос, почему нечто стремилось уничтожить тебя, едва ты родился. Боюсь, Скорбь не поддаётся логическому объяснению, это хищный зверь, и единственная её цель — разрушение.
+
+"Но тебя интересовало, как я оказался здесь, в твоём разуме".</DefaultText>
+      <FemaleText>Его глаза широко раскрываются, и он присвистывает: "Несомненно ужасное первое воспоминание. Должно быть тебя мучит вопрос, почему нечто стремилось уничтожить тебя, едва ты родилась. Боюсь, Скорбь не поддаётся логическому объяснению, это хищный зверь, и единственная её цель — разрушение.
+
+"Но тебя интересовало, как я оказался здесь, в твоём разуме".</FemaleText>
     </Entry>
     <Entry>
       <ID>23</ID>
-      <DefaultText />
-      <FemaleText />
+      <DefaultText>Он восхищённо качает головой: "Такое падение, с такой высоты. Шансы, что ты останешься в состоянии хотя бы вести этот разговор, были ничтожно малы. Ты должен был умереть. *Я* должен был умереть. Но тебя интересовало, как я оказался здесь, в твоём разуме".</DefaultText>
+      <FemaleText>Он восхищённо качает головой: "Такое падение, с такой высоты. Шансы, что ты останешься в состоянии хотя бы вести этот разговор, были ничтожно малы. Ты должна была умереть. *Я* должен был умереть. Но тебя интересовало, как я оказался здесь, в твоём разуме".</FemaleText>
     </Entry>
     <Entry>
       <ID>24</ID>
-      <DefaultText />
+      <DefaultText>Он прищуривается и наклоняется ближе: "Дверь? Правда? Не расскажешь больше об этой двери, которую не получалось открыть? Материал, размеры и так далее?"</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>25</ID>
-      <DefaultText />
+      <DefaultText>"Не скажу о её материале, но она была древней, серой и изъеденной ржавчиной. Посередине двери было большое колесо, но повернуть его не получалось. Она была метра три в высоту".
+
+{GAVIN: Please review}</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>26</ID>
-      <DefaultText />
+      <DefaultText>"Она была чуть выше меня, на уровне головы там было покрытое инеем окошко. К сожалению, разглядеть что за ним не получалось".</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>27</ID>
-      <DefaultText />
+      <DefaultText>"Нет, не могу".</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>28</ID>
-      <DefaultText />
+      <DefaultText>Он кивает, улыбается и выпрямляется: "Именно так и должно быть. Однако, тебя интересовало, как я здесь оказался".
+
+{SCRIPT: The global set here should make the Crisis in F13 harder as the Specter will try to draw power from an accurate picture of F13}</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>29</ID>
-      <DefaultText />
+      <DefaultText>Уголок его брови ползёт вверх, голос кажется озабоченным: "Правда? Полагаю, она должна быть... я думал, она будет более массивной. Но неважно, неважно!" Он сбрасывает маску беспокойства. "Тебя интересовало, как я здесь оказался".</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>30</ID>
-      <DefaultText />
+      <DefaultText>Он разочарованно выпрямляется: "Понимаю. Надеюсь, ты простишь моё любопытство. Но неважно, неважно. Тебя интересовало, как я здесь оказался".</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>31</ID>
-      <DefaultText />
+      <DefaultText>"Так кем же было это сознание? Оно было мужчиной по имени Меняющийся Бог — мужчиной исключительных познаний, который искал и практически нашёл способ навсегда обмануть смерть, создавая новые тела и связывая с ними свой разум. Но мир не вполне готов к такому. Точнее, чудовище под названием Скорбь охотится за ним и стремится уничтожить его, его творения и всё его прошлое".
+
+Он прерывается и смотрит на вас: "Мы должны остановить Скорбь".</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>36</ID>
-      <DefaultText />
+      <DefaultText>"И как же я остановлю Скорбь?"</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>37</ID>
-      <DefaultText />
+      <DefaultText>"Что ты можешь рассказать о Скорби?"</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>38</ID>
-      <DefaultText />
+      <DefaultText>"Расскажи мне ещё о Меняющемся Боге".</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>39</ID>
-      <DefaultText />
-      <FemaleText />
+      <DefaultText>"Ты говоришь, я был создан. Что ты имеешь в виду?"</DefaultText>
+      <FemaleText>"Ты говоришь, я была создана. Что ты имеешь в виду?"</FemaleText>
     </Entry>
     <Entry>
       <ID>40</ID>
-      <DefaultText />
+      <DefaultText>"Можешь звать меня Аданом. Что касается того, откуда я всё это знаю... представь воду, льющуюся через воронку. Добавь в носик накопители, узлы и карманы. Когда вода перестаёт литься, она по-прежнему остаётся в этих ответвлениях. Я словно сочетание этих карманов... содержащих исчезнувшие воспоминания и опыт. Я часть твоего разума, которая возвращает эти воспоминания к жизни".</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>41</ID>
-      <DefaultText />
+      <DefaultText>"Откуда ты всё это знаешь? Если ты часть моего сознания, как мне тебя называть?"</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>42</ID>
-      <DefaultText />
+      <DefaultText>[here's what you need to know about the Sorrow: big, bad, an ancient creation - whether artificial or natural, impossible to say - seems to ignore laws of space and time, incalculable power. Seems to be big on the Tides]</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>43</ID>
-      <DefaultText />
+      <DefaultText>"И всё же, *кто* ты?"</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>44</ID>
-      <DefaultText />
+      <DefaultText>"Можешь считать меня остатками старого сознания, последними кусочками, которые не исчезли, когда он покинул это тело. Думай обо мне, как о своём инстинкте выживания. Что более важно, я здесь, чтобы помочь тебе и направить. Поверь мне, тебя понадобится вся помощь, какую сможешь получить".</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>45</ID>
-      <DefaultText />
+      <DefaultText>Он улыбается, когда ты подходишь: "Прекрасно, дитя. Теперь, когда фрагменты Скорби отброшены, мы можем спокойно поговорить".</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>46</ID>
-      <DefaultText />
+      <DefaultText>"Хочу задать тебе ещё пару вопросов".</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>47</ID>
-      <DefaultText />
+      <DefaultText>"Думаю, пора идти. Прощай".</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>48</ID>
-      <DefaultText />
+      <DefaultText>"Забудь. Прощай."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>49</ID>
-      <DefaultText />
+      <DefaultText>Он вздыхает: "Если так нужно. Но не медли. Сила и влияние Скорби растут."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>50</ID>
-      <DefaultText />
+      <DefaultText>Bank 50</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>51</ID>
-      <DefaultText />
+      <DefaultText>"Эти твари, которые тут были... не расскажешь мне о них подробнее?"</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>52</ID>
-      <DefaultText />
+      <DefaultText>"Можешь рассказать о Скорби что-нибудь ещё?"</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>53</ID>
-      <DefaultText />
+      <DefaultText>Bank 53</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>54</ID>
-      <DefaultText />
+      <DefaultText>"Что ты можешь рассказать о Меняющемся Боге?"</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>55</ID>
-      <DefaultText />
+      <DefaultText>"Не расскажешь о Меняющемся Боге ещё что-нибудь?"</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>56</ID>
-      <DefaultText />
+      <DefaultText>Bank 56</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>57</ID>
-      <DefaultText />
+      <DefaultText>"Что мне теперь следует делать?"</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>58</ID>
-      <DefaultText />
+      <DefaultText>"Повтори мне, каков план?"</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>59</ID>
-      <DefaultText />
+      <DefaultText>Bank 59</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>60</ID>
-      <DefaultText />
+      <DefaultText>"Между тем, что такое Потоки?"</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>61</ID>
-      <DefaultText />
+      <DefaultText>"Расскажи мне о Потоках ещё раз."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>62</ID>
-      <DefaultText />
+      <DefaultText>"Ладно. Удачи!"</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>63</ID>
-      <DefaultText />
+      <DefaultText>Bank 63</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>64</ID>
-      <DefaultText />
+      <DefaultText>"Хм-м. Наверное, мне стоило с этого начать. Потоки — это сила. Как гравитация, или магнетизм, или что-то в том же духе, вот только откликаются они на людские поступки. Всего их пять, гм... синий, красный, индиго, золотой и серебряный. По крайней мере, так их называют здесь". Он показывает на лабораторное оборудование вокруг вас.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>65</ID>
-      <DefaultText />
+      <DefaultText>"Полагаю, проще думать о них, как о магнитной силе, - или пяти силах — которые по разному реагируют на разных людей и их действия, в особенности на тебя и твои действия".</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>66</ID>
-      <DefaultText />
+      <DefaultText>Bank 66</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>67</ID>
-      <DefaultText />
-      <FemaleText />
+      <DefaultText>"Теперь, когда ты настроился на Потоки, тебе нужно лишь войти в резонансную камеру. Как только это будет сделано, весь мир откроется перед тобой".</DefaultText>
+      <FemaleText>"Теперь, когда ты настроилась на Потоки, тебе нужно лишь войти в резонансную камеру. Как только это будет сделано, весь мир откроется перед тобой".</FemaleText>
     </Entry>
     <Entry>
       <ID>68</ID>
-      <DefaultText />
+      <DefaultText>"Сперва проснись. Потом воспользуйся резонансной камерой. Я думаю, это всё. {mutters}*Надеюсь* это всё".</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>69</ID>
-      <DefaultText />
+      <DefaultText>Bank 69</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>70</ID>
-      <DefaultText />
+      <DefaultText>"Некоторые зовут его богом. Другие считаю проклятием. Некоторые почитают его, другие же презирают. Но истинная основа его жизни — поиск знаний. Он желает *понять*. Вот почему он стремился обмануть смерть. Вот почему он создал так много тел для своего разума".</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>71</ID>
-      <DefaultText />
+      <DefaultText>"Моя память... наша память... слишком обрывочна. Но насколько я помню, он желал стать силой добра в этом мире, использовать свои знания, чтобы проложить новый путь вперёд, во благо человечества".</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>72</ID>
-      <DefaultText />
+      <DefaultText>Bank 72</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>73</ID>
-      <DefaultText />
+      <DefaultText>{Suddenly serious}"Это была Скорбь, или её части, во всяком случае. Можешь себе представить, насколько это страшно в действительности", — его улыбка исчезает.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>74</ID>
-      <DefaultText />
+      <DefaultText>"Просто это древняя сила. *На самом деле* древняя. И она не обращает особого внимания на законы - я имею в виду законы пространства-времени, а не человеческие. {to himself}Хотя держу пари, последние она тоже игнорирует. {shivers}Скист... отвратительная тварь".</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>76</ID>
-      <DefaultText />
+      <DefaultText>"Что ты знаешь о проблемах, которые она может доставить?"</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>77</ID>
-      <DefaultText />
+      <DefaultText>"У меня есть другие вопросы".</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>78</ID>
-      <DefaultText />
+      <DefaultText>"И что теперь?"</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1161,17 +1187,17 @@
     </Entry>
     <Entry>
       <ID>256</ID>
-      <DefaultText>"Камера сломана... Я не знаю, как быть дальше. Нужно найти того, кто сможет ее починить. Эта камера — наша единственная надежда. Без нее..."</DefaultText>
+      <DefaultText>"Пока камера сломана... я даже не знаю. Нужно найти того, кто сможет её починить. Эта камера — наша единственная надежда. Без неё..."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>257</ID>
-      <DefaultText>"Отыщи эту Мэткину. Я не уверен, что она знает, как починить камеру, но других зацепок у нас нет".</DefaultText>
+      <DefaultText>"Отыщи эту Мэткину. Возможно она и не знает, как починить камеру, но других зацепок у нас нет".</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>258</ID>
-      <DefaultText>"*Отыщи* Мазофа. Это имя возникает в наших воспоминаниях. *Уверен*, он поможет починить камеру. И мы сможем наконец-то отсюда выбраться".</DefaultText>
+      <DefaultText>"Мы *должны* найти Мазофа. Это имя как заноза в наших воспоминаниях. *Уверен*, он поможет починить камеру. И мы наконец-то сможем выбраться из этих неприятностей".</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1181,12 +1207,12 @@
     </Entry>
     <Entry>
       <ID>260</ID>
-      <DefaultText>"Я знаю, где резонансная камера. Она сломана".</DefaultText>
-      <FemaleText />
+      <DefaultText>"Я нашёл резонансную камеру, но она сломана".</DefaultText>
+      <FemaleText>"Я нашла резонансную камеру, но она сломана".</FemaleText>
     </Entry>
     <Entry>
       <ID>261</ID>
-      <DefaultText>{mutters}"Да, видел. {end muttering}Я не видел все, что ты делаешь , но *это* я видел. Нужно обязательно починить ее".</DefaultText>
+      <DefaultText>{mutters}"Да, видел. {end muttering}Я вижу не всё, что ты делаешь , но *это* я видел. Нужно обязательно починить её".</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1211,7 +1237,7 @@
     </Entry>
     <Entry>
       <ID>266</ID>
-      <DefaultText>"О чем задумался?"</DefaultText>
+      <DefaultText>"О чём задумался?"</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1236,7 +1262,7 @@
     </Entry>
     <Entry>
       <ID>271</ID>
-      <DefaultText>"Повтори еще раз, как мне вернуться?"</DefaultText>
+      <DefaultText>"Повтори ещё раз, как мне вернуться?"</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1256,7 +1282,7 @@
     </Entry>
     <Entry>
       <ID>275</ID>
-      <DefaultText>"Что-нибудь изменилось с моего последнего визита?"</DefaultText>
+      <DefaultText>"Здесь что-нибудь изменилось с моего последнего визита?"</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1281,12 +1307,12 @@
     </Entry>
     <Entry>
       <ID>280</ID>
-      <DefaultText>"За тобой пришла смерть. Не то чтобы ты гниешь где-то, но она была близко". Он наклоняется: "Тебе нужно быть осторожнее... ради нас обоих".</DefaultText>
+      <DefaultText>"За тобой пришла смерть. Не то чтобы ты уже гниёшь где-то, но она была в опасной близости". Он наклоняется: "Тебе нужно быть осторожнее... ради нас обоих".</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>281</ID>
-      <DefaultText>Он пожимает плечами. "А где еще мне быть?"</DefaultText>
+      <DefaultText>Он пожимает плечами: "А где ещё мне быть?"</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1296,7 +1322,7 @@
     </Entry>
     <Entry>
       <ID>283</ID>
-      <DefaultText>"Портал все еще там. Не вижу причины ему не сработать и в этот раз".</DefaultText>
+      <DefaultText>"Портал всё ещё там. Не вижу причины ему не сработать и в этот раз".</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1306,19 +1332,19 @@
     </Entry>
     <Entry>
       <ID>285</ID>
-      <DefaultText>"То есть помимо танцев в кабаре, винокурен и бесконечных приключений, там, за ближайшей извилиной?" — он толкает вас локтем. "Ха! Хотелось бы в *это* верить... "
+      <DefaultText>"То есть, помимо танцев в кабаре, винокурен и бесконечных приключений, там, за ближайшей извилиной твоего мозга?" — он толкает вас локтем. — "Ха! *Хотелось бы* в это верить..."
 
-"Извини. Но это твое сознание. Тут ничего подобного нет. {mutters} Я уже искал".</DefaultText>
+"Извини. Но это твоё сознание. Ничего подобного тут нет. {mutters}Я уже искал".</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>286</ID>
-      <DefaultText>Он пожимает плечами. "Оглядись вокруг. Это *твое* сознание".</DefaultText>
+      <DefaultText>Он пожимает плечами: "Оглядись вокруг. Это *твоё* сознание".</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>287</ID>
-      <DefaultText>"Хотя... С твоим приходом уже многое изменилось. Не удивлюсь, если что-то или кто-то вдруг здесь объявится".</DefaultText>
+      <DefaultText>"Хотя... Благодаря тебе изменилось уже многое. Не удивлюсь, если что-то или кто-то вдруг здесь объявится".</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -2336,14 +2362,14 @@
     </Entry>
     <Entry>
       <ID>497</ID>
-      <DefaultText>"Но все в порядке. У нас есть более важные дела, не так ли? Давай починим камеру".</DefaultText>
+      <DefaultText>"Но всё в порядке. У нас есть более важные дела, не так ли? Давай починим камеру".</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>498</ID>
-      <DefaultText>Он держится за голову: "Поверить не могу, что она нашла нас... *здесь*".
+      <DefaultText>Он хватается за голову: "Поверить не могу, что она нашла нас... *здесь*".
 
-Он смотрит на вас, в его глазах стоит ужас: "Та штука — Скорбь,— она охотится на тебя. Она тебя и убила! Она будет *продолжать* охотиться, пока ты не активируешь резонансную камеру. Я не... я не помнил, пока не увидел ее, но *именно поэтому* камера так важна. Тебе нужно вернуться и активировать камеру, пока не поздно".</DefaultText>
+Он смотрит на вас, в его глазах стоит ужас: "Та штука — Скорбь,— она охотится на тебя. Она тебя и убила! Она будет *продолжать* охотиться, пока ты не активируешь резонансную камеру. Я не... я не помнил, пока не увидел её, но *именно поэтому* камера так важна. Тебе нужно вернуться и активировать камеру, пока не поздно".</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -2378,24 +2404,24 @@
     </Entry>
     <Entry>
       <ID>508</ID>
-      <DefaultText>"Надо найти того, кто может отремонтировать камеру".</DefaultText>
+      <DefaultText>"Надо найти того, кто сможет отремонтировать камеру".</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>512</ID>
-      <DefaultText>После вашего возвращения из Измерения Часов вы замечаете, что там, где было пустое место, возник новый портал.
+      <DefaultText>После вашего возвращения из измерения часов вы замечаете, что там, где было пустое место, возник новый портал.
 
-За ним вы видите много фрагментов — вы чувствуете, что они питаются за счет вашего разума, уничтожая ваши способности. Необходимо что-то сделать, но если вам хватит сил, чтобы сразиться с еще большим количеством фрагментов.</DefaultText>
+За ним вы видите новые фрагменты — и вы чувствуете, что они питаются за счёт вашего разума, подавляя ваши способности. Необходимо что-то сделать, но только если вам хватит сил, чтобы противостоять ещё большему количеству фрагментов.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>513</ID>
-      <DefaultText />
+      <DefaultText>[Start Crisis]</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>514</ID>
-      <DefaultText>"Что он делает? Это... это заражение!"</DefaultText>
+      <DefaultText>"Что происходит? Это... это заражение!"</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -2405,7 +2431,7 @@
     </Entry>
     <Entry>
       <ID>516</ID>
-      <DefaultText>"Возьми этот осколок зеркала! В нем может оказаться достаточно энергии, чтобы убить Отражение!"</DefaultText>
+      <DefaultText>"Возьми этот осколок зеркала! В нём может оказаться достаточно энергии, чтобы убить отражение!"</DefaultText>
       <FemaleText />
     </Entry>
   </Entries>
