@@ -7442,22 +7442,22 @@
     </Entry>
     <Entry>
       <ID>1489</ID>
-      <DefaultText />
+      <DefaultText>Повышается {0} Поток</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>1490</ID>
-      <DefaultText />
+      <DefaultText>Повышаются {0} Потоки</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>1491</ID>
-      <DefaultText />
+      <DefaultText>Понижается {0} Поток</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>1492</ID>
-      <DefaultText />
+      <DefaultText>Понижаются {0} Потоки</DefaultText>
       <FemaleText />
     </Entry>
   </Entries>
