@@ -2,7 +2,7 @@
 <StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
   <Name>game\stringparameters</Name>
   <NextEntryID>1</NextEntryID>
-  <EntryCount>1540</EntryCount>
+  <EntryCount>1543</EntryCount>
   <Entries>
     <Entry>
       <ID>0</ID>
@@ -7702,6 +7702,21 @@
     <Entry>
       <ID>1540</ID>
       <DefaultText>Как много вопросов! Он может узнать больше — и быстрее — если будет экспериментировать сам.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1541</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1542</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1543</ID>
+      <DefaultText />
       <FemaleText />
     </Entry>
   </Entries>
