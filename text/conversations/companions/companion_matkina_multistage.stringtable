@@ -2,7 +2,7 @@
 <StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
   <Name>conversations\companions\companion_matkina_multistage</Name>
   <NextEntryID>1</NextEntryID>
-  <EntryCount>253</EntryCount>
+  <EntryCount>256</EntryCount>
   <Entries>
     <Entry>
       <ID>1</ID>
@@ -1306,6 +1306,21 @@
     </Entry>
     <Entry>
       <ID>257</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>261</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>262</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>263</ID>
       <DefaultText />
       <FemaleText />
     </Entry>

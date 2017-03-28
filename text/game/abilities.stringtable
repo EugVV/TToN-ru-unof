@@ -6646,7 +6646,7 @@
     </Entry>
     <Entry>
       <ID>1329</ID>
-      <DefaultText>Наносит [Damage] всем врагам в радиусе поражения, которые не смогли противостоять атаке. Даже в случае промаха наносит [Color: Relativistic]1 [DamageIcon: Relativistic]Относительный (без учета Стойкости) урон[/Color] для каждого уровня примененного Усилия.</DefaultText>
+      <DefaultText>Наносит [Damage] всем врагам в радиусе поражения, которые не смогли противостоять атаке. Даже в случае промаха наносит [Color: Relativistic]1 [DamageIcon: Relativistic]Относительный (без учета Стойкости) урон[/Color] для каждого уровня примененного Усилия.\n\n[DamageFromEffort]</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
