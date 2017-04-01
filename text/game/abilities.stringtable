@@ -6646,7 +6646,7 @@
     </Entry>
     <Entry>
       <ID>1329</ID>
-      <DefaultText>Наносит [Damage] всем врагам в радиусе поражения, которые не смогли противостоять атаке. Даже в случае промаха наносит [Color: Relativistic]1 [DamageIcon: Relativistic]релятивистского (игнорирующего сопротивление) урона[/Color] для каждого уровня применённого усилия.\n\n[DamageFromEffort]</DefaultText>
+      <DefaultText>Наносит [Damage] всем врагам в радиусе поражения, которые не смогли противостоять атаке. Даже в случае промаха наносит [Color: Relativistic]1 [DamageIcon: Relativistic]релятивистского (игнорирующего сопротивление) урона[/Color] для каждого уровня приложенного усилия.\n\n[DamageFromEffort]</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
