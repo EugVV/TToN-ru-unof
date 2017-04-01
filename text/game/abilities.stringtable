@@ -2,7 +2,7 @@
 <StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
   <Name>game\abilities</Name>
   <NextEntryID>1</NextEntryID>
-  <EntryCount>1350</EntryCount>
+  <EntryCount>1367</EntryCount>
   <Entries>
     <Entry>
       <ID>0</ID>
@@ -1656,7 +1656,7 @@
     </Entry>
     <Entry>
       <ID>330</ID>
-      <DefaultText>Пространственное совмещение</DefaultText>
+      <DefaultText>Пространственная суперпозиция</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -6646,7 +6646,7 @@
     </Entry>
     <Entry>
       <ID>1329</ID>
-      <DefaultText>Наносит [Damage] всем врагам в радиусе поражения, которые не смогли противостоять атаке. Даже в случае промаха наносит [Color: Relativistic]1 [DamageIcon: Relativistic]Относительный (без учета Стойкости) урон[/Color] для каждого уровня примененного Усилия.</DefaultText>
+      <DefaultText>Наносит [Damage] всем противникам в радиусе поражения, которые не смогли избежать атаки. Даже в случае промаха наносит [Color: Relativistic]1 урон[DamageIcon: Relativistic](относительный)[/Color] за каждый пункт приложенного усилия.\n\n[DamageFromEffort]</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -6752,6 +6752,91 @@
     <Entry>
       <ID>1350</ID>
       <DefaultText>Вы направляете свою волю по каналу связи между своим сознанием и Цветением, призывая бесчисленные межпространственные пасти чудовищ помочь вам в битве.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1351</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1352</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1353</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1354</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1355</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1356</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1357</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1358</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1359</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1360</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1361</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1362</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1363</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1364</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1365</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1366</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1367</ID>
+      <DefaultText />
       <FemaleText />
     </Entry>
   </Entries>

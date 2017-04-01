@@ -2,7 +2,7 @@
 <StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
   <Name>game\ttongui</Name>
   <NextEntryID>1</NextEntryID>
-  <EntryCount>1487</EntryCount>
+  <EntryCount>1504</EntryCount>
   <Entries>
     <Entry>
       <ID>0</ID>
@@ -1011,7 +1011,7 @@
     </Entry>
     <Entry>
       <ID>201</ID>
-      <DefaultText>Требует действия</DefaultText>
+      <DefaultText>Требует &lt;quad class="action"&gt;действия</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -5481,7 +5481,7 @@
     </Entry>
     <Entry>
       <ID>1096</ID>
-      <DefaultText> Сопротивление</DefaultText>
+      <DefaultText>[Color: Resistance]Сопротивление[/Color]</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -7437,8 +7437,93 @@
     </Entry>
     <Entry>
       <ID>1488</ID>
-      <DefaultText>Незаметная</DefaultText>
-      <FemaleText>Незаметная</FemaleText>
+      <DefaultText>Скрытная</DefaultText>
+      <FemaleText>Скрытная</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>1489</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1490</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1491</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1492</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1493</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1494</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1495</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1496</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1497</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1498</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1499</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1500</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1501</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1502</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1503</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1504</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1505</ID>
+      <DefaultText />
+      <FemaleText />
     </Entry>
   </Entries>
 </StringTableFile>
