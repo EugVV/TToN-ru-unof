@@ -1051,37 +1051,37 @@
     </Entry>
     <Entry>
       <ID>209</ID>
-      <DefaultText>Бонус Стандартной Мощи.</DefaultText>
+      <DefaultText>Общее улучшение к силе</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>210</ID>
-      <DefaultText>Бонус Стандартной Скорости.</DefaultText>
+      <DefaultText>Общее улучшение к скорости</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>211</ID>
-      <DefaultText>Бонус Стандартного Интеллекта.</DefaultText>
+      <DefaultText>Общее улучшение к интеллекту</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>212</ID>
-      <DefaultText>Приобретите ценный бонус для всех заданий с использованием Мощи.</DefaultText>
+      <DefaultText>Получает ценное улучшение во всех задачах с использованием Силы.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>213</ID>
-      <DefaultText>Приобретите ценный бонус для всех заданий с использованием Скорости.</DefaultText>
+      <DefaultText>Получает ценное улучшение во всех задачах с использованием Скорости.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>214</ID>
-      <DefaultText>Приобретите ценный бонус для всех заданий с использованием Интеллекта.</DefaultText>
+      <DefaultText>Получает ценное улучшение во всех задачах с использованием Интеллекта.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>215</ID>
-      <DefaultText>Фазовый</DefaultText>
+      <DefaultText>Фазовый сдвиг</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1196,12 +1196,12 @@
     </Entry>
     <Entry>
       <ID>238</ID>
-      <DefaultText>Ослепленный</DefaultText>
+      <DefaultText>Ослепление</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>239</ID>
-      <DefaultText>Мои глаза! (Описание Состояния ослепления)</DefaultText>
+      <DefaultText>Мои глаза! (Описание состояния ослепления)</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1241,22 +1241,22 @@
     </Entry>
     <Entry>
       <ID>247</ID>
-      <DefaultText>Бонус за интеллект</DefaultText>
+      <DefaultText>Улучшение защиты интеллекта</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>248</ID>
-      <DefaultText>Обеспечивает защитный бонус против атак, направленных на Интеллект.</DefaultText>
+      <DefaultText>Обеспечивает улучшение защиты против атак, направленных на Интеллект.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>249</ID>
-      <DefaultText>Бонус за скорость и точность</DefaultText>
+      <DefaultText>Улучшение скорости и меткости</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>250</ID>
-      <DefaultText>Дает бонус к заданиям Скорости и Точности.</DefaultText>
+      <DefaultText>Даёт улучшение в задачах на Скорость и меткость.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1286,7 +1286,7 @@
     </Entry>
     <Entry>
       <ID>256</ID>
-      <DefaultText>Заставьте врага атаковать вас и только вас в течение 1 раунда. Также дает +1 бонус к заданиям Устрашения.</DefaultText>
+      <DefaultText>Побуждает врага атаковать вас и только вас в течение 1 раунда. Также даёт улучшение +1 к задачам запугивания.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1671,7 +1671,7 @@
     </Entry>
     <Entry>
       <ID>333</ID>
-      <DefaultText>Получите эффект [Fettles] ([FettleEffectsBasic]). Бонус к Броне составляет +[BonusAmount1] за каждый уровень подготовки, бонус к Сопротивлению составляет +[BonusAmount2] за каждый уровень подготовки.</DefaultText>
+      <DefaultText>Получите эффект [Fettles] ([FettleEffectsBasic]). Улучшение к броне составляет +[BonusAmount1] за каждый уровень подготовки, улучшение к сопротивлению составляет +[BonusAmount2] за каждый уровень подготовки.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1716,7 +1716,7 @@
     </Entry>
     <Entry>
       <ID>342</ID>
-      <DefaultText>Завершает ход немедленно. Проведите основную атаку против первого начавшего двигаться противника в радиусе поражения оружия с бонусом [PassiveEffectsBasic].</DefaultText>
+      <DefaultText>Завершает ход немедленно. Проведите основную атаку против первого начавшего двигаться противника в радиусе поражения оружия с улучшением [PassiveEffectsBasic].</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1946,7 +1946,7 @@
     </Entry>
     <Entry>
       <ID>388</ID>
-      <DefaultText>Вы получаете бонус [StatModifiers], когда носите Легкую броню или вообще обходитесь без брони.</DefaultText>
+      <DefaultText>Вы получаете улучшение [StatModifiers], когда носите лёгкую броню или вообще обходитесь без брони.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -2591,7 +2591,7 @@
     </Entry>
     <Entry>
       <ID>517</ID>
-      <DefaultText>Дает увеличение бонусов за счет многократного последовательного выполнения похожих действий.</DefaultText>
+      <DefaultText>Даёт увеличение бонусов за счет многократного последовательного выполнения похожих действий.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -2611,7 +2611,7 @@
     </Entry>
     <Entry>
       <ID>521</ID>
-      <DefaultText>Немного повышает уровень Резерва параметров Мощь.</DefaultText>
+      <DefaultText>Восстанавливает небольшое количество запаса параметра Сила.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -2776,7 +2776,7 @@
     </Entry>
     <Entry>
       <ID>555</ID>
-      <DefaultText>-3 к сложности при выполнении следующего задания Убеждения или Хитрости.</DefaultText>
+      <DefaultText>-3 к сложности при выполнении следующей задачи на убеждение или хитрость.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -2786,7 +2786,7 @@
     </Entry>
     <Entry>
       <ID>557</ID>
-      <DefaultText>Дает бонус +1 к следующему заданию Убеждения или Хитрости.</DefaultText>
+      <DefaultText>Даёт улучшение +1 в следующей задаче на убеждение или хитрость.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -2931,7 +2931,7 @@
     </Entry>
     <Entry>
       <ID>586</ID>
-      <DefaultText>Позвольте себе немного тщеславия. Бонус +1 к следующему заданию Изготовления, Грабежа или Хитрости.</DefaultText>
+      <DefaultText>Позвольте себе немного тщеславия. Улучшение +1 в следующей задаче на изготовление, добывание или хитрость.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -2941,7 +2941,7 @@
     </Entry>
     <Entry>
       <ID>588</ID>
-      <DefaultText>Используйте Мощь для увеличения Усилия при выполнении не являющегося боевым задания Скорости.</DefaultText>
+      <DefaultText>Используйте Силу для увеличения усилия при выполнении небоевых задач на Скорость.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -2951,12 +2951,12 @@
     </Entry>
     <Entry>
       <ID>590</ID>
-      <DefaultText>Вы получаете бонус [StatModifiers].</DefaultText>
+      <DefaultText>Вы получаете улучшение [StatModifiers].</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>591</ID>
-      <DefaultText>Учитесь у ночи. Бонус +1 к навыкам, наиболее полезным в темноте: Ловкие пальцы, Сбор и Восприятие.</DefaultText>
+      <DefaultText>Учитесь у ночи. Улучшение +1 к навыкам, наиболее полезным в темноте: Ловкость рук, Питание падалью и Восприятие.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -3056,7 +3056,7 @@
     </Entry>
     <Entry>
       <ID>611</ID>
-      <DefaultText>Все остальные члены группы получают бонус:[PassiveEffectsBasic].</DefaultText>
+      <DefaultText>Все остальные члены группы получают улучшение:[PassiveEffectsBasic].</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -3066,7 +3066,7 @@
     </Entry>
     <Entry>
       <ID>613</ID>
-      <DefaultText>Все остальные члены группы получают бонус:[PassiveEffectsBasic].</DefaultText>
+      <DefaultText>Все остальные члены группы получают улучшение:[PassiveEffectsBasic].</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -3486,7 +3486,7 @@
     </Entry>
     <Entry>
       <ID>697</ID>
-      <DefaultText>Исцеляет и дает бонус к Острому разуму.</DefaultText>
+      <DefaultText>Исцеляет и даёт улучшение к таланту Интеллект.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -3951,7 +3951,7 @@
     </Entry>
     <Entry>
       <ID>790</ID>
-      <DefaultText>Бонус +2 ко всем Заданиям.</DefaultText>
+      <DefaultText>Улучшение +2 ко всем задачам.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -4041,7 +4041,7 @@
     </Entry>
     <Entry>
       <ID>808</ID>
-      <DefaultText>Бонус +2 ко всем Заданиям.</DefaultText>
+      <DefaultText>Улучшение +2 ко всем задачам.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -4221,7 +4221,7 @@
     </Entry>
     <Entry>
       <ID>844</ID>
-      <DefaultText>Попытайтесь Скрыться, в таком случае вы получите бонус к своим природным способностям.</DefaultText>
+      <DefaultText>При попытке скрыться получает улучшение к своим природным способностям.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -4276,12 +4276,12 @@
     </Entry>
     <Entry>
       <ID>855</ID>
-      <DefaultText>-6 к сложности заданий атаки и защиты. -75% от нанесенного урона. Удвоение нанесенного урона.</DefaultText>
+      <DefaultText>-6 к сложности задач атаки и защиты. -75% от получаемого урона. Удвоение наносимого урона.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>856</ID>
-      <DefaultText>-6 к сложности заданий атаки и защиты. -75% от нанесенного урона. Удвоение нанесенного урона. Все товарищи получают урон к Интеллекту 7.</DefaultText>
+      <DefaultText>-6 к сложности задач атаки и защиты. -75% от получаемого урона. Удвоение наносимого урона. Все товарищи получают урон к Интеллекту 7.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -4331,7 +4331,7 @@
     </Entry>
     <Entry>
       <ID>866</ID>
-      <DefaultText>Снижает сложность выполнения заданий в Скрытом состоянии.</DefaultText>
+      <DefaultText>Снижает сложность атак в Скрытом состоянии.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -4361,7 +4361,7 @@
     </Entry>
     <Entry>
       <ID>872</ID>
-      <DefaultText>Выберите тип урона и затем атакуйте с помощью оружия. Тип урона основного оружия меняется на выбранный и получает соответствующие ему бонусные эффекты.</DefaultText>
+      <DefaultText>Выберите тип урона и затем атакуйте с помощью оружия. Тип урона основного оружия меняется на выбранный и получает соответствующие ему дополнительные эффекты.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -4371,12 +4371,12 @@
     </Entry>
     <Entry>
       <ID>874</ID>
-      <DefaultText>-3 к сложности заданий защиты.</DefaultText>
+      <DefaultText>-3 к сложности задач защиты.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>875</ID>
-      <DefaultText>Вы умело защищаете себя. Уменьшите сложность всех заданий защиты на 3.</DefaultText>
+      <DefaultText>Вы умело защищаете себя. Уменьшите сложность всех задач защиты на 3.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -4406,17 +4406,17 @@
     </Entry>
     <Entry>
       <ID>881</ID>
-      <DefaultText>Само ваше присутствие дает вам преимущество при взаимодействии с другими разумными созданиями. Увеличьте максимальное Усилие, которое вы можете применить при выполнении заданий Убеждения, Хитрости и Устрашения, на 1.</DefaultText>
+      <DefaultText>Само ваше присутствие даёт вам преимущество при взаимодействии с другими разумными созданиями. Увеличивает максимальное усилие, которое вы можете применить при выполнении задач убеждения, хитрости и запугивания, на 1.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>882</ID>
-      <DefaultText>Преобразует наносимый оружием урон в Относительный и дает бонус +1 к Урону.</DefaultText>
+      <DefaultText>Преобразует наносимый оружием урон в релятивистский и даёт улучшение к урону +1.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>883</ID>
-      <DefaultText>Пропитайте ваше оружие тенью. Атака дает +1 к Урону, и весь нанесенный Урон является Относительным.</DefaultText>
+      <DefaultText>Пропитайте ваше оружие тенью. Атака даёт +1 к урону, и весь нанесённый урон является релятивистским.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -4506,7 +4506,7 @@
     </Entry>
     <Entry>
       <ID>901</ID>
-      <DefaultText>Увеличенная быстрота реагирования дает вам бонус +3 к инициативным действиям.</DefaultText>
+      <DefaultText>Обострённые рефлексы дают вам улучшение +3 к броскам инициативы.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -4516,7 +4516,7 @@
     </Entry>
     <Entry>
       <ID>903</ID>
-      <DefaultText>Убивая противника, вы сразу же совершате бонусную атаку на блищайшего противника в радиусе действия вашего оружия. Это относится к атакам как ближнего боя, так и дальнего.</DefaultText>
+      <DefaultText>Убивая врага, вы сразу же совершаете дополнительную атаку на блищайшего противника в радиусе действия вашего оружия. Это относится к атакам как ближнего боя, так и дальнего.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -4536,12 +4536,12 @@
     </Entry>
     <Entry>
       <ID>907</ID>
-      <DefaultText>Проведите небольшую подготовку, чтобы повысить вероятность убеждения собеседника в правильности своего мнения. Бонус +1 к следующему заданию Убеждения или Хитрости.</DefaultText>
+      <DefaultText>Проведите небольшую подготовку, чтобы повысить вероятность убеждения собеседника в правильности своего мнения. Улучшение +1 к следующей задаче на убеждение или хитрость.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>908</ID>
-      <DefaultText>Независимо от того, что это — ловкость рук или загадочная магия — этот трюк дает бонус +1 к следующему заданию Ловкие пальцы или Удар.</DefaultText>
+      <DefaultText>Независимо от того, что это — ловкость рук или загадочная магия — этот трюк даёт улучшение +1 к следующей задаче на Ловкость рук или Разрушение.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -4596,7 +4596,7 @@
     </Entry>
     <Entry>
       <ID>919</ID>
-      <DefaultText>[Color: PositiveModifier]+1 к предельному значению усилия[/Color] для проверок навыков Убеждение, Хитрость и Запугивание.</DefaultText>
+      <DefaultText>[Color: PositiveModifier]+1 к предельному значению усилия[/Color] в задачах на убеждение, хитрость и запугивание.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -4611,7 +4611,7 @@
     </Entry>
     <Entry>
       <ID>922</ID>
-      <DefaultText>Если вы находитесь в состоянии [FettleIcon: Status] [Color: PositiveModifier]Скрытности[/Color] или на цель наложен эффект [FettleIcon: Debuff] [Color: NegativeModifier]Ослепление[/Color], вы получаете бонус [SimpleTaskModifiers] и [SimpleDamageModifiers].</DefaultText>
+      <DefaultText>Если вы находитесь в состоянии [FettleIcon: Status] [Color: PositiveModifier]Скрытности[/Color] или на цель наложен эффект [FettleIcon: Debuff] [Color: NegativeModifier]Ослепление[/Color], вы получаете [SimpleTaskModifiers] и [SimpleDamageModifiers].</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -4631,12 +4631,12 @@
     </Entry>
     <Entry>
       <ID>926</ID>
-      <DefaultText>Тибир умеет находить общий язык с людьми, что дает ему бонус +1 при всех проверках навыков Убеждение, Хитрость и Запугивание.</DefaultText>
+      <DefaultText>Тибир умеет находить общий язык с людьми, что даёт ему улучшение +1 при всех проверках навыков убеждения, хитрости и запугивания.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>927</ID>
-      <DefaultText>Все остальные члены группы получают бонус:[PassiveEffectsBasic].</DefaultText>
+      <DefaultText>Все остальные члены группы получают улучшение: [PassiveEffectsBasic].</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -4651,12 +4651,12 @@
     </Entry>
     <Entry>
       <ID>930</ID>
-      <DefaultText>Тибир знает о нуменерах не так уж много, но умеет прикидываться сведущим лучше, чем многие другие. Для Тибира и всех его союзников сложность заданий, связанных со Знанием, уменьшается на 3.</DefaultText>
+      <DefaultText>Тибир знает о нуменерах не так уж много, но умеет прикидываться сведущим лучше, чем многие другие. Для Тибира и всех его союзников сложность задач, связанных со знанием, уменьшается на 3.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>931</ID>
-      <DefaultText>Сначала стреляй, потом извиняйся — вот девиз Тибира. Он получает бонус +1 при совершении атаки на врага, который еще не предпринял какое-либо действие в текущем раунде.</DefaultText>
+      <DefaultText>Сначала стреляй, потом извиняйся — вот девиз Тибира. Он получает улучшение +1 при совершении атаки на врага, который ещё не предпринял какое-либо действие в текущем раунде.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -4671,7 +4671,7 @@
     </Entry>
     <Entry>
       <ID>934</ID>
-      <DefaultText>Когда Мэткина находиться в состоянии [FettleIcon: Status][Color: PositiveModifier]Скрытность[/Color] или на противника наложен эффект [FettleIcon: Debuff][Color: NegativeModifier]Ослепление[/Color], она получает бонус [PassiveEffectsBasic] и можете наложить или продлить действие эффекта [Fettles] ([FettleDescriptions]) [Duration].</DefaultText>
+      <DefaultText>Когда Мэткина находиться в состоянии [FettleIcon: Status][Color: PositiveModifier]Скрытность[/Color] или на противника наложен эффект [FettleIcon: Debuff][Color: NegativeModifier]Ослепление[/Color], она получает улучшение [PassiveEffectsBasic] и может наложить на цель или продлить действие эффекта [Fettles] ([FettleDescriptions]) [Duration].</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -4686,7 +4686,7 @@
     </Entry>
     <Entry>
       <ID>937</ID>
-      <DefaultText>Вы получаете бонус к Инициативным действиям.</DefaultText>
+      <DefaultText>Получает улучшение к броскам инициативы.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -4721,7 +4721,7 @@
     </Entry>
     <Entry>
       <ID>944</ID>
-      <DefaultText>+2 к Относительному урону от применения всех Эзотерий.</DefaultText>
+      <DefaultText>+2 к релятивистскому урону от применения всех эзотерий.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -5001,7 +5001,7 @@
     </Entry>
     <Entry>
       <ID>1000</ID>
-      <DefaultText>Вы получаете бонус [SimpleTaskModifiers].</DefaultText>
+      <DefaultText>Получаете улучшение [SimpleTaskModifiers].</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -5056,7 +5056,7 @@
     </Entry>
     <Entry>
       <ID>1011</ID>
-      <DefaultText>Вы получаете [Color: PositiveModifier]бонус +5%[/Color] за каждый пункт усилия при проверке навыков Разрушение или Ловкость рук.</DefaultText>
+      <DefaultText>Получает [Color: PositiveModifier]улучшение +5%[/Color] за каждый пункт усилия в задачах на Разрушение или Ловкость рук.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -5126,7 +5126,7 @@
     </Entry>
     <Entry>
       <ID>1025</ID>
-      <DefaultText>Вы получаете бонус [SimpleTaskModifiers].</DefaultText>
+      <DefaultText>Получаете улучшение [SimpleTaskModifiers].</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -5156,7 +5156,7 @@
     </Entry>
     <Entry>
       <ID>1031</ID>
-      <DefaultText>Когда вы находитесь под действием эффекта [FettleIcon: Buff][Color: PositiveModifier]Гибкость[/Color], то при проверках выбранного навыка вы получаете [Color: PositiveModifier]+[BonusAmount1]% бонуса[/Color] для каждого пункта усилия.</DefaultText>
+      <DefaultText>Когда активна [FettleIcon: Buff][Color: PositiveModifier]Гибкость[/Color], то в задачах где она применима вы получаете [Color: PositiveModifier]улучшение +[BonusAmount1]%[/Color] для каждого пункта усилия.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -5241,7 +5241,7 @@
     </Entry>
     <Entry>
       <ID>1048</ID>
-      <DefaultText>В случае абсолютного успеха при проверках навыков Убеждение, Хитрость или Запугивание, очки параметра Интеллект полностью восстанавливаются.</DefaultText>
+      <DefaultText>В случае критического успеха в задачах на убеждение, хитрость или запугивание, запас параметра Интеллект полностью восстанавливается.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -5291,7 +5291,7 @@
     </Entry>
     <Entry>
       <ID>1058</ID>
-      <DefaultText>Вы получаете бонус [SimpleTaskModifiers] и преобразуете весь урон в [DamageIcon: Relativistic][Color: Relativistic]Относительный[/Color] при совершении атаки в состоянии [FettleIcon: Status][Color: PositiveModifier]Скрытность[/Color] или против противника, на которого наложен эффект [FettleIcon: Debuff][Color: NegativeModifier]Ослепление[/Color].</DefaultText>
+      <DefaultText>Получает дополнительно [SimpleTaskModifiers] и преобразует весь урон в [DamageIcon: Relativistic][Color: Relativistic]релятивистский[/Color] при совершении атаки в состоянии [FettleIcon: Status][Color: PositiveModifier]Скрытность[/Color] или против противника, на которого наложен эффект [FettleIcon: Debuff][Color: NegativeModifier]Ослепление[/Color].</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -5326,7 +5326,7 @@
     </Entry>
     <Entry>
       <ID>1065</ID>
-      <DefaultText>Верните [BonusAmount1]% очков, потраченных на Усилие при неудачном выполнении задания, не являющегося боевым.</DefaultText>
+      <DefaultText>Возвращает [BonusAmount1]% пунктов, потраченных на усилие при неудачном выполнении небоевой задачи.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -5346,12 +5346,12 @@
     </Entry>
     <Entry>
       <ID>1069</ID>
-      <DefaultText>Все остальные члены группы получают бонус:[PassiveEffectsBasic].</DefaultText>
+      <DefaultText>Все остальные члены группы получают улучшение: [PassiveEffectsBasic].</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>1070</ID>
-      <DefaultText>В состоянии [FettleIcon: Status][Color: PositiveModifier]Фазовый сдвиг[/Color] персонаж получает бонус [PassiveEffectsBasic].</DefaultText>
+      <DefaultText>В состоянии [FettleIcon: Status][Color: PositiveModifier]Фазовый сдвиг[/Color] персонаж получает улучшение [PassiveEffectsBasic].</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -5376,7 +5376,7 @@
     </Entry>
     <Entry>
       <ID>1075</ID>
-      <DefaultText>В состоянии [FettleIcon: Status][Color: PositiveModifier]Скрытность[/Color] или при атаке противника с эффектом [FettleIcon: Debuff][Color: NegativeModifier]Ослепление[/Color], автоматически убивает цель, если она имеет менее [Color: Health][BonusAmount1]% Здоровья[/Color].</DefaultText>
+      <DefaultText>В состоянии [FettleIcon: Status][Color: PositiveModifier]Скрытность[/Color] или при атаке противника с эффектом [FettleIcon: Debuff][Color: NegativeModifier]Ослепление[/Color], автоматически убивает цель, если она имеет менее [Color: Health][BonusAmount1]% здоровья[/Color].</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -5386,7 +5386,7 @@
     </Entry>
     <Entry>
       <ID>1077</ID>
-      <DefaultText>Сохраните следующий использованный шифр, чтобы повторно использовать его. Не работает с шифрами, дающими перманентные бонусы.</DefaultText>
+      <DefaultText>Сохраните следующий использованный шифр, чтобы повторно использовать его. Не работает с шифрами, дающими постоянные улучшения.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -5396,7 +5396,7 @@
     </Entry>
     <Entry>
       <ID>1079</ID>
-      <DefaultText>Вы получаете бонус [PassiveEffectsBasic].</DefaultText>
+      <DefaultText>Получает улучшение [PassiveEffectsBasic].</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -5406,7 +5406,7 @@
     </Entry>
     <Entry>
       <ID>1081</ID>
-      <DefaultText>Все остальные члены группы получают бонус:[PassiveEffectsBasic].</DefaultText>
+      <DefaultText>Все остальные члены группы получают улучшение: [PassiveEffectsBasic].</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -5426,7 +5426,7 @@
     </Entry>
     <Entry>
       <ID>1085</ID>
-      <DefaultText>Когда активны [FettleIcon: Buff][Color: PositiveModifier]Живые татуировоки[/Color], Алигерн получает бонус [StatModifiers].</DefaultText>
+      <DefaultText>Когда активны [FettleIcon: Buff][Color: PositiveModifier]Живые татуировоки[/Color], Алигерн получает улучшение [StatModifiers].</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -5446,7 +5446,7 @@
     </Entry>
     <Entry>
       <ID>1089</ID>
-      <DefaultText>Эрритис носится по полю боя, получая бонус [Color: PositiveModifier]+20% к вероятности нанесения критического удара[/Color] каждый раз, когда он атакует новую цель.</DefaultText>
+      <DefaultText>Эрритис носится по полю боя, получая улучшение [Color: PositiveModifier]+20% к вероятности нанесения критического удара[/Color] каждый раз, когда атакует новую цель.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -5456,7 +5456,7 @@
     </Entry>
     <Entry>
       <ID>1091</ID>
-      <DefaultText>Способность Эрритиса непринужденно расправляться со всеми проблемами удивительно заразительна. Все члены группы получают бонус к заданиям Удар.</DefaultText>
+      <DefaultText>Способность Эрритиса непринуждённо расправляться со всеми проблемами удивительно заразительна. Все члены группы получают улучшение к задачам на разрушение.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -5526,7 +5526,7 @@
     </Entry>
     <Entry>
       <ID>1105</ID>
-      <DefaultText>Гарантирует успех при следующей проверке навыков Убеждение, Хитрость или Запугивание.</DefaultText>
+      <DefaultText>Гарантирует успех в следующей задаче на убеждение, хитрость или запугивание.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -5631,7 +5631,7 @@
     </Entry>
     <Entry>
       <ID>1126</ID>
-      <DefaultText>[Color: PositiveModifier]+5 % шанса на абсолютный успех[/Color] при выполнении любых заданий.</DefaultText>
+      <DefaultText>[Color: PositiveModifier]+5 % шанса на критический успех[/Color] при выполнении любых задач.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -5811,122 +5811,122 @@
     </Entry>
     <Entry>
       <ID>1162</ID>
-      <DefaultText>Набор бонусов, предполагаемый для навыка Твердость.</DefaultText>
+      <DefaultText>Набор улучшений, предполагаемый для навыка Твердость.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>1163</ID>
-      <DefaultText>Набор бонусов, предполагаемый для навыка Коварство.</DefaultText>
+      <DefaultText>Набор улучшений, предполагаемый для навыка Коварство.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>1164</ID>
-      <DefaultText>Набор бонусов, предполагаемый для навыка Осмотрительность.</DefaultText>
+      <DefaultText>Набор улучшений, предполагаемый для навыка Осмотрительность.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>1165</ID>
-      <DefaultText>Набор бонусов, предполагаемый для навыка Очарование.</DefaultText>
+      <DefaultText>Набор улучшений, предполагаемый для навыка Очарование.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>1166</ID>
-      <DefaultText>Набор бонусов, предполагаемый для навыка Ум.</DefaultText>
+      <DefaultText>Набор улучшений, предполагаемый для навыка Ум.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>1167</ID>
-      <DefaultText>Набор бонусов, предполагаемый для навыка Излишняя порывистость.</DefaultText>
+      <DefaultText>Набор улучшений, предполагаемый для навыка Излишняя порывистость.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>1168</ID>
-      <DefaultText>Набор бонусов, предполагаемый для навыка Грациозность.</DefaultText>
+      <DefaultText>Набор улучшений, предполагаемый для навыка Грациозность.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>1169</ID>
-      <DefaultText>Набор бонусов, предполагаемый для навыка Смышленость.</DefaultText>
+      <DefaultText>Набор улучшений, предполагаемый для навыка Смышленость.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>1170</ID>
-      <DefaultText>Набор бонусов, предполагаемый для навыка Ученость.</DefaultText>
+      <DefaultText>Набор улучшений, предполагаемый для навыка Ученость.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>1171</ID>
-      <DefaultText>Набор бонусов, предполагаемый для навыка Незаметность.</DefaultText>
+      <DefaultText>Набор улучшений, предполагаемый для навыка Незаметность.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>1172</ID>
-      <DefaultText>Набор бонусов, предполагаемый для навыков Механики.</DefaultText>
+      <DefaultText>Набор улучшений, предполагаемый для навыков Механики.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>1173</ID>
-      <DefaultText>Набор бонусов, предполагаемый для навыка Мистицизм.</DefaultText>
+      <DefaultText>Набор улучшений, предполагаемый для навыка Мистицизм.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>1174</ID>
-      <DefaultText>Набор бонусов, предполагаемый для навыка Наблюдательность.</DefaultText>
+      <DefaultText>Набор улучшений, предполагаемый для навыка Наблюдательность.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>1175</ID>
-      <DefaultText>Набор бонусов, предполагаемый для навыка Растерянность.</DefaultText>
+      <DefaultText>Набор улучшений, предполагаемый для навыка Растерянность.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>1176</ID>
-      <DefaultText>Набор бонусов, предполагаемый для навыка Строгость.</DefaultText>
+      <DefaultText>Набор улучшений, предполагаемый для навыка Строгость.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>1177</ID>
-      <DefaultText>Набор бонусов, предполагаемый для навыка Хитрость.</DefaultText>
+      <DefaultText>Набор улучшений, предполагаемый для навыка Хитрость.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>1178</ID>
-      <DefaultText>Набор бонусов, предполагаемый для навыка Неприметность.</DefaultText>
+      <DefaultText>Набор улучшений, предполагаемый для навыка Неприметность.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>1179</ID>
-      <DefaultText>Набор бонусов, предполагаемый для навыка Сила.</DefaultText>
+      <DefaultText>Набор улучшений, предполагаемый для навыка Сила.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>1180</ID>
-      <DefaultText>Набор бонусов, предполагаемый для навыка Решительность.</DefaultText>
+      <DefaultText>Набор улучшений, предполагаемый для навыка Решительность.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>1181</ID>
-      <DefaultText>Набор бонусов, предполагаемый для навыка Скорость.</DefaultText>
+      <DefaultText>Набор улучшений, предполагаемый для навыка Скорость.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>1182</ID>
-      <DefaultText>Набор бонусов, предполагаемый для навыка Суровость.</DefaultText>
+      <DefaultText>Набор улучшений, предполагаемый для навыка Суровость.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>1183</ID>
-      <DefaultText>Набор бонусов, предполагаемый для навыка Осторожность.</DefaultText>
+      <DefaultText>Набор улучшений, предполагаемый для навыка Осторожность.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>1184</ID>
-      <DefaultText>Набор бонусов, предполагаемый для навыка Гнев.</DefaultText>
+      <DefaultText>Набор улучшений, предполагаемый для навыка Гнев.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>1185</ID>
-      <DefaultText>Все остальные члены группы получают бонус:[PassiveEffectsBasic].</DefaultText>
+      <DefaultText>Все остальные члены группы получают улучшение: [PassiveEffectsBasic].</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -6106,7 +6106,7 @@
     </Entry>
     <Entry>
       <ID>1221</ID>
-      <DefaultText>Иногда небольшое дополнительное усилие — это все, что нужно для успешного выполнения некоторых заданий с применением физической силы.</DefaultText>
+      <DefaultText>Иногда небольшое дополнительное усилие — это всё, что нужно для успешного выполнения некоторых задач с применением физической силы.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -6366,7 +6366,7 @@
     </Entry>
     <Entry>
       <ID>1273</ID>
-      <DefaultText>Захваченный вами искусственный интеллект усиливает ваш разум, благодаря чему выполнять задания на сопоставление предметов и запоминание становится гораздо легче.</DefaultText>
+      <DefaultText>Захваченный вами искусственный интеллект усиливает ваш разум, благодаря чему выполнять задачи на сопоставление предметов и запоминание становится гораздо легче.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -6646,7 +6646,7 @@
     </Entry>
     <Entry>
       <ID>1329</ID>
-      <DefaultText>Наносит [Damage] всем врагам в радиусе поражения, которые не смогли противостоять атаке. Даже в случае промаха наносит [Color: Relativistic]1 [DamageIcon: Relativistic]Относительный (без учета Стойкости) урон[/Color] для каждого уровня примененного Усилия.\n\n[DamageFromEffort]</DefaultText>
+      <DefaultText>Наносит [Damage] всем врагам в радиусе поражения, которые не смогли противостоять атаке. Даже в случае промаха наносит [Color: Relativistic]1 [DamageIcon: Relativistic]релятивистского (игнорирующего сопротивление) урона[/Color] для каждого уровня применённого усилия.\n\n[DamageFromEffort]</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>

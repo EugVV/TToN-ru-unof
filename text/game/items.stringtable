@@ -5441,7 +5441,7 @@
     </Entry>
     <Entry>
       <ID>1160</ID>
-      <DefaultText>Навсегда повышает ваш уровень подготовки в "Быстрых пальцах".</DefaultText>
+      <DefaultText>Навсегда повышает ваш уровень подготовки в "Ловкости рук".</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -5981,7 +5981,7 @@
     </Entry>
     <Entry>
       <ID>1268</ID>
-      <DefaultText>Перманентно повышает уровень подготовки [Color: PositiveModifier]навыка Ловкость Рук на 1[/Color].</DefaultText>
+      <DefaultText>Навсегда повышает уровень подготовки [Color: PositiveModifier]навыка Ловкость рук на 1[/Color].</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -6046,7 +6046,7 @@
     </Entry>
     <Entry>
       <ID>1281</ID>
-      <DefaultText>Гарантирует успех при следующей проверке навыков Убеждение, Хитрость или Запугивание.</DefaultText>
+      <DefaultText>Гарантирует успех в следующей задаче на убеждение, хитрость или запугивание.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
