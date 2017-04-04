@@ -1238,7 +1238,7 @@ including break with castoffs.]</DefaultText>
     <Entry>
       <ID>266</ID>
       <DefaultText>"О чём задумался?"</DefaultText>
-      <FemaleText />
+      <FemaleText>"О чём задумалась?"</FemaleText>
     </Entry>
     <Entry>
       <ID>267</ID>
@@ -2102,7 +2102,7 @@ including break with castoffs.]</DefaultText>
     </Entry>
     <Entry>
       <ID>447</ID>
-      <DefaultText>"Мы должны от них избавиться от них! Разрушь эти связи, или Скорбь уничтожит нас навсегда!"</DefaultText>
+      <DefaultText>"Мы должны от них избавиться! Разрушь эти связи, или Скорбь уничтожит нас навсегда!"</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
