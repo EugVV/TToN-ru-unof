@@ -3051,7 +3051,7 @@
     </Entry>
     <Entry>
       <ID>610</ID>
-      <DefaultText>Взять все</DefaultText>
+      <DefaultText>Взять всё</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -6951,42 +6951,42 @@
     </Entry>
     <Entry>
       <ID>1390</ID>
-      <DefaultText>Можно пожертвовать свое выделенное на ход &lt;quad class="action"&gt; действие и вместо атаки выполнить двойной шаг. Линия, показывающая направление перемещения, окрашивается фиолетовым, когда показывает двойной шаг.</DefaultText>
+      <DefaultText>Можно пожертвовать своё выделенное на ход &lt;quad class="action"&gt; действие и вместо атаки выполнить двойной шаг. Линия, показывающая направление перемещения, окрашивается фиолетовым, когда показывает двойной шаг.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>1391</ID>
-      <DefaultText>Эффекты — это временные состояния или статусные эффекты, которые могут повышать или понижать параметры персонажа. Скорбь наложила эффект на оставшееся Отражение. Вы не можете избавиться от эффекта, зато можете найти другой способ справиться с ним.</DefaultText>
+      <DefaultText>Эффекты — это временные состояния или воздействия на статус, которые могут повышать или понижать параметры персонажа. Скорбь наложила эффект на оставшееся отражение. Вы не можете снять этот эффект, зато можете найти другой способ справиться с ним.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>1392</ID>
-      <DefaultText>Параметр &lt;quad class="armor"&gt; Броня уменьшает [DamageIcon: Physical] физический урон. Эффект, который Скорбь наложила на этого персонажа, усилил его &lt;quad class="armor"&gt; Броню на 10. Это значит, что он будет поглощать по 10 очков урона с каждой атаки.\n\n&lt;quad class="armor"&gt; Броня этого Отражения теперь слишком сильна, и вы не сможете справиться с ним без оружия.</DefaultText>
+      <DefaultText>Параметр &lt;quad class="armor"&gt;Броня уменьшает [DamageIcon: Physical]физический урон. Эффект, который Скорбь наложила на этого персонажа, усилил его &lt;quad class="armor"&gt;Броню на 10. Это значит, что он будет поглощать по 10 очков урона с каждой атаки.\n\n&lt;quad class="armor"&gt;Броня этого отражения теперь слишком велика, и вы не сможете справиться с ним без оружия.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>1393</ID>
-      <DefaultText>Параметр &lt;quad class="resistance"&gt; Сопротивление работает так же, как и &lt;quad class="armor"&gt; Броня, только уменьшает урон от [DamageIcon: Energy][Color: Energy]энергетических[/Color], [DamageIcon: Chemical][Color: Chemical]химических[/Color], [DamageIcon: Mental][Color: Mental]ментальных[/Color] и [DamageIcon: Transdimensional][Color: Transdimensional]межпространственных[/Color] атак.</DefaultText>
+      <DefaultText>Параметр &lt;quad class="resistance"&gt;Сопротивление работает так же, как и &lt;quad class="armor"&gt;Броня, только уменьшает урон от [DamageIcon: Energy][Color: Energy]энергетических[/Color], [DamageIcon: Chemical][Color: Chemical]химических[/Color], [DamageIcon: Mental][Color: Mental]ментальных[/Color] и [DamageIcon: Transdimensional][Color: Transdimensional]межпространственных[/Color] атак.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>1394</ID>
-      <DefaultText>Чтобы подобрать предмет, нажмите [Control: lmb] на подсвеченном предмете. Затем нажмите "Взять все" или щелкните дважды по каждому предмету.</DefaultText>
+      <DefaultText>Чтобы подобрать предмет, нажмите [Control: lmb] на подсвеченном предмете. Затем нажмите "Взять всё" или щёлкните дважды по каждому выбранному предмету.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>1395</ID>
-      <DefaultText>Чтобы подобрать добычу, нажмите [Control: leftstick] и перетащите сетку на предмет, затем нажмите [Control: a]. Нажмите [Control: y], чтобы "Взять все" или выбрать отдельные предметы, и затем нажмите [Control: a].</DefaultText>
+      <DefaultText>Чтобы подобрать добычу, нажмите [Control: leftstick] и переместите перекрестие на предмет, затем нажмите [Control: a]. Нажмите [Control: y], чтобы "Взять всё" или выбрать отдельные предметы, и затем нажмите [Control: a].</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>1396</ID>
-      <DefaultText>Чтобы активировать предмет, нажмите на его значок, расположенный в горизонтальном меню над вашим портретом, а затем щелкните по персонажу, которого хотите взять в цель.</DefaultText>
+      <DefaultText>Чтобы активировать предмет, нажмите на его значок, расположенный в горизонтальном меню над вашим портретом, а затем щёлкните по персонажу, на которого хотите воздействовать.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>1397</ID>
-      <DefaultText>Чтобы активировать предмет, нажмите [Control: rt]. Так вы вызовете радиальное меню используемого Инвентаря. Нажмите [Control: a], чтобы выбрать предмет, подсветите свою цель с помощью сетки и нажмите [Control: a] еще раз.</DefaultText>
+      <DefaultText>Чтобы активировать предмет, нажмите [Control: rt]. Так вы вызовете радиальное меню используемых предметов. Нажмите [Control: a], чтобы выбрать предмет, подсветите свою цель с помощью перекрестия и нажмите [Control: a] ещё раз.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
