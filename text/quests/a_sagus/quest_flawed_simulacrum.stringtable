@@ -36,10 +36,9 @@
     </Entry>
     <Entry>
       <ID>6</ID>
-      <DefaultText>"Вернуться к Финзину и рассказать ему, что случилось.
-{SCRIPT: This is no longer one of the possible outcomes.}"</DefaultText>
-      <FemaleText>Вернуться к Финзину и рассказать ему, что случилось.
-{SCRIPT: This is no longer one of the possible outcomes.}</FemaleText>
+      <DefaultText>Вернуться к Финзину и рассказать ему, что случилось.
+{SCRIPT: This is no longer one of the possible outcomes.}</DefaultText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>7</ID>
@@ -114,7 +113,7 @@
     <Entry>
       <ID>10002</ID>
       <DefaultText>Похоже, страж ужасно страдает. Он говорит о какой-то "работенке в Поместье Гиллема" и описывает страшный пожар. И он добавляет, что хочет получить от Финзина "еще один год". Нужно спросить, что это значит.</DefaultText>
-      <FemaleText>Похоже, страж ужасно страдает. Он говорит о какой-то работенке в Поместье Гиллема и описывает страшный пожар. И он добавляет, что хочет получить от Финзина еще один год. Нужно спросить, что это значит.</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>10003</ID>
