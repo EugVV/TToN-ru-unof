@@ -2,7 +2,7 @@
 <StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
   <Name>conversations\b_valleymielavest\b3302_aadiriis_sacrifice</Name>
   <NextEntryID>1</NextEntryID>
-  <EntryCount>15</EntryCount>
+  <EntryCount>16</EntryCount>
   <Entries>
     <Entry>
       <ID>1</ID>
@@ -90,6 +90,11 @@
       <ID>16</ID>
       <DefaultText>"Я бы сказала, что это не имеет никакого значения, но..." Она робко улыбается. "На самом деле это очень важно. Моя жертва не будет напрасной".</DefaultText>
       <FemaleText>"Я бы сказала, что это не имеет никакого значения, но..." Она робко улыбается. "На самом деле это очень важно. Моя жертва не будет напрасной".</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>17</ID>
+      <DefaultText>Оом беззвучно стонет в вашем мозгу, реагируя то ли на слова Аадирис, то ли на удушающее присутствие Скорби.</DefaultText>
+      <FemaleText />
     </Entry>
   </Entries>
 </StringTableFile>

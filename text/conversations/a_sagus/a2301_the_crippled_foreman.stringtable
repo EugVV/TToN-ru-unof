@@ -2,7 +2,7 @@
 <StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
   <Name>conversations\a_sagus\a2301_the_crippled_foreman</Name>
   <NextEntryID>1</NextEntryID>
-  <EntryCount>126</EntryCount>
+  <EntryCount>128</EntryCount>
   <Entries>
     <Entry>
       <ID>1</ID>
@@ -731,6 +731,16 @@
     <Entry>
       <ID>134</ID>
       <DefaultText>"Изучать свои ошибки", — тихо произносит конструкт. — "Скорбеть".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>135</ID>
+      <DefaultText>— ::сссссрр::, — шепчет Оом, глядя куда-то в сторону.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>136</ID>
+      <DefaultText>— ::ммм::, — говорит Оом, смотря им вслед.</DefaultText>
       <FemaleText />
     </Entry>
   </Entries>

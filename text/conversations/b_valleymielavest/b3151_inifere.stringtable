@@ -2,7 +2,7 @@
 <StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
   <Name>conversations\b_valleymielavest\b3151_inifere</Name>
   <NextEntryID>1</NextEntryID>
-  <EntryCount>286</EntryCount>
+  <EntryCount>287</EntryCount>
   <Entries>
     <Entry>
       <ID>1</ID>
@@ -1831,6 +1831,13 @@
     <Entry>
       <ID>319</ID>
       <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>320</ID>
+      <DefaultText>"А вместе с тобой — одна из игрушек нашего отца", — произносит он, разглядывая Оома. "Он ломает их все, дай только срок. Умей эта игрушка говорить, сказала бы тебе то же самое".
+ 
+ Оом не умеет, но взгляд его лишенных зрачков глаз кажется пустым.</DefaultText>
       <FemaleText />
     </Entry>
   </Entries>

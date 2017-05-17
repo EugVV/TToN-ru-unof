@@ -2,7 +2,7 @@
 <StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
   <Name>game\ttongui</Name>
   <NextEntryID>1</NextEntryID>
-  <EntryCount>1491</EntryCount>
+  <EntryCount>1530</EntryCount>
   <Entries>
     <Entry>
       <ID>0</ID>
@@ -7458,6 +7458,201 @@
     <Entry>
       <ID>1492</ID>
       <DefaultText>Понижаются {0} Потоки</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1493</ID>
+      <DefaultText>{0} презирает Последнего Отверженного.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1494</ID>
+      <DefaultText>{0} недолюбливает Последнего Отверженного.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1495</ID>
+      <DefaultText>{0} нейтрально относится к Последнему Отверженному.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1496</ID>
+      <DefaultText>{0} симпатизирует Последнему Отверженному.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1497</ID>
+      <DefaultText>{0} боготворит Последнего Отверженного.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1498</ID>
+      <DefaultText>Мнение</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1499</ID>
+      <DefaultText>Влияние на отношение спутника</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1500</ID>
+      <DefaultText>{0} начинает относиться к вам лучше.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1501</ID>
+      <DefaultText>{0} начинает относиться к вам хуже.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1502</ID>
+      <DefaultText>Кодекс</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1503</ID>
+      <DefaultText>Локации</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1504</ID>
+      <DefaultText>Персонажи</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1505</ID>
+      <DefaultText>Существа</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1506</ID>
+      <DefaultText>Спутники</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1507</ID>
+      <DefaultText>Фракции и культы</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1508</ID>
+      <DefaultText>Открыта запись в Кодексе: {0}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1509</ID>
+      <DefaultText>Преданный</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1510</ID>
+      <DefaultText>Сила привязанности к вам Оома просто удивительна.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1511</ID>
+      <DefaultText>Хранитель</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1512</ID>
+      <DefaultText>Чем бы Оом не являлся, он, кажется, рассматривает вас как своего подопечного. И сделает все, чтобы защитить вас.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1513</ID>
+      <DefaultText>Течет с Потоками</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1514</ID>
+      <DefaultText>Оом — это существо Потоков, оно бесконечно податливо.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1515</ID>
+      <DefaultText>Хранитель</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1516</ID>
+      <DefaultText>Ученый</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1517</ID>
+      <DefaultText>Подстрекатель</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1518</ID>
+      <DefaultText>Судья</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1519</ID>
+      <DefaultText>Легенда</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1520</ID>
+      <DefaultText>Проводник</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1521</ID>
+      <DefaultText>Мститель</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1522</ID>
+      <DefaultText>Соперник</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1523</ID>
+      <DefaultText>Альтруист</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1524</ID>
+      <DefaultText>Следопыт</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1525</ID>
+      <DefaultText>Искатель</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1526</ID>
+      <DefaultText>Эксперт</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1527</ID>
+      <DefaultText>Чемпион</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1528</ID>
+      <DefaultText>Отступник</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1529</ID>
+      <DefaultText>Арбитр</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1530</ID>
+      <DefaultText>Наследие: {0}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1531</ID>
+      <DefaultText>Доминирующие Потоки изменились. Наследие сместилось.</DefaultText>
       <FemaleText />
     </Entry>
   </Entries>

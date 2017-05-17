@@ -2,7 +2,7 @@
 <StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
   <Name>conversations\a_sagus\a2201_rhin_intro</Name>
   <NextEntryID>1</NextEntryID>
-  <EntryCount>100</EntryCount>
+  <EntryCount>101</EntryCount>
   <Entries>
     <Entry>
       <ID>1</ID>
@@ -546,6 +546,11 @@
     <Entry>
       <ID>114</ID>
       <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>115</ID>
+      <DefaultText>— ::сссс::, — очень тихо шипит Оом.</DefaultText>
       <FemaleText />
     </Entry>
   </Entries>

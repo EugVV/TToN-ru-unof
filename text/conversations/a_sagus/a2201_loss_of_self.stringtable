@@ -2,7 +2,7 @@
 <StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
   <Name>conversations\a_sagus\a2201_loss_of_self</Name>
   <NextEntryID>1</NextEntryID>
-  <EntryCount>243</EntryCount>
+  <EntryCount>244</EntryCount>
   <Entries>
     <Entry>
       <ID>1</ID>
@@ -1317,6 +1317,11 @@
       <DefaultText>"Что? Нет. Нет, бред какой-то". Но то, как в одно мгновение распахнулись ее глаза, подсказывает вам, что вы затронули больную тему.
 
 Она отворачивается: "Не будем о ней. От этого она только выигрывает. *Я не она!*"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>252</ID>
+      <DefaultText>Сияющие глаза Оома сужаются, превращаясь в точки. И вот уже излучаемый ими свет почти незаметен.</DefaultText>
       <FemaleText />
     </Entry>
   </Entries>

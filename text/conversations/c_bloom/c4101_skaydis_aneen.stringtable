@@ -2,7 +2,7 @@
 <StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
   <Name>conversations\c_bloom\c4101_skaydis_aneen</Name>
   <NextEntryID>1</NextEntryID>
-  <EntryCount>80</EntryCount>
+  <EntryCount>81</EntryCount>
   <Entries>
     <Entry>
       <ID>0</ID>
@@ -430,6 +430,11 @@
       <DefaultText>Большая и раздраженная анин нависает над вами. Она начинает скалится, затем долго смотрит на вас, как-будто размышляет над чем-то.
 
 Вы можете слышать шипение голосов Цветения рядом с этой тварью, но большинство из них сконцентрировано вокруг ее хозяйки, которая стоит рядом с ней. Кажется, что голоса воздействуют на их оба разума.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>87</ID>
+      <DefaultText>Оом стремительно переводит взгляд то на вас, то на Эрритиса.</DefaultText>
       <FemaleText />
     </Entry>
   </Entries>

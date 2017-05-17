@@ -2,7 +2,7 @@
 <StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
   <Name>game\abilities</Name>
   <NextEntryID>1</NextEntryID>
-  <EntryCount>1350</EntryCount>
+  <EntryCount>1422</EntryCount>
   <Entries>
     <Entry>
       <ID>0</ID>
@@ -6752,6 +6752,366 @@
     <Entry>
       <ID>1350</ID>
       <DefaultText>Вы направляете свою волю по каналу связи между своим сознанием и Цветением, призывая бесчисленные межпространственные пасти чудовищ помочь вам в битве.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1351</ID>
+      <DefaultText>Вязкость</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1352</ID>
+      <DefaultText>Вязкость (мастерство)</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1353</ID>
+      <DefaultText>Тактильная броня (мастерство)</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1354</ID>
+      <DefaultText>Тактильная броня</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1355</ID>
+      <DefaultText>Рост Оома</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1356</ID>
+      <DefaultText>Снять тактильную броню</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1357</ID>
+      <DefaultText>Вязкость, усиленная Потоками</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1358</ID>
+      <DefaultText>Потоковое наитие, усиленное Оомом</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1359</ID>
+      <DefaultText>Двойное слияние</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1360</ID>
+      <DefaultText>Тактильная броня, усиленная Потоками</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1361</ID>
+      <DefaultText>Выброс, усиленный Потоками</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1362</ID>
+      <DefaultText>Тактильная броня (подготовленность)</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1363</ID>
+      <DefaultText>Выброс (подготовленность)</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1364</ID>
+      <DefaultText>Выброс (мастерство)</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1365</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1366</ID>
+      <DefaultText>Выброс</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1367</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1368</ID>
+      <DefaultText>Повысить уровень подготовки Последнего Отверженного к использованию навыка, основанного на слиянии Оома с Потоками.\n\nТекущее слияние:\n[CurrentBonus]\n\nВозможные слияния:\n-[Color: TideIdealist]Идеалист[/Color]: [SkillIdealist]\n-[Color: TideBlue]Синий[/Color]: [SkillBlue]\n-[Color: TideRed]Красный[/Color]: [SkillRed]\n-[Color: TideIndigo]Индиго[/Color]: [SkillIndigo]\n-[Color: TideGold]Золотой[/Color]: [SkillGold]\n-[Color: TideSilver]Серебряный[/Color]: [SkillSilver]</DefaultText>
+      <FemaleText>Повысить уровень подготовки Последней Отверженной к использованию навыка, основанного на слиянии Оома с Потоками.\n\nТекущее слияние:\n[CurrentBonus]\n\nВозможные слияния:\n-[Color: TideIdealist]Идеалист[/Color]: [SkillIdealist]\n-[Color: TideBlue]Синий[/Color]: [SkillBlue]\n-[Color: TideRed]Красный[/Color]: [SkillRed]\n-[Color: TideIndigo]Индиго[/Color]: [SkillIndigo]\n-[Color: TideGold]Золотой[/Color]: [SkillGold]\n-[Color: TideSilver]Серебряный[/Color]: [SkillSilver]</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>1369</ID>
+      <DefaultText>{0} - [Color: PositiveModifier]{1} уровень подготовки: +{2}[/Color]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1370</ID>
+      <DefaultText>Во время беседы открывает потоковые эффекты вариантов ответов и реакций, в основе которых лежат главные для вас Потоки.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1371</ID>
+      <DefaultText>Оом получает возможность слиться с двумя Потоками одновременно и получить бонусы обоих Потоков. Если у Последнего Отверженного есть только один главный Поток, или же он решает соединить Оома только с одним Потоком, эффект этого Потока усиливается.</DefaultText>
+      <FemaleText>Оом получает возможность слиться с двумя Потоками одновременно и получить бонусы обоих Потоков. Если у Последней Отверженной есть только один главный Поток, или же она решает соединить Оома только с одним Потоком, эффект этого Потока усиливается.</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>1372</ID>
+      <DefaultText>Переслияние</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1373</ID>
+      <DefaultText>Вы можете соединить Оома с одним из главных Потоков Последнего Отверженного. Это изменит внешний вид Оома и повлияет на бонусы, предоставляемые многими способностями Оома.\n\nВид слияния Оома с Потоками можно в любой момент изменить, поговорив с ним.</DefaultText>
+      <FemaleText>Вы можете соединить Оома с одним из главных Потоков Последней Отверженной. Это изменит внешний вид Оома и повлияет на бонусы, предоставляемые многими способностями Оома.\n\nВид слияния Оома с Потоками можно в любой момент изменить, поговорив с ним.</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>1374</ID>
+      <DefaultText>Оом обволакивает союзника, обеспечивая ему защиту, но сам при этом оказывается ослабленным. В этом состоянии Оом не может помогать в выполнении задач посредством бесед или осуществлять &lt;quad class="action"&gt;действия в кризисе. Способность «Снять тактильную броню» возвращает Оома и его цель в исходное состояние.\n\nЦель получает способность [FettleIcon: Buff]«Тактильная броня» ([FettleInfo]).</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1375</ID>
+      <DefaultText>-[Color: TideIdealist]Идеалист[/Color]: +{0}% к шансу абсолютного успеха в рамках всех заданий</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1376</ID>
+      <DefaultText>-[Color: TideBlue]Синий[/Color]: +{0} &lt;quad class="resistance"&gt;к сопротивлению, +{1} к урону от шифров, +{2} к исцелению с помощью шифров</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1377</ID>
+      <DefaultText>Доп. бонусы от слияния с Потоками:</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1378</ID>
+      <DefaultText>-[Color: TideRed]Красный[/Color]: +{0} [Color: Speed]к скорости[/Color], +{1}% к скорости передвижения</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1379</ID>
+      <DefaultText>-[Color: TideIndigo]Индиго[/Color]: +{0} [Color: Health]к здоровью[/Color], +{1} к инициативности</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1380</ID>
+      <DefaultText>-[Color: TideGold]Золотой[/Color]: +{0} к уровню подготовки к целительству, +{1} &lt;quad class="armor"&gt;к броне</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1381</ID>
+      <DefaultText>-[Color: TideSilver]Серебряный[/Color]: +{0} [Color: Might]к силе[/Color], +{1}% &lt;quad class="willpower"&gt;[Color: Intellect]к силе воли[/Color]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1382</ID>
+      <DefaultText>Оом меняет форму, возвращаясь в свое обычное состояние. Снятие тактильной брони восстанавливает здоровье Оома и его цели.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1383</ID>
+      <DefaultText>Когда Оом приходит в [FettleIcon: Buff]положительное состояние, направляя на себя способность или предмет, действие этого состояния в течение того же срока распространяется и на Последнего Отверженного.</DefaultText>
+      <FemaleText>Когда Оом приходит в [FettleIcon: Buff]положительное состояние, направляя на себя способность или предмет, действие этого состояния в течение того же срока распространяется и на Последнюю Отверженную.</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>1384</ID>
+      <DefaultText>Во время действия этого эффекта Последний Отверженный также получает дополнительные эффекты, зависящие от слияния Оома с Потоками. Текущие бонусы слияния:</DefaultText>
+      <FemaleText>Во время действия этого эффекта Последний Отверженный также получает дополнительные эффекты, зависящие от слияния Оома с Потоками. Текущие бонусы слияния:</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>1385</ID>
+      <DefaultText>Усиливает «Выброс», основную атаку Оома, добавляя [Color: PositiveModifier]+[Accuracy]% к вероятности попадания, [Color: Damage]+[DmgBonus] к урону[/Color][/Color]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1386</ID>
+      <DefaultText>«Выброс», основная атака Оома, получает [Color: PositiveModifier]+[Accuracy]% к вероятности попадания[/Color] и [Color: PositiveModifier]+[DmgBonus] к урону за каждый уровень приложенного усилия[/Color].\n\nСпособность также получает дополнительные эффекты, зависящие от слияния Оома с Потоками:</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1387</ID>
+      <DefaultText>-[Color: TideIdealist]Идеалист[/Color]: [Color: PositiveModifier]+[Idealist]% к вероятности критического удара[/Color]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1388</ID>
+      <DefaultText>-[Color: TideBlue]Синий[/Color]: [Color: PositiveModifier]+[Blue]% к вероятности попадания[/Color]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1389</ID>
+      <DefaultText>-[Color: TideRed]Красный[/Color]: [Color: PositiveModifier]+[Red] к урону за каждый уровень приложенного усилия[/Color]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1390</ID>
+      <DefaultText>-[Color: TideIndigo]Индиго[/Color]: В случае критического удара — эффект [IndigoFettle] ([IndigoFetDesc]). [IndigoDuration].</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1391</ID>
+      <DefaultText>-[Color: TideGold]Золотой[/Color]: В случае критического удара [Color: Heal]восстанавливает [Gold] очков здоровья [/Color]всех членов группы</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1392</ID>
+      <DefaultText>-[Color: TideSilver]Серебряный[/Color]: В случае критического удара — эффект [SilverFettle] ([SilverFetDesc]). [SilverDuration].</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1393</ID>
+      <DefaultText>Если способность Оома «Выброс» усилена Потоками, его атака получает следующие бонусы:</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1394</ID>
+      <DefaultText>Основная атака Оома получает [Color: PositiveModifier]+[MaxDamage] к максимальному урону от усилия[/Color].\n\nСпособность также получает дополнительные эффекты, зависящие от слияния Оома с Потоками:</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1395</ID>
+      <DefaultText>Если у Оома есть способность [OtherAbility] или «Двойное слияние», но он объединен только с одним Потоком, эти бонусы увеличиваются.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1396</ID>
+      <DefaultText>У Оома есть способность [OtherAbility] или «Двойное слияние», но он объединен только с одним Потоком, поэтому эти бонусы увеличиваются.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1397</ID>
+      <DefaultText>Усиливает эффекты способности «Тактильная броня». Теперь она дает:</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1398</ID>
+      <DefaultText>Усиливает эффекты способности «Тактильная броня» в зависимости от слияния Оома с Потоками:</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1399</ID>
+      <DefaultText>Усиливает эффекты способности «Вязкость» в зависимости от слияния Оома с Потоками:</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1400</ID>
+      <DefaultText>[Color: Heal]+{0} к исцелению с помощью шифров[/Color]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1401</ID>
+      <DefaultText>Текущие бонусы от слияния с Потоками:</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1402</ID>
+      <DefaultText>Ваши враги — враги Оома, и он готов вас защитить. Он плюется во врагов кусочками собственной плоти. Его внутренние раны затягиваются, если снаряд попадает в цель.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1403</ID>
+      <DefaultText>Тело Оома состоит из мягко пульсирующей слизи. С помощью изогнутых усиков он передвигается и меняет форму своего тела, приспосабливаясь под окружение.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1404</ID>
+      <DefaultText>Вы не знаете, что это. И ни один из образов, используемых Оомом, не помогает вам это понять.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1405</ID>
+      <DefaultText>Вам кажется, что это — какой-то орган чувств или преобразователь, но вы ни в чем не уверены.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1406</ID>
+      <DefaultText>Оом способен удивительным образом управлять проводимостью поверхности своего тела.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1407</ID>
+      <DefaultText>Узы, связывающие вас с Оомом, так крепки, что, когда Оом что-то чувствует, это чувство передается и вам.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1408</ID>
+      <DefaultText>Потоковая связь между вами и Оомом укрепилась еще больше, и теперь ему проще делиться с вами эффектами шифров и состояний.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1409</ID>
+      <DefaultText>Ваши главные Потоки делают всеобъемлющую плоть Оома еще лучше.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1410</ID>
+      <DefaultText>Вы растете, и Оом растет вместе с вами. Изучение вами Потоков сделало Оома великолепным приобретением.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1411</ID>
+      <DefaultText>Оом растягивает свое тело, чтобы окутать им друзей, тем самым усилив их.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1412</ID>
+      <DefaultText>В присутствии Оома ваши навыки усиливаются, становятся совершеннее.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1413</ID>
+      <DefaultText>Закончив защищать друзей, Оом снова впитывает свою тактильную броню.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1414</ID>
+      <DefaultText>Вы можете направить один из своих главных потоков на улучшение способностей Оома.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1415</ID>
+      <DefaultText>Потоковая связь между вами и Оомом укрепилась, и теперь он с большей готовностью делится с вами эффектами шифров и состояний.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1416</ID>
+      <DefaultText>Благодаря Оому вы можете видеть, как собеседники реагируют на ваши главные Потоки, и отслеживать моменты, когда ваш выбор реплики меняет Поток.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1417</ID>
+      <DefaultText>Ваше владение Потоками усиливает и Оома. Он черпает в вас силу и становится лучше.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1418</ID>
+      <DefaultText>Будучи усиленной вашими Потоками, броня Оома становится крепче и защищает эффективней.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1419</ID>
+      <DefaultText>Направляя фокус ваших Потоков, вы можете улучшить и способности Оома.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1420</ID>
+      <DefaultText>Способность Оома защищать товарищей улучшается, что позволяет вам реагировать быстрее.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1421</ID>
+      <DefaultText>В результате тщательной проработки выпускаемые Оомом снаряды стали еще смертоноснее и точнее.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1422</ID>
+      <DefaultText>+{0}% к шансу абсолютного успеха в рамках всех заданий</DefaultText>
       <FemaleText />
     </Entry>
   </Entries>

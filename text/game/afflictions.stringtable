@@ -2,7 +2,7 @@
 <StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
   <Name>game\afflictions</Name>
   <NextEntryID>1</NextEntryID>
-  <EntryCount>164</EntryCount>
+  <EntryCount>165</EntryCount>
   <Entries>
     <Entry>
       <ID>0</ID>
@@ -822,6 +822,11 @@
     <Entry>
       <ID>163</ID>
       <DefaultText>Заражение Скорби</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>164</ID>
+      <DefaultText>Не может помочь в выполнении [Color: Speed]скоростных[/Color] или [Color: Might]силовых[/Color] заданий. Нельзя осуществлять &lt;quad class="action"&gt;действия в кризисе.</DefaultText>
       <FemaleText />
     </Entry>
   </Entries>

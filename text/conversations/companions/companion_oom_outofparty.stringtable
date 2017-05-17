@@ -2,7 +2,7 @@
 <StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
   <Name>conversations\companions\companion_oom_outofparty</Name>
   <NextEntryID>1</NextEntryID>
-  <EntryCount>7</EntryCount>
+  <EntryCount>66</EntryCount>
   <Entries>
     <Entry>
       <ID>1</ID>
@@ -11,12 +11,16 @@
     </Entry>
     <Entry>
       <ID>5</ID>
-      <DefaultText />
+      <DefaultText>Да. Именно это существо вы освободили из зеркального плена Меняющегося Бога. Вам кажется, что вы знакомы целую вечность.
+
+Горящие и крутящиеся диски озаряют бесформенную массу изнутри, двигаясь синхронно, наподобие глаз. Видимо, это и есть глаза.
+
+Они поднимаются и заливают вас ярким светом, обрушивая волну воспоминаний.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>6</ID>
-      <DefaultText />
+      <DefaultText>Глаза Оома, бледные, как лепестки туманных роз, расширяются, словно распускаясь навстречу вам.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -26,17 +30,346 @@
     </Entry>
     <Entry>
       <ID>8</ID>
-      <DefaultText />
+      <DefaultText>— Убирайся из моей головы!</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>9</ID>
-      <DefaultText />
+      <DefaultText>"Брлк", — поясняет Оом, стараясь достучаться до вас.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>10</ID>
+      <DefaultText>— Что ты делаешь в моей голове?</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>У вас завязаны глаза. Вы ощущаете давление грубой ткани, охватывающей голову, и рамку линзы — тюрьмы этого существа — в своих руках. Оно пытается освободиться. Вы чувствуете его страх. Его отчаяние. Его тоску.
+
+Вы нахмуриваетесь еще сильнее. Даже после всего, что вы с ним сделали, существо готово служить вам.
+
+Вы отпускаете линзу и мысленно выталкиваете ее в верхнюю часть матрицы. Сейчас она бесполезна, а потом? Кто знает?
+
+И тут картина рушится.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText>Вместе с этим звуком в ваш разум текут мысли. Ошеломлению нет предела: это не слова, не символы, не какое бы то ни было из известных вам наречий. Эти мысли... они... все понимают. Понимают, что они — Мысли в вашей голове.
+ 
+ Едва это осознав, они пробуждаются в вашем разуме, преобразовывают *ваши* мысли в образы, передающие вам все, о чем думает существо.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText>"Блрб", — говорит Оом каким-то невидимым ртом. Густой, булькающий, но довольно беззлобный звук.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>14</ID>
+      <DefaultText>"Срссрс", — шипит Оом, съеживаясь. Или вам это кажется?</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>15</ID>
+      <DefaultText>Не совсем ясно, понимаете вы смысл этих звуков или делаете потенциально опасные предположения.
+
+Оом пристально смотрит на вас, а его глаза то сужаются, то расширяются. Где-то вверху в темноте раздается странный звук...</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>16</ID>
+      <DefaultText>"Мрммрмм", — соглашается Оом, или вам это только кажется?</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>17</ID>
+      <DefaultText>— Ты променял одну тюрьму на другую. Несправедливо.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>18</ID>
+      <DefaultText>— Ты необычно существо…</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>19</ID>
+      <DefaultText>— Я найду способ освободить тебя.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20</ID>
+      <DefaultText>"Что это был за звук? Почему твои глаза меняют цвет?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>21</ID>
       <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>22</ID>
+      <DefaultText>Шелест переворачиваемых страниц. В вашем мозгу проносятся воспоминания, сдобренные изрядной толикой вашего же любопытства.
+
+Широко открытые глаза Оома загораются синим.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>23</ID>
+      <DefaultText>Биение огромного сердца. В вашем мозгу пульсируют воспоминания, пронизанные давно пережитыми эмоциями.
+
+Широко открытые глаза Оома загораются красным.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>24</ID>
+      <DefaultText>Гул бесчисленных голосов. Вы стараетесь разобрать их, как вы всегда делали на протяжении своей короткой жизни, но слышите в них лишь отчаяние и желание быть услышанными.
+
+Широко открытые глаза Оома загораются цветом индиго.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>25</ID>
+      <DefaultText>Гул пламени — пламени, которое горит внутри вас. Оно распаляет ваше сердце, когда вы слышите страдания других. Оно убеждает вас пожертвовать всем ради их спасения.
+
+Широко открытые глаза Оома загораются золотым.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>26</ID>
+      <DefaultText>Рокот ликующей толпы. Невольная улыбка касается ваших губ. Вот на что вы потратили свою короткую жизнь. Вот что вы так страстно хотели услышать.
+
+Широко открытые глаза Оома загораются серебряным.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>27</ID>
+      <DefaultText>"Ммммм", — говорит Оом, не скрывая удовольствия. Или вам только кажется, что он доволен?</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>28</ID>
+      <DefaultText>"Ммммм", — с удовольствием произносит Оом. Или вам только кажется, что он доволен?</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>29</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30</ID>
+      <DefaultText>— Что ты за существо?</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>31</ID>
+      <DefaultText>"Можешь еще что-нибудь рассказать о себе?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>32</ID>
+      <DefaultText>— Прощай.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>33</ID>
+      <DefaultText>Звук стихает. Существо выжидающе смотрит на вас.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>34</ID>
+      <DefaultText>"Флрск", — объясняет Оом, протягивая тонкий усик к вашей лодыжке.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>35</ID>
+      <DefaultText>Позволить прикоснуться к себе.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>36</ID>
+      <DefaultText>Отдернуть ногу.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>37</ID>
+      <DefaultText>Прохладный и сухой усик смыкается вокруг лодыжки. Больше ничего не происходит. Очевидно, он просто хотел вас обнять.
+
+В конце концов Оом убирает усик, хлопает им вас по ноге и с тихим звуком втягивает его обратно в тело.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>38</ID>
+      <DefaultText>Вы поднимаете ногу над любопытным усиком, и Оом втягивает его обратно в тело. Его глаза сужаются, он внимательно изучает вас.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>39</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>40</ID>
+      <DefaultText>"Ты ведь не отражение, верно? Не станешь красть мой разум?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>41</ID>
+      <DefaultText>— Хочешь пойти со мной?</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>42</ID>
+      <DefaultText>Какое-то время Оом молчит, стараясь не смотреть на вас. Когда вы начинаете думать, что он так и не ответит, в середине его меняющегося тела появляется пузырь, который затем разделяется надвое. Пузыри снова сливаются и разделяются уже натрое. Сливаются снова, появляется четыре пузыря. Затем пять.
+
+Пузыри загораются мягкими цветами, соответствующими каждому из Потоков.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>43</ID>
+      <DefaultText>::склк::</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>44</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>45</ID>
+      <DefaultText>::мрлк::</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>46</ID>
+      <DefaultText>Внезапно пузыри начинают кружиться в безумном танце, превращаясь в вихрь. Их огни образуют правильные круги. Столп огня, на который больно смотреть. Вихрь.
+
+Но вот все пять пузырей лопнули, и лишь горящие глаза Оома продолжают внимательно следить за вами.
+ 
+— ::брлк::, — говорит он и замолкает.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>47</ID>
+      <DefaultText>::флк::</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>48</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>49</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>50</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>51</ID>
+      <DefaultText>Усики проникают в ваш разум, заполняя его видениями. В мыслях возникают образы ваших спутников.
+
+"Ссссрл", — смущенно шепчет Оом, и его глаза начинают сужаться. Похоже, существо не хочет присоединяться к вам, ведь у вас и так уже много спутников.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>52</ID>
+      <DefaultText>"Ссссрсл", — бормочет Оом, не шевелясь. 
+
+ Вам снова кажется, что он стесняется путешествовать в такой большой компании. Похоже, вам придется исключить из вашей группы одного из спутников — пусть даже на время — прежде чем Оом присоединится к вам.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>53</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>54</ID>
+      <DefaultText>"Ммрмрмм", — отвечает Оом и тянется к вам. Вы инстинктивно моргаете, и он исчезает.
+
+Но вы все равно ощущаете его незримое присутствие. Вероятно, он ждет вашего возвращения во внешний мир.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>55</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>56</ID>
+      <DefaultText>::прп::</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>57</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>58</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>59</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>60</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>61</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>62</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>66</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>67</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>68</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>69</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>70</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>71</ID>
+      <DefaultText>"Ммм", — произносит он и исчезает буквально на глазах. Вероятно, ждет вас как и раньше — во внешнем мире.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>72</ID>
+      <DefaultText>Это существо — "Оом", как подсказывает голос в голове — смотрит на вас сияющими, похожими на цветы глазами.</DefaultText>
       <FemaleText />
     </Entry>
   </Entries>

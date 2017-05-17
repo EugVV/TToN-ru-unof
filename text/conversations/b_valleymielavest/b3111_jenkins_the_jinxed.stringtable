@@ -2,7 +2,7 @@
 <StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
   <Name>conversations\b_valleymielavest\b3111_jenkins_the_jinxed</Name>
   <NextEntryID>1</NextEntryID>
-  <EntryCount>61</EntryCount>
+  <EntryCount>62</EntryCount>
   <Entries>
     <Entry>
       <ID>1</ID>
@@ -335,6 +335,11 @@
     <Entry>
       <ID>66</ID>
       <DefaultText>"Тебе придется поговорить с кем-нибудь другим".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>67</ID>
+      <DefaultText>— ::мммм::, — говорит Оом, но обращается он не к Дженкинсу. Он смотрит на вас, словно ожидая, что вы что-то предпримете.</DefaultText>
       <FemaleText />
     </Entry>
   </Entries>

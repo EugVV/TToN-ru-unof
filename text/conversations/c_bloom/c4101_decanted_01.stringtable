@@ -2,7 +2,7 @@
 <StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
   <Name>conversations\c_bloom\c4101_decanted_01</Name>
   <NextEntryID>1</NextEntryID>
-  <EntryCount>103</EntryCount>
+  <EntryCount>105</EntryCount>
   <Entries>
     <Entry>
       <ID>4</ID>
@@ -573,6 +573,16 @@
     <Entry>
       <ID>125</ID>
       <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>126</ID>
+      <DefaultText>Оом стонет рядом с вами, словно ощущая тяжкое бремя — дело ваших рук.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>127</ID>
+      <DefaultText>Тибир ничего не говорит. Его губы бледны.</DefaultText>
       <FemaleText />
     </Entry>
   </Entries>

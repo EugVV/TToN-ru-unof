@@ -2,7 +2,7 @@
 <StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
   <Name>conversations\companions\party_idle_barks</Name>
   <NextEntryID>1</NextEntryID>
-  <EntryCount>113</EntryCount>
+  <EntryCount>122</EntryCount>
   <Entries>
     <Entry>
       <ID>1</ID>
@@ -551,7 +551,7 @@
     </Entry>
     <Entry>
       <ID>114</ID>
-      <DefaultText />
+      <DefaultText>— Интересно, где Скорбь.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -568,6 +568,51 @@
       <ID>117</ID>
       <DefaultText>"Нужен отдых".</DefaultText>
       <FemaleText>"Нужен отдых".</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>118</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>119</ID>
+      <DefaultText>{Improvised sound}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>120</ID>
+      <DefaultText>{Improvised sound}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>121</ID>
+      <DefaultText>{Improvised sound}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>122</ID>
+      <DefaultText>{Improvised sound}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>123</ID>
+      <DefaultText>{Improvised sound}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>124</ID>
+      <DefaultText>{Improvised sound}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>125</ID>
+      <DefaultText>{Improvised sound}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>126</ID>
+      <DefaultText>{Improvised sound}</DefaultText>
+      <FemaleText />
     </Entry>
   </Entries>
 </StringTableFile>

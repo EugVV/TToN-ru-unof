@@ -2,7 +2,7 @@
 <StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
   <Name>conversations\a_sagus\a2201_mother_temaz</Name>
   <NextEntryID>1</NextEntryID>
-  <EntryCount>232</EntryCount>
+  <EntryCount>234</EntryCount>
   <Entries>
     <Entry>
       <ID>1</ID>
@@ -1335,6 +1335,16 @@
       <FemaleText>"Разумеется, — бормочет она, копаясь в своих сумках. — Но я почувствовала твой разум, когда ты проснулась. Решила, что ты сможешь помочь Утратившей Себя девочке. И еще до того, как я тебя увидела, ты решила ее проблемы".
 
 Она снова ухмыляется и трясет головой.</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>262</ID>
+      <DefaultText>Один из усиков Оома тихонько скользит к ее сумке.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>263</ID>
+      <DefaultText>Она смахивает его широким жестом, даже не глядя. На ее губах играет мрачная улыбка.</DefaultText>
+      <FemaleText />
     </Entry>
   </Entries>
 </StringTableFile>

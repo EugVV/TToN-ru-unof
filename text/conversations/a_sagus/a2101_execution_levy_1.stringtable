@@ -2,7 +2,7 @@
 <StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
   <Name>conversations\a_sagus\a2101_execution_levy_1</Name>
   <NextEntryID>1</NextEntryID>
-  <EntryCount>51</EntryCount>
+  <EntryCount>53</EntryCount>
   <Entries>
     <Entry>
       <ID>1</ID>
@@ -277,6 +277,16 @@
     <Entry>
       <ID>57</ID>
       <DefaultText>С виду человек, но будто бы без мозга.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>58</ID>
+      <DefaultText>"Похоже, вон тот человек, Тибир, причастен к преступлению Риса."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>59</ID>
+      <DefaultText>— О своих опасениях сообщите в соответствующие инстанции. Там разберутся, стоит ли продолжать следствие.</DefaultText>
       <FemaleText />
     </Entry>
   </Entries>

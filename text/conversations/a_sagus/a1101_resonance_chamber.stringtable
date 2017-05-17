@@ -2,7 +2,7 @@
 <StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
   <Name>conversations\a_sagus\a1101_resonance_chamber</Name>
   <NextEntryID>1</NextEntryID>
-  <EntryCount>45</EntryCount>
+  <EntryCount>46</EntryCount>
   <Entries>
     <Entry>
       <ID>1</ID>
@@ -243,6 +243,11 @@
     <Entry>
       <ID>46</ID>
       <DefaultText>Кажется, кольцо создает какое-то поле, похожее на защитный купол вокруг саркофага.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>47</ID>
+      <DefaultText>"Ссссс". Оом шипит и касается их, как будто подталкивая. Ничего не происходит.</DefaultText>
       <FemaleText />
     </Entry>
   </Entries>

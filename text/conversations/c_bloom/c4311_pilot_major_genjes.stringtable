@@ -2,7 +2,7 @@
 <StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
   <Name>conversations\c_bloom\c4311_pilot_major_genjes</Name>
   <NextEntryID>1</NextEntryID>
-  <EntryCount>103</EntryCount>
+  <EntryCount>104</EntryCount>
   <Entries>
     <Entry>
       <ID>0</ID>
@@ -545,6 +545,11 @@
     <Entry>
       <ID>112</ID>
       <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>113</ID>
+      <DefaultText>"Мммм", — говорит Оом, широко раскрыв глаза.</DefaultText>
       <FemaleText />
     </Entry>
   </Entries>

@@ -2,7 +2,7 @@
 <StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
   <Name>conversations\a_sagus\item_a2332_tcgbook</Name>
   <NextEntryID>1</NextEntryID>
-  <EntryCount>93</EntryCount>
+  <EntryCount>94</EntryCount>
   <Entries>
     <Entry>
       <ID>1</ID>
@@ -485,6 +485,11 @@
     <Entry>
       <ID>98</ID>
       <DefaultText>Книга закрывается с решительным и приятным *стуком*.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>99</ID>
+      <DefaultText>Оом по очереди прикасается к каждому из симптомов, что-то шепча себе под нос. Затем он *повторяет* это движение, напевая какой-то бессловесный мотив.</DefaultText>
       <FemaleText />
     </Entry>
   </Entries>

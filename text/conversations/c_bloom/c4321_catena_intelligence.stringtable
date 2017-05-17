@@ -2,7 +2,7 @@
 <StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
   <Name>conversations\c_bloom\c4321_catena_intelligence</Name>
   <NextEntryID>1</NextEntryID>
-  <EntryCount>115</EntryCount>
+  <EntryCount>116</EntryCount>
   <Entries>
     <Entry>
       <ID>1</ID>
@@ -696,6 +696,11 @@
       <ID>128</ID>
       <DefaultText>Вы открываете вместилище и обнаруживаете там всего один работающий источник питания. Остальные безмолвны и мертвы. Вы изучаете рабочий источник получше, и от внезапной смены перспективы кружится голова.</DefaultText>
       <FemaleText>Вы открываете вместилище и обнаруживаете там всего один работающий источник питания. Остальные безмолвны и мертвы. Вы изучаете рабочий источник получше, и от внезапной смены перспективы кружится голова.</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>129</ID>
+      <DefaultText>Вы чувствуете, как Оом вздрагивает: то ли рядом с вами, то ли в вашей голове, то ли и там, и там.</DefaultText>
+      <FemaleText />
     </Entry>
   </Entries>
 </StringTableFile>

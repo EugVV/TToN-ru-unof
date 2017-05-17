@@ -2,7 +2,7 @@
 <StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
   <Name>conversations\a_sagus\a2101_beleazar</Name>
   <NextEntryID>1</NextEntryID>
-  <EntryCount>165</EntryCount>
+  <EntryCount>167</EntryCount>
   <Entries>
     <Entry>
       <ID>1</ID>
@@ -925,6 +925,20 @@
     <Entry>
       <ID>178</ID>
       <DefaultText>Молодой последователь отворачивается от вашего спутника к вам.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>179</ID>
+      <DefaultText>Любопытный усик разворачивается в сторону устройства. Вы с Белеазаром одновременно поворачиваетесь к Оому. 
+ 
+"Ссрк," говорит он, тыча усиком в узелок.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>180</ID>
+      <DefaultText>"Хватит его тыкать!" — шипит побледневший Белеазар. Он нервно проводит ладонью по лбу.
+ 
+"Уходи!" Он машет руками, словно отгоняя вас. "Уходи, пока никто не заметил, что мы говорим!"</DefaultText>
       <FemaleText />
     </Entry>
   </Entries>

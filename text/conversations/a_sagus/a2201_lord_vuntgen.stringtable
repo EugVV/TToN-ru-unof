@@ -2,7 +2,7 @@
 <StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
   <Name>conversations\a_sagus\a2201_lord_vuntgen</Name>
   <NextEntryID>1</NextEntryID>
-  <EntryCount>239</EntryCount>
+  <EntryCount>241</EntryCount>
   <Entries>
     <Entry>
       <ID>1</ID>
@@ -1197,6 +1197,16 @@
     <Entry>
       <ID>261</ID>
       <DefaultText>"Задавай".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>262</ID>
+      <DefaultText>"Флррррт", — говорит Оом. Очень человеческий, очень грубый звук.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>263</ID>
+      <DefaultText>Он пристально смотрит на вашего спутника, но внимание Оома сосредоточено на небе.</DefaultText>
       <FemaleText />
     </Entry>
   </Entries>

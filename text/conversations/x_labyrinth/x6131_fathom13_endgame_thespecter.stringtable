@@ -2,7 +2,7 @@
 <StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
   <Name>conversations\x_labyrinth\x6131_fathom13_endgame_thespecter</Name>
   <NextEntryID>1</NextEntryID>
-  <EntryCount>216</EntryCount>
+  <EntryCount>217</EntryCount>
   <Entries>
     <Entry>
       <ID>1</ID>
@@ -1178,6 +1178,11 @@
     <Entry>
       <ID>280</ID>
       <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>281</ID>
+      <DefaultText>В поведении Оома ощущается смесь любви и страха, это пронизывает ваш разум.</DefaultText>
       <FemaleText />
     </Entry>
   </Entries>

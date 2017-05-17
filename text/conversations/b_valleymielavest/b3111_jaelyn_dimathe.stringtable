@@ -2,7 +2,7 @@
 <StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
   <Name>conversations\b_valleymielavest\b3111_jaelyn_dimathe</Name>
   <NextEntryID>1</NextEntryID>
-  <EntryCount>47</EntryCount>
+  <EntryCount>49</EntryCount>
   <Entries>
     <Entry>
       <ID>1</ID>
@@ -260,6 +260,16 @@
       <ID>53</ID>
       <DefaultText>Она слегка кланяется. "Как я и говорила. Зачем оскорблять мертвых признанием, что ты боишься оказаться в их числе?"</DefaultText>
       <FemaleText>Она слегка кланяется. "Как я и говорила. Зачем оскорблять мертвых признанием, что ты боишься оказаться в их числе?"</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>54</ID>
+      <DefaultText>— ::сссрр::, — постукивая усиками по земле, рычит Оом.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>55</ID>
+      <DefaultText>Она скользит по Оому пустым взглядом. Ее брови вежливо приподняты.</DefaultText>
+      <FemaleText />
     </Entry>
   </Entries>
 </StringTableFile>

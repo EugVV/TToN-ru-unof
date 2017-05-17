@@ -2,7 +2,7 @@
 <StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
   <Name>conversations\a_sagus\a2101_execution_official</Name>
   <NextEntryID>1</NextEntryID>
-  <EntryCount>174</EntryCount>
+  <EntryCount>177</EntryCount>
   <Entries>
     <Entry>
       <ID>1</ID>
@@ -904,6 +904,23 @@
     </Entry>
     <Entry>
       <ID>195</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>196</ID>
+      <DefaultText>"Вон тот человек сказал мне, что причастен к преступлению Риса."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>197</ID>
+      <DefaultText>Посмотрев в указанном вами направлении, исполнитель хмурится. 
+ 
+"Капитан Тибир? Герой войны? Ерунда! Я не раз с ним пил. Он всей душой за правосудие!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>198</ID>
       <DefaultText />
       <FemaleText />
     </Entry>

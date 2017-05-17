@@ -2,7 +2,7 @@
 <StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
   <Name>conversations\global\item_global_hall_of_relics</Name>
   <NextEntryID>1</NextEntryID>
-  <EntryCount>105</EntryCount>
+  <EntryCount>114</EntryCount>
   <Entries>
     <Entry>
       <ID>1</ID>
@@ -556,6 +556,55 @@
       <DefaultText>Холодный голос Толь Магуур прерывает ее. "С кем ты разговариваешь, моя птичка? Кто бы это ни был..."
 
 Неожиданный силовой залп поражает вас, возникает боль в глазах, и соединение исчезает. Кнопка возвращается к своему прежнему положению. Ее нельзя нажать еще раз.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>197</ID>
+      <DefaultText>Follow-up PQ. 25</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>198</ID>
+      <DefaultText>Вы кладете большой палец на кнопку и чувствуете на себе чей-то взгляд... взгляд внутри вашего сознания.
+
+Это Оом, и он знает, что вы думаете о нем.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>200</ID>
+      <DefaultText>Жизнерадостное гудение Оома заполняет ваш разум.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>201</ID>
+      <DefaultText>Script Node 164</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>202</ID>
+      <DefaultText>В мгновение ока существо оказывается рядом с вами.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>205</ID>
+      <DefaultText>Вы чувствуете, что Оом нервничает, а вашем мозгу начинают мелькать образы спутников.
+
+Под вашим большим пальцем снова появляется кнопка.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>206</ID>
+      <DefaultText>Нажать кнопку с падающими башнями.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>207</ID>
+      <DefaultText>"Подойди-ка, Оом".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>208</ID>
+      <DefaultText>Снова нажать кнопку Оома.</DefaultText>
       <FemaleText />
     </Entry>
   </Entries>

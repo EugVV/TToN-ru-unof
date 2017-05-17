@@ -2,7 +2,7 @@
 <StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
   <Name>conversations\a_sagus\a2201_finzin</Name>
   <NextEntryID>1</NextEntryID>
-  <EntryCount>176</EntryCount>
+  <EntryCount>177</EntryCount>
   <Entries>
     <Entry>
       <ID>1</ID>
@@ -960,6 +960,11 @@
     <Entry>
       <ID>207</ID>
       <DefaultText>На этот раз его лицо — сама невинность. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>208</ID>
+      <DefaultText>Оом переводит взгляд то на стража, то на Финзина, словно пытаясь найти между ними сходство.</DefaultText>
       <FemaleText />
     </Entry>
   </Entries>

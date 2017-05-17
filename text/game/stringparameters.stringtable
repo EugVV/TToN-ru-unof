@@ -2,7 +2,7 @@
 <StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
   <Name>game\stringparameters</Name>
   <NextEntryID>1</NextEntryID>
-  <EntryCount>1543</EntryCount>
+  <EntryCount>1583</EntryCount>
   <Entries>
     <Entry>
       <ID>0</ID>
@@ -7716,6 +7716,206 @@
     </Entry>
     <Entry>
       <ID>1543</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1544</ID>
+      <DefaultText>РАЗВЕ МЫ ТОЖЕ ЕГО ЛУЧШИЕ ДРУЗЬЯ *конечно, нет* ОХ</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1545</ID>
+      <DefaultText>ОПАСНО ЛИ ЭТО *как по-нашему, все* ХОРОШО</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1546</ID>
+      <DefaultText>Он кажется безобидным, но это не так.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1547</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1548</ID>
+      <DefaultText>::луч солнечного света пронзает воду стрелой, становясь темнее, причудливее::</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1549</ID>
+      <DefaultText>::круги расходятся из места падения камня::</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1550</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1551</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1552</ID>
+      <DefaultText>::круг, нарисованный в пыли, форма которого говорит сама за себя::</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1553</ID>
+      <DefaultText>::ветер сметает пыль с поверхности стола скульптора::</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1554</ID>
+      <DefaultText>::мрачная океанская впадина, вырезанная в земле::</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1555</ID>
+      <DefaultText>::снег покрывает яму в земле. невидимая дыра сохраняется::</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1556</ID>
+      <DefaultText>::ветер несет недвижимый лист куда пожелает::</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1557</ID>
+      <DefaultText>::перышко кружится не переставая, подхваченное легким ветерком::</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1558</ID>
+      <DefaultText>::перышко кружится, кружится, кружится, не падая::</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1559</ID>
+      <DefaultText>::голое дерево под дождем::</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1560</ID>
+      <DefaultText>::заплатанное выцветшее одеяло на сухой земле::</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1561</ID>
+      <DefaultText>::ладонь, занесенная над пламенем свечи::</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1562</ID>
+      <DefaultText>::упавшие листья, не счесть их числа::</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1563</ID>
+      <DefaultText>::иссохшая рука, тянущая цветы за корни::</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1564</ID>
+      <DefaultText>::разбитый инструмент лежит в гладких и стройных руках. струн не хватает. не сыграть::</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1565</ID>
+      <DefaultText>::ткань порвалась, не велика потеря::</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1566</ID>
+      <DefaultText>::волны вгрызаются в берег, унося с собой песок и оставляя ракушки в ямках::</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1567</ID>
+      <DefaultText>::пленница-луна вращается вокруг земли по гладкой бесконечной орбите::</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1568</ID>
+      <DefaultText>::стеклянный шар ударяется оземь, взрываясь тысячей острых осколков и сияющей пылью::</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1569</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1570</ID>
+      <DefaultText>::неловкая рука берет камни из груды, полирует и красит их/мозаичный мост пересекает ущелье/путники с обеих сторон встречаются посередине/один увидел солнце в вихре мозаики/один увидел жемчужину</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1571</ID>
+      <DefaultText>::факел горит на вершине горы, притягивая взгляды живущих во тьме. он горит не для того, чтобы развеять тьму, а потому, что был кем-то зажжен::</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1572</ID>
+      <DefaultText>::птица кружит над костром, наслаждаясь его теплом. ее перья дымятся и скручиваются::</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1573</ID>
+      <DefaultText>::песчаные бури заносят статую, тянущуюся к небу, пока не останется лишь кончик пальца, указывающий на облака::</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1574</ID>
+      <DefaultText>::жадные руки выхватывают цветную рыбу из бездонного колодца::</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1575</ID>
+      <DefaultText>::резкий порыв ветра сгибает ветку. она стонет, но выпрямляется снова и снова::</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1576</ID>
+      <DefaultText>::разноцветная рыба рядом с бездонным омутом, бьющаяся и задыхающаяся::</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1577</ID>
+      <DefaultText>::смерч подхватывает листья и швыряет их в небо::</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1578</ID>
+      <DefaultText>::клинок рассекает воздух, разрезая все на своем пути::</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1579</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1580</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1581</ID>
+      <DefaultText>::беззаботный ветер несет листья во все стороны, не давая им упасть::</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1582</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1583</ID>
       <DefaultText />
       <FemaleText />
     </Entry>

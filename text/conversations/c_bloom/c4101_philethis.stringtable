@@ -2,7 +2,7 @@
 <StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
   <Name>conversations\c_bloom\c4101_philethis</Name>
   <NextEntryID>1</NextEntryID>
-  <EntryCount>50</EntryCount>
+  <EntryCount>60</EntryCount>
   <Entries>
     <Entry>
       <ID>1</ID>
@@ -270,6 +270,56 @@
     <Entry>
       <ID>54</ID>
       <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>57</ID>
+      <DefaultText>"Ссссссс", — шипит Оом. Похоже, ваш спутник *тоже* узнал филета.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>58</ID>
+      <DefaultText>"Ссссссс", — шипит Оом. Похоже, ваш спутник запомнил этого филета с Утесов Сагуса.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>59</ID>
+      <DefaultText>— Оом, почему тебе так не нравится этот филет?</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>60</ID>
+      <DefaultText>— ::сссррррлл::, — раздраженно отвечает Оом, хлеща усикам по земле. — ::ссссс::</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>61</ID>
+      <DefaultText>"Скрытный Нареш испытывает своих посетителей, но ничего не дает взамен."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>62</ID>
+      <DefaultText>Оом яростно завязывает два своих усика в узел.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>63</ID>
+      <DefaultText>"Ты злишься из-за того, что это существо сбивает тебя с толку?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>64</ID>
+      <DefaultText>— Оом, ты ведешь себя нелепо.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>65</ID>
+      <DefaultText>"Ммррр", — ворчит Оом. Вы чувствуете, что все еще *не совсем* в порядке, однако ваш спутник, кажется, на некоторое время успокаивается.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>66</ID>
+      <DefaultText>"Сссс", — шипит Оом. Кажется, будто он делает глубокий вдох, чтобы успокоиться, а затем вздымается и отворачивается от филета.</DefaultText>
       <FemaleText />
     </Entry>
   </Entries>

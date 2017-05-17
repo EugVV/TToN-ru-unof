@@ -2,7 +2,7 @@
 <StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
   <Name>conversations\c_bloom\c4301_wondor</Name>
   <NextEntryID>1</NextEntryID>
-  <EntryCount>46</EntryCount>
+  <EntryCount>47</EntryCount>
   <Entries>
     <Entry>
       <ID>1</ID>
@@ -273,6 +273,11 @@
       <ID>49</ID>
       <DefaultText>"Я не помню. Мои воспоминания и моя боль были у чужака, а теперь его нет". Его лицо светится благодарностью. "Ты забрал его".</DefaultText>
       <FemaleText>"Я не помню. Мои воспоминания и моя боль были у чужака, а теперь его нет". Его лицо светится благодарностью. "Ты забрал его".</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>51</ID>
+      <DefaultText>"Сссс", — вздыхает Оом, рассеянно вычерчивая на земле спирали с помощью усика.</DefaultText>
+      <FemaleText />
     </Entry>
   </Entries>
 </StringTableFile>

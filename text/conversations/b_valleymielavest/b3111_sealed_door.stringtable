@@ -2,7 +2,7 @@
 <StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
   <Name>conversations\b_valleymielavest\b3111_sealed_door</Name>
   <NextEntryID>1</NextEntryID>
-  <EntryCount>28</EntryCount>
+  <EntryCount>29</EntryCount>
   <Entries>
     <Entry>
       <ID>1</ID>
@@ -148,6 +148,11 @@
     <Entry>
       <ID>28</ID>
       <DefaultText>Полупрозрачный материал быстро затягивает сделанное вами отверстие. При этом он становится еще тверже, и вам больше не удастся его вскрыть.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>29</ID>
+      <DefaultText>— ::ссрррсс::, — сочувственно ворчит Оом.</DefaultText>
       <FemaleText />
     </Entry>
   </Entries>

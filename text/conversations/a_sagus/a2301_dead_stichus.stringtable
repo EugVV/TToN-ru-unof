@@ -2,7 +2,7 @@
 <StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
   <Name>conversations\a_sagus\a2301_dead_stichus</Name>
   <NextEntryID>1</NextEntryID>
-  <EntryCount>21</EntryCount>
+  <EntryCount>22</EntryCount>
   <Entries>
     <Entry>
       <ID>1</ID>
@@ -111,6 +111,11 @@
     <Entry>
       <ID>25</ID>
       <DefaultText>Упавшие камни слишком тяжелые и слишком плотно прилегают друг к другу. Несмотря на все ваши усилия, вам не удается их сдвинуть.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>26</ID>
+      <DefaultText>Оом тихонько вздыхает.</DefaultText>
       <FemaleText />
     </Entry>
   </Entries>

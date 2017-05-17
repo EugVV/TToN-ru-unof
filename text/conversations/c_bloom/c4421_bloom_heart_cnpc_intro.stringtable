@@ -2,7 +2,7 @@
 <StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
   <Name>conversations\c_bloom\c4421_bloom_heart_cnpc_intro</Name>
   <NextEntryID>1</NextEntryID>
-  <EntryCount>82</EntryCount>
+  <EntryCount>87</EntryCount>
   <Entries>
     <Entry>
       <ID>8</ID>
@@ -440,6 +440,33 @@
     <Entry>
       <ID>104</ID>
       <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>105</ID>
+      <DefaultText>Оом идет рядом с вами, храня молчание.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>106</ID>
+      <DefaultText>— Оом, что с тобой?</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>107</ID>
+      <DefaultText>Едва задав вопрос, вы понимаете, в чем дело: ответ Оома появляется у вас в голове. Оом *боится*.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>108</ID>
+      <DefaultText>— Пойдем со мной, Оом.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>109</ID>
+      <DefaultText>Глаза существа сворачиваются, словно сжимаемые кулаки, пока исходящий из них свет не становится почти неразличим. 
+ 
+"Ммм", — покорно бормочет он.</DefaultText>
       <FemaleText />
     </Entry>
   </Entries>

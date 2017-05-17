@@ -2,7 +2,7 @@
 <StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
   <Name>conversations\a_sagus\a2101_tol_maguur</Name>
   <NextEntryID>1</NextEntryID>
-  <EntryCount>444</EntryCount>
+  <EntryCount>448</EntryCount>
   <Entries>
     <Entry>
       <ID>1</ID>
@@ -2379,6 +2379,30 @@
     <Entry>
       <ID>533</ID>
       <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>534</ID>
+      <DefaultText>"Мммм", — мычит рядом с вами Оом. Глаза его светятся и расширяются. Вас охватывает внезапное желание снова к ним прикоснуться. 
+ 
+ Вы гоните от себя эту мысль и снова сосредотачиваете внимание на Толь.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>535</ID>
+      <DefaultText>"Мммм", — мычит рядом с вами Оом. Глаза его светятся и расширяются. Вас охватывает внезапное желание коснуться их. 
+ 
+ Вы гоните от себя эту мысль и снова сосредотачиваете внимание на Толь.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>536</ID>
+      <DefaultText>"Хрмл", — тихонько фыркает Оом. Толь ничего не замечает.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>537</ID>
+      <DefaultText>Оом не издает ни звука, но вы внезапно ощущаете пустоту в своем разуме: там, где он когда-то обитал. Глаза существа становятся все шире, и оно быстро переводит взгляд то на вас, то на Рин.</DefaultText>
       <FemaleText />
     </Entry>
   </Entries>

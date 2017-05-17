@@ -2,7 +2,7 @@
 <StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
   <Name>conversations\x_labyrinth\x6091_cnpcfathom_crefton_philethis</Name>
   <NextEntryID>1</NextEntryID>
-  <EntryCount>58</EntryCount>
+  <EntryCount>63</EntryCount>
   <Entries>
     <Entry>
       <ID>1</ID>
@@ -304,6 +304,35 @@
     <Entry>
       <ID>59</ID>
       <DefaultText>Вы не слышите мыслей фигуры, спрятанной под одеждой.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>60</ID>
+      <DefaultText>Оом тихонько ворчит.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>62</ID>
+      <DefaultText>"Я все еще не понимаю, почему тебе так не нравится этот филет".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>63</ID>
+      <DefaultText>Идем.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>64</ID>
+      <DefaultText>Вы вновь поворачиваетесь к филету.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>65</ID>
+      <DefaultText>Оом сверлит вас горящим взглядом. Его мысли для вас закрыты.
+
+И тут вас осеняет: филет следовал за вами по пятам, но даже сейчас, возможно, умышленно, его слова остаются для вас непонятными. Оом же наоборот постоянно пытался наладить с вами контакт.
+
+Но Оома филет не раздражает. Его беспокоит он сам.</DefaultText>
       <FemaleText />
     </Entry>
   </Entries>

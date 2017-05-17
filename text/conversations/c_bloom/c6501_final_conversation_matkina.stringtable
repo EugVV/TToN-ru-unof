@@ -2,7 +2,7 @@
 <StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
   <Name>conversations\c_bloom\c6501_final_conversation_matkina</Name>
   <NextEntryID>1</NextEntryID>
-  <EntryCount>14</EntryCount>
+  <EntryCount>15</EntryCount>
   <Entries>
     <Entry>
       <ID>1</ID>
@@ -72,6 +72,11 @@
     <Entry>
       <ID>17</ID>
       <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>18</ID>
+      <DefaultText>Trigger Conv Node 18</DefaultText>
       <FemaleText />
     </Entry>
   </Entries>

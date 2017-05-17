@@ -2,7 +2,7 @@
 <StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
   <Name>conversations\b_valleymielavest\b3301_raima_cyro_and_andronus_sandhand</Name>
   <NextEntryID>1</NextEntryID>
-  <EntryCount>166</EntryCount>
+  <EntryCount>170</EntryCount>
   <Entries>
     <Entry>
       <ID>1</ID>
@@ -897,6 +897,26 @@
       <ID>191</ID>
       <DefaultText>"Мир в наше время? Кто бы мог подумать?"</DefaultText>
       <FemaleText>"Мир в наше время? Кто бы мог подумать?"</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>193</ID>
+      <DefaultText>Глаза Оома мерцают, и вы чувствуете, как в вас вздымаются Потоки.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>194</ID>
+      <DefaultText>Оом беспокойно вертится рядом с вами, и на вас мягкой волной накатывает тошнота.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>195</ID>
+      <DefaultText>— ::ммрррмм::, — вздыхает рядом с вами Оом. Втягиваясь, его глаза светятся.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>196</ID>
+      <DefaultText>— ::ммммрм::, — шепчет Оом, раскачиваясь и содрогаясь.</DefaultText>
+      <FemaleText />
     </Entry>
   </Entries>
 </StringTableFile>

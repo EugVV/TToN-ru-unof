@@ -2,7 +2,7 @@
 <StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
   <Name>conversations\a_sagus\a2201_tcg_cultist_01</Name>
   <NextEntryID>1</NextEntryID>
-  <EntryCount>91</EntryCount>
+  <EntryCount>92</EntryCount>
   <Entries>
     <Entry>
       <ID>1</ID>
@@ -479,6 +479,11 @@
     <Entry>
       <ID>98</ID>
       <DefaultText>"Я хочу следовать Вашему примеру, Святейшество, а не боготворить тебя".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>99</ID>
+      <DefaultText />
       <FemaleText />
     </Entry>
   </Entries>

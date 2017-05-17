@@ -2,7 +2,7 @@
 <StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
   <Name>conversations\b_valleymielavest\b3301_egyptian_needle_obelisk</Name>
   <NextEntryID>1</NextEntryID>
-  <EntryCount>45</EntryCount>
+  <EntryCount>46</EntryCount>
   <Entries>
     <Entry>
       <ID>1</ID>
@@ -276,6 +276,11 @@
       <ID>46</ID>
       <DefaultText>Вы узнаете женщину. Вы уже видели ее призрак в "Пятом Глазу", но вы не знаете, о ком она говорит.</DefaultText>
       <FemaleText>Вы узнаете женщину. Вы уже видели ее призрак в "Пятом Глазу", но вы не знаете, о ком она говорит.</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>49</ID>
+      <DefaultText>Оом издает тихий стон. У вас появляется ощущение, что существу не нравится то, как вы снова и снова касаетесь обелиска.</DefaultText>
+      <FemaleText />
     </Entry>
   </Entries>
 </StringTableFile>

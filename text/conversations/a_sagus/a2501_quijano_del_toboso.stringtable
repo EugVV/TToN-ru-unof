@@ -2,7 +2,7 @@
 <StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
   <Name>conversations\a_sagus\a2501_quijano_del_toboso</Name>
   <NextEntryID>1</NextEntryID>
-  <EntryCount>86</EntryCount>
+  <EntryCount>88</EntryCount>
   <Entries>
     <Entry>
       <ID>1</ID>
@@ -473,6 +473,18 @@
     <Entry>
       <ID>87</ID>
       <DefaultText>"Как обидно", — говорит он. "Как же ужасно обидно".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>88</ID>
+      <DefaultText>Затем он замечает Оома.
+ 
+ — Ого, вот это скакун! Какие мускулистые бока!</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>89</ID>
+      <DefaultText>— ::мммм::, — бормочет Оом, осматривая бока, о которых говорит рыцарь.</DefaultText>
       <FemaleText />
     </Entry>
   </Entries>

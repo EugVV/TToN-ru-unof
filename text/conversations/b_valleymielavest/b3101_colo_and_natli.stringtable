@@ -2,7 +2,7 @@
 <StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
   <Name>conversations\b_valleymielavest\b3101_colo_and_natli</Name>
   <NextEntryID>1</NextEntryID>
-  <EntryCount>69</EntryCount>
+  <EntryCount>70</EntryCount>
   <Entries>
     <Entry>
       <ID>1</ID>
@@ -363,6 +363,11 @@
       <ID>70</ID>
       <DefaultText>"Спасибо, Коло".</DefaultText>
       <FemaleText>"Спасибо, Коло".</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>71</ID>
+      <DefaultText>"Ррссск", — раздается низкое рычание Оома. Из обычно гладкой спины существа топорщатся иглы. "РрсСССК".</DefaultText>
+      <FemaleText />
     </Entry>
   </Entries>
 </StringTableFile>

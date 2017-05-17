@@ -2,7 +2,7 @@
 <StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
   <Name>conversations\a_sagus\a2301_tarnish</Name>
   <NextEntryID>1</NextEntryID>
-  <EntryCount>40</EntryCount>
+  <EntryCount>42</EntryCount>
   <Entries>
     <Entry>
       <ID>1</ID>
@@ -227,6 +227,18 @@
       <ID>40</ID>
       <DefaultText>"Конструкты, которые заправляют этим местом", — он смотрит на вас искоса. — "Ты ведь уже спрашивал".</DefaultText>
       <FemaleText>"Конструкты, которые заправляют этим местом, — он смотрит на вас искоса. — Ты ведь уже спрашивала".</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>41</ID>
+      <DefaultText>Глаза Оома сокращаются, и он чертит на земле несколько аккуратных фигур.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>42</ID>
+      <DefaultText>Глаза Оома снова сокращаются, и он стирает все, что нарисовало на земле до этого.
+ 
+"Ссрсрср", — ворчит Оом.</DefaultText>
+      <FemaleText />
     </Entry>
   </Entries>
 </StringTableFile>

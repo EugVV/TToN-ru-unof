@@ -2,7 +2,7 @@
 <StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
   <Name>conversations\a_sagus\a2311_first_time_pc_dies</Name>
   <NextEntryID>1</NextEntryID>
-  <EntryCount>84</EntryCount>
+  <EntryCount>86</EntryCount>
   <Entries>
     <Entry>
       <ID>1</ID>
@@ -538,6 +538,16 @@
       <ID>100</ID>
       <DefaultText>"Теперь, если ты закончил быть закуской, предлагаю идти дальше".</DefaultText>
       <FemaleText>"Теперь, если ты закончила быть закуской, предлагаю идти дальше".</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>102</ID>
+      <DefaultText>Оом с явным беспокойством косится на вас и тянет за лодыжку, желая скорее уйти.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>103</ID>
+      <DefaultText>Оом пристально смотрит на вас, и его глаза расширяются, почти сливаясь воедино.</DefaultText>
+      <FemaleText />
     </Entry>
   </Entries>
 </StringTableFile>

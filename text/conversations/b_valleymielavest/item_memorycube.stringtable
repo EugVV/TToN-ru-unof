@@ -2,7 +2,7 @@
 <StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
   <Name>conversations\b_valleymielavest\item_memorycube</Name>
   <NextEntryID>1</NextEntryID>
-  <EntryCount>61</EntryCount>
+  <EntryCount>62</EntryCount>
   <Entries>
     <Entry>
       <ID>1</ID>
@@ -324,6 +324,11 @@
       <ID>64</ID>
       <DefaultText>"От тебя нет толку, не так ли?"</DefaultText>
       <FemaleText>"От тебя нет толку, не так ли?"</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>65</ID>
+      <DefaultText>"Рлк", — ворчит Оом, раздраженно толкая кубик.</DefaultText>
+      <FemaleText />
     </Entry>
   </Entries>
 </StringTableFile>

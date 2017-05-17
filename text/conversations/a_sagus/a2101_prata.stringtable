@@ -2,7 +2,7 @@
 <StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
   <Name>conversations\a_sagus\a2101_prata</Name>
   <NextEntryID>1</NextEntryID>
-  <EntryCount>109</EntryCount>
+  <EntryCount>118</EntryCount>
   <Entries>
     <Entry>
       <ID>1</ID>
@@ -603,6 +603,53 @@
       <DefaultText>Она улыбается: "О, я *очень* рада это слышать. Я сильно переживала из-за того, что не смогла тебе помочь".
 
 Довольная торговка поворачивается к вам: "Может, тебя интересует что-то еще?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>126</ID>
+      <DefaultText>"Срррл". Оом вздыхает, водя по земле маленьким усиком.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>127</ID>
+      <DefaultText>Она нервно почесывает скрытую от ваших глаз шею. Звук напоминает скрежет трущихся друг о дружку грубых камней. 
+ 
+"Ну а животные? Вроде твоего маленького приятеля?" — спрашивает она, указывая на Оома. "Не хочешь продать, а?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>128</ID>
+      <DefaultText>"Вряд ли это возможно — даже при всем желании. Он живет в моей голове."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>129</ID>
+      <DefaultText>"Нет, ни за что."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>130</ID>
+      <DefaultText>— Возможно. Если меня устроит цена.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>131</ID>
+      <DefaultText>"Ну вот и славно", — произносит она. В голосе ее слышится облегчение от того, что соглашение достигнуто.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>132</ID>
+      <DefaultText>"Правда?" — спрашивает она, тут же забыв о своем мимолетном недовольстве. "Это чудесно! Он составляет компанию твоим одиноким мыслям? Ладно, забудь. Не отвечай. Позже я напишу об этом исследовательскую поэму".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>133</ID>
+      <DefaultText>Оом ласково кусает вас за ногу, но держит язык за зубами. Образно выражаясь.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>134</ID>
+      <DefaultText>"О", — произносит она, едва шевеля жвалами. Затем вежливо откашливается. "Мне он ни к чему. Но, если захочу купить нового спутника, дам тебе знать".</DefaultText>
       <FemaleText />
     </Entry>
   </Entries>
