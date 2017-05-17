@@ -2,7 +2,7 @@
 <StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
   <Name>conversations\a_sagus\a2101_jherem</Name>
   <NextEntryID>1</NextEntryID>
-  <EntryCount>187</EntryCount>
+  <EntryCount>188</EntryCount>
   <Entries>
     <Entry>
       <ID>1</ID>
@@ -977,6 +977,11 @@
     <Entry>
       <ID>204</ID>
       <DefaultText>Джерем колеблется, глядя то на своих приемных родителей, то на вас двоих. Наконец он сдается: "Ладно, думаю, я могу вам рассказать. Только никому ни слова, ясно?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>205</ID>
+      <DefaultText>Оом что-то мрачно бурчит себе под нос и совсем на вас не смотрит.</DefaultText>
       <FemaleText />
     </Entry>
   </Entries>

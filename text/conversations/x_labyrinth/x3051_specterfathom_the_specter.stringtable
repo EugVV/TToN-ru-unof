@@ -2,7 +2,7 @@
 <StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
   <Name>conversations\x_labyrinth\x3051_specterfathom_the_specter</Name>
   <NextEntryID>1</NextEntryID>
-  <EntryCount>102</EntryCount>
+  <EntryCount>103</EntryCount>
   <Entries>
     <Entry>
       <ID>1</ID>
@@ -585,6 +585,15 @@
     <Entry>
       <ID>111</ID>
       <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>113</ID>
+      <DefaultText>Невидимый усик Оома ложится вам на лоб, принося прохладу и облегчение. Вы с удивлением смотрите на свою руку. *Настоящую* руку из плоти и крови. Призрак напротив все еще остается прозрачным.
+
+Усик на секунду напрягается, словно подтверждая вашу догадку. Или желая о чем-то предупредить.
+
+Видение проходит. Вы снова оказываетесь наедине с Призраком. Нахмурившись, он ждет, когда вы заговорите.</DefaultText>
       <FemaleText />
     </Entry>
   </Entries>

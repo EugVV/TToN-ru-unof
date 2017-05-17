@@ -2,7 +2,7 @@
 <StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
   <Name>conversations\b_valleymielavest\b3101_erritiss_alcove</Name>
   <NextEntryID>1</NextEntryID>
-  <EntryCount>57</EntryCount>
+  <EntryCount>58</EntryCount>
   <Entries>
     <Entry>
       <ID>1</ID>
@@ -337,6 +337,11 @@
       <DefaultText>"Да", — говорит он, кивая головой в вашу сторону. Слеза скатывается по его осунувшейся щеке и вокруг рта, на котором застыла ухмылка. "Но здесь скучно, раз ты спрашиваешь. Мы должны идти. Пойдем *сейчас же*".
  
  Он тихо посвистывает себе под нос и отводит взгляд.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>62</ID>
+      <DefaultText>Оом успокаивающе обвивает усиком ногу Эрритиса.</DefaultText>
       <FemaleText />
     </Entry>
   </Entries>

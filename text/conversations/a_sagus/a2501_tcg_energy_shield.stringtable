@@ -2,7 +2,7 @@
 <StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
   <Name>conversations\a_sagus\a2501_tcg_energy_shield</Name>
   <NextEntryID>1</NextEntryID>
-  <EntryCount>28</EntryCount>
+  <EntryCount>29</EntryCount>
   <Entries>
     <Entry>
       <ID>1</ID>
@@ -160,6 +160,11 @@
     <Entry>
       <ID>28</ID>
       <DefaultText>Большинство утесов скрыты куполом энергии. Вы подходите к нему ближе, ощущая все большее покалывание кожи. Опять перед вами появляется интерфейс управления — светящийся круг с вращающимися по краям странными символами и вертикальная полоса.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>29</ID>
+      <DefaultText>Оом утешающе похлопывает вас по ноге.</DefaultText>
       <FemaleText />
     </Entry>
   </Entries>

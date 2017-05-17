@@ -2,7 +2,7 @@
 <StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
   <Name>conversations\c_bloom\c6501_final_conversation</Name>
   <NextEntryID>1</NextEntryID>
-  <EntryCount>178</EntryCount>
+  <EntryCount>189</EntryCount>
   <Entries>
     <Entry>
       <ID>1</ID>
@@ -1036,6 +1036,63 @@
     <Entry>
       <ID>197</ID>
       <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>199</ID>
+      <DefaultText>Вы поворачиваетесь к Оому: "Ты остаешься со мной?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>201</ID>
+      <DefaultText>Trigger Conv Node 200</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>202</ID>
+      <DefaultText>Вы поворачиваетесь к Оому: "Ты остаешься со мной?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>203</ID>
+      <DefaultText>Она поворачивается к Оому: "Ни за что не подумала бы, что нас останется только двое. Куда ты отправишься?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>204</ID>
+      <DefaultText>Она поворачивается к Оому: "Твой создатель был внимательным и великодушным. Я тоже буду великодушна. Уходи. Слуги мне больше не нужны. Твоего создателя больше нет, и ты свободен".
+ 
+"Иди же! Пока я не передумала..." — она указывает на выход.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>205</ID>
+      <DefaultText>Вы поворачиваетесь к Оому: "Ты остаешься со мной?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>206</ID>
+      <DefaultText>— ::ссрррррлллл::, — шепчет Оом, касаясь пустого пространства рядом с собой.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>207</ID>
+      <DefaultText>Затем он поднимает глаза на второго выжившего.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>208</ID>
+      <DefaultText>Затем он поднимает глаза на остальных выживших.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>209</ID>
+      <DefaultText>Вы поворачиваетесь к Оому. — Ты остаешься со мной?</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>210</ID>
+      <DefaultText>Оом вздрагивает, услышав доносящийся из-за стен вой, но... где-то в самой глубине глаз существа загорается что-то вроде удовлетворения.</DefaultText>
       <FemaleText />
     </Entry>
   </Entries>

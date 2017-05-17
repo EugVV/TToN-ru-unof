@@ -2,7 +2,7 @@
 <StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
   <Name>game\items</Name>
   <NextEntryID>1</NextEntryID>
-  <EntryCount>1349</EntryCount>
+  <EntryCount>1353</EntryCount>
   <Entries>
     <Entry>
       <ID>0</ID>
@@ -6747,6 +6747,26 @@
     <Entry>
       <ID>1421</ID>
       <DefaultText>[PassiveEffectsBasic] и [DamageFromEffort] для атак без оружия</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1422</ID>
+      <DefaultText>Капля Оома</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1423</ID>
+      <DefaultText>Расплющивание Оома</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1424</ID>
+      <DefaultText>Эпидермальный корпус</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1425</ID>
+      <DefaultText>Масса Оома</DefaultText>
       <FemaleText />
     </Entry>
   </Entries>

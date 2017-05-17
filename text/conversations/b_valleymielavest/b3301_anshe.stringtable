@@ -2,7 +2,7 @@
 <StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
   <Name>conversations\b_valleymielavest\b3301_anshe</Name>
   <NextEntryID>1</NextEntryID>
-  <EntryCount>170</EntryCount>
+  <EntryCount>173</EntryCount>
   <Entries>
     <Entry>
       <ID>1</ID>
@@ -981,6 +981,23 @@
       <ID>182</ID>
       <DefaultText>"Мои навыки уйдут вместе со мной, братья и сестры. Так что лучше воспользуйтесь ими, пока я здесь".</DefaultText>
       <FemaleText>"Мои навыки уйдут вместе со мной, братья и сестры. Так что лучше воспользуйтесь ими, пока я здесь".</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>183</ID>
+      <DefaultText>— Оом.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>184</ID>
+      <DefaultText>"Да уж", — заявляет она, едва взглянув на вашего спутника. "Оно почти совершенно, чтоб мне провалиться. Вы только гляньте!"
+ 
+ Оом сияет.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>185</ID>
+      <DefaultText>Оом устраивается поудобнее, что-то бормоча себе под нос.</DefaultText>
+      <FemaleText />
     </Entry>
   </Entries>
 </StringTableFile>

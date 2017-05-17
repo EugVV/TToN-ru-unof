@@ -2,7 +2,7 @@
 <StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
   <Name>conversations\b_valleymielavest\b3121_oddwald_the_sane</Name>
   <NextEntryID>1</NextEntryID>
-  <EntryCount>99</EntryCount>
+  <EntryCount>101</EntryCount>
   <Entries>
     <Entry>
       <ID>1</ID>
@@ -517,6 +517,16 @@
     <Entry>
       <ID>101</ID>
       <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>102</ID>
+      <DefaultText>Оом рассеянно касается земли четыре раза.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>103</ID>
+      <DefaultText>— Да, да. Точно!</DefaultText>
       <FemaleText />
     </Entry>
   </Entries>

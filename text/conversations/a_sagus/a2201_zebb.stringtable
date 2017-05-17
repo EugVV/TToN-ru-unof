@@ -2,7 +2,7 @@
 <StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
   <Name>conversations\a_sagus\a2201_zebb</Name>
   <NextEntryID>1</NextEntryID>
-  <EntryCount>369</EntryCount>
+  <EntryCount>370</EntryCount>
   <Entries>
     <Entry>
       <ID>1</ID>
@@ -1923,6 +1923,11 @@
     <Entry>
       <ID>414</ID>
       <DefaultText>Он распахивает глаза и смотрит на вас с благоговением: "Спасибо! Я не думал, что *кто-то* может указывать Семьям Рабов, что делать. — Он улыбается. — Значит, стихус может остаться здесь. Мы его будем кормить и держать подальше от людей".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>415</ID>
+      <DefaultText>— ::ссссск::, — протягивает Оом, с сомнением глядя на конструкцию.</DefaultText>
       <FemaleText />
     </Entry>
   </Entries>

@@ -2,7 +2,7 @@
 <StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
   <Name>conversations\b_valleymielavest\b3301_paj_rekken</Name>
   <NextEntryID>1</NextEntryID>
-  <EntryCount>137</EntryCount>
+  <EntryCount>138</EntryCount>
   <Entries>
     <Entry>
       <ID>1</ID>
@@ -743,6 +743,11 @@
     <Entry>
       <ID>181</ID>
       <DefaultText>"Вы мне не верите, потому что вы глупцы. Но это ваши жизни. И ваши ошибки".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>182</ID>
+      <DefaultText>Как только Пай Реккен прерывает свою речь, глаза вашего спутника загораются, и вы чувствуете, как внутри вас поднимаются Потоки.</DefaultText>
       <FemaleText />
     </Entry>
   </Entries>

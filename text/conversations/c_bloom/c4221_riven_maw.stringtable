@@ -2,7 +2,7 @@
 <StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
   <Name>conversations\c_bloom\c4221_riven_maw</Name>
   <NextEntryID>1</NextEntryID>
-  <EntryCount>60</EntryCount>
+  <EntryCount>61</EntryCount>
   <Entries>
     <Entry>
       <ID>1</ID>
@@ -312,6 +312,11 @@
     <Entry>
       <ID>71</ID>
       <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>72</ID>
+      <DefaultText>"Сссссмммм", — бормочет Оом. Он боится за вас, и его страх чернильным облаком заполняет ваш разум.</DefaultText>
       <FemaleText />
     </Entry>
   </Entries>

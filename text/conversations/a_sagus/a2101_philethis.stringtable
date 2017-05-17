@@ -2,7 +2,7 @@
 <StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
   <Name>conversations\a_sagus\a2101_philethis</Name>
   <NextEntryID>1</NextEntryID>
-  <EntryCount>229</EntryCount>
+  <EntryCount>237</EntryCount>
   <Entries>
     <Entry>
       <ID>1</ID>
@@ -540,6 +540,18 @@
       <FemaleText />
     </Entry>
     <Entry>
+      <ID>102</ID>
+      <DefaultText>"Ссррссс". Оом ворчит рядом с вами, стегая усиком землю.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>103</ID>
+      <DefaultText>Филет переводит взгляд на вашего спутника. 
+ 
+"За ничем не примечательной стеной близ Бездны Вормаска есть дверь: она откроется, если задать нужный вопрос", — говорит он. "И никто не знает ответа, который снова ее закроет".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
       <ID>104</ID>
       <DefaultText />
       <FemaleText />
@@ -582,6 +594,18 @@
     <Entry>
       <ID>112</ID>
       <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>113</ID>
+      <DefaultText>Глаза Оома превращаются в сверкающие точки.
+ 
+"Рррск", — говорит он, постукивая по земле с такой силой, что его тело сотрясается при каждом ударе.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>114</ID>
+      <DefaultText>"Если вы состязаетесь в том, кто из вас выражается более путано, то победителей двое."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -630,6 +654,11 @@
       <FemaleText />
     </Entry>
     <Entry>
+      <ID>124</ID>
+      <DefaultText>"Эй, вы, успокойтесь! Вы все правы. Вероятно."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
       <ID>125</ID>
       <DefaultText />
       <FemaleText />
@@ -655,18 +684,30 @@
       <FemaleText />
     </Entry>
     <Entry>
+      <ID>130</ID>
+      <DefaultText>Оом вздрагивает, словно он забыло о вашем присутствии.
+ 
+"Ррсс", — бормочет существо, демонстративно отворачиваясь от филета.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>131</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
       <ID>132</ID>
       <DefaultText />
       <FemaleText />
     </Entry>
     <Entry>
       <ID>133</ID>
-      <DefaultText />
+      <DefaultText>"Сссрк", — говорит Оом, демонстративно отворачиваясь от филета.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>134</ID>
-      <DefaultText />
+      <DefaultText>Филет не отвечает. Он спокойно переводит взгляд на вас, застыв в ожидании.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -701,6 +742,11 @@
     </Entry>
     <Entry>
       <ID>141</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>142</ID>
       <DefaultText />
       <FemaleText />
     </Entry>

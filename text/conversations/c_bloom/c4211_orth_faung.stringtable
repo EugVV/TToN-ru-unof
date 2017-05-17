@@ -2,7 +2,7 @@
 <StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
   <Name>conversations\c_bloom\c4211_orth_faung</Name>
   <NextEntryID>1</NextEntryID>
-  <EntryCount>162</EntryCount>
+  <EntryCount>163</EntryCount>
   <Entries>
     <Entry>
       <ID>1</ID>
@@ -865,6 +865,13 @@
       <ID>178</ID>
       <DefaultText>"У нас есть каркас, Орт. Он все еще работает?" Он передает каркас своему коллеге.</DefaultText>
       <FemaleText>"У нас есть каркас, Орт. Он все еще работает?" Он передает каркас своему коллеге.</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>180</ID>
+      <DefaultText>Скрип царапающих землю усиков раздражает вас. 
+ 
+ Оом пристально смотрит на Алигерна. Вы чувствуете, как в вас вздымается жар бессловесной скорби.</DefaultText>
+      <FemaleText />
     </Entry>
   </Entries>
 </StringTableFile>

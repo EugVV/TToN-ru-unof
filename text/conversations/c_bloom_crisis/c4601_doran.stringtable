@@ -2,7 +2,7 @@
 <StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
   <Name>conversations\c_bloom_crisis\c4601_doran</Name>
   <NextEntryID>1</NextEntryID>
-  <EntryCount>142</EntryCount>
+  <EntryCount>143</EntryCount>
   <Entries>
     <Entry>
       <ID>1</ID>
@@ -786,6 +786,11 @@
     <Entry>
       <ID>153</ID>
       <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>154</ID>
+      <DefaultText>"Сссс", — присвистывает Оом, с беспокойством наблюдая за вами.</DefaultText>
       <FemaleText />
     </Entry>
   </Entries>

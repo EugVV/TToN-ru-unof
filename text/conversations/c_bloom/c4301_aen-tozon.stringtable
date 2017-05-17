@@ -2,7 +2,7 @@
 <StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
   <Name>conversations\c_bloom\c4301_aen-tozon</Name>
   <NextEntryID>1</NextEntryID>
-  <EntryCount>240</EntryCount>
+  <EntryCount>241</EntryCount>
   <Entries>
     <Entry>
       <ID>1</ID>
@@ -1421,6 +1421,11 @@
       <ID>254</ID>
       <DefaultText>Вы смотрите туда же, куда и она, и видите, что Эн-тозон смотрит на нее в ответ. В его остекленевших глазах написано удивление.</DefaultText>
       <FemaleText>Вы смотрите туда же, куда и она, и видите, что Эн-тозон смотрит на нее в ответ. В его остекленевших глазах написано удивление.</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>255</ID>
+      <DefaultText>Мимо Оома, ни на секунду не задержавшись.</DefaultText>
+      <FemaleText />
     </Entry>
   </Entries>
 </StringTableFile>

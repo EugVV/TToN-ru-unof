@@ -2,7 +2,7 @@
 <StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
   <Name>conversations\a_sagus\a2601_clothing_merchant</Name>
   <NextEntryID>1</NextEntryID>
-  <EntryCount>203</EntryCount>
+  <EntryCount>204</EntryCount>
   <Entries>
     <Entry>
       <ID>1</ID>
@@ -1050,6 +1050,11 @@
     <Entry>
       <ID>226</ID>
       <DefaultText>Он смотрит на вас и качает головой. "Действительно, нынче надсмотрщик Йин нанимает кого ни попадя. Было время, когда городские служащие должны были *знать* Утесы Сагуса". Он неодобрительно цыкает. "Неважно. Вы спросили о фонтане".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>228</ID>
+      <DefaultText>— ::мммм::, — произносит Оом, с интересом поглядывая по сторонам.</DefaultText>
       <FemaleText />
     </Entry>
   </Entries>

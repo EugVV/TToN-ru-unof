@@ -2,7 +2,7 @@
 <StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
   <Name>conversations\c_bloom\c4501_memovira</Name>
   <NextEntryID>1</NextEntryID>
-  <EntryCount>368</EntryCount>
+  <EntryCount>369</EntryCount>
   <Entries>
     <Entry>
       <ID>0</ID>
@@ -1882,6 +1882,11 @@
     <Entry>
       <ID>401</ID>
       <DefaultText>Зловещая ухмылка сползает с его лица.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>402</ID>
+      <DefaultText>"Сссссррр", — вздыхает рядом с вами Оом. Ваш спутник кажется усталым, и чувствует себя так же.</DefaultText>
       <FemaleText />
     </Entry>
   </Entries>

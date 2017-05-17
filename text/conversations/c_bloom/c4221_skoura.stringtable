@@ -2,7 +2,7 @@
 <StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
   <Name>conversations\c_bloom\c4221_skoura</Name>
   <NextEntryID>1</NextEntryID>
-  <EntryCount>95</EntryCount>
+  <EntryCount>96</EntryCount>
   <Entries>
     <Entry>
       <ID>0</ID>
@@ -517,6 +517,11 @@
     <Entry>
       <ID>110</ID>
       <DefaultText>Она поворачивает свои руки, наслаждаясь их видом. "Я достигла границ человеческого знания. Я думала, что могу укротить силу древних и увидеть скрытую суть их разработок... но вместо этого меня нашел и преобразил Железный Ветер. Он уничтожил мое лицо и зрение... но теперь, благодаря тебе, зрение вернулось ко мне".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>111</ID>
+      <DefaultText>"Сссссс", — шипит Оом. Глаза существа широко раскрыты, оно ожесточенно бьет усиком по вашей ноге.</DefaultText>
       <FemaleText />
     </Entry>
   </Entries>

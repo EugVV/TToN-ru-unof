@@ -2,7 +2,7 @@
 <StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
   <Name>conversations\b_valleymielavest\a3101_klinkar</Name>
   <NextEntryID>1</NextEntryID>
-  <EntryCount>169</EntryCount>
+  <EntryCount>170</EntryCount>
   <Entries>
     <Entry>
       <ID>1</ID>
@@ -877,6 +877,11 @@
       <ID>193</ID>
       <DefaultText>Она бормочет, обращаясь к вам: "Это последователи нашего брата Инифира. Я мало знаю о них, за исключением того, что они верят в *кровь*. Будь осторожнее".</DefaultText>
       <FemaleText>Она бормочет, обращаясь к вам: "Это последователи нашего брата Инифира. Я мало знаю о них, за исключением того, что они верят в *кровь*. Будь осторожнее".</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>194</ID>
+      <DefaultText>"Ссссс", — тихо и протяжно шипит Оом.</DefaultText>
+      <FemaleText />
     </Entry>
   </Entries>
 </StringTableFile>

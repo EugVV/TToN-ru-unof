@@ -2,7 +2,7 @@
 <StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
   <Name>conversations\c_bloom\c6501_final_conversation_rhin</Name>
   <NextEntryID>1</NextEntryID>
-  <EntryCount>29</EntryCount>
+  <EntryCount>30</EntryCount>
   <Entries>
     <Entry>
       <ID>1</ID>
@@ -150,6 +150,11 @@
       <ID>40</ID>
       <DefaultText>"Нет. Но, возможно, я мог бы занять его место".</DefaultText>
       <FemaleText>"Нет. Но, возможно, я мог бы занять его место".</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>42</ID>
+      <DefaultText>Trigger Conv Node 42</DefaultText>
+      <FemaleText />
     </Entry>
   </Entries>
 </StringTableFile>

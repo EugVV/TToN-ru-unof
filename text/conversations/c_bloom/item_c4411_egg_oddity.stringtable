@@ -2,7 +2,7 @@
 <StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
   <Name>conversations\c_bloom\item_c4411_egg_oddity</Name>
   <NextEntryID>1</NextEntryID>
-  <EntryCount>100</EntryCount>
+  <EntryCount>101</EntryCount>
   <Entries>
     <Entry>
       <ID>1</ID>
@@ -642,6 +642,11 @@
     <Entry>
       <ID>109</ID>
       <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>110</ID>
+      <DefaultText>Похоже, Оом сбит с толку. Впрочем, он всегда так выглядит.</DefaultText>
       <FemaleText />
     </Entry>
   </Entries>

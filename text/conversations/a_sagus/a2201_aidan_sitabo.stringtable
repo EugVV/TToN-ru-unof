@@ -2,7 +2,7 @@
 <StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
   <Name>conversations\a_sagus\a2201_aidan_sitabo</Name>
   <NextEntryID>1</NextEntryID>
-  <EntryCount>162</EntryCount>
+  <EntryCount>165</EntryCount>
   <Entries>
     <Entry>
       <ID>1</ID>
@@ -938,6 +938,23 @@
     <Entry>
       <ID>184</ID>
       <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>185</ID>
+      <DefaultText>"Сссрл", — вздыхает Оом, касаясь высохшей ладони погибшего бойца.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>186</ID>
+      <DefaultText>Оом ничего не говорит, но его гордость за вас наполняет теплом ваш разум.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>187</ID>
+      <DefaultText>Оом смотрит на него огромными, восторженными глазами, а потом поворачивается к собственному невидимому врагу. 
+ 
+ — ::хрссс::, — шипит он, рассекая воздух усиком. — ::сррк::</DefaultText>
       <FemaleText />
     </Entry>
   </Entries>

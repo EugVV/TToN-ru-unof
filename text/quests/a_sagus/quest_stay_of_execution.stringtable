@@ -71,13 +71,13 @@
     </Entry>
     <Entry>
       <ID>13</ID>
-      <DefaultText />
+      <DefaultText>Попытаться освободить Риса.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>14</ID>
-      <DefaultText />
-      <FemaleText />
+      <DefaultText>Использовал настоящее помилование.</DefaultText>
+      <FemaleText>Использовала настоящее помилование.</FemaleText>
     </Entry>
     <Entry>
       <ID>10000</ID>

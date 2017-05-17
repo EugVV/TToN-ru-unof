@@ -6,42 +6,42 @@
   <Entries>
     <Entry>
       <ID>1</ID>
-      <DefaultText />
+      <DefaultText>Мемовира кипит от злости. Ее приказы разлетаются во все стороны, словно болты с электрожалами: "Забудьте о телепортации! Усиливайте защиту! Остановите тварь любой ценой! Нас готовили к схваткам с демонами *похлеще* этого!"</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>2</ID>
-      <DefaultText />
+      <DefaultText>Она поворачивается к вам и резко спрашивает, — Что *тебе* нужно?</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>3</ID>
-      <DefaultText />
+      <DefaultText>— Расскажи мне об этом шунте. Он может нам помочь?</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>4</ID>
-      <DefaultText />
+      <DefaultText>Она отмахивается, — Не знаю. Он избавил меня от одной проблемы, но лишь частично. А тут все гораздо серьезнее.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>5</ID>
-      <DefaultText />
+      <DefaultText>— Наверное, у Иоксу в хранилище есть какие-то записи, но… Нет. Не трать время. Лучше займись чем-нибудь полезным, например, сразись с этой штукой.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>9</ID>
-      <DefaultText />
+      <DefaultText>— Какие системы защиты действуют в башне?</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>12</ID>
-      <DefaultText />
+      <DefaultText>— Их много. Думаешь, я прокуковала все годы своего правления, не готовясь к Цветению? Телепорты отказали, но у нас есть следящие убийцы, барьеры, а самое главное — арбалеты. Если мы их, конечно, запустим.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>14</ID>
-      <DefaultText />
+      <DefaultText>— На расспросы больше нет времени. Приноси пользу или умри. Мне все равно, что ты выберешь.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -51,12 +51,12 @@
     </Entry>
     <Entry>
       <ID>16</ID>
-      <DefaultText />
+      <DefaultText>— Расскажи мне о следящих убийцах.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>17</ID>
-      <DefaultText />
+      <DefaultText>— Расскажи мне о следящих убийцах еще раз.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -66,12 +66,12 @@
     </Entry>
     <Entry>
       <ID>19</ID>
-      <DefaultText />
+      <DefaultText>— Расскажи мне о барьерах.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>20</ID>
-      <DefaultText />
+      <DefaultText>— Расскажи мне о барьерах еще раз.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -81,17 +81,17 @@
     </Entry>
     <Entry>
       <ID>22</ID>
-      <DefaultText />
+      <DefaultText>— Расскажи мне об арбалетах.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>23</ID>
-      <DefaultText />
+      <DefaultText>— Расскажи мне об арбалетах еще раз.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>24</ID>
-      <DefaultText />
+      <DefaultText>Она нетерпеливо отмахивается, — Эти сферы по всему помещению. Они стреляют во все и всех, кто мне угрожает.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -101,12 +101,12 @@
     </Entry>
     <Entry>
       <ID>27</ID>
-      <DefaultText />
+      <DefaultText>— По всей башне разбросаны панели. Они запускают барьеры в нескольких местах. Барьеры недостаточно крепки, чтобы противостоять чему-то вроде Цветения, но, возможно, задержат хотя бы эту тварь.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>28</ID>
-      <DefaultText />
+      <DefaultText>"Тупица! Смотри в оба! Нажимай на кнопки! Делай что хочешь, только *поторопись*!"</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -116,12 +116,14 @@
     </Entry>
     <Entry>
       <ID>30</ID>
-      <DefaultText />
+      <DefaultText>— Они там, на смотровых платформах. Иоксу построил их для защиты от Цветения. Если уж они могут навредить Цветению, то справятся и с *этим*. Но сначала надо их запустить. Если в тебе есть хотя бы половина от наноталанта Иоксу, взгляни на них, да поскорее. Даже один их выстрел лучше, чем ничего.
+ 
+ Она хмурит брови, — Иоксу держал в хранилище кое-какие записи. Может быть… — Она мотает головой. — Нет, от них никакого толку. Варьеллен был безумен. И его записи ему под стать. Придется самим разбираться, что и как.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>31</ID>
-      <DefaultText />
+      <DefaultText>— Ты только теряешь время! Взгляни на арбалеты, и получишь ответ. Мне плевать, что ты *ничего* не знаешь о нуменерах! Действуй!</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -131,17 +133,17 @@
     </Entry>
     <Entry>
       <ID>33</ID>
-      <DefaultText />
+      <DefaultText>— Уведи своих людей подальше от пламени.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>34</ID>
-      <DefaultText />
+      <DefaultText>— Уведи своих людей подальше от пламени.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>35</ID>
-      <DefaultText />
+      <DefaultText>"Да... Пожалуй, ты дело говоришь!" — кричит она. — "Держитесь подальше от пламени, недоумки! Вы же погибнете!"</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -151,12 +153,12 @@
     </Entry>
     <Entry>
       <ID>37</ID>
-      <DefaultText />
+      <DefaultText>"Может, сделаешь кое-что полезное и спустишься туда вместе с ними? Могу поспорить: если бросишься на них, результат будет куда заметнее."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>38</ID>
-      <DefaultText />
+      <DefaultText>— Я не собираюсь это делать.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -166,12 +168,12 @@
     </Entry>
     <Entry>
       <ID>40</ID>
-      <DefaultText />
+      <DefaultText>— Уведи своих людей подальше от пламени! Скорбь убивает их!</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>41</ID>
-      <DefaultText />
+      <DefaultText>— Если ты хоть немного ценишь своих людей, уведи их подальше от пламени!</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -181,12 +183,12 @@
     </Entry>
     <Entry>
       <ID>43</ID>
-      <DefaultText />
+      <DefaultText>— Как нам пройти в хранилище?</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>44</ID>
-      <DefaultText />
+      <DefaultText>— Мы *должны* пробраться в хранилище.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -196,17 +198,17 @@
     </Entry>
     <Entry>
       <ID>46</ID>
-      <DefaultText />
+      <DefaultText>— Ну уж нет. Я не позволю тебе отсиживаться в укрытии, пока моих людей убивают.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>47</ID>
-      <DefaultText />
+      <DefaultText>— Нельзя. Здесь, в качестве корма, ты принесешь куда больше пользы.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>49</ID>
-      <DefaultText />
+      <DefaultText>— Может, мне следовало убить тебя и избавить Скорбь от этой задачи…</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -216,47 +218,47 @@
     </Entry>
     <Entry>
       <ID>52</ID>
-      <DefaultText />
+      <DefaultText>— В хранилище мы можем найти что-нибудь полезное. Однозначно стоит попробовать!</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>53</ID>
-      <DefaultText />
+      <DefaultText>— Если ты нисколько не сомневаешься в том, что мы проиграем, что ты потеряешь, попробовав?</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>55</ID>
-      <DefaultText />
+      <DefaultText>— Так ты говоришь, Иоксу хранил там записи? Мы можем расшифровать их.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>57</ID>
-      <DefaultText />
+      <DefaultText>— Прекрасно. Но только *его* записи, понятно? Больше ничего не трогать!</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>58</ID>
-      <DefaultText />
+      <DefaultText>"Я не стану рисковать. Так что спускайся и убери эту штуку из моей башни!"</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>59</ID>
-      <DefaultText />
+      <DefaultText>"Прекрасно. Но если мы выживем и я узнаю, что кто-то из вас касался *хоть чего-то* ценного, из этой башни вы выйдете еще не скоро!"</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>60</ID>
-      <DefaultText />
+      <DefaultText>Она сердито смотрит на вас, — А ты попробуй.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>61</ID>
-      <DefaultText />
+      <DefaultText>— Расскажи мне, как эта башня обеспечивает защиту от Цветения.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>62</ID>
-      <DefaultText />
+      <DefaultText>Она хмурится, — Здесь есть защитный барьер. По крайней мере, я так это воспринимаю. Под помостом. Не знаю, как он действует. Но он не дает Цветению проникнуть в башню. Да и непрошеных гостей отпугивает.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -266,12 +268,12 @@
     </Entry>
     <Entry>
       <ID>64</ID>
-      <DefaultText />
+      <DefaultText>— То, что находится под помостом, защищено замком шептания. Как его отключить?</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>65</ID>
-      <DefaultText />
+      <DefaultText>— Расскажи мне, как отключить замок шептания под помостом.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -281,102 +283,102 @@
     </Entry>
     <Entry>
       <ID>67</ID>
-      <DefaultText />
+      <DefaultText>— Замок там *не просто так*. Магический защитный барьер *запрещено* убирать!</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>68</ID>
-      <DefaultText />
+      <DefaultText>— Дурья башка! Я не собираюсь это делать!</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>70</ID>
-      <DefaultText />
+      <DefaultText>— Скажи, как его открыть, иначе Скорбь окажется меньшей из всех твоих бед!</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>73</ID>
-      <DefaultText />
+      <DefaultText>— Я могу усилить защитную магию, однако мне нужен доступ к тому, что хранится под замком шептания.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>76</ID>
-      <DefaultText />
+      <DefaultText>— Другого выхода нет! Цветению Скорбь нужна не меньше, чем нам.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>78</ID>
-      <DefaultText />
+      <DefaultText>Ее лицо искажается. Затем, просвистев навязчивый мотивчик, она заявляет: "Вот ключ. Но, клянусь, если попробуешь лишить барьер магической силы, я уничтожу тебя, прежде чем до твоей головы доберется Скорбь".</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>79</ID>
-      <DefaultText />
+      <DefaultText>"Только из-за барьера мы еще живы, тупица. Я не пойду на риск!"</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>81</ID>
-      <DefaultText />
+      <DefaultText>Она надолго задумывается. Затем, просвистев навязчивый мотивчик, заявляет: "Вот ключ. Но, клянусь, если ты сделаешь что-то, что поставит под угрозу магию барьера, я уничтожу тебя, прежде чем до твоей головы доберется Скорбь".</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>82</ID>
-      <DefaultText />
+      <DefaultText>Она сомневается. Вам кажется, что прошла уже целая вечность. Наконец, она начинает насвистывать навязчивый мотивчик, после чего произносит: "Вот ключ. Если ты ошибешься... если Цветение уничтожит и меня... Клянусь, даже врата Аваддон не помешают мне в преследовании твоей души". Она осматривает вас с головы до ног и заключает: "Если, конечно, у тебя вообще есть душа".</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>83</ID>
-      <DefaultText />
+      <DefaultText>"Да будет так! Я не для того столько лет ускользала от Цветения, чтобы сейчас оно меня уничтожило! Пусть меня заберет Скорбь!"</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>84</ID>
-      <DefaultText />
+      <DefaultText>"Иоксу упоминает шунт, способный изменять фазы и измерения существ. Ты что-нибудь о нем знаешь?"</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>86</ID>
-      <DefaultText />
+      <DefaultText>"Конечно же, он у меня", — фыркает она. "Но он действует только на небольших существ. Чем он нам поможет в борьбе с такой силой?"</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>87</ID>
-      <DefaultText />
+      <DefaultText>"Хорошо. На данном этапе я готова испробовать что угодно."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>88</ID>
-      <DefaultText />
+      <DefaultText>"Если нам удастся его усилить, возможно, это станет нашим единственным спасением."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>89</ID>
-      <DefaultText />
+      <DefaultText>"Отдай его мне, или я лично скормлю тебя Скорби."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>90</ID>
-      <DefaultText />
+      <DefaultText>— Я не доверяю тебе спасение кого бы то ни было, кроме твоей же тушки. Шунт останется у меня.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>91</ID>
-      <DefaultText />
+      <DefaultText>Она вздрагивает, хоть и пытается это скрыть: "Прекрасно. Забирай его, и пусть он принесет тебе пользу".</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>92</ID>
-      <DefaultText />
+      <DefaultText>— Ты его получишь только *после* моей смерти.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>93</ID>
-      <DefaultText />
+      <DefaultText>"Пока это все. Позаботься о своей защите."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>94</ID>
-      <DefaultText />
+      <DefaultText>— Береги себя.</DefaultText>
       <FemaleText />
     </Entry>
   </Entries>

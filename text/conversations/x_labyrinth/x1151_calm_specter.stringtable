@@ -2,7 +2,7 @@
 <StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
   <Name>conversations\x_labyrinth\x1151_calm_specter</Name>
   <NextEntryID>1</NextEntryID>
-  <EntryCount>474</EntryCount>
+  <EntryCount>476</EntryCount>
   <Entries>
     <Entry>
       <ID>1</ID>
@@ -2406,6 +2406,16 @@
     <Entry>
       <ID>516</ID>
       <DefaultText>"Возьми этот осколок зеркала! В нем может оказаться достаточно энергии, чтобы убить Отражение!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>517</ID>
+      <DefaultText>"Как Оом проник в мой разум?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>518</ID>
+      <DefaultText>"Не могу сказать", — говорит он, нахмурившись. "Вероятно, его пленили не без причины, но и не из-за того, что без спросу вторгается в чужие мысли. Береги себя!"</DefaultText>
       <FemaleText />
     </Entry>
   </Entries>

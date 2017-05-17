@@ -36,42 +36,42 @@
     </Entry>
     <Entry>
       <ID>996</ID>
-      <DefaultText />
+      <DefaultText>Мэткина</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>997</ID>
-      <DefaultText />
+      <DefaultText>Алигерн</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>998</ID>
-      <DefaultText />
+      <DefaultText>Каллистеж</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>999</ID>
-      <DefaultText />
+      <DefaultText>Эрритис</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>1000</ID>
-      <DefaultText />
+      <DefaultText>Оом</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>1001</ID>
-      <DefaultText />
+      <DefaultText>Рин</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>1002</ID>
-      <DefaultText />
+      <DefaultText>Риастрад</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>1003</ID>
-      <DefaultText />
+      <DefaultText>Тибир</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -216,22 +216,22 @@
     </Entry>
     <Entry>
       <ID>1032</ID>
-      <DefaultText />
+      <DefaultText>Выделение объекта</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>1033</ID>
-      <DefaultText />
+      <DefaultText>Боевой журнал</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>1034</ID>
-      <DefaultText />
+      <DefaultText>Обучение</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>1035</ID>
-      <DefaultText />
+      <DefaultText>Автосохранение</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -381,7 +381,7 @@
     </Entry>
     <Entry>
       <ID>1065</ID>
-      <DefaultText />
+      <DefaultText>Сопротивление: {0}</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -406,7 +406,7 @@
     </Entry>
     <Entry>
       <ID>1070</ID>
-      <DefaultText />
+      <DefaultText>Пятый Глаз</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -426,7 +426,7 @@
     </Entry>
     <Entry>
       <ID>1074</ID>
-      <DefaultText />
+      <DefaultText>Инвентарь торговца</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -441,7 +441,7 @@
     </Entry>
     <Entry>
       <ID>1077</ID>
-      <DefaultText />
+      <DefaultText>Рюкзак</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -461,7 +461,7 @@
     </Entry>
     <Entry>
       <ID>1081</ID>
-      <DefaultText />
+      <DefaultText>Непристойная Пасть</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -661,12 +661,12 @@
     </Entry>
     <Entry>
       <ID>1121</ID>
-      <DefaultText />
+      <DefaultText>Скрытая пасть</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>1122</ID>
-      <DefaultText />
+      <DefaultText>Пасть-хиург</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>

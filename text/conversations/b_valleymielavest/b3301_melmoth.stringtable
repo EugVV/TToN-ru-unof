@@ -2,7 +2,7 @@
 <StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
   <Name>conversations\b_valleymielavest\b3301_melmoth</Name>
   <NextEntryID>1</NextEntryID>
-  <EntryCount>149</EntryCount>
+  <EntryCount>152</EntryCount>
   <Entries>
     <Entry>
       <ID>1</ID>
@@ -903,6 +903,25 @@
     <Entry>
       <ID>159</ID>
       <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>162</ID>
+      <DefaultText>— ::мммм::, — мычит рядом с вами Оом. Его глаза светятся. Расширяются. Вас охватывает внезапное желание снова к ним прикоснуться. 
+ 
+ Вы гоните от себя эту мысль и снова сосредотачиваете внимание на Мельмоте.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>163</ID>
+      <DefaultText>— ::мммм::, — мычит рядом с вами Оом. Его глаза светятся. Расширяются. Вас охватывает внезапное желание коснуться их.
+ 
+ Вы гоните от себя эту мысль и снова сосредотачиваете внимание на Мельмоте.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>164</ID>
+      <DefaultText>"Мммм", — мычит Оом. Мельмот то ли не слышит, то ли решает не обращать на вашего спутника никакого внимания.</DefaultText>
       <FemaleText />
     </Entry>
   </Entries>

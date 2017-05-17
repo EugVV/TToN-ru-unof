@@ -2,7 +2,7 @@
 <StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
   <Name>conversations\a_sagus\a2201_piquo</Name>
   <NextEntryID>1</NextEntryID>
-  <EntryCount>221</EntryCount>
+  <EntryCount>223</EntryCount>
   <Entries>
     <Entry>
       <ID>1</ID>
@@ -1219,6 +1219,16 @@
     <Entry>
       <ID>235</ID>
       <DefaultText>"Нет... но я особо не приглядывался", — он кивает в сторону притаившихся неподалеку сектантов. — "Может, *они* что-нибудь видели".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>236</ID>
+      <DefaultText>Может быть, у вас разыгралось воображение. Но, похоже, Оом вдруг начинает с большим интересом прислушиваться к вашему разговору с молодым человеком.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>237</ID>
+      <DefaultText>— ::ссрл::, — говорит Оом тихо, почти неразличимо.</DefaultText>
       <FemaleText />
     </Entry>
   </Entries>

@@ -2,7 +2,7 @@
 <StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
   <Name>conversations\a_sagus\a2201_obelisk_ian_williams</Name>
   <NextEntryID>1</NextEntryID>
-  <EntryCount>38</EntryCount>
+  <EntryCount>39</EntryCount>
   <Entries>
     <Entry>
       <ID>1</ID>
@@ -226,6 +226,11 @@
     <Entry>
       <ID>40</ID>
       <DefaultText>Отойти от памятника.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>41</ID>
+      <DefaultText>— ::мммм::, — произносит Оом, видимо, говоря сам с собой.</DefaultText>
       <FemaleText />
     </Entry>
   </Entries>

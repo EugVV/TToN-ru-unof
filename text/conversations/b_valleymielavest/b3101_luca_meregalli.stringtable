@@ -2,7 +2,7 @@
 <StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
   <Name>conversations\b_valleymielavest\b3101_luca_meregalli</Name>
   <NextEntryID>1</NextEntryID>
-  <EntryCount>52</EntryCount>
+  <EntryCount>53</EntryCount>
   <Entries>
     <Entry>
       <ID>1</ID>
@@ -279,6 +279,13 @@
       <FemaleText>"Разумеется", — бормочет она, подходя к мужчине поближе, чтобы поговорить с ним. Пока они тихо беседуют, она поглаживает его протезы. Наконец она улыбается, благодарит его за уделенное время и отходит.
 
 "Как интересно", — говорит она. — "Его реальности столкнулись друг с другом, но таким сдержанным и бесстрастным его делает не только механический мозг. Это последствие нескольких явлений. Его собственная человечность... повреждена. Поговори с ним сам и сделай выводы о его состоянии".</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>73</ID>
+      <DefaultText>Оом также поворачивается и изучает вас с неким беспокойством. 
+ 
+"Фррл", — говорит он, тычась в вашу ногу.</DefaultText>
+      <FemaleText />
     </Entry>
   </Entries>
 </StringTableFile>

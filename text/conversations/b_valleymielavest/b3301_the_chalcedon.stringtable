@@ -2,7 +2,7 @@
 <StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
   <Name>conversations\b_valleymielavest\b3301_the_chalcedon</Name>
   <NextEntryID>1</NextEntryID>
-  <EntryCount>51</EntryCount>
+  <EntryCount>52</EntryCount>
   <Entries>
     <Entry>
       <ID>1</ID>
@@ -294,6 +294,13 @@
       <FemaleText>Тибир выдыхает, потирая глаза. Когда он замечает, что вы смотрите в его сторону, он машет руками. 
 
 "Ничего, все нормально, продолжай".</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>52</ID>
+      <DefaultText>Человек касается вас, и Оом выпрямляется, а глаза существа расширяются.
+ 
+ Челседон не обращает на вашего спутника никакого внимания.</DefaultText>
+      <FemaleText />
     </Entry>
   </Entries>
 </StringTableFile>

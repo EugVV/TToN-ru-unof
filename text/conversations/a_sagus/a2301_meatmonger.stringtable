@@ -2,7 +2,7 @@
 <StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
   <Name>conversations\a_sagus\a2301_meatmonger</Name>
   <NextEntryID>1</NextEntryID>
-  <EntryCount>98</EntryCount>
+  <EntryCount>99</EntryCount>
   <Entries>
     <Entry>
       <ID>1</ID>
@@ -520,6 +520,11 @@
     <Entry>
       <ID>100</ID>
       <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>101</ID>
+      <DefaultText>Оом смотрит на мясо с сомнением. Впрочем, вы никогда не видели, чтобы это существо ело *хоть что-то*.</DefaultText>
       <FemaleText />
     </Entry>
   </Entries>

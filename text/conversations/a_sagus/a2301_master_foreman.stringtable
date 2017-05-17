@@ -2,7 +2,7 @@
 <StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
   <Name>conversations\a_sagus\a2301_master_foreman</Name>
   <NextEntryID>1</NextEntryID>
-  <EntryCount>149</EntryCount>
+  <EntryCount>150</EntryCount>
   <Entries>
     <Entry>
       <ID>1</ID>
@@ -824,6 +824,11 @@
     <Entry>
       <ID>167</ID>
       <DefaultText>"Я Старший Бригадир", — торжественно провозглашает конструкт. — "Разум *и* воля, поддерживающие город в том состоянии, в котором он находится".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>168</ID>
+      <DefaultText>Последняя фраза звучит так громко, что по Оому пробегает рябь. Ваш спутник медленно отклоняется, а его глаза превращаются в точки.</DefaultText>
       <FemaleText />
     </Entry>
   </Entries>

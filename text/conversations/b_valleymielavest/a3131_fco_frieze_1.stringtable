@@ -2,7 +2,7 @@
 <StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
   <Name>conversations\b_valleymielavest\a3131_fco_frieze_1</Name>
   <NextEntryID>1</NextEntryID>
-  <EntryCount>16</EntryCount>
+  <EntryCount>17</EntryCount>
   <Entries>
     <Entry>
       <ID>1</ID>
@@ -100,6 +100,11 @@
     <Entry>
       <ID>16</ID>
       <DefaultText>Она видит, что вы рассматриваете рисунок. "Вот и они. Причины нашей никчемной жизни".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>17</ID>
+      <DefaultText>Оом ощупывает изображение Меняющегося Бога, словно желая убедиться, что вашего творца действительно нет поблизости.</DefaultText>
       <FemaleText />
     </Entry>
   </Entries>

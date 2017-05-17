@@ -2,7 +2,7 @@
 <StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
   <Name>conversations\c_bloom\c4601_ascension_intro</Name>
   <NextEntryID>1</NextEntryID>
-  <EntryCount>8</EntryCount>
+  <EntryCount>9</EntryCount>
   <Entries>
     <Entry>
       <ID>1</ID>
@@ -42,6 +42,11 @@
     <Entry>
       <ID>9</ID>
       <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>— ::мммммм::, — выдыхает Оом, глядя по сторонам.</DefaultText>
       <FemaleText />
     </Entry>
   </Entries>

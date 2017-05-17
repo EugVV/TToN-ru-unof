@@ -2,7 +2,7 @@
 <StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
   <Name>conversations\x_labyrinth\x6091_cnpcfathom_crefton_erritis</Name>
   <NextEntryID>1</NextEntryID>
-  <EntryCount>57</EntryCount>
+  <EntryCount>60</EntryCount>
   <Entries>
     <Entry>
       <ID>1</ID>
@@ -319,6 +319,21 @@
     <Entry>
       <ID>70</ID>
       <DefaultText>Он искоса смотрит на Рин. "Подумать только... Я даже не могу точно сказать, *кто* ты..." Он качает головой и опять обращается к вам.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>71</ID>
+      <DefaultText>"Ссссс", — шипит Оом, пятясь назад.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>72</ID>
+      <DefaultText>"Сссррррлл", — вздыхает Оом, указывая на место, где когда-то был Эрритис. Затем он благодарно смотрит на вас.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>73</ID>
+      <DefaultText>Оом издает стон. Его усики сплетаются в дрожащие узелки.</DefaultText>
       <FemaleText />
     </Entry>
   </Entries>

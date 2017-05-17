@@ -1,0 +1,2328 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\companions\companion_oom_multistage</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>412</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>"Мрссллклк", — произнеся это, Оом вытягивает несколько усиков, постукивает и скребет ими землю. "Слрлпук".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>"Рссплк", — заявив это, Оом вытягивает крошечные усики и ощупывает ими землю под собой.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>"Скажи, что ты думаешь об Алигерне".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText>"Ну... это чувство, похоже, взаимно", — он качает головой. "Не то чтобы я понимал, о чем ты..."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText>"Рупрупруп", — отвечает Оом с интонацией, очень напоминающей раздраженный и медленный говор Алигерна. Мужчина, похоже, этого не замечает.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>14</ID>
+      <DefaultText>"Ррсрмм", — Оом многозначительно отворачивается и изогнутым усиком чертит на земле разделенный на части прямоугольник.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>15</ID>
+      <DefaultText>"Рррсрммм", — говорит Оом, аккуратными движениями усика чертя на земле ряд сцепленных между собой квадратов.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>16</ID>
+      <DefaultText>— Скажи, что ты думаешь о Каллистеж.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>17</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>18</ID>
+      <DefaultText>"На блестящую оценку не тянет", — с непроницаемым выражением лица говорит она. "Впрочем, я не слишком-то в этом разбираюсь".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>19</ID>
+      <DefaultText>Глаза Оома сужаются, но он не отвечает.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20</ID>
+      <DefaultText>Взгляд Оома мечется между землей и вами. 
+ 
+"Срлрк", — отрывисто говорит он.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>21</ID>
+      <DefaultText>"Срлк", — опустив глаза, бормочет Оом.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>22</ID>
+      <DefaultText>"Что ты думаешь об Эрритисе?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>23</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>24</ID>
+      <DefaultText>"Я чувствую то же, что и ты, Оом!" — со слезами на глазах восклицает он. "Если, конечно, ты говоришь, что я тебе нравлюсь. Да, знаю, иногда я незаметен. Меня непросто понять. Но пусть мы и едва знакомы, ты очень мне нравишься".
+ 
+ Он наклоняется и ласково похлопывает Оома.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>25</ID>
+      <DefaultText>Оом нежно обвивает усик вокруг запястья Эрритиса и слегка его сжимает.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>26</ID>
+      <DefaultText>"Ммммммм", — раздаваясь вширь, мычит Оом.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>27</ID>
+      <DefaultText>— ::мммммммммммм::</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>28</ID>
+      <DefaultText>"Что ты думаешь о Мэткине?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>29</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30</ID>
+      <DefaultText>"Тебе вовсе не нужно испытывать ко мне теплые чувства, Оом", — говорит она, обнажая зубы. "Я многим не нравлюсь. И это мне больше всего по душе".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>31</ID>
+      <DefaultText>Оом нерешительно тянет к ней усик.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>32</ID>
+      <DefaultText>"Ммсмсмс", — говорит Оом. Это странный, гулкий звук. Приятный, но какой-то... неуверенный.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>33</ID>
+      <DefaultText>"Ммсмс", — коротко и не слишком уверенно отвечает Оом.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>34</ID>
+      <DefaultText>— Ты хорошо ладишь с Рин?</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>35</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>36</ID>
+      <DefaultText>"Оом, я здесь", — говорит она. В ее голосе сквозит разочарование. "Я Рин. Посмотри на меня".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>37</ID>
+      <DefaultText>"Прп", — Оом, не поворачиваясь, ласково касается усиком кончика ее носа.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>38</ID>
+      <DefaultText>"Мммрлп", — говорит Оом, раскачиваясь из стороны в сторону, словно в замешательстве.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>39</ID>
+      <DefaultText>"Рлрлмп", — говорит Оом, бессмысленно оглядываясь вокруг.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>40</ID>
+      <DefaultText>"У меня есть еще вопросы."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>41</ID>
+      <DefaultText>"Давай сменим тему."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>42</ID>
+      <DefaultText>"Что думаешь о Тибире?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>46</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>47</ID>
+      <DefaultText>"Срлмрлрлмрмр", — протяжно произносит Оом, помахивая усиками.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>48</ID>
+      <DefaultText>"Срлрлрлрлрлммм", — дрожа, говорит Оом.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>49</ID>
+      <DefaultText>— Не уверен, а? Умный малый. Большую часть времени я и сам себе не доверял бы.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>50</ID>
+      <DefaultText>"Мм", — отвечает Оом, похлопывая усиком по ноге Тибира.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>51</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>52</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>53</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>54</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>55</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>56</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>57</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>58</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>59</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>60</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>61</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>62</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>63</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>64</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>65</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>66</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>67</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>68</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>69</ID>
+      <DefaultText>"Мммммм", — говорит Оом, ласково обвивая усиком вашу лодыжку.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>70</ID>
+      <DefaultText>"Ммм", — говорит Оом, касаясь усиком вашей лодыжки.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>71</ID>
+      <DefaultText>Оом смотрит на вас, но больше ничего не говорит.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>72</ID>
+      <DefaultText>Оом вздрагивает и опускает глаза, стараясь не встречаться с вами взглядом.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>73</ID>
+      <DefaultText>Оом поеживается, отводя от вас взгляд. На его спине появляются и тут же исчезают выступы. Вы едва успеваете это уловить.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>74</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>75</ID>
+      <DefaultText>Оом слышит ваш вопрос. Глаза существа сужаются, и оно опускает их. Это может означать почтение или смущение. Что угодно. 
+ 
+ И все же вы ощущаете в своем разуме странную... сосредоточенность. Словно его часть, занятая Оомом, готовится к вашим вопросам.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>76</ID>
+      <DefaultText>Вы снова ощущаете на задворках сознания некую *сосредоточенность*. Оом готовится ответить на ваши вопросы.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>77</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>78</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>79</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>80</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>81</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>82</ID>
+      <DefaultText>Погладить Оома.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>83</ID>
+      <DefaultText>Снова погладить Оома.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>85</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>86</ID>
+      <DefaultText>Глаза Оома сужаются, он идет дальше, храня молчание. Волна усиков — почти что шипов — вздымается на спине, но больше он никак не реагирует.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>87</ID>
+      <DefaultText>"Там, у Миэль Авеста, у меня возникло ощущение некоей связи между тобой и Скорбью. Что это было?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>88</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>89</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>90</ID>
+      <DefaultText>Оом обвивает усиком вашу лодыжку и тянет ее к себе. Убедившись, что вы смотрите, он прищуривается и успокаивается. 
+ 
+ Из уголка вашего разума, занятого Оомом, поднимается уверенность. Оом может менять форму, подстраиваясь под ваши потребности... и ваше слияние с Потоками.
+ 
+{GAVIN: Tier 2: Use my dominant tide(s). Be blue or be gold. When you first pick him up, he'll be idealist state. Try not to use what the stat actually is. Use Is Dominant Tide}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>91</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>92</ID>
+      <DefaultText>"Мммм", — говорит Оом, касаясь вашей ноги одним из своих усиков. В вашем мозгу расцветает понимание новоприобретенных способностей спутника. Если пожелаете, он может слиться с двумя вашими главными Потоками.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>93</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>94</ID>
+      <DefaultText>"Ррк", — бормочет Оом, прощупывая землю усиком. Его реакция похожа на нерешительное отрицание, но вы не совсем понимаете, *почему* вы так решили. 
+ 
+ Вы чувствуете, что существо не лжет, просто ваш вопрос был сформулирован недостаточно точно.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>95</ID>
+      <DefaultText>Может быть, ваша способность угадывать намерения Оома как-то связана с тем, как это существо реорганизовывает ваши мысли ради общения с вами. 
+ 
+ Даже если и так, вряд ли, задав правильный вопрос, вы получите какой-то другой ответ, кроме "лрп".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>96</ID>
+      <DefaultText>"Рк", — уклончиво бормочет Оом, тыча усиком в землю и избегая вашего взгляда. Похоже, вы по-прежнему задаете не те вопросы.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>97</ID>
+      <DefaultText>"Почему я все еще чувствую твои намерения, даже не понимая тебя? Ты можешь вкладывать в мой разум мысли?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>98</ID>
+      <DefaultText>"Ты точно не можешь читать мои мысли?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>99</ID>
+      <DefaultText>Кошмарные виды Лабиринта рассеиваются, и вы снова чувствуете под своей головой земную твердь. Смешение запахов мира, находящегося за пределами вашего разума. Глаза не открыть — головокружение еще слишком сильно. Вы слышите голос. Кто-то говорит, причем не с вами. 
+ 
+ Голос обращается к Оому.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>100</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>101</ID>
+      <DefaultText>"Я тебя помню!" — заявляет Эрритис. "Скукоту, я не запоминаю, так что с тобой мне наверняка было весело! У нас уже так много общего!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>102</ID>
+      <DefaultText>— Какая радость! — говорит Тибир. В голосе его сквозит искреннее тепло. — Я чувствовал, что мы снова встретимся, приятель. Нутром чувствовал, а мое нутро ошибается редко.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>103</ID>
+      <DefaultText>"А я так надеялась, что никогда больше тебя не увижу", — бурчит Мэткина.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>104</ID>
+      <DefaultText>"Ты ведь тот самый сгусток слизи, который мы увидели в зеркале, да?" — стонет Алигерн. "Замечательно. Именно то, чего не хватало этой провальной затее: очередная загадка, будь она проклята".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>105</ID>
+      <DefaultText>"Ты — устройство, которое мы увидели в зеркале, да?" — позвякивая украшениями, спрашивает Каллистеж. "Очаровательно".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>106</ID>
+      <DefaultText>"Ты нашел нас!" — звонко и радостно восклицает Рин. "Я так на это надеялась!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>107</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>108</ID>
+      <DefaultText>"Ты кажешься интересным и опасным", — весело заявляет Эрритис. "Мы с тобой прекрасно поладим!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>109</ID>
+      <DefaultText>"Никогда ничего подобного не видел", — он на некоторое время замолкает. "Не, нет, вру. Тот карнавал на опушке Арвринского леса... Но, возможно, это была просто девчонка в костюме".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>110</ID>
+      <DefaultText>"Кажется, я тебя знаю", — холодно говорит Мэткина. "Ты как-то связан с нашим творцом, верно? Я это нутром чую".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>111</ID>
+      <DefaultText>"Вот это да!" — рычит он. "Эта штука живая? Биомеханическая? "
+ 
+ Затем он вздыхает: "Именно то, чего не хватало этой провальной затее: очередная загадка, будь она проклята".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>112</ID>
+      <DefaultText>"Странно", — бормочет Каллистеж. Ее украшения позвякивают. — Смотрите-ка, сестры! Полиморфное желе с вкраплениями какого-то сплава. Возможно, это... Да, пожалуй, так...</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>113</ID>
+      <DefaultText>"Ты выглядишь дружелюбным. Не знаю, почему мне так кажется, но вряд ли я ошибаюсь."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>114</ID>
+      <DefaultText>"Слрф", — говорит Оом. Тихо. Застенчиво.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>115</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>116</ID>
+      <DefaultText>— Я всегда говорю: места тут хватит всем, — говорит Тибир, легонько подталкивая вас ногой. — Этот малый пойдет с нами?</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>117</ID>
+      <DefaultText>Ее тень падает на ваши закрытые глаза.
+ 
+"Мы это оставим?" — шепчет она. "Оно пойдет с нами?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>118</ID>
+      <DefaultText>Она тычет вас в бок носком ботинка. 
+ 
+"Ты возьмешь это с собой, верно?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>119</ID>
+      <DefaultText>Эрритис бросается наземь рядом с вами.
+ 
+"Оно пойдет с нами?" — шепчет он прямо вам в ухо. "Мы это оставим?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>120</ID>
+      <DefaultText>Колеблющаяся тень падает на ваши закрытые глаза.
+ 
+"Я хотела бы изучить это позже, если будет время. Мы ведь возьмем эту штучку с собой?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>121</ID>
+      <DefaultText>Вздохнув, он тычет вас в бок носком ботинка.
+ 
+"Что за дела, а? Это существо идет с нами?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>122</ID>
+      <DefaultText>— Да. По крайней мере, пока.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>123</ID>
+      <DefaultText>"Только если оно сможет принести нам пользу. А если нет — всегда успеем от него избавиться."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>124</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>125</ID>
+      <DefaultText>Вы чувствуете, как Оом крепко прижимается к вашему боку. Всеобщее внимание к его персоне заставляет его нервничать.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>126</ID>
+      <DefaultText>"Нет. Это был всего лишь эксперимент. Оом, возвращайся в Лабиринт."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>127</ID>
+      <DefaultText>Она изо всех сил пытается скрыть свою радость, но ей это плохо удается.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>128</ID>
+      <DefaultText>"Почему ты думаешь, что он мужского пола?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>129</ID>
+      <DefaultText>"О, это я всегда знаю наверняка, — вы практически *слышите*, как он подмигивает. — Но не уходи от ответа. Идет он с нами или нет?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>130</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>131</ID>
+      <DefaultText>Оом, точнее, являющаяся им часть вашего разума, впитывает эти слова. Вы чувствуете отдаленную немую боль. 
+ 
+ Ваше лицо искажается, вы приподнимаетесь.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>132</ID>
+      <DefaultText>Свет, исходящий из глаз Оома, заливает ваше лицо. Оно искажается от усилия, и вы приподнимаетесь.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>133</ID>
+      <DefaultText>"Я не просила об утешении", — произносит она, убирая ногу. "Но все равно, спасибо".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>134</ID>
+      <DefaultText>"А-а-а!" — визжит она, стуча себя ладонью по лбу. "Я думала, ты... Оом!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>135</ID>
+      <DefaultText>"Ммммм", — удовлетворенно говорит он.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>136</ID>
+      <DefaultText>"Блрп", — говорит Оом. В воздухе внезапно разливается запах... ягод? Да, похоже, это ягоды.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>137</ID>
+      <DefaultText>"Млрк", — говорит Оом. Его глаза сокращаются. Вероятно, от удовольствия, но разве можно знать это наверняка?</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>138</ID>
+      <DefaultText>Оом уклоняется от вашего прикосновения: он не уверен в ваших намерениях. Вы убираете руку. Наверное, если бы он доверял вам, вел бы себя иначе.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>139</ID>
+      <DefaultText>Оом отшатывается от вашей руки.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>140</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>141</ID>
+      <DefaultText>Оом мягко отодвигает вашу руку. Похоже, пока ласка ему больше не требуется.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>142</ID>
+      <DefaultText>"Брмммм", — дрожа, произносит Оом.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>143</ID>
+      <DefaultText>Похоже, Оом чувствует ваш интерес. Он приближается к вам. Его глаза расширяются... Нет, они *движутся*, скользя по поверхности его тела, словно монеты, поднимающиеся со дна колодца. 
+ 
+ Словно кнопки какого-то устройства.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>144</ID>
+      <DefaultText>Оом покорно скользит к вам. Его глаза поднимаются к вашим вытянутым рукам.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>145</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>146</ID>
+      <DefaultText>Коснуться глаз Оома.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>147</ID>
+      <DefaultText>Снова коснуться глаз Оома.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>148</ID>
+      <DefaultText>Горящие глаза Оома превращаются в две сверкающие точки, которые мгновенно ослепляют вас. Проморгавшись, вы обнаруживаете, что Оома нет.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>149</ID>
+      <DefaultText>— Для начала скажи, что ты делал в том зеркале?</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>150</ID>
+      <DefaultText>"Ссссск". Оом шипит, уставившись куда-то мимо вас. Его глаза сужаются, превращаясь в точки приглушенного света.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>151</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>152</ID>
+      <DefaultText>"Расскажи, отчего твои глаза то расширяются, то сужаются?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>153</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>154</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>155</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>156</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>157</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>158</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>159</ID>
+      <DefaultText>— Когда ты рядом, сила Потоков нарастает. Интересно, почему?</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>160</ID>
+      <DefaultText>"Благодаря тебе, я вновь ощущаю силу Потоков, но как?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>161</ID>
+      <DefaultText>"Мрлрк", — говорит Оом, затем замолкает, ударяясь оземь. 
+ 
+"Мрлрлрк", — продолжает Оом, вероятно что-то уточняя, и вы ощущаете его в своей голове. 
+ 
+ Да, Оом, проникает в ваш разум. Весьма неожиданно, надо сказать.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>162</ID>
+      <DefaultText>"Мрлрлрк", — говорит Оом, и вы ощущаете покалывание в затылке. "Мрлрлрк".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>163</ID>
+      <DefaultText>В этот самый момент вы *чувствуете*, как Потоки захватывают вас, увлекая за собой. Вы *осознаете* влияние ваших действий на окружающих людей за столь ничтожный период времени.
+
+ Прикрыв глаза рукой, вы начинаете *видеть* Потоки — многочисленные кольца, окружающие всех и вся.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>164</ID>
+      <DefaultText>Вы проводите рукой по гладкой… спине Оома?</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>165</ID>
+      <DefaultText>Вы снова похлопываете Оома.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>166</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>167</ID>
+      <DefaultText>Вы касаетесь центра левого глаза Оома. Он теплый и сухой, как высушенный на солнце пергамент.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>168</ID>
+      <DefaultText>Вы ощущаете бумажистые реснички Оома на подушечках пальцев, но больше ничего не происходит.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>169</ID>
+      <DefaultText>Вы дотрагиваетесь кончиками пальцев до перевернутых глаз Оома. От вашего прикосновения реснички начинают изгибаться, отдаленно напоминая танец конусов Рифа.
+
+ Когда из пути пересекаются, вы ощущаете толчок, а перед глазами — слой за слоем — начинается складываться мозаика воспоминаний. 
+
+Но они исходят не от творца, нет… Это воспоминания Оома, высвобожденные вашим прикосновением.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>170</ID>
+      <DefaultText>Вы ощущаете, как бешено вращаются глаза Оома под вашими ладонями и как кипят Потоки внутри вас.
+
+ Но чего-то не хватает… Вам недостает знаний о Потоках, чтобы понять Оома до конца.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>171</ID>
+      <DefaultText>Вы притягиваете пряди Потоков к себе обеими руками и кладете ладони на алчущие глаза Оома. 
+
+ Тошноты и растерянности больше нет. Избавившись от человеческих чувств, вы обрели новые способности и сумели узреть воспоминания существа, сотни лет пребывавшего в плену у Меняющегося Бога, сумели заглянуть в далекое прошлое.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>172</ID>
+      <DefaultText>Пора делать выбор. Потоки увлекают вас за собой, вырывая из привычного мира и унося в темноту. Прочь из этой тюрьмы творца и его приспешников. Сквозь расцвет и падение великих, но давно забытых цивилизаций. Сквозь века. Тысячелетия. 
+
+ Вечность. 
+
+ Вы падаете, падаете, падаете… Падаете на самое дно воспоминаний, в самое начало бесконечно долгой жизни Оома.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>173</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>174</ID>
+      <DefaultText>— Прикосновение к твоему глазу вызвало во мне воспоминания о конусах Рифа. Почему?</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>175</ID>
+      <DefaultText>— Почему ты снова заставляешь меня взглянуть на конусы Рифа?</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>176</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>177</ID>
+      <DefaultText>— Ты можешь рассказать мне что-нибудь полезное о Меняющемся Боге?</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>178</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>180</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>181</ID>
+      <DefaultText>— ::рслк::, — отвечает Оом, чертя на земле круг, затем еще один рядом с первым.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>182</ID>
+      <DefaultText>Положить руки на глаза Оома.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>183</ID>
+      <DefaultText>Пропустить Потоки сквозь глаза Оома.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>184</ID>
+      <DefaultText>Ощутить Потоки, бушующие внутри Оома.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>185</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>186</ID>
+      <DefaultText>"Ск", — бормочет Оом, отводя взгляд в сторону. Его глаза, горящие мягким светом, превращаются в едва заметные щелочки.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>187</ID>
+      <DefaultText>"Рлк", — мягко говорит Оом. "Ск".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>188</ID>
+      <DefaultText>"Мммсмммрлк", — пространно отвечает Оом. Из блестящей плоти существа вырывается длинный усик и устремляется внутрь, без труда пронзив внешнюю оболочку с глазами.
+
+ Прищурившись, вы понимаете, на что оно указывает — некий расколотый предмет с искоркой темного пламени в середине.
+
+"Лк", — многозначительно говорит Оом, втягивая усик.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>189</ID>
+      <DefaultText>— Из чего ты состоишь, Оом?</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>190</ID>
+      <DefaultText>Вы замечаете слабую рябь вокруг темной искры. Похоже, это есть источник вещества, из которого состоит Оом.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>191</ID>
+      <DefaultText>Вместо ответа глаза Оома сужаются.
+
+"Шк", — шепчет он.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>195</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>196</ID>
+      <DefaultText>"Тебе обязательно всего касаться, дитя?"
+
+Вы едва слышите его слова.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>197</ID>
+      <DefaultText>— Любознательности тебе не занимать, — говорит она, наклоняясь поближе. — Это-то мне в тебе и нравится.
+
+Вы едва слышите ее слова.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>198</ID>
+      <DefaultText>"А мне можно прикоснуться к его глазам?" Спросила Эрритис, тяжело дыша. "Постой! У *меня* есть глаза, но я никогда не касался их! Ай-ай-ай!"
+
+Вы едва слышите его слова.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>199</ID>
+      <DefaultText>— Я не могу на это смотреть, — говорит она, резко отворачиваясь. — Не могу поверить, что *я* это говорю.
+
+ Вы едва слышите ее слова.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>200</ID>
+      <DefaultText>"Фу", — выдыхает она. "Ты касаешься его глаза. Ты *трогаешь* его глаз!"
+
+ Вы едва слышите ее слова.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>201</ID>
+      <DefaultText>"Ну что же", — говорит он, глядя на вас с нескрываемым уважением. " Я никак не ожидал, что ты отважишься на такое".
+
+Вы едва слышите его слова.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>202</ID>
+      <DefaultText>Глаз Оома начинает раскрываться, как замысловатый живой замок, расходясь кругами вокруг вашего пальца и обнажая глубинные слои измятой материи. Вы ощущаете Оома в своей голове, оно пытается дотянуться до воспоминаний об Утесах Сагуса. 
+
+ Риф Падших Миров. Детский смех. Непрестанное вращение конусов.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>205</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>206</ID>
+      <DefaultText>Глаза Оома твердеют, превращаясь в твердые бугорки под вашими ладонями. Его глаза молчат. Вы чувствуете его... печаль, наверное? Или сожаление.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>207</ID>
+      <DefaultText>Вы снова ощущаете бессилие и сожаление Оома. Ваши ладони пронизывает теплая тоска.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>211</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>212</ID>
+      <DefaultText>"Лррак", — говорит Оом. Отведя взгляд, он быстрыми движениями усика чертит на земле два круга.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>213</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>214</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>215</ID>
+      <DefaultText>"Если Меняющийся Бог был так жесток к тебе, почему ты помогаешь мне?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>216</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>217</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>218</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>219</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>220</ID>
+      <DefaultText>"Рлрлср", — ворчит Оом. Он раздраженно выбрасывает вперед одинокий усик и со свистом втягивает его обратно.
+
+ Похоже, что Оом находит здешний воздух неподходящим для занятий.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>221</ID>
+      <DefaultText>"Мог бы ты обучить меня своему прежнему языку?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>222</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>223</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>224</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>225</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>226</ID>
+      <DefaultText>Глаза Оома опускаются, он указывает усиком вниз, затем замирает в замешательстве. 
+
+ Наконец, он чертит на земле жидкостью блестящий квадрат. Всячески стараясь привлечь ваше внимание, он проводит от квадрата линию, соединяя его с собой, затем рисует еще два квадрата на другом конце. 
+
+ Оом с надеждой поднимает на вас глаза.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>227</ID>
+      <DefaultText>"Я до сих пор не могу понять, почему ты хочешь показать мне свое прошлое".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>228</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>229</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>230</ID>
+      <DefaultText>Вы осторожно касаетесь глаз Оома, но больше ничего не происходит. Видимо, существо показало вам все, что хотело.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>231</ID>
+      <DefaultText>Ничего не происходит. Оому больше нечего вам показать.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>232</ID>
+      <DefaultText>Из-за тошноты и головокружения вы мало что можете понять. У вас нет органов, чтобы ощутить это воспоминание, отражающееся в складках и завихрениях *глаз* Оома горем. Агонией. Вы кусаете губы, пытаясь сосредоточиться и осмыслить нахлынувшее неведомое знание.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>233</ID>
+      <DefaultText>Сжать глаза Оома, чтобы одолеть тошноту.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>234</ID>
+      <DefaultText>Опереться на Оома.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>235</ID>
+      <DefaultText>Вы погружаете свои пальцы в глубину его глаз, и ваши руки сжимаются в кулак. Оом вздрагивает и трясется, но сдерживает крик. Он вообще не издает никаких звуков. 
+
+ Тошнота отступает, и на вас обрушивается лавина новых воспоминаний и ощущений.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>236</ID>
+      <DefaultText>Задыхаясь и раскинув руки, вы устремляетесь навстречу Оому в этот головокружительный водоворот видений и образов.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>237</ID>
+      <DefaultText>Вы *видите* бесконечные ипостаси Меняющегося Бога — столетия его бытия, объединенные в одно мгновение. Вы *ощущаете*, как он пытается разузнать ваши секреты, *чувствуете* как рвется и заживает ваша плоть. Рвется и заживает. Снова и снова.
+
+ Вы говорите. Молите о пощаде. Но он не слышит вас, не хочет слышать. Глас вопиющего в тысячелетней пустыне страданий…</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>238</ID>
+      <DefaultText>Вскрикнув, вы отрываете свои ладони от Оома. Из ваших глаз брызжут слезы, вы хватаете ртом воздух.
+
+Отдышавшись, вы вытираете жгучие слезы с лица. Оом выжидающе смотрит на вас, скрывая свои тайны под слоями бесчисленных ресничек.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>239</ID>
+      <DefaultText>"Несколько веков быть пленником? Сколько же тебе лет?!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>240</ID>
+      <DefaultText>"Рассказывай, что ему удалось узнать. Сейчас же!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>241</ID>
+      <DefaultText>"Должно быть, у него была причина так поступить с тобой. Что это за причина?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>242</ID>
+      <DefaultText>"Не каждому дано вынести то, что уготовил тебе Меняющийся Бог."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>243</ID>
+      <DefaultText>"Лрррм", — произносит он, оплетает усиком ваше запястье, тянет руку вниз и радостно разжимает ваши пальцы.
+
+Под каждым пальцем загорается огонек — по одному на палец. По одному на каждый Поток.
+
+"Лрак", — заключает Оом и отпускает запястье.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>244</ID>
+      <DefaultText>Оом смотрит на вас, не издавая ни единого звука. Его глаза постепенно становятся все шире и глубже
+
+Со временем они превращаются из плоских блюдец в бездонные колодцы, размеры которых никак не соответствуют размерам самого Оома. Эти глубины таят в себе боль и память длиной во много человеческих жизней. Вы невольно отводите взгляд.
+
+— ::ссрк::, — мягко говорит Оом.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>245</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>246</ID>
+      <DefaultText>"Зачем ты показываешь мне свое прошлое?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>247</ID>
+      <DefaultText>— Оом? Зачем ты показываешь мне свое прошлое?</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>248</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>249</ID>
+      <DefaultText>По телу Оома пробегает нервная дрожь, но он ничего не отвечает.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>250</ID>
+      <DefaultText>Вместо этого чертит на земле жидкостью пять сверкающих пересекающихся кругов с точкой посередине.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>251</ID>
+      <DefaultText>Он останавливает на вас мерцающий взгляд и чертит на земле изогнутый круг.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>252</ID>
+      <DefaultText>Оом задумчиво рисует усиком на земле длинный ряд из коротких линий, не отводя от вас мерцающих глаз.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>253</ID>
+      <DefaultText>Оом рисует дрожащим усиком на земле одну короткую линию, затем поднимает на вас мерцающие глаза.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>256</ID>
+      <DefaultText>Вы *замечаете* едва различимые очертания вашей энергетической клетки. Вы *слышите* крики других людей, и это причиняет вам боль, ведь за бесконечной чередой собственных страданий вы и подумать не могли о существовании этих "других".
+
+Вы *чувствуете*, как трещит ваша клетка, как жгучей болью утекают силы, извлекаемые из каждого уголка вашего внутреннего источника. Вы и подумать не могли, что приобретенная некогда способность чувствовать обернется для вас *этим*.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>257</ID>
+      <DefaultText>Вы так и не узнали имена тех, кто пленил вас. Одно лишь вам ясно — Меняющийся Бог покончил с ними. Затем он освободил вас, но не из жалости, а из желания выведать ваши секреты. Он жаждал извлечь из вас ту самую таинственную силу, то, что он называет… Вы пытаетесь вспомнить нужное слово… 
+
+"Приливы".
+
+Вы возвращаетесь в собственную реальность, теряя связь с внутренним миром Оома. Оом внимательно наблюдает за вами, и его взгляд принимает свои привычные очертания.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>258</ID>
+      <DefaultText>— А другие поработители тоже использовали Потоки?</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>259</ID>
+      <DefaultText>"Мрмммрр", — говорит Оом, явно удовлетворенный вопросом, но в его голосе ощущаются нотки... тревоги и боли. Несколько дрожащих усиков появляются из глубины его тела.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>260</ID>
+      <DefaultText>— Те, другие, из твоих видений — они как ты? Другие Оомы?</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>261</ID>
+      <DefaultText>"Сссссрл", — шипит Оом. Несколько дрожащих усиков появляются из глубины его тела.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>262</ID>
+      <DefaultText>Но на этот раз он ничего не чертит на земле. Вместо этого существо рисует в воздухе неизвестные фигуры, очертания которых почти невозможно уловить в воспоминаниях создателя. 
+
+ Это язык жидкостей и течений, язык, который можно услышать *и* увидеть. Язык более древний, чем весь Девятый Мир. Язык, недоступный для человеческих глаз.
+
+ Оом удивленно вздрагивает, словно забыв, с кем говорил.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>263</ID>
+      <DefaultText>"Рллк", — говорит он, снова притягивая вашу руку. Под вашими пальцами опять загораются пять цветов Потоков.
+
+"Рллм", — заключает он, отпуская вашу руку. Он хочет узнать больше, но — и тут вы хмуритесь — не от отверженных. Вы не можете понять, откуда возникла эта мысль.
+
+ Сверкающие реснички Оома снова смыкаются, но вы успеваете уловить какой-то проблеск в глубине его глаз.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>264</ID>
+      <DefaultText>— Меняющийся Бог существует лишь благодаря тебе. Тебя это беспокоит?</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>265</ID>
+      <DefaultText>"Мрлрл", — ворчит Оом, но в этом странном рычащем звуке угадывается гордость.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>266</ID>
+      <DefaultText>"Постой-ка, это от тебя Меняющийся Бог узнал о Потоках?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>267</ID>
+      <DefaultText>Оом снова вздрагивает, но ничего не говорит.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>268</ID>
+      <DefaultText>— Не знаю, хочу ли я узреть твое прошлое целиком, Оом. Оно просто ужасно.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>269</ID>
+      <DefaultText>"Если это от тебя Меняющийся Бог узнал о Потоках, то я существую лишь благодаря тебе. Спасибо."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>270</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>271</ID>
+      <DefaultText>Глаза Оома сужаются. В глубине своего сознания вы ощущаете безмолвный, но почти осязаемый шок. И удовольствие.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>273</ID>
+      <DefaultText>"Рлрлр", — согласно шепчет Оом. Он нежно тыкает в вас усиком, призывая продолжать.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>274</ID>
+      <DefaultText>Глаза Оома загораются огнем. Он рисует на земле большой круг с горизонтальной линией внутри. И еще один круг под ним.
+
+Оом смотрит на вас с надеждой и ловит ваш пустой взгляд. Он тянется вверх, дотрагивается до уголка вашего рта, потом до уголка глаза.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>277</ID>
+      <DefaultText>"Сссрлрл", — ворчит Оом, и его глаза сужаются от сосредоточенности. Вы ощущаете странное шевеление в сознании.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>278</ID>
+      <DefaultText>— Проникая в твои мысли, я вижу странные образы и символы. Что это?</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>279</ID>
+      <DefaultText>Оом задумчиво смотрит на вас, а мысли существа превращаются в круговорот образов у вас в голове.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>280</ID>
+      <DefaultText>— Это было даже хуже, чем обычно.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>281</ID>
+      <DefaultText>"Это было красиво".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>282</ID>
+      <DefaultText>"Я понимаю, это какая-то метафора, но я не уверен, что конкретно имелось в виду".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>283</ID>
+      <DefaultText>"Ссмср", — Оом ворчит, сжимается и смотрит на вас, ожидая, когда вас осенит.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>284</ID>
+      <DefaultText>Где-то внутри Оома загорается красный огонек — то ли в знак обеспокоенности, то ли в знак одобрения ваших слов. 
+
+ Он раздраженно бьет усиком по земле и молча смотрит на вас, ожидая, когда вас осенит.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>285</ID>
+      <DefaultText>Оом молчит. Он просто смотрит на вас, ожидая, когда вас осенит.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>286</ID>
+      <DefaultText>В конце концов он отвечает.
+
+Конечно, Оом не умеет говорить, но он очень *хочет*, чтобы его поняли. Метафоры — это все, что у него есть. Метафоры и образы, с помощью которых надеется достучаться до вас.
+
+ — ::хррс::, — говорит Оом, ловя ваш взгляд. Его глаза расширяются.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>287</ID>
+      <DefaultText>Вам кажется, что Оом изменился, хотя, возможно, вы почувствовали что-то новое благодаря урокам Кверезимьяна.
+
+Вы ощущаете движение Потоков в вашем спутнике — бушующие волны океанского шторма в стеклянном шаре.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>288</ID>
+      <DefaultText>Вы видите бескрайний водный мир, неразрывно связанный с телом Оома. Вы видите жидкие башни, поднимающиеся из белого песка и удерживаемые от разрушения лишь силой Потоков.
+
+Вас что-то держит, но это не руки, а некая оболочка, повторяющая очертания вашего тела. Но, в отличие от вас, она живая. *Реальная*. Вы чувствуете, что буквально созданы *для* нее, и вас переполняет благодарность. Вы готовы любить и обучать ее.
+
+Вы были созданы не просто так. Созданы на века.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>289</ID>
+      <DefaultText>В конце концов они избавятся от вас и вам подобных как от надоевшей игрушки, и это по-прежнему печалит вас больше всего. Но жизнь продолжается, и, что хуже всего, к вам приходит *осознание* увиденного.
+
+Ваш мирок начинает рушится. Разложение. Война. Башни падают. Зарево конца света обагряет кипящие океаны, а кровавый песок плавится, превращаясь в кристалл. Луна сгорает дотла.
+
+Воспоминания угасают, вас окутывает тьма. Сознание медленно возвращается к вам.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>290</ID>
+      <DefaultText>"Что уничтожило твой мир, Оом?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>291</ID>
+      <DefaultText>Промолчать.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>292</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>293</ID>
+      <DefaultText>Вы перестаете задавать вопросы, и благодарность Оома озаряет ваше лицо лучами невидимого солнца.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>294</ID>
+      <DefaultText>Чувства понемногу возвращаются к вам. Оом с гордостью взирает на вас. С гордостью и тоской. Непонятно, *откуда* вы это знаете, но вы буквально ощущаете это на вкус.
+
+Внутри Оома загораются и гаснут пять цветов Потоков, и вы, наконец, все понимаете. Это существо — игрушка, созданная для того, чтобы научить языку Потоков детей потерянного мира.
+
+Возможно — и вы явственно ощущаете надежду Оома в этой мысли — в последний раз.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>295</ID>
+      <DefaultText>Ваши слова разносятся эхом во тьме, но остаются без ответа.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>296</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>297</ID>
+      <DefaultText>И вновь молчание является единственным ответом Оома. Но во тьме явственно ощущается досада. Досада и древняя ярость.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>299</ID>
+      <DefaultText>"Луна... Я видел ее в конусах Рифа Падших Миров".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>300</ID>
+      <DefaultText>"Почему этот рисунок связан с тобой?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>301</ID>
+      <DefaultText>— Я — это квадраты или линии?</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>302</ID>
+      <DefaultText>(Ложь) — Да, понятно.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>303</ID>
+      <DefaultText>Добавить свои фигуры к рисунку Оома.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>304</ID>
+      <DefaultText>Он медлит, затем очерчивает круг вокруг линии. Когда *это* не срабатывает, он добавляет еще несколько линий, заглядывает вам в глаза и заметно ускоряется.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>305</ID>
+      <DefaultText>Наконец, бросив на вас последний отчаянный взгляд, Оом нервным движением усика стирает рисунок и отворачивается.
+
+"Ссссррсрср", — ворчит он.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>306</ID>
+      <DefaultText>— Мне очень жаль, Оом.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>307</ID>
+      <DefaultText>"Не злись, я пытаюсь понять".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>308</ID>
+      <DefaultText>Сузив глаза, он выбрасывает усик в направлении вашего лица и дорисовывает несколько неразборчивых символов в центре каждого квадрата. Он ловит ваш пустой взгляд и заметно ускоряется.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>309</ID>
+      <DefaultText>Оом с надеждой смотрит на то, как вы добавляете к квадратам круги и прямоугольники. Поняв, что вы рисуете домики, он, кажется, разочаровывается.
+
+ Оом дорисовывает несколько неразборчивых символов в центре каждого квадрата, ловит ваш пустой взгляд и заметно ускоряется.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>310</ID>
+      <DefaultText>Оом смотрит на вас с подозрением, и его невидимые усики проникают в ваши мысли. Он добавляет волнистую линию поверх первой, ловит ваш пустой взгляд и заметно ускоряется.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>311</ID>
+      <DefaultText>Он колеблется, затем хлопает вас усиком по ноге, с раздражением проводит им по земле и с шумом втягивает его обратно.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>312</ID>
+      <DefaultText>Он хлопает вас по ноге, затем с шумом втягивает усик обратно в тело.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>313</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>314</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>315</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>316</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>317</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>318</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>319</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>320</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>321</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>322</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>323</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>327</ID>
+      <DefaultText>"Прости, не обижайся".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>328</ID>
+      <DefaultText>"Веди себя хорошо, или я загоню тебя назад в сознание".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>329</ID>
+      <DefaultText>Оом больше не издает ни звука. Вы отводите взгляд и вдруг ощущаете тяжесть в ногах.
+
+Оом крепко вцепляется усиками в вашу лодыжку. Он дрожит.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>330</ID>
+      <DefaultText>Оом быстро ловит ваш взгляд и отводит глаза.
+
+Он все еще дрожит, словно вы его ударили.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>331</ID>
+      <DefaultText>Похлопать Оома.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>332</ID>
+      <DefaultText>Позволить Оому обнимать вас столько, сколько захочет.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>333</ID>
+      <DefaultText>Вы похлопываете Оома в ответ. От вашего прикосновения его глаза расширяются и начинают бегать из стороны в сторону, словно Оом на секунду забыл, где он.
+
+Со звуком *сллп*, он отпускает вашу лодыжку.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>335</ID>
+      <DefaultText>Через несколько секунд он отпускает вашу лодыжку, издав что-то вроде *сллп*. Его глаза снова расширяются, обретая свой привычный размер.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>336</ID>
+      <DefaultText>— ::лрп::, — радостно восклицает Оом.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>337</ID>
+      <DefaultText>Вы сосредотачиваетесь на том уголке своего разума, где вы встретили Оома. Прислушиваетесь к странными, но настойчивым толчкам ваших мыслей.
+
+Тщетно… Вот, что чувствует Оом. Чувствует тщетность своих попыток достучаться до вас.
+
+Вы открываете рот, чтобы ответить, но Оом успевает спрятать глаза.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>338</ID>
+      <DefaultText>Затем он откидывается назад, излучая удовольствие от объяснения сложного понятия.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>339</ID>
+      <DefaultText>После этого он резко отступает назад, словно испугавшись содеянного.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>340</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>341</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>342</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>343</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>344</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>345</ID>
+      <DefaultText>Оом пускает легкую рябь в ожидании вашего решения.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>346</ID>
+      <DefaultText>— Слейся своей основной формой с моим доминирующим Потоком.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>347</ID>
+      <DefaultText>— Слейся своей второстепенной формой с моим доминирующим Потоком.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>348</ID>
+      <DefaultText>— Слейся основной и второстепенной формами с моим самым доминирующим Потоком.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>350</ID>
+      <DefaultText>— Давай поговорим о чем-нибудь другом.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>351</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>353</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>354</ID>
+      <DefaultText>Существо смотрит на вас с ожиданием.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>355</ID>
+      <DefaultText>Сейчас он во власти Голубого Потока.
+
+[Color: ConversationStatusText]-Способность роста Оома: Использование шифра.
+ -Дополнительные эффекты вязкости и тактильной брони: Сопротивление, исцеляющий шифр и атакующий шифр.
+ -Дополнительный эффект выброса: Шанс попадания. 
+-Величина бонуса зависит от выбора способностей Оома[/Color]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>356</ID>
+      <DefaultText>Сейчас он во власти всех Потоков одновременно.
+
+[Color: ConversationStatusText]-Способность роста Оома: Выносливость.
+ -Дополнительные эффекты вязкости, тактильной брони и выброса: Шанс критического удара.
+-Величина бонуса зависит от выбора способностей Оома[/Color]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>357</ID>
+      <DefaultText>Сейчас он во власти Красного Потока.
+
+[Color: ConversationStatusText]-Способность роста Оома: Ловкие пальцы
+ -Дополнительные эффекты вязкости и тактильной брони: Очки скорости и скорость передвижения
+ -Дополнительный эффект выброса: Урон.
+ -Величина бонуса зависит от выбора способностей Оома[/Color]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>358</ID>
+      <DefaultText>Сейчас он во власти Потока Индиго.
+
+[Color: ConversationStatusText]-Способность роста Оома: Восприятие
+ -Дополнительные эффекты вязкости и тактильной брони: Здоровье и инициативность
+ -Дополнительный эффект выброса: Критический удар накладывает на цель[FettleIcon: Debuff]потрясение или [FettleIcon: Debuff]ошеломление
+ -Величина бонуса зависит от выбора способностей Оома[/Color]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>359</ID>
+      <DefaultText>Сейчас он во власти Золотого Потока.
+
+[Color: ConversationStatusText]-Способность роста Оома: Целительство
+ -Дополнительные эффекты вязкости и тактильной брони: Исцеление и броня
+ -Дополнительный эффект выброса: Исцеление членов группы при критическом ударе. 
+-Величина бонуса зависит от выбора способностей Оома[/Color]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>360</ID>
+      <DefaultText>Сейчас он во власти Серебряного Потока.
+
+[Color: ConversationStatusText]-Способность роста Оома: Устрашение
+ -Дополнительные эффекты вязкости и тактильной брони: Очки силы и сила воли
+ -Дополнительный эффект выброса: Критический удар накладывает на цель[FettleIcon: Status]принуждение или [FettleIcon: Debuff]контроль
+ -Величина бонуса зависит от выбора способностей Оома[/Color]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>361</ID>
+      <DefaultText>Сейчас он не находится во власти Потоков.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>362</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>363</ID>
+      <DefaultText>Вы переключаете свое внимание на вторичную форму Оома.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>364</ID>
+      <DefaultText>Сейчас он во власти всех Потоков одновременно.
+
+[Color: ConversationStatusText]-Способность роста Оома: Выносливость.
+ -Дополнительные эффекты вязкости, тактильной брони и выброса: Шанс критического удара.
+-Величина бонуса зависит от выбора способностей Оома[/Color]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>365</ID>
+      <DefaultText>Сейчас он во власти Голубого Потока.
+
+[Color: ConversationStatusText]-Способность роста Оома: Использование шифра.
+ -Дополнительные эффекты вязкости и тактильной брони: Сопротивление, исцеляющий шифр и атакующий шифр.
+ -Дополнительный эффект выброса: Шанс попадания. 
+-Величина бонуса зависит от выбора способностей Оома[/Color]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>366</ID>
+      <DefaultText>Сейчас он во власти Красного Потока.
+
+[Color: ConversationStatusText]-Способность роста Оома: Ловкие пальцы
+ -Дополнительные эффекты вязкости и тактильной брони: Очки скорости и скорость передвижения
+ -Дополнительный эффект выброса: Урон.
+ -Величина бонуса зависит от выбора способностей Оома[/Color]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>367</ID>
+      <DefaultText>Сейчас он во власти Потока Индиго.
+
+[Color: ConversationStatusText]-Способность роста Оома: Восприятие
+ -Дополнительные эффекты вязкости и тактильной брони: Здоровье и инициативность
+ -Дополнительный эффект выброса: Критический удар накладывает на цель[FettleIcon: Debuff]потрясение или [FettleIcon: Debuff]ошеломление
+ -Величина бонуса зависит от выбора способностей Оома[/Color]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>368</ID>
+      <DefaultText>Сейчас он во власти Золотого Потока.
+
+[Color: ConversationStatusText]-Способность роста Оома: Целительство
+ -Дополнительные эффекты вязкости и тактильной брони: Исцеление и броня
+ -Дополнительный эффект выброса: Исцеление членов группы при критическом ударе. 
+-Величина бонуса зависит от выбора способностей Оома[/Color]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>369</ID>
+      <DefaultText>Сейчас он во власти Серебряного Потока.
+
+[Color: ConversationStatusText]-Способность роста Оома: Устрашение
+ -Дополнительные эффекты вязкости и тактильной брони: Очки силы и сила воли
+ -Дополнительный эффект выброса: Критический удар накладывает на цель[FettleIcon: Status]принуждение или [FettleIcon: Debuff]контроль
+ -Величина бонуса зависит от выбора способностей Оома[/Color]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>370</ID>
+      <DefaultText>Сейчас он не находится во власти Потоков. Это позволяет Оому накопить больше силы за счет использования вашего доминирующего Потока.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>371</ID>
+      <DefaultText>— Слейся с моим основным Потоком.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>372</ID>
+      <DefaultText>Оом молча ждет вашего решения.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>373</ID>
+      <DefaultText>Прикоснуться ко всем пяти огням.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>374</ID>
+      <DefaultText>Коснуться синего огня.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>375</ID>
+      <DefaultText>Коснуться красного огня.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>376</ID>
+      <DefaultText>Коснуться огня цвета индиго.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>377</ID>
+      <DefaultText>Коснуться золотого огня.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>378</ID>
+      <DefaultText>Коснуться серебряного огня.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>379</ID>
+      <DefaultText>Хорошенько подумав, оставить все как есть.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>380</ID>
+      <DefaultText>::мммм::</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>381</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>382</ID>
+      <DefaultText>Цвета Поток проступают на поверхности Оома словно кнопки. Вам так и хочется их нажать.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>383</ID>
+      <DefaultText>Один из цветов ярче остальных.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>384</ID>
+      <DefaultText>Два цвета ярче остальных. Первым загорается</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>385</ID>
+      <DefaultText>Постепенно все цвета загораются одинаково ярко.
+
+[Color: ConversationStatusText]-Способность роста Оома: Выносливость.
+ -Дополнительные эффекты вязкости, тактильной брони и выброса: Шанс критического удара.
+-Величина бонуса зависит от выбора способностей Оома[/Color]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>386</ID>
+      <DefaultText>синий.
+
+[Color: ConversationStatusText]-Способность роста Оома: Использование шифра.
+ -Дополнительные эффекты вязкости и тактильной брони: Сопротивление, исцеляющий шифр и атакующий шифр.
+ -Дополнительный эффект выброса: Шанс попадания. 
+-Величина бонуса зависит от выбора способностей Оома[/Color]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>387</ID>
+      <DefaultText>красный.
+
+[Color: ConversationStatusText]-Способность роста Оома: Ловкие пальцы
+ -Дополнительные эффекты вязкости и тактильной брони: Очки скорости и скорость передвижения
+ -Дополнительный эффект выброса: Урон.
+ -Величина бонуса зависит от выбора способностей Оома[/Color]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>388</ID>
+      <DefaultText>индиго.
+
+[Color: ConversationStatusText]-Способность роста Оома: Восприятие
+ -Дополнительные эффекты вязкости и тактильной брони: Здоровье и инициативность
+ -Дополнительный эффект выброса: Критический удар накладывает на цель[FettleIcon: Debuff]потрясение или [FettleIcon: Debuff]ошеломление
+ -Величина бонуса зависит от выбора способностей Оома[/Color]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>389</ID>
+      <DefaultText>золотой.
+
+[Color: ConversationStatusText]-Способность роста Оома: Целительство
+ -Дополнительные эффекты вязкости и тактильной брони: Исцеление и броня
+ -Дополнительный эффект выброса: Исцеление членов группы при критическом ударе.
+-Величина бонуса зависит от выбора способностей Оома[/Color]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>390</ID>
+      <DefaultText>серебряный.
+
+[Color: ConversationStatusText]-Способность роста Оома: Устрашение
+ -Дополнительные эффекты вязкости и тактильной брони: Очки силы и сила воли
+ -Дополнительный эффект выброса: Критический удар накладывает на цель[FettleIcon: Status]принуждение или [FettleIcon: Debuff]контроль
+ -Величина бонуса зависит от выбора способностей Оома[/Color]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>392</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>393</ID>
+      <DefaultText>Первый цвет блекнет, а другой начинает светиться еще ярче.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>395</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>396</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>397</ID>
+      <DefaultText>Синий.
+
+[Color: ConversationStatusText]- Способность роста Оома: использование шифра.
+ - Дополнительные эффекты вязкости и тактильной брони: сопротивление, исцеляющий шифр и атакующий шифр.
+ - Дополнительный эффект выброса: шанс попадания. 
+- Величина бонуса зависит от выбора способностей Оома[/Color]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>398</ID>
+      <DefaultText>Красный.
+
+[Color: ConversationStatusText]- Способность роста Оома: ловкие пальцы
+ - Дополнительные эффекты вязкости и тактильной брони: очки скорости и скорость передвижения
+ - Дополнительный эффект выброса: урон.
+ - Величина бонуса зависит от выбора способностей Оома[/Color]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>399</ID>
+      <DefaultText>Индиго.
+
+[Color: ConversationStatusText]- Способность роста Оома: восприятие
+ - Дополнительные эффекты вязкости и тактильной брони: здоровье и инициативность
+ - Дополнительный эффект выброса: критический удар накладывает на цель[FettleIcon: Debuff]потрясение или [FettleIcon: Debuff]ошеломление
+ - Величина бонуса зависит от выбора способностей Оома[/Color]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>400</ID>
+      <DefaultText>Золотой.
+
+[Color: ConversationStatusText]- Способность роста Оома: целительство
+ - Дополнительные эффекты вязкости и тактильной брони: целительство и броня
+ - Дополнительный эффект выброса: исцеление членов группы при критическом ударе.
+- Величина бонуса зависит от выбора способностей Оома[/Color]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>401</ID>
+      <DefaultText>Серебряный.
+
+[Color: ConversationStatusText]- Способность роста Оома: устрашение
+ - Дополнительные эффекты вязкости и тактильной брони: очки силы и сила воли
+ - Дополнительный эффект выброса: критический удар накладывает на цель[FettleIcon: Status]принуждение или [FettleIcon: Debuff]контроль
+ - Величина бонуса зависит от выбора способностей Оома[/Color]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>402</ID>
+      <DefaultText>Оом немедленно повинуется с довольным гудением.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>403</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>404</ID>
+      <DefaultText>Оом покрывается рябью, растекается и изменяет форму.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>405</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>406</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>407</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>408</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>409</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>410</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>411</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>412</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>413</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>414</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>415</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>416</ID>
+      <DefaultText>Вы изучаете текущую основную форму Оома.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>417</ID>
+      <DefaultText>Вы изучаете текущую форму Оома.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>419</ID>
+      <DefaultText>"Не я сломанный инструмент, а ты".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>420</ID>
+      <DefaultText>— Ты не подвел меня, Оом. Ты не сломан.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>421</ID>
+      <DefaultText>Оом вздрагивает от ваших слов и замолкает.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>422</ID>
+      <DefaultText>::сслрб::</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>423</ID>
+      <DefaultText>От ваших слов Оом раздувается: "Мммммм".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>424</ID>
+      <DefaultText>::ммрм::</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>425</ID>
+      <DefaultText>Однако, его "шипы" говорят сами за себя. Оом то ли напуган... то ли в ярости.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>427</ID>
+      <DefaultText>Горящие глаза Оома превращаются в две сверкающие точки, которые мгновенно ослепляют вас. Проморгавшись, вы обнаруживаете, что Оома нет.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>428</ID>
+      <DefaultText>Follow-up PQ. 428</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>429</ID>
+      <DefaultText>"Ты хочешь сказать, что мне стоит побольше узнать о Потоках у кого-то из *неотверженных*? Но у кого?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>430</ID>
+      <DefaultText>"Так с кем мне поговорить, чтобы узнать о Потоках?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>432</ID>
+      <DefaultText>Follow-up T. 432</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>433</ID>
+      <DefaultText>Оом все тщательно обдумывает, и вот неожиданно короткий и яркий образ вспыхивает в вашем мозгу.
+
+Зубастое отверстие в теле человека. Разрыв реальности, вызванный вашими действиями. Сквозь дыру видна расплывчатая фигура.
+
+Вы моргаете. Если вы правильно истолковали этот образ, вам нужен кто-то из другого измерения. Вы смотрите на Оома, ища подтверждения своей догадки, но существо выглядит удивленным.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>434</ID>
+      <DefaultText>Не успеваете вы произнести этих слов, как перед глазами возникает уже знакомый образ — фигура из другой реальности, другого измерения.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>435</ID>
+      <DefaultText>Оттолкнуть усик.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>436</ID>
+      <DefaultText>Вы стряхиваете усик со своей лодыжки. Оом опускает глаза, стараясь не смотреть на вас.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>437</ID>
+      <DefaultText>"Почему мне стоит побольше узнать о Потоках у кого-то из неотверженных?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>439</ID>
+      <DefaultText>— Можешь рассказать подробнее, что случилось с твоим миром?</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>440</ID>
+      <DefaultText>Оом замолкает и успокаивается. Круги света расходятся из его глаз, скрывая хранящиеся в глубине воспоминания.
+
+Похоже, что ответ на ваш вопрос — "нет".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>442</ID>
+      <DefaultText>И все же ваши мысли неразрывно связаны, и вы успеваете уловить мельчайшие проблески и детали кошмарного мира, прежде чем Оом милосердно выталкивает вас из своего подсознания.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>443</ID>
+      <DefaultText>Когда образы блекнут, Оом молча ловит ваш взгляд, как бы сожалея о том, что вам пришлось пережить.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>444</ID>
+      <DefaultText>— Почему ты не сказал мне, что Призрак и был Меняющимся Богом?</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>445</ID>
+      <DefaultText>"Ссссск", — отвечает он, яростно колотя щупальцем по земле.
+
+Вы ощущаете его страх. Страх того, что его бывший хозяин может быть еще жив.</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

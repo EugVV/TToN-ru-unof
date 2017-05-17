@@ -2,7 +2,7 @@
 <StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
   <Name>conversations\c_bloom\c4101_parsim_flint</Name>
   <NextEntryID>1</NextEntryID>
-  <EntryCount>132</EntryCount>
+  <EntryCount>133</EntryCount>
   <Entries>
     <Entry>
       <ID>0</ID>
@@ -709,6 +709,11 @@
       <ID>159</ID>
       <DefaultText>Она наклоняется к вам. "Если честно, этим рабам повезло. Посылки осужденных, как известно, пропадают... обычно, когда у вивисекторов достаточно шинов и необходимы более развитые субъекты для исследований, чем обычные животные. На самом деле, это гуманно".</DefaultText>
       <FemaleText>Она наклоняется к вам. "Если честно, этим рабам повезло. Посылки осужденных, как известно, пропадают... обычно, когда у вивисекторов достаточно шинов и необходимы более развитые субъекты для исследований, чем обычные животные. На самом деле, это гуманно".</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>160</ID>
+      <DefaultText>— ::мммм::, — бормочет Оом, глядя на вас снизу вверх.</DefaultText>
+      <FemaleText />
     </Entry>
   </Entries>
 </StringTableFile>

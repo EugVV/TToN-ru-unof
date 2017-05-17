@@ -2,7 +2,7 @@
 <StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
   <Name>conversations\a_sagus\a2301_the_master_artisan</Name>
   <NextEntryID>1</NextEntryID>
-  <EntryCount>61</EntryCount>
+  <EntryCount>62</EntryCount>
   <Entries>
     <Entry>
       <ID>1</ID>
@@ -361,6 +361,11 @@
     <Entry>
       <ID>65</ID>
       <DefaultText>"Нечто, о чем я слышал из третьих или четвертых уст", — пожимает плечами Алигенр. — "Давайте передадим привет Мину, если выпадет шанс. Мне любопытно, как он отреагирует".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>66</ID>
+      <DefaultText>Оом несколько раз переводит взгляд то на мастера, то на рабочего, а потом снова смотрит на вас.</DefaultText>
       <FemaleText />
     </Entry>
   </Entries>

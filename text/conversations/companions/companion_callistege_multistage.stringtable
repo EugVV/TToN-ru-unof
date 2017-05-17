@@ -1643,12 +1643,12 @@
     </Entry>
     <Entry>
       <ID>341</ID>
-      <DefaultText />
+      <DefaultText>— Скажи, что ты думаешь об Ооме.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>342</ID>
-      <DefaultText />
+      <DefaultText>— Скажи-ка мне еще раз, что ты думаешь об Ооме.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1658,22 +1658,22 @@
     </Entry>
     <Entry>
       <ID>344</ID>
-      <DefaultText />
+      <DefaultText>"Очаровательное у тебя устройство. Я бы с радостью посмотрела, что у него внутри, если ты не против."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>345</ID>
-      <DefaultText />
+      <DefaultText>"Да, спутник великолепный. Очень надеюсь, что как-нибудь ты позволишь мне его вскрыть."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>346</ID>
-      <DefaultText />
+      <DefaultText>"Сссссссслк", — вздрогнув, присвистывает Оом.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>347</ID>
-      <DefaultText />
+      <DefaultText>"Не пока ты жив, дружочек, что ты! Когда-нибудь потом, когда ты умрешь."</DefaultText>
       <FemaleText />
     </Entry>
   </Entries>

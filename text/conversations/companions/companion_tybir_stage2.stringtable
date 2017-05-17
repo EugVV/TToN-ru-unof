@@ -2,7 +2,7 @@
 <StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
   <Name>conversations\companions\companion_tybir_stage2</Name>
   <NextEntryID>1</NextEntryID>
-  <EntryCount>774</EntryCount>
+  <EntryCount>776</EntryCount>
   <Entries>
     <Entry>
       <ID>1</ID>
@@ -3950,6 +3950,16 @@
     </Entry>
     <Entry>
       <ID>815</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>816</ID>
+      <DefaultText>"У меня есть документы, которые вам".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>817</ID>
       <DefaultText />
       <FemaleText />
     </Entry>

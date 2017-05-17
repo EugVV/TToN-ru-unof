@@ -2,7 +2,7 @@
 <StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
   <Name>conversations\a_sagus\a2101_the_genocide</Name>
   <NextEntryID>1</NextEntryID>
-  <EntryCount>129</EntryCount>
+  <EntryCount>130</EntryCount>
   <Entries>
     <Entry>
       <ID>2</ID>
@@ -689,6 +689,11 @@
     <Entry>
       <ID>138</ID>
       <DefaultText>Его поверхностные мысли словно кристально чистое озеро — то прозрачные, то прекрасно отражающие его слова. Его разум не скрывает ничего, за исключением низкосортной ненависти ко всему вокруг. Последнее вы, скорее, *чувствуете*, чем слышите на самом деле.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>140</ID>
+      <DefaultText>Оом в полной тишине отклоняется от существа, подергиваясь рябью, как озеро в ветреный день.</DefaultText>
       <FemaleText />
     </Entry>
   </Entries>

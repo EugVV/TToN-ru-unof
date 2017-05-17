@@ -2,7 +2,7 @@
 <StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
   <Name>conversations\b_valleymielavest\b3121_silver</Name>
   <NextEntryID>1</NextEntryID>
-  <EntryCount>142</EntryCount>
+  <EntryCount>143</EntryCount>
   <Entries>
     <Entry>
       <ID>1</ID>
@@ -760,6 +760,11 @@
     <Entry>
       <ID>149</ID>
       <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>150</ID>
+      <DefaultText>Оом обменивается с вами взглядом и закатывает глаза. Закатывает в буквальном смысле — на самый затылок.</DefaultText>
       <FemaleText />
     </Entry>
   </Entries>

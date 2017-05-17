@@ -2,7 +2,7 @@
 <StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
   <Name>conversations\companions\companion_oom</Name>
   <NextEntryID>1</NextEntryID>
-  <EntryCount>7</EntryCount>
+  <EntryCount>9</EntryCount>
   <Entries>
     <Entry>
       <ID>0</ID>
@@ -11,7 +11,7 @@
     </Entry>
     <Entry>
       <ID>1</ID>
-      <DefaultText>[Oom twists his head slightly and looks a you curiously.]</DefaultText>
+      <DefaultText>[Оом слегка поворачивает голову и с любопытством смотрит на вас.]</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -36,6 +36,16 @@
     </Entry>
     <Entry>
       <ID>7</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
       <DefaultText />
       <FemaleText />
     </Entry>

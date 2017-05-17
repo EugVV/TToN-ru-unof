@@ -2,7 +2,7 @@
 <StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
   <Name>conversations\a_sagus\a2201_avina</Name>
   <NextEntryID>1</NextEntryID>
-  <EntryCount>236</EntryCount>
+  <EntryCount>238</EntryCount>
   <Entries>
     <Entry>
       <ID>1</ID>
@@ -1240,6 +1240,18 @@
     <Entry>
       <ID>253</ID>
       <DefaultText>Оторвав взгляд от шкатулки, она смотрит на вас: "Это было... это все, что тебе было нужно?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>254</ID>
+      <DefaultText>— ::мммм::, — напевает Оом. Странно, но его пение напоминает мелодию, наигранную девушкой.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>255</ID>
+      <DefaultText>Ее лицо светлеет. Она подносит флейту к губам и играет, пока Оома не отвлекает пролетевшее мимо насекомое. 
+ 
+ Она улыбается вам и говорит: "Бесплатный образец!"</DefaultText>
       <FemaleText />
     </Entry>
   </Entries>
