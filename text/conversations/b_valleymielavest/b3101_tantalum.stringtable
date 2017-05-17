@@ -884,17 +884,17 @@
     </Entry>
     <Entry>
       <ID>178</ID>
-      <DefaultText>— ::ссссррссс::, — шепчет Оом, пристально глядя широко раскрытыми, рассеянными глазами куда-то вдаль.</DefaultText>
+      <DefaultText>::с-с-ср-рс-с-с::, — шепчет Оом, пристально глядя широко раскрытыми, рассеянными глазами куда-то вдаль.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>179</ID>
-      <DefaultText>— Все хорошо?</DefaultText>
+      <DefaultText>"Всё хорошо?"</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>180</ID>
-      <DefaultText>— Тише, Оом.</DefaultText>
+      <DefaultText>"Тише, Оом".</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -909,7 +909,7 @@
     </Entry>
     <Entry>
       <ID>183</ID>
-      <DefaultText>— ::мммм::, — говорит Оом. Но он по-прежнему кажется рассеянным, словно это место пробуждает в нем какие-то глубинные воспоминания.</DefaultText>
+      <DefaultText>::м-м-м-м::, — произносит Оом. Но он по-прежнему кажется рассеянным, словно это место пробуждает в нём какие-то глубинные воспоминания.</DefaultText>
       <FemaleText />
     </Entry>
   </Entries>

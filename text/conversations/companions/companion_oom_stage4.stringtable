@@ -23,7 +23,7 @@
       <ID>4</ID>
       <DefaultText>Оом осматривает помещение сверху донизу.
 
-"Рлллк", — говорит он мягко.</DefaultText>
+::рл-л-лк::, — произносит он мягко.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -48,7 +48,7 @@
     </Entry>
     <Entry>
       <ID>9</ID>
-      <DefaultText>— Давай поговорим о наших спутниках.</DefaultText>
+      <DefaultText>"Давай поговорим о наших спутниках".</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -58,7 +58,7 @@
     </Entry>
     <Entry>
       <ID>11</ID>
-      <DefaultText>— Думаю, нам пока стоит разделиться.</DefaultText>
+      <DefaultText>"Думаю, нам пока стоит разделиться".</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -78,12 +78,12 @@
     </Entry>
     <Entry>
       <ID>15</ID>
-      <DefaultText>— Можно тебя осмотреть?</DefaultText>
+      <DefaultText>"Можно тебя осмотреть?"</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>16</ID>
-      <DefaultText>— Можно мне снова тебя осмотреть?</DefaultText>
+      <DefaultText>"Можно мне снова тебя осмотреть?"</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -105,22 +105,22 @@
     </Entry>
     <Entry>
       <ID>20</ID>
-      <DefaultText>— Давай попробуем изменить твою форму, Оом.</DefaultText>
+      <DefaultText>"Давай попробуем изменить твою форму, Оом".</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>21</ID>
-      <DefaultText>— Я хочу, чтобы ты снова изменил форму.</DefaultText>
+      <DefaultText>"Я хочу, чтобы ты снова изменил форму".</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>23</ID>
-      <DefaultText>— Пойдем дальше.</DefaultText>
+      <DefaultText>"Пойдём дальше".</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>24</ID>
-      <DefaultText>::ммрм::</DefaultText>
+      <DefaultText>::м-мрм::</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -130,17 +130,17 @@
     </Entry>
     <Entry>
       <ID>26</ID>
-      <DefaultText>— Оом, я хочу задать тебе несколько вопросов.</DefaultText>
+      <DefaultText>"Оом, я хочу задать тебе несколько вопросов".</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>27</ID>
-      <DefaultText>— У меня есть еще несколько вопросов, Оом.</DefaultText>
+      <DefaultText>"У меня есть ещё несколько вопросов, Оом".</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>28</ID>
-      <DefaultText>— ::плрп::, — произносит он наконец с заметным интересом.</DefaultText>
+      <DefaultText>::плрп::, — произносит он наконец с заметным интересом.</DefaultText>
       <FemaleText />
     </Entry>
   </Entries>

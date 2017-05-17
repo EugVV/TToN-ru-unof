@@ -237,12 +237,12 @@
     </Entry>
     <Entry>
       <ID>44</ID>
-      <DefaultText>"Мммм", — мычит Оом, похлопывая рыцаря по ноге.</DefaultText>
+      <DefaultText>::м-м-м-м::, — мычит Оом, похлопывая рыцаря по ноге.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>45</ID>
-      <DefaultText>— Ого! — говорит он, посмотрев вниз. — А твой скакун довольно ласков, а?</DefaultText>
+      <DefaultText>"Ого!" — говорит он, посмотрев вниз. — "А твой скакун довольно ласков, а?"</DefaultText>
       <FemaleText />
     </Entry>
   </Entries>

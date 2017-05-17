@@ -1895,7 +1895,7 @@
     </Entry>
     <Entry>
       <ID>394</ID>
-      <DefaultText>— Ты здесь ни при чем, Оом, не волнуйся.</DefaultText>
+      <DefaultText>"Ты здесь ни при чём, Оом, не волнуйся".</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1910,12 +1910,12 @@
     </Entry>
     <Entry>
       <ID>397</ID>
-      <DefaultText>— Что ты думаешь об Ооме?</DefaultText>
+      <DefaultText>"Что ты думаешь об Ооме?"</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>398</ID>
-      <DefaultText>— Скажи-ка еще раз, что ты думаешь об Ооме?</DefaultText>
+      <DefaultText>"Скажи-ка ещё раз, что ты думаешь об Ооме?"</DefaultText>
       <FemaleText />
     </Entry>
   </Entries>

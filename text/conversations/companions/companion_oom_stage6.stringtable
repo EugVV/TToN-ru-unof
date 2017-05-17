@@ -21,7 +21,7 @@
     </Entry>
     <Entry>
       <ID>4</ID>
-      <DefaultText>— ::рмрмр::, — произносит Оом тихо, видимо, говоря сам с собой.</DefaultText>
+      <DefaultText>::рмрмр::, — произносит Оом тихо, видимо, сам себе.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -56,7 +56,7 @@
     </Entry>
     <Entry>
       <ID>11</ID>
-      <DefaultText>— Думаю, нам пока стоит разделиться.</DefaultText>
+      <DefaultText>"Думаю, нам пока стоит разделиться".</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -98,12 +98,12 @@
     </Entry>
     <Entry>
       <ID>20</ID>
-      <DefaultText>— Давай изменим твою форму, Оом.</DefaultText>
+      <DefaultText>"Давай изменим твою форму, Оом".</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>21</ID>
-      <DefaultText>— Я хочу, чтобы ты снова изменил форму.</DefaultText>
+      <DefaultText>"Я хочу, чтобы ты снова изменил форму".</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -113,7 +113,7 @@
     </Entry>
     <Entry>
       <ID>23</ID>
-      <DefaultText>— Мы можем поговорить о тебе, Оом?</DefaultText>
+      <DefaultText>"Мы можем поговорить о тебе, Оом?"</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -133,7 +133,7 @@
     </Entry>
     <Entry>
       <ID>27</ID>
-      <DefaultText>— ::срлк::, — говорит Оом, сужая глаза. Каким-то образом вы понимаете, что это хотя и вынужденное, но твердое "нет".</DefaultText>
+      <DefaultText>::срлк::, — говорит Оом, сужая глаза. Каким-то образом вы понимаете, что это хотя и вынужденное, но твёрдое "нет".</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -153,7 +153,7 @@
     </Entry>
     <Entry>
       <ID>31</ID>
-      <DefaultText>— Поговорим позже.</DefaultText>
+      <DefaultText>"Поговорим позже".</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -163,7 +163,7 @@
     </Entry>
     <Entry>
       <ID>33</ID>
-      <DefaultText>::ммм::</DefaultText>
+      <DefaultText>::м-м-м::</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -173,12 +173,12 @@
     </Entry>
     <Entry>
       <ID>35</ID>
-      <DefaultText>— Давай лучше сменим тему.</DefaultText>
+      <DefaultText>"Давай лучше сменим тему".</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>36</ID>
-      <DefaultText>::ммрм::</DefaultText>
+      <DefaultText>::м-мрм::</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -203,7 +203,7 @@
     </Entry>
     <Entry>
       <ID>41</ID>
-      <DefaultText>— ::ммм::, — соглашается Оом.</DefaultText>
+      <DefaultText>::м-м-м::, — соглашается Оом.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -213,7 +213,7 @@
     </Entry>
     <Entry>
       <ID>43</ID>
-      <DefaultText>— ::ссссс::, — произносит Оом, оседая на землю. Когда вы решаете уйти, за вами он не идет.</DefaultText>
+      <DefaultText>::с-с-с-с::, — произносит Оом, оседая на землю. Когда вы решаете уйти, за вами он не идёт.</DefaultText>
       <FemaleText />
     </Entry>
   </Entries>

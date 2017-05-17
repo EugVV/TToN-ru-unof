@@ -36,7 +36,7 @@
     </Entry>
     <Entry>
       <ID>7</ID>
-      <DefaultText>— Думаю, нам пока стоит разделиться.</DefaultText>
+      <DefaultText>"Думаю, нам пока стоит разделиться".</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -71,7 +71,7 @@
     </Entry>
     <Entry>
       <ID>18</ID>
-      <DefaultText>— Можно тебя осмотреть?</DefaultText>
+      <DefaultText>"Можно тебя осмотреть?"</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -91,7 +91,7 @@
     </Entry>
     <Entry>
       <ID>22</ID>
-      <DefaultText>— Оом, я хочу задать тебе несколько вопросов.</DefaultText>
+      <DefaultText>"Оом, я хочу задать тебе несколько вопросов".</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -118,12 +118,12 @@
       <ID>27</ID>
       <DefaultText>Оом медленно крутится, словно осваиваясь на новом месте, затем снова смотрит на вас.
 
-"Ссрпрл", — говорит он, и по его телу расходятся круги — как от брошенного в воду камня.</DefaultText>
+::с-српрл::, — произносит он, и по его телу расходятся круги — как от брошенного в воду камня.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>28</ID>
-      <DefaultText>"Срлк", — говорит Оом. Он указывает дрожащим усиком на вращающиеся и смеющиеся конусы вдали. Те же, что вы видели, когда прикасались к глазам Оома.</DefaultText>
+      <DefaultText>::срлк::, — произносит Оом. Он указывает дрожащим усиком на вращающиеся и смеющиеся конусы вдали. Те же, что вы видели, когда прикасались к глазам Оома.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -165,17 +165,17 @@
     </Entry>
     <Entry>
       <ID>37</ID>
-      <DefaultText>::ммрм::</DefaultText>
+      <DefaultText>::м-мрм::</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>38</ID>
-      <DefaultText>::ррлрмм::</DefaultText>
+      <DefaultText>::р-рлрм-м::</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>39</ID>
-      <DefaultText>— Зачем мы снова здесь?</DefaultText>
+      <DefaultText>"Зачем мы снова здесь?"</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>

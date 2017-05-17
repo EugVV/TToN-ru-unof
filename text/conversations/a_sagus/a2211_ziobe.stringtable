@@ -545,7 +545,7 @@
     </Entry>
     <Entry>
       <ID>111</ID>
-      <DefaultText>— Это Оом.</DefaultText>
+      <DefaultText>"Это Оом".</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -555,7 +555,7 @@
     </Entry>
     <Entry>
       <ID>113</ID>
-      <DefaultText>— ::флрт::, — бодро заявляет Оом.</DefaultText>
+      <DefaultText>::флрт::, — бодро заявляет Оом.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>

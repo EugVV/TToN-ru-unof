@@ -577,7 +577,7 @@
     </Entry>
     <Entry>
       <ID>103</ID>
-      <DefaultText>— А ну, иди сюда! Живо!</DefaultText>
+      <DefaultText>"А ну, иди сюда! Живо!"</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -602,7 +602,7 @@
     </Entry>
     <Entry>
       <ID>108</ID>
-      <DefaultText>— Ты боишься меня?</DefaultText>
+      <DefaultText>"Ты меня боишься?"</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -708,12 +708,12 @@
     </Entry>
     <Entry>
       <ID>126</ID>
-      <DefaultText>— Да уж. Я разочарован.</DefaultText>
+      <DefaultText>"Да уж. Какое разочарование".</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>127</ID>
-      <DefaultText>— Ой, оно исчезло. Какая досада!</DefaultText>
+      <DefaultText>"Ой, оно исчезло. Какая досада!"</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -725,7 +725,7 @@
     </Entry>
     <Entry>
       <ID>129</ID>
-      <DefaultText>— Ой, — со вздохом говорит она. — Оно пропало.</DefaultText>
+      <DefaultText>"Ой", — со вздохом говорит она. — "Оно пропало".</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>

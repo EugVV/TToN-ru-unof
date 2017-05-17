@@ -449,7 +449,7 @@
     </Entry>
     <Entry>
       <ID>106</ID>
-      <DefaultText>— Оом, что с тобой?</DefaultText>
+      <DefaultText>"Оом, что с тобой?"</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -459,14 +459,14 @@
     </Entry>
     <Entry>
       <ID>108</ID>
-      <DefaultText>— Пойдем со мной, Оом.</DefaultText>
+      <DefaultText>"Пойдём со мной, Оом".</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>109</ID>
       <DefaultText>Глаза существа сворачиваются, словно сжимаемые кулаки, пока исходящий из них свет не становится почти неразличим. 
  
-"Ммм", — покорно бормочет он.</DefaultText>
+::м-м::, — покорно бормочет он.</DefaultText>
       <FemaleText />
     </Entry>
   </Entries>
