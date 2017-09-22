@@ -5486,7 +5486,7 @@
     </Entry>
     <Entry>
       <ID>1097</ID>
-      <DefaultText>"Алигерн стал более подозрительным, чем обычно. Сколько мне его еще терпеть?"</DefaultText>
+      <DefaultText>"Алигерн стал большим параноиком, чем обычно. Сколько ещё мне его терпеть?"</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -5496,23 +5496,23 @@
     </Entry>
     <Entry>
       <ID>1099</ID>
-      <DefaultText>"Это будет интересно..."</DefaultText>
+      <DefaultText>"Это должно быть интересно..."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>1100</ID>
-      <DefaultText>"Если это не он, тогда где этот паршивец? Он должен мне все объяснить".</DefaultText>
-      <FemaleText>"Если это не она, тогда где эта стерва? Он должен мне все объяснить".</FemaleText>
+      <DefaultText>"Если это не он, тогда где этот ублюдок? Он должен мне многое объяснить".</DefaultText>
+      <FemaleText>"Если это не она, тогда где этот ублюдок? Он должен мне многое объяснить".</FemaleText>
     </Entry>
     <Entry>
       <ID>1101</ID>
-      <DefaultText>"Такие же, как я".</DefaultText>
+      <DefaultText>"Таких, как я".</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>1102</ID>
-      <DefaultText>"Кто знает, какие тайны поможет мне раскрыть этот ребенок, если я помогу ему выжить".</DefaultText>
-      <FemaleText>"Кто знает, какие тайны поможет мне раскрыть этот ребенок, если я помогу ей выжить".</FemaleText>
+      <DefaultText>"Кто *знает*, какие тайны поможет мне раскрыть это дитя, если я помогу ему выжить".</DefaultText>
+      <FemaleText>"Кто *знает*, какие тайны поможет мне раскрыть это дитя, если я помогу ей выжить".</FemaleText>
     </Entry>
     <Entry>
       <ID>1103</ID>
@@ -5521,7 +5521,7 @@
     </Entry>
     <Entry>
       <ID>1104</ID>
-      <DefaultText>"Я с содроганием думаю о том, что Алигерн мог сделать с ребенком".</DefaultText>
+      <DefaultText>"Я с содроганием думаю о том, что Алигерн может сделать с ребёнком".</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
