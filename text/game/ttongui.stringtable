@@ -1466,7 +1466,7 @@
     </Entry>
     <Entry>
       <ID>292</ID>
-      <DefaultText>Ученый</DefaultText>
+      <DefaultText>Учёный</DefaultText>
       <FemaleText>Учёная</FemaleText>
     </Entry>
     <Entry>
@@ -1532,7 +1532,7 @@
     <Entry>
       <ID>305</ID>
       <DefaultText>Сверхимпульсивный</DefaultText>
-      <FemaleText>Сверхимпульсивный</FemaleText>
+      <FemaleText>Сверхимпульсивная</FemaleText>
     </Entry>
     <Entry>
       <ID>306</ID>
@@ -3091,13 +3091,13 @@
     </Entry>
     <Entry>
       <ID>618</ID>
-      <DefaultText>Ожесточенный</DefaultText>
-      <FemaleText>Ожесточенный</FemaleText>
+      <DefaultText>Ожесточённый</DefaultText>
+      <FemaleText>Ожесточённая</FemaleText>
     </Entry>
     <Entry>
       <ID>619</ID>
       <DefaultText>Хитрый</DefaultText>
-      <FemaleText>Хитрый</FemaleText>
+      <FemaleText>Хитрая</FemaleText>
     </Entry>
     <Entry>
       <ID>620</ID>
@@ -7352,7 +7352,7 @@
     </Entry>
     <Entry>
       <ID>1471</ID>
-      <DefaultText>Ученый</DefaultText>
+      <DefaultText>Учёный</DefaultText>
       <FemaleText>Учёная</FemaleText>
     </Entry>
     <Entry>
@@ -7412,8 +7412,8 @@
     </Entry>
     <Entry>
       <ID>1483</ID>
-      <DefaultText>Ожесточенный</DefaultText>
-      <FemaleText>Ожесточенный</FemaleText>
+      <DefaultText>Ожесточённый</DefaultText>
+      <FemaleText>Ожесточённая</FemaleText>
     </Entry>
     <Entry>
       <ID>1484</ID>
@@ -7428,12 +7428,12 @@
     <Entry>
       <ID>1486</ID>
       <DefaultText>Потерянный</DefaultText>
-      <FemaleText>Потерянный</FemaleText>
+      <FemaleText>Потерянная</FemaleText>
     </Entry>
     <Entry>
       <ID>1487</ID>
       <DefaultText>Сверхимпульсивный</DefaultText>
-      <FemaleText>Сверхимпульсивный</FemaleText>
+      <FemaleText>Сверхимпульсивная</FemaleText>
     </Entry>
     <Entry>
       <ID>1488</ID>
