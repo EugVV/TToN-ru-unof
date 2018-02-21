@@ -961,27 +961,27 @@
     </Entry>
     <Entry>
       <ID>192</ID>
-      <DefaultText>"Если ушел Арталио, то и солдаты тоже? Значит, Топь свободна".</DefaultText>
+      <DefaultText>Если ушёл Арталио, то и солдаты тоже? Значит, Топь свободна.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>193</ID>
-      <DefaultText>"Эти доктора творят чудеса. Они не должны служить задирам Арталио".</DefaultText>
+      <DefaultText>Эти доктора творят чудеса. Они не должны служить задирам Арталио.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>194</ID>
-      <DefaultText>"Мы боимся солдат. Солдаты и Мемовира боятся Цветения. А чего боится Цветение?"</DefaultText>
+      <DefaultText>Мы боимся солдат. Солдаты и Мемовира боятся Цветения. А чего боится Цветение?</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>195</ID>
-      <DefaultText>"Хорошо бы, если бы их здесь не было".</DefaultText>
+      <DefaultText>Хорошо бы, если бы их здесь не было.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>196</ID>
-      <DefaultText>"Задание по освобождению Топи, наверное".</DefaultText>
+      <DefaultText>Задание по освобождению Топи, наверное.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1001,13 +1001,13 @@
     </Entry>
     <Entry>
       <ID>200</ID>
-      <DefaultText>"Цветение определенно отвернулось от меня, раз уж *он* смог сделать то, что мне не удалось".</DefaultText>
-      <FemaleText>"Цветение определенно отвернулось от меня, раз уж *она* смогла сделать то, что мне не удалось".</FemaleText>
+      <DefaultText>Цветение определённо отвернулось от меня, раз уж *он* смог сделать то, что мне не удалось.</DefaultText>
+      <FemaleText>Цветение определённо отвернулось от меня, раз уж *она* смогла сделать то, что мне не удалось.</FemaleText>
     </Entry>
     <Entry>
       <ID>201</ID>
-      <DefaultText>"Быть может, он мне пригодится".</DefaultText>
-      <FemaleText>"Быть может, она мне пригодится".</FemaleText>
+      <DefaultText>Быть может, он мне пригодится.</DefaultText>
+      <FemaleText>Быть может, она мне пригодится.</FemaleText>
     </Entry>
     <Entry>
       <ID>202</ID>
@@ -1021,102 +1021,102 @@
     </Entry>
     <Entry>
       <ID>204</ID>
-      <DefaultText>"Он сразился с сердцем Цветения и выжил? Нельзя его отпускать".</DefaultText>
-      <FemaleText>"Она сразилась с сердцем Цветения и выжила? Нельзя ее отпускать".</FemaleText>
+      <DefaultText>Он сразился с сердцем Цветения и выжил? Нельзя его отпускать.</DefaultText>
+      <FemaleText>Она сразилась с сердцем Цветения и выжила? Нельзя её отпускать.</FemaleText>
     </Entry>
     <Entry>
       <ID>205</ID>
-      <DefaultText>"У меня не было *сомнений*, что из-за нее у нас будут проблемы. Надеюсь, отверженный не будет столь враждебен".</DefaultText>
+      <DefaultText>У меня не было *сомнений*, что из-за неё у нас будут проблемы. Надеюсь, отверженный не будет столь враждебен.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>206</ID>
-      <DefaultText>"Да, он и *впрямь* умнее провидицы".</DefaultText>
-      <FemaleText>"Да, она и *впрямь* умнее провидицы".</FemaleText>
+      <DefaultText>Да, он и *впрямь* умнее провидицы.</DefaultText>
+      <FemaleText>Да, она и *впрямь* умнее провидицы.</FemaleText>
     </Entry>
     <Entry>
       <ID>207</ID>
-      <DefaultText>"Значит, провидица нашла себе столь же глупого компаньона".</DefaultText>
+      <DefaultText>Значит, провидица нашла себе столь же глупого компаньона.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>208</ID>
-      <DefaultText>"Она слишком многое предвидит. Отверженный беспокоит меня больше, чем мне бы хотелось".</DefaultText>
+      <DefaultText>Она слишком многое предвидит. Отверженный беспокоит меня больше, чем мне бы хотелось.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>209</ID>
-      <DefaultText>"Разделаться с отверженными и получить прибыль в один день? Вот это мне по душе".</DefaultText>
+      <DefaultText>Разделаться с отверженными и получить прибыль в один день? Вот это мне по душе.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>210</ID>
-      <DefaultText>"Это не имеет значения. Пусть *уходит*".</DefaultText>
-      <FemaleText>"Это не имеет значения. Пусть *уходит*".</FemaleText>
+      <DefaultText>Это не имеет значения. Пусть он *уходит*.</DefaultText>
+      <FemaleText>Это не имеет значения. Пусть она *уходит*.</FemaleText>
     </Entry>
     <Entry>
       <ID>211</ID>
-      <DefaultText>"Он слишком силен. Неужели я стал слабым, как те никчемные Бесстрашные?"</DefaultText>
-      <FemaleText>"Она слишком сильна. Неужели я стал слабым, как те никчемные Бесстрашные?"</FemaleText>
+      <DefaultText>Он слишком силён. Неужели я стал слабым, как те никчёмные Бесстрашные?</DefaultText>
+      <FemaleText>Она слишком сильна. Неужели я стал слабым, как те никчёмные Бесстрашные?</FemaleText>
     </Entry>
     <Entry>
       <ID>212</ID>
-      <DefaultText>"Может, я не один. Может, он поймет".</DefaultText>
-      <FemaleText>"Может, я не один. Может, она поймет".</FemaleText>
+      <DefaultText>Может, я не один. Может, он поймёт.</DefaultText>
+      <FemaleText>Может, я не один. Может, она поймёт.</FemaleText>
     </Entry>
     <Entry>
       <ID>213</ID>
-      <DefaultText>"Зря я надеялся, что он поймет. Я действительно размяк".</DefaultText>
-      <FemaleText>"Зря я надеялся, что она поймет. Я действительно размяк".</FemaleText>
+      <DefaultText>Зря я надеялся, что он поймёт. Я действительно размяк.</DefaultText>
+      <FemaleText>Зря я надеялся, что она поймёт. Я действительно размяк.</FemaleText>
     </Entry>
     <Entry>
       <ID>214</ID>
-      <DefaultText>"Это далеко не то, что сказали Крупинка и тот захваченный мной дурачок".</DefaultText>
+      <DefaultText>Это далеко не то, что сказали Крупинка и тот захваченный мной дурачок.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>215</ID>
-      <DefaultText>"Я *не* отступлюсь от страха. Я лучше умру".</DefaultText>
+      <DefaultText>Я *не* отступлюсь от страха. Лучше я умру.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>216</ID>
-      <DefaultText>"Не пора бы его отпустить? Посмотрим, что он скажет".</DefaultText>
-      <FemaleText>"Не пора бы ее отпустить? Посмотрим, что она скажет".</FemaleText>
+      <DefaultText>Не пора бы его отпустить? Посмотрим, что он скажет.</DefaultText>
+      <FemaleText>Не пора бы её отпустить? Посмотрим, что она скажет.</FemaleText>
     </Entry>
     <Entry>
       <ID>217</ID>
-      <DefaultText>"Им плевать на меня. Так с чего бы мне о них беспокоиться? Разве в этом состоит сила?"</DefaultText>
+      <DefaultText>Им плевать на меня. Так с чего бы мне о них беспокоиться? Разве в этом состоит сила?</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>218</ID>
-      <DefaultText>"Нет! Он захватил бы меня в плен, как и я пленил это жалкое существо. Этому НЕ бывать!"</DefaultText>
-      <FemaleText>"Нет! Она захватила бы меня в плен, как и я пленил это жалкое существо. Этому НЕ бывать!"</FemaleText>
+      <DefaultText>Нет! Он захватил бы меня в плен, как и я пленил это жалкое существо. Этому НЕ бывать!</DefaultText>
+      <FemaleText>Нет! Она захватила бы меня в плен, как и я пленил это жалкое существо. Этому НЕ бывать!</FemaleText>
     </Entry>
     <Entry>
       <ID>219</ID>
-      <DefaultText>"Похоже на то, что сказали мне Крупинка и этот старик. Надеюсь, ему есть, что добавить".</DefaultText>
-      <FemaleText>"Похоже на то, что сказали мне Крупинка и этот старик. Надеюсь, ей есть, что добавить".</FemaleText>
+      <DefaultText>Похоже на то, что сказали мне Крупинка и этот старик. Надеюсь, ему есть, что добавить.</DefaultText>
+      <FemaleText>Похоже на то, что сказали мне Крупинка и этот старик. Надеюсь, ей есть, что добавить.</FemaleText>
     </Entry>
     <Entry>
       <ID>220</ID>
-      <DefaultText>"Ну вот. Почему это кажется нормальным? Я раньше ничего подобного не делал!"</DefaultText>
+      <DefaultText>Ну вот. Почему это кажется нормальным? Я раньше ничего подобного не делал!</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>221</ID>
-      <DefaultText>"И зачем я согласился на эту работу? Разве тут лучше, чем в Пастях?"</DefaultText>
+      <DefaultText>И зачем я согласился на эту работу? Разве тут лучше, чем в Пастях?</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>222</ID>
-      <DefaultText>"Спасибо Цветению. Я не желаю иметь что-либо из этого".</DefaultText>
+      <DefaultText>Спасибо Цветению. Я не желаю иметь что-либо из этого.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>223</ID>
-      <DefaultText>"Приступим".</DefaultText>
+      <DefaultText>Приступим.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1131,17 +1131,17 @@
     </Entry>
     <Entry>
       <ID>226</ID>
-      <DefaultText>"У этого путника, сколь бы шрамов на нем ни было, интересная точка зрения".</DefaultText>
-      <FemaleText>"У этой путницы, сколь бы шрамов на ней ни было, интересная точка зрения".</FemaleText>
+      <DefaultText>У этого путника, сколь бы шрамов на нём ни было, интересная точка зрения.</DefaultText>
+      <FemaleText>У этой путницы, сколь бы шрамов на ней ни было, интересная точка зрения.</FemaleText>
     </Entry>
     <Entry>
       <ID>227</ID>
-      <DefaultText>"Индигел. Чиста и свежа, как утренняя роса".</DefaultText>
+      <DefaultText>Индигел. Чиста и свежа, как утренняя роса.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>228</ID>
-      <DefaultText>"Я отдала бы что угодно, чтобы еще раз взглянуть на Город у Реки. Цветение тяготит меня".</DefaultText>
+      <DefaultText>Я отдала бы что угодно, чтобы ещё раз взглянуть на Город у Реки. Цветение тяготит меня.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1151,92 +1151,92 @@
     </Entry>
     <Entry>
       <ID>230</ID>
-      <DefaultText>"Будь трижды проклят этот отверженный. Ему не затащить *меня* в ад".</DefaultText>
-      <FemaleText>"Будь трижды проклята эта отверженная. Ей не затащить *меня* в ад".</FemaleText>
+      <DefaultText>Будь трижды проклят этот отверженный. Ему не затащить *меня* в ад.</DefaultText>
+      <FemaleText>Будь трижды проклята эта отверженная. Ей не затащить *меня* в ад.</FemaleText>
     </Entry>
     <Entry>
       <ID>231</ID>
-      <DefaultText>"Клянусь богами, я никогда не думал, что увижу это снова. Как и никогда не думал, что мне может быть не все равно".</DefaultText>
+      <DefaultText>Клянусь богами, я никогда не думал, что увижу это снова. Как и никогда не думал, что мне может быть не всё равно.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>232</ID>
-      <DefaultText>"Я знал, что погибну от руки отверженного".</DefaultText>
+      <DefaultText>Я знал, что погибну от руки отверженного.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>233</ID>
-      <DefaultText>"Что бы он ни говорил, он вернется. Никто не отказывается от награды".</DefaultText>
-      <FemaleText>"Что бы она ни говорила, она вернется. Никто не отказывается от награды".</FemaleText>
+      <DefaultText>Что бы он ни говорил, он вернётся. Никто не отказывается от награды.</DefaultText>
+      <FemaleText>Что бы она ни говорила, она вернётся. Никто не отказывается от награды.</FemaleText>
     </Entry>
     <Entry>
       <ID>234</ID>
-      <DefaultText>"Пусть я теперь оборванец, но я хочу, чтобы мы снова показали, чего мы стоим на самом деле".</DefaultText>
+      <DefaultText>Пусть я теперь оборванец, но я хочу, чтобы мы снова показали, чего мы стоим на самом деле.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>235</ID>
-      <DefaultText>"Те мердены *точно* знали, что отбирают у меня. Они смеются надо мной".</DefaultText>
+      <DefaultText>Те мердены *точно* знали, что отбирают у меня. Они смеются надо мной.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>236</ID>
-      <DefaultText>"Я пришел сюда *спасать* жизни. Разве мне судить, что люди рискуют собой ради флага?"</DefaultText>
+      <DefaultText>Я пришёл сюда *спасать* жизни. Разве мне судить, что люди рискуют собой ради флага?</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>237</ID>
-      <DefaultText>"Вряд ли я *когда-нибудь* снова увижу эти лохмотья. Это место отняло у меня все".</DefaultText>
+      <DefaultText>Вряд ли я *когда-нибудь* снова увижу эти лохмотья. Это место отняло у меня всё.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>238</ID>
-      <DefaultText>"Проклятые отверженные, считают себя богами. А на нас им плевать".</DefaultText>
+      <DefaultText>Проклятые отверженные, считают себя богами. А на нас им плевать.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>239</ID>
-      <DefaultText>"Он настолько отчаялся, что собирается принести себя в жертву Пасти? Нет, не может быть, только не он".</DefaultText>
-      <FemaleText>"Она настолько отчаялась, что собирается принести себя в жертву Пасти? Нет, не может быть, только не она".</FemaleText>
+      <DefaultText>Он настолько отчаялся, что собирается принести себя в жертву Пасти? Нет, не может быть, только не он.</DefaultText>
+      <FemaleText>Она настолько отчаялась, что собирается принести себя в жертву Пасти? Нет, не может быть, только не она.</FemaleText>
     </Entry>
     <Entry>
       <ID>240</ID>
-      <DefaultText>"Что ж. Может, отверженные все-таки для чего-нибудь да годятся".</DefaultText>
+      <DefaultText>Что ж. Может, отверженные всё-таки для чего-нибудь да годятся.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>241</ID>
-      <DefaultText>"Если это еще не конец. Пришлось положиться на *отверженного*, чтобы найти то, что я потерял".</DefaultText>
+      <DefaultText>Если это ещё не конец. Пришлось положиться на *отверженного*, чтобы найти то, что я потерял.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>242</ID>
-      <DefaultText>"Признаю, мне нравится смотреть на выражения лиц людей, когда он это делает".</DefaultText>
+      <DefaultText>Признаю, мне нравится смотреть на выражения лиц людей, когда он это делает.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>243</ID>
-      <DefaultText>"Ах, если бы только старик рассказал мне больше! Научусь ли я когда-нибудь сражаться? Встречу ли девушку? Я должен знать!"</DefaultText>
+      <DefaultText>Ах, если бы только старик рассказал мне больше! Научусь ли я когда-нибудь сражаться? Встречу ли девушку? Я должен знать!</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>244</ID>
-      <DefaultText>"Об *этом* старик ничего не сказал".</DefaultText>
+      <DefaultText>Об *этом* старик ничего не сказал.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>245</ID>
-      <DefaultText>"Нет, я... Все же будет хорошо, ведь так? Потому что старик все еще здесь? С ним это уже наверняка произошло".</DefaultText>
+      <DefaultText>Нет, я... всё же будет хорошо, ведь так? Потому что старик всё ещё здесь? С ним это уже наверняка произошло.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>246</ID>
-      <DefaultText>"Ха! Я и не сомневался, что все будет хорошо. Я знал. Возможно, мне и правда рано отправляться в это путешествие".</DefaultText>
+      <DefaultText>Ха! Я и не сомневался, что всё будет хорошо. Я знал. Возможно, мне и правда рано отправляться в это путешествие.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>247</ID>
-      <DefaultText>"Знаю, что так бы и *поступил*, лишь бы посмотреть, что произойдет".</DefaultText>
+      <DefaultText>Знаю, что так бы и *поступил*, лишь бы посмотреть, что произойдёт.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1271,147 +1271,147 @@
     </Entry>
     <Entry>
       <ID>254</ID>
-      <DefaultText>"*Вот* тот, кто поможет Пожирателю!"</DefaultText>
+      <DefaultText>*Вот* тот, кто поможет Пожирателю!</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>255</ID>
-      <DefaultText>"Белый на него плохо влияет. Все равно. Мудрый увидел бы причину".</DefaultText>
-      <FemaleText>"Белый на нее плохо влияет. Все равно. Мудрый увидел бы причину".</FemaleText>
+      <DefaultText>Белый на него плохо влияет. Всё равно. Мудрый увидел бы причину.</DefaultText>
+      <FemaleText>Белый на неё плохо влияет. Всё равно. Мудрый увидел бы причину.</FemaleText>
     </Entry>
     <Entry>
       <ID>256</ID>
-      <DefaultText>"Да! Я чувствую разницу. Ушел тот, кто вставлял нам палки в колеса".</DefaultText>
+      <DefaultText>Да! Я чувствую разницу. Ушёл тот, кто вставлял нам палки в колеса.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>257</ID>
-      <DefaultText>"Как он смеет? Нет, он просто не понимает".</DefaultText>
-      <FemaleText>"Как она смеет? Нет, она просто не понимает".</FemaleText>
+      <DefaultText>Как он смеет? Нет, он просто не понимает.</DefaultText>
+      <FemaleText>Как она смеет? Нет, она просто не понимает.</FemaleText>
     </Entry>
     <Entry>
       <ID>258</ID>
-      <DefaultText>"Верящему, чтобы увидеть, не *нужно* слов, но этому человеку нужно больше веры".</DefaultText>
+      <DefaultText>Верящему, чтобы увидеть, не *нужно* слов, но этому человеку нужно больше веры.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>259</ID>
-      <DefaultText>"Пусть идет, дурак. Цветение сожрет его!"</DefaultText>
-      <FemaleText>"Пусть идет, дурочка. Цветение сожрет ее!"</FemaleText>
+      <DefaultText>Пусть идёт, дурак. Цветение сожрёт его!</DefaultText>
+      <FemaleText>Пусть идёт, дурочка. Цветение сожрёт её!</FemaleText>
     </Entry>
     <Entry>
       <ID>260</ID>
-      <DefaultText>"Ее время вышло. Скоро Цветение доберется до нее".</DefaultText>
+      <DefaultText>Её время вышло. Скоро Цветение доберётся до неё.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>261</ID>
-      <DefaultText>"Однажды я отчетливо услышу голос Цветения, а не этот слабый шепот. Я не сомневаюсь".</DefaultText>
+      <DefaultText>Однажды я отчетливо услышу голос Цветения, а не этот слабый шёпот. Я не сомневаюсь.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>262</ID>
-      <DefaultText>"Может, я найду работу получше, если проживу подольше".</DefaultText>
+      <DefaultText>Может, я найду работу получше, если проживу подольше.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>263</ID>
-      <DefaultText>"Неужели я прирожденный убийца? Это бы многое объяснило".</DefaultText>
+      <DefaultText>Неужели я прирождённый убийца? Это бы многое объяснило.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>264</ID>
-      <DefaultText>"То, что произошло с Кассандрой, ничто по сравнению с моими кошмарами".</DefaultText>
+      <DefaultText>Произошедшее с Кассандрой ничто по сравнению с моими кошмарами.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>265</ID>
-      <DefaultText>"Мне начинают сниться новые кошмары, и некоторые даже страшнее, чем Кассандра".</DefaultText>
+      <DefaultText>Мне начинают сниться новые кошмары, и некоторые даже страшнее, чем Кассандра.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>266</ID>
-      <DefaultText>"Так *вот* почему он устроил меня сюда?"</DefaultText>
-      <FemaleText>"Так *вот* почему она устроила меня сюда?"</FemaleText>
+      <DefaultText>Так *вот* почему он устроил меня сюда?</DefaultText>
+      <FemaleText>Так *вот* почему она устроила меня сюда?</FemaleText>
     </Entry>
     <Entry>
       <ID>267</ID>
-      <DefaultText>"Тот проводник Цветения часто туда ходит. Грисслер, кажется?"</DefaultText>
+      <DefaultText>Тот проводник Цветения часто туда ходит. Грисслер, кажется?</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>268</ID>
-      <DefaultText>"Она боится Цветения больше, чем я когда-то".</DefaultText>
+      <DefaultText>Она боится Цветения больше, чем я когда-то.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>269</ID>
-      <DefaultText>"Я могу идти? Или все еще хуже, чем раньше?"</DefaultText>
+      <DefaultText>Я могу идти? Или всё ещё хуже, чем раньше?</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>270</ID>
-      <DefaultText>"Он, должно быть, поступил куда хуже, чем я со своей сестрой".</DefaultText>
-      <FemaleText>"Она, должно быть, поступила куда хуже, чем я со своей сестрой".</FemaleText>
+      <DefaultText>Он, должно быть, поступил куда хуже, чем я со своей сестрой.</DefaultText>
+      <FemaleText>Она, должно быть, поступила куда хуже, чем я со своей сестрой.</FemaleText>
     </Entry>
     <Entry>
       <ID>271</ID>
-      <DefaultText>"Боюсь, что тоже знаю, кто стал причиной. *Ей* это не понравится".</DefaultText>
+      <DefaultText>Боюсь, что тоже знаю, кто стал причиной. *Ей* это не понравится.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>272</ID>
-      <DefaultText>"Сколько интереса к Вознесению нынче. Неужели Цветение что-то предвидело?"</DefaultText>
+      <DefaultText>Сколько интереса к Вознесению нынче. Неужели Цветение что-то предвидело?</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>273</ID>
-      <DefaultText>"Грядут перемены. Я чую их запах, образно говоря".</DefaultText>
+      <DefaultText>Грядут перемены. Я чую их запах, образно говоря.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>274</ID>
-      <DefaultText>"*Нужно* знать? Что он тут делает? А Мемовира в курсе?"</DefaultText>
-      <FemaleText>"*Нужно* знать? Что она тут делает? А Мемовира в курсе?"</FemaleText>
+      <DefaultText>*Нужно* знать? Что он тут делает? А Мемовира в курсе?</DefaultText>
+      <FemaleText>*Нужно* знать? Что она тут делает? А Мемовира в курсе?</FemaleText>
     </Entry>
     <Entry>
       <ID>275</ID>
-      <DefaultText>"Интересно, знает ли Мемовира, кого на этот раз хочет сожрать Цветение? Могу поспорить, что знает".</DefaultText>
+      <DefaultText>Интересно, знает ли Мемовира, кого на этот раз хочет сожрать Цветение? Могу поспорить, что знает.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>276</ID>
-      <DefaultText>"По крайней мере, пока мне не подвернется что-то получше или кому-то *еще* не пригодится мое время".</DefaultText>
+      <DefaultText>По крайней мере, пока мне не подвернётся что-то получше или кому-то *ещё* не пригодится моё время.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>277</ID>
-      <DefaultText>"Она так и поступит. Она слишком напугана, чтобы не обратиться ко всем, к кому может, за помощью".</DefaultText>
+      <DefaultText>Она так и поступит. Она слишком напугана, чтобы не обратиться за помощью ко всем, к кому может.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>278</ID>
-      <DefaultText>"Неудивительно, что Мемовира хочет от него избавиться".</DefaultText>
-      <FemaleText>"Неудивительно, что Мемовира хочет от нее избавиться".</FemaleText>
+      <DefaultText>Неудивительно, что Мемовира хочет от него избавиться.</DefaultText>
+      <FemaleText>Неудивительно, что Мемовира хочет от неё избавиться.</FemaleText>
     </Entry>
     <Entry>
       <ID>279</ID>
-      <DefaultText>"Меня не интересуют слухи. Я *знаю*, что она не может".</DefaultText>
+      <DefaultText>Меня не интересуют слухи. Я *знаю*, что она не может.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>280</ID>
-      <DefaultText>"Благослови Цветение этих докторов... Хоть они и чересчур наслаждаются своей работой".</DefaultText>
+      <DefaultText>Благослови Цветение этих докторов... Хоть они и чересчур наслаждаются своей работой.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>281</ID>
-      <DefaultText>"Стыд и позор. Цветению *что-то* нужно от него, но и мне надо с долгами расплачиваться".</DefaultText>
-      <FemaleText>"Стыд и позор. Цветению *что-то* нужно от нее, но и мне надо с долгами расплачиваться".</FemaleText>
+      <DefaultText>Стыд и позор. Цветению *что-то* нужно от него, но и мне надо с долгами расплачиваться.</DefaultText>
+      <FemaleText>Стыд и позор. Цветению *что-то* нужно от неё, но и мне надо с долгами расплачиваться.</FemaleText>
     </Entry>
     <Entry>
       <ID>282</ID>
-      <DefaultText>"Говорят, ты можешь служить сразу двум господам. Раз так, мне больше не придется этого делать".</DefaultText>
+      <DefaultText>Говорят, нельзя служить сразу двум господам. Раз так, мне больше не придётся этого делать.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1421,8 +1421,8 @@
     </Entry>
     <Entry>
       <ID>284</ID>
-      <DefaultText>"Не нравится мне, как он выглядит. Избавимся от него по-быстрому".</DefaultText>
-      <FemaleText>"Не нравится мне, как она выглядит. Избавимся от нее по-быстрому".</FemaleText>
+      <DefaultText>Не нравится мне, как он выглядит. Избавимся от него по-быстрому.</DefaultText>
+      <FemaleText>Не нравится мне, как она выглядит. Избавимся от неё по-быстрому.</FemaleText>
     </Entry>
     <Entry>
       <ID>285</ID>
@@ -1432,12 +1432,12 @@
     <Entry>
       <ID>286</ID>
       <DefaultText>Почему он не *оставит* это в прошлом? Этот тип меня просто бесит!</DefaultText>
-      <FemaleText />
+      <FemaleText>Почему она не *оставит* это в прошлом? Эта баба меня просто бесит!</FemaleText>
     </Entry>
     <Entry>
       <ID>287</ID>
-      <DefaultText>"Ха! Может, он *на самом деле* болван".</DefaultText>
-      <FemaleText>"Ха! Может, она *на самом деле* дура".</FemaleText>
+      <DefaultText>Ха! Может, он *на самом деле* болван.</DefaultText>
+      <FemaleText>Ха! Может, она *на самом деле* дура.</FemaleText>
     </Entry>
     <Entry>
       <ID>288</ID>
@@ -1446,62 +1446,62 @@
     </Entry>
     <Entry>
       <ID>289</ID>
-      <DefaultText>"Я могу идти? О боги, снова эта боль! Пусть она прекратится!"</DefaultText>
+      <DefaultText>Я могу идти? О боги, снова эта боль! Пусть она прекратится!</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>290</ID>
-      <DefaultText>"Хватит! Становится хуже!"</DefaultText>
+      <DefaultText>Хватит! Так ещё хуже!</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>291</ID>
-      <DefaultText>"Я должна его убить. Только так я буду уверена. Но смогу ли я?"</DefaultText>
+      <DefaultText>Я должна его убить. Только так я буду уверена. Но смогу ли я?</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>292</ID>
-      <DefaultText>"И как долго этот головорез будет ошиваться в Цветении? Возможно, мне удастся однажды ее вернуть".</DefaultText>
+      <DefaultText>И как долго этот головорез будет ошиваться в Цветении? Возможно, мне удастся однажды её вернуть.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>293</ID>
-      <DefaultText>"Смейся, Делни. Мы отлично проводим время".</DefaultText>
+      <DefaultText>Смейся, Делни. Мы отлично проводим время.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>294</ID>
       <DefaultText>Ха! Хотелось бы мне, чтобы он попытался.</DefaultText>
-      <FemaleText />
+      <FemaleText>Ха! Хотелось бы мне, чтобы она попыталась.</FemaleText>
     </Entry>
     <Entry>
       <ID>295</ID>
-      <DefaultText>"Мы сам ужас, Делни. Спугни его".</DefaultText>
-      <FemaleText>"Мы сам ужас, Делни. Спугни ее".</FemaleText>
+      <DefaultText>Мы сам ужас, Делни. Спугни его.</DefaultText>
+      <FemaleText>Мы сам ужас, Делни. Спугни её.</FemaleText>
     </Entry>
     <Entry>
       <ID>296</ID>
-      <DefaultText>"С Мемовирой покончено. Она вышла".</DefaultText>
+      <DefaultText>С Мемовирой покончено. Она вышла.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>297</ID>
-      <DefaultText>"От людей уважения не дождешься. Малый Нилиш — *наша* земля".</DefaultText>
+      <DefaultText>От людей уважения не дождёшься. Малый Нилиш – *наша* земля.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>298</ID>
-      <DefaultText>"Покончим с этим сегодня!"</DefaultText>
+      <DefaultText>Покончим с этим сегодня!</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>299</ID>
-      <DefaultText>"Покончим с этим СЕЙЧАС! И хватит совать нос не в свое дело!"</DefaultText>
+      <DefaultText>Покончим с этим СЕЙЧАС! И хватит совать нос не в своё дело!</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>300</ID>
-      <DefaultText>"Этот человек бесит и тратит наше время".</DefaultText>
+      <DefaultText>Этот человек бесит и тратит наше время.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1511,7 +1511,7 @@
     </Entry>
     <Entry>
       <ID>302</ID>
-      <DefaultText>"Думаю, стражники получили не *меньше* [Global: c4301_AmbushBribeStandard]. Придется стрясти с них деньги".</DefaultText>
+      <DefaultText>Думаю, стражники получили не *меньше* [Global: c4301_AmbushBribeStandard]. Придётся стрясти с них деньги.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1521,82 +1521,82 @@
     </Entry>
     <Entry>
       <ID>304</ID>
-      <DefaultText>"Вина. Оно хочет поглотить мою вину".</DefaultText>
+      <DefaultText>Вина. Оно хочет поглотить мою вину.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>305</ID>
-      <DefaultText>"Он бы не *посмел* скормить меня этой штуке... Хотя посмел бы, наверное".</DefaultText>
-      <FemaleText>"Она бы не *посмела* скормить меня этой штуке... Хотя посмела бы, наверное".</FemaleText>
+      <DefaultText>Он бы не *посмел* скормить меня этой штуке... хотя посмел бы, наверное.</DefaultText>
+      <FemaleText>Она бы не *посмела* скормить меня этой штуке... хотя посмела бы, наверное.</FemaleText>
     </Entry>
     <Entry>
       <ID>306</ID>
-      <DefaultText>"Я лишь надеюсь, что он вытащит меня, если все пойдет прахом".</DefaultText>
-      <FemaleText>"Я лишь надеюсь, что она вытащит меня, если все пойдет прахом".</FemaleText>
+      <DefaultText>Я лишь надеюсь, что он вытащит меня, если всё пойдёт прахом.</DefaultText>
+      <FemaleText>Я лишь надеюсь, что она вытащит меня, если всё пойдёт прахом.</FemaleText>
     </Entry>
     <Entry>
       <ID>307</ID>
-      <DefaultText>"Убирайся! Уноси ноги! Тебя здесь не станут терпеть!"</DefaultText>
+      <DefaultText>Убирайся! Уноси ноги! Тебя здесь не станут терпеть!</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>308</ID>
-      <DefaultText>"ЗАЧЕМ? Зачем я открыла? Я не могу снова увидеть это. Я умру. Ах, *лучше бы* я умерла!"</DefaultText>
+      <DefaultText>ЗАЧЕМ? Зачем я открыла? Я не могу снова увидеть это. Я умру. Ах, *лучше бы* я умерла!</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>309</ID>
-      <DefaultText>"Он *воспользовался* мной. Он ничуть не лучше... меня".</DefaultText>
-      <FemaleText>"Она *воспользовалась* мной. Она ничуть не лучше... меня".</FemaleText>
+      <DefaultText>Он *воспользовался* мной. Он ничуть не лучше... меня.</DefaultText>
+      <FemaleText>Она *воспользовалась* мной. Она ничуть не лучше... меня.</FemaleText>
     </Entry>
     <Entry>
       <ID>310</ID>
-      <DefaultText>"И правильно, что отказала. Зато отверженный слышал, как я рыдаю. Он... лучше, чем я".</DefaultText>
-      <FemaleText>"И правильно, что отказала. Зато отверженная слышала, как я рыдаю. Она... лучше, чем я".</FemaleText>
+      <DefaultText>И правильно, что отказала. Зато отверженный слышал, как я рыдаю. Он... лучше, чем я.</DefaultText>
+      <FemaleText>И правильно, что отказала. Зато отверженная слышала, как я рыдаю. Она... лучше, чем я.</FemaleText>
     </Entry>
     <Entry>
       <ID>311</ID>
-      <DefaultText>"Именно так я и сказала себе в тот день".</DefaultText>
+      <DefaultText>Никогда больше. *Никогда* больше.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>312</ID>
-      <DefaultText>"Находка или чудовище? Кримпер не знает, но глубоко! Так глубоко".</DefaultText>
+      <DefaultText>Как у неё получается так долго звать из такой глубины? Она вообще дышит?</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>313</ID>
-      <DefaultText>"Туристы. Уф! Вечно они мешают Кримперу".</DefaultText>
+      <DefaultText>Туристы. Пфе! Вечно они мешают Кримперу.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>314</ID>
-      <DefaultText>"О, нет! Возможно, Кримпер ошибался. Кажется, кто-то *заинтересован*".</DefaultText>
+      <DefaultText>О, нет! Возможно, Кримпер ошибался. Кажется, кто-то *заинтересован*.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>315</ID>
-      <DefaultText>"Ах, это единственное, что меня утешало в ночь, когда малышка Готли пропала. Помогло пережить это, да".</DefaultText>
+      <DefaultText>Ах, это единственное, что меня утешало в ночь, когда малышка Готли пропала. Помогло пережить это, да.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>316</ID>
-      <DefaultText>"Чувствую себя так, словно потерял Готли во второй раз. Все дело в невнимательности".</DefaultText>
+      <DefaultText>Чувствую себя так, словно потерял Готли во второй раз. Всё дело в невнимательности.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>317</ID>
-      <DefaultText>"Возможно, ученик? Я никого не учил после малышки Готли".</DefaultText>
+      <DefaultText>Возможно, ученик? Я никого не учил после малышки Готли.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>318</ID>
-      <DefaultText>"Квишамис? Я должен знать об этом. Наверное, это растет на полях и требует солнечного света".</DefaultText>
+      <DefaultText>Квишамис? Я должен знать об этом. Наверное, это растёт на полях и требует солнечного света.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>319</ID>
-      <DefaultText>"Теперь мутанты прислали *людей*, чтобы выудить из меня признание? Ишь чего придумали".</DefaultText>
+      <DefaultText>Теперь мутанты прислали *людей*, чтобы выудить из меня признание? Ишь чего придумали.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1606,38 +1606,38 @@
     </Entry>
     <Entry>
       <ID>321</ID>
-      <DefaultText>"У них ни законов нет, ни душ. Тогда и осквернять им ничего".</DefaultText>
+      <DefaultText>У них ни законов нет, ни душ. Тогда и осквернять им ничего.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>322</ID>
-      <DefaultText>"Значит, мои действия были справедливо оправданы. Мутанты заслужили смерти".</DefaultText>
+      <DefaultText>Значит, мои действия были справедливо оправданы. Мутанты заслужили смерти.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>323</ID>
-      <DefaultText>"*Ему* я ни в чем признаваться не буду. Больно велик риск".</DefaultText>
-      <FemaleText>"*Ей* я ни в чем признаваться не буду. Больно велик риск".</FemaleText>
+      <DefaultText>*Ему* я ни в чём признаваться не буду. Больно велик риск.</DefaultText>
+      <FemaleText>*Ей* я ни в чём признаваться не буду. Больно велик риск.</FemaleText>
     </Entry>
     <Entry>
       <ID>324</ID>
-      <DefaultText>"Они не люди. *Нет*. Уверен, я правильно поступил со своими людьми".</DefaultText>
+      <DefaultText>Они не люди. *Нет*. Уверен, я правильно поступил со своими людьми.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>325</ID>
-      <DefaultText>"Это *не* преступление. *Не может* им быть!"</DefaultText>
+      <DefaultText>Это *не* преступление. *Не может* им быть!</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>326</ID>
-      <DefaultText>"Он берется защищать мою работу! Признаться, эти мутанты куда более стойкие, чем те, которых я отравил в Шармоне".</DefaultText>
-      <FemaleText>"Она берется защищать мою работу! Признаться, эти мутанты куда более стойкие, чем те, которых я отравил в Шармоне".</FemaleText>
+      <DefaultText>Он берётся защищать мою работу! Признаться, эти мутанты куда более стойкие, чем те, которых я отравил в Шармоне.</DefaultText>
+      <FemaleText>Она берётся защищать мою работу! Признаться, эти мутанты куда более стойкие, чем те, которых я отравил в Шармоне.</FemaleText>
     </Entry>
     <Entry>
       <ID>327</ID>
-      <DefaultText>"Неправдоподобно. Разумеется, мутанты подговорили его обмануть меня".</DefaultText>
-      <FemaleText>"Неправдоподобно. Разумеется, мутанты подговорили ее обмануть меня".</FemaleText>
+      <DefaultText>Неправдоподобно. Разумеется, мутанты подговорили его обмануть меня.</DefaultText>
+      <FemaleText>Неправдоподобно. Разумеется, мутанты подговорили её обмануть меня.</FemaleText>
     </Entry>
     <Entry>
       <ID>328</ID>
@@ -1646,7 +1646,7 @@
     </Entry>
     <Entry>
       <ID>329</ID>
-      <DefaultText>"Мы *все* согласились. Но дети выглядели совершенно, как люди..."</DefaultText>
+      <DefaultText>Мы *все* согласились. Но дети выглядели совершенно, как люди...</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1661,47 +1661,47 @@
     </Entry>
     <Entry>
       <ID>332</ID>
-      <DefaultText>"Он поступил мудро и *справедливо*. Но разве он руководствовался именно этим?"</DefaultText>
-      <FemaleText>"Она поступила мудро и *справедливо*. Но разве она руководствовалась именно этим?"</FemaleText>
+      <DefaultText>Он поступил мудро и *справедливо*. Но разве он руководствовался именно этим?</DefaultText>
+      <FemaleText>Она поступила мудро и *справедливо*. Но разве она руководствовалась именно этим?</FemaleText>
     </Entry>
     <Entry>
       <ID>333</ID>
-      <DefaultText>"Действительно, мудро и справедливо. Этот человек, наверное, чего-то стоит".</DefaultText>
+      <DefaultText>Действительно, мудро и справедливо. Этот человек, наверное, чего-то стоит.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>334</ID>
-      <DefaultText>"Мудро, но справедливость тут случайна. Этот человек, возможно, чего-то стоит".</DefaultText>
+      <DefaultText>Мудро, но справедливость тут случайна. Этот человек, возможно, чего-то стоит.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>335</ID>
-      <DefaultText>"Неумышленно справедливо. Стоит ли вообще тратить время на этого человека?"</DefaultText>
+      <DefaultText>Неумышленно справедливо. Стоит ли вообще тратить время на этого человека?</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>336</ID>
-      <DefaultText>"С этим человеком нужно быть поосторожнее".</DefaultText>
+      <DefaultText>С этим человеком нужно быть поосторожнее.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>337</ID>
-      <DefaultText>"Он мудр, но ему не хватает предусмотрительности или сострадания".</DefaultText>
+      <DefaultText>Мудро, но возможно не хватает предусмотрительности или сострадания.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>338</ID>
-      <DefaultText>"У него нет сострадания. С ним нужно быть поосторожнее".</DefaultText>
-      <FemaleText>"У нее нет сострадания. С ней нужно быть поосторожнее".</FemaleText>
+      <DefaultText>Ему не хватает сострадания. С ним нужно быть поосторожнее.</DefaultText>
+      <FemaleText>Ей не хватает сострадания. С ней нужно быть поосторожнее.</FemaleText>
     </Entry>
     <Entry>
       <ID>339</ID>
-      <DefaultText>"Действительно, мудро и справедливо. Или он не знает, для чего Разливу нужна Хирья?"</DefaultText>
-      <FemaleText>"Действительно, мудро и справедливо. Или она не знает, для чего Разливу нужна Хирья?"</FemaleText>
+      <DefaultText>Действительно, мудро и справедливо. Или он не знает, для чего Разливу нужна Хирья?</DefaultText>
+      <FemaleText>Действительно, мудро и справедливо. Или она не знает, для чего Разливу нужна Хирья?</FemaleText>
     </Entry>
     <Entry>
       <ID>340</ID>
-      <DefaultText>"Я *должен* уважать договоренности. Могу лишь надеяться, что она *получит* по заслугам за содеянное".</DefaultText>
+      <DefaultText>Я *должен* уважать договорённости. Могу лишь надеяться, что она *получит* по заслугам за содеянное.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1711,22 +1711,22 @@
     </Entry>
     <Entry>
       <ID>342</ID>
-      <DefaultText>"Увидеть закат над Пустыней Холода. В последний раз обсудить Скопление с Йигтли..."</DefaultText>
+      <DefaultText>Увидеть закат над Пустыней Холода. В последний раз обсудить Скопление с Йигтли...</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>343</ID>
-      <DefaultText>"Ей может даже казаться, что она невиновна, поскольку потеряла всякую человечность".</DefaultText>
+      <DefaultText>Ей может даже казаться, что она невиновна, поскольку потеряла всякую человечность.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>344</ID>
-      <DefaultText>"*Разумеется*, она так и считает. Все Рыцари убеждены в собственной невиновности".</DefaultText>
+      <DefaultText>*Разумеется*, она так и считает. Все Рыцари убеждены в собственной невиновности.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>345</ID>
-      <DefaultText>"Мои люди погибли от ее рук. От них *разит* предсмертными муками".</DefaultText>
+      <DefaultText>Мои люди погибли от её рук. От них *разит* предсмертными муками.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1736,22 +1736,22 @@
     </Entry>
     <Entry>
       <ID>347</ID>
-      <DefaultText>"Не ври мне, человек".</DefaultText>
+      <DefaultText>Не ври мне, человек.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>348</ID>
-      <DefaultText>"ПОМОГИТЕ----------"</DefaultText>
+      <DefaultText>ПОМОГИТЕ----------</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>349</ID>
-      <DefaultText>"А станет ли от этого лучше? Если бы Врунг попытался все исправить, я бы... ?"</DefaultText>
+      <DefaultText>А станет ли от этого лучше? Если бы Врунг попытался всё исправить, я бы?..</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>350</ID>
-      <DefaultText>"Я *хотел* покончить с собой, но он не позволил. Я даже *в туалет* не мог сходить, пока он не скажет".</DefaultText>
+      <DefaultText>Я *хотел* покончить с собой, но он не позволил. Я даже *в туалет* не мог сходить, пока он не скажет.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1761,93 +1761,93 @@
     </Entry>
     <Entry>
       <ID>352</ID>
-      <DefaultText>"Мне следовало понять это раньше, но мне было так одиноко. Нет! Больше никогда!"</DefaultText>
+      <DefaultText>Мне следовало понять это раньше, но мне было так одиноко. Нет! Больше никогда!</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>353</ID>
-      <DefaultText>"Кем я стану? Что буду делать?"</DefaultText>
+      <DefaultText>Кем я стану? Что буду делать?</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>354</ID>
-      <DefaultText>"Ему нужна помощь? Я сильно обязан ему".</DefaultText>
-      <FemaleText>"Ей нужна помощь? Я сильно обязан ей".</FemaleText>
+      <DefaultText>Ему нужна помощь? Я сильно обязан ему.</DefaultText>
+      <FemaleText>Ей нужна помощь? Я сильно обязан ей.</FemaleText>
     </Entry>
     <Entry>
       <ID>355</ID>
-      <DefaultText>"Никто не заставит меня сделать то, чего я не хочу. Я больше не безвольная игрушка Врунга".</DefaultText>
+      <DefaultText>Никто не заставит меня сделать то, чего я не хочу. Я больше не безвольная игрушка Врунга.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>356</ID>
-      <DefaultText>"Забирай... Но какой ценой, скажи? Пасть не кажется мне *довольной*".</DefaultText>
+      <DefaultText>Забирай... Но какой ценой, интересно? Пасть не кажется мне *довольной*.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>357</ID>
-      <DefaultText>"Неужели я потерял силы?"</DefaultText>
+      <DefaultText>Неужели я потерял силы?</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>358</ID>
-      <DefaultText>"Я уничтожил ее. Ни за что не прощу себя... Но, может, я смогу исправиться в ее глазах?"</DefaultText>
+      <DefaultText>Я уничтожил её. Ни за что не прощу себя, но... может, я смогу исправиться в её глазах?</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>359</ID>
-      <DefaultText>"Как больно! Я больше не вынесу! КЭССИ, ПРОСТИ МЕНЯ!"</DefaultText>
+      <DefaultText>Как больно! Я больше не вынесу! КЭССИ, ПРОСТИ МЕНЯ!</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>360</ID>
-      <DefaultText>"Неважно, погибну я или нет. Я заслужил это".</DefaultText>
+      <DefaultText>Неважно, погибну я или нет. Я заслужил это.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>361</ID>
-      <DefaultText>"Идиот! Почему я уснул? Зачем я обо всем рассказал?"</DefaultText>
+      <DefaultText>Идиот! Почему я уснул? Зачем я обо всём рассказал?</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>362</ID>
-      <DefaultText>"Она мертва. Мертва! Это по твоей вине, Коти. Ты убил ее!"</DefaultText>
+      <DefaultText>Она мертва. Мертва! Это по твоей вине, Коти. Ты убил её!</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>363</ID>
-      <DefaultText>"Новый вкус. Странный. А мне точно поможет? Что ж, есть всего один способ узнать".</DefaultText>
+      <DefaultText>Новый вкус. Странный. А мне точно поможет? Что ж, есть всего один способ узнать.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>364</ID>
-      <DefaultText>"Он возвращается? Немногим удалось. Возможно... Нет, не буду тешить себя надеждой".</DefaultText>
-      <FemaleText>"Она возвращается? Немногим удалось. Возможно... Нет, не буду тешить себя надеждой".</FemaleText>
+      <DefaultText>Он возвращается? Немногим удалось. Возможно... Нет, не буду тешить себя надеждой.</DefaultText>
+      <FemaleText>Она возвращается? Немногим удалось. Возможно... Нет, не буду тешить себя надеждой.</FemaleText>
     </Entry>
     <Entry>
       <ID>365</ID>
-      <DefaultText>"Как... же... больно... Но эта боль ничто в сравнении с той болью, когда я потерял их. Он сказал правду?"</DefaultText>
-      <FemaleText>"Как... же... больно... Но эта боль ничто в сравнении с той болью, когда я потерял их. Она сказала правду?"</FemaleText>
+      <DefaultText>Как... же... больно... Но это ничто в сравнении с той болью, когда я потерял их. Он сказал правду?</DefaultText>
+      <FemaleText>Как... же... больно... Но это ничто в сравнении с той болью, когда я потерял их. Она сказала правду?</FemaleText>
     </Entry>
     <Entry>
       <ID>366</ID>
-      <DefaultText>"Я ВИЖУ! Огни! Тени! Цветение! Никогда еще я не был так рад этому мясистому аду!"</DefaultText>
+      <DefaultText>Я ВИЖУ! Огни! Тени! Цветение! Никогда ещё я не был так рад этому мясистому аду!</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>367</ID>
-      <DefaultText>"Может, он и *впрямь* заинтересован. Это хорошо".</DefaultText>
-      <FemaleText>"Может, она и *впрямь* заинтересована. Это хорошо".</FemaleText>
+      <DefaultText>Может, он и *впрямь* заинтересован. Это хорошо.</DefaultText>
+      <FemaleText>Может, она и *впрямь* заинтересована. Это хорошо.</FemaleText>
     </Entry>
     <Entry>
       <ID>368</ID>
-      <DefaultText>"Оно собирается меня убить. Я сделаю что угодно, чтобы отсюда выбраться, даже если придется убить снова".</DefaultText>
+      <DefaultText>Оно собирается меня убить. Я сделаю что угодно, чтобы отсюда выбраться, даже если придётся убить снова.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>369</ID>
-      <DefaultText>"Он с ума сошел? Как можно *не* бояться этой комнаты?"</DefaultText>
-      <FemaleText>"Она с ума сошла? Как можно *не* бояться этой комнаты?"</FemaleText>
+      <DefaultText>Он с ума сошёл? Как можно *не* бояться этой комнаты?</DefaultText>
+      <FemaleText>Она с ума сошла? Как можно *не* бояться этой комнаты?</FemaleText>
     </Entry>
     <Entry>
       <ID>370</ID>
@@ -1856,17 +1856,17 @@
     </Entry>
     <Entry>
       <ID>371</ID>
-      <DefaultText>"Я защищался от своих псевдодрузей, которые собирались меня убить".</DefaultText>
+      <DefaultText>Я защищался от своих «друзей», которые собирались меня убить.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>372</ID>
-      <DefaultText>"Зачем ему это? Это неважно. *Никто* не заслуживает такой участи, и неважно, что я сделал".</DefaultText>
-      <FemaleText>"Зачем ей это? Это неважно. *Никто* не заслуживает такой участи, и неважно, что я сделал".</FemaleText>
+      <DefaultText>Зачем ему это? Это неважно. *Никто* не заслуживает такой участи, и неважно, что я сделал.</DefaultText>
+      <FemaleText>Зачем ей это? Это неважно. *Никто* не заслуживает такой участи, и неважно, что я сделал.</FemaleText>
     </Entry>
     <Entry>
       <ID>373</ID>
-      <DefaultText>"Ты задаешь опасные вопросы. Помоги уже мне отсюда выбраться!"</DefaultText>
+      <DefaultText>Ты задаёшь опасные вопросы. Помоги уже мне отсюда выбраться!</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1891,7 +1891,7 @@
     </Entry>
     <Entry>
       <ID>378</ID>
-      <DefaultText>"У Зеббака семья в Сагусе. Нужно его вытащить отсюда".</DefaultText>
+      <DefaultText>У Зеббака семья в Сагусе. Нужно его вытащить отсюда.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1901,7 +1901,7 @@
     </Entry>
     <Entry>
       <ID>380</ID>
-      <DefaultText>"Я слышал крики, доносящиеся из дальнего конца коридора. *Для чего* нас тут держат?"</DefaultText>
+      <DefaultText>Я слышал крики, доносящиеся из дальнего конца коридора. *Для чего* нас тут держат?</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1921,117 +1921,117 @@
     </Entry>
     <Entry>
       <ID>384</ID>
-      <DefaultText>"Что бы ни подготовило для меня Цветение, я это заслужил. Да?"</DefaultText>
+      <DefaultText>Что бы ни подготовило для меня Цветение, я это заслужил. Да?</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>385</ID>
-      <DefaultText>"Боги, зачем я спорю? Может, у него для меня найдется не столь зловонная Пасть".</DefaultText>
+      <DefaultText>Боги, зачем я спорю? Может, у него для меня найдётся не столь зловонная Пасть.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>386</ID>
-      <DefaultText>"Нет. Боги, нет!"</DefaultText>
+      <DefaultText>Нет. Боги, нет!</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>387</ID>
-      <DefaultText>"Это для Кэсси. Это лучше, чем то, что она получила от меня".</DefaultText>
+      <DefaultText>Это для Кэсси. Это лучше, чем то, что она получила от меня.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>388</ID>
-      <DefaultText>"Взгляните на господина Высокого и Могущественного! Ничего хорошего от него ждать не стоит. Уж точно не *нам*".</DefaultText>
-      <FemaleText>"Взгляните на госпожу Высокую и Могущественную! Ничего хорошего от нее ждать не стоит. Уж точно не *нам*".</FemaleText>
+      <DefaultText>Взгляните на господина Высокого и Могущественного! Ничего хорошего от него ждать не стоит. Уж точно не *нам*.</DefaultText>
+      <FemaleText>Взгляните на госпожу Высокую и Могущественную! Ничего хорошего от неё ждать не стоит. Уж точно не *нам*.</FemaleText>
     </Entry>
     <Entry>
       <ID>389</ID>
-      <DefaultText>"Цветение прислало мне еще пациентов?"</DefaultText>
+      <DefaultText>Цветение прислало мне ещё пациентов?</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>390</ID>
-      <DefaultText>"Неужели это шанс заразить богачей? Что ж, это хорошо".</DefaultText>
+      <DefaultText>Неужели это шанс заразить богачей? Что ж, это хорошо.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>391</ID>
-      <DefaultText>"Вокруг нас Великий Пожиратель! И он говорит за него!"</DefaultText>
-      <FemaleText>"Вокруг нас Великий Пожиратель! И она говорит за него!"</FemaleText>
+      <DefaultText>Вокруг нас Великий Пожиратель! И он говорит за него!</DefaultText>
+      <FemaleText>Вокруг нас Великий Пожиратель! И она говорит за него!</FemaleText>
     </Entry>
     <Entry>
       <ID>392</ID>
-      <DefaultText>"Моя жизнь никуда не годится. Лучше мне и не жить".</DefaultText>
+      <DefaultText>Моя жизнь никуда не годится. Лучше мне и не жить.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>393</ID>
-      <DefaultText>"Зачем мне прислушиваться к словам *отверженного*? Он проклинал их до самого конца. Почти до конца".</DefaultText>
+      <DefaultText>Зачем мне прислушиваться к словам *отверженного*? Он проклинал их до самого конца. Почти до конца.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>394</ID>
-      <DefaultText>"Что будем делать? Из *меня* плохой командир".</DefaultText>
+      <DefaultText>Что будем делать? Из *меня* плохой командир.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>395</ID>
-      <DefaultText>"*Вот*, такую договоренность я понимаю. Мои люди тоже не хотели бы ничего менять".</DefaultText>
+      <DefaultText>*Вот*, такую договорённость я понимаю. Мои люди тоже не хотели бы ничего менять.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>396</ID>
-      <DefaultText>"Этот отверженный *слаб*. Через пару секунд я покажу ему его печень".</DefaultText>
-      <FemaleText>"Эта отверженная *слаба*. Через пару секунд я покажу ей ее печень".</FemaleText>
+      <DefaultText>Этот отверженный *слаб*. Через пару секунд я покажу ему его печень.</DefaultText>
+      <FemaleText>Эта отверженная *слаба*. Через пару секунд я покажу ей её печень.</FemaleText>
     </Entry>
     <Entry>
       <ID>397</ID>
-      <DefaultText>"Чертовы отверженные никогда о нас не *думают*. Он даже не думает извиниться".</DefaultText>
-      <FemaleText>"Чертовы отверженные никогда о нас не *думают*. Она даже не думает извиниться".</FemaleText>
+      <DefaultText>Чёртовы отверженные никогда о нас не *думают*. Он даже не думает извиниться.</DefaultText>
+      <FemaleText>Чёртовы отверженные никогда о нас не *думают*. Она даже не думает извиниться.</FemaleText>
     </Entry>
     <Entry>
       <ID>398</ID>
-      <DefaultText>"Слабость и потворство. Из отверженных ты или нет, я тебя выпотрошу".</DefaultText>
+      <DefaultText>Слабость и потворство. Из отверженных ты или нет, я тебя выпотрошу.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>399</ID>
-      <DefaultText>"Мне хватает ума не связываться с отверженным, даже несмотря на его репутацию".</DefaultText>
-      <FemaleText>"Мне хватает ума не связываться с отверженной, даже несмотря на ее репутацию".</FemaleText>
+      <DefaultText>Мне хватает ума не связываться с отверженным, даже несмотря на его репутацию.</DefaultText>
+      <FemaleText>Мне хватает ума не связываться с отверженной, даже несмотря на её репутацию.</FemaleText>
     </Entry>
     <Entry>
       <ID>400</ID>
-      <DefaultText>"Все отверженные одинаковые... Будь я проклят, что слушаю!"</DefaultText>
+      <DefaultText>Все отверженные одинаковые... Будь я проклят, что слушаю!</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>401</ID>
-      <DefaultText>"Где бы мне раздобыть еще денег... Ух ты, можно обчистить его".</DefaultText>
-      <FemaleText>"Где бы мне раздобыть еще денег... Ух ты, можно обчистить ее".</FemaleText>
+      <DefaultText>Где бы мне раздобыть ещё денег... Эй, можно обчистить его.</DefaultText>
+      <FemaleText>Где бы мне раздобыть ещё денег... Эй, можно обчистить её.</FemaleText>
     </Entry>
     <Entry>
       <ID>402</ID>
-      <DefaultText>"Надеюсь, у Шин есть новости".</DefaultText>
+      <DefaultText>Надеюсь, у Шин есть новости.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>403</ID>
-      <DefaultText>"Друг мой! Может, у него еще есть?"</DefaultText>
-      <FemaleText>"Друг мой! Может, у нее еще есть?"</FemaleText>
+      <DefaultText>Друг мой! Может, у него ещё есть?</DefaultText>
+      <FemaleText>Друг мой! Может, у неё ещё есть?</FemaleText>
     </Entry>
     <Entry>
       <ID>404</ID>
-      <DefaultText>"Я даже и не думал, что кокософрукт такой сочный..."</DefaultText>
+      <DefaultText>Я даже и не думал, что кокософрукт такой сочный...</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>405</ID>
-      <DefaultText>"Моя семья никогда меня не понимала. Даже не пыталась!"</DefaultText>
+      <DefaultText>Моя семья никогда меня не понимала. Даже не пыталась!</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>406</ID>
-      <DefaultText>"Меня не признавали. Так мне казалось. Благодаря Шин, у меня было несколько семей".</DefaultText>
+      <DefaultText>Меня не признавали. Так мне казалось. Благодаря Шин, у меня было несколько семей.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -2041,12 +2041,12 @@
     </Entry>
     <Entry>
       <ID>408</ID>
-      <DefaultText>"Моя госпожа, я в жизни не был трезвее".</DefaultText>
+      <DefaultText>Моя госпожа, я в жизни не был трезвее.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>409</ID>
-      <DefaultText>"Награда? Для меня? Признаться, я поражен, учитывая то, скольких лиммилов я убил".</DefaultText>
+      <DefaultText>Награда? Для меня? Признаться, я поражён, учитывая скольких лиммилов я убил.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -2056,82 +2056,82 @@
     </Entry>
     <Entry>
       <ID>411</ID>
-      <DefaultText>"Чертов отверженный! Арталио не обрадуется".</DefaultText>
+      <DefaultText>Чёртов отверженный! Арталио не обрадуется.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>412</ID>
-      <DefaultText>"Протекторат". Но для чего он нужен? Явно не для защиты своих странных чудаковатых жителей".</DefaultText>
+      <DefaultText>«Протекторат». Но для чего он нужен? Явно не для защиты своих странных чудаковатых жителей!</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>413</ID>
-      <DefaultText>"Если бы только удалось найти другой пространственный слой! Или сделать его..."</DefaultText>
+      <DefaultText>Если бы только удалось найти другой пространственный слой! Или сделать его...</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>414</ID>
-      <DefaultText>"Итак, мы избежали ареста, в отличие от бедного бастарда Гибра по имени Матак. Что с ним стало, интересно?"</DefaultText>
+      <DefaultText>Итак, мы избежали ареста, в отличие от бедного бастарда Гибра по имени Матак. Что с ним стало, интересно?</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>415</ID>
-      <DefaultText>"Мне интересно, где источник регенерации отверженных. Может, в мозгу? А была бы возможной пересадка?"</DefaultText>
+      <DefaultText>Мне интересно, где источник регенерации отверженных. Может, в мозгу? А была бы возможной пересадка?</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>416</ID>
-      <DefaultText>"Кожа и мышцы пациента №27 не подходят его комплекции, но это поражает еще больше!"</DefaultText>
+      <DefaultText>Кожа и мышцы пациента №27 не подходят его комплекции, но это поражает ещё больше!</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>417</ID>
-      <DefaultText>"Мы вернем дар зрения. Правда, будут побочные эффекты..."</DefaultText>
+      <DefaultText>Мы вернём дар зрения. Правда, будут побочные эффекты...</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>418</ID>
-      <DefaultText>"Одного глаза Обервика должно хватить, но этот отверженный... Нельзя упустить такую возможность".</DefaultText>
+      <DefaultText>Одного глаза Обервика должно хватить, но этот отверженный... Нельзя упустить такую возможность.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>419</ID>
-      <DefaultText>"Я понимаю, к чему клонит доктор Демерай. Из него выйдет *превосходный* подопытный".</DefaultText>
-      <FemaleText>"Я понимаю, к чему клонит доктор Демерай. Из нее выйдет *превосходный* подопытный".</FemaleText>
+      <DefaultText>Я понимаю, к чему клонит доктор Демерай. Из него выйдет *превосходный* подопытный.</DefaultText>
+      <FemaleText>Я понимаю, к чему клонит доктор Демерай. Из неё выйдет *превосходный* подопытный.</FemaleText>
     </Entry>
     <Entry>
       <ID>420</ID>
-      <DefaultText>"Кто-то наиболее близко подобравшийся к бессмертию, возможно".</DefaultText>
+      <DefaultText>Кто-то наиболее близко подобравшийся к бессмертию, возможно.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>421</ID>
-      <DefaultText>"Бок, куда меня ранила Белая Смерть, до сих пор болит. Я думал, она более сговорчива".</DefaultText>
+      <DefaultText>Бок, куда меня ранила Белая Смерть, до сих пор болит. Я думал, она более сговорчива.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>422</ID>
-      <DefaultText>"Что будет, если я сделаю так..."</DefaultText>
+      <DefaultText>Что будет, если я сделаю так...</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>423</ID>
-      <DefaultText>"Рано или поздно, но мне кажется, что он все выяснит".</DefaultText>
-      <FemaleText>"Рано или поздно, но мне кажется, что она все выяснит".</FemaleText>
+      <DefaultText>Рано или поздно, но мне кажется, что он всё выяснит.</DefaultText>
+      <FemaleText>Рано или поздно, но мне кажется, что она всё выяснит.</FemaleText>
     </Entry>
     <Entry>
       <ID>424</ID>
-      <DefaultText>"Наши знания, по меньшей мере".</DefaultText>
+      <DefaultText>Наши знания, по меньшей мере.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>425</ID>
-      <DefaultText>"Довольно часто случается, что один или два подопытных падают без сознания во время драки".</DefaultText>
+      <DefaultText>Довольно часто случается, что один или два подопытных падают без сознания во время драки.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>426</ID>
-      <DefaultText>"А ей *нравится* резать людей, но вовсе не из медицинских соображений".</DefaultText>
+      <DefaultText>А ей *нравится* резать людей, но вовсе не из медицинских соображений.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
