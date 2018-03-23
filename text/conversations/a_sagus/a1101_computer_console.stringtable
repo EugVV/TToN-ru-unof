@@ -8,7 +8,7 @@
       <ID>1</ID>
       <DefaultText>Перед вами угольно-чёрное неприметное приземистое устройство. Как только вы протягиваете руку, чтобы прикоснуться, на его корпусе вспыхивают огоньки в виде треугольника, и в вашем сознании появляются образы.
 
-{SOUND: Optional — we could hear some machine sounds coming to life here, and they could remain in the background throughout the dialogue (until the machine powers down on node 68).}</DefaultText>
+{SOUND: Optional – we could hear some machine sounds coming to life here, and they could remain in the background throughout the dialogue (until the machine powers down on node 68).}</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -144,7 +144,7 @@
 
 Как только вы собираетесь извлечь шипящую деталь из дымящегося устройства, рядом с вмятиной от ноги распахивается лючок и огни прекращают мигать.
 {LOOT}
-{SOUND: Optional — Crunching sound as player kicks and breaks the console.}</DefaultText>
+{SOUND: Optional – Crunching sound as player kicks and breaks the console.}</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -162,7 +162,7 @@
 
 Как только вы собираетесь извлечь интересующую деталь из дымящегося устройства, рядом с вмятиной от ноги распахивается лючок и огни прекращают мигать.
 {LOOT}
-{SOUND: Optional — Crunching sound as player kicks and breaks the console.}</DefaultText>
+{SOUND: Optional – Crunching sound as player kicks and breaks the console.}</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -222,7 +222,7 @@
       <ID>64</ID>
       <DefaultText>::треск::
 
-{SOUND: Optional - Faint machine crackle, but other than this noise, the usual machine sound is not present.}</DefaultText>
+{SOUND: Optional – Faint machine crackle, but other than this noise, the usual machine sound is not present.}</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -297,7 +297,7 @@
 
 "Приказывай", – произносит он самодовольно.
 
-{SOUND: Optional — Air being emitted from the vents of the machine, almost like a sigh.}</DefaultText>
+{SOUND: Optional – Air being emitted from the vents of the machine, almost like a sigh.}</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -316,7 +316,7 @@
       <ID>94</ID>
       <DefaultText>Возмущённый гул доносится из машин интеллекта при осмотре его древнего корпуса.
 
-{SOUND: Optional — Machine noise becomes slightly indignant for this node.}</DefaultText>
+{SOUND: Optional – Machine noise becomes slightly indignant for this node.}</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>

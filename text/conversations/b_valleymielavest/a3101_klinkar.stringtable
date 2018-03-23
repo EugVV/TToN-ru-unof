@@ -246,8 +246,8 @@
     </Entry>
     <Entry>
       <ID>57</ID>
-      <DefaultText>"Он как Инифир", — шепчет она. — "Ему нельзя вредить".</DefaultText>
-      <FemaleText>"Она как Инифир", — шепчет Мосслан. — "Ей нельзя вредить".</FemaleText>
+      <DefaultText>"Он как Инифир", – шепчет она. – "Ему нельзя вредить".</DefaultText>
+      <FemaleText>"Она как Инифир", – шепчет Мосслан. – "Ей нельзя вредить".</FemaleText>
     </Entry>
     <Entry>
       <ID>58</ID>
@@ -262,7 +262,7 @@
     <Entry>
       <ID>60</ID>
       <DefaultText>"Я сдеру с тебя кожу, а затем срежу мясо с костей, и тогда огонь твоей души освободится и пролетит через Бесконечные Врата!"
- {TUSSLE: Start Tussle with Klin'kar, Altil, and Mosslan — if PC wins, set Global b3101_KlinKar_Resolution = 4. If PC is killed, set it to 5 and despawn Klinkar and his two goons. Spawn in Memorialists}</DefaultText>
+ {TUSSLE: Start Tussle with Klin'kar, Altil, and Mosslan – if PC wins, set Global b3101_KlinKar_Resolution = 4. If PC is killed, set it to 5 and despawn Klinkar and his two goons. Spawn in Memorialists}</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -440,7 +440,7 @@
     <Entry>
       <ID>96</ID>
       <DefaultText>"Я сдеру с тебя кожу, а затем срежу мясо с костей, и тогда огонь твоей души освободится и пролетит через Бесконечные Врата!"
- {TUSSLE: Start Tussle with Klin'kar, Altil, and Mosslan — if PC wins, set Global b3101_KlinKar_Resolution = 4. If PC is killed, set it to 5}</DefaultText>
+ {TUSSLE: Start Tussle with Klin'kar, Altil, and Mosslan – if PC wins, set Global b3101_KlinKar_Resolution = 4. If PC is killed, set it to 5}</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -525,7 +525,7 @@
       <DefaultText>"Жаль. Кровь должна пролиться. Неважно чья, пусть даже твоя". 
  
  Они достают оружие и готовятся к атаке.
- {TUSSLE: Start Tussle with Klin'kar, Altil, and Mosslan — if PC wins, set Global b3101_KlinKar_Resolution = 4. If PC is killed, set it to 5}</DefaultText>
+ {TUSSLE: Start Tussle with Klin'kar, Altil, and Mosslan – if PC wins, set Global b3101_KlinKar_Resolution = 4. If PC is killed, set it to 5}</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -644,7 +644,7 @@
     </Entry>
     <Entry>
       <ID>140</ID>
-      <DefaultText>"Это место простирается куда дальше, чем наши знания истории. Путешествовать здесь можно с помощью миннимов — омутов света. Они попарно соединены между собой, хотя находятся в разных частях Долины. Стоит войти в один минним, как появишься в его двойнике". Он задумывается. "Согласно легендам здесь обитают мертвые. Но на самом деле они лишь закопаны под землей. Недавно у нас возникли сложности со входом".</DefaultText>
+      <DefaultText>"Это место простирается куда дальше, чем наши знания истории. Путешествовать здесь можно с помощью миннимов – омутов света. Они попарно соединены между собой, хотя находятся в разных частях Долины. Стоит войти в один минним, как появишься в его двойнике". Он задумывается. "Согласно легендам здесь обитают мертвые. Но на самом деле они лишь закопаны под землей. Недавно у нас возникли сложности со входом".</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -818,7 +818,7 @@
     </Entry>
     <Entry>
       <ID>182</ID>
-      <DefaultText>"Куда это ты направляешься? Отсюда только два выхода. Первый — это найти мемуаристов. А второй..." Он облизывает губы.
+      <DefaultText>"Куда это ты направляешься? Отсюда только два выхода. Первый – это найти мемуаристов. А второй..." Он облизывает губы.
 
 "Что ж, второй путь тебе не понравится. Ты поймешь это сразу, как только попытаешься опять скрыться от меня".</DefaultText>
       <FemaleText />
@@ -880,7 +880,7 @@
     </Entry>
     <Entry>
       <ID>194</ID>
-      <DefaultText>"Ссссс", — тихо и протяжно шипит Оом.</DefaultText>
+      <DefaultText>"Ссссс", – тихо и протяжно шипит Оом.</DefaultText>
       <FemaleText />
     </Entry>
   </Entries>

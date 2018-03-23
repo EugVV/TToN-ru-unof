@@ -176,7 +176,7 @@
     </Entry>
     <Entry>
       <ID>35</ID>
-      <DefaultText>{urgent}"Видишь те клапаны? Проберешься через низ — сможешь попасть внутрь!"</DefaultText>
+      <DefaultText>{urgent}"Видишь те клапаны? Проберешься через низ – сможешь попасть внутрь!"</DefaultText>
       <FemaleText>{urgent}"Ты видела эти клапаны? Пройдешь сквозь них, и ты попадешь внутрь!"</FemaleText>
     </Entry>
     <Entry>
@@ -226,7 +226,7 @@
     </Entry>
     <Entry>
       <ID>45</ID>
-      <DefaultText>"Попробуй добраться до генераторов щита — мы здесь долго не продержимся!"</DefaultText>
+      <DefaultText>"Попробуй добраться до генераторов щита – мы здесь долго не продержимся!"</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -331,7 +331,7 @@
     </Entry>
     <Entry>
       <ID>66</ID>
-      <DefaultText>"Ненавижу применять эти штуки — как будто вытягиваешь воспоминания наружу".</DefaultText>
+      <DefaultText>"Ненавижу применять эти штуки – как будто вытягиваешь воспоминания наружу".</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -391,12 +391,12 @@
     </Entry>
     <Entry>
       <ID>78</ID>
-      <DefaultText>"Этот город — настоящая клоака".</DefaultText>
+      <DefaultText>"Этот город – настоящая клоака".</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>79</ID>
-      <DefaultText>"Ненавижу города — в них слишком людно".</DefaultText>
+      <DefaultText>"Ненавижу города – в них слишком людно".</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -421,7 +421,7 @@
     </Entry>
     <Entry>
       <ID>84</ID>
-      <DefaultText>"Это что — пищевод?"</DefaultText>
+      <DefaultText>"Это что – пищевод?"</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -986,7 +986,7 @@
     </Entry>
     <Entry>
       <ID>197</ID>
-      <DefaultText>"Все эти страдания — от ее гордыни".</DefaultText>
+      <DefaultText>"Все эти страдания – от ее гордыни".</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>

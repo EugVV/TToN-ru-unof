@@ -6,14 +6,14 @@
   <Entries>
     <Entry>
       <ID>1</ID>
-      <DefaultText>Два серебряных гуманоида стоят рядом с небольшим средством передвижения неизвестного происхождения. На их коже — сверкающий металлический покров, в котором мелькают отражения. Благодаря этому они сливаются с окружающим пейзажем, но остаются заметными. Вы приближаетесь, оба поворачивают головы в вашу сторону. У них нет ртов, их глаза непроницаемо темны и ничего не выражают. 
+      <DefaultText>Два серебряных гуманоида стоят рядом с небольшим средством передвижения неизвестного происхождения. На их коже – сверкающий металлический покров, в котором мелькают отражения. Благодаря этому они сливаются с окружающим пейзажем, но остаются заметными. Вы приближаетесь, оба поворачивают головы в вашу сторону. У них нет ртов, их глаза непроницаемо темны и ничего не выражают. 
 
-В памяти всплывает название этих существ — серебряные сироты. Наверно, сами они называют себя не так, но это название использует Орден Истины.</DefaultText>
+В памяти всплывает название этих существ – серебряные сироты. Наверно, сами они называют себя не так, но это название использует Орден Истины.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>2</ID>
-      <DefaultText>Серебряные сироты молча повторяют предыдущие действия — тот, что стоит справа, делает сложную серию жестов, затем тот, что стоит слева, опускается на колени и рисует пояснения на земле.</DefaultText>
+      <DefaultText>Серебряные сироты молча повторяют предыдущие действия – тот, что стоит справа, делает сложную серию жестов, затем тот, что стоит слева, опускается на колени и рисует пояснения на земле.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -90,7 +90,7 @@
       <ID>17</ID>
       <DefaultText>Рассказать сиротам о боге Караван-сарая.
 
-{SCRIPT: Conditional — PC has learned the true nature of the god that protects the abandoned airship.}</DefaultText>
+{SCRIPT: Conditional – PC has learned the true nature of the god that protects the abandoned airship.}</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -320,7 +320,7 @@
       <ID>63</ID>
       <DefaultText>"Я еще ничего не нашел, простите".
 
-{SCRIPT: Only available if the PC actually hasn't found any — will require an additional condition if the Peerless are implemented and if the PC can discover the true nature of the god of the Caravanserai.}</DefaultText>
+{SCRIPT: Only available if the PC actually hasn't found any – will require an additional condition if the Peerless are implemented and if the PC can discover the true nature of the god of the Caravanserai.}</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -330,7 +330,7 @@
     </Entry>
     <Entry>
       <ID>65</ID>
-      <DefaultText>"Неужели?" — бормочет Каллистеж. — "Что будет с теми интеллектами, если ты их доставишь?" Серебряные сироты не реагируют на ее слова.</DefaultText>
+      <DefaultText>"Неужели?" – бормочет Каллистеж. – "Что будет с теми интеллектами, если ты их доставишь?" Серебряные сироты не реагируют на ее слова.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>

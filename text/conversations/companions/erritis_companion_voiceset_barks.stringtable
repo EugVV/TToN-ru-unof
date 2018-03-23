@@ -136,7 +136,7 @@
     </Entry>
     <Entry>
       <ID>27</ID>
-      <DefaultText>"Как странно — как будто моя атака не имела никакой силы. *Вообще*".</DefaultText>
+      <DefaultText>"Как странно – как будто моя атака не имела никакой силы. *Вообще*".</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -206,7 +206,7 @@
     </Entry>
     <Entry>
       <ID>41</ID>
-      <DefaultText>"По моему опыту, злодей, у которого в руках есть некая штука — опасный злодей.{happy gasp} Возможно, он пытается уничтожить мир!"</DefaultText>
+      <DefaultText>"По моему опыту, злодей, у которого в руках есть некая штука – опасный злодей.{happy gasp} Возможно, он пытается уничтожить мир!"</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -341,7 +341,7 @@
     </Entry>
     <Entry>
       <ID>68</ID>
-      <DefaultText>"У славы есть новое имя — Эрритис!"</DefaultText>
+      <DefaultText>"У славы есть новое имя – Эрритис!"</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -516,7 +516,7 @@
     </Entry>
     <Entry>
       <ID>103</ID>
-      <DefaultText>{Impatient}"Возвращайся поскорее — так скучно, когда ты умираешь."</DefaultText>
+      <DefaultText>{Impatient}"Возвращайся поскорее – так скучно, когда ты умираешь."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>

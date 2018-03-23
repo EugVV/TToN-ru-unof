@@ -1211,12 +1211,12 @@
     </Entry>
     <Entry>
       <ID>241</ID>
-      <DefaultText>Разбойник — мужчина — NP065</DefaultText>
+      <DefaultText>Разбойник – мужчина – NP065</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>242</ID>
-      <DefaultText>Ласкар — женщина — NP004</DefaultText>
+      <DefaultText>Ласкар – женщина – NP004</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1631,7 +1631,7 @@
     </Entry>
     <Entry>
       <ID>325</ID>
-      <DefaultText>Разбойник — женщина — NP065</DefaultText>
+      <DefaultText>Разбойник – женщина – NP065</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -2161,12 +2161,12 @@
     </Entry>
     <Entry>
       <ID>431</ID>
-      <DefaultText>Горожанин Джербоа — мужчина — NP015</DefaultText>
+      <DefaultText>Горожанин Джербоа – мужчина – NP015</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>432</ID>
-      <DefaultText>Горожанин Джербоа — только женщина — NP015</DefaultText>
+      <DefaultText>Горожанин Джербоа – только женщина – NP015</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -2176,7 +2176,7 @@
     </Entry>
     <Entry>
       <ID>434</ID>
-      <DefaultText>Торговец из Джербоа — только женщина — NP016</DefaultText>
+      <DefaultText>Торговец из Джербоа – только женщина – NP016</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -2591,12 +2591,12 @@
     </Entry>
     <Entry>
       <ID>517</ID>
-      <DefaultText>Стандартное одеяние — мужское — NP045</DefaultText>
+      <DefaultText>Стандартное одеяние – мужское – NP045</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>518</ID>
-      <DefaultText>Стандартное одеяние — женское — NP045</DefaultText>
+      <DefaultText>Стандартное одеяние – женское – NP045</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
