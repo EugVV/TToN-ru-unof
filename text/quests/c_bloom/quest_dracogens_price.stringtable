@@ -107,7 +107,7 @@
     <Entry>
       <ID>20002</ID>
       <DefaultText>Дракоген согласился взять навигационный кортекс вместо аннулета.</DefaultText>
-      <FemaleText>Дракоген согласилась взять навигационный кортекс вместо аннулета.</FemaleText>
+      <FemaleText />
     </Entry>
   </Entries>
 </StringTableFile>
