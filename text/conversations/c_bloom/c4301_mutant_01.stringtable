@@ -12,12 +12,12 @@
     <Entry>
       <ID>1</ID>
       <DefaultText>"Что ты здесь*делаешь*, человек? Малый Нилиш – не место для тебя".</DefaultText>
-      <FemaleText>"Что ты здесь*делаешь*, человек? Малый Нилиш – не место для тебя".</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>2</ID>
       <DefaultText>"Не смотри на меня так, человек. Если не хочешь сильно заболеть".</DefaultText>
-      <FemaleText>"Не смотри на меня так, человек. Если не хочешь сильно заболеть".</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>3</ID>
