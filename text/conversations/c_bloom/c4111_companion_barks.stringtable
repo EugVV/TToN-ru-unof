@@ -7,12 +7,12 @@
     <Entry>
       <ID>1</ID>
       <DefaultText>"Что ж, а теперь... еще... больше. А вот и очередной караван!"</DefaultText>
-      <FemaleText>"Что ж, а теперь... еще... больше. А вот и очередной караван!"</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>3</ID>
       <DefaultText>"Похоже, это место нужно почесать. Или же, наоборот, его слишком часто чешут".</DefaultText>
-      <FemaleText>"Похоже, это место нужно почесать. Или же, наоборот, его слишком часто чешут".</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>4</ID>
@@ -26,13 +26,13 @@
     </Entry>
     <Entry>
       <ID>6</ID>
-      <DefaultText>"Все... все переменилось. Что случилось с...?"</DefaultText>
-      <FemaleText>"Все... все переменилось. Что случилось с...?"</FemaleText>
+      <DefaultText>"Всё... всё переменилось. Что случилось с?.."</DefaultText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>7</ID>
       <DefaultText>"О. вижу, Цветение снова атакует".</DefaultText>
-      <FemaleText>"О. вижу, Цветение снова атакует".</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>8</ID>
@@ -62,12 +62,12 @@
     <Entry>
       <ID>13</ID>
       <DefaultText>"Только взгляните на эти гневные комментарии".</DefaultText>
-      <FemaleText>"Только взгляните на эти гневные комментарии".</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>14</ID>
       <DefaultText>"У тех, кто это пишет, должно быть, слишком много свободного времени".</DefaultText>
-      <FemaleText>"У тех, кто это пишет, должно быть, слишком много свободного времени".</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>15</ID>
@@ -77,12 +77,12 @@
     <Entry>
       <ID>16</ID>
       <DefaultText>"Вот за что я не люблю Цветение. Вечно оно изменяется".</DefaultText>
-      <FemaleText>"Вот за что я не люблю Цветение. Вечно оно изменяется".</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>17</ID>
       <DefaultText>"Что, если мы уже здесь были?"</DefaultText>
-      <FemaleText>"Что, если мы уже здесь были?"</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>18</ID>
@@ -102,7 +102,7 @@
     <Entry>
       <ID>21</ID>
       <DefaultText>"Похоже, Цветение за это ударило ее в лицо. Не терпит соперничества".</DefaultText>
-      <FemaleText>"Похоже, Цветение за это ударило ее в лицо. Не терпит соперничества".</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>22</ID>
@@ -112,12 +112,12 @@
     <Entry>
       <ID>23</ID>
       <DefaultText>"Военные. Их форма мне незнакома".</DefaultText>
-      <FemaleText>"Военные. Их форма мне незнакома".</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>24</ID>
       <DefaultText>"Точно не местные, как пить дать".</DefaultText>
-      <FemaleText>"Точно не местные, как пить дать".</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>25</ID>
@@ -132,7 +132,7 @@
     <Entry>
       <ID>27</ID>
       <DefaultText>"Что за придурки?"</DefaultText>
-      <FemaleText>"Что за придурки?"</FemaleText>
+      <FemaleText />
     </Entry>
   </Entries>
 </StringTableFile>

@@ -12,7 +12,7 @@
     <Entry>
       <ID>1</ID>
       <DefaultText>"Перед тобой Его Благородная Милость, Гар-кото. Следи за языком и сохранишь его".</DefaultText>
-      <FemaleText>"Перед тобой Его Благородная Милость, Гар-кото. Следи за языком и сохранишь его".</FemaleText>
+      <FemaleText />
     </Entry>
   </Entries>
 </StringTableFile>
