@@ -7,17 +7,17 @@
     <Entry>
       <ID>1</ID>
       <DefaultText>"Эй ты! Я пришел сражаться".</DefaultText>
-      <FemaleText>"Эй ты! Я пришел сражаться".</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>2</ID>
       <DefaultText>Ждущий Жертву бегло осматривает человека и произносит: "ВЫЗОВ ПРИНЯТ".</DefaultText>
-      <FemaleText>Ждущий Жертву бегло осматривает человека и произносит: "ВЫЗОВ ПРИНЯТ".</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>3</ID>
       <DefaultText>"ВЫХОД НА АРЕНУ ЧЕРЕЗ 3, 2, 1..."</DefaultText>
-      <FemaleText>"ВЫХОД НА АРЕНУ ЧЕРЕЗ 3, 2, 1..."</FemaleText>
+      <FemaleText />
     </Entry>
   </Entries>
 </StringTableFile>
