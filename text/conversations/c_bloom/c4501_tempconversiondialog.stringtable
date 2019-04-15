@@ -7,27 +7,27 @@
     <Entry>
       <ID>1</ID>
       <DefaultText>[Memovira's Follower]</DefaultText>
-      <FemaleText>[Memovira's Follower]</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>2</ID>
       <DefaultText>[Convert to your Side]</DefaultText>
-      <FemaleText>[Convert to your Side]</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>3</ID>
       <DefaultText>[оставлять]</DefaultText>
-      <FemaleText>[оставлять]</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>5</ID>
       <DefaultText>[Успех]</DefaultText>
-      <FemaleText>[Успех]</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>6</ID>
       <DefaultText>[Провал]</DefaultText>
-      <FemaleText>[Провал]</FemaleText>
+      <FemaleText />
     </Entry>
   </Entries>
 </StringTableFile>
