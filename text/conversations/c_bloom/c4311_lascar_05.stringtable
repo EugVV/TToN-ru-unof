@@ -7,17 +7,17 @@
     <Entry>
       <ID>1</ID>
       <DefaultText>"Умный ты, да? Не для посетителей".</DefaultText>
-      <FemaleText>"Умный ты, да? Не для посетителей".</FemaleText>
+      <FemaleText>"Умная ты, да? Не для посетителей".</FemaleText>
     </Entry>
     <Entry>
       <ID>2</ID>
       <DefaultText>"Не посещать место. Капитан для тебя. Иди".</DefaultText>
-      <FemaleText>"Не посещать место. Капитан для тебя. Иди".</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>3</ID>
       <DefaultText>"Мы работаем, правильно. Не говорить-болтать. Про-ще вай".</DefaultText>
-      <FemaleText>"Мы работаем, правильно. Не говорить-болтать. Про-ще вай".</FemaleText>
+      <FemaleText />
     </Entry>
   </Entries>
 </StringTableFile>

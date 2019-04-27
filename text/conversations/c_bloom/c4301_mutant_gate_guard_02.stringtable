@@ -12,12 +12,12 @@
     <Entry>
       <ID>1</ID>
       <DefaultText>[If any more of the Memovira's people come in here, nobody's going to stop me from killing them (or something like that).]</DefaultText>
-      <FemaleText>[If any more of the Memovira's people come in here, nobody's going to stop me from killing them (or something like that).]</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>2</ID>
       <DefaultText>[He sure hopes more of the Memovira's guards come looking for their dead friends.]</DefaultText>
-      <FemaleText>[He sure hopes more of the Memovira's guards come looking for their dead friends.]</FemaleText>
+      <FemaleText />
     </Entry>
   </Entries>
 </StringTableFile>
