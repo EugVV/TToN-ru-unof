@@ -17,12 +17,12 @@
     <Entry>
       <ID>3</ID>
       <DefaultText>"Насколько, по-твоему, мы понимаем что именно игрушка может против нас сделать?"</DefaultText>
-      <FemaleText>"Насколько, по-твоему, мы понимаем что именно игрушка может против нас сделать?"</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>4</ID>
       <DefaultText>"Кто хочет поспорить?"</DefaultText>
-      <FemaleText>"Кто хочет поспорить?"</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>5</ID>
@@ -37,7 +37,7 @@
     <Entry>
       <ID>7</ID>
       <DefaultText>"Я весьма недурно умею болтать без умолку, но..."</DefaultText>
-      <FemaleText>"Я весьма недурно умею болтать без умолку, но..."</FemaleText>
+      <FemaleText />
     </Entry>
   </Entries>
 </StringTableFile>
