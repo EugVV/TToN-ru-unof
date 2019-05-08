@@ -6,27 +6,27 @@
   <Entries>
     <Entry>
       <ID>1</ID>
-      <DefaultText>"Алчный человек всегда испытывает нужду".</DefaultText>
-      <FemaleText>"Алчный человек всегда испытывает нужду".</FemaleText>
+      <DefaultText>"Алчный всегда испытывает нужду".</DefaultText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>2</ID>
-      <DefaultText>"Странно, но я больше не испытываю ненависти к глупости, которая читается на твоем лице. Лучше сосредоточиться на других, более серьезных вопросах".</DefaultText>
-      <FemaleText>"Странно, но я больше не испытываю ненависти к глупости, которая читается на твоем лице. Лучше сосредоточиться на других, более серьезных вопросах".</FemaleText>
+      <DefaultText>"Странно, но я больше не испытываю ненависти к глупости, которая читается на твоём лице. Лучше сосредоточиться на других, более серьёзных вопросах".</DefaultText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>3</ID>
-      <DefaultText>"Пусть покой начнется с меня".</DefaultText>
-      <FemaleText>"Пусть покой начнется с меня".</FemaleText>
+      <DefaultText>"Пусть покой начнётся с меня".</DefaultText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>4</ID>
       <DefaultText>"Любовь к шинам – вот корень всех зол".</DefaultText>
-      <FemaleText>"Любовь к шинам – вот корень всех зол".</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>5</ID>
-      <DefaultText />
+      <DefaultText>Script Node 5</DefaultText>
       <FemaleText />
     </Entry>
   </Entries>
