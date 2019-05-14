@@ -7,17 +7,17 @@
     <Entry>
       <ID>1</ID>
       <DefaultText>"Нужно разбить здесь лагерь. Или открыть нашу собственную торговую точку!"</DefaultText>
-      <FemaleText>"Нужно разбить здесь лагерь. Или открыть нашу собственную торговую точку!"</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>2</ID>
       <DefaultText>"Напомни рассказать тебе историю о Дворе Бесчисленных Возвращений. Он начинается здесь и заканчивается тоже здесь".</DefaultText>
-      <FemaleText>"Напомни рассказать тебе историю о Дворе Бесчисленных Возвращений. Он начинается здесь и заканчивается тоже здесь".</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>4</ID>
       <DefaultText>{Huffy, to himself}"Интересно, Дракоген все еще здесь? И прежний ли характер... Хм".</DefaultText>
-      <FemaleText>{Huffy, to himself}"Интересно, Дракоген все еще здесь? И прежний ли характер... Хм".</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>6</ID>
@@ -32,7 +32,7 @@
     <Entry>
       <ID>8</ID>
       <DefaultText>{Grumbles}"Взгляните на Дракогена. Весь такой важный и гордый. Важный, гордый и высокий".</DefaultText>
-      <FemaleText>{Grumbles}"Взгляните на Дракогена. Весь такой важный и гордый. Важный, гордый и высокий".</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>9</ID>
@@ -52,17 +52,17 @@
     <Entry>
       <ID>14</ID>
       <DefaultText>"К этому запаху невозможно привыкнуть".</DefaultText>
-      <FemaleText>"К этому запаху невозможно привыкнуть".</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>15</ID>
       <DefaultText>"Каждый раз, когда я его чувствую, на ум приходит лишь одно слово".</DefaultText>
-      <FemaleText>"Каждый раз, когда я его чувствую, на ум приходит лишь одно слово".</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>17</ID>
       <DefaultText>"Снова здесь. Прекрасно".</DefaultText>
-      <FemaleText>"Снова здесь. Прекрасно".</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>21</ID>
@@ -82,7 +82,7 @@
     <Entry>
       <ID>26</ID>
       <DefaultText>"Я однажды катался на этой штуке. Аж до Сада Имиду доехал".</DefaultText>
-      <FemaleText>"Я однажды катался на этой штуке. Аж до Сада Имиду доехал".</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>28</ID>
@@ -97,7 +97,7 @@
     <Entry>
       <ID>30</ID>
       <DefaultText>"Скорее всего, все ценное в катене забрали еще до нас..."</DefaultText>
-      <FemaleText>"Скорее всего, все ценное в катене забрали еще до нас..."</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>31</ID>
@@ -117,12 +117,12 @@
     <Entry>
       <ID>41</ID>
       <DefaultText>"Если надумаете что-нибудь купить, позовите. Флинт все равно мне должен. Мы с вами договоримся".</DefaultText>
-      <FemaleText>"Если надумаете что-нибудь купить, позовите. Флинт все равно мне должен. Мы с вами договоримся".</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>42</ID>
       <DefaultText>"Это место сохранилось получше, чем ваш Лагерь Отверженных".</DefaultText>
-      <FemaleText>"Это место сохранилось получше, чем ваш Лагерь Отверженных".</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>43</ID>
@@ -132,7 +132,7 @@
     <Entry>
       <ID>44</ID>
       <DefaultText>"Отличная посадка! Капитан так легко раскрыл стены Цветения!"</DefaultText>
-      <FemaleText>"Отличная посадка! Капитан так легко раскрыл стены Цветения!"</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>45</ID>
@@ -142,7 +142,7 @@
     <Entry>
       <ID>46</ID>
       <DefaultText>"Как думаете, что это за часть корабля? Нос, может быть? Или корма, похожая на нос?"</DefaultText>
-      <FemaleText>"Как думаете, что это за часть корабля? Нос, может быть? Или корма, похожая на нос?"</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>48</ID>
@@ -152,7 +152,7 @@
     <Entry>
       <ID>49</ID>
       <DefaultText>"Дураки. Если бы так не стремились к славе, не попали бы в плен".</DefaultText>
-      <FemaleText>"Дураки. Если бы так не стремились к славе, не попали бы в плен".</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>50</ID>
@@ -162,7 +162,7 @@
     <Entry>
       <ID>51</ID>
       <DefaultText>"Отойди от машины-убийцы, братишка, если не хочешь пополнить коллекцию шрамов".</DefaultText>
-      <FemaleText>"Отойди от машины-убийцы, братишка, если не хочешь пополнить коллекцию шрамов".</FemaleText>
+      <FemaleText>"Отойди от машины-убийцы, сестрёнка, если не хочешь пополнить коллекцию шрамов".</FemaleText>
     </Entry>
     <Entry>
       <ID>52</ID>
@@ -177,7 +177,7 @@
     <Entry>
       <ID>54</ID>
       <DefaultText>"Пожалуй, этот вход в Цветение самый противный".</DefaultText>
-      <FemaleText>"Пожалуй, этот вход в Цветение самый противный".</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>55</ID>
@@ -192,12 +192,12 @@
     <Entry>
       <ID>57</ID>
       <DefaultText>"Эй. ненавижу анинов. Ужасно выглядят. Ужасно себя ведут. И пахнут тоже ужасно. Мерзость".</DefaultText>
-      <FemaleText>"Эй. ненавижу анинов. Ужасно выглядят. Ужасно себя ведут. И пахнут тоже ужасно. Мерзость".</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>58</ID>
       <DefaultText>"Сфинктер".</DefaultText>
-      <FemaleText>"Сфинктер".</FemaleText>
+      <FemaleText />
     </Entry>
   </Entries>
 </StringTableFile>

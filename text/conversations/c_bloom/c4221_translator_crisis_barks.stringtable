@@ -12,22 +12,22 @@
     <Entry>
       <ID>2</ID>
       <DefaultText>"Ох!"</DefaultText>
-      <FemaleText>"Ох!"</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>3</ID>
       <DefaultText>"Ах!"</DefaultText>
-      <FemaleText>"Ах!"</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>4</ID>
       <DefaultText>"Ух!"</DefaultText>
-      <FemaleText>"Ух!"</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>5</ID>
       <DefaultText>"Эх!"</DefaultText>
-      <FemaleText>"Эх!"</FemaleText>
+      <FemaleText />
     </Entry>
   </Entries>
 </StringTableFile>
