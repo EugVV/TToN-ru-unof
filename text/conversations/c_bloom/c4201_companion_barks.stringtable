@@ -7,17 +7,17 @@
     <Entry>
       <ID>1</ID>
       <DefaultText>"Кристаллы. Я ненавижу кристаллы, всегда острые и мешаются под ногами. Они выглядят так, будто им здесь не место..."</DefaultText>
-      <FemaleText>"Кристаллы. Я ненавижу кристаллы, всегда острые и мешаются под ногами. Они выглядят так, будто им здесь не место..."</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>2</ID>
       <DefaultText>"...видимо, они всех уже поубивали..."</DefaultText>
-      <FemaleText>"...видимо, они всех уже поубивали..."</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>3</ID>
       <DefaultText>"...о боже, это те языки?!"</DefaultText>
-      <FemaleText>"...о боже, это те языки?!"</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>4</ID>
@@ -32,22 +32,22 @@
     <Entry>
       <ID>6</ID>
       <DefaultText>"В этом месте сейчас не лучшие времена".</DefaultText>
-      <FemaleText>"В этом месте сейчас не лучшие времена".</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>7</ID>
-      <DefaultText>"По крайней мере, оно все еще существует".</DefaultText>
-      <FemaleText>"По крайней мере, оно все еще существует".</FemaleText>
+      <DefaultText>"По крайней мере оно всё ещё существует".</DefaultText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>8</ID>
       <DefaultText>"Положи в карман несколько кристаллических осколков".</DefaultText>
-      <FemaleText>"Положи в карман несколько кристаллических осколков".</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>9</ID>
       <DefaultText>"Удивительно, что люди в Сагусе готовы заплатить за них, если им сказать, что они вылечат их люмбаго".</DefaultText>
-      <FemaleText>"Удивительно, что люди в Сагусе готовы заплатить за них, если им сказать, что они вылечат их люмбаго".</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>10</ID>

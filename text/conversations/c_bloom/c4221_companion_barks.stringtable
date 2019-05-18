@@ -7,12 +7,12 @@
     <Entry>
       <ID>1</ID>
       <DefaultText>"Воняет мерденами. *Терпеть не могу* мерденов".</DefaultText>
-      <FemaleText>"Воняет мерденами. *Терпеть не могу* мерденов".</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>2</ID>
-      <DefaultText>"Нет ничего лучше, чем убийство мердена. Их настоящее *имя* подсказывает, что мы должны с ними сделать".</DefaultText>
-      <FemaleText>"Нет ничего лучше, чем убийство мердена. Их настоящее *имя* подсказывает, что мы должны с ними сделать".</FemaleText>
+      <DefaultText>"Нет ничего лучше, чем убийство мердена. Само их *имя* подсказывает, что мы должны с ними сделать".</DefaultText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>3</ID>
@@ -32,12 +32,12 @@
     <Entry>
       <ID>6</ID>
       <DefaultText>"Мердены. Тьфу".</DefaultText>
-      <FemaleText>"Мердены. Тьфу".</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>7</ID>
-      <DefaultText>"Не хочу иметь с ними дела. Еще сожгут мозги".</DefaultText>
-      <FemaleText>"Не хочу иметь с ними дела. Еще сожгут мозги".</FemaleText>
+      <DefaultText>"Не хочу иметь с ними дел. Ещё сожгут мозги".</DefaultText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>8</ID>
@@ -57,12 +57,12 @@
     <Entry>
       <ID>11</ID>
       <DefaultText>"Нужно отмыться от этой грязи".</DefaultText>
-      <FemaleText>"Нужно отмыться от этой грязи".</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>12</ID>
       <DefaultText>"Здесь нечего искать, кроме дрита и смертельной опасности".</DefaultText>
-      <FemaleText>"Здесь нечего искать, кроме дрита и смертельной опасности".</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>13</ID>
@@ -77,17 +77,17 @@
     <Entry>
       <ID>15</ID>
       <DefaultText>"Приятель, даже если мердены его выбросили, стоит ли оно того, чтобы спускаться?"</DefaultText>
-      <FemaleText>"Приятель, даже если мердены его выбросили, стоит ли оно того, чтобы спускаться?"</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>16</ID>
       <DefaultText>"Боги, ну и вонь! Да Цветение по сравнению с этим просто благоухает!"</DefaultText>
-      <FemaleText>"Боги, ну и вонь! Да Цветение по сравнению с этим просто благоухает!"</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>17</ID>
       <DefaultText>"Не верь мерденам".</DefaultText>
-      <FemaleText>"Не верь мерденам".</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>18</ID>
@@ -102,12 +102,12 @@
     <Entry>
       <ID>20</ID>
       <DefaultText>"Что ж, это раскрывает тайну. Браска будет недовольна".</DefaultText>
-      <FemaleText>"Что ж, это раскрывает тайну. Браска будет недовольна".</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>21</ID>
       <DefaultText>"Держитесь подальше от моего разума, мерзкие развратники".</DefaultText>
-      <FemaleText>"Держитесь подальше от моего разума, мерзкие развратники".</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>22</ID>
@@ -122,7 +122,7 @@
     <Entry>
       <ID>24</ID>
       <DefaultText>"Могу поклясться, что там были мердены".</DefaultText>
-      <FemaleText>"Могу поклясться, что там были мердены".</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>25</ID>
@@ -137,7 +137,7 @@
     <Entry>
       <ID>27</ID>
       <DefaultText>"Отправлять людей на смерть в засаду к мерденам – это сложно назвать доблестью".</DefaultText>
-      <FemaleText>"Отправлять людей на смерть в засаду к мерденам – это сложно назвать доблестью".</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>28</ID>
@@ -152,7 +152,7 @@
     <Entry>
       <ID>30</ID>
       <DefaultText>"Спасти незнакомца от смерти, закрыв в темном подземелье? Очень по-геройски".</DefaultText>
-      <FemaleText>"Спасти незнакомца от смерти, закрыв в темном подземелье? Очень по-геройски".</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>31</ID>
@@ -192,37 +192,37 @@
     <Entry>
       <ID>38</ID>
       <DefaultText>"Благодаря тебе они считают, что путь безопасен? Но ты же *знаешь*, что мердены еще живы?"</DefaultText>
-      <FemaleText>"Благодаря тебе они считают, что путь безопасен? Но ты же *знаешь*, что мердены еще живы?"</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>39</ID>
       <DefaultText>"Не знаю, что у тебя за план, но думаю, ты в курсе, что мердены по-прежнему патрулируют коридоры".</DefaultText>
-      <FemaleText>"Не знаю, что у тебя за план, но думаю, ты в курсе, что мердены по-прежнему патрулируют коридоры".</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>40</ID>
       <DefaultText>"Твоему хладнокровию мог бы позавидовать наш создатель. Эти стражники попадут прямиком в засаду!"</DefaultText>
-      <FemaleText>"Твоему хладнокровию мог бы позавидовать наш создатель. Эти стражники попадут прямиком в засаду!"</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>41</ID>
       <DefaultText>"Оом?"</DefaultText>
-      <FemaleText>"Оом?"</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>42</ID>
       <DefaultText>"Стойте! Ты снова отправляешь бедных стражников в засаду?"</DefaultText>
-      <FemaleText>"Стойте! Ты снова отправляешь бедных стражников в засаду?"</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>43</ID>
       <DefaultText>"Стражники Мемовиры должны понять, что спасение есть ложь".</DefaultText>
-      <FemaleText>"Стражники Мемовиры должны понять, что спасение есть ложь".</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>44</ID>
       <DefaultText>"Это нечестная игра, приятель. Ты мог хотя бы предупредить их".</DefaultText>
-      <FemaleText>"Это нечестная игра, приятель. Ты мог хотя бы предупредить их".</FemaleText>
+      <FemaleText>"Это нечестная игра, подруга. Ты могла хотя бы предупредить их".</FemaleText>
     </Entry>
     <Entry>
       <ID>45</ID>
@@ -262,37 +262,37 @@
     <Entry>
       <ID>52</ID>
       <DefaultText>"Конечно, так они умрут быстрее, чем могло бы быть, но мне всегда казалось, что ты выше этого".</DefaultText>
-      <FemaleText>"Конечно, так они умрут быстрее, чем могло бы быть, но мне всегда казалось, что ты выше этого".</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>53</ID>
       <DefaultText>"Меня удивляет твое хладнокровие".</DefaultText>
-      <FemaleText>"Меня удивляет твое хладнокровие".</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>54</ID>
       <DefaultText>"Без толку оплакивать мертвых. Давайте уже делать то, для чего пришли, и валим отсюда".</DefaultText>
-      <FemaleText>"Без толку оплакивать мертвых. Давайте уже делать то, для чего пришли, и валим отсюда".</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>55</ID>
       <DefaultText>"Ага".</DefaultText>
-      <FemaleText>"Ага".</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>56</ID>
       <DefaultText>"Зачем нужно было врать стражникам? Они не заслужили такой смерти".</DefaultText>
-      <FemaleText>"Зачем нужно было врать стражникам? Они не заслужили такой смерти".</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>57</ID>
       <DefaultText>"Это именно та смерть, которой они достойны. Я помню их лица. Как раз этого они и заслужили".</DefaultText>
-      <FemaleText>"Это именно та смерть, которой они достойны. Я помню их лица. Как раз этого они и заслужили".</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>58</ID>
       <DefaultText>"Наглядный пример того, что не стоит верить незнакомым людям".</DefaultText>
-      <FemaleText>"Наглядный пример того, что не стоит верить незнакомым людям".</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>59</ID>
@@ -332,37 +332,37 @@
     <Entry>
       <ID>66</ID>
       <DefaultText>"Не скажу, что меня волнует судьба стражников, но попасть домой им будет нелегко".</DefaultText>
-      <FemaleText>"Не скажу, что меня волнует судьба стражников, но попасть домой им будет нелегко".</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>67</ID>
       <DefaultText>"Не думаю, что они доберутся домой живыми. С такой-то доверчивостью".</DefaultText>
-      <FemaleText>"Не думаю, что они доберутся домой живыми. С такой-то доверчивостью".</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>68</ID>
-      <DefaultText>"Может, Мемовира, наконец, осознает, что Цветение не признает ее власти".</DefaultText>
-      <FemaleText>"Может, Мемовира, наконец, осознает, что Цветение не признает ее власти".</FemaleText>
+      <DefaultText>"Может, Мемовира, наконец осознает, что Цветение не признаёт её власти".</DefaultText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>69</ID>
       <DefaultText>"Оом!"</DefaultText>
-      <FemaleText>"Оом!"</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>70</ID>
       <DefaultText>"Надеюсь, они найдут дорогу домой, если выберутся отсюда живыми".</DefaultText>
-      <FemaleText>"Надеюсь, они найдут дорогу домой, если выберутся отсюда живыми".</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>71</ID>
       <DefaultText>"Надеюсь, мы не пожалеем о том, что спасли их".</DefaultText>
-      <FemaleText>"Надеюсь, мы не пожалеем о том, что спасли их".</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>72</ID>
       <DefaultText>"Молодец. Благодаря этому мы можем рассчитывать на расположение Мемовиры. Помяни мое слово".</DefaultText>
-      <FemaleText>"Молодец. Благодаря этому мы можем рассчитывать на расположение Мемовиры. Помяни мое слово".</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>73</ID>
@@ -412,42 +412,42 @@
     <Entry>
       <ID>82</ID>
       <DefaultText>"Хороший парень. ... Но я ему не доверяю".</DefaultText>
-      <FemaleText>"Хороший парень. ... Но я ему не доверяю".</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>83</ID>
-      <DefaultText>"Он боится чего-то, но молчит об этом".</DefaultText>
-      <FemaleText>"Он боится чего-то, но молчит об этом".</FemaleText>
+      <DefaultText>"Он чего-то боится, но помалкивает об этом".</DefaultText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>84</ID>
       <DefaultText>"Спасайся! Ищи новую жизнь! Живи счастливо и добродетельно! Конечно, если добродетельная жизнь – самый правильный выбор".</DefaultText>
-      <FemaleText>"Спасайся! Ищи новую жизнь! Живи счастливо и добродетельно! Конечно, если добродетельная жизнь – самый правильный выбор".</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>85</ID>
       <DefaultText>"Он был бесстрашным человеком. Что могло его так напугать?"</DefaultText>
-      <FemaleText>"Он был бесстрашным человеком. Что могло его так напугать?"</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>86</ID>
       <DefaultText>"А-га".</DefaultText>
-      <FemaleText>"А-га".</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>87</ID>
       <DefaultText>"Удачного тебе дня, тощий!"</DefaultText>
-      <FemaleText>"Удачного тебе дня, тощий!"</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>88</ID>
       <DefaultText>"В этой комнате есть что-то зловещее и могущественное. Будьте осторожны".</DefaultText>
-      <FemaleText>"В этой комнате есть что-то зловещее и могущественное. Будьте осторожны".</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>89</ID>
       <DefaultText>"Не хотел говорить об этом раньше, но он мне кого-то очень сильно напоминает..."</DefaultText>
-      <FemaleText>"Не хотел говорить об этом раньше, но он мне кого-то очень сильно напоминает..."</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>90</ID>
@@ -497,42 +497,42 @@
     <Entry>
       <ID>99</ID>
       <DefaultText>"Тебя трудно убить, отверженный. Тебе повезло, что твоя маленькая хитрость сработала".</DefaultText>
-      <FemaleText>"Тебя трудно убить, отверженный. Тебе повезло, что твоя маленькая хитрость сработала".</FemaleText>
+      <FemaleText>"Тебя трудно убить, отверженная. Тебе повезло, что твоя маленькая хитрость сработала".</FemaleText>
     </Entry>
     <Entry>
       <ID>100</ID>
       <DefaultText>"Цветение полностью поглотило тебя в пяти реальностях. Ты знаешь, что происходит с моими тенями?"</DefaultText>
-      <FemaleText>"Цветение полностью поглотило тебя в пяти реальностях. Ты знаешь, что происходит с моими тенями?"</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>101</ID>
       <DefaultText>"Это был самый смелый поступок, который я когда-либо видел. Но еще и самый неосмотрительный".</DefaultText>
-      <FemaleText>"Это был самый смелый поступок, который я когда-либо видел. Но еще и самый неосмотрительный".</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>102</ID>
-      <DefaultText>"Были хоть малейшие сомнения, что ты выживешь? Бери свою одежду и пойдем".</DefaultText>
-      <FemaleText>"Были хоть малейшие сомнения, что ты выживешь? Бери свою одежду и пойдем".</FemaleText>
+      <DefaultText>"Были хоть малейшие сомнения, что ты выживешь? Бери свои шмотки и пойдём".</DefaultText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>103</ID>
       <DefaultText>"Ага".</DefaultText>
-      <FemaleText>"Ага".</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>104</ID>
       <DefaultText>"Вы... вы в порядке, господин? Похоже, вы *наелись*!"</DefaultText>
-      <FemaleText>"Вы... вы в порядке, господин? Похоже, вы *наелись*!"</FemaleText>
+      <FemaleText>"Вы... вы в порядке, госпожа? Похоже, вы *наелись*!"</FemaleText>
     </Entry>
     <Entry>
       <ID>105</ID>
       <DefaultText>"Ты понимаешь, что Цветение не переносит глупцов? То, что ты сделал, было очень и очень глупо".</DefaultText>
-      <FemaleText>"Ты понимаешь, что Цветение не переносит глупцов? То, что ты сделал, было очень и очень глупо".</FemaleText>
+      <FemaleText>"Ты понимаешь, что Цветение не переносит глупцов? То, что ты сделала, было очень и очень глупо".</FemaleText>
     </Entry>
     <Entry>
       <ID>106</ID>
-      <DefaultText>"Черт! Похоже, я только что проиграл пари. О, ты не спишь! Рад видеть тебя, приятель".</DefaultText>
-      <FemaleText>"Черт! Похоже, я только что проиграл пари. О, ты не спишь! "Рад видеть тебя, приятель".</FemaleText>
+      <DefaultText>"Чёрт! Похоже, я только что проиграл пари. О, ты не спишь! Рад видеть тебя, приятель".</DefaultText>
+      <FemaleText>"Чёрт! Похоже, я только что проиграл пари. О, ты не спишь! Рад видеть тебя, подруга".</FemaleText>
     </Entry>
   </Entries>
 </StringTableFile>

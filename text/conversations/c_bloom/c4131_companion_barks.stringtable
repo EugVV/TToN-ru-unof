@@ -6,8 +6,8 @@
   <Entries>
     <Entry>
       <ID>1</ID>
-      <DefaultText>"Здесь... сдавлено немного. Зато выдуватель мыльных пузырей работает как надо".</DefaultText>
-      <FemaleText>"Здесь... сдавлено немного. Зато выдуватель мыльных пузырей работает как надо".</FemaleText>
+      <DefaultText>"Здесь... немного тесно. Зато выдуватель мыльных пузырей работает как надо".</DefaultText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>2</ID>
@@ -22,7 +22,7 @@
     <Entry>
       <ID>4</ID>
       <DefaultText>"Я человек необразованный, но наука меня всегда привлекала".</DefaultText>
-      <FemaleText>"Я человек необразованный, но наука меня всегда привлекала".</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>5</ID>
@@ -32,12 +32,12 @@
     <Entry>
       <ID>6</ID>
       <DefaultText>"Не трогай!"</DefaultText>
-      <FemaleText>"Не трогай!"</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>7</ID>
       <DefaultText>"Ой! Прошу прощения, профессор".</DefaultText>
-      <FemaleText>"Ой! Прошу прощения, профессор".</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>8</ID>
@@ -57,7 +57,7 @@
     <Entry>
       <ID>11</ID>
       <DefaultText>"Это уникальная вещь, да?"</DefaultText>
-      <FemaleText>"Это уникальная вещь, да?"</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>12</ID>
@@ -72,22 +72,22 @@
     <Entry>
       <ID>14</ID>
       <DefaultText>"Что это? Еще один? Неужели ты хочешь бросить мне вызов, друг? Я слишком стар для этого. Я..."</DefaultText>
-      <FemaleText>"Что это? Еще один? Неужели ты хочешь бросить мне вызов, друг? Я слишком стар для этого. Я..."</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>15</ID>
-      <DefaultText>"Хм. это работает?"</DefaultText>
-      <FemaleText>"Хм. это работает?"</FemaleText>
+      <DefaultText>"Хм. Это работает?"</DefaultText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>16</ID>
-      <DefaultText>"Что это? Хмм, точно такой же есть еще за пределами логова Мемовиры. Рвется в драку с каждым, кого видит..."</DefaultText>
-      <FemaleText>"Что это? Хмм, точно такой же есть еще за пределами логова Мемовиры. Рвется в драку с каждым, кого видит..."</FemaleText>
+      <DefaultText>"Что это? Хм-м, точно такой же есть ещё снаружи логова Мемовиры. Рвётся в драку с каждым, кого видит..."</DefaultText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>17</ID>
       <DefaultText>"Этот воинственным не кажется".</DefaultText>
-      <FemaleText>"Этот воинственным не кажется".</FemaleText>
+      <FemaleText />
     </Entry>
   </Entries>
 </StringTableFile>

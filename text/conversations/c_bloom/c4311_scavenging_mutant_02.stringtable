@@ -12,7 +12,7 @@
     <Entry>
       <ID>2</ID>
       <DefaultText>"Старьёвщики много дадут за эти вещи, дотащить бы их только домой. Разбогатею!"</DefaultText>
-      <FemaleText>"Старьёвщики много дадут за эти вещи, дотащить бы их только домой. Разбогатею!"</FemaleText>
+      <FemaleText />
     </Entry>
   </Entries>
 </StringTableFile>
