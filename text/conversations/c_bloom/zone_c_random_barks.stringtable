@@ -12,52 +12,52 @@
     <Entry>
       <ID>2</ID>
       <DefaultText>"Во что я только что ввязался?"</DefaultText>
-      <FemaleText>«Во что я только что ввязался?»</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>3</ID>
       <DefaultText>"Ух. Сейчас мне придется обжечь свои ботинки".</DefaultText>
-      <FemaleText>«Ух. Сейчас мне придется обжечь свои ботинки».</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>4</ID>
       <DefaultText>"Я не против выпить, но я не хочу быть съеденным".</DefaultText>
-      <FemaleText>«Я не против выпить, но я не хочу быть съеденным».</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>5</ID>
       <DefaultText>"Давай это закончим как можно быстрее, а?"</DefaultText>
-      <FemaleText>«Давай это закончим как можно быстрее, а?»</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>6</ID>
       <DefaultText>"У меня здесь много воспоминаний. И среди них нет хороших".</DefaultText>
-      <FemaleText>«У меня здесь много воспоминаний. И среди них нет хороших».</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>7</ID>
       <DefaultText>"Это место напоминает мне преодоление канализационных труб Стронта с рейнджерами Реимана".</DefaultText>
-      <FemaleText>«Это место напоминает мне преодоление канализационных труб Стронта с рейнджерами Реимана».</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>8</ID>
       <DefaultText>"По шею в канализации под старым моргом и падающими потолками. Начинается дождь из трупов".</DefaultText>
-      <FemaleText>«По шею в канализации под старым моргом и падающими потолками. Начинается дождь из трупов».</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>9</ID>
       <DefaultText>"Это место слегка менее приятное".</DefaultText>
-      <FemaleText>«Это место слегка менее приятное».</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>10</ID>
       <DefaultText>"Фух. Как здесь воняет".</DefaultText>
-      <FemaleText>«Хо. Как здесь воняет».</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>11</ID>
       <DefaultText>"Всегда не мог выносить, когда эта тварь нашептывает мне".</DefaultText>
-      <FemaleText>«Всегда не мог выносить, когда эта тварь нашептывает мне».</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>12</ID>
@@ -67,62 +67,61 @@
     <Entry>
       <ID>13</ID>
       <DefaultText>"Все это место вызывает у меня желание помыться".</DefaultText>
-      <FemaleText>«Все это место вызывает у меня желание помыться».</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>14</ID>
-      <DefaultText>"Или, понежится слегка на солнышке".</DefaultText>
-      <FemaleText>«Или, понежится слегка на солнышке».</FemaleText>
+      <DefaultText>"Ох, хоть чуток солнечного света".</DefaultText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>15</ID>
       <DefaultText>"Разве... разве пол не двигался только что?"</DefaultText>
-      <FemaleText>«Разве... разве пол не двигался только что?»</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>16</ID>
       <DefaultText>"Ты должен чувствовать себя как дома, Оом. Маленький сгусток, окруженный другими сгустками".</DefaultText>
-      <FemaleText>«Ты должен чувствовать себя как дома, Оом. Маленький сгусток, окруженный другими сгустками».</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>17</ID>
-      <DefaultText>"Может ты найдешь сгусток за следующей дверью и успокоишься".</DefaultText>
-      <FemaleText>«Может ты найдешь сгусток за следующей дверью и успокоишься».</FemaleText>
+      <DefaultText>"Может, ты найдёшь сгусток за следующей дверью и успокоишься".</DefaultText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>18</ID>
-      <DefaultText>"Не отходи от цели, малыш. Повсюду слишком много отверстий, в которые здесь можно провалиться".</DefaultText>
-      <FemaleText>«Не отходи от цели, малыш. Повсюду слишком много отверстий, в которые здесь можно провалиться».</FemaleText>
+      <DefaultText>"Не отходи далеко, малыш. Повсюду слишком много отверстий, в которые здесь можно провалиться".</DefaultText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>19</ID>
       <DefaultText>"А иногда они начинают сами искать тебя".</DefaultText>
-      <FemaleText>«А иногда они начинают сами искать тебя».</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>20</ID>
       <DefaultText>"Кажется, ты чувствуешь себя здесь не в своей тарелке, Мэтти? Ты знаешь это лучше меня".</DefaultText>
-      <FemaleText>«Кажется, ты чувствуешь себя здесь не в своей тарелке, Мэтти? Ты знаешь это лучше меня».</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>21</ID>
       <DefaultText>"Цветение рассержено, это правда. И не называй меня Мэтти".</DefaultText>
-      <FemaleText>«Цветение рассержено, это правда. И не называй меня Мэтти».</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>22</ID>
       <DefaultText>"Извини, старушка".</DefaultText>
-      <FemaleText>«Извини, старушка».</FemaleText>
-    </Entry>
+      <FemaleText />
     <Entry>
       <ID>23</ID>
-      <DefaultText>"Или 'старушка' тоже".</DefaultText>
-      <FemaleText>«Или 'старушка' тоже».</FemaleText>
+      <DefaultText>"И «старушкой» тоже".</DefaultText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>24</ID>
       <DefaultText>::вздыхает:: "Некоторым людям не угодишь".</DefaultText>
-      <FemaleText>::вздыхает:: «Некоторым людям не угодишь».</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>25</ID>
@@ -141,23 +140,23 @@
     </Entry>
     <Entry>
       <ID>28</ID>
-      <DefaultText>"Держись подальше от этой штуки, парень. Мне было бы неприятно потерять тебя".</DefaultText>
-      <FemaleText>«Держись подальше от этой штуки, парень. Мне было бы неприятно потерять тебя».</FemaleText>
+      <DefaultText>"Держись подальше от этой штуки, парень. Мне бы не хотелось потерять тебя".</DefaultText>
+      <FemaleText>"Держись подальше от этой штуки, девочка. Мне бы не хотелось потерять тебя".</FemaleText>
     </Entry>
     <Entry>
       <ID>29</ID>
       <DefaultText>"Есть большое искушение атаковать эту тварь, не делай этого".</DefaultText>
-      <FemaleText>«Есть большое искушение атаковать эту тварь, не делай этого».</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>30</ID>
       <DefaultText>"Одно дело – ненавидеть Цветение. Абсолютно другое дело – если оно ненавидит тебя".</DefaultText>
-      <FemaleText>«Одно дело – ненавидеть Цветение. Абсолютно другое дело – если оно ненавидит тебя».</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>31</ID>
       <DefaultText>"Самое худшее, что есть у пастей? То, что ты никогда не знаешь, какая из них придет за тобой".</DefaultText>
-      <FemaleText>«Самое худшее, что есть у пастей? То, что ты никогда не знаешь, какая из них придет за тобой».</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>32</ID>
@@ -166,13 +165,13 @@
     </Entry>
     <Entry>
       <ID>33</ID>
-      <DefaultText>"Иногда она не убивает человека, когда пасть сжирает его".</DefaultText>
-      <FemaleText>«Иногда она не убивает человека, когда пасть сжирает его».</FemaleText>
+      <DefaultText>"Иногда человека не убивает, когда пасть сжирает его".</DefaultText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>34</ID>
-      <DefaultText>"Но есть более худшие вещи, чем смерть".</DefaultText>
-      <FemaleText>«Но есть более худшие вещи, чем смерть».</FemaleText>
+      <DefaultText>"Но есть вещи и похуже, чем смерть".</DefaultText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>35</ID>
@@ -187,7 +186,7 @@
     <Entry>
       <ID>37</ID>
       <DefaultText>"Правда... это было весело".</DefaultText>
-      <FemaleText>«Правда... это было весело».</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>38</ID>
@@ -202,7 +201,7 @@
     <Entry>
       <ID>40</ID>
       <DefaultText>"Убирайся их моей головы, ты, переросшая хлебная плесень".</DefaultText>
-      <FemaleText>«Убирайся их моей головы, ты, переросшая хлебная плесень».</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>41</ID>
@@ -217,7 +216,7 @@
     <Entry>
       <ID>43</ID>
       <DefaultText>"Похоже оно проголодалось".</DefaultText>
-      <FemaleText>«Похоже оно проголодалось».</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>44</ID>
@@ -242,37 +241,37 @@
     <Entry>
       <ID>48</ID>
       <DefaultText>"Прекрати так пугать меня".</DefaultText>
-      <FemaleText>«Прекрати так пугать меня».</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>49</ID>
       <DefaultText>"Ты живой! Это здорово! Неожиданно, но здорово!"</DefaultText>
-      <FemaleText>«Ты живой! Это здорово! Неожиданно, но здорово!»</FemaleText>
+      <FemaleText>"Ты живая! Это здорово! Неожиданно, но здорово!"</FemaleText>
     </Entry>
     <Entry>
       <ID>50</ID>
       <DefaultText>""</DefaultText>
-      <FemaleText>""</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>56</ID>
       <DefaultText>"Мне кажется, что стены имеют рты".</DefaultText>
-      <FemaleText>«Мне кажется, что стены имеют рты».</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>57</ID>
       <DefaultText>"Это место напоминает мне корневую часть кишечника ФемРадора. Надеюсь нам не придется покидать это место таким же способом, как я покидал *его* раньше".</DefaultText>
-      <FemaleText>«Это место напоминает мне корневую часть кишечника ФемРадора. Надеюсь нам не придется покидать это место таким же способом, как я покидал *его* раньше».</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>58</ID>
-      <DefaultText>"Говорят, что Цветение подбирается к Утесам Сагуса. Может быть оно хочет поплавать, прополоскать свой рот".</DefaultText>
-      <FemaleText>«Говорят, что Цветение подбирается к Утесам Сагуса. Может быть оно хочет поплавать, прополоскать свой рот».</FemaleText>
+      <DefaultText>"Говорят, что Цветение подбирается к Утёсам Сагуса. Может быть, оно хочет поплавать, прополоскать свой рот".</DefaultText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>59</ID>
       <DefaultText>"У меня ощущение, что на меня смотрят сотни голодных ртов".</DefaultText>
-      <FemaleText>«У меня ощущение, что на меня смотрят сотни голодных ртов».</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>60</ID>
@@ -282,42 +281,42 @@
     <Entry>
       <ID>61</ID>
       <DefaultText>"Ужасно".</DefaultText>
-      <FemaleText>"брутто"</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>62</ID>
-      <DefaultText>"А те языки? Или щупальца? {Beat} Хотя, в любом случае, это не имеет никакого значения".</DefaultText>
-      <FemaleText>«А те языки? Или щупальца? {Beat} Хотя, в любом случае, это не имеет никакого значения».</FemaleText>
+      <DefaultText>"А те языки? Или щупальца? {Beat}Хотя в любом случае это не имеет никакого значения".</DefaultText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>63</ID>
       <DefaultText>"Эти щупальца почти... гипнотизируют".</DefaultText>
-      <FemaleText>«Эти щупальца почти... гипнотизируют».</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>64</ID>
       <DefaultText>"Не дай эти штукам распробовать нас на вкус до смерти".</DefaultText>
-      <FemaleText>«Не дай эти штукам распробовать нас на вкус до смерти».</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>65</ID>
       <DefaultText>"Держись подальше от этих тварей, я бы не хотел, чтобы меня снова зализали до смерти".</DefaultText>
-      <FemaleText>«Держись подальше от этих тварей, я бы не хотел, чтобы меня снова зализали до смерти».</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>66</ID>
       <DefaultText>"Вот какое ощущение, когда тебя медленно переваривают. Это не так плохо, на самом деле".</DefaultText>
-      <FemaleText>«Вот какое ощущение, когда тебя медленно переваривают. Это не так плохо, на самом деле».</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>67</ID>
-      <DefaultText>"Кажется это место уже пресытилось плохим поведением".</DefaultText>
-      <FemaleText>«Кажется это место уже пресытилось плохим поведением».</FemaleText>
+      <DefaultText>"Кажется, это место уже пресытилось плохим поведением".</DefaultText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>68</ID>
       <DefaultText>"Мои шаги звучат, как будто чавканье".</DefaultText>
-      <FemaleText>«Мои шаги звучат, как будто чавканье».</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>69</ID>
@@ -326,13 +325,13 @@
     </Entry>
     <Entry>
       <ID>70</ID>
-      <DefaultText>"Противнооооо".</DefaultText>
-      <FemaleText>«Противнооооо».</FemaleText>
+      <DefaultText>"Противно-о-о-о".</DefaultText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>71</ID>
-      <DefaultText>"Фуу. Предупреждай меня в следующий раз. И мой желудок".</DefaultText>
-      <FemaleText>«Эвв. Предупреждай меня в следующий раз. И мой желудок».</FemaleText>
+      <DefaultText>"Фу-у. Предупреждай меня в следующий раз. И мой желудок".</DefaultText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>72</ID>
@@ -351,18 +350,18 @@
     </Entry>
     <Entry>
       <ID>75</ID>
-      <DefaultText>"Я слышу бурчание – как гигантское брюхо. Может быть это и *было* огромное брюхо".</DefaultText>
-      <FemaleText>«Я слышу бурчание – как гигантское брюхо. Может быть это и *было* огромное брюхо».</FemaleText>
+      <DefaultText>"Я слышу бурчание – как гигантское брюхо. Может быть, это и *было* огромное брюхо".</DefaultText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>76</ID>
       <DefaultText>"Кто-то говорил этому месту, что шептать – не очень хорошо? У меня голова болит от этого".</DefaultText>
-      <FemaleText>«Кто-то говорил этому месту, что шептать – не очень хорошо? У меня голова болит от этого».</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>77</ID>
       <DefaultText>"Это гигантское брюхо бурчит и звук становится ближе".</DefaultText>
-      <FemaleText>«Это гигантское брюхо бурчит и звук становится ближе».</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>78</ID>
@@ -382,17 +381,17 @@
     <Entry>
       <ID>81</ID>
       <DefaultText>"Этот запах? Это в твоем мозгу. Эта вонь отчаянья и голода".</DefaultText>
-      <FemaleText>«Этот запах? Это в твоем мозгу. Эта вонь отчаянья и голода».</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>82</ID>
       <DefaultText>"Испытывал когда-нибудь чувство, что тебя проглатывают? Мы сейчас все перевариваемся".</DefaultText>
-      <FemaleText>«Испытывал когда-нибудь чувство, что тебя проглатывают? Мы сейчас все перевариваемся».</FemaleText>
+      <FemaleText>"Испытывала когда-нибудь чувство, что тебя проглатывают? Мы сейчас все перевариваемся".</FemaleText>
     </Entry>
     <Entry>
       <ID>83</ID>
-      <DefaultText>"Я не в восторге от солнечного света, но я бы хотел ощутить его прямо сейчас".</DefaultText>
-      <FemaleText>«Я не в восторге от солнечного света, но я бы хотел ощутить его прямо сейчас».</FemaleText>
+      <DefaultText>"Я не в восторге от солнечного света, но хотела бы ощутить его прямо сейчас".</DefaultText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>84</ID>
@@ -401,43 +400,43 @@
     </Entry>
     <Entry>
       <ID>85</ID>
-      <DefaultText>"Единственное, что я бы сказал о Цветении – это великолепное место, где можно спрятать тело или даже десяток".</DefaultText>
-      <FemaleText>«Единственное, что я бы сказал о Цветении – это великолепное место, где можно спрятать тело или даже десяток».</FemaleText>
+      <DefaultText>"Единственное, что я бы сказала о Цветении – это великолепное место, где можно спрятать тело или даже десяток".</DefaultText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>86</ID>
       <DefaultText>"Кажется, хватка Мемовиры ослабевает. Хорошо... хотя, возможно, не для всех здесь присутствующих".</DefaultText>
-      <FemaleText>«Кажется, хватка Мемовиры ослабевает. Хорошо... хотя, возможно, не для всех здесь присутствующих».</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>87</ID>
       <DefaultText>"Это место возвращает воспоминания. И из них очень мало приятных".</DefaultText>
-      <FemaleText>«Это место возвращает воспоминания. И из них очень мало приятных».</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>88</ID>
       <DefaultText>"Они когда-то боялись меня здесь. Как быстро они забыли".</DefaultText>
-      <FemaleText>«Они когда-то боялись меня здесь. Как быстро они забыли».</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>89</ID>
       <DefaultText>"Боги, что это за вонь? Запах отчаянья и страха. О, подожди, это всего лишь Тибир".</DefaultText>
-      <FemaleText>«Боги, что это за вонь? Запах отчаянья и страха. О, подожди, это всего лишь Тибир».</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>90</ID>
       <DefaultText>"Что-то не то здесь с воздухом... как будто Цветение пытается усыпить нас".</DefaultText>
-      <FemaleText>«Что-то не то здесь с воздухом... как будто Цветение пытается усыпить нас».</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>91</ID>
-      <DefaultText>"Это не очень-то здорово, Мэтти".</DefaultText>
-      <FemaleText>«Это не очень-то здорово, Мэтти».</FemaleText>
+      <DefaultText>"Не очень-то любезно, Мэтти".</DefaultText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>92</ID>
       <DefaultText>"Это был комплимент".</DefaultText>
-      <FemaleText>«Это был комплимент».</FemaleText>
+      <FemaleText />
     </Entry>
   </Entries>
 </StringTableFile>
