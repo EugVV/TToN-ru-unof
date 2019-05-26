@@ -12,12 +12,12 @@
     <Entry>
       <ID>1</ID>
       <DefaultText>[The mutant says he'd love to sell to you, but times have been tough since the Maw to Nihliesh closed. He hasn't been able to restock his wares in quite a while now.]</DefaultText>
-      <FemaleText>[The mutant says he'd love to sell to you, but times have been tough since the Maw to Nihliesh closed. He hasn't been able to restock his wares in quite a while now.]</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>2</ID>
       <DefaultText>[The mutant thanks you for opening the nearby maw and hopes he'll be able to do business soon.]</DefaultText>
-      <FemaleText>[The mutant thanks you for opening the nearby maw and hopes he'll be able to do business soon.]</FemaleText>
+      <FemaleText />
     </Entry>
   </Entries>
 </StringTableFile>

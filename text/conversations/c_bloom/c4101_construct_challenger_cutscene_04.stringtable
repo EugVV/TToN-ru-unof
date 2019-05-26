@@ -7,7 +7,7 @@
     <Entry>
       <ID>1</ID>
       <DefaultText>"Босс?"</DefaultText>
-      <FemaleText>Босс?</FemaleText>
+      <FemaleText />
     </Entry>
   </Entries>
 </StringTableFile>
