@@ -12,12 +12,12 @@
     <Entry>
       <ID>1</ID>
       <DefaultText>"Разок... хотя бы разок... показать бы бандитам Мемовиры, насколько они слабы".</DefaultText>
-      <FemaleText>"Разок... хотя бы разок... показать бы бандитам Мемовиры, насколько они слабы".</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>2</ID>
       <DefaultText>"Жалкие люди. Как только мы позволили вам запугать нас?"</DefaultText>
-      <FemaleText>"Жалкие люди. Как только мы позволили вам запугать нас?"</FemaleText>
+      <FemaleText />
     </Entry>
   </Entries>
 </StringTableFile>
