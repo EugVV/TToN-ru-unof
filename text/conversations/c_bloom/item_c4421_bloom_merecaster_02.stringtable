@@ -11,30 +11,24 @@
     </Entry>
     <Entry>
       <ID>1</ID>
-      <DefaultText>Вы оказываетесь в таком знакомом месте, между сном и бодрствованием, вверху вас колодец ночи с миром яви. 
+      <DefaultText>Вы оказываетесь в таком знакомом месте, между сном и бодрствованием, вверху вас колодец ночи с миром яви.
 
-Снова приходит чувство, как будто на вас кто-то охотится, у вас такое ощущение, что кто-то зовет вас по имени.</DefaultText>
-      <FemaleText>Ты оказываешься в таком знакомом месте, между сном и бодрствованием, вверху тебя колодец ночи с миром яви. 
-
-Снова приходит чувство, как будто на тебя кто-то охотится, у тебя такое ощущение, что кто-то зовет тебя по имени.</FemaleText>
+Снова приходит чувство, как будто на вас кто-то охотится, у вас такое ощущение, что кто-то зовёт вас по имени.</DefaultText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>2</ID>
       <DefaultText>Скорбь. Скорбь ищет вас. Единственная нить ее внимания цепляется за вас, она тянет к вам материю своего сознания.
 
 {SOUND: Start Sorrow sound effect, getting louder.}</DefaultText>
-      <FemaleText>Скорбь. Скорбь ищет тебя. Единственная нить ее внимания цепляется за тебя, она тянет к тебе материю своего сознания.
-
-{SOUND: Start Sorrow sound effect, getting louder.}</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>3</ID>
       <DefaultText>Хотя вы не можете дать определение этому чувству, этот голос вам хорошо знаком сейчас: это Скробь, и она ищет вас.
 
 {SOUND: Start Sorrow sound effect, getting louder.}</DefaultText>
-      <FemaleText>Хотя ты не можешь дать определение этому чувству, этот голос тебе хорошо знаком сейчас: это Скробь, и она ищет тебя.
-
-{SOUND: Start Sorrow sound effect, getting louder.}</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>4</ID>
@@ -43,11 +37,7 @@
 {SOUND: Sorrow sound effect, getting louder.}
 
 {SCRIPTER: The Sorrow begins to materialize, half transparent}</DefaultText>
-      <FemaleText>Ты чувствуешь, как Скорбь приближается к тебе, материализуясь через огромные пространства и отражаясь эхом в коридорах времени, и ты потрясен силой, которая управляет ей.
-
-{SOUND: Sorrow sound effect, getting louder.}
-
-{SCRIPTER: The Sorrow begins to materialize, half transparent}</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>5</ID>
@@ -91,11 +81,7 @@
 {SOUND: Start Bloom voice sound effect.}
 
 {SCRIPTER: The Sorrow fades out}</DefaultText>
-      <FemaleText>Ты чувствуешь голос, который смешивается с твоим разумом, а затем ты начинаешь ощущать какофонию жужжащих и резонирующих звуков, и чувствуешь, как с неистовой яростью вокруг тебя сооружается защитная сеть. Скорбь не в состоянии разрушить решетку силой своей воли, и ты снова ощущаешь, как присутствие Скроби начинает исчезать.
-
-{SOUND: Start Bloom voice sound effect.}
-
-{SCRIPTER: The Sorrow fades out}</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>19</ID>
@@ -106,13 +92,7 @@
 {SOUND: Start Bloom voice sound effect.}
 
 {SCRIPTER: The Sorrow fades out}</DefaultText>
-      <FemaleText>Ты опасаешься, что вторжение Скорби даст волю ярости... ярости, сопоставимой в гудящими и жужжащими голосами, которые внезапно наполняют твой разум. Ее ментальная, осязаемая ярость почти заставляет тебя упасть на колени.
-
-Присутствие Скорби длится еще какое-то время, а затем исчезает.
-
-{SOUND: Start Bloom voice sound effect.}
-
-{SCRIPTER: The Sorrow fades out}</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>20</ID>
@@ -121,11 +101,7 @@
 {SOUND: Start Bloom voice sound effect.}
 
 {SCRIPTER: The Sorrow fades out}</DefaultText>
-      <FemaleText>Как будто в ответ на твою растущую тревогу, многочисленный хор жужжащих голосов варится в твоем мозгу, кишащий разум чрезвычайно сильной сущности. Этот сумасшедший хор заглушает присутствие Скорби, и ты ощущаешь, как ее слабая хватка полностью исчезает и отпускает тебя. Присутствие Ярости длится еще какое-то время, а затем исчезает.
-
-{SOUND: Start Bloom voice sound effect.}
-
-{SCRIPTER: The Sorrow fades out}</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>21</ID>
@@ -136,13 +112,7 @@
 {SOUND: Start Bloom voice sound effect.}
 
 {SCRIPTER: The Sorrow fades out}</DefaultText>
-      <FemaleText>Холодная ярость жужжащих, роящихся голосов внезапно окутывает тебя, как будто спиралевидное облако насекомых заполняет твою голову. Ты чувствуешь, как они ползают в твоем мозгу, как будто они пробираются через твой череп и...
-
-... присутствие Скорби исчезает, и с ним также исчезают разъяренные голоса.
-
-{SOUND: Start Bloom voice sound effect.}
-
-{SCRIPTER: The Sorrow fades out}</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>22</ID>
@@ -151,7 +121,8 @@
 {SOUND: Start Bloom voice sound effect.}
 
 {SCRIPTER: The Sorrow fades out}</DefaultText>
-      <FemaleText>Ты почти падаешь на колени, гонимый внезапно возникшим хором жужжащих голосов, распаляемых охотой Скорби на тебя. Ярость, которую они изливают на тебя, осязаема, и это влияние Скорби длится какое-то время, а затем исчезает.
+      <FemaleText />
+      <FemaleText>Вы почти падаете на колени, гонимая внезапно возникшим хором жужжащих голосов, распаляемых охотой Скорби на вас. Ярость, которую они изливают на вас, осязаема, и это влияние Скорби длится какое-то время, а затем исчезает.
 
 {SOUND: Start Bloom voice sound effect.}
 

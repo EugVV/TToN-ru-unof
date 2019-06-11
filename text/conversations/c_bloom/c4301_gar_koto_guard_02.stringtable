@@ -12,7 +12,7 @@
     <Entry>
       <ID>1</ID>
       <DefaultText>"Руки прочь от оружия, человек".</DefaultText>
-      <FemaleText>"Руки прочь от оружия, человек".</FemaleText>
+      <FemaleText />
     </Entry>
   </Entries>
 </StringTableFile>
