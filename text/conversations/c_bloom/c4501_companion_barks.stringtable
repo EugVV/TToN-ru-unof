@@ -7,42 +7,42 @@
     <Entry>
       <ID>1</ID>
       <DefaultText>"Похоже, что Цветение намеревается поглотить и этот замок. Посмотрите – в трещинах сок Цветения".</DefaultText>
-      <FemaleText>"Похоже, что Цветение намеревается поглотить и этот замок. Посмотрите – в трещинах сок Цветения".</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>2</ID>
       <DefaultText>"А *вот* и замок!"</DefaultText>
-      <FemaleText>"А *вот* и замок!"</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>3</ID>
       <DefaultText>"Видите трещины? Похоже, что Цветение окружает это место языками, словно пытаясь вырвать больной зуб".</DefaultText>
-      <FemaleText>"Видите трещины? Похоже, что Цветение окружает это место языками, словно пытаясь вырвать больной зуб".</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>4</ID>
       <DefaultText>"Глянь, на помосте призрак девушки! Спроси, как она умерла!"</DefaultText>
-      <FemaleText>"Глянь, на помосте призрак девушки! Спроси, как она умерла!"</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>5</ID>
-      <DefaultText>"Похоже, в этом месте Цветению прижгли язык. Вау".</DefaultText>
-      <FemaleText>"Похоже, в этом месте Цветению прижгли язык. Вау".</FemaleText>
+      <DefaultText>"Похоже, в этом месте Цветению прижгли язык. Ой".</DefaultText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>6</ID>
       <DefaultText>"Я как-то раз обжег язык. Было больно. Затем я снова обжег язык, чтобы удостовериться, что не ошибся".</DefaultText>
-      <FemaleText>"Я как-то раз обжег язык. Было больно. Затем я снова обжег язык, чтобы удостовериться, что не ошибся".</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>7</ID>
       <DefaultText>"Эй, там призрак Поэтессы Памятных Событий! Но только не совсем призрачный".</DefaultText>
-      <FemaleText>"Эй, там призрак Поэтессы Памятных Событий! Но только не совсем призрачный".</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>8</ID>
       <DefaultText>{Whispers}"Она покарает нас за рифмоплетство без разрешения?"</DefaultText>
-      <FemaleText>{Whispers}"Она покарает нас за рифмоплетство без разрешения?"</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>9</ID>
@@ -57,12 +57,12 @@
     <Entry>
       <ID>11</ID>
       <DefaultText>"Стенами не защититься от Цветения".</DefaultText>
-      <FemaleText>"Стенами не защититься от Цветения".</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>12</ID>
       <DefaultText>"Мемовира это знала".</DefaultText>
-      <FemaleText>"Мемовира это знала".</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>13</ID>
@@ -77,22 +77,22 @@
     <Entry>
       <ID>15</ID>
       <DefaultText>"Не принимай близко к сердцу".</DefaultText>
-      <FemaleText>"Не принимай близко к сердцу".</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>16</ID>
       <DefaultText>"Я ее ни разу не видел среди плоти".</DefaultText>
-      <FemaleText>"Я ее ни разу не видел среди плоти".</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>17</ID>
       <DefaultText>"В ее заграждениях появляются трещины".</DefaultText>
-      <FemaleText>"В ее заграждениях появляются трещины".</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>18</ID>
       <DefaultText>"Плохой знак".</DefaultText>
-      <FemaleText>"Плохой знак".</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>19</ID>
@@ -107,12 +107,12 @@
     <Entry>
       <ID>21</ID>
       <DefaultText>"Защищаться огнем от Цветения? Не сработает".</DefaultText>
-      <FemaleText>"Защищаться огнем от Цветения? Не сработает".</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>22</ID>
       <DefaultText>"Все равно, что пытаться повернуть реку вспять. Старшая девочка столкнется с неизбежным".</DefaultText>
-      <FemaleText>"Все равно, что пытаться повернуть реку вспять. Старшая девочка столкнется с неизбежным".</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>23</ID>
