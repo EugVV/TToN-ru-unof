@@ -7,12 +7,12 @@
     <Entry>
       <ID>1</ID>
       <DefaultText>"*Больше* призрачных языков? И огромнее?! Эта шутка больше не смешна".</DefaultText>
-      <FemaleText>"*Больше* призрачных языков? И огромнее?! Эта шутка больше не смешна."</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>2</ID>
       <DefaultText>"У существа должен был быть *один*, самое большее *два* языка. Цветение, похоже, считает, чем больше языков, тем лучше".</DefaultText>
-      <FemaleText>"У существа должен был быть *один*, самое большее *два* языка. Цветение, похоже, считает, чем больше языков, тем лучше".</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>3</ID>
@@ -32,7 +32,7 @@
     <Entry>
       <ID>6</ID>
       <DefaultText>"Нет-нет. Мне не надо. Но все равно спасибо".</DefaultText>
-      <FemaleText>"Нет-нет. Мне не надо. Но все равно спасибо".</FemaleText>
+      <FemaleText />
     </Entry>
   </Entries>
 </StringTableFile>

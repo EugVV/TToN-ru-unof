@@ -7,12 +7,12 @@
     <Entry>
       <ID>1</ID>
       <DefaultText>Голова Ждущего Жертву приветствует вас и говорит, что мечтает быть поглощенной Цветением.</DefaultText>
-      <FemaleText>Голова Ждущего Жертву приветствует вас и говорит, что мечтает быть поглощенной Цветением.</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>2</ID>
       <DefaultText>Голова Ждущего Жертву поздравляет вас с победой и восхищается вашим мастерством.</DefaultText>
-      <FemaleText>Голова Ждущего Жертву поздравляет вас с победой и восхищается вашим мастерством.</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>3</ID>
@@ -22,7 +22,7 @@
     <Entry>
       <ID>4</ID>
       <DefaultText>Голова Ждущего Жертву снова вас приветствует.</DefaultText>
-      <FemaleText>Голова Ждущего Жертву снова вас приветствует.</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>5</ID>
@@ -32,32 +32,32 @@
     <Entry>
       <ID>6</ID>
       <DefaultText>Голова Ждущего Жертву снова приветствует вас и спрашивает, когда вы планируете скормить ее Цветению.</DefaultText>
-      <FemaleText>Голова Ждущего Жертву снова приветствует вас и спрашивает, когда вы планируете скормить ее Цветению.</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>7</ID>
       <DefaultText>Задать ей вопрос.</DefaultText>
-      <FemaleText>Задать ей вопрос.</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>8</ID>
       <DefaultText>Убрать ее в сторону.</DefaultText>
-      <FemaleText>Убрать ее в сторону.</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>9</ID>
       <DefaultText>Затем она спрашивает, что может для вас сделать.</DefaultText>
-      <FemaleText>Затем она спрашивает, что может для вас сделать.</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>10</ID>
       <DefaultText>Она отвечает на ваш вопрос.</DefaultText>
-      <FemaleText>Она отвечает на ваш вопрос.</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>11</ID>
       <DefaultText>""</DefaultText>
-      <FemaleText>""</FemaleText>
+      <FemaleText />
     </Entry>
   </Entries>
 </StringTableFile>
