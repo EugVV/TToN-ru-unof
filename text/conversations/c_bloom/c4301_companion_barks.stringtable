@@ -6,8 +6,8 @@
   <Entries>
     <Entry>
       <ID>1</ID>
-      <DefaultText>"Хмм, *это* место и впрямь дает уродцам деньги".</DefaultText>
-      <FemaleText>"Хмм, *это* место и впрямь дает уродцам деньги".</FemaleText>
+      <DefaultText>"Хм-м, *это* место и впрямь даёт уродцам деньги".</DefaultText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>2</ID>
@@ -22,7 +22,7 @@
     <Entry>
       <ID>4</ID>
       <DefaultText>"Мутанты как мутанты. Их шины тоже деньги".</DefaultText>
-      <FemaleText>"Мутанты как мутанты. Их шины тоже деньги".</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>5</ID>
@@ -42,17 +42,17 @@
     <Entry>
       <ID>8</ID>
       <DefaultText>"Пронзила Цветение, как стрела".</DefaultText>
-      <FemaleText>"Пронзила Цветение, как стрела".</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>9</ID>
       <DefaultText>"Жаль, что лишь ранила".</DefaultText>
-      <FemaleText>"Жаль, что лишь ранила".</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>10</ID>
       <DefaultText>"Если с помощью катены не удалось убить это место, что еще можно придумать?"</DefaultText>
-      <FemaleText>"Если с помощью катены не удалось убить это место, что еще можно придумать?"</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>11</ID>
@@ -67,12 +67,12 @@
     <Entry>
       <ID>13</ID>
       <DefaultText>"Вот и лидер. Никогда не выходит из резервуара. Не может, насколько мне известно".</DefaultText>
-      <FemaleText>"Вот и лидер. Никогда не выходит из резервуара. Не может, насколько мне известно".</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>14</ID>
       <DefaultText>"Говорят, что он смышленый старший сын холостяка. Смышленый для рыбы".</DefaultText>
-      <FemaleText>"Говорят, что он смышленый старший сын холостяка. Смышленый для рыбы".</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>15</ID>
@@ -87,12 +87,12 @@
     <Entry>
       <ID>17</ID>
       <DefaultText>"Ты серьезно собираешься копаться там, как паук-мусорщик?"</DefaultText>
-      <FemaleText>"Ты серьезно собираешься копаться там, как паук-мусорщик?"</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>18</ID>
-      <DefaultText>"Милый мой, есть гораздо более приятные способы заработать. Тебе стоит поучиться на моем примере".</DefaultText>
-      <FemaleText>"Милый мой, есть гораздо более приятные способы заработать. Тебе стоит поучиться на моем примере".</FemaleText>
+      <DefaultText>"Милый мой, есть гораздо более приятные способы заработать. Тебе стоит поучиться на моём примере".</DefaultText>
+      <FemaleText>"Милая моя, есть гораздо более приятные способы заработать. Тебе стоит поучиться на моём примере".</FemaleText>
     </Entry>
   </Entries>
 </StringTableFile>

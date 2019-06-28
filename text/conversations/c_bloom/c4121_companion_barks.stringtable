@@ -7,12 +7,12 @@
     <Entry>
       <ID>1</ID>
       <DefaultText>"Мне говорят, что *я* пустоголовый".</DefaultText>
-      <FemaleText>"Мне говорят, что *я* пустоголовый".</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>2</ID>
       <DefaultText>"Зачем помещать людей внутрь каменной головы Чилы?"</DefaultText>
-      <FemaleText>"Зачем помещать людей внутрь каменной головы Чилы?"</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>3</ID>
@@ -32,7 +32,7 @@
     <Entry>
       <ID>6</ID>
       <DefaultText>"Есть к чему стремиться, как по мне".</DefaultText>
-      <FemaleText>"Есть к чему стремиться, как по мне".</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>7</ID>
@@ -47,7 +47,7 @@
     <Entry>
       <ID>9</ID>
       <DefaultText>"А внутри пусто, как в головах ее последователей..."</DefaultText>
-      <FemaleText>"А внутри пусто, как в головах ее последователей..."</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>10</ID>
@@ -72,7 +72,7 @@
     <Entry>
       <ID>14</ID>
       <DefaultText>"Я не собираюсь туда. Это слишком похоже на поглощение".</DefaultText>
-      <FemaleText>"Я не собираюсь туда. Это слишком похоже на поглощение".</FemaleText>
+      <FemaleText />
     </Entry>
   </Entries>
 </StringTableFile>
