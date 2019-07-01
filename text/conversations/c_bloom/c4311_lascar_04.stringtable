@@ -7,17 +7,17 @@
     <Entry>
       <ID>1</ID>
       <DefaultText>"З-гиет. Н'хейн".</DefaultText>
-      <FemaleText>"З-гиет. Н'хейн".</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>2</ID>
       <DefaultText>"Фарр эльес, но мойзе?"</DefaultText>
-      <FemaleText>"Фарр эльес, но мойзе?"</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>3</ID>
       <DefaultText>"Ко'пм ан йере. Бед-нар!"</DefaultText>
-      <FemaleText>"Ко'пм ан йере. Бед-нар!"</FemaleText>
+      <FemaleText />
     </Entry>
   </Entries>
 </StringTableFile>
