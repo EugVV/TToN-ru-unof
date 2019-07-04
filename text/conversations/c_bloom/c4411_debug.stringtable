@@ -9,44 +9,42 @@
       <DefaultText>[This is a DEBUG object and should be removed when no longer debugging.]
 
 {DEBUG: remove this object when done bebugging}</DefaultText>
-      <FemaleText>[This is a DEBUG object and should be removed when no longer debugging.]
-
-{DEBUG: remove this object when done bebugging}</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>2</ID>
       <DefaultText>[Deactivate Tube 1]</DefaultText>
-      <FemaleText>[Deactivate Tube 1]</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>3</ID>
       <DefaultText>[Deactivate Tube 2]</DefaultText>
-      <FemaleText>[Deactivate Tube 2]</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>4</ID>
       <DefaultText>[Deactivate Tube 3]</DefaultText>
-      <FemaleText>[Deactivate Tube 3]</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>5</ID>
       <DefaultText>Отойти.</DefaultText>
-      <FemaleText>Отойти.</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>6</ID>
       <DefaultText>[Tube 1 deactivated]</DefaultText>
-      <FemaleText>[Tube 1 deactivated]</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>7</ID>
       <DefaultText>[Tube 2 deactivated]</DefaultText>
-      <FemaleText>[Tube 2 deactivated]</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>8</ID>
       <DefaultText>[Tube 3 deactivated]</DefaultText>
-      <FemaleText>[Tube 3 deactivated]</FemaleText>
+      <FemaleText />
     </Entry>
   </Entries>
 </StringTableFile>

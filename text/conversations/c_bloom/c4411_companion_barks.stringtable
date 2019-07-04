@@ -12,7 +12,7 @@
     <Entry>
       <ID>2</ID>
       <DefaultText>"Нужна смелость, чтобы прийти сюда".</DefaultText>
-      <FemaleText>"Нужна смелость, чтобы прийти сюда".</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>3</ID>
@@ -22,17 +22,17 @@
     <Entry>
       <ID>4</ID>
       <DefaultText>"Если это Чрево, то я не уверен, что хочу по нему спускаться".</DefaultText>
-      <FemaleText>"Если это Чрево, то я не уверен, что хочу по нему спускаться".</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>5</ID>
       <DefaultText>"Невозможно предсказать, чем все обернется".</DefaultText>
-      <FemaleText>"Невозможно предсказать, чем все обернется".</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>6</ID>
       <DefaultText>"Не могу это переварить".</DefaultText>
-      <FemaleText>"Не могу это переварить".</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>7</ID>
@@ -42,12 +42,12 @@
     <Entry>
       <ID>8</ID>
       <DefaultText>"Это то, что я думаю?"</DefaultText>
-      <FemaleText>"Это то, что я думаю?"</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>9</ID>
       <DefaultText>"Пахнет именно так".</DefaultText>
-      <FemaleText>"Пахнет именно так".</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>10</ID>
@@ -67,12 +67,12 @@
     <Entry>
       <ID>13</ID>
       <DefaultText>"Надеюсь, от меня у него случится несварение".</DefaultText>
-      <FemaleText>"Надеюсь, от меня у него случится несварение".</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>14</ID>
-      <DefaultText>"Надеюсь, выбраться отсюда будет не сложнее, чем сюда попасть".</DefaultText>
-      <FemaleText>"Надеюсь, выбраться отсюда будет не сложнее, чем сюда попасть".</FemaleText>
+      <DefaultText>"Надеюсь, выбраться отсюда будет не сложнее, чем попасть".</DefaultText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>15</ID>
@@ -87,7 +87,7 @@
     <Entry>
       <ID>17</ID>
       <DefaultText>"Вот этот размеры! Кто ж это носил?"</DefaultText>
-      <FemaleText>"Вот этот размеры! Кто ж это носил?"</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>18</ID>
@@ -102,12 +102,12 @@
     <Entry>
       <ID>20</ID>
       <DefaultText>"А кости там есть? Нет?"</DefaultText>
-      <FemaleText>"А кости там есть? Нет?"</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>21</ID>
       <DefaultText>"Значит, мы вполне можем найти внизу голого великана".</DefaultText>
-      <FemaleText>"Значит, мы вполне можем найти внизу голого великана".</FemaleText>
+      <FemaleText />
     </Entry>
   </Entries>
 </StringTableFile>

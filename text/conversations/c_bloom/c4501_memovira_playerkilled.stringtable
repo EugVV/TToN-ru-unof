@@ -7,201 +7,189 @@
     <Entry>
       <ID>1</ID>
       <DefaultText>[The Memovira and her goons are shocked to see the player return to the Fortress, since they just finished killing him. The Memovira recovers quickly, having heard of castoffs coming back to life (and may even chastise herself for not disposing of the player's body in a more permanent manner).]</DefaultText>
-      <FemaleText>[The Memovira and her goons are shocked to see the player return to the Fortress, since they just finished killing him. The Memovira recovers quickly, having heard of castoffs coming back to life (and may even chastise herself for not disposing of the player's body in a more permanent manner).]</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>2</ID>
       <DefaultText>[Grisseler, if present, is amazed that you're still alive.]</DefaultText>
-      <FemaleText>[Grisseler, if present, is amazed that you're still alive.]</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>3</ID>
       <DefaultText>[Some of the memovira's goons express their amazement here.]</DefaultText>
-      <FemaleText>[Some of the memovira's goons express their amazement here.]</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>4</ID>
       <DefaultText>[The Memovira tells them to kill the player, but they refuse, thinking that the player is some kind of supernatural being, or at least that he'll just keep coming back until they're dead.]</DefaultText>
-      <FemaleText>[The Memovira tells them to kill the player, but they refuse, thinking that the player is some kind of supernatural being, or at least that he'll just keep coming back until they're dead.]</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>5</ID>
       <DefaultText>[Screw it. Just fight them again. Less words, more mayhem.]</DefaultText>
-      <FemaleText>[Screw it. Just fight them again. Less words, more mayhem.]</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>6</ID>
       <DefaultText>[Repeat your offer in a pithy manner.]
 
 {CRIT}</DefaultText>
-      <FemaleText>[Repeat your offer in a pithy manner.]
-
-{CRIT}</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>7</ID>
       <DefaultText>[Most of the Memovira's followers panic here and flee before battle, so the combat is much easier.]
 
 {SCRIPT: Make some of the memovira's men flee. If a cutscene is used, this conversation should end here and a script should restart it at another node. This initial structure pass will assume they'll just run away while the dialog continues to run.}</DefaultText>
-      <FemaleText>[Most of the Memovira's followers panic here and flee before battle, so the combat is much easier.]
-
-{SCRIPT: Make some of the memovira's men flee. If a cutscene is used, this conversation should end here and a script should restart it at another node. This initial structure pass will assume they'll just run away while the dialog continues to run.}</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>8</ID>
       <DefaultText>[The Memovira yells at her men, possibly calling them cowards. When she returns her attention to you, she promises that she's going to chop the player's body up into a hundred pieces and feed it to the laaks (or something like that) to make sure the player doesn't return again. This is true – losing the second battle is a game over death.]
 
 {SCRIPT:  Start the crisis again.}</DefaultText>
-      <FemaleText>[The Memovira yells at her men, possibly calling them cowards. When she returns her attention to you, she promises that she's going to chop the player's body up into a hundred pieces and feed it to the laaks (or something like that) to make sure the player doesn't return again. This is true – losing the second battle is a game over death.]
-
-{SCRIPT:  Start the crisis again.}</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>9</ID>
       <DefaultText>[The scene ends in a truce.]</DefaultText>
-      <FemaleText>[The scene ends in a truce.]</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>10</ID>
       <DefaultText>[The scene ends in combat.]</DefaultText>
-      <FemaleText>[The scene ends in combat.]</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>11</ID>
       <DefaultText>[The scene ends in a truce.]</DefaultText>
-      <FemaleText>[The scene ends in a truce.]</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>12</ID>
       <DefaultText>[The scene ends in combat.]</DefaultText>
-      <FemaleText>[The scene ends in combat.]</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>13</ID>
       <DefaultText>[Restate your threat in a pithy manner.]
 
 {CRIT}</DefaultText>
-      <FemaleText>[Restate your threat in a pithy manner.]
-
-{CRIT}</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>14</ID>
       <DefaultText>[The scene ends in a retreat by the Memovira and her men.]</DefaultText>
-      <FemaleText>[The scene ends in a retreat by the Memovira and her men.]</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>15</ID>
       <DefaultText>[The scene ends in combat.]</DefaultText>
-      <FemaleText>[The scene ends in combat.]</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>16</ID>
       <DefaultText>[The scene ends in a retreat by the Memovira and her men.]</DefaultText>
-      <FemaleText>[The scene ends in a retreat by the Memovira and her men.]</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>17</ID>
       <DefaultText>[The scene ends in combat.]</DefaultText>
-      <FemaleText>[The scene ends in combat.]</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>18</ID>
       <DefaultText>[Restate your deception in a pithy manner.]
 
 {CRIT}</DefaultText>
-      <FemaleText>[Restate your deception in a pithy manner.]
-
-{CRIT}</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>19</ID>
       <DefaultText>[The scene ends in a truce.]</DefaultText>
-      <FemaleText>[The scene ends in a truce.]</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>20</ID>
       <DefaultText>[The scene ends in combat.]</DefaultText>
-      <FemaleText>[The scene ends in combat.]</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>21</ID>
       <DefaultText>[The scene ends in a truce.]</DefaultText>
-      <FemaleText>[The scene ends in a truce.]</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>22</ID>
       <DefaultText>[The scene ends in combat.]</DefaultText>
-      <FemaleText>[The scene ends in combat.]</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>23</ID>
       <DefaultText>[Attempt to convince the Memovira to let you use the Merecaster, saying you won't hold a grudge if she grants you that.]</DefaultText>
-      <FemaleText>[Attempt to convince the Memovira to let you use the Merecaster, saying you won't hold a grudge if she grants you that.]</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>24</ID>
       <DefaultText>[Attempt to convince the Memovira to abandon her fortress, since she can't possibly defeat you without all her soldiers.]</DefaultText>
-      <FemaleText>[Attempt to convince the Memovira to abandon her fortress, since she can't possibly defeat you without all her soldiers.]</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>25</ID>
       <DefaultText>[Attempt to deceive the Memovira into thinking that you're somehow immortal and that fighting you is futile.]</DefaultText>
-      <FemaleText>[Attempt to deceive the Memovira into thinking that you're somehow immortal and that fighting you is futile.]</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>26</ID>
       <DefaultText>[The Memovira responds to your argument.]</DefaultText>
-      <FemaleText>[The Memovira responds to your argument.]</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>27</ID>
       <DefaultText>[Grisseler, if present, advises the Memovira to agree to your proposal.]</DefaultText>
-      <FemaleText>[Grisseler, if present, advises the Memovira to agree to your proposal.]</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>28</ID>
       <DefaultText>[The Memovira responds to Grisseler.]</DefaultText>
-      <FemaleText>[The Memovira responds to Grisseler.]</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>29</ID>
       <DefaultText>[The Memovira responds to your threat.]</DefaultText>
-      <FemaleText>[The Memovira responds to your threat.]</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>30</ID>
       <DefaultText>[Grisseler urges the Memovira to accede to your demands.]</DefaultText>
-      <FemaleText>[Grisseler urges the Memovira to accede to your demands.]</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>31</ID>
       <DefaultText>[The Memovira responds to Grisseler's advice.]</DefaultText>
-      <FemaleText>[The Memovira responds to Grisseler's advice.]</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>32</ID>
       <DefaultText>[The Memovira responds to your ruse.]</DefaultText>
-      <FemaleText>[The Memovira responds to your ruse.]</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>33</ID>
       <DefaultText>[Grisseler, if present, gives credence to your deception.]</DefaultText>
-      <FemaleText>[Grisseler, if present, gives credence to your deception.]</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>34</ID>
       <DefaultText>[The Memovira responds to Grisseler's reply.]</DefaultText>
-      <FemaleText>[The Memovira responds to Grisseler's reply.]</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>35</ID>
       <DefaultText>[The combat begins!]
 
 {SCRIPT:  Start the combat.}</DefaultText>
-      <FemaleText>[The combat begins!]
-
-{SCRIPT:  Start the combat.}</FemaleText>
+      <FemaleText />
     </Entry>
   </Entries>
 </StringTableFile>

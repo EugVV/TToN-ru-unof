@@ -7,7 +7,7 @@
     <Entry>
       <ID>1</ID>
       <DefaultText>"{Sniff}Пахнет так, будто тут прячутся. {Quick Sniff}И докторами".</DefaultText>
-      <FemaleText>"{Sniff}Похоже, здесь прячутся. {Quick Sniff}Доктора".</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>2</ID>
@@ -26,13 +26,13 @@
     </Entry>
     <Entry>
       <ID>5</ID>
-      <DefaultText>"Кто...? Мне знаком этот флаг. Там погиб Арталио".</DefaultText>
-      <FemaleText>"Кто...? Мне знаком этот флаг. Там погиб Арталио".</FemaleText>
+      <DefaultText>"Кто?.. Мне знаком этот флаг. Там погиб Арталио".</DefaultText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>6</ID>
       <DefaultText>"Неудивительно".</DefaultText>
-      <FemaleText>"Неудивительно".</FemaleText>
+      <FemaleText />
     </Entry>
   </Entries>
 </StringTableFile>
