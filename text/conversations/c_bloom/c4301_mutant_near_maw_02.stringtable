@@ -7,12 +7,12 @@
     <Entry>
       <ID>1</ID>
       <DefaultText>"Видел ли я Пасть? Да она вырвалась прямо из стены и разрушила мой чертов дом!"</DefaultText>
-      <FemaleText>"Видел ли я Пасти? Да они вырвались прямо из стены и разрушили мой чертов дом!"</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>3</ID>
       <DefaultText>"Кажется, Мемовира нужна, чтобы держать Пасти под контролем..."</DefaultText>
-      <FemaleText>"Кажется, Мемовира нужна, чтобы держать Пасти под контролем..."</FemaleText>
+      <FemaleText />
     </Entry>
   </Entries>
 </StringTableFile>
