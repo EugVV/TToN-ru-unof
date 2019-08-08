@@ -199,8 +199,8 @@
     </Entry>
     <Entry>
       <ID>39</ID>
-      <DefaultText>"Давай же, парень. Делай то, зачем ты пришел сюда".</DefaultText>
-      <FemaleText>"Давай же, девушка. Делай то, зачем ты пришла сюда".</FemaleText>
+      <DefaultText>"Давай же, парень. Делай то, зачем пришёл сюда".</DefaultText>
+      <FemaleText>"Давай же, девочка. Делай то, зачем пришла сюда".</FemaleText>
     </Entry>
   </Entries>
 </StringTableFile>
