@@ -166,8 +166,8 @@
     </Entry>
     <Entry>
       <ID>33</ID>
-      <DefaultText>{angry}"Ты следующий!"</DefaultText>
-      <FemaleText>{angry}"Ты следующая!"</FemaleText>
+      <DefaultText>{сердито}"Ты следующий!"</DefaultText>
+      <FemaleText>{сердито}"Ты следующая!"</FemaleText>
     </Entry>
     <Entry>
       <ID>34</ID>
@@ -176,8 +176,8 @@
     </Entry>
     <Entry>
       <ID>35</ID>
-      <DefaultText>{urgent}"Видишь те клапаны? Проберешься через низ – сможешь попасть внутрь!"</DefaultText>
-      <FemaleText>{urgent}"Ты видела эти клапаны? Пройдешь сквозь них, и ты попадешь внутрь!"</FemaleText>
+      <DefaultText>{настойчиво}"Видишь те клапаны? Проберёшься через них – сможешь попасть внутрь!"</DefaultText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>36</ID>
@@ -301,8 +301,8 @@
     </Entry>
     <Entry>
       <ID>60</ID>
-      <DefaultText>{grim}"Ты сам напросился".</DefaultText>
-      <FemaleText>{grim}"Ты сама напросилась".</FemaleText>
+      <DefaultText>{мрачно}"Ты сам напросился".</DefaultText>
+      <FemaleText>{мрачно}"Ты сама напросилась".</FemaleText>
     </Entry>
     <Entry>
       <ID>61</ID>
@@ -311,8 +311,8 @@
     </Entry>
     <Entry>
       <ID>62</ID>
-      <DefaultText>{pissed off}"Ты *этого* хотел?"</DefaultText>
-      <FemaleText>{pissed off}"Ты *этого* хотела?"</FemaleText>
+      <DefaultText>{недовольно}"*Этого* ты хотел?"</DefaultText>
+      <FemaleText>{недовольно}"*Этого* ты хотела?"</FemaleText>
     </Entry>
     <Entry>
       <ID>63</ID>
@@ -641,8 +641,8 @@
     </Entry>
     <Entry>
       <ID>128</ID>
-      <DefaultText>{urgent} "Не оставляй меня умирать, отверженный".</DefaultText>
-      <FemaleText>{urgent} "Не оставляй меня умирать, отверженная".</FemaleText>
+      <DefaultText>{поспешно} "Не оставляй меня умирать, отверженный".</DefaultText>
+      <FemaleText>{поспешно} "Не оставляй меня умирать, отверженная".</FemaleText>
     </Entry>
     <Entry>
       <ID>129</ID>
@@ -856,8 +856,8 @@
     </Entry>
     <Entry>
       <ID>171</ID>
-      <DefaultText>"Беги пока цел!"</DefaultText>
-      <FemaleText>"Беги пока цела!"</FemaleText>
+      <DefaultText>"Беги, пока цел!"</DefaultText>
+      <FemaleText>"Беги, пока цела!"</FemaleText>
     </Entry>
     <Entry>
       <ID>172</ID>
@@ -1256,8 +1256,8 @@
     </Entry>
     <Entry>
       <ID>251</ID>
-      <DefaultText>{whispering} "Ты... подвел меня... отверженный..."</DefaultText>
-      <FemaleText>{whispering} "Ты... подвела меня... отверженная..."</FemaleText>
+      <DefaultText>{шёпотом} "Ты... подвёл меня... отверженный..."</DefaultText>
+      <FemaleText>{шёпотом} "Ты... подвела меня... отверженная..."</FemaleText>
     </Entry>
     <Entry>
       <ID>252</ID>
@@ -1916,8 +1916,8 @@
     </Entry>
     <Entry>
       <ID>383</ID>
-      <DefaultText>{urgent}"Идем, отверженный. Скорбь уже у ворот. Мы должны убраться отсюда, и поскорее!"</DefaultText>
-      <FemaleText>{urgent}"Идем, отверженная. Скорбь уже у ворот. Мы должны убраться отсюда, и поскорее!"</FemaleText>
+      <DefaultText>{спешно}"Идём, отверженный. Скорбь уже у ворот. Мы должны убраться отсюда и поскорее!"</DefaultText>
+      <FemaleText>{спешно}"Идём, отверженная. Скорбь уже у ворот. Мы должны убраться отсюда и поскорее!"</FemaleText>
     </Entry>
     <Entry>
       <ID>384</ID>
@@ -2481,8 +2481,8 @@
     </Entry>
     <Entry>
       <ID>496</ID>
-      <DefaultText>{Irritated}"Что, серьезно, опять умер? {Scoffs}Да ты просто жаждешь внимания!"</DefaultText>
-      <FemaleText>{Irritated}"Что, серьезно, опять умерла? {Scoffs}Да ты просто жаждешь внимания!"</FemaleText>
+      <DefaultText>{Раздражённо}"Что, серьёзно, опять умер? {Насмешливо}Да ты просто жаждешь внимания!"</DefaultText>
+      <FemaleText>{Раздражённо}"Что, серьёзно, опять умерла? {Насмешливо}Да ты просто жаждешь внимания!"</FemaleText>
     </Entry>
     <Entry>
       <ID>497</ID>
@@ -2521,13 +2521,13 @@
     </Entry>
     <Entry>
       <ID>504</ID>
-      <DefaultText>{Pleased}"Решил вернуться к жизни? Я так и знал!"</DefaultText>
-      <FemaleText>{Pleased}"Решила вернуться к жизни? Я так и знал!"</FemaleText>
+      <DefaultText>{Довольно}"Решил вернуться к жизни? Я так и знал!"</DefaultText>
+      <FemaleText>{Довольно}"Решила вернуться к жизни? Я так и знал!"</FemaleText>
     </Entry>
     <Entry>
       <ID>505</ID>
-      <DefaultText>{Curious, has no idea}"Ты что, умер? {To himself}А как же я не заметил?"</DefaultText>
-      <FemaleText>{Curious, has no idea}"Ты что, умерла? {To himself}А как же я не заметил?"</FemaleText>
+      <DefaultText>{С интересом, не имея представления}"Ты что, умер? {Себе под нос}А как же я не заметил?"</DefaultText>
+      <FemaleText>{С интересом, не имея представления}"Ты что, умерла? {Себе под нос}А как же я не заметил?"</FemaleText>
     </Entry>
     <Entry>
       <ID>506</ID>
@@ -6323,7 +6323,7 @@
     </Entry>
     <Entry>
       <ID>1264</ID>
-      <DefaultText>"А, хорошо. Ты больше не мертвый".</DefaultText>
+      <DefaultText>"А, хорошо. Ты больше не мёртвый".</DefaultText>
       <FemaleText>"А, хорошо. Ты больше не мёртвая".</FemaleText>
     </Entry>
     <Entry>

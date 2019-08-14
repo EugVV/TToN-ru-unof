@@ -11,8 +11,8 @@
     </Entry>
     <Entry>
       <ID>2</ID>
-      <DefaultText>"{испуганно}Ты... что-то хотел?" Рин выглядит бледнее обычного.</DefaultText>
-      <FemaleText>"{испуганно}Ты... что-то хотела?" Рин выглядит бледнее обычного.</FemaleText>
+      <DefaultText>"{Испуганно}Ты... что-то хотел?" – Рин выглядит бледнее обычного.</DefaultText>
+      <FemaleText>"{Испуганно}Ты... что-то хотела?" – Рин выглядит бледнее обычного.</FemaleText>
     </Entry>
     <Entry>
       <ID>3</ID>
@@ -176,15 +176,8 @@
     </Entry>
     <Entry>
       <ID>38</ID>
-      <DefaultText>{взволнованно, почти в панике}"Подожди! Не ходи туда. Сначала ты должен отправить меня домой!" Она хватает вас за руку и удерживает.
-
-{SCRIPT: Needs to force start if the player is about to end the Bloom, so if:
-- Rhin knows Aen-Tozon has her portal home (c4301_AenTozon_RhinAndAenTozon == 2).
-- The player has the Talisman.
-- The party is about to transition to Memovira's Fortress from the Courtyard.
-
-The player should never be able to get to the Memovira with the Talisman and Rhin so long as Rhin knows her way home is here in the Bloom.}</DefaultText>
-      <FemaleText>{взволнованно, почти в панике}"Подожди! Не ходи туда. Сначала ты должна отправить меня домой!" Она хватает вас за руку и удерживает.</FemaleText>
+      <DefaultText>{взволнованно, почти в панике}"Подожди! Не ходи туда. Сначала ты должен отправить меня домой!" – она хватает вас за руку и удерживает.</DefaultText>
+      <FemaleText>{взволнованно, почти в панике}"Подожди! Не ходи туда. Сначала ты должна отправить меня домой!" – она хватает вас за руку и удерживает.</FemaleText>
     </Entry>
     <Entry>
       <ID>39</ID>
@@ -270,8 +263,8 @@ The player should never be able to get to the Memovira with the Talisman and Rhi
     </Entry>
     <Entry>
       <ID>54</ID>
-      <DefaultText>{в ярости от предательства}"И думать забудь! Ты все обещаешь меня вернуть домой, а сам не возвращаешь. Я больше не верю тебе. Я... {неуверенно, но твердо}Я вернусь домой сама!"</DefaultText>
-      <FemaleText>{в ярости от предательства}"И думать забудь! Ты всё обещаешь меня вернуть домой, а сама не возвращаешь. Я больше не верю тебе. Я... {неуверенно, но твёрдо}Я вернусь домой сама!"</FemaleText>
+      <DefaultText>{В ярости от предательства}"И думать забудь! Ты всё обещаешь меня вернуть домой, а сам не возвращаешь. Я больше не верю тебе. Я... {неуверенно, но твёрдо}Я вернусь домой сама!"</DefaultText>
+      <FemaleText>{В ярости от предательства}"И думать забудь! Ты всё обещаешь меня вернуть домой, а сама не возвращаешь. Я больше не верю тебе. Я... {неуверенно, но твёрдо}Я вернусь домой сама!"</FemaleText>
     </Entry>
     <Entry>
       <ID>55</ID>
@@ -384,8 +377,8 @@ The player should never be able to get to the Memovira with the Talisman and Rhi
     </Entry>
     <Entry>
       <ID>79</ID>
-      <DefaultText>"Я рада, что осталась с тобой. Это было правильное решение". Она кивает сама себе. "Ты что-то хотел?"</DefaultText>
-      <FemaleText>"Я рада, что осталась с тобой. Это было правильное решение". Она кивает сама себе. "Ты что-то хотела?"</FemaleText>
+      <DefaultText>"Я рада, что осталась с тобой. Это было правильное решение", – она кивает сама себе. – "Ты что-то хотел?"</DefaultText>
+      <FemaleText>"Я рада, что осталась с тобой. Это было правильное решение", – она кивает сама себе. – "Ты что-то хотела?"</FemaleText>
     </Entry>
     <Entry>
       <ID>81</ID>
@@ -411,8 +404,8 @@ The player should never be able to get to the Memovira with the Talisman and Rhi
     </Entry>
     <Entry>
       <ID>85</ID>
-      <DefaultText>"Извини, я не имел это ввиду. Давай продолжим."</DefaultText>
-      <FemaleText>"Извини, я не имела это ввиду. Давай продолжим."</FemaleText>
+      <DefaultText>"Извини, я не это имел ввиду. Давай пойдём дальше".</DefaultText>
+      <FemaleText>"Извини, я не это имела ввиду. Давай пойдём дальше".</FemaleText>
     </Entry>
     <Entry>
       <ID>86</ID>

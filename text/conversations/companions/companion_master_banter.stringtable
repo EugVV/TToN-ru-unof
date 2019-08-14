@@ -311,17 +311,17 @@
     </Entry>
     <Entry>
       <ID>70</ID>
-      <DefaultText>{hostile} Сссррррссс</DefaultText>
+      <DefaultText>{враждебно}::с-ср-р-рс-с::</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>71</ID>
-      <DefaultText>"Оом, иди сюда. Иди СЮДА. {sigh} Почему он слушается только тебя, отверженный?"</DefaultText>
-      <FemaleText>"Оом, иди сюда. Иди СЮДА. {sigh} Почему он слушается только тебя, отверженная?"</FemaleText>
+      <DefaultText>"Оом, иди сюда. Иди СЮДА. {вдох} Почему он слушается только тебя, отверженный?"</DefaultText>
+      <FemaleText>"Оом, иди сюда. Иди СЮДА. {вдох} Почему он слушается только тебя, отверженная?"</FemaleText>
     </Entry>
     <Entry>
       <ID>72</ID>
-      <DefaultText>{indignant} Срррк</DefaultText>
+      <DefaultText>{возмущённо}::ср-рк::</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -331,7 +331,7 @@
     </Entry>
     <Entry>
       <ID>74</ID>
-      <DefaultText>::ссрррррк::</DefaultText>
+      <DefaultText>::с-ср-р-р-рк::</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -346,8 +346,8 @@
     </Entry>
     <Entry>
       <ID>77</ID>
-      <DefaultText>"Когда ты говоришь со своими богами... Они отвечают? Их слова звучат в твоем разуме или ты ощущаешь их простые эмоции?"  </DefaultText>
-      <FemaleText> </FemaleText>
+      <DefaultText>"Когда ты говоришь со своими богами... Они отвечают? Их слова звучат в твоём разуме или ты ощущаешь их простые эмоции?" </DefaultText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>78</ID>
