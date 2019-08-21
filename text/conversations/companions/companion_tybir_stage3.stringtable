@@ -492,8 +492,8 @@
     </Entry>
     <Entry>
       <ID>172</ID>
-      <DefaultText>"С каждым разом это становится все менее смешным, парень".</DefaultText>
-      <FemaleText>"С каждым разом это становится все менее смешным, подруга".</FemaleText>
+      <DefaultText>"С каждым разом это становится всё менее смешным, парень".</DefaultText>
+      <FemaleText>"С каждым разом это становится всё менее смешным, девочка".</FemaleText>
     </Entry>
   </Entries>
 </StringTableFile>

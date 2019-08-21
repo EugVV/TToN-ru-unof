@@ -373,8 +373,8 @@
     </Entry>
     <Entry>
       <ID>74</ID>
-      <DefaultText>"Ты никогда не терялся, пока видна луна".</DefaultText>
-      <FemaleText>"Ты никогда не терялась, пока видна луна".</FemaleText>
+      <DefaultText>"Ты никогда не потеряешься, пока видна луна".</DefaultText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>75</ID>

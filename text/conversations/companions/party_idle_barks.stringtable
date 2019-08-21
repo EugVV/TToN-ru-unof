@@ -451,8 +451,8 @@
     </Entry>
     <Entry>
       <ID>94</ID>
-      <DefaultText>"Ты никогда не терялся, пока видна луна".</DefaultText>
-      <FemaleText>"Ты никогда не терялась, пока видна луна".</FemaleText>
+      <DefaultText>"Ты никогда не потеряешься, пока видна луна".</DefaultText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>95</ID>
@@ -557,17 +557,17 @@
     <Entry>
       <ID>115</ID>
       <DefaultText>"Находиться рядом в какой-то степени приятно. Расслабляет".</DefaultText>
-      <FemaleText>"Находиться рядом в какой-то степени приятно. Расслабляет".</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>116</ID>
       <DefaultText>"Мне действительно следует двигаться, прежде чем кто-то попытается убить меня".</DefaultText>
-      <FemaleText>"Мне действительно следует двигаться, прежде чем кто-то попытается убить меня".</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>117</ID>
       <DefaultText>"Нужен отдых".</DefaultText>
-      <FemaleText>"Нужен отдых".</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>118</ID>

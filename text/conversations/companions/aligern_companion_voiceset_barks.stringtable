@@ -166,8 +166,8 @@
     </Entry>
     <Entry>
       <ID>33</ID>
-      <DefaultText>{angry}"Ты следующий!"</DefaultText>
-      <FemaleText>{angry}"Ты следующая!"</FemaleText>
+      <DefaultText>{сердито}"Ты следующий!"</DefaultText>
+      <FemaleText>{сердито}"Ты следующая!"</FemaleText>
     </Entry>
     <Entry>
       <ID>34</ID>
@@ -176,8 +176,8 @@
     </Entry>
     <Entry>
       <ID>35</ID>
-      <DefaultText>{urgent}"Видишь те клапаны? Проберешься через низ – сможешь попасть внутрь!"</DefaultText>
-      <FemaleText>{urgent}"Ты видела эти клапаны? Пройдешь сквозь них, и ты попадешь внутрь!"</FemaleText>
+      <DefaultText>{настойчиво}"Видишь те клапаны? Проберёшься через них – сможешь попасть внутрь!"</DefaultText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>36</ID>
@@ -271,13 +271,13 @@
     </Entry>
     <Entry>
       <ID>54</ID>
-      <DefaultText>{gasping}"Еще не конец... Я еще жив..."</DefaultText>
+      <DefaultText>{задыхаясь}"Ещё не конец... я ещё жив..."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>55</ID>
-      <DefaultText>{gasping}"Ты... предал... меня".</DefaultText>
-      <FemaleText>{gasping}"Ты... предала... меня".</FemaleText>
+      <DefaultText>{задыхаясь}"Ты... предал... меня".</DefaultText>
+      <FemaleText>{задыхаясь}"Ты... предала... меня".</FemaleText>
     </Entry>
     <Entry>
       <ID>56</ID>
@@ -301,8 +301,8 @@
     </Entry>
     <Entry>
       <ID>60</ID>
-      <DefaultText>{grim}"Ты сам напросился".</DefaultText>
-      <FemaleText>{grim}"Ты сама напросилась".</FemaleText>
+      <DefaultText>{мрачно}"Ты сам напросился".</DefaultText>
+      <FemaleText>{мрачно}"Ты сама напросилась".</FemaleText>
     </Entry>
     <Entry>
       <ID>61</ID>
@@ -311,8 +311,8 @@
     </Entry>
     <Entry>
       <ID>62</ID>
-      <DefaultText>{pissed off}"Ты *этого* хотел?"</DefaultText>
-      <FemaleText>{pissed off}"Ты *этого* хотела?"</FemaleText>
+      <DefaultText>{недовольно}"*Этого* ты хотел?"</DefaultText>
+      <FemaleText>{недовольно}"*Этого* ты хотела?"</FemaleText>
     </Entry>
     <Entry>
       <ID>63</ID>
@@ -641,8 +641,8 @@
     </Entry>
     <Entry>
       <ID>128</ID>
-      <DefaultText>{urgent} "Не оставляй меня умирать, отверженный".</DefaultText>
-      <FemaleText>{urgent} "Не оставляй меня умирать, отверженная".</FemaleText>
+      <DefaultText>{поспешно} "Не оставляй меня умирать, отверженный".</DefaultText>
+      <FemaleText>{поспешно} "Не оставляй меня умирать, отверженная".</FemaleText>
     </Entry>
     <Entry>
       <ID>129</ID>
@@ -861,8 +861,8 @@
     </Entry>
     <Entry>
       <ID>172</ID>
-      <DefaultText>"Беги пока цел!"</DefaultText>
-      <FemaleText>"Беги пока цела!"</FemaleText>
+      <DefaultText>"Беги, пока цел!"</DefaultText>
+      <FemaleText>"Беги, пока цела!"</FemaleText>
     </Entry>
     <Entry>
       <ID>173</ID>
