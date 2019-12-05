@@ -7,32 +7,32 @@
     <Entry>
       <ID>1</ID>
       <DefaultText>Отверженные сражаются бок о бок, но держатся на расстоянии вытянутой руки, делая вид, что они не вместе.</DefaultText>
-      <FemaleText>Отверженные сражаются бок о бок, но держатся на расстоянии вытянутой руки, делая вид, что они не вместе.</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>2</ID>
       <DefaultText>Сказать им, чтобы они боролись с фрагментами Скорби.</DefaultText>
-      <FemaleText>Сказать им, чтобы они боролись с фрагментами Скорби.</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>3</ID>
       <DefaultText>Попросить их помочь другим отверженным.</DefaultText>
-      <FemaleText>Попросить их помочь другим отверженным.</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>4</ID>
       <DefaultText>Убедить их убежать и спастись.</DefaultText>
-      <FemaleText>Убедить их убежать и спастись.</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>5</ID>
       <DefaultText>Она ухмыляется. "С удовольствием".</DefaultText>
-      <FemaleText>Она ухмыляется. "С удовольствием".</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>6</ID>
       <DefaultText>Она отрывисто кивает. "При условии, что ты будешь прикрывать наши спины. Пойдем, Песчанорукий".</DefaultText>
-      <FemaleText>Она отрывисто кивает. "При условии, что ты будешь прикрывать наши спины. Пойдем, Песчанорукий".</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>7</ID>
@@ -47,7 +47,7 @@
     <Entry>
       <ID>10</ID>
       <DefaultText>Двое отверженных продолжают бороться с фрагментами Скорби, делая все возможное, чтобы показать, что они не полагаются на друг друга.</DefaultText>
-      <FemaleText>Двое отверженных продолжают бороться с фрагментами Скорби, делая все возможное, чтобы показать, что они не полагаются на друг друга.</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>11</ID>
@@ -57,7 +57,7 @@
     <Entry>
       <ID>12</ID>
       <DefaultText>"Ни за что", – говорит она, хмурясь.</DefaultText>
-      <FemaleText>"Ни за что", – говорит она, хмурясь.</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>14</ID>
@@ -67,12 +67,12 @@
     <Entry>
       <ID>15</ID>
       <DefaultText>"Мы пытаемся найти других. Чего ты хочешь?"</DefaultText>
-      <FemaleText>"Мы пытаемся найти других. Чего ты хочешь?"</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>16</ID>
       <DefaultText>"Мы делаем все возможное, чтобы противостоять этим чудовищам. Что тебе нужно?"</DefaultText>
-      <FemaleText>"Мы делаем все возможное, чтобы противостоять этим чудовищам. Что тебе нужно?"</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>17</ID>
@@ -82,7 +82,7 @@
     <Entry>
       <ID>18</ID>
       <DefaultText>Уйти.</DefaultText>
-      <FemaleText>Уйти.</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>19</ID>
@@ -92,42 +92,42 @@
     <Entry>
       <ID>20</ID>
       <DefaultText>"Песчанорукий! *Черт* возьми!"</DefaultText>
-      <FemaleText>"Песчанорукий! *Черт* возьми!"</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>21</ID>
       <DefaultText>Клинок невозмутимо проносится мимо опасностей, окружающих ее. Она смотрит на вас: "Что тебе нужно?"</DefaultText>
-      <FemaleText>Клинок невозмутимо проносится мимо опасностей, окружающих ее. Она смотрит на вас: "Что тебе нужно?"</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>22</ID>
       <DefaultText>"Что тебе нужно?"</DefaultText>
-      <FemaleText>"Что тебе нужно?"</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>23</ID>
       <DefaultText>Сказать ей, чтобы она боролась с фрагментами Скорби.</DefaultText>
-      <FemaleText>Сказать ей, чтобы она боролась с фрагментами Скорби.</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>24</ID>
       <DefaultText>Она ухмыляется. "С удовольствием".</DefaultText>
-      <FemaleText>Она ухмыляется. "С удовольствием".</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>25</ID>
       <DefaultText>Попросить ее помочь другим отверженным.</DefaultText>
-      <FemaleText>Попросить ее помочь другим отверженным.</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>26</ID>
       <DefaultText>Она отрывисто кивает. "Хорошо. Прикрой меня".</DefaultText>
-      <FemaleText>Она отрывисто кивает. "Хорошо. Прикрой меня".</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>27</ID>
       <DefaultText>Убедить ее убежать и спастись.</DefaultText>
-      <FemaleText>Убедить ее убежать и спастись.</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>28</ID>
@@ -137,7 +137,7 @@
     <Entry>
       <ID>29</ID>
       <DefaultText>"Ни за что", – говорит она, хмурясь.</DefaultText>
-      <FemaleText>"Ни за что", – говорит она, хмурясь.</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>31</ID>
@@ -147,27 +147,27 @@
     <Entry>
       <ID>32</ID>
       <DefaultText>"Я пытаюсь найти других. Чего ты хочешь?"</DefaultText>
-      <FemaleText>"Я пытаюсь найти других. Чего ты хочешь?"</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>33</ID>
       <DefaultText>"Я делаю все возможное, чтобы противостоять этим чудовищам. Что тебе нужно?"</DefaultText>
-      <FemaleText>"Я делаю все возможное, чтобы противостоять этим чудовищам. Что тебе нужно?"</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>35</ID>
       <DefaultText>"Песчанорукий ничего не знает о тактических приемах! Где *он*?"</DefaultText>
-      <FemaleText>"Песчанорукий ничего не знает о тактических приемах! Где *он*?"</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>36</ID>
       <DefaultText>"Это твой дом?"</DefaultText>
-      <FemaleText>"Это твой дом?"</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>37</ID>
       <DefaultText>"Боги, она здесь!"</DefaultText>
-      <FemaleText>"Боги, она здесь!"</FemaleText>
+      <FemaleText />
     </Entry>
   </Entries>
 </StringTableFile>

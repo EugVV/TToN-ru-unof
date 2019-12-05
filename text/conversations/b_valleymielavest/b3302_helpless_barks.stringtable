@@ -17,17 +17,17 @@
     <Entry>
       <ID>3</ID>
       <DefaultText>"Бездна Аваддона! Нам конец!"</DefaultText>
-      <FemaleText>"Бездна Аваддона! Нам конец!"</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>4</ID>
       <DefaultText>"Я достаточно пожил, чтобы умереть здесь".</DefaultText>
-      <FemaleText>"Я достаточно пожил, чтобы умереть здесь".</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>5</ID>
       <DefaultText>"Это место было... нашим убежищем..."</DefaultText>
-      <FemaleText>"Это место было... нашим убежищем..."</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>6</ID>
@@ -47,47 +47,47 @@
     <Entry>
       <ID>9</ID>
       <DefaultText>"Не могу сказать, что я сделал бы то же самое для тебя, но... спасибо".</DefaultText>
-      <FemaleText>"Не могу сказать, что я сделал бы то же самое для тебя, но... спасибо".</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>10</ID>
       <DefaultText>"Хорошо. Теперь уйди с дороги!"</DefaultText>
-      <FemaleText>"Хорошо. Теперь уйди с дороги!"</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>11</ID>
-      <DefaultText>"Ты... ты пришел за *мной*? С-спасибо".</DefaultText>
-      <FemaleText>"Ты... ты пришел за *мной*? С-спасибо".</FemaleText>
+      <DefaultText>"Ты... ты пришёл за *мной*? С-спасибо".</DefaultText>
+      <FemaleText>"Ты... ты пришла за *мной*? С-спасибо".</FemaleText>
     </Entry>
     <Entry>
       <ID>13</ID>
       <DefaultText>"Так что... вот и все..."</DefaultText>
-      <FemaleText>"Так что... вот и все..."</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>14</ID>
       <DefaultText>"Напрасно... все напрасно..."</DefaultText>
-      <FemaleText>"Напрасно... все напрасно..."</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>15</ID>
       <DefaultText>"Почему?"</DefaultText>
-      <FemaleText>"Почему?"</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>16</ID>
       <DefaultText>"Уйди с дороги".</DefaultText>
-      <FemaleText>"Уйди с дороги".</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>17</ID>
       <DefaultText>"Где наш творец? Его даже не волнует, что сейчас происходит?"</DefaultText>
-      <FemaleText>"Где наш творец? Его даже не волнует, что сейчас происходит?"</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>18</ID>
       <DefaultText>"Нигде не безопасно!"</DefaultText>
-      <FemaleText>"Нигде не безопасно!"</FemaleText>
+      <FemaleText />
     </Entry>
   </Entries>
 </StringTableFile>

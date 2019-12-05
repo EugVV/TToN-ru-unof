@@ -7,17 +7,17 @@
     <Entry>
       <ID>1</ID>
       <DefaultText>"Я никуда не уйду, пока не буду знать *наверняка*, что Скорбь успокоилась".</DefaultText>
-      <FemaleText>"Я никуда не уйду, пока не буду знать *наверняка*, что Скорбь успокоилась".</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>2</ID>
       <DefaultText>"Я почувствовала присутствие Скорби. Это было лишь предчувствие, но я сразу же примчалась сюда".</DefaultText>
-      <FemaleText>"Я почувствовала присутствие Скорби. Это было лишь предчувствие, но я сразу же примчалась сюда".</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>3</ID>
       <DefaultText>"Надеюсь, щиты выдержат".</DefaultText>
-      <FemaleText>"Надеюсь, щиты выдержат".</FemaleText>
+      <FemaleText />
     </Entry>
   </Entries>
 </StringTableFile>

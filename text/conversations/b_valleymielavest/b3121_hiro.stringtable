@@ -185,23 +185,23 @@
     <Entry>
       <ID>35</ID>
       <DefaultText>Он жестом провожает удаляющегося мужчину – поднимает большой палец. "Мне нравятся взгляды этого парня".</DefaultText>
-      <FemaleText>Он жестом провожает удаляющегося мужчину – поднимает большой палец. "Мне нравятся взгляды этого парня".</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>36</ID>
       <DefaultText>Она тихо смеется. "Алигерну бы понравился этот человек".</DefaultText>
-      <FemaleText>Она тихо смеется. "Алигерну бы понравился этот человек".</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>37</ID>
-      <DefaultText>::шрм-м-м::, – произносит Оом, похлопывая Хиро по лодыжке.</DefaultText>
+      <DefaultText>::шрм-м-м:: – произносит Оом, похлопывая Хиро по лодыжке.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>38</ID>
-      <DefaultText>Он фыркает. 
- 
- – Я не просил об утешении, но, о боги, я его принимаю.</DefaultText>
+      <DefaultText>Он фыркает.
+
+"Я не просил об утешении, но, о боги, я его принимаю".</DefaultText>
       <FemaleText />
     </Entry>
   </Entries>
