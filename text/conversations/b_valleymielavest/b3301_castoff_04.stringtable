@@ -7,22 +7,22 @@
     <Entry>
       <ID>1</ID>
       <DefaultText>"Так это ты мастер сваливаться с небес?"</DefaultText>
-      <FemaleText>"Так это ты мастер сваливаться с небес?"</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>2</ID>
       <DefaultText>"Кажется, Скорбь зашевелилась после твоего рождения. Совпадение?"</DefaultText>
-      <FemaleText>"Кажется, Скорбь зашевелилась после твоего рождения. Совпадение?"</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>3</ID>
       <DefaultText>"Как мы можем быть уверены, что она и сюда за тобой не явится?"</DefaultText>
-      <FemaleText>"Как мы можем быть уверены, что она и сюда за тобой не явится?"</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>4</ID>
       <DefaultText>"Уходи из Миэль Авеста. Могу поспорить, Скорбь охотится именно за тобой".</DefaultText>
-      <FemaleText>"Уходи из Миэль Авеста. Могу поспорить, Скорбь охотится именно за тобой".</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>5</ID>
@@ -32,7 +32,7 @@
     <Entry>
       <ID>6</ID>
       <DefaultText>"Я знаю о местных средствах защиты, но их *недостаточно*".</DefaultText>
-      <FemaleText>"Я знаю о местных средствах защиты, но их *недостаточно*".</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>7</ID>
@@ -42,7 +42,7 @@
     <Entry>
       <ID>8</ID>
       <DefaultText>"Ты не считаешь, что с его появлением нужно ждать беды?"</DefaultText>
-      <FemaleText>"Ты не считаешь, что с его появлением нужно ждать беды?"</FemaleText>
+      <FemaleText>"Ты не считаешь, что с её появлением нужно ждать беды?"</FemaleText>
     </Entry>
     <Entry>
       <ID>9</ID>

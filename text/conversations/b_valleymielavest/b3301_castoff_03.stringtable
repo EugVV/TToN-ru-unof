@@ -7,22 +7,22 @@
     <Entry>
       <ID>1</ID>
       <DefaultText>"Не волнуйся, здесь мы в безопасности".</DefaultText>
-      <FemaleText>"Не волнуйся, здесь мы в безопасности".</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>2</ID>
       <DefaultText>"Все слишком взволнованы. Порталы и раньше были открыты, но Скорбь никогда ими не пользовалась".</DefaultText>
-      <FemaleText>"Все слишком взволнованы. Порталы и раньше были открыты, но Скорбь никогда ими не пользовалась".</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>3</ID>
-      <DefaultText>"Я уже рассказывал тебе свою теорию о Гробнице?"</DefaultText>
-      <FemaleText>"Я уже рассказывал тебе свою теорию о Гробнице?"</FemaleText>
+      <DefaultText>"Я уже рассказывал тебе свою теорию о гробнице?"</DefaultText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>4</ID>
       <DefaultText>"Не обращай внимания на остальных".</DefaultText>
-      <FemaleText>"Не обращай внимания на остальных".</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>5</ID>
@@ -31,18 +31,18 @@
     </Entry>
     <Entry>
       <ID>6</ID>
-      <DefaultText>"Но ты снова забываешь о Гробнице".</DefaultText>
-      <FemaleText>"Но ты снова забываешь о Гробнице".</FemaleText>
+      <DefaultText>"Но ты снова забываешь о гробнице".</DefaultText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>7</ID>
       <DefaultText>"Чем еще объяснить мирные годы?"</DefaultText>
-      <FemaleText>"Чем еще объяснить мирные годы?"</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>8</ID>
       <DefaultText>"Нет. Ты перегибаешь палку".</DefaultText>
-      <FemaleText>"Нет. Ты перегибаешь палку".</FemaleText>
+      <FemaleText />
     </Entry>
   </Entries>
 </StringTableFile>
