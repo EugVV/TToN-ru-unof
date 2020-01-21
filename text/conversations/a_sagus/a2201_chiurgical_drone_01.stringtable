@@ -21,7 +21,7 @@
     </Entry>
     <Entry>
       <ID>4</ID>
-      <DefaultText>Проверить этот дрон.</DefaultText>
+      <DefaultText>Осмотреть дрона.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -38,7 +38,7 @@
     </Entry>
     <Entry>
       <ID>7</ID>
-      <DefaultText>Дрон вонзает в вас вложенные лезвия, когда вы подходите для вторичного осмотра.</DefaultText>
+      <DefaultText>Когда вы пытаетесь приблизиться для повторного осмотра, дрон тыкает вас выдвижными лезвиями.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
