@@ -7,22 +7,22 @@
     <Entry>
       <ID>1</ID>
       <DefaultText>"Так ты и есть последний образец? Не так уж и много в тебе нового".</DefaultText>
-      <FemaleText>"Так ты и есть последний образец? Не так уж и много в тебе нового".</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>2</ID>
       <DefaultText>"Отвали, я не стану тратить время на какого-то сосунка".</DefaultText>
-      <FemaleText>"Отвали, я не стану тратить время на какого-то сосунка".</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>3</ID>
       <DefaultText>"Отстань от меня, а? Мне это неинтересно".</DefaultText>
-      <FemaleText>"Отстань от меня, а? Мне это неинтересно".</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>4</ID>
       <DefaultText>"За что ты меня донимаешь? Пойди поговори с Аадирис или с кем еще".</DefaultText>
-      <FemaleText>"За что ты меня донимаешь? Пойди поговори с Аадирис или с кем еще".</FemaleText>
+      <FemaleText />
     </Entry>
   </Entries>
 </StringTableFile>

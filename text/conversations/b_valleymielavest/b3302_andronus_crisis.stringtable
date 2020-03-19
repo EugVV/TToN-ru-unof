@@ -62,57 +62,57 @@
     <Entry>
       <ID>12</ID>
       <DefaultText>"Черт возьми! Райма была *моей*!"</DefaultText>
-      <FemaleText>"Черт возьми! Райма была *моей*!"</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>13</ID>
       <DefaultText>"Мы уходим, мы уходим".</DefaultText>
-      <FemaleText>"Мы уходим, мы уходим".</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>14</ID>
-      <DefaultText>"Что случилось? Я думал, что мы должны искать других".</DefaultText>
-      <FemaleText>"Что случилось? Я думал, что мы должны искать других".</FemaleText>
+      <DefaultText>"Что случилось? Я думал, мы должны искать других".</DefaultText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>15</ID>
       <DefaultText>"Мы делаем все, что в наших силах. Уходи".</DefaultText>
-      <FemaleText>"Мы делаем все, что в наших силах. Уходи".</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>16</ID>
       <DefaultText>Отверженные сражаются бок о бок, но держатся на расстоянии вытянутой руки, делая вид, что они не вместе.</DefaultText>
-      <FemaleText>Отверженные сражаются бок о бок, но держатся на расстоянии вытянутой руки, делая вид, что они не вместе.</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>17</ID>
       <DefaultText>Двое отверженных продолжают бороться с фрагментами Скорби, делая все возможное, чтобы показать, что они не полагаются на друг друга.</DefaultText>
-      <FemaleText>Двое отверженных продолжают бороться с фрагментами Скорби, делая все возможное, чтобы показать, что они не полагаются на друг друга.</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>18</ID>
       <DefaultText>Сказать им, чтобы они боролись с фрагментами Скорби.</DefaultText>
-      <FemaleText>Сказать им, чтобы они боролись с фрагментами Скорби.</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>19</ID>
       <DefaultText>"С удовольствием".</DefaultText>
-      <FemaleText>"С удовольствием".</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>20</ID>
       <DefaultText>Попросить их помочь другим отверженным.</DefaultText>
-      <FemaleText>Попросить их помочь другим отверженным.</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>21</ID>
       <DefaultText>Он отрывисто кивает. "Хорошо. Пойдем, Райма".</DefaultText>
-      <FemaleText>Он отрывисто кивает. "Хорошо. Пойдем, Райма".</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>22</ID>
       <DefaultText>Убедить их убежать и спастись.</DefaultText>
-      <FemaleText>Убедить их убежать и спастись.</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>23</ID>
@@ -121,13 +121,13 @@
     </Entry>
     <Entry>
       <ID>24</ID>
-      <DefaultText>"Нет," – рычит он. "Ни от *кого* я убегать не буду".</DefaultText>
-      <FemaleText>"Нет," – рычит он. "Ни от *кого* я убегать не буду".</FemaleText>
+      <DefaultText>"Нет", – рычит он. – "Ни от *кого* я убегать не буду".</DefaultText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>25</ID>
       <DefaultText>Уйти.</DefaultText>
-      <FemaleText>Уйти.</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>26</ID>
@@ -137,82 +137,82 @@
     <Entry>
       <ID>27</ID>
       <DefaultText>"Райма! Нет!"</DefaultText>
-      <FemaleText>"Райма! Нет!"</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>28</ID>
       <DefaultText>Клинок перемещается туда-сюда, пытаясь нанести следующий удар. Его доспехи трещат, когда он поворачивается к вам. "Что?"</DefaultText>
-      <FemaleText>Клинок перемещается туда-сюда, пытаясь нанести следующий удар. Его доспехи трещат, когда он поворачивается к вам. "Что?"</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>29</ID>
       <DefaultText>"Что на этот раз?"</DefaultText>
-      <FemaleText>"Что на этот раз?"</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>30</ID>
       <DefaultText>Сказать ему, чтобы он боролся с фрагментами Скорби.</DefaultText>
-      <FemaleText>Сказать ему, чтобы он боролся с фрагментами Скорби.</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>31</ID>
       <DefaultText>"С удовольствием".</DefaultText>
-      <FemaleText>"С удовольствием".</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>32</ID>
       <DefaultText>Попросить его помочь другим отверженным.</DefaultText>
-      <FemaleText>Попросить его помочь другим отверженным.</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>33</ID>
       <DefaultText>Он отрывисто кивает. "Верно".</DefaultText>
-      <FemaleText>Он отрывисто кивает. "Верно".</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>34</ID>
       <DefaultText>Убедить его убежать и спастись.</DefaultText>
-      <FemaleText>Убедить его убежать и спастись.</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>35</ID>
-      <DefaultText>Он резко оборачивается, чтобы возразить, а затем вздыхает при взгляде на разрушения вокруг него. "Может быть, ты прав".</DefaultText>
-      <FemaleText>Он резко оборачивается, чтобы возразить, а затем вздыхает при взгляде на разрушения вокруг него. "Может быть, ты прав".</FemaleText>
+      <DefaultText>Он резко оборачивается, чтобы возразить, а затем вздыхает при взгляде на разрушения вокруг него: "Может быть, ты и прав".</DefaultText>
+      <FemaleText>Он резко оборачивается, чтобы возразить, а затем вздыхает при взгляде на разрушения вокруг него: "Может быть, ты и права".</FemaleText>
     </Entry>
     <Entry>
       <ID>36</ID>
-      <DefaultText>"Нет," – рычит он. "Ни от *кого* я убегать не буду".</DefaultText>
-      <FemaleText>"Нет," – рычит он. "Ни от *кого* я убегать не буду".</FemaleText>
+      <DefaultText>"Нет", – рычит он. – "Ни от *кого* я убегать не буду".</DefaultText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>44</ID>
-      <DefaultText>"Я ухожу, я ухожу".</DefaultText>
-      <FemaleText>"Я ухожу, я ухожу".</FemaleText>
+      <DefaultText>"Я ухожу, ухожу".</DefaultText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>45</ID>
-      <DefaultText>"Что случилось? Я думал, что я должен искать других".</DefaultText>
-      <FemaleText>"Что случилось? Я думал, что я должен искать других".</FemaleText>
+      <DefaultText>"Что случилось? Думал, я должен искать других".</DefaultText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>46</ID>
       <DefaultText>"Я делаю все, что могу. Оставь меня".</DefaultText>
-      <FemaleText>"Я делаю все, что могу. Оставь меня".</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>47</ID>
       <DefaultText>"Райма так и блуждает где-то. Мы не можем вместе работать, когда далеко друг от друга!"</DefaultText>
-      <FemaleText>"Райма так и блуждает где-то. Мы не можем вместе работать, когда далеко друг от друга!"</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>48</ID>
       <DefaultText>"Мы не боимся тебя. Отведай нашего меча!"</DefaultText>
-      <FemaleText>"Мы не боимся тебя. Отведай нашего меча!"</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>49</ID>
       <DefaultText>"Начинается!"</DefaultText>
-      <FemaleText>"Начинается!"</FemaleText>
+      <FemaleText />
     </Entry>
   </Entries>
 </StringTableFile>
