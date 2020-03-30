@@ -11,18 +11,18 @@
     </Entry>
     <Entry>
       <ID>2</ID>
-      <DefaultText>"Ааай!"</DefaultText>
-      <FemaleText>"Ааай!"</FemaleText>
+      <DefaultText>"А-а-ай!"</DefaultText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>3</ID>
       <DefaultText>::визжит::</DefaultText>
-      <FemaleText>::визжит::</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>4</ID>
       <DefaultText>::сопение::</DefaultText>
-      <FemaleText>::сопение::</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>5</ID>
@@ -31,8 +31,8 @@
     </Entry>
     <Entry>
       <ID>6</ID>
-      <DefaultText>::захлебывающиеся звуки::</DefaultText>
-      <FemaleText>::захлебывающиеся звуки::</FemaleText>
+      <DefaultText>::захлёбывающиеся звуки::</DefaultText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>7</ID>
@@ -42,17 +42,17 @@
     <Entry>
       <ID>8</ID>
       <DefaultText>"Узри нас! Забери нас!"</DefaultText>
-      <FemaleText>"Узри нас! Забери нас!"</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>9</ID>
       <DefaultText>::рычание::</DefaultText>
-      <FemaleText>::рычание::</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>10</ID>
       <DefaultText>::охает::</DefaultText>
-      <FemaleText>::охает::</FemaleText>
+      <FemaleText />
     </Entry>
   </Entries>
 </StringTableFile>
