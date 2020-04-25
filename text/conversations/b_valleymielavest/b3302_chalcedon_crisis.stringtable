@@ -11,28 +11,28 @@
     </Entry>
     <Entry>
       <ID>5</ID>
-      <DefaultText>"Уходим отсюда, братья и сестры! Портал в Некрополь все еще включен!"</DefaultText>
-      <FemaleText>"Уходим отсюда, братья и сестры! Портал в Некрополь все еще включен!"</FemaleText>
+      <DefaultText>"Уходим отсюда, братья и сестры! Портал в Некрополь всё ещё работает!"</DefaultText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>6</ID>
       <DefaultText>"Боже мой, она здесь! Она всех нас убьет!"</DefaultText>
-      <FemaleText>"Боже мой, она здесь! Она всех нас убьет!"</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>7</ID>
       <DefaultText>"Я не буду сидеть сложа руки и ждать, пока вы все перестанете бояться".</DefaultText>
-      <FemaleText>"Я не буду сидеть сложа руки и ждать, пока вы все перестанете бояться".</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>8</ID>
-      <DefaultText>"Я... Я вернусь. Я пойду за помощью. Я... Боже милостивый..."</DefaultText>
-      <FemaleText>"Я... Я вернусь. Я пойду за помощью. Я... Боже милостивый..."</FemaleText>
+      <DefaultText>"Я... вернусь. Я пойду за помощью. Я... боже милостивый..."</DefaultText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>9</ID>
       <DefaultText>"Используй эти щиты!"</DefaultText>
-      <FemaleText>"Используй эти щиты!"</FemaleText>
+      <FemaleText />
     </Entry>
   </Entries>
 </StringTableFile>
