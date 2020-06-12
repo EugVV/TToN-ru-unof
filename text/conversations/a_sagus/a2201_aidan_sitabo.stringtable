@@ -268,7 +268,7 @@
     </Entry>
     <Entry>
       <ID>45</ID>
-      <DefaultText>"Мне нужна помощь, чтобы сражаться с нихтемероном на Рифе Падших Миров".</DefaultText>
+      <DefaultText>"Мне нужна помощь, чтобы сражаться с нихтемероном на рифе Падших Миров".</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -446,7 +446,7 @@
     </Entry>
     <Entry>
       <ID>73</ID>
-      <DefaultText>"Я встречусь с тобой на Рифе Падших Миров".
+      <DefaultText>"Я встречусь с тобой на рифе Падших Миров".
 
 {JOURNAL: Reminding player that they've hired Aidan to help them fight the nychthemeron, and that he will meet them in the Reef.}</DefaultText>
       <FemaleText />
