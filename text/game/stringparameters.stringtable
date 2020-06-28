@@ -3956,8 +3956,8 @@
     </Entry>
     <Entry>
       <ID>791</ID>
-      <DefaultText>Почему этот молокосос путешествует с *ней*? Она пугает меня до дрожи.</DefaultText>
-      <FemaleText />
+      <DefaultText>Почему этот новичок путешествует с *ней*? Она пугает меня до дрожи.</DefaultText>
+      <FemaleText>Почему эта новенькая путешествует с *ней*? Она пугает меня до дрожи.</FemaleText>
     </Entry>
     <Entry>
       <ID>792</ID>
@@ -3966,7 +3966,7 @@
     </Entry>
     <Entry>
       <ID>793</ID>
-      <DefaultText>Не похоже на то, что она разбила лагерь. Скорее уж сбежала в спешке.</DefaultText>
+      <DefaultText>Непохоже на то, что она снялась с лагеря. Скорее уж сбежала в спешке.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
