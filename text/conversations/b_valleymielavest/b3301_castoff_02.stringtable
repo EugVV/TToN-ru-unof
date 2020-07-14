@@ -7,22 +7,22 @@
     <Entry>
       <ID>1</ID>
       <DefaultText>"Ох, истории, которые я могу рассказать о Первой. Спроси о них, когда отделаешься от Аадирис".</DefaultText>
-      <FemaleText>"Ох, истории, которые я могу рассказать о Первой. Спроси о них, когда отделаешься от Аадирис".</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>2</ID>
       <DefaultText>"Первая знала, как докопаться до истины".</DefaultText>
-      <FemaleText>"Первая знала, как докопаться до истины".</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>3</ID>
       <DefaultText>"Я путешествовал с Первой целых десять лет. Она открыла мне правду, которую я не забуду".</DefaultText>
-      <FemaleText>"Я путешествовал с Первой целых десять лет. Она открыла мне правду, которую я не забуду".</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>4</ID>
       <DefaultText>"Жаль, что вы с Первой не встретились. Тебе бы она понравилась".</DefaultText>
-      <FemaleText>"Жаль, что вы с Первой не встретились. Тебе бы она понравилась".</FemaleText>
+      <FemaleText />
     </Entry>
   </Entries>
 </StringTableFile>
