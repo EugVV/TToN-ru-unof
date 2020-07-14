@@ -3361,8 +3361,8 @@
     </Entry>
     <Entry>
       <ID>672</ID>
-      <DefaultText>Кто говорит? Ты пришёл спасти меня? Нет. Там никого нет.</DefaultText>
-      <FemaleText />
+      <DefaultText>Кто говорит? Ты пришёл помочь мне? Нет. Там никого нет.</DefaultText>
+      <FemaleText>Кто говорит? Ты пришла помочь мне? Нет. Там никого нет.</FemaleText>
     </Entry>
     <Entry>
       <ID>673</ID>
