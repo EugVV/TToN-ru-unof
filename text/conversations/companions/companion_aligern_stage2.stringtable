@@ -1501,9 +1501,7 @@
     </Entry>
     <Entry>
       <ID>305</ID>
-      <DefaultText>"Мой друг Орт Фонг из Ордена Истины чего-то от меня хотел. Надо бы зайти к нему. Правда, мы со жрецами не очень-то ладим, и, возможно, они даже не захотят со мной разговаривать".
-
-{SCRIPT: Force conversation when player enters Government Square or OoT for first time with Aligern}</DefaultText>
+      <DefaultText>"Мой друг Орт Фонг из ордена Истины чего-то от меня хотел. Надо бы зайти к нему. Правда, мы со жрецами не очень-то ладим, и, возможно, они даже не захотят со мной разговаривать".</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
