@@ -12,17 +12,17 @@
     <Entry>
       <ID>2</ID>
       <DefaultText>::стонет::</DefaultText>
-      <FemaleText>::стонет::</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>3</ID>
       <DefaultText>::бормочет::</DefaultText>
-      <FemaleText>::бормочет::</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>4</ID>
-      <DefaultText>"Грррррх".</DefaultText>
-      <FemaleText>"Грррррх".</FemaleText>
+      <DefaultText>"Гр-р-р-р".</DefaultText>
+      <FemaleText />
     </Entry>
   </Entries>
 </StringTableFile>

@@ -12,27 +12,27 @@
     <Entry>
       <ID>2</ID>
       <DefaultText>Убедить его успокоиться и взять себя в руки.</DefaultText>
-      <FemaleText>Убедить его успокоиться и взять себя в руки.</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>3</ID>
-      <DefaultText>Привести его в чувства.</DefaultText>
-      <FemaleText>Привести его в чувства.</FemaleText>
+      <DefaultText>Привести его в чувства пощёчиной.</DefaultText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>4</ID>
       <DefaultText>Сказать ему, чтобы он убегал.</DefaultText>
-      <FemaleText>Сказать ему, чтобы он убегал.</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>5</ID>
       <DefaultText>"Я-я", – заикается он, а затем ловит ваш взгляд и сглатывает слюну. "Д-да, хорошо. Только скажи, что мне делать, и я это сделаю".</DefaultText>
-      <FemaleText>"Я-я", – заикается он, а затем ловит ваш взгляд и сглатывает слюну. "Д-да, хорошо. Только скажи, что мне делать, и я это сделаю".</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>6</ID>
       <DefaultText>Он отстраняется от вас, его глаза наполнены ужасом. Он готов бежать отсюда прочь.</DefaultText>
-      <FemaleText>Он отстраняется от вас, его глаза наполнены ужасом. Он готов бежать отсюда прочь.</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>7</ID>
@@ -42,86 +42,84 @@
     <Entry>
       <ID>8</ID>
       <DefaultText>Попросить его помочь бороться с фрагментами Скорби.</DefaultText>
-      <FemaleText>Попросить его помочь бороться с фрагментами Скорби.</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>9</ID>
       <DefaultText>Попросить его помочь спасти других отверженных.</DefaultText>
-      <FemaleText>Попросить его помочь спасти других отверженных.</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>10</ID>
       <DefaultText>Сказать ему, чтобы он убегал.</DefaultText>
-      <FemaleText>Сказать ему, чтобы он убегал.</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>11</ID>
       <DefaultText>"Мы не сможем их одолеть! Мы должны бежать!"</DefaultText>
-      <FemaleText>"Мы не сможем их одолеть! Мы должны бежать!"</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>12</ID>
       <DefaultText>"Прошу, оставь меня".</DefaultText>
-      <FemaleText>"Прошу, оставь меня".</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>15</ID>
       <DefaultText>Он стоит, как вкопанный, согнувшись от ужаса. Его руки закрывают голову со всех сторон. "Я-я-я не могу... Они кричат на меня! Я не могу..."</DefaultText>
-      <FemaleText>Он стоит, как вкопанный, согнувшись от ужаса. Его руки закрывают голову со всех сторон. "Я-я-я не могу... Они кричат на меня! Я не могу..."</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>16</ID>
       <DefaultText>Он дрожит. "Ч-что я должен сделать?"</DefaultText>
-      <FemaleText>Он дрожит. "Ч-что я должен сделать?"</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>17</ID>
       <DefaultText>"Я помогу тебе с-спасти других отверженных!"</DefaultText>
-      <FemaleText>"Я помогу тебе с-спасти других отверженных!"</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>18</ID>
       <DefaultText>"Ты тоже должен бежать отсюда! Миэль Авест уже потерян!"</DefaultText>
-      <FemaleText>"Ты тоже должен бежать отсюда! Миэль Авест уже потерян!"</FemaleText>
+      <FemaleText>"Ты тоже должна бежать отсюда! Миэль Авест уже потерян!"</FemaleText>
     </Entry>
     <Entry>
       <ID>19</ID>
       <DefaultText>Он резко бледнеет и кивает головой.</DefaultText>
-      <FemaleText>Он резко бледнеет и кивает головой.</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>20</ID>
       <DefaultText>Он неохотно кивает головой, прикусив губу.</DefaultText>
-      <FemaleText>Он неохотно кивает головой, прикусив губу.</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>21</ID>
-      <DefaultText>Он кивает. "Х-хорошо. Я могу это сделать".</DefaultText>
-      <FemaleText>Он кивает. "Х-хорошо. Я могу это сделать".</FemaleText>
+      <DefaultText>Он кивает: "Х-хорошо. Это я могу".</DefaultText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>22</ID>
       <DefaultText>Отвернуться.</DefaultText>
-      <FemaleText>Отвернуться.</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>23</ID>
-      <DefaultText>Он трясется от удара, поднимая свою руку к покрасневшей щеке. Он приходит в себя. 
+      <DefaultText>Он покачивается от удара, прижимая руку к покрасневшей щеке. В глазах появляется толика смысла.
 
-"С-спасибо", —говорит он, сглотнув слюну. "Ч-чем я могу помочь? Скажи, что мне делать".</DefaultText>
-      <FemaleText>Он трясется от удара, поднимая свою руку к покрасневшей щеке. Он приходит в себя. 
-
-"С-спасибо", —говорит он, сглотнув слюну. "Ч-чем я могу помочь? Скажи, что мне делать".</FemaleText>
+"С-спасибо", – говорит он, сглотнув слюну. – "Ч-чем я могу помочь? Скажи, что мне делать".</DefaultText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>24</ID>
       <DefaultText>Он трясется от удара, в его глазах горит дикий огонь. Он готов бежать отсюда прочь.</DefaultText>
-      <FemaleText>Он трясется от удара, в его глазах горит дикий огонь. Он готов бежать отсюда прочь.</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>25</ID>
       <DefaultText>Он отступает, поворачивается и готов убежать.</DefaultText>
-      <FemaleText>Он отступает, поворачивается и готов убежать.</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>27</ID>
@@ -131,7 +129,7 @@
     <Entry>
       <ID>28</ID>
       <DefaultText>"Подожди! Помоги мне!"</DefaultText>
-      <FemaleText>"Подожди! Помоги мне!"</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>29</ID>
@@ -141,22 +139,22 @@
     <Entry>
       <ID>30</ID>
       <DefaultText>"Мы должны бежать! Беги!"</DefaultText>
-      <FemaleText>"Мы должны бежать! Беги!"</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>31</ID>
       <DefaultText>"Я н-не могу... не могу..."</DefaultText>
-      <FemaleText>"Я н-не могу... не могу..."</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>33</ID>
       <DefaultText>"Что теперь? Боги, что теперь?"</DefaultText>
-      <FemaleText>"Что теперь? Боги, что теперь?"</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>34</ID>
       <DefaultText>"О, нет! Нет!"</DefaultText>
-      <FemaleText>"О, нет! Нет!"</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>35</ID>
