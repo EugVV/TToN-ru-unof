@@ -16,8 +16,8 @@
     </Entry>
     <Entry>
       <ID>3</ID>
-      <DefaultText>"О, ну вот. Ты прервал мою мысль. О чем я думал?"</DefaultText>
-      <FemaleText />
+      <DefaultText>"О, любезный. Ты прервал мою мысль. Так о чём я думал?"</DefaultText>
+      <FemaleText>"О, любезная. Ты прервала мою мысль. Так о чём я думал?"</FemaleText>
     </Entry>
     <Entry>
       <ID>4</ID>

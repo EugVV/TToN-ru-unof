@@ -6,12 +6,12 @@
   <Entries>
     <Entry>
       <ID>1</ID>
-      <DefaultText>"О, привет, привет. Я приду через минуту".</DefaultText>
+      <DefaultText>"О, привет, привет. Я освобожусь через минутку".</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>2</ID>
-      <DefaultText>"А я думал, что ты приходил для того, чтобы поговорить о моих товарах. О моей линии *специальных* продуктов".</DefaultText>
+      <DefaultText>"О, я думал, ты здесь для того, чтобы поговорить о моих товарах. О моей линии *особенных* продуктов".</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
