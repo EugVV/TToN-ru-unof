@@ -21,7 +21,7 @@
     </Entry>
     <Entry>
       <ID>4</ID>
-      <DefaultText>"Я... Я хочу, чтобы ты поняла... видишь ли, я..."</DefaultText>
+      <DefaultText>"Я... всего лишь хочу, чтобы ты поняла... видишь ли, я..."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -31,12 +31,12 @@
     </Entry>
     <Entry>
       <ID>6</ID>
-      <DefaultText>"Я дала тебе шанс *уйти*, а ты этим шансом даже не воспользовался".</DefaultText>
+      <DefaultText>"Я дала тебе шанс *уйти*, а ты даже с этим не справился".</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>8</ID>
-      <DefaultText>"Да, Корро, я знаю. Некоторые люди с рождения неспособны к серьезным делам".</DefaultText>
+      <DefaultText>"Да, Корро, я знаю. Некоторые просто рождаются ни на что не способными".</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -51,7 +51,7 @@
     </Entry>
     <Entry>
       <ID>11</ID>
-      <DefaultText>"Что ты имеешь в виду, «что»?"</DefaultText>
+      <DefaultText>"Что ты хочешь сказать своим «что»?"</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -61,12 +61,12 @@
     </Entry>
     <Entry>
       <ID>13</ID>
-      <DefaultText>"Ты... ты же раньше работала со мной".</DefaultText>
+      <DefaultText>"Ты... ты искала меня".</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>14</ID>
-      <DefaultText>"Конечно. Я говорила тебе уйти много *лет* назад".</DefaultText>
+      <DefaultText>"Конечно. Я сказала тебе уходить много *лет* назад".</DefaultText>
       <FemaleText />
     </Entry>
   </Entries>
