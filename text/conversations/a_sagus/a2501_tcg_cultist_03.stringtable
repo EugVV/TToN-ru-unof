@@ -16,27 +16,27 @@
     </Entry>
     <Entry>
       <ID>3</ID>
-      <DefaultText>"О, святейшество! Вы свет моей жизни!"</DefaultText>
+      <DefaultText>"О святейшество! Ты свет моей жизни!"</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>4</ID>
       <DefaultText>"Тебе не искусить меня, обманщик! Я не склонюсь!"</DefaultText>
-      <FemaleText />
+      <FemaleText>"Тебе не искусить меня, обманщица! Я не склонюсь!"</FemaleText>
     </Entry>
     <Entry>
       <ID>5</ID>
-      <DefaultText>"Поздравляю, брат!"</DefaultText>
-      <FemaleText>"Поздравляю, сестра!"</FemaleText>
+      <DefaultText>"Приветствую, брат!"</DefaultText>
+      <FemaleText>"Приветствую, сестра!"</FemaleText>
     </Entry>
     <Entry>
       <ID>6</ID>
       <DefaultText>"Большая честь беседовать с одним из Детей Меняющегося Бога".</DefaultText>
-      <FemaleText />
+      <FemaleText>"Большая честь беседовать с одной из Детей Меняющегося Бога".</FemaleText>
     </Entry>
     <Entry>
       <ID>7</ID>
-      <DefaultText>"Пожалуйста... поговори с нашими лидерами на Малом Круге".</DefaultText>
+      <DefaultText>"Пожалуйста... поговори с нашими лидерами в Малом Круге".</DefaultText>
       <FemaleText />
     </Entry>
   </Entries>

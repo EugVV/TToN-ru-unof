@@ -22,12 +22,12 @@
     <Entry>
       <ID>4</ID>
       <DefaultText>"Не говори со мной, обманщик!"</DefaultText>
-      <FemaleText />
+      <FemaleText>"Не говори со мной, обманщица!"</FemaleText>
     </Entry>
     <Entry>
       <ID>5</ID>
-      <DefaultText>"Поздравляю, брат!"</DefaultText>
-      <FemaleText>"Поздравляю, сестра!"</FemaleText>
+      <DefaultText>"Приветствую, брат!"</DefaultText>
+      <FemaleText>"Приветствую, сестра!"</FemaleText>
     </Entry>
     <Entry>
       <ID>6</ID>
@@ -37,7 +37,7 @@
     <Entry>
       <ID>7</ID>
       <DefaultText>"Новый отверженный? Дай мне на тебя взглянуть..."</DefaultText>
-      <FemaleText />
+      <FemaleText>"Новая отверженная? Дай мне на тебя взглянуть..."</FemaleText>
     </Entry>
   </Entries>
 </StringTableFile>
