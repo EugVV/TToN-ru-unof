@@ -520,7 +520,7 @@
     </Entry>
     <Entry>
       <ID>107</ID>
-      <DefaultText>"Пико, вон тот малец, не может решить, какую услугу ему купить".</DefaultText>
+      <DefaultText>"Пикво, вон тот малец, не может решить, какую услугу ему купить".</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -577,7 +577,7 @@
     </Entry>
     <Entry>
       <ID>121</ID>
-      <DefaultText>"Могу я купить модификацию всего тела, например такую, какую вы предложили Пико?" {SCRIPT: Maybe look into the condition on this node. Does it always make sense? Might have to create a new global. -JF}</DefaultText>
+      <DefaultText>"Могу я купить модификацию всего тела, например такую, какую вы предложили Пикво?" {SCRIPT: Maybe look into the condition on this node. Does it always make sense? Might have to create a new global. -JF}</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
