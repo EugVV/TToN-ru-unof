@@ -4767,8 +4767,8 @@
     </Entry>
     <Entry>
       <ID>953</ID>
-      <DefaultText>Один из божков отверженных. Это объясняет пропажу элементов.</DefaultText>
-      <FemaleText />
+      <DefaultText>Один из божков-отверженных. Это объясняет пропавшие части.</DefaultText>
+      <FemaleText>Одна из божков-отверженных. Это объясняет пропавшие части.</FemaleText>
     </Entry>
     <Entry>
       <ID>954</ID>
