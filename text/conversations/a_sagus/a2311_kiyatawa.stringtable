@@ -538,7 +538,7 @@
     </Entry>
     <Entry>
       <ID>103</ID>
-      <DefaultText>"Я..." Она выдыхает, сдавливая свои закрытые веки. "Ничего страшного. Мне бы следовало что-то сказать."</DefaultText>
+      <DefaultText>"Я..." – она выдыхает, сдавливая свои закрытые веки. – "Неважно. Я не должна ничего говорить".</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -691,12 +691,12 @@
     </Entry>
     <Entry>
       <ID>135</ID>
-      <DefaultText>С ее губ чуть не слетело слово «снова».</DefaultText>
+      <DefaultText>Её губы образуют слово «снова».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>136</ID>
-      <DefaultText>"Что беспокоит тебя?"</DefaultText>
+      <DefaultText>"Что тебя беспокоит?"</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
