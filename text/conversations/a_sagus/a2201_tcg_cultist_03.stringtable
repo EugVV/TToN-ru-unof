@@ -16,32 +16,32 @@
     </Entry>
     <Entry>
       <ID>3</ID>
-      <DefaultText>"Святейшество говорит со мной, Айтасий! Что я должен сказать?"</DefaultText>
-      <FemaleText>"Святейшество говорит со мной, Айтасий! Что я должна сказать?"</FemaleText>
+      <DefaultText>"Святейшество говорит со мной, Айтасий! Что мне сказать?"</DefaultText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>4</ID>
-      <DefaultText>"Почтенный Сосуд говорит со мной, Айтасий! Что я должен сказать?"</DefaultText>
-      <FemaleText>"Почтенный Сосуд говорит со мной, Айтасий! Что я должна сказать?"</FemaleText>
+      <DefaultText>"Почтенный сосуд говорит со мной, Айтасий! Что мне сказать?"</DefaultText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>5</ID>
-      <DefaultText>::увиливает::</DefaultText>
+      <DefaultText>::ёжится::</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>6</ID>
-      <DefaultText>::ерзает::</DefaultText>
+      <DefaultText>::ёрзает::</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>7</ID>
-      <DefaultText>"Пожалуйста, поговорите с Айтасием, Святейшество. Я маленький человек!"</DefaultText>
+      <DefaultText>"Пожалуйста, поговорите с Айтасием, святейшество. Я маленький человек!"</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>8</ID>
-      <DefaultText>"Пожалуйста, поговорите с Айтасием, Почтенный Сосуд. Я маленький человек!"</DefaultText>
+      <DefaultText>"Пожалуйста, поговорите с Айтасием, почтенный сосуд. Я маленький человек!"</DefaultText>
       <FemaleText />
     </Entry>
   </Entries>
