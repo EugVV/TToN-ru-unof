@@ -6,7 +6,7 @@
   <Entries>
     <Entry>
       <ID>1</ID>
-      <DefaultText>"Сюда!" – Каллистеж отчаянно жестикулирует тебе движениями, которые подхватываются ее эхом с различными оттенками откровенности. "Твой отец сохранил доступ к информационной сфере! Я должна узнать как!"</DefaultText>
+      <DefaultText>Когда вы приближаетесь к машине, Каллистеж бросается внимательней изучать её: "Это устройство... твой творец использовал его для доступа к сфере данных! Я должна узнать как! Не... не оставил ли он поблизости записей?"</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -21,7 +21,7 @@
     </Entry>
     <Entry>
       <ID>4</ID>
-      <DefaultText>"Ты хочешь получить доступ к информационной сфере сейчас?"</DefaultText>
+      <DefaultText>"Теперь ты хочешь получить доступ к сфере данных?"</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -61,7 +61,7 @@
     </Entry>
     <Entry>
       <ID>12</ID>
-      <DefaultText>"Забудь об этом. Давай продолжим".</DefaultText>
+      <DefaultText>"Забудь об этом. Идём дальше".</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -76,7 +76,7 @@
     </Entry>
     <Entry>
       <ID>15</ID>
-      <DefaultText>Попытаться вспомнить, где находятся заметки.</DefaultText>
+      <DefaultText>Попытаться вспомнить, где находятся записи.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -105,29 +105,29 @@
     </Entry>
     <Entry>
       <ID>20</ID>
-      <DefaultText>Каллистеж приближается к вам с почтением.
+      <DefaultText>Каллистеж с благоговением приближается к вам.
 
 "Можно мне?" – говорит она, протягивая руки к книге.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>21</ID>
-      <DefaultText>Дай ей книгу.</DefaultText>
+      <DefaultText>Дать ей книгу.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>22</ID>
-      <DefaultText>"Что? Книгу?" Положить книгу в свою сумку.</DefaultText>
+      <DefaultText>"Что, это?" – положить книгу в свою сумку.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>23</ID>
-      <DefaultText>"Я думаю, мне лучше попридержать ее сейчас."</DefaultText>
+      <DefaultText>"Это принадлежало моему создателю. Хотелось бы сперва взглянуть в записи".</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>24</ID>
-      <DefaultText>"Используй ее разумно."</DefaultText>
+      <DefaultText>"Конечно. Тебе эти записи будут полезней, чем мне."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -144,7 +144,7 @@
     </Entry>
     <Entry>
       <ID>27</ID>
-      <DefaultText>"Спасибо", – Калистиж дышит, не поднимая глаз, и отходит в сторону, чтобы продолжить изучать содержание книги.</DefaultText>
+      <DefaultText>"Спасибо", – Калистиж переводит дух, не поднимая глаз, и отходит в сторону, чтобы продолжить изучать содержание книги.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -204,7 +204,7 @@
     </Entry>
     <Entry>
       <ID>39</ID>
-      <DefaultText>На ум приходит словосочетание "сфера данных", но... нет. Вы не можете вспомнить.</DefaultText>
+      <DefaultText>На ум приходит словосочетание «сфера данных», но... нет. Вы не можете ничего вспомнить.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
