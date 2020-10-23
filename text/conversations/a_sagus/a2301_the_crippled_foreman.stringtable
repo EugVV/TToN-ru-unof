@@ -735,12 +735,12 @@
     </Entry>
     <Entry>
       <ID>135</ID>
-      <DefaultText>::с-с-с-ср-р::, – шепчет Оом, глядя куда-то в сторону.</DefaultText>
+      <DefaultText>::с-с-с-ср-р:: – шепчет Оом, глядя куда-то в сторону.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>136</ID>
-      <DefaultText>::м-м-м::, – говорит Оом, смотря им вслед.</DefaultText>
+      <DefaultText>::м-м-м:: – говорит Оом, смотря им вслед.</DefaultText>
       <FemaleText />
     </Entry>
   </Entries>

@@ -467,24 +467,24 @@
     </Entry>
     <Entry>
       <ID>86</ID>
-      <DefaultText>"Ну", – говорит он, его лицо вытягивается. "Возможно, ты поймешь позже".</DefaultText>
+      <DefaultText>"Ну", – говорит он, его лицо вытягивается. – "Возможно, ты поймёшь позже".</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>87</ID>
-      <DefaultText>"Как обидно", – говорит он. "Как же ужасно обидно".</DefaultText>
+      <DefaultText>"Как обидно", – говорит он. – "Как же ужасно обидно".</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>88</ID>
       <DefaultText>Затем он замечает Оома.
- 
- – Ого, вот это скакун! Какие мускулистые бока!</DefaultText>
+
+"Ого, вот это скакун! Какие мускулистые бока!"</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>89</ID>
-      <DefaultText>::м-м-м-м::, – бормочет Оом, осматривая бока, о которых говорит рыцарь.</DefaultText>
+      <DefaultText>::м-м-м-м:: – бормочет Оом, осматривая бока, о которых говорит рыцарь.</DefaultText>
       <FemaleText />
     </Entry>
   </Entries>

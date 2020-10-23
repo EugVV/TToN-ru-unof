@@ -392,7 +392,7 @@
     </Entry>
     <Entry>
       <ID>83</ID>
-      <DefaultText>::м-м-м-м::, – поёт Оом, по всей видимости, обращаясь к ней.</DefaultText>
+      <DefaultText>::м-м-м-м:: – поёт Оом, по всей видимости, обращаясь к ней.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -402,12 +402,12 @@
     </Entry>
     <Entry>
       <ID>85</ID>
-      <DefaultText>::м-м-м-м::, – вежливо повторяет Оом.</DefaultText>
+      <DefaultText>::м-м-м-м:: – любезно повторяет Оом.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>86</ID>
-      <DefaultText>"О", – улыбается вам Ним. "У твоей игрушки приятный голос!"</DefaultText>
+      <DefaultText>"О", – улыбается вам Ним. – "У твоей игрушки приятный голос!"</DefaultText>
       <FemaleText />
     </Entry>
   </Entries>

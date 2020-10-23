@@ -16,12 +16,12 @@
     </Entry>
     <Entry>
       <ID>3</ID>
-      <DefaultText>Оом по-прежнему ждет вас здесь, как будто он родился и провел всю жизнь в вашем сознании.</DefaultText>
+      <DefaultText>Оом по-прежнему ждёт вас здесь, как будто он родился и провёл всю жизнь в вашем сознании.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>4</ID>
-      <DefaultText>::рмрмр::, – произносит Оом тихо, видимо, сам себе.</DefaultText>
+      <DefaultText>::рмрмр:: – произносит Оом тихо, видимо, сам себе.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -133,7 +133,7 @@
     </Entry>
     <Entry>
       <ID>27</ID>
-      <DefaultText>::срлк::, – говорит Оом, сужая глаза. Каким-то образом вы понимаете, что это хотя и вынужденное, но твёрдое "нет".</DefaultText>
+      <DefaultText>::срлк:: – говорит Оом, сужая глаза. Каким-то образом вы понимаете, что это хотя и вынужденное, но твёрдое «нет».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -198,12 +198,12 @@
     </Entry>
     <Entry>
       <ID>40</ID>
-      <DefaultText>"Пойдем со мной".</DefaultText>
+      <DefaultText>"Пойдём со мной".</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>41</ID>
-      <DefaultText>::м-м-м::, – соглашается Оом.</DefaultText>
+      <DefaultText>::м-м-м:: – соглашается Оом.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -213,7 +213,7 @@
     </Entry>
     <Entry>
       <ID>43</ID>
-      <DefaultText>::с-с-с-с::, – произносит Оом, оседая на землю. Когда вы решаете уйти, за вами он не идёт.</DefaultText>
+      <DefaultText>::с-с-с-с:: – произносит Оом, оседая на землю. Когда вы решаете уйти, за вами он не идёт.</DefaultText>
       <FemaleText />
     </Entry>
   </Entries>
