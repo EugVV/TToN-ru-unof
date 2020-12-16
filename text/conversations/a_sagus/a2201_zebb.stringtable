@@ -1620,24 +1620,24 @@
     </Entry>
     <Entry>
       <ID>350</ID>
-      <DefaultText>"Это вы с друзьями рылись в развалинах рядом с хирургическим кабинетом?"</DefaultText>
+      <DefaultText>"Это вы с друзьями рылись в развалинах рядом с хиургическим кабинетом?"</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>351</ID>
-      <DefaultText>Он кивает: "Да, это были мы. Я нашел еду, но мы ее уже съели... а Авина нашла какую-то коробку нуменеров".
+      <DefaultText>Он кивает: "Да, это были мы. Я нашёл еду, но мы её уже съели... а Авина нашла какую-то шкатулку-нуменеру".
 
-Он прикрывает рот: "О, возможно, мне не стоило это говорить. Ты же не заберешь у нее эту коробку? Не заберешь?"</DefaultText>
+Он прикрывает рот: "О, возможно, мне не стоило это говорить. Ты же не заберёшь у неё эту шкатулку? Не заберёшь?"</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>352</ID>
-      <DefaultText>"Конечно, нет. Я просто спросил".</DefaultText>
-      <FemaleText />
+      <DefaultText>"Конечно нет. Я просто спросил".</DefaultText>
+      <FemaleText>"Конечно нет. Я просто спросила".</FemaleText>
     </Entry>
     <Entry>
       <ID>353</ID>
-      <DefaultText>"Если она мне нужна, я заберу".</DefaultText>
+      <DefaultText>"Если она мне нужна, заберу".</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1647,12 +1647,12 @@
     </Entry>
     <Entry>
       <ID>355</ID>
-      <DefaultText>"Фух! Она очень дорожит этой коробкой".</DefaultText>
+      <DefaultText>"Фух! Она очень дорожит этой шкатулкой".</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>356</ID>
-      <DefaultText>"Надеюсь, она тебе не нужна. Она очень дорожит этой коробкой".</DefaultText>
+      <DefaultText>"Надеюсь, она тебе не нужна. Она очень дорожит этой шкатулкой".</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
