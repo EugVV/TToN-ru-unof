@@ -6,7 +6,7 @@
   <Entries>
     <Entry>
       <ID>1</ID>
-      <DefaultText>Перед вами угольно-чёрное неприметное приземистое устройство. Как только вы протягиваете руку, чтобы прикоснуться, на его корпусе вспыхивают огоньки в виде треугольника, а в вашем сознании появляются образы.
+      <DefaultText>Перед вами угольно-чёрное неприметное приземистое устройство. Когда вы протягиваете руку с намерением прикоснуться, на его корпусе вспыхивают огоньки в виде треугольника, а в вашем сознании появляются образы.
 
 {SOUND: Optional – we could hear some machine sounds coming to life here, and they could remain in the background throughout the dialogue (until the machine powers down on node 68).}</DefaultText>
       <FemaleText />
