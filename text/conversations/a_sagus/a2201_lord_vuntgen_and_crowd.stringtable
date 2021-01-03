@@ -16,7 +16,7 @@
     </Entry>
     <Entry>
       <ID>3</ID>
-      <DefaultText>"Наши дома под угрозой здесь!"</DefaultText>
+      <DefaultText>"Наши дома сейчас под угрозой!"</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -96,12 +96,12 @@
     </Entry>
     <Entry>
       <ID>19</ID>
-      <DefaultText>"Что может искать стихус в Крае Утеса?"</DefaultText>
+      <DefaultText>"Что может искать стихус на Краю Утёса?"</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>20</ID>
-      <DefaultText>"Стихусы перестали копать... кроме одного разбойника".</DefaultText>
+      <DefaultText>"Стихусы перестали копать... кроме одного бродяги".</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>

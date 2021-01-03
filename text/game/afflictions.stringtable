@@ -471,7 +471,7 @@
     </Entry>
     <Entry>
       <ID>93</ID>
-      <DefaultText>Когда [Color: Health]Здоровье[/Color] или другой параметр персонажа опуститься до [BonusAmount1]%, он автоматически восстановит [Color: Health]Здоровье[/Color] и все очки параметров</DefaultText>
+      <DefaultText>Когда [Color: Health]Здоровье[/Color] или другой параметр персонажа опустится до [BonusAmount1]%, он автоматически восстановит [Color: Health]Здоровье[/Color] и все очки параметров</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>

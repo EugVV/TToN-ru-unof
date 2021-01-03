@@ -51,7 +51,7 @@
     </Entry>
     <Entry>
       <ID>17</ID>
-      <DefaultText>"А что если он невиновен?"</DefaultText>
+      <DefaultText>"А что, если он невиновен?"</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -86,8 +86,8 @@
     </Entry>
     <Entry>
       <ID>24</ID>
-      <DefaultText>"Может, ты и прав. Надеюсь, ты обретешь истину".</DefaultText>
-      <FemaleText>"Может, ты и права. Надеюсь, ты обретешь истину".</FemaleText>
+      <DefaultText>"Может, ты и права. Надеюсь, ты обретёшь истину".</DefaultText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>25</ID>
