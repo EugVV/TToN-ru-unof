@@ -11,7 +11,7 @@
     </Entry>
     <Entry>
       <ID>2</ID>
-      <DefaultText>"Что происходит?"</DefaultText>
+      <DefaultText>"В чём дело?"</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -41,7 +41,7 @@
     </Entry>
     <Entry>
       <ID>10</ID>
-      <DefaultText>"Продолжим".</DefaultText>
+      <DefaultText>"Продолжим путь".</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
