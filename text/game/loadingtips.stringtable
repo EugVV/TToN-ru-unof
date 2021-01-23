@@ -21,7 +21,7 @@
     </Entry>
     <Entry>
       <ID>3</ID>
-      <DefaultText>В диалоге или во время кризиса вы можете приложить дополнительные усилия, затратив на это очки &lt;quad class="mightpool"&gt; [Color: Might]Силы[/Color], &lt;quad class="speedpool"&gt; [Color: Speed]Скорости[/Color] или &lt;quad class="intellectpool"&gt; [Color: Intellect]Интеллекта[/Color].</DefaultText>
+      <DefaultText>В диалоге или во время кризиса вы можете приложить дополнительные усилия, затратив на это очки &lt;quad class="mightpool"&gt;[Color: Might]силы[/Color], &lt;quad class="speedpool"&gt;[Color: Speed]скорости[/Color] или &lt;quad class="intellectpool"&gt;[Color: Intellect]интеллекта[/Color].</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -36,12 +36,12 @@
     </Entry>
     <Entry>
       <ID>6</ID>
-      <DefaultText>Во время кризиса располагайте членов группы с разных сторон противника, чтобы наложить на него эффект "Обход с фланга".</DefaultText>
+      <DefaultText>Во время кризиса располагайте членов группы с разных сторон противника, чтобы наложить на него эффект «Обход с фланга».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>7</ID>
-      <DefaultText>Залогом успеха в кризисах является приложение усилий к атакам – но будьте осторожны, чтобы не потратить очки параметров слишком быстро.</DefaultText>
+      <DefaultText>Залогом успеха в кризисах является приложение усилий к атакам – но постарайтесь не потратить очки параметров слишком быстро.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -136,7 +136,7 @@
     </Entry>
     <Entry>
       <ID>26</ID>
-      <DefaultText>Когда ваш персонаж отдыхает, его очки параметров &lt;quad class="mightpool"&gt;[Color: Might]Силы[/Color], &lt;quad class="speedpool"&gt;[Color: Speed]Скорости[/Color] и &lt;quad class="intellectpool"&gt;[Color: Intellect]Интеллекта[/Color] полностью восполняются. Однако во время отдыха вашего персонажа события не стоят на месте и статус заданий может меняться.</DefaultText>
+      <DefaultText>Когда ваш персонаж отдыхает, его очки параметров &lt;quad class="mightpool"&gt;[Color: Might]силы[/Color], &lt;quad class="speedpool"&gt;[Color: Speed]скорости[/Color] и &lt;quad class="intellectpool"&gt;[Color: Intellect]интеллекта[/Color] полностью восполняются. Однако во время отдыха вашего персонажа события не стоят на месте и статус заданий может меняться.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
