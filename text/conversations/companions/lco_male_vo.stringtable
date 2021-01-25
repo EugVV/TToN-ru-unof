@@ -66,7 +66,7 @@
     </Entry>
     <Entry>
       <ID>13</ID>
-      <DefaultText>"Поехали".</DefaultText>
+      <DefaultText>"Пошли".</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -106,7 +106,7 @@
     </Entry>
     <Entry>
       <ID>21</ID>
-      <DefaultText>"Оставайся внизу".</DefaultText>
+      <DefaultText>"Не вставай".</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -131,7 +131,7 @@
     </Entry>
     <Entry>
       <ID>26</ID>
-      <DefaultText>"Кто осмелился меня ударить?"</DefaultText>
+      <DefaultText>"Ты смеешь ударить меня?"</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -141,17 +141,17 @@
     </Entry>
     <Entry>
       <ID>28</ID>
-      <DefaultText>"Ты ударяешь меня, я ударю тебя".</DefaultText>
+      <DefaultText>"Ты бьёшь меня, а я ударю тебя".</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>29</ID>
-      <DefaultText>"Разве ты не видишь, как оно приближается".</DefaultText>
+      <DefaultText>"Этого я не заметил".</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>30</ID>
-      <DefaultText>"Боже мой!"</DefaultText>
+      <DefaultText>"Боги!"</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -256,7 +256,7 @@
     </Entry>
     <Entry>
       <ID>51</ID>
-      <DefaultText>"Чёрт возьми."</DefaultText>
+      <DefaultText>"Чёрт возьми".</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -286,7 +286,7 @@
     </Entry>
     <Entry>
       <ID>57</ID>
-      <DefaultText>::хихиканье::</DefaultText>
+      <DefaultText>::посмеивается::</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -346,7 +346,7 @@
     </Entry>
     <Entry>
       <ID>69</ID>
-      <DefaultText>"Я споткнулся... мне больно".</DefaultText>
+      <DefaultText>"Я слабею... мне больно".</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -436,7 +436,7 @@
     </Entry>
     <Entry>
       <ID>88</ID>
-      <DefaultText>"Вот ты *где*".</DefaultText>
+      <DefaultText>"*Вот* ты где".</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -561,7 +561,7 @@
     </Entry>
     <Entry>
       <ID>113</ID>
-      <DefaultText>"Сейчас я сильнее".</DefaultText>
+      <DefaultText>"Теперь я сильнее".</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -606,7 +606,7 @@
     </Entry>
     <Entry>
       <ID>122</ID>
-      <DefaultText>"Наконец я побеждаю".</DefaultText>
+      <DefaultText>"Победа за мной".</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -696,7 +696,7 @@
     </Entry>
     <Entry>
       <ID>140</ID>
-      <DefaultText>"Записал... обновил свой дневник".</DefaultText>
+      <DefaultText>"Записал... в свой дневник".</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -706,7 +706,7 @@
     </Entry>
     <Entry>
       <ID>142</ID>
-      <DefaultText>"Потоки сменились. Я мужчина действий".</DefaultText>
+      <DefaultText>"Потоки сменились. Я человек действия".</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -716,7 +716,7 @@
     </Entry>
     <Entry>
       <ID>144</ID>
-      <DefaultText>"Потоки сменились. Я мужчина с состраданием".</DefaultText>
+      <DefaultText>"Потоки сменились. Я человек сострадания".</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
