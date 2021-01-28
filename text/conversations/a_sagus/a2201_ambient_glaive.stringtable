@@ -6,7 +6,7 @@
   <Entries>
     <Entry>
       <ID>1</ID>
-      <DefaultText>"Ты прямо как Джернаф?"</DefaultText>
+      <DefaultText>"Ты постоянно посещаешь Джернау?"</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -21,12 +21,12 @@
     </Entry>
     <Entry>
       <ID>4</ID>
-      <DefaultText>"У Джернафа не дешевый, но верь мне – тебе не нужен дешевый".</DefaultText>
+      <DefaultText>"У Джернау не дёшево, но верь мне – тебе и не нужно дёшево".</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>5</ID>
-      <DefaultText>"Приобрел как-то в баре имплантированный глаз со скидкой. Три дня ничего больше не видел, кроме груды соленых огурцов".</DefaultText>
+      <DefaultText>"Приобрёл как-то в баре глазной имплант со скидкой. Три дня ничего больше не видел, кроме груды солёных огурцов".</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
