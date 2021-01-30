@@ -6846,7 +6846,7 @@
     </Entry>
     <Entry>
       <ID>1369</ID>
-      <DefaultText>{0} – [Color: PositiveModifier]{1} уровень подготовки: +{2}[/Color]</DefaultText>
+      <DefaultText>{0} – [Color: PositiveModifier]{1}, уровень подготовки: +{2}[/Color]</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
