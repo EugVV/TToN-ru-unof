@@ -961,12 +961,12 @@
     </Entry>
     <Entry>
       <ID>191</ID>
-      <DefaultText>{0}: {2} навсегда увеличен на {1}. </DefaultText>
+      <DefaultText>{0}: параметр {2} навсегда увеличен на {1}. </DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>192</ID>
-      <DefaultText>{0}: {2} навсегда уменьшен на {1}. </DefaultText>
+      <DefaultText>{0}: параметр {2} навсегда уменьшен на {1}. </DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1331,7 +1331,7 @@
     </Entry>
     <Entry>
       <ID>265</ID>
-      <DefaultText>Теперь максимум для параметра {1} составляет {2}.</DefaultText>
+      <DefaultText>Теперь максимум параметра {1} составляет {2}.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -6436,7 +6436,7 @@
     </Entry>
     <Entry>
       <ID>1287</ID>
-      <DefaultText>Показать еще</DefaultText>
+      <DefaultText>Показать дальше</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
