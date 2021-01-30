@@ -6776,7 +6776,7 @@
     </Entry>
     <Entry>
       <ID>1355</ID>
-      <DefaultText>Рост Оома</DefaultText>
+      <DefaultText>Приращение Оома</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -6841,8 +6841,8 @@
     </Entry>
     <Entry>
       <ID>1368</ID>
-      <DefaultText>Повысить уровень подготовки Последнего Отверженного к использованию навыка, основанного на слиянии Оома с Потоками.\n\nТекущее слияние:\n[CurrentBonus]\n\nВозможные слияния:\n-[Color: TideIdealist]Идеалист[/Color]: [SkillIdealist]\n-[Color: TideBlue]Синий[/Color]: [SkillBlue]\n-[Color: TideRed]Красный[/Color]: [SkillRed]\n-[Color: TideIndigo]Индиго[/Color]: [SkillIndigo]\n-[Color: TideGold]Золотой[/Color]: [SkillGold]\n-[Color: TideSilver]Серебряный[/Color]: [SkillSilver]</DefaultText>
-      <FemaleText>Повысить уровень подготовки Последней Отверженной к использованию навыка, основанного на слиянии Оома с Потоками.\n\nТекущее слияние:\n[CurrentBonus]\n\nВозможные слияния:\n-[Color: TideIdealist]Идеалист[/Color]: [SkillIdealist]\n-[Color: TideBlue]Синий[/Color]: [SkillBlue]\n-[Color: TideRed]Красный[/Color]: [SkillRed]\n-[Color: TideIndigo]Индиго[/Color]: [SkillIndigo]\n-[Color: TideGold]Золотой[/Color]: [SkillGold]\n-[Color: TideSilver]Серебряный[/Color]: [SkillSilver]</FemaleText>
+      <DefaultText>Увеличение уровня подготовки Последнего Отверженного в навыке, основанном на слиянии Оома с Потоками.\n\nТекущее слияние:\n[CurrentBonus]\n\nВозможные слияния:\n– [Color: TideIdealist]Идеалист[/Color]: [SkillIdealist]\n– [Color: TideBlue]Синий[/Color]: [SkillBlue]\n– [Color: TideRed]Красный[/Color]: [SkillRed]\n– [Color: TideIndigo]Индиго[/Color]: [SkillIndigo]\n– [Color: TideGold]Золотой[/Color]: [SkillGold]\n– [Color: TideSilver]Серебряный[/Color]: [SkillSilver]</DefaultText>
+      <FemaleText>Увеличение уровня подготовки Последней Отверженной в навыке, основанном на слиянии Оома с Потоками.\n\nТекущее слияние:\n[CurrentBonus]\n\nВозможные слияния:\n– [Color: TideIdealist]Идеалист[/Color]: [SkillIdealist]\n– [Color: TideBlue]Синий[/Color]: [SkillBlue]\n– [Color: TideRed]Красный[/Color]: [SkillRed]\n– [Color: TideIndigo]Индиго[/Color]: [SkillIndigo]\n– [Color: TideGold]Золотой[/Color]: [SkillGold]\n– [Color: TideSilver]Серебряный[/Color]: [SkillSilver]</FemaleText>
     </Entry>
     <Entry>
       <ID>1369</ID>
