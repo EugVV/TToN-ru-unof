@@ -4441,7 +4441,7 @@
     </Entry>
     <Entry>
       <ID>888</ID>
-      <DefaultText>{0} &lt;quad class="armor"&gt;броня</DefaultText>
+      <DefaultText>{0} &lt;quad class="armor"&gt;Броня</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -5481,7 +5481,7 @@
     </Entry>
     <Entry>
       <ID>1096</ID>
-      <DefaultText>[Color: Resistance]сопротивление[/Color]</DefaultText>
+      <DefaultText>[Color: Resistance]Сопротивление[/Color]</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -6456,7 +6456,7 @@
     </Entry>
     <Entry>
       <ID>1291</ID>
-      <DefaultText>Легкая</DefaultText>
+      <DefaultText>Лёгкая</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -6466,7 +6466,7 @@
     </Entry>
     <Entry>
       <ID>1293</ID>
-      <DefaultText>Тяжелая</DefaultText>
+      <DefaultText>Тяжёлая</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
