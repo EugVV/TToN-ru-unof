@@ -879,8 +879,8 @@
     </Entry>
     <Entry>
       <ID>170</ID>
-      <DefaultText>"Я выпущу нихтемерона на волю".</DefaultText>
-      <FemaleText />
+      <DefaultText>"Я выпустил нихтемерона на волю".</DefaultText>
+      <FemaleText>"Я выпустила нихтемерона на волю".</FemaleText>
     </Entry>
     <Entry>
       <ID>171</ID>

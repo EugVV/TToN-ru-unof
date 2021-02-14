@@ -57,17 +57,17 @@
     </Entry>
     <Entry>
       <ID>10</ID>
-      <DefaultText>"Чему ты учишься?"</DefaultText>
+      <DefaultText>"Что ты изучаешь?"</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>11</ID>
-      <DefaultText>"И чему же ты учишься?"</DefaultText>
+      <DefaultText>"Так что ты изучаешь?"</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>12</ID>
-      <DefaultText>"Что?" – спрашивает он, прикрыв глаза и выпрямившись. "Хочешь знать, над чем я работаю? Правда?"</DefaultText>
+      <DefaultText>"Что?" – спрашивает он, прикрыв глаза и выпрямившись. – "Хочешь знать, над чем я работаю? Правда?"</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -554,7 +554,7 @@
     </Entry>
     <Entry>
       <ID>112</ID>
-      <DefaultText>"Правда?" – говорит он, бледнея. "А так... можно?"</DefaultText>
+      <DefaultText>"Правда?" – говорит он, бледнея. – "А так... можно?"</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -569,7 +569,7 @@
     </Entry>
     <Entry>
       <ID>115</ID>
-      <DefaultText>"Ты посвятил себя исследованию. Думай о нем, как о коллеге, который поддерживает твои труды".</DefaultText>
+      <DefaultText>"Ты посвятил себя исследованию. Взгляни на это как на поддержку твоей работы заинтересованным коллегой".</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>

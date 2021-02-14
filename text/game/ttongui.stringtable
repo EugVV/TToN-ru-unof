@@ -7296,7 +7296,7 @@
     </Entry>
     <Entry>
       <ID>1460</ID>
-      <DefaultText>[Color: TooltipFormatting]Опыта:[/Color] {0}</DefaultText>
+      <DefaultText>[Color: TooltipFormatting]Опыт:[/Color] {0}</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -7322,7 +7322,7 @@
     </Entry>
     <Entry>
       <ID>1465</ID>
-      <DefaultText>Aвтосохранения {0}</DefaultText>
+      <DefaultText>Автосохранение {0}</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>

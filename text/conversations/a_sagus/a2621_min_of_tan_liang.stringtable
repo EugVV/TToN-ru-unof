@@ -258,7 +258,7 @@
     </Entry>
     <Entry>
       <ID>48</ID>
-      <DefaultText>"Давай поговорим о чем-нибудь другом".</DefaultText>
+      <DefaultText>"Давай поговорим о чём-нибудь другом".</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -273,7 +273,7 @@
     </Entry>
     <Entry>
       <ID>51</ID>
-      <DefaultText>"Всегда рад", – говорит он. "Что это?"</DefaultText>
+      <DefaultText>"Всегда рад", – говорит он. – "И о чём же?"</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -283,7 +283,7 @@
     </Entry>
     <Entry>
       <ID>53</ID>
-      <DefaultText>"Вас много здесь, на Утесах Сагуса?"</DefaultText>
+      <DefaultText>"Вас много здесь, на Утёсах Сагуса?"</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -300,7 +300,7 @@
     </Entry>
     <Entry>
       <ID>56</ID>
-      <DefaultText>"Тебе лучше поговорить с ними лично", – говорит он, осклабившись. "Никто из них не постесняется рассказать о том, что знает".</DefaultText>
+      <DefaultText>"Тебе лучше поговорить с ними лично", – говорит он с улыбкой. – "Никто из них не постесняется рассказать о том, что знает".</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -319,7 +319,7 @@
     </Entry>
     <Entry>
       <ID>59</ID>
-      <DefaultText>Затем он переводит взгляд с вас на вашего спутника. 
+      <DefaultText>Затем он переводит взгляд с вас на вашу спутницу.
 
 "Привет, Каллистеж. Ты в гости или поработать?"</DefaultText>
       <FemaleText />
