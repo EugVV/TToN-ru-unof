@@ -1191,7 +1191,7 @@
     </Entry>
     <Entry>
       <ID>256</ID>
-      <DefaultText>Крепкая кожаная нательная броня, укрепленная мелкими металлическими пластинами. Тяжелее кожаного жилета, и лучше защищает. Большинство металлических пластин сделаны из обычной стали, но некоторые изготовлены из более древних и экзотических материалов, отчего броня дает минимальную защиту от нефизических атак. Между пластинами есть пространство, чтобы броня оставалась гибкой и не сильно стесняла движения.</DefaultText>
+      <DefaultText>Крепкая кожаная нательная броня, укреплённая мелкими металлическими пластинами. Тяжелее кожаного жилета и лучше защищает. Большинство металлических пластин сделаны из обычной стали, но некоторые изготовлены из более древних и экзотических материалов, отчего броня даёт минимальную защиту от нефизических атак. Между пластинами оставлено пространство, чтобы броня оставалась гибкой и не сильно стесняла движения.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -4626,7 +4626,7 @@
     </Entry>
     <Entry>
       <ID>996</ID>
-      <DefaultText>Тяжелый плащ, но на ощупь очень гладкий. Снаружи по нему бегает статическое электричество, отчего плащ пускает искры рядом с металлом. В сам плащ зашито коричневое вещество, похожее на паутину, которое подключается к проводке плаща и позволяет ему поглощать сильнейшие разряды электричества.</DefaultText>
+      <DefaultText>Плащ тяжёлый, но на ощупь очень гладкий. Снаружи по нему пробегает статическое электричество, отчего рядом с металлом плащ пускает искры. Материал плаща пропитан коричневым, похожим на паутину веществом, которое подключается к проводке плаща и позволяет ему поглощать сильнейшие разряды электричества.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -5056,7 +5056,7 @@
     </Entry>
     <Entry>
       <ID>1083</ID>
-      <DefaultText>Есть легенда о нано, одержимом электричеством. Он сделал плащ, – возможно, этот самый – который защищал бы его от опасности во время исследований. Говорят, нано почти подчинил себе и природное, и искусственное электричество, но умер во время грозы, потому что отбросил плащ и закричал: "У меня получилось!"</DefaultText>
+      <DefaultText>Есть легенда о нано, одержимом электричеством. Он сделал плащ – возможно, этот самый, – который защищал бы его от опасности во время исследований. Говорят, нано почти подчинил себе и природное, и искусственное электричество, но умер во время грозы, потому что сбросил плащ и закричал: «У меня получилось!»</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -5606,12 +5606,12 @@
     </Entry>
     <Entry>
       <ID>1193</ID>
-      <DefaultText>При получении [DamageIcon: Energy][Color: Energy]энергетического[/Color], [DamageIcon: Chemical][Color: Chemical]химического[/Color], [DamageIcon: Mental][Color: Mental]ментального[/Color] или [DamageIcon: Transdimensional][Color: Transdimensional]межпространственного[/Color] урон, дает эффект [Fettles] ([FettleDescriptions]). [Duration].</DefaultText>
+      <DefaultText>При получении [DamageIcon: Energy][Color: Energy]энергетического[/Color], [DamageIcon: Chemical][Color: Chemical]химического[/Color], [DamageIcon: Mental][Color: Mental]ментального[/Color] или [DamageIcon: Transdimensional][Color: Transdimensional]межпространственного[/Color] урона, даёт эффект [Fettles] ([FettleDescriptions]). [Duration].</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>1194</ID>
-      <DefaultText>При получении [DamageIcon: Energy][Color: Energy]энергетического[/Color], [DamageIcon: Chemical][Color: Chemical]химического[/Color], [DamageIcon: Mental][Color: Mental]ментального[/Color] или [DamageIcon: Transdimensional][Color: Transdimensional]межпространственного[/Color] урон, дает эффект [Fettles] ([FettleDescriptions]). [Duration].</DefaultText>
+      <DefaultText>При получении [DamageIcon: Energy][Color: Energy]энергетического[/Color], [DamageIcon: Chemical][Color: Chemical]химического[/Color], [DamageIcon: Mental][Color: Mental]ментального[/Color] или [DamageIcon: Transdimensional][Color: Transdimensional]межпространственного[/Color] урона, даёт эффект [Fettles] ([FettleDescriptions]). [Duration].</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
