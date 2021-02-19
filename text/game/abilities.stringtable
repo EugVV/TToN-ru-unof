@@ -3111,7 +3111,7 @@
     </Entry>
     <Entry>
       <ID>622</ID>
-      <DefaultText>В состоянии [FettleIcon: Status][Color: PositiveModifier]Фазовый сдвиг[/Color] радиус воздействия эзотерий Каллистеж увеличивается на один шаг и любые эффекты действуют на [Color: PositiveModifier]2 раунда[/Color] дольше.</DefaultText>
+      <DefaultText>В состоянии [FettleIcon: Status][Color: PositiveModifier]фазового сдвига[/Color] радиус воздействия эзотерий Каллистеж увеличивается на один шаг и любые эффекты действуют на [Color: PositiveModifier]2 раунда[/Color] дольше.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -3931,7 +3931,7 @@
     </Entry>
     <Entry>
       <ID>786</ID>
-      <DefaultText>В состоянии [FettleIcon: Status][Color: PositiveModifier]Фазовый сдвиг[/Color] вы получаете [PassiveEffectsBasic].</DefaultText>
+      <DefaultText>В состоянии [FettleIcon: Status][Color: PositiveModifier]фазового сдвига[/Color] вы получаете [PassiveEffectsBasic].</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -3941,7 +3941,7 @@
     </Entry>
     <Entry>
       <ID>788</ID>
-      <DefaultText>Увеличивает уровень выбранного навыка Ключа: [PassiveEffectsBasic].</DefaultText>
+      <DefaultText>Увеличивает уровень выбранного навыка ключа: [PassiveEffectsBasic].</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -4421,7 +4421,7 @@
     </Entry>
     <Entry>
       <ID>884</ID>
-      <DefaultText>Каллистеж может открывать тонкий слой, разделяющий измерения, в которых находятся ее копии. В состоянии Фазовый сдвиг ее атаки заряжены межпространственной энергией, собранной со всех реальностей.</DefaultText>
+      <DefaultText>Каллистеж может открывать тонкий слой, разделяющий измерения, в которых находятся её копии. В состоянии «Фазовый сдвиг» её атаки заряжены межпространственной энергией, собранной со всех реальностей.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -4431,7 +4431,7 @@
     </Entry>
     <Entry>
       <ID>886</ID>
-      <DefaultText>В состоянии Фазовый сдвиг навыки Каллистеж, связанные с созданием и управлением эзотериями, достигают беспримерного уровня точности.</DefaultText>
+      <DefaultText>В состоянии «Фазовый сдвиг» навыки Каллистеж, связанные с созданием и управлением эзотериями, достигают беспримерного уровня точности.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -5351,7 +5351,7 @@
     </Entry>
     <Entry>
       <ID>1070</ID>
-      <DefaultText>В состоянии [FettleIcon: Status][Color: PositiveModifier]Фазовый сдвиг[/Color] персонаж получает улучшение [PassiveEffectsBasic].</DefaultText>
+      <DefaultText>В состоянии [FettleIcon: Status][Color: PositiveModifier]фазового сдвига[/Color] персонаж получает улучшение [PassiveEffectsBasic].</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>

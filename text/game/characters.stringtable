@@ -2691,7 +2691,7 @@
     </Entry>
     <Entry>
       <ID>537</ID>
-      <DefaultText>Моряк {male}</DefaultText>
+      <DefaultText>Матрос{male}</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -2751,7 +2751,7 @@
     </Entry>
     <Entry>
       <ID>549</ID>
-      <DefaultText>Морячка {female}</DefaultText>
+      <DefaultText>Матрос{female}</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
