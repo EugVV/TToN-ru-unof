@@ -6,13 +6,14 @@
   <Entries>
     <Entry>
       <ID>1</ID>
-      <DefaultText>"Эй, дорогуша. Я задержусь на побережье еще всего на несколько часов. Ты свободна?"</DefaultText>
+      <DefaultText>"Эй, дорогуша. Я задержусь на побережье ещё всего на несколько часов. Ты свободен?"</DefaultText>
+      <FemaleText>"Эй, дорогуша. Я задержусь на побережье ещё всего на несколько часов. Ты свободна?"</FemaleText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>2</ID>
-      <DefaultText>"Что означает твоя татуировка, милашка?"</DefaultText>
-      <FemaleText />
+      <DefaultText>"Что означает твоя татуировка, дорогой?"</DefaultText>
+      <FemaleText>"Что означает твоя татуировка, милашка?"</FemaleText>
     </Entry>
     <Entry>
       <ID>3</ID>
@@ -21,12 +22,12 @@
     </Entry>
     <Entry>
       <ID>4</ID>
-      <DefaultText>"Эй. У меня тоже есть татуировка. Возможно, позже я покажу тебе ее".</DefaultText>
+      <DefaultText>"Эй. У меня тоже есть татуировка. Возможно, позже я покажу тебе её".</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>5</ID>
-      <DefaultText>"Еще увидимся, дорогуша".</DefaultText>
+      <DefaultText>"Ещё увидимся, дорогуша".</DefaultText>
       <FemaleText />
     </Entry>
   </Entries>
