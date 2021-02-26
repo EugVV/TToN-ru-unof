@@ -1165,7 +1165,7 @@
     </Entry>
     <Entry>
       <ID>189</ID>
-      <DefaultText>Этот узел показывает все картинки, используемые в этом Сознании. Какую из них вы хотите увидеть?</DefaultText>
+      <DefaultText>Этот узел показывает все картинки, используемые в этом сознании. Какую из них вы хотите увидеть?</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1190,7 +1190,7 @@
     </Entry>
     <Entry>
       <ID>194</ID>
-      <DefaultText>Вернуться к началу Сознания.</DefaultText>
+      <DefaultText>Вернуться к началу сознания.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
