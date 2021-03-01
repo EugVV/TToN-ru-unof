@@ -2551,12 +2551,12 @@
     </Entry>
     <Entry>
       <ID>509</ID>
-      <DefaultText>Головорез в Подбрюшье {male}</DefaultText>
+      <DefaultText>Головорез из Подбрюшья{male}</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>510</ID>
-      <DefaultText>Головорез в Подбрюшье {female}</DefaultText>
+      <DefaultText>Головорез из Подбрюшья{female}</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
