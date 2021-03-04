@@ -6,8 +6,8 @@
   <Entries>
     <Entry>
       <ID>1</ID>
-      <DefaultText>{angry, startled, suspicious – first time meeting the player}"Кто ты?"</DefaultText>
-      <FemaleText />
+      <DefaultText>{angry, startled, suspicious – first time meeting the player}"Кто ты такой?"</DefaultText>
+      <FemaleText>{angry, startled, suspicious – first time meeting the player}"Кто ты такая?"</FemaleText>
     </Entry>
     <Entry>
       <ID>2</ID>
