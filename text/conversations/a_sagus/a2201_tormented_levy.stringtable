@@ -133,7 +133,7 @@
     </Entry>
     <Entry>
       <ID>24</ID>
-      <DefaultText>"Пожалуйста", – говорит он, пытаясь улыбнуться, – "спрашивайте что угодно. Это помогает говорить. Помогает выплеснуть слова".</DefaultText>
+      <DefaultText>"Пожалуйста", – говорит он, пытаясь улыбнуться. – "Спрашивайте что угодно. Это помогает выговориться. Помогает выплеснуть слова".</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -143,12 +143,12 @@
     </Entry>
     <Entry>
       <ID>26</ID>
-      <DefaultText>"Какого рода год тебе нужен от Финзина?"</DefaultText>
+      <DefaultText>"Какой именно год тебе нужен от Финзина?"</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>27</ID>
-      <DefaultText>"Какого рода год, говоришь, тебе нужен от Финзина?"</DefaultText>
+      <DefaultText>"Какой именно год, говоришь, тебе нужен от Финзина?"</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
