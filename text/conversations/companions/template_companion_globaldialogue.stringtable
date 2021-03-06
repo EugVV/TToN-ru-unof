@@ -403,7 +403,7 @@
     </Entry>
     <Entry>
       <ID>220</ID>
-      <DefaultText>[Нам нужно поговорить с Аадирисом о том, как найти Мазофа.]
+      <DefaultText>[Нам нужно поговорить с Аадирисом о том, как найти Маззофа.]
 
 {SCRIPT: Set conditional to HasPartyVisitedScene(Miel Avest) when the scene is available.}</DefaultText>
       <FemaleText />
