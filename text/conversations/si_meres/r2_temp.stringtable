@@ -81,7 +81,7 @@
     </Entry>
     <Entry>
       <ID>16</ID>
-      <DefaultText>Узнать об опасности Взгляда в Сознание, ослаблении его действия или выводе из строя.</DefaultText>
+      <DefaultText>Узнать об опасности Взгляда, ослаблении его действия или выводе из строя.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -168,7 +168,7 @@
     </Entry>
     <Entry>
       <ID>30</ID>
-      <DefaultText>Украсть Взгляд в Сознание.</DefaultText>
+      <DefaultText>Украсть Взгляд в сознание.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -258,7 +258,7 @@
     </Entry>
     <Entry>
       <ID>48</ID>
-      <DefaultText>Разместить Взгляд в Сознание на Оригане (активация).</DefaultText>
+      <DefaultText>Разместить Взгляд в сознание на Оригане (активация).</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -273,7 +273,7 @@
     </Entry>
     <Entry>
       <ID>51</ID>
-      <DefaultText>Поместить Взгляд В Сознание на моль.</DefaultText>
+      <DefaultText>Поместить Взгляд в сознание на мотылька.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
