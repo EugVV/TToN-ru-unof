@@ -312,13 +312,13 @@
     </Entry>
     <Entry>
       <ID>57</ID>
-      <DefaultText>"Разумеется", – говорит пришелец, а затем умолкает. – "Но, к сожалению, я вынужден попросить о небольшой оплате в [Global: a2621_PayingSnerfForPST] шина(-ов) для покрытия расходов. Я не жрец Вечности, а всего лишь гость здесь. Город не финансирует мое исследование".</DefaultText>
+      <DefaultText>"Разумеется", – говорит пришелец, а затем умолкает. – "Но, к сожалению, я вынужден попросить о небольшой оплате в [Global: a2621_PayingSnerfForPST] шинов для покрытия расходов. Я не жрец Вечности, а всего лишь гость здесь. Город не финансирует моё исследование".</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>58</ID>
-      <DefaultText>"Разумеется", – обрадовавшись, говорит Сн'ерф. – "Я надеялся, что ты попросишь. Ты готов мне заплатить? [Global: a2621_PayingSnerfForPST] шина(-ов) – вполне разумная плата".</DefaultText>
-      <FemaleText>"Разумеется", – обрадовавшись, говорит Сн'ерф. – "Я надеялся, что ты попросишь. Ты готова мне заплатить? [Global: a2621_PayingSnerfForPST] шина(-ов) – вполне разумная плата".</FemaleText>
+      <DefaultText>"Разумеется", – обрадовавшись, говорит Сн'ерф. – "Я надеялся, что ты попросишь. Ты готов мне заплатить? [Global: a2621_PayingSnerfForPST] шинов – вполне разумная плата".</DefaultText>
+      <FemaleText>"Разумеется", – обрадовавшись, говорит Сн'ерф. – "Я надеялся, что ты попросишь. Ты готова мне заплатить? [Global: a2621_PayingSnerfForPST] шинов – вполне разумная плата".</FemaleText>
     </Entry>
     <Entry>
       <ID>59</ID>
@@ -399,7 +399,7 @@
     </Entry>
     <Entry>
       <ID>74</ID>
-      <DefaultText>"Они погибают немедленно".</DefaultText>
+      <DefaultText>"Они вообще не оживают".</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -419,7 +419,7 @@
     </Entry>
     <Entry>
       <ID>78</ID>
-      <DefaultText>"Последний вопрос: в каком виде хранится интеллект Бригадиров? Вакуумные матрицы, защищённые витые катушки или что-то другое?"</DefaultText>
+      <DefaultText>"Последний вопрос: в каком виде хранится интеллект Бригадиров? Вакуумные матрицы, защищённые кольцевые катушки или что-то другое?"</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -469,12 +469,12 @@
     </Entry>
     <Entry>
       <ID>93</ID>
-      <DefaultText>"Разумеется", – говорит он. – "Я попрошу лишь [Global: a2621_PayingSnerfForEggs] шина(-ов) за гроздь".</DefaultText>
+      <DefaultText>"Разумеется", – говорит он. – "Я попрошу лишь [Global: a2621_PayingSnerfForEggs] шинов за гроздь".</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>94</ID>
-      <DefaultText>"Конечно", – говорит пришелец. – "Это будет стоить [Global: a2621_PayingSnerfForEggs] шина(-ов) за гроздь".</DefaultText>
+      <DefaultText>"Конечно", – говорит пришелец. – "Это будет стоить [Global: a2621_PayingSnerfForEggs] шинов за гроздь".</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -702,7 +702,7 @@ Aligern's and Matkina's disgust should be different flavors, though – Aligern'
     </Entry>
     <Entry>
       <ID>142</ID>
-      <DefaultText>"Это имеет смысл, учитывая, что я слышал об их повадках", – произносит Сн'ерф, делая последнюю пометку.</DefaultText>
+      <DefaultText>"Это имеет смысл, учитывая, что я слышал об их поведении", – произносит Сн'ерф, делая последнюю пометку.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>

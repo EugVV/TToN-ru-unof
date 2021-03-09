@@ -290,7 +290,7 @@
     </Entry>
     <Entry>
       <ID>50</ID>
-      <DefaultText>В конечно итоге машины понимают, что ваше тело не является едой. В какой-то момент во время операции вы падаете. Наконец вы встаёте, тяжело дыша.
+      <DefaultText>В конечном итоге машины понимают, что ваше тело не является едой. В какой-то момент во время операции вы падаете. Наконец вы встаёте, тяжело дыша.
 
 "Теперь ты точно выглядишь здоровым!" – объявляет Джернау. – "Хотя... всё тело в твоей собственной крови. Но у тебя точно есть ещё!"
 
@@ -503,7 +503,7 @@
     </Entry>
     <Entry>
       <ID>85</ID>
-      <DefaultText>Дроны устремляются к вам и прижимают ваши руки к бокам. С неоправданной скоростью они вставляют одну за другой длинные стальные трубки между костяшками ваших пальцев. {SCRIPT: Chiurgical drone close in on the PC.} {SOUND: See above SCRIPT note. During fade out, surgery is happening. Rhythmic CHUNKing, gruesome meat squishing. , screams.}</DefaultText>
+      <DefaultText>Дроны устремляются к вам и прижимают ваши руки к бокам. С беспощадной скоростью они вставляют одну за другой длинные стальные трубки между костяшками ваших пальцев. {SCRIPT: Chiurgical drone close in on the PC.} {SOUND: See above SCRIPT note. During fade out, surgery is happening. Rhythmic CHUNKing, gruesome meat squishing. , screams.}</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -554,7 +554,7 @@
     </Entry>
     <Entry>
       <ID>96</ID>
-      <DefaultText>Дроны устремляются к вам и прижимают ваши руки к бокам. С неоправданной скоростью они вставляют одну за другой длинные стальные трубки между костяшками ваших пальцев. {Sound: See above SCRIPT note. During fade out, surgery is happening. Rhythmic CHUNKing, gruesome meat squishing. , screams.}</DefaultText>
+      <DefaultText>Дроны устремляются к вам и прижимают ваши руки к бокам. С беспощадной скоростью они вставляют одну за другой длинные стальные трубки между костяшками ваших пальцев. {Sound: See above SCRIPT note. During fade out, surgery is happening. Rhythmic CHUNKing, gruesome meat squishing. , screams.}</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
