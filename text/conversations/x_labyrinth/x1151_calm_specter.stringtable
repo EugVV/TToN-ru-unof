@@ -1267,7 +1267,7 @@ including break with castoffs.]</DefaultText>
     </Entry>
     <Entry>
       <ID>272</ID>
-      <DefaultText>"Что мне делать?"</DefaultText>
+      <DefaultText>"Что мне делать дальше?"</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1960,7 +1960,7 @@ including break with castoffs.]</DefaultText>
     </Entry>
     <Entry>
       <ID>417</ID>
-      <DefaultText>"Повтори, кто ты".</DefaultText>
+      <DefaultText>"Повтори, кто ты?"</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -2445,7 +2445,7 @@ including break with castoffs.]</DefaultText>
     </Entry>
     <Entry>
       <ID>518</ID>
-      <DefaultText>"Не могу сказать", – говорит он, нахмурившись. – "Вероятно, его пленили не без причины, но и не из-за того, что без спросу вторгается в чужие мысли. Береги себя!"</DefaultText>
+      <DefaultText>"Не знаю", – говорит он, нахмурившись. – "Но вряд ли его пленили без причины и явно не только из-за того, что без спросу вторгается в чужие мысли. Будь осторожнее".</DefaultText>
       <FemaleText />
     </Entry>
   </Entries>

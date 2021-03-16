@@ -16,22 +16,22 @@
     </Entry>
     <Entry>
       <ID>3</ID>
-      <DefaultText>"Вскоре я уеду. Еще один месяц в открытом небе!"</DefaultText>
+      <DefaultText>"Вскоре я уеду. Ещё один месяц в открытом небе!"</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>4</ID>
-      <DefaultText>"Не простая штука, воздухоплавание. Облака иногда бывают голодными".</DefaultText>
+      <DefaultText>"Воздухоплавание – штука непростая. Иногда облака бывают голодными".</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>5</ID>
-      <DefaultText>"Нет ничего лучше, чем ощущение твердой почвы у тебя под ногами, не правда ли?"</DefaultText>
+      <DefaultText>"Нет ничего лучше ощущения твёрдой почвы у тебя под ногами, не правда ли?"</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>6</ID>
-      <DefaultText>"Держись на расстоянии от моряков в отпуске. Некоторые из них выкидывают ужасные штуки, *безобразные* штуки".</DefaultText>
+      <DefaultText>"Держись подальше от матросов в отпуске. Некоторые из них творят ужасные, *постыдные* вещи".</DefaultText>
       <FemaleText />
     </Entry>
   </Entries>
