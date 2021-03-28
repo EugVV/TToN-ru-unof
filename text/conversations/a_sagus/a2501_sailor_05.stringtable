@@ -6,27 +6,27 @@
   <Entries>
     <Entry>
       <ID>1</ID>
-      <DefaultText>"Это моя любимая пристань. Не пройдешь и десяти шагов, как ввяжешься в драку".</DefaultText>
+      <DefaultText>"Это моя любимая пристань. Не пройдёшь и десяти шагов, не встряв в драку".</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>2</ID>
-      <DefaultText>"Не бывает отплытия без того, чтобы кто-нибудь не потерял несколько зубов".</DefaultText>
+      <DefaultText>"Если все зубы на месте – это не отплытие".</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>3</ID>
-      <DefaultText>"А я знаю секретный прием для драки. Знаешь, какой? Удар лбом".</DefaultText>
+      <DefaultText>"Я знаю секретный приём для драки. Знаешь, какой? Удар лбом".</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>4</ID>
-      <DefaultText>"Тяжело им будет отведать силы твоего удара лбом, это грубая пища!"</DefaultText>
+      <DefaultText>"Как следует врежь кому-нибудь лбом промеж зубов. Такую пищу он переварит вряд ли!"</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>5</ID>
-      <DefaultText>"Наверное, я скоро выйду прогуляться. Может быть, кто-то и посмотрит на меня с подозрением".</DefaultText>
+      <DefaultText>"Думаю, пришла пора прогуляться. Надеюсь, кто-нибудь посмотрит на меня подозрительно".</DefaultText>
       <FemaleText />
     </Entry>
   </Entries>
