@@ -49,12 +49,12 @@
     </Entry>
     <Entry>
       <ID>9</ID>
-      <DefaultText>Твоя веревка облегчит восхождение. Эта веревка как будто может различать, какие выступы наиболее прочные, и она цепляется за них, как будто у нее есть зубы.</DefaultText>
+      <DefaultText>Ваша верёвка облегчает восхождение. Она словно может различать, какие выступы наиболее прочные, и вцепляется в них, как будто у неё есть зубы.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>10</ID>
-      <DefaultText>Приветливый порыв ветра ласкает ваше лицо на вершине утеса.
+      <DefaultText>Приветливый порыв ветра на вершине утёса ласкает ваше лицо.
 
 {SOUND: If there was wind SFX from node 5, then they should change here to be more open since the PC has reached the top.}</DefaultText>
       <FemaleText />
@@ -124,12 +124,12 @@
     </Entry>
     <Entry>
       <ID>22</ID>
-      <DefaultText>Ваш компаньон следует за вами тем же маршрутом, который вы проложили для них.</DefaultText>
+      <DefaultText>Ваш компаньон поднимается следом тем же маршрутом, что и вы.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>23</ID>
-      <DefaultText>Ваш компаньон следует за вами тем маршрутом, который вы отметили.</DefaultText>
+      <DefaultText>Ваши компаньоны поднимаются следом тем же маршрутом, что и вы.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>

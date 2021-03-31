@@ -4311,7 +4311,7 @@
     </Entry>
     <Entry>
       <ID>862</ID>
-      <DefaultText>Атака, наносящая [Color: Damage][Damage][/Color]. Если цель уже находиться под воздействием другого негативного эффекта, то на нее накладывается эффект [Fettles] ([FettleEffectsBasic]) на 1 раунд</DefaultText>
+      <DefaultText>Атака, наносящая [Color: Damage][Damage][/Color]. Если цель уже под воздействием другого негативного эффекта, то на неё на 1 раунд накладывается эффект [Fettles] ([FettleEffectsBasic]).</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>

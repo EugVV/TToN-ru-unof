@@ -6,17 +6,17 @@
   <Entries>
     <Entry>
       <ID>1</ID>
-      <DefaultText>Дыра в углу огромная – около 2 метров в ширину. Она была явно вырезана, но не человеческими руками. Она ведет в темный туннель.</DefaultText>
+      <DefaultText>Дыра в углу огромна – около 2 метров в ширину. Она явно была прорублена, но не человеческими руками и ведёт в тёмный тоннель.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>2</ID>
-      <DefaultText>Войти в туннель.</DefaultText>
+      <DefaultText>Войти в тоннель.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>3</ID>
-      <DefaultText>Оставаться в пещере Последних Слов.</DefaultText>
+      <DefaultText>Остаться в пещере Последних Слов.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -26,27 +26,27 @@
     </Entry>
     <Entry>
       <ID>5</ID>
-      <DefaultText>Ты знаешь, что они были вырыты стиками и они ведут в Подбрюшье.</DefaultText>
+      <DefaultText>Вы понимаете, что она была вырыта стихусами и ведёт в Подбрюшье.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>6</ID>
-      <DefaultText>Проверить этот туннель.</DefaultText>
+      <DefaultText>Осмотреть тоннель.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>7</ID>
-      <DefaultText>Сгибаясь, вы проходите в туннель и видите, просто на пределе своего зрения, что туннель обрушился. По этому пути не будет выхода.</DefaultText>
+      <DefaultText>Сгибаясь, вы проходите в тоннель и видите, почти на пределе своего зрения, что тоннель обрушился. По этому пути не будет выхода.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>8</ID>
-      <DefaultText>Это огромная дыра, вырезанная чем-то, но не человеческими руками. Дальше по туннелю очень темно, чтобы видеть.</DefaultText>
+      <DefaultText>Эта огромная дыра чем-то прорублена, но явно не человеческими руками. Дальше по тоннелю очень темно, чтобы видеть.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>9</ID>
-      <DefaultText>Войти в туннель.</DefaultText>
+      <DefaultText>Войти в тоннель.</DefaultText>
       <FemaleText />
     </Entry>
   </Entries>
