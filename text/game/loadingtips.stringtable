@@ -121,17 +121,17 @@
     </Entry>
     <Entry>
       <ID>23</ID>
-      <DefaultText>Навыки имеют следующие уровни подготовки: &lt;quad class="skillempty"&gt;&lt;quad class="skillempty"&gt; начальный, &lt;quad class="skillfull"&gt;&lt;quad class="skillempty"&gt; опытный и &lt;quad class="skillfull"&gt;&lt;quad class="skillfull"&gt; экспертный. Каждый уровень дает большее преимущество. Отсутствие навыков приводит к штрафу при их проверке.</DefaultText>
+      <DefaultText>Навыки имеют следующие уровни подготовки: &lt;quad class="skillempty"&gt;&lt;quad class="skillempty"&gt;начальный, &lt;quad class="skillfull"&gt;&lt;quad class="skillempty"&gt;опытный и &lt;quad class="skillfull"&gt;&lt;quad class="skillfull"&gt;экспертный. Каждый следующий уровень даёт большее преимущество. Уровень &lt;quad class="skillinability"&gt;&lt;quad class="skillinability"&gt;неумение приводит к штрафу при проверке навыка.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>24</ID>
-      <DefaultText>Сияющий зеленый значок рядом с названием навыка указывает на то, что ваш навык выше уровня "экспертный". Этого можно достичь только при получении особых предметов или способностей.</DefaultText>
+      <DefaultText>Сияющий зелёный значок рядом с названием навыка указывает на то, что ваш навык выше уровня «экспертный». Этого можно достичь только при получении особых предметов или способностей.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>25</ID>
-      <DefaultText>Эффекты представлены в виде изменений вашего состояния. Они могут быть [FettleIcon: Buff]положительными, [FettleIcon: Debuff]отрицательными или меняющими ваш [FettleIcon: Status] статус. Эффекты обозначаются маленькими цветными стрелками над персонажами.</DefaultText>
+      <DefaultText>Эффекты представляют изменения вашего состояния. Они могут быть [FettleIcon: Buff]положительными, [FettleIcon: Debuff]отрицательными или меняющими ваш [FettleIcon: Status]статус. Эффекты обозначаются маленькими цветными стрелками над персонажами.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>

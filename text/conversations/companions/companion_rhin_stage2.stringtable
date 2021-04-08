@@ -528,7 +528,7 @@
     </Entry>
     <Entry>
       <ID>260</ID>
-      <DefaultText>"Верно. Куда мы пойдем?"</DefaultText>
+      <DefaultText>"Ну ладно. Так куда теперь?"</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -697,12 +697,12 @@
     </Entry>
     <Entry>
       <ID>298</ID>
-      <DefaultText>Она крепче обнимает себя руками. "О. я *была* напугана. Это было страшное время".</DefaultText>
+      <DefaultText>Она крепче обхватывает себя руками: "О, я и *была* напугана. Это было страшное время".</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>299</ID>
-      <DefaultText>Вдруг она обезоруживающе улыбается вам. "Впрочем, теперь мне намного лучше".</DefaultText>
+      <DefaultText>Вдруг она обезоруживающе улыбается вам: "Впрочем, теперь мне намного лучше".</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
