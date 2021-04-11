@@ -501,7 +501,7 @@
     </Entry>
     <Entry>
       <ID>214</ID>
-      <DefaultText>"Я не горжусь тем, что живу тут".</DefaultText>
+      <DefaultText>"Я не горжусь тем, что живу здесь".</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -746,7 +746,7 @@
     </Entry>
     <Entry>
       <ID>264</ID>
-      <DefaultText>"Пока больше ничего не надо. Продолжим".</DefaultText>
+      <DefaultText>"Пока больше ничего не надо. Продолжим путь".</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -2030,19 +2030,19 @@
     </Entry>
     <Entry>
       <ID>566</ID>
-      <DefaultText>Она нерешительно подходит к столу, чтобы приняться за дело, но затем складывает руки на груди. "Но..."
+      <DefaultText>Она нерешительно подходит к столу, словно хочет вернуться к работе, но затем складывает руки на груди: "Но..."
 
-"Не важно. Нам есть о чем волноваться помимо этого. Только... нужно представить, что нет никакого бардака".</DefaultText>
+"Забудь. У нас есть заботы и поважнее. Просто... притворись, что не видишь неприятностей".</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>567</ID>
-      <DefaultText>Ее губы вздрагивают, но она ничего не говорит.</DefaultText>
+      <DefaultText>Она слегка кривит губы, но ничего не говорит.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>568</ID>
-      <DefaultText>"У меня есть еще несколько вопросов об отверженных".</DefaultText>
+      <DefaultText>"У меня ещё вопросы об отверженных".</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
