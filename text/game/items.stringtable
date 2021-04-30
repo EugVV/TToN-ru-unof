@@ -5706,12 +5706,12 @@
     </Entry>
     <Entry>
       <ID>1213</ID>
-      <DefaultText>Открывает канал к ближайшему небесному телу. Выпускает заряд, который наносит [Damage] и каждый ход, пока действует, накладывает эффект [Fettles]([FettleDescriptions]) на ближайшего противника. [Duration].</DefaultText>
+      <DefaultText>Открывает канал к ближайшему небесному телу. Выпускает заряд, который наносит [Damage] и каждый ход, пока действует, накладывает эффект [Fettles] ([FettleDescriptions]) на ближайшего противника. [Duration].</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>1214</ID>
-      <DefaultText>Два персонажа, которые носят эти парные кольца, получают общие состояния и восстанавливают [BonusAmount1]% очков параметров.</DefaultText>
+      <DefaultText>Два персонажа, которые носят эти парные кольца, получают общие состояния и [BonusAmount1]% восстановленных очков параметров.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -6586,7 +6586,7 @@
     </Entry>
     <Entry>
       <ID>1389</ID>
-      <DefaultText>Архив ученого</DefaultText>
+      <DefaultText>Архив учёного</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -6691,52 +6691,52 @@
     </Entry>
     <Entry>
       <ID>1410</ID>
-      <DefaultText>Sylph Cord Negative</DefaultText>
+      <DefaultText>Отрицательный шнур Сильфа</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>1411</ID>
-      <DefaultText>Cortical Shunt Negative</DefaultText>
+      <DefaultText>Отрицательный кортикальный шунт</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>1412</ID>
-      <DefaultText>Berserker's Yoke Negative</DefaultText>
+      <DefaultText>Отрицательный ошейник берсерка</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>1413</ID>
-      <DefaultText>Scholarch's Archive Negative</DefaultText>
+      <DefaultText>Отрицательный архив учёного</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>1414</ID>
-      <DefaultText>Candiru Negative</DefaultText>
+      <DefaultText>Отрицательный кандиру</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>1415</ID>
-      <DefaultText>Child's Grace Negative</DefaultText>
+      <DefaultText>Отрицательное детское очарование</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>1416</ID>
-      <DefaultText>Fluid Armature Negative</DefaultText>
+      <DefaultText>Отрицательная жидкая броня</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>1417</ID>
-      <DefaultText>Psychic Focus Negative</DefaultText>
+      <DefaultText>Отрицательное средоточие души</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>1418</ID>
-      <DefaultText>Clockwork Strut Negative</DefaultText>
+      <DefaultText>Отрицательная механическая поступь</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>1419</ID>
-      <DefaultText>Talisman of the Gentle Hierophant Negative</DefaultText>
+      <DefaultText>Отрицательный талисман миролюбивого жреца</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
