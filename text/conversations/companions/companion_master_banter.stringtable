@@ -151,17 +151,17 @@
     </Entry>
     <Entry>
       <ID>31</ID>
-      <DefaultText>::фррт::</DefaultText>
+      <DefaultText>::фр-рт::</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>32</ID>
-      <DefaultText>::сслр::</DefaultText>
+      <DefaultText>::с-слр::</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>33</ID>
-      <DefaultText>{watery sound} Слрп</DefaultText>
+      <DefaultText>{watery sound}::слрп::</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -221,7 +221,7 @@
     </Entry>
     <Entry>
       <ID>46</ID>
-      <DefaultText>::добродушно смеется::</DefaultText>
+      <DefaultText>::добродушно смеётся::</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -901,7 +901,7 @@
     </Entry>
     <Entry>
       <ID>197</ID>
-      <DefaultText>::мммрм::</DefaultText>
+      <DefaultText>::м-мрм::</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -916,7 +916,7 @@
     </Entry>
     <Entry>
       <ID>202</ID>
-      <DefaultText>{hairball} Ссссссрк</DefaultText>
+      <DefaultText>{hairball}::с-с-с-срк::</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -931,7 +931,7 @@
     </Entry>
     <Entry>
       <ID>205</ID>
-      <DefaultText>::ммммммм::</DefaultText>
+      <DefaultText>::м-м-м-м::</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -946,7 +946,7 @@
     </Entry>
     <Entry>
       <ID>208</ID>
-      <DefaultText>{building} МммммММ</DefaultText>
+      <DefaultText>{building}::м-м-м-М-М::</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -961,7 +961,7 @@
     </Entry>
     <Entry>
       <ID>211</ID>
-      <DefaultText>::ммрсс::</DefaultText>
+      <DefaultText>::м-мрс-с::</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1286,7 +1286,7 @@
     </Entry>
     <Entry>
       <ID>280</ID>
-      <DefaultText>::мммм::</DefaultText>
+      <DefaultText>::м-м-м::</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1296,7 +1296,7 @@
     </Entry>
     <Entry>
       <ID>282</ID>
-      <DefaultText>::ррррск::</DefaultText>
+      <DefaultText>::р-р-рск::</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1306,7 +1306,7 @@
     </Entry>
     <Entry>
       <ID>284</ID>
-      <DefaultText>{extended} Рррсрсрсрсрсрсрсрсрк</DefaultText>
+      <DefaultText>{extended}::р-рсрсрсрсрсрсрсрсрк::</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1661,12 +1661,12 @@
     </Entry>
     <Entry>
       <ID>368</ID>
-      <DefaultText>::мммм::</DefaultText>
+      <DefaultText>::м-м-м::</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>369</ID>
-      <DefaultText>{sizzling sound} Ссссс</DefaultText>
+      <DefaultText>{sizzling sound}::с-с-с-с::</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1816,17 +1816,17 @@
     </Entry>
     <Entry>
       <ID>399</ID>
-      <DefaultText>::ссрсрс::</DefaultText>
+      <DefaultText>::с-срсрс::</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>400</ID>
-      <DefaultText>{crescendo and fall} Рупрупрупруп</DefaultText>
+      <DefaultText>{crescendo and fall}::рупрупрупруп::</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>401</ID>
-      <DefaultText>{lively} Фффипипип</DefaultText>
+      <DefaultText>{lively}::ф-фипипип::</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>

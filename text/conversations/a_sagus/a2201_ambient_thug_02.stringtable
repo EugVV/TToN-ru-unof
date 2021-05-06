@@ -11,7 +11,7 @@
     </Entry>
     <Entry>
       <ID>2</ID>
-      <DefaultText>"Я похож на того, за кем ты хочешь таскаться повсюду?"</DefaultText>
+      <DefaultText>"Я похож на того, за кем ты хочешь повсюду таскаться?"</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -26,7 +26,7 @@
     </Entry>
     <Entry>
       <ID>5</ID>
-      <DefaultText>(вздыхает) "Конечно. Следуй за мной повсюду. Мы хорошо проведем время".</DefaultText>
+      <DefaultText>::вздыхает:: "Конечно. Следуй за мной повсюду. Мы хорошо проведём время".</DefaultText>
       <FemaleText />
     </Entry>
   </Entries>
