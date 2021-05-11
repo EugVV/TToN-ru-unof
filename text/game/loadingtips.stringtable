@@ -61,7 +61,7 @@
     </Entry>
     <Entry>
       <ID>11</ID>
-      <DefaultText>Не стоит недооценивать пользу хорошей защиты. &lt;quad class="evasion"&gt;[Color: Speed]Уклонение[/Color] позволяет избегать атак обычным оружием, а &lt;quad class="willpower"&gt; [Color: Intellect]Сила Воли[/Color] – атак эзотериями.</DefaultText>
+      <DefaultText>Не стоит недооценивать пользу хорошей защиты. &lt;quad class="evasion"&gt;[Color: Speed]Уклонение[/Color] позволяет избегать атак обычным оружием, а &lt;quad class="willpower"&gt;[Color: Intellect]сила воли[/Color] – атак эзотериями.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -71,7 +71,7 @@
     </Entry>
     <Entry>
       <ID>13</ID>
-      <DefaultText>&lt;quad class="armor"&gt; Броня снижает [DamageIcon: Physical] физический урон, который обычно наносит оружие. &lt;quad class="resistance"&gt; Сопротивляемость сокращает [DamageIcon: Energy][Color: Energy]энергетический[/Color], [DamageIcon: Chemical][Color: Chemical]химический[/Color], [DamageIcon: Transdimensional][Color: Transdimensional]межпространственный[/Color] и [DamageIcon: Mental][Color: Mental]ментальный[/Color] урон, который обычно наносят эзотерии и шифры.</DefaultText>
+      <DefaultText>&lt;quad class="armor"&gt;Броня снижает [DamageIcon: Physical]физический урон, который обычно наносит оружие. &lt;quad class="resistance"&gt;Сопротивление сокращает [DamageIcon: Energy][Color: Energy]энергетический[/Color], [DamageIcon: Chemical][Color: Chemical]химический[/Color], [DamageIcon: Transdimensional][Color: Transdimensional]межпространственный[/Color] и [DamageIcon: Mental][Color: Mental]ментальный[/Color] урон, который обычно наносят эзотерии и шифры.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>

@@ -3161,12 +3161,12 @@
     </Entry>
     <Entry>
       <ID>631</ID>
-      <DefaultText>Из внутренностей мердена капает кровь на пол.</DefaultText>
+      <DefaultText>Из внутренностей мердена на пол капает кровь.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>632</ID>
-      <DefaultText>Перья этого существа обуглены до основания.</DefaultText>
+      <DefaultText>Перья этого существа обуглены до стержней.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -3176,7 +3176,7 @@
     </Entry>
     <Entry>
       <ID>634</ID>
-      <DefaultText>Этому существу вырвали оба птичьих глаза, внутриглазная жидкость растеклась по лицу.</DefaultText>
+      <DefaultText>Этому существу вырвали оба птичьих глаза, а внутриглазная жидкость растеклась по лицу.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
