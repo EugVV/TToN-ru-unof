@@ -68,7 +68,7 @@
     </Entry>
     <Entry>
       <ID>11</ID>
-      <DefaultText>"С возвращением, птенчик", – мурлыкает она, будто обращаясь к милому ребенку.</DefaultText>
+      <DefaultText>"С возвращением, птенчик", – мурлыкает она, будто обращаясь к милому ребёнку.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -491,7 +491,7 @@
     </Entry>
     <Entry>
       <ID>94</ID>
-      <DefaultText>"В Подбрюшье орудует убийца. Знаешь о нем что-нибудь?"</DefaultText>
+      <DefaultText>"В Подбрюшье орудует убийца. Знаешь о нём что-нибудь?"</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -506,7 +506,7 @@
     </Entry>
     <Entry>
       <ID>97</ID>
-      <DefaultText>"Мы таким не делимся", – усмехается Гзи. – "Пиры у нас только для своих. Но их много, много... Свою пищу мы находим сами".</DefaultText>
+      <DefaultText>"Мы таким не делимся", – усмехается Гзи. – "Пиры у нас только для своих. Но их много, много. Свою пищу мы находим сами".</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -518,7 +518,7 @@
     </Entry>
     <Entry>
       <ID>99</ID>
-      <DefaultText>"Много", – отвечает Гзи и почему-то краснеет. – "Но много еще до того, как мы пришли сюда через портал".</DefaultText>
+      <DefaultText>"Много", – отвечает Гзи и почему-то краснеет. – "Но много ещё до того, как мы пришли сюда через портал".</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -595,7 +595,7 @@
     </Entry>
     <Entry>
       <ID>114</ID>
-      <DefaultText>"Во что вы верите?"</DefaultText>
+      <DefaultText>"Повтори, во что верит твой народ?"</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
