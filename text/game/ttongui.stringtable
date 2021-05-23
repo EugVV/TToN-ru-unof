@@ -6031,7 +6031,7 @@
     </Entry>
     <Entry>
       <ID>1206</ID>
-      <DefaultText>урон {0} ({1} {2})</DefaultText>
+      <DefaultText>урон {0} ({1}{2})</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>

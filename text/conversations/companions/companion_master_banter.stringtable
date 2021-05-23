@@ -1546,7 +1546,7 @@
     </Entry>
     <Entry>
       <ID>345</ID>
-      <DefaultText>"Можешь рассказать о своем детстве, Мэтти?"</DefaultText>
+      <DefaultText>"Можешь рассказать о своём детстве, Мэтти?"</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1966,17 +1966,17 @@
     </Entry>
     <Entry>
       <ID>430</ID>
-      <DefaultText>{Taken aback, flustered}"Я... ну... тогда... {gets grumpy}Знаешь, для девочки, которая задает так много вопросов, ты знаешь подозрительно много".</DefaultText>
+      <DefaultText>{Taken aback, flustered}"Я... ну... тогда... {gets grumpy}знаешь, для девочки, которая задаёт так много вопросов, ты знаешь подозрительно много".</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>431</ID>
-      <DefaultText>{Surprised}"Правда? {Pause, thinking}Вот тебе подсказка. Не бойся монстра, который прячется в темноте, если *ты* и есть этот монстр".</DefaultText>
+      <DefaultText>{Surprised}"Правда? {Pause, thinking}Вот тебе подсказка. Не нужно бояться монстра, который прячется в темноте, если *ты* и есть этот монстр".</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>432</ID>
-      <DefaultText>"Это хороший способ описать большую часть моей жизни – кто-то собирается нанести мне удар".</DefaultText>
+      <DefaultText>"Это хороший способ описать большую часть моей жизни: кто-то вот-вот меня ударит".</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>

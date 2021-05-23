@@ -78,7 +78,7 @@
     </Entry>
     <Entry>
       <ID>13</ID>
-      <DefaultText>"Продолжай", – она вздыхает.</DefaultText>
+      <DefaultText>"Слушаю", – она вздыхает.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -839,17 +839,17 @@
     </Entry>
     <Entry>
       <ID>164</ID>
-      <DefaultText>"У меня еще есть много вопросов по поводу убийц в Подбрюшье".</DefaultText>
+      <DefaultText>"У меня ещё вопросы по поводу убийств в Подбрюшье".</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>165</ID>
-      <DefaultText>"Торговец в Малом Круге сказал, что они выследили тебя, бродившую поблизости и говорившую о 'пустых кольцах'".</DefaultText>
+      <DefaultText>"Торговка в Малом Круге сказала, что заметила тебя бродившей поблизости и говорившей о «пустых кругах»".</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>166</ID>
-      <DefaultText>"Это правда?" – говорит она, почесывая свой затылок. – "Ничего не припоминаю, но может я была пьяна".</DefaultText>
+      <DefaultText>"Правда?" – говорит она, почёсывая затылок. – "Ничего такого не припоминаю, но может, я была пьяна".</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
