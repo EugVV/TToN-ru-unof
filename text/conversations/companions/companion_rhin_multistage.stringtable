@@ -287,7 +287,7 @@
     </Entry>
     <Entry>
       <ID>70</ID>
-      <DefaultText>"Она немного... замерзла. Не говорите ей, что я это сказала!"</DefaultText>
+      <DefaultText>"Она немного... холодная. Не говори ей, что я это сказала!"</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -297,12 +297,12 @@
     </Entry>
     <Entry>
       <ID>74</ID>
-      <DefaultText>Она хмурится. "Он ведет себя дружелюбно, но не думаю, что я ему нравлюсь. Я удивлюсь, если ему кто-нибудь понравится".</DefaultText>
+      <DefaultText>Она хмурится: "Он ведёт себя мило, но не думаю, что я ему нравлюсь. Я удивлюсь, если ему кто-нибудь понравится".</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>77</ID>
-      <DefaultText>"У меня есть еще вопросы, если ты не против".</DefaultText>
+      <DefaultText>"У меня есть ещё вопросы, если ты не против".</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1807,7 +1807,7 @@
     </Entry>
     <Entry>
       <ID>374</ID>
-      <DefaultText>Рин смеется, прикрыв рот тыльной стороной ладони.</DefaultText>
+      <DefaultText>Рин смеётся, прикрыв рот тыльной стороной ладони.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1817,22 +1817,22 @@
     </Entry>
     <Entry>
       <ID>376</ID>
-      <DefaultText>"Она немного замерзла. Очень жаль".</DefaultText>
+      <DefaultText>"Она немного холодная. Очень жаль".</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>377</ID>
-      <DefaultText>"О... Давай притворимся, что ты этого не слышала".</DefaultText>
+      <DefaultText>"Ой... давай притворимся, что ты этого не слышала?"</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>378</ID>
-      <DefaultText>"Будем считать, что я сказала «да»".</DefaultText>
+      <DefaultText>"Давай притворимся, что я сказала «да»".</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>379</ID>
-      <DefaultText>"Да что ты такое говоришь, барышня", – произносит он с искренне потрясенным видом. "Ну как тебя можно не любить?"</DefaultText>
+      <DefaultText>"Да что ты такое говоришь, девочка", – произносит он с искренне потрясённым видом. – "Ну как ты можешь кому-то не нравиться?"</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1842,7 +1842,7 @@
     </Entry>
     <Entry>
       <ID>382</ID>
-      <DefaultText>"Ну что ж", – откашлявшись, говорит он. "Ты просто чудо, барышня. Больше я ничего не скажу по этому поводу".</DefaultText>
+      <DefaultText>"Ну..." – откашлявшись, произносит он, – "ты просто прелесть, девочка. Больше я по этому поводу ничего не скажу".</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
