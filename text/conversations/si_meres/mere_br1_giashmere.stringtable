@@ -56,12 +56,12 @@
     </Entry>
     <Entry>
       <ID>11</ID>
-      <DefaultText>"Омис, по-моему, тебе стоит пойти поговорить с Найкулом".</DefaultText>
+      <DefaultText>"Омис, по-моему, тебе стоит пойти поговорить с Най'кулом".</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>12</ID>
-      <DefaultText>"Омис, по-моему, тебе стоит пойти поговорить с Найкулом".</DefaultText>
+      <DefaultText>"Омис, по-моему, тебе стоит пойти поговорить с Най'кулом".</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -91,12 +91,12 @@
     </Entry>
     <Entry>
       <ID>18</ID>
-      <DefaultText>Использовать амулет и войти в Берата Найкул самому.</DefaultText>
-      <FemaleText>Использовать амулет и войти в Берата Найкул самой.</FemaleText>
+      <DefaultText>Использовать амулет и войти в Берата Най'кул самому.</DefaultText>
+      <FemaleText>Использовать амулет и войти в Берата Най'кул самой.</FemaleText>
     </Entry>
     <Entry>
       <ID>19</ID>
-      <DefaultText>Спрятать амулет в потайное отделение и окончить проекцию.</DefaultText>
+      <DefaultText>Спрятать амулет в потайное отделение и выйти из сознания.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -106,7 +106,7 @@
     </Entry>
     <Entry>
       <ID>21</ID>
-      <DefaultText>Покинуть Берата Найкул и помочь Гиашу сделать выбор.</DefaultText>
+      <DefaultText>Покинуть Берата Най'кул и помочь Гиашу сделать выбор.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
