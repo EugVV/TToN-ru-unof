@@ -176,7 +176,7 @@
     </Entry>
     <Entry>
       <ID>35</ID>
-      <DefaultText>{настойчиво}"Видишь те клапаны? Проберёшься через них – сможешь попасть внутрь!"</DefaultText>
+      <DefaultText>{настойчиво}"Видишь те клапаны? Проберёшься через них — сможешь попасть внутрь!"</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -226,7 +226,7 @@
     </Entry>
     <Entry>
       <ID>45</ID>
-      <DefaultText>"Попробуй добраться до генераторов щита – мы здесь долго не продержимся!"</DefaultText>
+      <DefaultText>"Попробуй добраться до генераторов щита — мы здесь долго не продержимся!"</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -331,7 +331,7 @@
     </Entry>
     <Entry>
       <ID>66</ID>
-      <DefaultText>"Ненавижу применять эти штуки – как будто вытягиваешь воспоминания наружу".</DefaultText>
+      <DefaultText>"Ненавижу применять эти штуки — как будто вытягиваешь воспоминания наружу".</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -391,12 +391,12 @@
     </Entry>
     <Entry>
       <ID>78</ID>
-      <DefaultText>"Этот город – настоящая клоака".</DefaultText>
+      <DefaultText>"Этот город — настоящая клоака".</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>79</ID>
-      <DefaultText>"Ненавижу города – в них слишком людно".</DefaultText>
+      <DefaultText>"Ненавижу города — в них слишком людно".</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -426,7 +426,7 @@
     </Entry>
     <Entry>
       <ID>85</ID>
-      <DefaultText>"Это что – пищевод?"</DefaultText>
+      <DefaultText>"Это что — пищевод?"</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -981,7 +981,7 @@
     </Entry>
     <Entry>
       <ID>196</ID>
-      <DefaultText>"Все эти страдания – от ее гордыни".</DefaultText>
+      <DefaultText>"Все эти страдания — от ее гордыни".</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1161,7 +1161,7 @@
     </Entry>
     <Entry>
       <ID>232</ID>
-      <DefaultText>"Клапаны – это вход. Сосредоточься на них!"</DefaultText>
+      <DefaultText>"Клапаны — это вход. Сосредоточься на них!"</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -2101,7 +2101,7 @@
     </Entry>
     <Entry>
       <ID>420</ID>
-      <DefaultText>"Как странно – как будто моя атака не имела никакой силы. *Вообще*".</DefaultText>
+      <DefaultText>"Как странно — как будто моя атака не имела никакой силы. *Вообще*".</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -2171,7 +2171,7 @@
     </Entry>
     <Entry>
       <ID>434</ID>
-      <DefaultText>"По моему опыту, злодей, у которого в руках есть некая штука – опасный злодей.{happy gasp} Возможно, он пытается уничтожить мир!"</DefaultText>
+      <DefaultText>"По моему опыту, злодей, у которого в руках есть некая штука — опасный злодей.{happy gasp} Возможно, он пытается уничтожить мир!"</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -2306,7 +2306,7 @@
     </Entry>
     <Entry>
       <ID>461</ID>
-      <DefaultText>"У славы есть новое имя – Эрритис!"</DefaultText>
+      <DefaultText>"У славы есть новое имя — Эрритис!"</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -2476,7 +2476,7 @@
     </Entry>
     <Entry>
       <ID>495</ID>
-      <DefaultText>{Impatient}"Возвращайся поскорее – так скучно, когда ты умираешь."</DefaultText>
+      <DefaultText>{Impatient}"Возвращайся поскорее — так скучно, когда ты умираешь."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -3406,7 +3406,7 @@
     </Entry>
     <Entry>
       <ID>681</ID>
-      <DefaultText>"Первая Гробница – моя любимая часть Долины".</DefaultText>
+      <DefaultText>"Первая Гробница — моя любимая часть Долины".</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -3691,7 +3691,7 @@
     </Entry>
     <Entry>
       <ID>738</ID>
-      <DefaultText>"Тени – моя территория, тупица".</DefaultText>
+      <DefaultText>"Тени — моя территория, тупица".</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -3761,7 +3761,7 @@
     </Entry>
     <Entry>
       <ID>752</ID>
-      <DefaultText>"Вытащи меня отсюда, либо вылечи – но сделай что-нибудь!"</DefaultText>
+      <DefaultText>"Вытащи меня отсюда, либо вылечи — но сделай что-нибудь!"</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -6108,7 +6108,7 @@
     </Entry>
     <Entry>
       <ID>1221</ID>
-      <DefaultText>"Главное – правильно двигать кистью".</DefaultText>
+      <DefaultText>"Главное — правильно двигать кистью".</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -6328,7 +6328,7 @@
     </Entry>
     <Entry>
       <ID>1265</ID>
-      <DefaultText>"Бессмертие – полезная штука!"</DefaultText>
+      <DefaultText>"Бессмертие — полезная штука!"</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>

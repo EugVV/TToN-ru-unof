@@ -166,7 +166,7 @@
 И тут вы исчезаете. Оболочка кричит, но вы на свободе.
 
 {SCRIPT: Fade to black. Fade up on next node.}
-{SCRIPT: Player currently takes 3 Intellect damage here – may need to be balanced.}</DefaultText>
+{SCRIPT: Player currently takes 3 Intellect damage here — may need to be balanced.}</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>

@@ -11,7 +11,7 @@
     </Entry>
     <Entry>
       <ID>2</ID>
-      <DefaultText>"Видишь эти шатры и плакаты? Они куплены на *мои* деньги – вот как сильна моя вера!"</DefaultText>
+      <DefaultText>"Видишь эти шатры и плакаты? Они куплены на *мои* деньги — вот как сильна моя вера!"</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -21,7 +21,7 @@
     </Entry>
     <Entry>
       <ID>4</ID>
-      <DefaultText>"Эта... эта тьма – какая-то *проверка*, почтенный сосуд?"</DefaultText>
+      <DefaultText>"Эта... эта тьма — какая-то *проверка*, почтенный сосуд?"</DefaultText>
       <FemaleText />
     </Entry>
   </Entries>

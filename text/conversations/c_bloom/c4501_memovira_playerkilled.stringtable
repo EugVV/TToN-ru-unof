@@ -45,7 +45,7 @@
     </Entry>
     <Entry>
       <ID>8</ID>
-      <DefaultText>[The Memovira yells at her men, possibly calling them cowards. When she returns her attention to you, she promises that she's going to chop the player's body up into a hundred pieces and feed it to the laaks (or something like that) to make sure the player doesn't return again. This is true – losing the second battle is a game over death.]
+      <DefaultText>[The Memovira yells at her men, possibly calling them cowards. When she returns her attention to you, she promises that she's going to chop the player's body up into a hundred pieces and feed it to the laaks (or something like that) to make sure the player doesn't return again. This is true — losing the second battle is a game over death.]
 
 {SCRIPT:  Start the crisis again.}</DefaultText>
       <FemaleText />
