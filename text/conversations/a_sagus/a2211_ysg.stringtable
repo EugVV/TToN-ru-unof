@@ -26,7 +26,7 @@
     </Entry>
     <Entry>
       <ID>5</ID>
-      <DefaultText>"Можешь рассказать мне еще что-нибудь о себе?"</DefaultText>
+      <DefaultText>"Можешь рассказать ещё что-нибудь о себе?"</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -41,7 +41,7 @@
     </Entry>
     <Entry>
       <ID>8</ID>
-      <DefaultText>"Ты можешь еще раз рассказать мне о здешних обитателях?"</DefaultText>
+      <DefaultText>"Можешь ещё раз рассказать о здешних обитателях?"</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -51,12 +51,12 @@
     </Entry>
     <Entry>
       <ID>10</ID>
-      <DefaultText>"Что ты можешь рассказать мне об этом месте?"</DefaultText>
+      <DefaultText>"Что ты можешь рассказать об этом месте?"</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>11</ID>
-      <DefaultText>"Можешь рассказать мне об этом месте еще раз?"</DefaultText>
+      <DefaultText>"Можешь ещё раз рассказать об этом месте?"</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -101,7 +101,7 @@
     </Entry>
     <Entry>
       <ID>23</ID>
-      <DefaultText>Его глаза бегают, как будто он отчаянно пытается избежать этого разговора. "Нет".</DefaultText>
+      <DefaultText>Его глаза бегают, как будто он отчаянно пытается избежать этого разговора: "Нет".</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -116,12 +116,12 @@
     </Entry>
     <Entry>
       <ID>26</ID>
-      <DefaultText>Что-то с ним не так... Как будто он лишь мерцание в воздухе или странным образом двумерный. Его присутствие как будто не ощущается.</DefaultText>
+      <DefaultText>Что-то с ним не так... как будто он — лишь мерцание в воздухе или странным образом двумерный. Его присутствие словно бы совсем не ощущается.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>27</ID>
-      <DefaultText>"Скист", — буркнул он.</DefaultText>
+      <DefaultText>"Скист", — ворчит он.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
