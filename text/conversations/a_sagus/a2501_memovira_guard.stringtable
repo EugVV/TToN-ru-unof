@@ -28,7 +28,7 @@
     </Entry>
     <Entry>
       <ID>5</ID>
-      <DefaultText>Он ворчит: "Тебе повезло, тогда".</DefaultText>
+      <DefaultText>Он ворчит: "Повезло тебе тогда".</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -58,9 +58,9 @@
     </Entry>
     <Entry>
       <ID>11</ID>
-      <DefaultText>"Она начальница Цветения. Заправляет здесь всем уже около десяти лет. Не могу точно сказать, что означает эта должность, но здесь всегда была Мемовира".
+      <DefaultText>"Она начальница Цветения. Заправляет здесь всем уже около десяти лет. Не скажу точно, что подразумевает должность, но здесь всегда была Мемовира".
 
-Его глаза сужаются: "И если ты задаешь этот вопрос, у тебя нет к ней никаких дел".</DefaultText>
+Его глаза сужаются: "И если ты задаёшь этот вопрос, у тебя нет к ней никаких дел".</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -75,8 +75,8 @@
     </Entry>
     <Entry>
       <ID>14</ID>
-      <DefaultText>"Опять вернулся? Что тебе нужно сейчас?"</DefaultText>
-      <FemaleText />
+      <DefaultText>"Опять вернулся? Теперь чего?"</DefaultText>
+      <FemaleText>"Опять вернулась? Теперь чего?"</FemaleText>
     </Entry>
     <Entry>
       <ID>15</ID>
@@ -85,7 +85,7 @@
     </Entry>
     <Entry>
       <ID>16</ID>
-      <DefaultText>"Дорога. Она проходит по склону утеса в направлении Цветения. Никто туда не пройдет, пока начальница не отдаст распоряжение".</DefaultText>
+      <DefaultText>"Дорога. Она проходит по склону утёса в направлении Цветения. Никто туда не пройдёт, пока начальница не отдаст распоряжение".</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -127,12 +127,12 @@
     </Entry>
     <Entry>
       <ID>25</ID>
-      <DefaultText>"Что еще находится за дверью?"</DefaultText>
+      <DefaultText>"Напомни, что находится за дверью?"</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>26</ID>
-      <DefaultText>"Дорога. Она ведет к Цветению".</DefaultText>
+      <DefaultText>"Дорога. Она ведёт к Цветению".</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -147,7 +147,7 @@
     </Entry>
     <Entry>
       <ID>29</ID>
-      <DefaultText>"Ещё раз, что представляет собой Цветение?"</DefaultText>
+      <DefaultText>"Повтори, что представляет собой Цветение?"</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -177,7 +177,7 @@
     </Entry>
     <Entry>
       <ID>35</ID>
-      <DefaultText>"Еще раз, кто такая Мемовира?"</DefaultText>
+      <DefaultText>"Ещё раз, кто такая Мемовира?"</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>

@@ -275,7 +275,7 @@
     </Entry>
     <Entry>
       <ID>53</ID>
-      <DefaultText>Проходит много времени, прежде чем они одновременно поворачиваются к вам, затем они достают из себя части непонятного устройства. Они соединяют детали и отдают вам загадочную нуменеру, подобных которой вы еще не видели. Вам кажется, что они довольны полученным интеллектом.
+      <DefaultText>Проходит немало времени, прежде чем они одновременно поворачиваются к вам и достают из себя детали непонятного устройства. Затем соединяют те воедино и отдают вам загадочную нуменеру, подобных которой вы ещё не видели. Вам кажется, что они довольны полученной информацией об интеллекте.
 {LOOT}</DefaultText>
       <FemaleText />
     </Entry>
@@ -318,14 +318,16 @@
     </Entry>
     <Entry>
       <ID>63</ID>
-      <DefaultText>"Я еще ничего не нашел, простите".
+      <DefaultText>"Я ещё ничего не нашёл, простите".
 
 {SCRIPT: Only available if the PC actually hasn't found any — will require an additional condition if the Peerless are implemented and if the PC can discover the true nature of the god of the Caravanserai.}</DefaultText>
-      <FemaleText />
+      <FemaleText>"Я ещё ничего не нашла, простите".
+
+{SCRIPT: Only available if the PC actually hasn't found any — will require an additional condition if the Peerless are implemented and if the PC can discover the true nature of the god of the Caravanserai.}</FemaleText>
     </Entry>
     <Entry>
       <ID>64</ID>
-      <DefaultText>"Я сообщу вам, когда найду искусственный интеллект".</DefaultText>
+      <DefaultText>"Я сообщу вам, если найду какой-нибудь искусственный интеллект".</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
