@@ -6441,12 +6441,12 @@
     </Entry>
     <Entry>
       <ID>1288</ID>
-      <DefaultText>(Раундов: {0})</DefaultText>
+      <DefaultText> (Раундов: {0})</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>1289</ID>
-      <DefaultText>({0} раунд)</DefaultText>
+      <DefaultText> ({0} раунд)</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
