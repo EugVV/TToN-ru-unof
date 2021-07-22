@@ -7,7 +7,7 @@
     <Entry>
       <ID>1</ID>
       <DefaultText>"Я готова, если ты готов. Мне так кажется".</DefaultText>
-      <FemaleText />
+      <FemaleText>"Я готова, если ты готова. Мне так кажется".</FemaleText>
     </Entry>
   </Entries>
 </StringTableFile>

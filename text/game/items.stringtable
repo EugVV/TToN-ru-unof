@@ -1661,7 +1661,7 @@
     </Entry>
     <Entry>
       <ID>356</ID>
-      <DefaultText>В пипетке находится жидкость чернее черного. При закапывании в глаза она ровно растекается по всему глазному яблоку, но вместо того, чтобы ослепить, улучшает зрение, а при надобности густеет, чтобы защитить глаз.\n\nЖидкость не срастается с глазом, а находится поверх него. Управляют ей наниты, которые удерживают Глаза на месте и контролируют их толщину. Чтобы убрать жидкость из глаз, нужно просто выплакать их обратно в сосуд.</DefaultText>
+      <DefaultText>В пипетке находится жидкость чернее черного. При закапывании в глаза она ровно растекается по всему глазному яблоку, но вместо того, чтобы ослепить, улучшает зрение, а при надобности густеет, чтобы защитить глаз.\n\nЖидкость не срастается с глазом, а находится поверх него. Управляют ей наниты, которые удерживают глаза на месте и контролируют их толщину. Чтобы убрать жидкость из глаз, нужно просто выплакать их обратно в сосуд.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -2936,12 +2936,12 @@
     </Entry>
     <Entry>
       <ID>647</ID>
-      <DefaultText>Темные глаза</DefaultText>
+      <DefaultText>Тёмные глаза</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>648</ID>
-      <DefaultText>Дает иммунитет к эффектам [FettleIcon: Debuff][Color: NegativeModifier]"Ошеломление"[/Color] и [FettleIcon: Debuff][Color: NegativeModifier]"Ослепление"[/Color].</DefaultText>
+      <DefaultText>Даёт иммунитет к эффектам [FettleIcon: Debuff][Color: NegativeModifier]«Ошеломление»[/Color] и [FettleIcon: Debuff][Color: NegativeModifier]«Ослепление»[/Color].</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -2951,22 +2951,22 @@
     </Entry>
     <Entry>
       <ID>650</ID>
-      <DefaultText>После передышки : сложность следующей задачи увеличена на 3.</DefaultText>
+      <DefaultText>После передышки: сложность следующей задачи увеличена на 3.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>651</ID>
-      <DefaultText>Вилка Еретика</DefaultText>
+      <DefaultText>Вилка еретика</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>652</ID>
-      <DefaultText>Иммунитет к состоянию "Страх".</DefaultText>
+      <DefaultText>Иммунитет к состоянию «Страх».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>653</ID>
-      <DefaultText>Негативный эффект Зрячей Короны</DefaultText>
+      <DefaultText>Негативный эффект Зрячей короны</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -2976,7 +2976,7 @@
     </Entry>
     <Entry>
       <ID>655</ID>
-      <DefaultText>Негативный эффект Эбеновых Глаз</DefaultText>
+      <DefaultText>Негативный эффект Эбеновых глаз</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -2986,7 +2986,7 @@
     </Entry>
     <Entry>
       <ID>657</ID>
-      <DefaultText>Негативный эффект Волокнистого Бруска</DefaultText>
+      <DefaultText>Негативный эффект Волокнистого бруска</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>

@@ -816,7 +816,7 @@
     </Entry>
     <Entry>
       <ID>162</ID>
-      <DefaultText>Дает иммунитет к эффектам, которые наносят урон каждый ход, таким как [FettleIcon: Debuff][Color: NegativeModifier]Кровотечение[/Color] или [FettleIcon: Debuff][Color: NegativeModifier]Ожог[/Color].</DefaultText>
+      <DefaultText>Даёт иммунитет к эффектам, которые наносят урон каждый ход, таким как [FettleIcon: Debuff][Color: NegativeModifier]кровотечение[/Color] или [FettleIcon: Debuff][Color: NegativeModifier]ожог[/Color].</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
