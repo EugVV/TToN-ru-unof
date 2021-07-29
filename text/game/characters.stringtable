@@ -1371,7 +1371,7 @@
     </Entry>
     <Entry>
       <ID>273</ID>
-      <DefaultText>Ребенок {Male}</DefaultText>
+      <DefaultText>Ребёнок {Male}</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1436,7 +1436,7 @@
     </Entry>
     <Entry>
       <ID>286</ID>
-      <DefaultText>Ребенок {Female}</DefaultText>
+      <DefaultText>Ребёнок {Female}</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -2641,22 +2641,22 @@
     </Entry>
     <Entry>
       <ID>527</ID>
-      <DefaultText>Ребенок-бедняк</DefaultText>
+      <DefaultText>Ребёнок-бедняк</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>528</ID>
-      <DefaultText>Ребенок-бедняк</DefaultText>
+      <DefaultText>Ребёнок-бедняк</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>529</ID>
-      <DefaultText>Ребенок-бедняк</DefaultText>
+      <DefaultText>Ребёнок-бедняк</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>530</ID>
-      <DefaultText>Ребенок-бедняк</DefaultText>
+      <DefaultText>Ребёнок-бедняк</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -2701,7 +2701,7 @@
     </Entry>
     <Entry>
       <ID>539</ID>
-      <DefaultText>Ребенок-варьеллен</DefaultText>
+      <DefaultText>Ребёнок-варьеллен</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
