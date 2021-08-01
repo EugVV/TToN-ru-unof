@@ -1671,12 +1671,12 @@
     </Entry>
     <Entry>
       <ID>333</ID>
-      <DefaultText>Получите эффект [Fettles] ([FettleEffectsBasic]). Улучшение к броне составляет +[BonusAmount1] за каждый уровень подготовки, улучшение к сопротивлению составляет +[BonusAmount2] за каждый уровень подготовки.</DefaultText>
+      <DefaultText>Накладывает эффект [Fettles] ([FettleEffectsBasic]). Улучшение к броне составляет +[BonusAmount1] за каждый уровень подготовки, улучшение к сопротивлению составляет +[BonusAmount2] за каждый уровень подготовки.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>334</ID>
-      <DefaultText>С помощью взрывов Ошеломите врага.</DefaultText>
+      <DefaultText>Ошеломите врага с помощью взрывов.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>

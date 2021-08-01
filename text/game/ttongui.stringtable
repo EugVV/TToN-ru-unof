@@ -1396,7 +1396,7 @@
     </Entry>
     <Entry>
       <ID>278</ID>
-      <DefaultText> Броня: {0}</DefaultText>
+      <DefaultText>Броня: {0}</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -5466,7 +5466,7 @@
     </Entry>
     <Entry>
       <ID>1093</ID>
-      <DefaultText> Броня</DefaultText>
+      <DefaultText>Броня</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
