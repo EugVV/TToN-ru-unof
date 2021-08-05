@@ -806,7 +806,7 @@
     </Entry>
     <Entry>
       <ID>176</ID>
-      <DefaultText>"Мэтти, слушай загадку — не слишком головоломную — что такое 'красивый, сияющий и приятный для твоих глаз?'"</DefaultText>
+      <DefaultText>"Мэтти, слушай загадку — не слишком головоломную — что такое «красивый, горящий и приятный для твоих глаз»?"</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1726,7 +1726,7 @@
     </Entry>
     <Entry>
       <ID>381</ID>
-      <DefaultText>{Thinking, doubtful}"Много? Очень много? Много-много-много. {Beat, thinks}'Много' — это ведь точное число, да?"</DefaultText>
+      <DefaultText>{Thinking, doubtful}"Много? Очень много? Много-много-много. {Beat, thinks}«Много» — это ведь точное число, да?"</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -2061,7 +2061,7 @@
     </Entry>
     <Entry>
       <ID>452</ID>
-      <DefaultText>{Fond}"Я прикончу тебя за это 'оба'".</DefaultText>
+      <DefaultText>{Fond}"Я прикончу тебя за это «оба»".</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>

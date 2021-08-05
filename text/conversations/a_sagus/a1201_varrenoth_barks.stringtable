@@ -6,12 +6,12 @@
   <Entries>
     <Entry>
       <ID>1</ID>
-      <DefaultText>"Ударить его? Страшно смотреть!"</DefaultText>
+      <DefaultText>"Я бью его кулаком? Страшно смотреть!"</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>2</ID>
-      <DefaultText>"Пинай уже, дуралей! *Пинай*, говорю!"</DefaultText>
+      <DefaultText>"Пинай уже, бестолочь! *Пинай*, говорю!"</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -21,22 +21,22 @@
     </Entry>
     <Entry>
       <ID>4</ID>
-      <DefaultText>"Стойте! Кажется, я потеряла зрение!"</DefaultText>
+      <DefaultText>"Стойте! Кажется, я скомандовала закрыть глаза!"</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>5</ID>
-      <DefaultText>"СКЛОНИТЕСЬ ПРЕД МОЕЙ ЯРОСТЬЮ! Простите, это все она, а не я".</DefaultText>
+      <DefaultText>"СКЛОНИСЬ ПРЕД МОЕЙ ЯРОСТЬЮ! Простите, это всё она, а не я".</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>6</ID>
-      <DefaultText>"Я велела ей 'атаковать'. Скоро вернусь!"</DefaultText>
+      <DefaultText>"Я велела ей «атаковать». Скоро вернусь!"</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>7</ID>
-      <DefaultText>"Сообщи, если из моих ушей дым пойдет, ладно?"</DefaultText>
+      <DefaultText>"Сообщи, если из моих ушей пойдёт дым, ладно?"</DefaultText>
       <FemaleText />
     </Entry>
   </Entries>
