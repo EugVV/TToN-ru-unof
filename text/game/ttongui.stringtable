@@ -4501,7 +4501,7 @@
     </Entry>
     <Entry>
       <ID>900</ID>
-      <DefaultText>[Color: TooltipFormatting]Шагов до следующего уровня:[/Color] {0}</DefaultText>
+      <DefaultText>[Color: TooltipFormatting]Шаги до следующего уровня:[/Color] {0}</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -6501,7 +6501,7 @@
     </Entry>
     <Entry>
       <ID>1300</ID>
-      <DefaultText>[Color: TooltipFormatting]Опыта до следующего продвижения:[/Color] {0}</DefaultText>
+      <DefaultText>[Color: TooltipFormatting]Опыт до следующего продвижения:[/Color] {0}</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>

@@ -4621,12 +4621,12 @@
     </Entry>
     <Entry>
       <ID>924</ID>
-      <DefaultText>Являясь ловким обманщиком, Тибир может пропустить атаку в этом раунде, чтобы наложить на врага состояние Притворство. Если в следующем раунде он нанесет удар этому же врагу, атака причинит дополнительный Урон 4.</DefaultText>
+      <DefaultText>Являясь ловким обманщиком, Тибир может пропустить атаку в этом раунде, чтобы наложить на врага состояние «Отвлечение». Если в следующем раунде он нанесёт удар этому же врагу, атака причинит дополнительный урон 4.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>925</ID>
-      <DefaultText>Если сопротивляемость цели не сработала, на противника накладывает эффект [Fettles] ([FettleDescriptions])</DefaultText>
+      <DefaultText>Если противнику не удалось избежать воздействия, на него накладывается эффект [Fettles] ([FettleDescriptions])</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -4981,17 +4981,17 @@
     </Entry>
     <Entry>
       <ID>996</ID>
-      <DefaultText>Выберите тип урона и получите эффект [Fettles] (весь урон преобразуется в урон выбранного типа)</DefaultText>
+      <DefaultText>Выберите тип урона и получите эффект [Fettles] (весь урон преобразуется в урон выбранного типа).</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>997</ID>
-      <DefaultText>Квантовый Шаг</DefaultText>
+      <DefaultText>Квантовый шаг</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>998</ID>
-      <DefaultText>Переместите союзника в точку в пределах определенного радиуса.</DefaultText>
+      <DefaultText>Перемещает одного союзника в точку в пределах определённого радиуса.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -5736,7 +5736,7 @@
     </Entry>
     <Entry>
       <ID>1147</ID>
-      <DefaultText>Наносит [Damage] и если сопротивляемость цели не сработала, то накладывает эффект [Fettles] ([FettleEffectsBasic])\n\n[DamageFromEffort]</DefaultText>
+      <DefaultText>Наносит [Damage] и, если цели не удалось избежать воздействия, накладывает эффект [Fettles] ([FettleEffectsBasic])\n\n[DamageFromEffort]</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>

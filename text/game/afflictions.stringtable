@@ -766,7 +766,7 @@
     </Entry>
     <Entry>
       <ID>152</ID>
-      <DefaultText>следующее попадание по этому персонажу будет увеличено на [Damage]</DefaultText>
+      <DefaultText>следующее попадание по этому персонажу наносит [Damage]</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
