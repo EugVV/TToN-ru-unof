@@ -6,27 +6,27 @@
   <Entries>
     <Entry>
       <ID>1</ID>
-      <DefaultText>"Здравствуй. Здесь всегда так тепло?"</DefaultText>
+      <DefaultText>«Здравствуй. Здесь всегда так тепло?»</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>2</ID>
-      <DefaultText>"Я первый раз в этом городе. Он... красивее, чем я предполагал".</DefaultText>
+      <DefaultText>«Я первый раз в этом городе. Он... красивее, чем я предполагал».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>3</ID>
-      <DefaultText>"Я хочу сказать, что вы, дышащие воздухом, не сильны в архитектуре. Без обид".</DefaultText>
+      <DefaultText>«Я хочу сказать, что вы, дышащие воздухом, не сильны в архитектуре. Без обид».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>4</ID>
-      <DefaultText>"Ох, дорогуша. Я обидел тебя, не так ли? Я вроде читал, что дышащие воздухом очень ранимы".</DefaultText>
+      <DefaultText>«Ох, дорогуша. Я обидел тебя, не так ли? Я вроде читал, что дышащие воздухом очень ранимы».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>5</ID>
-      <DefaultText>"Все, я молчу".</DefaultText>
+      <DefaultText>«Все, я молчу».</DefaultText>
       <FemaleText />
     </Entry>
   </Entries>

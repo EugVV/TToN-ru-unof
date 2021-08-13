@@ -16,8 +16,8 @@
     </Entry>
     <Entry>
       <ID>3</ID>
-      <DefaultText>"Нелегко тебя убить, отверженный. Повезло тебе, что твой фокус сработал".</DefaultText>
-      <FemaleText>"Нелегко тебя убить, отверженная. Повезло тебе, что твой фокус сработал".</FemaleText>
+      <DefaultText>«Нелегко тебя убить, отверженный. Повезло тебе, что твой фокус сработал».</DefaultText>
+      <FemaleText>«Нелегко тебя убить, отверженная. Повезло тебе, что твой фокус сработал».</FemaleText>
     </Entry>
     <Entry>
       <ID>4</ID>
@@ -26,7 +26,7 @@
     </Entry>
     <Entry>
       <ID>5</ID>
-      <DefaultText>"Цветение полностью пожрало тебя в пяти реальностях. Ты хоть знаешь, что от этого бывает моим теням?"</DefaultText>
+      <DefaultText>«Цветение полностью пожрало тебя в пяти реальностях. Ты хоть знаешь, что от этого бывает моим теням?»</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -36,7 +36,7 @@
     </Entry>
     <Entry>
       <ID>7</ID>
-      <DefaultText>"Первый раз вижу такую отвагу! И такую мерзость..."</DefaultText>
+      <DefaultText>«Первый раз вижу такую отвагу! И такую мерзость...»</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -46,8 +46,8 @@
     </Entry>
     <Entry>
       <ID>9</ID>
-      <DefaultText>"Ты хоть каплю сомневался, что выживешь? Бери вещи и пошли".</DefaultText>
-      <FemaleText>"Ты хоть каплю сомневалась, что выживешь? Бери вещи и пошли".</FemaleText>
+      <DefaultText>«Ты хоть каплю сомневался, что выживешь? Бери вещи и пошли».</DefaultText>
+      <FemaleText>«Ты хоть каплю сомневалась, что выживешь? Бери вещи и пошли».</FemaleText>
     </Entry>
     <Entry>
       <ID>10</ID>
@@ -56,7 +56,7 @@
     </Entry>
     <Entry>
       <ID>11</ID>
-      <DefaultText>"Ага!"</DefaultText>
+      <DefaultText>«Ага!»</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -66,8 +66,8 @@
     </Entry>
     <Entry>
       <ID>13</ID>
-      <DefaultText>"Вы... вы в порядке, господин? Вас, кажется, *съели*!"</DefaultText>
-      <FemaleText>"Вы... вы в порядке, госпожа? Вас, кажется, *съели*!"</FemaleText>
+      <DefaultText>«Вы... вы в порядке, господин? Вас, кажется, *съели*!»</DefaultText>
+      <FemaleText>«Вы... вы в порядке, госпожа? Вас, кажется, *съели*!»</FemaleText>
     </Entry>
     <Entry>
       <ID>14</ID>
@@ -86,8 +86,8 @@
     </Entry>
     <Entry>
       <ID>17</ID>
-      <DefaultText>"Ну вот. Кажется, я проиграл пари... о, да ты очнулся! Рад тебя видеть, парень".</DefaultText>
-      <FemaleText>"Ну вот. Кажется, я проиграл пари... о, да ты очнулась! Рад тебя видеть, девочка".</FemaleText>
+      <DefaultText>«Ну вот. Кажется, я проиграл пари... о, да ты очнулся! Рад тебя видеть, парень».</DefaultText>
+      <FemaleText>«Ну вот. Кажется, я проиграл пари... о, да ты очнулась! Рад тебя видеть, девочка».</FemaleText>
     </Entry>
     <Entry>
       <ID>18</ID>

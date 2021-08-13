@@ -33,12 +33,12 @@
     </Entry>
     <Entry>
       <ID>15</ID>
-      <DefaultText>"Эй, у меня ведь есть штуковина Красного Потока! Использую ее!"</DefaultText>
+      <DefaultText>«Эй, у меня ведь есть штуковина Красного Потока! Использую ее!»</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>16</ID>
-      <DefaultText>"Вы только посмотрите... это серебряная штуковина! Я прославлюсь!"</DefaultText>
+      <DefaultText>«Вы только посмотрите... это серебряная штуковина! Я прославлюсь!»</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -432,22 +432,22 @@
     </Entry>
     <Entry>
       <ID>109</ID>
-      <DefaultText>""</DefaultText>
+      <DefaultText>«»</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>110</ID>
-      <DefaultText>""</DefaultText>
+      <DefaultText>«»</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>111</ID>
-      <DefaultText>""</DefaultText>
+      <DefaultText>«»</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>112</ID>
-      <DefaultText>""</DefaultText>
+      <DefaultText>«»</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -570,12 +570,12 @@
     </Entry>
     <Entry>
       <ID>137</ID>
-      <DefaultText>""</DefaultText>
+      <DefaultText>«»</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>138</ID>
-      <DefaultText>""</DefaultText>
+      <DefaultText>«»</DefaultText>
       <FemaleText />
     </Entry>
   </Entries>

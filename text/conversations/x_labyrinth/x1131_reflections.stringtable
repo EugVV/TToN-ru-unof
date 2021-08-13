@@ -33,7 +33,7 @@
     </Entry>
     <Entry>
       <ID>97</ID>
-      <DefaultText>"Хочу рассмотреть другие варианты".</DefaultText>
+      <DefaultText>«Хочу рассмотреть другие варианты».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -43,7 +43,7 @@
     </Entry>
     <Entry>
       <ID>99</ID>
-      <DefaultText>"Да, это я".</DefaultText>
+      <DefaultText>«Да, это я».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -74,7 +74,7 @@
     </Entry>
     <Entry>
       <ID>104</ID>
-      <DefaultText>"Да, это я".</DefaultText>
+      <DefaultText>«Да, это я».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -98,7 +98,7 @@
     </Entry>
     <Entry>
       <ID>108</ID>
-      <DefaultText>"Да, это я".</DefaultText>
+      <DefaultText>«Да, это я».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -118,7 +118,7 @@
     </Entry>
     <Entry>
       <ID>112</ID>
-      <DefaultText>"Да, это я".</DefaultText>
+      <DefaultText>«Да, это я».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -138,7 +138,7 @@
     </Entry>
     <Entry>
       <ID>116</ID>
-      <DefaultText>"Да, это я".</DefaultText>
+      <DefaultText>«Да, это я».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -160,7 +160,7 @@
     </Entry>
     <Entry>
       <ID>120</ID>
-      <DefaultText>"Да, это я".</DefaultText>
+      <DefaultText>«Да, это я».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -182,7 +182,7 @@
     </Entry>
     <Entry>
       <ID>124</ID>
-      <DefaultText>"Да, это я".</DefaultText>
+      <DefaultText>«Да, это я».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -206,7 +206,7 @@
     </Entry>
     <Entry>
       <ID>128</ID>
-      <DefaultText>"Да, это я".</DefaultText>
+      <DefaultText>«Да, это я».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -226,7 +226,7 @@
     </Entry>
     <Entry>
       <ID>132</ID>
-      <DefaultText>"Да, это я".</DefaultText>
+      <DefaultText>«Да, это я».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -246,7 +246,7 @@
     </Entry>
     <Entry>
       <ID>136</ID>
-      <DefaultText>"Да, это я".</DefaultText>
+      <DefaultText>«Да, это я».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -270,7 +270,7 @@
     </Entry>
     <Entry>
       <ID>140</ID>
-      <DefaultText>"Да, это я".</DefaultText>
+      <DefaultText>«Да, это я».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -294,7 +294,7 @@
     </Entry>
     <Entry>
       <ID>144</ID>
-      <DefaultText>"Да, это я".</DefaultText>
+      <DefaultText>«Да, это я».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -314,7 +314,7 @@
     </Entry>
     <Entry>
       <ID>148</ID>
-      <DefaultText>"Да, это я".</DefaultText>
+      <DefaultText>«Да, это я».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -346,7 +346,7 @@
     </Entry>
     <Entry>
       <ID>154</ID>
-      <DefaultText>"Да, это я".</DefaultText>
+      <DefaultText>«Да, это я».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -366,7 +366,7 @@
     </Entry>
     <Entry>
       <ID>158</ID>
-      <DefaultText>"Да, это я".</DefaultText>
+      <DefaultText>«Да, это я».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -402,7 +402,7 @@
     </Entry>
     <Entry>
       <ID>164</ID>
-      <DefaultText>"Да, это я".</DefaultText>
+      <DefaultText>«Да, это я».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -422,7 +422,7 @@
     </Entry>
     <Entry>
       <ID>167</ID>
-      <DefaultText>"Я не хочу тебя бить".
+      <DefaultText>«Я не хочу тебя бить».
 
 {ANIM: Reflection reacts to invisible hit.}</DefaultText>
       <FemaleText />
@@ -453,7 +453,7 @@
     </Entry>
     <Entry>
       <ID>172</ID>
-      <DefaultText>"Да, это я".</DefaultText>
+      <DefaultText>«Да, это я».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -643,12 +643,12 @@
     </Entry>
     <Entry>
       <ID>228</ID>
-      <DefaultText>"Я хочу выбрать свой собственный путь".</DefaultText>
+      <DefaultText>«Я хочу выбрать свой собственный путь».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>229</ID>
-      <DefaultText>"Нет... думаю, я всё же выберу свой собственный путь".</DefaultText>
+      <DefaultText>«Нет... думаю, я всё же выберу свой собственный путь».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -668,12 +668,12 @@
     </Entry>
     <Entry>
       <ID>233</ID>
-      <DefaultText>"Да, я уверен".</DefaultText>
-      <FemaleText>"Да, я уверена".</FemaleText>
+      <DefaultText>«Да, я уверен».</DefaultText>
+      <FemaleText>«Да, я уверена».</FemaleText>
     </Entry>
     <Entry>
       <ID>234</ID>
-      <DefaultText>"Вообще-то я хочу изменить выбор".</DefaultText>
+      <DefaultText>«Вообще-то я хочу изменить выбор».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -732,7 +732,7 @@
     </Entry>
     <Entry>
       <ID>241</ID>
-      <DefaultText>"Это всё не я. Я хочу выбрать свой собственный путь".</DefaultText>
+      <DefaultText>«Это всё не я. Я хочу выбрать свой собственный путь».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>

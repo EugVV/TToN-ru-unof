@@ -6,37 +6,37 @@
   <Entries>
     <Entry>
       <ID>1</ID>
-      <DefaultText>"Никогда не верь обманщикам. Особенно, если они просят тебя *поработать*".</DefaultText>
+      <DefaultText>«Никогда не верь обманщикам. Особенно, если они просят тебя *поработать*».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>2</ID>
-      <DefaultText>"Все... для тебя... святейшество..."</DefaultText>
+      <DefaultText>«Все... для тебя... святейшество...»</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>3</ID>
-      <DefaultText>"О святейшество! Ты свет моей жизни!"</DefaultText>
+      <DefaultText>«О святейшество! Ты свет моей жизни!»</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>4</ID>
-      <DefaultText>"Тебе не искусить меня, обманщик! Я не склонюсь!"</DefaultText>
-      <FemaleText>"Тебе не искусить меня, обманщица! Я не склонюсь!"</FemaleText>
+      <DefaultText>«Тебе не искусить меня, обманщик! Я не склонюсь!»</DefaultText>
+      <FemaleText>«Тебе не искусить меня, обманщица! Я не склонюсь!»</FemaleText>
     </Entry>
     <Entry>
       <ID>5</ID>
-      <DefaultText>"Приветствую, брат!"</DefaultText>
-      <FemaleText>"Приветствую, сестра!"</FemaleText>
+      <DefaultText>«Приветствую, брат!»</DefaultText>
+      <FemaleText>«Приветствую, сестра!»</FemaleText>
     </Entry>
     <Entry>
       <ID>6</ID>
-      <DefaultText>"Большая честь беседовать с одним из Детей Меняющегося Бога".</DefaultText>
-      <FemaleText>"Большая честь беседовать с одной из Детей Меняющегося Бога".</FemaleText>
+      <DefaultText>«Большая честь беседовать с одним из Детей Меняющегося Бога».</DefaultText>
+      <FemaleText>«Большая честь беседовать с одной из Детей Меняющегося Бога».</FemaleText>
     </Entry>
     <Entry>
       <ID>7</ID>
-      <DefaultText>"Пожалуйста... поговори с нашими лидерами в Малом Круге".</DefaultText>
+      <DefaultText>«Пожалуйста... поговори с нашими лидерами в Малом Круге».</DefaultText>
       <FemaleText />
     </Entry>
   </Entries>

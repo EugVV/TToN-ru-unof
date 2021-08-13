@@ -23,12 +23,12 @@
     </Entry>
     <Entry>
       <ID>4</ID>
-      <DefaultText>"Кто я?"</DefaultText>
+      <DefaultText>«Кто я?»</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>5</ID>
-      <DefaultText>"Повтори, кто я?"</DefaultText>
+      <DefaultText>«Повтори, кто я?»</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -48,12 +48,12 @@
     </Entry>
     <Entry>
       <ID>10</ID>
-      <DefaultText>"Что ты такое?"</DefaultText>
+      <DefaultText>«Что ты такое?»</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>11</ID>
-      <DefaultText>"Можешь сказать мне, кто ты?"</DefaultText>
+      <DefaultText>«Можешь сказать мне, кто ты?»</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -197,7 +197,7 @@
     </Entry>
     <Entry>
       <ID>40</ID>
-      <DefaultText>"Ты сломан?"</DefaultText>
+      <DefaultText>«Ты сломан?»</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -212,7 +212,7 @@
     </Entry>
     <Entry>
       <ID>43</ID>
-      <DefaultText>"Я хочу знать, что ты такое".</DefaultText>
+      <DefaultText>«Я хочу знать, что ты такое».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -239,12 +239,12 @@
     </Entry>
     <Entry>
       <ID>49</ID>
-      <DefaultText>"Кто убивает людей в Подбрюшье?"</DefaultText>
+      <DefaultText>«Кто убивает людей в Подбрюшье?»</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>50</ID>
-      <DefaultText>"Я хочу знать, кто убивает людей в Подбрюшье".</DefaultText>
+      <DefaultText>«Я хочу знать, кто убивает людей в Подбрюшье».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -254,12 +254,12 @@
     </Entry>
     <Entry>
       <ID>52</ID>
-      <DefaultText>"Я ищу некую Мэткину".</DefaultText>
+      <DefaultText>«Я ищу некую Мэткину».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>53</ID>
-      <DefaultText>"Ты не мог бы рассказать мне о Мэткине?"</DefaultText>
+      <DefaultText>«Ты не мог бы рассказать мне о Мэткине?»</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -274,12 +274,12 @@
     </Entry>
     <Entry>
       <ID>56</ID>
-      <DefaultText>"Как можно помочь Бригадиру-калеке?"</DefaultText>
+      <DefaultText>«Как можно помочь Бригадиру-калеке?»</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>57</ID>
-      <DefaultText>"Можешь посоветовать, как решить проблему Бригадира-калеки?"</DefaultText>
+      <DefaultText>«Можешь посоветовать, как решить проблему Бригадира-калеки?»</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -289,12 +289,12 @@
     </Entry>
     <Entry>
       <ID>59</ID>
-      <DefaultText>"Почему Скорбь меня преследует?"</DefaultText>
+      <DefaultText>«Почему Скорбь меня преследует?»</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>60</ID>
-      <DefaultText>"Скажи, почему Скорбь меня преследует".</DefaultText>
+      <DefaultText>«Скажи, почему Скорбь меня преследует».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -304,17 +304,17 @@
     </Entry>
     <Entry>
       <ID>62</ID>
-      <DefaultText>"Я не понимаю, что ты пытаешься сказать. Можешь объяснить?"</DefaultText>
+      <DefaultText>«Я не понимаю, что ты пытаешься сказать. Можешь объяснить?»</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>63</ID>
-      <DefaultText>"Я не понимаю смысла этих ответов".</DefaultText>
+      <DefaultText>«Я не понимаю смысла этих ответов».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>64</ID>
-      <DefaultText>"От тебя нет толку, не так ли?"</DefaultText>
+      <DefaultText>«От тебя нет толку, не так ли?»</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>

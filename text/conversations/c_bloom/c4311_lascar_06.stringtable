@@ -6,17 +6,17 @@
   <Entries>
     <Entry>
       <ID>1</ID>
-      <DefaultText>"Мы работать. Ты отвлекать".</DefaultText>
+      <DefaultText>«Мы работать. Ты отвлекать».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>2</ID>
-      <DefaultText>"Ждём корабль. Дом зовёт".</DefaultText>
+      <DefaultText>«Ждём корабль. Дом зовёт».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>3</ID>
-      <DefaultText>"Много лет. Много жизней ждём корабля".</DefaultText>
+      <DefaultText>«Много лет. Много жизней ждём корабля».</DefaultText>
       <FemaleText />
     </Entry>
   </Entries>

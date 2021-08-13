@@ -6,17 +6,17 @@
   <Entries>
     <Entry>
       <ID>1</ID>
-      <DefaultText>"Резонанс ваш, господин".</DefaultText>
+      <DefaultText>«Резонанс ваш, господин».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>2</ID>
-      <DefaultText>"Хватит спорить. Делай то, зачем ты здесь".</DefaultText>
+      <DefaultText>«Хватит спорить. Делай то, зачем ты здесь».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>3</ID>
-      <DefaultText>"Если наш творец считает так, то и я тоже. Вперед, спасем ее".</DefaultText>
+      <DefaultText>«Если наш творец считает так, то и я тоже. Вперед, спасем ее».</DefaultText>
       <FemaleText />
     </Entry>
   </Entries>

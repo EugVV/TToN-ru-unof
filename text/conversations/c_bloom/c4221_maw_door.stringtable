@@ -6,12 +6,12 @@
   <Entries>
     <Entry>
       <ID>1</ID>
-      <DefaultText>Когда вы пытаетесь открыть эту тяжелую дверь, к вам обращается мужской голос, полный ужаса: "Эй! Кто там? Я знаю, что вы не мердены: я не чувствую их проклятые ментальные помехи. От всей души надеюсь, что вы дружелюбнее их. Пожалуйста! Вы должны мне помочь! Ради всего святого, пожалуйста, откройте дверь!"</DefaultText>
+      <DefaultText>Когда вы пытаетесь открыть эту тяжелую дверь, к вам обращается мужской голос, полный ужаса: «Эй! Кто там? Я знаю, что вы не мердены: я не чувствую их проклятые ментальные помехи. От всей души надеюсь, что вы дружелюбнее их. Пожалуйста! Вы должны мне помочь! Ради всего святого, пожалуйста, откройте дверь!»</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>2</ID>
-      <DefaultText>"Кто ты?"</DefaultText>
+      <DefaultText>«Кто ты?»</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -36,12 +36,12 @@
     </Entry>
     <Entry>
       <ID>7</ID>
-      <DefaultText>"Друзья зовут меня Шинвайз. Пожалуйста... я не хочу умирать. Откройте дверь!"</DefaultText>
+      <DefaultText>«Друзья зовут меня Шинвайз. Пожалуйста... я не хочу умирать. Откройте дверь!»</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>8</ID>
-      <DefaultText>"Что хочет тебя убить?"</DefaultText>
+      <DefaultText>«Что хочет тебя убить?»</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -68,7 +68,7 @@
     </Entry>
     <Entry>
       <ID>14</ID>
-      <DefaultText>"Я не знаю — не *знаю*! Штуковины со щупальцами, висящие по углам комнаты. Здесь на полу много крови и костей. Мердены бросили меня сюда и заперли за мной дверь. Кажется, меня хотят принести в жертву!"</DefaultText>
+      <DefaultText>«Я не знаю — не *знаю*! Штуковины со щупальцами, висящие по углам комнаты. Здесь на полу много крови и костей. Мердены бросили меня сюда и заперли за мной дверь. Кажется, меня хотят принести в жертву!»</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -83,17 +83,17 @@
     </Entry>
     <Entry>
       <ID>17</ID>
-      <DefaultText>"Я слышу, как внутри стен что-то движется. Оно приближается!"</DefaultText>
+      <DefaultText>«Я слышу, как внутри стен что-то движется. Оно приближается!»</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>18</ID>
-      <DefaultText>"Я слышу, что вы там! Пожалуйста!"</DefaultText>
+      <DefaultText>«Я слышу, что вы там! Пожалуйста!»</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>19</ID>
-      <DefaultText>"Эй? Эй?!"</DefaultText>
+      <DefaultText>«Эй? Эй?!»</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -153,12 +153,12 @@
     </Entry>
     <Entry>
       <ID>34</ID>
-      <DefaultText>"Вы слышите неистовое шарканье по ту сторону двери".</DefaultText>
+      <DefaultText>«Вы слышите неистовое шарканье по ту сторону двери».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>35</ID>
-      <DefaultText>"Пожалуйста! Не бросайте меня здесь!"</DefaultText>
+      <DefaultText>«Пожалуйста! Не бросайте меня здесь!»</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -188,7 +188,7 @@
     </Entry>
     <Entry>
       <ID>41</ID>
-      <DefaultText>"Помогите! Выпустите меня отсюда!"</DefaultText>
+      <DefaultText>«Помогите! Выпустите меня отсюда!»</DefaultText>
       <FemaleText />
     </Entry>
   </Entries>

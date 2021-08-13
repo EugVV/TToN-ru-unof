@@ -16,32 +16,32 @@
     </Entry>
     <Entry>
       <ID>3</ID>
-      <DefaultText>"Беззвучное сообщение: ночь наступила неожиданно. Возможно, внутреннее восприятие времени барахлит".</DefaultText>
+      <DefaultText>«Беззвучное сообщение: ночь наступила неожиданно. Возможно, внутреннее восприятие времени барахлит».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>4</ID>
-      <DefaultText>"Я обыкновенная девочка. Я просто брожу по окрестностям".</DefaultText>
+      <DefaultText>«Я обыкновенная девочка. Я просто брожу по окрестностям».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>5</ID>
-      <DefaultText>"Пожалуйста, уйди из моего поля зрения".</DefaultText>
+      <DefaultText>«Пожалуйста, уйди из моего поля зрения».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>6</ID>
-      <DefaultText>"Беззвучное сообщение: человек пытается поговорить со мной. Нужен совет".</DefaultText>
+      <DefaultText>«Беззвучное сообщение: человек пытается поговорить со мной. Нужен совет».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>7</ID>
-      <DefaultText>"Я не хочу с тобой играть. Тебе слишком много лет".</DefaultText>
+      <DefaultText>«Я не хочу с тобой играть. Тебе слишком много лет».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>8</ID>
-      <DefaultText>"Дети очень любят сладости".</DefaultText>
+      <DefaultText>«Дети очень любят сладости».</DefaultText>
       <FemaleText />
     </Entry>
   </Entries>

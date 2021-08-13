@@ -11,37 +11,37 @@
     </Entry>
     <Entry>
       <ID>2</ID>
-      <DefaultText>"Пожалуйста, Салимери. Просто дай мне шанс".</DefaultText>
+      <DefaultText>«Пожалуйста, Салимери. Просто дай мне шанс».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>3</ID>
-      <DefaultText>"Я не был в этом виноват!"</DefaultText>
+      <DefaultText>«Я не был в этом виноват!»</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>4</ID>
-      <DefaultText>"Я... всего лишь хочу, чтобы ты поняла... видишь ли, я..."</DefaultText>
+      <DefaultText>«Я... всего лишь хочу, чтобы ты поняла... видишь ли, я...»</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>5</ID>
-      <DefaultText>"Что?"</DefaultText>
+      <DefaultText>«Что?»</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>6</ID>
-      <DefaultText>"Я дала тебе шанс *уйти*, а ты даже с этим не справился".</DefaultText>
+      <DefaultText>«Я дала тебе шанс *уйти*, а ты даже с этим не справился».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>8</ID>
-      <DefaultText>"Да, Корро, я знаю. Некоторые просто рождаются ни на что не способными".</DefaultText>
+      <DefaultText>«Да, Корро, я знаю. Некоторые просто рождаются ни на что не способными».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>9</ID>
-      <DefaultText>"Салимери, пожалуйста".</DefaultText>
+      <DefaultText>«Салимери, пожалуйста».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -51,7 +51,7 @@
     </Entry>
     <Entry>
       <ID>11</ID>
-      <DefaultText>"Что ты хочешь сказать своим «что»?"</DefaultText>
+      <DefaultText>«Что ты хочешь сказать своим „что“?»</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -61,12 +61,12 @@
     </Entry>
     <Entry>
       <ID>13</ID>
-      <DefaultText>"Ты... ты искала меня".</DefaultText>
+      <DefaultText>«Ты... ты искала меня».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>14</ID>
-      <DefaultText>"Конечно. Я сказала тебе уходить много *лет* назад".</DefaultText>
+      <DefaultText>«Конечно. Я сказала тебе уходить много *лет* назад».</DefaultText>
       <FemaleText />
     </Entry>
   </Entries>

@@ -6,17 +6,17 @@
   <Entries>
     <Entry>
       <ID>1</ID>
-      <DefaultText>"Я никуда не уйду, пока не буду знать *наверняка*, что Скорбь успокоилась".</DefaultText>
+      <DefaultText>«Я никуда не уйду, пока не буду знать *наверняка*, что Скорбь успокоилась».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>2</ID>
-      <DefaultText>"Я почувствовала присутствие Скорби. Это было лишь предчувствие, но я сразу же примчалась сюда".</DefaultText>
+      <DefaultText>«Я почувствовала присутствие Скорби. Это было лишь предчувствие, но я сразу же примчалась сюда».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>3</ID>
-      <DefaultText>"Надеюсь, щиты выдержат".</DefaultText>
+      <DefaultText>«Надеюсь, щиты выдержат».</DefaultText>
       <FemaleText />
     </Entry>
   </Entries>

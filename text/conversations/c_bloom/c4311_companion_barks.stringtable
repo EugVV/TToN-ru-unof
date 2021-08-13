@@ -6,7 +6,7 @@
   <Entries>
     <Entry>
       <ID>1</ID>
-      <DefaultText>:: Свистит :: "Интересно, кто здесь живёт".</DefaultText>
+      <DefaultText>:: Свистит :: «Интересно, кто здесь живёт».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -21,22 +21,22 @@
     </Entry>
     <Entry>
       <ID>4</ID>
-      <DefaultText>"Красивый вид. За такой нужно деньги брать".</DefaultText>
+      <DefaultText>«Красивый вид. За такой нужно деньги брать».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>5</ID>
-      <DefaultText>"Это... настоящее золото, как думаете?"</DefaultText>
+      <DefaultText>«Это... настоящее золото, как думаете?»</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>6</ID>
-      <DefaultText>"Хм. Роскошные Апартаменты Якорной Стоянки".</DefaultText>
+      <DefaultText>«Хм. Роскошные Апартаменты Якорной Стоянки».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>7</ID>
-      <DefaultText>"Милое колечко, вот".</DefaultText>
+      <DefaultText>«Милое колечко, вот».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -51,7 +51,7 @@
     </Entry>
     <Entry>
       <ID>10</ID>
-      <DefaultText>"Так-так... Это местечко дорогого стоит".</DefaultText>
+      <DefaultText>«Так-так... Это местечко дорогого стоит».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -71,12 +71,12 @@
     </Entry>
     <Entry>
       <ID>14</ID>
-      <DefaultText>"Значит, это планета. Ух ты!"</DefaultText>
+      <DefaultText>«Значит, это планета. Ух ты!»</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>15</ID>
-      <DefaultText>"Зато небольших размеров, что в карман влезет, да?"</DefaultText>
+      <DefaultText>«Зато небольших размеров, что в карман влезет, да?»</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -91,12 +91,12 @@
     </Entry>
     <Entry>
       <ID>18</ID>
-      <DefaultText>"Дверь запечатана? Но там же был... золотой прииск!"</DefaultText>
+      <DefaultText>«Дверь запечатана? Но там же был... золотой прииск!»</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>19</ID>
-      <DefaultText>"Давайте разберёмся, как её открыть".</DefaultText>
+      <DefaultText>«Давайте разберёмся, как её открыть».</DefaultText>
       <FemaleText />
     </Entry>
   </Entries>

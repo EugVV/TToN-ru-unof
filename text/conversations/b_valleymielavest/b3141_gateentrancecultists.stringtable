@@ -6,37 +6,37 @@
   <Entries>
     <Entry>
       <ID>1</ID>
-      <DefaultText>Глаза мужчины закатились так сильно, что видны только белки. Его лицо застыло в безумной гримасе. "Ты *чувствуешь* это? *Сила* Бесконечных Врат! Она взывает к нам. Время пришло!"</DefaultText>
+      <DefaultText>Глаза мужчины закатились так сильно, что видны только белки. Его лицо застыло в безумной гримасе. «Ты *чувствуешь* это? *Сила* Бесконечных Врат! Она взывает к нам. Время пришло!»</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>2</ID>
-      <DefaultText>"Время для чего?"</DefaultText>
+      <DefaultText>«Время для чего?»</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>3</ID>
-      <DefaultText>"Ты убил всех этих людей?"</DefaultText>
+      <DefaultText>«Ты убил всех этих людей?»</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>4</ID>
-      <DefaultText>"Где твой лорд Инифир?"</DefaultText>
+      <DefaultText>«Где твой лорд Инифир?»</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>5</ID>
-      <DefaultText>"Сила! Слава! НАСЛАЖДЕНИЕ!" Он смотрит на что-то позади вашей головы. Вы не уверены, услышал ли он вас.</DefaultText>
+      <DefaultText>«Сила! Слава! НАСЛАЖДЕНИЕ!» Он смотрит на что-то позади вашей головы. Вы не уверены, услышал ли он вас.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>6</ID>
-      <DefaultText>"Они освободились. Освободились и прошли под Вратами, к обитающим за ними прекрасным созданиям. Присоединись к нам, чтобы испытать наслаждение!"</DefaultText>
+      <DefaultText>«Они освободились. Освободились и прошли под Вратами, к обитающим за ними прекрасным созданиям. Присоединись к нам, чтобы испытать наслаждение!»</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>7</ID>
-      <DefaultText>"Уже началось. Наш лорд и повелитель находится в сердце всего".</DefaultText>
+      <DefaultText>«Уже началось. Наш лорд и повелитель находится в сердце всего».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -46,42 +46,42 @@
     </Entry>
     <Entry>
       <ID>9</ID>
-      <DefaultText>"Новопосвященные?"</DefaultText>
+      <DefaultText>«Новопосвященные?»</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>10</ID>
-      <DefaultText>"К Вратам!"</DefaultText>
+      <DefaultText>«К Вратам!»</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>11</ID>
-      <DefaultText>"К Инифиру!"</DefaultText>
+      <DefaultText>«К Инифиру!»</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>12</ID>
-      <DefaultText>"Мы слышим и повинуемся!"</DefaultText>
+      <DefaultText>«Мы слышим и повинуемся!»</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>13</ID>
-      <DefaultText>Прежде чем мужчина может произнести еще хоть слово, его спина выгибается. Он похож на тряпку, которую с силой выжимают, но его голос по-прежнему полон детской радости. "Они призывают нас СЕЙЧАС!"</DefaultText>
+      <DefaultText>Прежде чем мужчина может произнести еще хоть слово, его спина выгибается. Он похож на тряпку, которую с силой выжимают, но его голос по-прежнему полон детской радости. «Они призывают нас СЕЙЧАС!»</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>14</ID>
-      <DefaultText>[Атака] "Сейчас все это безумие кончится".</DefaultText>
+      <DefaultText>[Атака] «Сейчас все это безумие кончится».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>15</ID>
-      <DefaultText>"Да! Да! Все закончится сейчас, безумие этой тюрьмы, которую мы зовем жизнью!"</DefaultText>
+      <DefaultText>«Да! Да! Все закончится сейчас, безумие этой тюрьмы, которую мы зовем жизнью!»</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>16</ID>
-      <DefaultText>"Неиссякаемая сила!"</DefaultText>
+      <DefaultText>«Неиссякаемая сила!»</DefaultText>
       <FemaleText />
     </Entry>
   </Entries>

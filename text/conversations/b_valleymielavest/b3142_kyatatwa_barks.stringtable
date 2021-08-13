@@ -11,17 +11,17 @@
     </Entry>
     <Entry>
       <ID>2</ID>
-      <DefaultText>"Я сдеру с тебя кожу".</DefaultText>
+      <DefaultText>«Я сдеру с тебя кожу».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>3</ID>
-      <DefaultText>"Получай!"</DefaultText>
+      <DefaultText>«Получай!»</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>4</ID>
-      <DefaultText>"На один труп больше — какая разница".</DefaultText>
+      <DefaultText>«На один труп больше — какая разница».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -31,7 +31,7 @@
     </Entry>
     <Entry>
       <ID>6</ID>
-      <DefaultText>"Свобода!"</DefaultText>
+      <DefaultText>«Свобода!»</DefaultText>
       <FemaleText />
     </Entry>
   </Entries>

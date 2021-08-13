@@ -6,27 +6,27 @@
   <Entries>
     <Entry>
       <ID>1</ID>
-      <DefaultText>"Мы ведём переговоры с этим сумасшедшим гостем больше трёх часов".</DefaultText>
+      <DefaultText>«Мы ведём переговоры с этим сумасшедшим гостем больше трёх часов».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>2</ID>
-      <DefaultText>"Если я еще раз услышу, как он говорит о морали, я *сброшусь* с утеса".</DefaultText>
+      <DefaultText>«Если я еще раз услышу, как он говорит о морали, я *сброшусь* с утеса».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>3</ID>
-      <DefaultText>"Варьеллены *такие* скучные".</DefaultText>
+      <DefaultText>«Варьеллены *такие* скучные».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>4</ID>
-      <DefaultText>"Что вообще неэтичного в регулировании цен? Я тебя спрашиваю!"</DefaultText>
+      <DefaultText>«Что вообще неэтичного в регулировании цен? Я тебя спрашиваю!»</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>5</ID>
-      <DefaultText>"М-м. Теперь у меня голова раскалывается".</DefaultText>
+      <DefaultText>«М-м. Теперь у меня голова раскалывается».</DefaultText>
       <FemaleText />
     </Entry>
   </Entries>

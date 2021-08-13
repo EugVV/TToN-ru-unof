@@ -21,12 +21,12 @@
     </Entry>
     <Entry>
       <ID>4</ID>
-      <DefaultText>"Кто ты такой?"</DefaultText>
+      <DefaultText>«Кто ты такой?»</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>5</ID>
-      <DefaultText>"Можешь рассказать ещё что-нибудь о себе?"</DefaultText>
+      <DefaultText>«Можешь рассказать ещё что-нибудь о себе?»</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -36,12 +36,12 @@
     </Entry>
     <Entry>
       <ID>7</ID>
-      <DefaultText>"Можешь рассказать о здешних обитателях?"</DefaultText>
+      <DefaultText>«Можешь рассказать о здешних обитателях?»</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>8</ID>
-      <DefaultText>"Можешь ещё раз рассказать о здешних обитателях?"</DefaultText>
+      <DefaultText>«Можешь ещё раз рассказать о здешних обитателях?»</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -51,17 +51,17 @@
     </Entry>
     <Entry>
       <ID>10</ID>
-      <DefaultText>"Что ты можешь рассказать об этом месте?"</DefaultText>
+      <DefaultText>«Что ты можешь рассказать об этом месте?»</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>11</ID>
-      <DefaultText>"Можешь ещё раз рассказать об этом месте?"</DefaultText>
+      <DefaultText>«Можешь ещё раз рассказать об этом месте?»</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>12</ID>
-      <DefaultText>"Прощай".</DefaultText>
+      <DefaultText>«Прощай».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -76,12 +76,12 @@
     </Entry>
     <Entry>
       <ID>18</ID>
-      <DefaultText>"Я эрин. Звать Исг". И почти шепотом: "Меня здесь... нет".</DefaultText>
+      <DefaultText>«Я эрин. Звать Исг». И почти шепотом: «Меня здесь... нет».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>19</ID>
-      <DefaultText>"Нет. Для меня это... как сон".</DefaultText>
+      <DefaultText>«Нет. Для меня это... как сон».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -96,17 +96,17 @@
     </Entry>
     <Entry>
       <ID>22</ID>
-      <DefaultText>"Ничего".</DefaultText>
+      <DefaultText>«Ничего».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>23</ID>
-      <DefaultText>Его глаза бегают, как будто он отчаянно пытается избежать этого разговора: "Нет".</DefaultText>
+      <DefaultText>Его глаза бегают, как будто он отчаянно пытается избежать этого разговора: «Нет».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>24</ID>
-      <DefaultText>"Почему я не могу *почувствовать* тебя?"</DefaultText>
+      <DefaultText>«Почему я не могу *почувствовать* тебя?»</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -121,12 +121,12 @@
     </Entry>
     <Entry>
       <ID>27</ID>
-      <DefaultText>"Скист", — ворчит он.</DefaultText>
+      <DefaultText>«Скист», — ворчит он.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>28</ID>
-      <DefaultText>Жёлтая рубашка медленно исчезает, затем пропадают кожа, мышцы и кости. Остаётся лишь едва уловимое мерцание в форме человека. "Я Исг. Эрин. Межпространственная проекция из далёкого прошлого. Сейчас в форме абикоса... но выгляжу я иначе. Заперт в этом теле, но я... не такой".</DefaultText>
+      <DefaultText>Жёлтая рубашка медленно исчезает, затем пропадают кожа, мышцы и кости. Остаётся лишь едва уловимое мерцание в форме человека. «Я Исг. Эрин. Межпространственная проекция из далёкого прошлого. Сейчас в форме абикоса... но выгляжу я иначе. Заперт в этом теле, но я... не такой».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -136,49 +136,49 @@
     </Entry>
     <Entry>
       <ID>30</ID>
-      <DefaultText>"Ты можешь повлиять на эту реальность?"</DefaultText>
+      <DefaultText>«Ты можешь повлиять на эту реальность?»</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>31</ID>
-      <DefaultText>"Как ты сюда попал?"</DefaultText>
+      <DefaultText>«Как ты сюда попал?»</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>32</ID>
-      <DefaultText>"Есть ли здесь что-то такое, о чём мне стоит знать?"</DefaultText>
+      <DefaultText>«Есть ли здесь что-то такое, о чём мне стоит знать?»</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>33</ID>
-      <DefaultText>"Прощай".</DefaultText>
+      <DefaultText>«Прощай».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>34</ID>
-      <DefaultText>"Из далёкого прошлого. Столетия... тому назад. Я путешествовал... во времени... чтобы увидеть... будущее. Промахнулся", — он пожимает плечами. — "Может... в следующий раз..."</DefaultText>
+      <DefaultText>«Из далёкого прошлого. Столетия... тому назад. Я путешествовал... во времени... чтобы увидеть... будущее. Промахнулся», — он пожимает плечами. — «Может... в следующий раз...»</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>36</ID>
-      <DefaultText>"Лишь словами", — призрачные руки проходят сквозь вас. — "Никаких... прикосновений. Только мысли. Физическую энергию... нельзя передать".</DefaultText>
+      <DefaultText>«Лишь словами», — призрачные руки проходят сквозь вас. — «Никаких... прикосновений. Только мысли. Физическую энергию... нельзя передать».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>37</ID>
-      <DefaultText>"При путешествии... сквозь время... я увидел... свет. Меня привлекло... цивилизованное мышление. Я восхитился... физикой".</DefaultText>
+      <DefaultText>«При путешествии... сквозь время... я увидел... свет. Меня привлекло... цивилизованное мышление. Я восхитился... физикой».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>38</ID>
-      <DefaultText>"Пульсация. Искривление времени. И *разума*. Скрытые опасности..." — очертания Исга слегка блекнут. — "Не могу говорить... я подавлен..."
+      <DefaultText>«Пульсация. Искривление времени. И *разума*. Скрытые опасности...» — очертания Исга слегка блекнут. — «Не могу говорить... я подавлен...»
 
-Он делает усилие: "Мне лучше... не говорить... об опасности".</DefaultText>
+Он делает усилие: «Мне лучше... не говорить... об опасности».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>39</ID>
-      <DefaultText>"Прощай..."</DefaultText>
+      <DefaultText>«Прощай...»</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -188,17 +188,17 @@
     </Entry>
     <Entry>
       <ID>41</ID>
-      <DefaultText>"Откуда ты родом?"</DefaultText>
+      <DefaultText>«Откуда ты родом?»</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>42</ID>
-      <DefaultText>"Расскажи ещё раз, откуда ты родом?"</DefaultText>
+      <DefaultText>«Расскажи ещё раз, откуда ты родом?»</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>43</ID>
-      <DefaultText>"Из времён... давно ушедших... Не уверен".</DefaultText>
+      <DefaultText>«Из времён... давно ушедших... Не уверен».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -208,12 +208,12 @@
     </Entry>
     <Entry>
       <ID>46</ID>
-      <DefaultText>"Что такое «абикос»?"</DefaultText>
+      <DefaultText>«Что такое „абикос“?»</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>47</ID>
-      <DefaultText>"Можешь ещё раз рассказать, что такое «абикос»?"</DefaultText>
+      <DefaultText>«Можешь ещё раз рассказать, что такое „абикос“?»</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -223,12 +223,12 @@
     </Entry>
     <Entry>
       <ID>49</ID>
-      <DefaultText>"Призрак. Межпространственный. Он *питается*. Я лишь... лишь наблюдаю. Смотрю и учусь".</DefaultText>
+      <DefaultText>«Призрак. Межпространственный. Он *питается*. Я лишь... лишь наблюдаю. Смотрю и учусь».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>50</ID>
-      <DefaultText>"Это... едок. *Охотник*. Из другого мира. Из другого... *времени*".</DefaultText>
+      <DefaultText>«Это... едок. *Охотник*. Из другого мира. Из другого... *времени*».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>

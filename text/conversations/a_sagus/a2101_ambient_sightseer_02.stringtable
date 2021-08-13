@@ -6,27 +6,27 @@
   <Entries>
     <Entry>
       <ID>1</ID>
-      <DefaultText>"Ох, как я не уследил за временем? Я ведь боюсь темноты".</DefaultText>
+      <DefaultText>«Ох, как я не уследил за временем? Я ведь боюсь темноты».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>2</ID>
-      <DefaultText>"Это какая-то странная казнь. Казни всегда так долго тянутся?"</DefaultText>
+      <DefaultText>«Это какая-то странная казнь. Казни всегда так долго тянутся?»</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>3</ID>
-      <DefaultText>"Я хотел посмотреть на чудовище в клетке, но с меня стали требовать плату!"</DefaultText>
+      <DefaultText>«Я хотел посмотреть на чудовище в клетке, но с меня стали требовать плату!»</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>4</ID>
-      <DefaultText>"Не знаю я, чему поклоняются в секте. Сомневаюсь, что они и сами знают".</DefaultText>
+      <DefaultText>«Не знаю я, чему поклоняются в секте. Сомневаюсь, что они и сами знают».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>5</ID>
-      <DefaultText>"Ты не говорил с художником на рынке? Кажется, он *очень* расстроен".</DefaultText>
+      <DefaultText>«Ты не говорил с художником на рынке? Кажется, он *очень* расстроен».</DefaultText>
       <FemaleText />
     </Entry>
   </Entries>

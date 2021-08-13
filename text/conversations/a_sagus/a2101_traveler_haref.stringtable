@@ -6,17 +6,17 @@
   <Entries>
     <Entry>
       <ID>1</ID>
-      <DefaultText>"А здесь *всегда* так быстро темнеет?"</DefaultText>
+      <DefaultText>«А здесь *всегда* так быстро темнеет?»</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>2</ID>
-      <DefaultText>"Я из Харефа. Мы прибыли прошлой ночью. Ты тоже впервые в Сагусе?"</DefaultText>
+      <DefaultText>«Я из Харефа. Мы прибыли прошлой ночью. Ты тоже впервые в Сагусе?»</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>3</ID>
-      <DefaultText>"А вы тут *высокие*... как Сона и Баян в моем городе".</DefaultText>
+      <DefaultText>«А вы тут *высокие*... как Сона и Баян в моем городе».</DefaultText>
       <FemaleText />
     </Entry>
   </Entries>

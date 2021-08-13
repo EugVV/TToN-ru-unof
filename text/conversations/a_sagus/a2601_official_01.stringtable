@@ -6,17 +6,17 @@
   <Entries>
     <Entry>
       <ID>1</ID>
-      <DefaultText>"Не сейчас, любезный".</DefaultText>
-      <FemaleText>"Не сейчас, любезная".</FemaleText>
+      <DefaultText>«Не сейчас, любезный».</DefaultText>
+      <FemaleText>«Не сейчас, любезная».</FemaleText>
     </Entry>
     <Entry>
       <ID>2</ID>
-      <DefaultText>"Боюсь, сейчас я слишком занята беседой".</DefaultText>
+      <DefaultText>«Боюсь, сейчас я слишком занята беседой».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>3</ID>
-      <DefaultText>"Мы обсуждаем некоторые дела с гибра. Уверена, тебе это неинтересно".</DefaultText>
+      <DefaultText>«Мы обсуждаем некоторые дела с гибра. Уверена, тебе это неинтересно».</DefaultText>
       <FemaleText />
     </Entry>
   </Entries>

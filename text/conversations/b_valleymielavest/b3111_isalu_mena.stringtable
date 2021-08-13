@@ -6,27 +6,27 @@
   <Entries>
     <Entry>
       <ID>1</ID>
-      <DefaultText>"Ты заслоняешь мне свет".</DefaultText>
+      <DefaultText>«Ты заслоняешь мне свет».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>2</ID>
-      <DefaultText>"Бесполезно".</DefaultText>
+      <DefaultText>«Бесполезно».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>3</ID>
-      <DefaultText>"Один из них заговорит. Скорее рано, чем поздно".</DefaultText>
+      <DefaultText>«Один из них заговорит. Скорее рано, чем поздно».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>4</ID>
-      <DefaultText>"У последнего хотя бы хватило приличия умолять".</DefaultText>
+      <DefaultText>«У последнего хотя бы хватило приличия умолять».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>5</ID>
-      <DefaultText>"Нужно уважать тех, кто умеет хранить секреты".</DefaultText>
+      <DefaultText>«Нужно уважать тех, кто умеет хранить секреты».</DefaultText>
       <FemaleText />
     </Entry>
   </Entries>

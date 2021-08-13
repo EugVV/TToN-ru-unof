@@ -11,12 +11,12 @@
     </Entry>
     <Entry>
       <ID>1</ID>
-      <DefaultText>"Жалко время тратить, «королева». В следующий раз неси больше, а не то прольется *кровь*".</DefaultText>
+      <DefaultText>«Жалко время тратить, „королева“. В следующий раз неси больше, а не то прольется *кровь*».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>2</ID>
-      <DefaultText>"Вот, возьми деньги! Отстань только!"</DefaultText>
+      <DefaultText>«Вот, возьми деньги! Отстань только!»</DefaultText>
       <FemaleText />
     </Entry>
   </Entries>

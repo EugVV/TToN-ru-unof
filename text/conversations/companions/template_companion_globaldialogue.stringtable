@@ -26,67 +26,67 @@
     </Entry>
     <Entry>
       <ID>7</ID>
-      <DefaultText>"Расскажи о себе".</DefaultText>
+      <DefaultText>«Расскажи о себе».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>8</ID>
-      <DefaultText>"Как у тебя дела?"</DefaultText>
+      <DefaultText>«Как у тебя дела?»</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>9</ID>
-      <DefaultText>"Нам лучше разделиться".</DefaultText>
+      <DefaultText>«Нам лучше разделиться».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>10</ID>
-      <DefaultText>"Пока больше ничего не надо. Продолжим путь".</DefaultText>
+      <DefaultText>«Пока больше ничего не надо. Продолжим путь».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>11</ID>
-      <DefaultText>"Поговорим о тех, с кем путешествуем".</DefaultText>
+      <DefaultText>«Поговорим о тех, с кем путешествуем».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>21</ID>
-      <DefaultText>"Что ты думаешь об Алигерне?"</DefaultText>
+      <DefaultText>«Что ты думаешь об Алигерне?»</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>22</ID>
-      <DefaultText>"Что ты думаешь о Каллистеж?"</DefaultText>
+      <DefaultText>«Что ты думаешь о Каллистеж?»</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>23</ID>
-      <DefaultText>"Что ты думаешь о Сатсаде?"</DefaultText>
+      <DefaultText>«Что ты думаешь о Сатсаде?»</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>24</ID>
-      <DefaultText>"Что ты думаешь о Риастраде?"</DefaultText>
+      <DefaultText>«Что ты думаешь о Риастраде?»</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>25</ID>
-      <DefaultText>"Что ты думаешь о Мэткине?"</DefaultText>
+      <DefaultText>«Что ты думаешь о Мэткине?»</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>26</ID>
-      <DefaultText>"Что ты думаешь об Ооме?"</DefaultText>
+      <DefaultText>«Что ты думаешь об Ооме?»</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>27</ID>
-      <DefaultText>"Что ты думаешь о Тибире?"</DefaultText>
+      <DefaultText>«Что ты думаешь о Тибире?»</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>28</ID>
-      <DefaultText>"Что ты думаешь о Рин?"</DefaultText>
+      <DefaultText>«Что ты думаешь о Рин?»</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -96,7 +96,7 @@
     </Entry>
     <Entry>
       <ID>33</ID>
-      <DefaultText>"У меня есть еще вопросы, если ты не против".</DefaultText>
+      <DefaultText>«У меня есть еще вопросы, если ты не против».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -191,7 +191,7 @@
     </Entry>
     <Entry>
       <ID>91</ID>
-      <DefaultText>"Если я понадоблюсь тебе снова, ты найдешь меня в {X, being wherever the CNPC will be}."</DefaultText>
+      <DefaultText>«Если я понадоблюсь тебе снова, ты найдешь меня в {X, being wherever the CNPC will be}.»</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -206,7 +206,7 @@
     </Entry>
     <Entry>
       <ID>102</ID>
-      <DefaultText>"Я снова хочу поговорить о тебе".</DefaultText>
+      <DefaultText>«Я снова хочу поговорить о тебе».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -246,12 +246,12 @@
     </Entry>
     <Entry>
       <ID>111</ID>
-      <DefaultText>"У меня есть еще один вопрос".</DefaultText>
+      <DefaultText>«У меня есть еще один вопрос».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>113</ID>
-      <DefaultText>"Это все, что мне хотелось узнать. Давай сменим тему".</DefaultText>
+      <DefaultText>«Это все, что мне хотелось узнать. Давай сменим тему».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -291,7 +291,7 @@
     </Entry>
     <Entry>
       <ID>198</ID>
-      <DefaultText>"Что ты думаешь об Эрритисе?"</DefaultText>
+      <DefaultText>«Что ты думаешь об Эрритисе?»</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -311,12 +311,12 @@
     </Entry>
     <Entry>
       <ID>202</ID>
-      <DefaultText>"Это не имеет значения. У меня больше нет вопросов".</DefaultText>
+      <DefaultText>«Это не имеет значения. У меня больше нет вопросов».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>203</ID>
-      <DefaultText>"Забудь, пошли".</DefaultText>
+      <DefaultText>«Забудь, пошли».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -371,7 +371,7 @@
     </Entry>
     <Entry>
       <ID>214</ID>
-      <DefaultText>"Что будем делать дальше?"</DefaultText>
+      <DefaultText>«Что будем делать дальше?»</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -434,7 +434,7 @@
     </Entry>
     <Entry>
       <ID>225</ID>
-      <DefaultText>[Мы должны помешать этому "Призраку" открыть дверь и убить остальных отверженных.]</DefaultText>
+      <DefaultText>[Мы должны помешать этому «Призраку» открыть дверь и убить остальных отверженных.]</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -479,7 +479,7 @@
     </Entry>
     <Entry>
       <ID>234</ID>
-      <DefaultText>"Это не имеет значения. У меня больше нет вопросов".</DefaultText>
+      <DefaultText>«Это не имеет значения. У меня больше нет вопросов».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -489,7 +489,7 @@
     </Entry>
     <Entry>
       <ID>236</ID>
-      <DefaultText>"Забудь, пошли".</DefaultText>
+      <DefaultText>«Забудь, пошли».</DefaultText>
       <FemaleText />
     </Entry>
   </Entries>

@@ -11,7 +11,7 @@
     </Entry>
     <Entry>
       <ID>2</ID>
-      <DefaultText>"Это посланники нашего труса-создателя! Становись в очередь! Помни об участи нано и обходи опоры стороной!"</DefaultText>
+      <DefaultText>«Это посланники нашего труса-создателя! Становись в очередь! Помни об участи нано и обходи опоры стороной!»</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -21,7 +21,7 @@
     </Entry>
     <Entry>
       <ID>4</ID>
-      <DefaultText>"Все кончено, Пай. У нас Синхронизатор Истины. Сдавайся, и я пощажу тебя".</DefaultText>
+      <DefaultText>«Все кончено, Пай. У нас Синхронизатор Истины. Сдавайся, и я пощажу тебя».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -31,12 +31,12 @@
     </Entry>
     <Entry>
       <ID>6</ID>
-      <DefaultText>"Это не Бесконечная Битва, брат. Это всего лишь иллюзия. За той дверью нет никого, кроме Первой. Я *приведу* ее".</DefaultText>
+      <DefaultText>«Это не Бесконечная Битва, брат. Это всего лишь иллюзия. За той дверью нет никого, кроме Первой. Я *приведу* ее».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>7</ID>
-      <DefaultText>"Становись в очередь! Посланники Труса здесь! Помни об участи нано и обходи опоры стороной!"</DefaultText>
+      <DefaultText>«Становись в очередь! Посланники Труса здесь! Помни об участи нано и обходи опоры стороной!»</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -46,7 +46,7 @@
     </Entry>
     <Entry>
       <ID>9</ID>
-      <DefaultText>"Все кончено, отверженный. Подчинись воле отца. Если будешь сопротивляться, я убью тебя".</DefaultText>
+      <DefaultText>«Все кончено, отверженный. Подчинись воле отца. Если будешь сопротивляться, я убью тебя».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -61,7 +61,7 @@
     </Entry>
     <Entry>
       <ID>12</ID>
-      <DefaultText>"Наконец-то! Не придется тратить на тебя время".</DefaultText>
+      <DefaultText>«Наконец-то! Не придется тратить на тебя время».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -71,17 +71,17 @@
     </Entry>
     <Entry>
       <ID>16</ID>
-      <DefaultText>"Ты! Быстро! Помоги пройти мимо этого кретина в ту дверь!"</DefaultText>
+      <DefaultText>«Ты! Быстро! Помоги пройти мимо этого кретина в ту дверь!»</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>17</ID>
-      <DefaultText>"Ты! Словно у меня и без тебя мало проблем".</DefaultText>
+      <DefaultText>«Ты! Словно у меня и без тебя мало проблем».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>18</ID>
-      <DefaultText>"Останови их! Они не должны добраться до Синхронизатора!"</DefaultText>
+      <DefaultText>«Останови их! Они не должны добраться до Синхронизатора!»</DefaultText>
       <FemaleText />
     </Entry>
   </Entries>

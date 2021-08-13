@@ -21,12 +21,12 @@
     </Entry>
     <Entry>
       <ID>4</ID>
-      <DefaultText>"Аргументы для безрассудного пьянства, я полагаю..."</DefaultText>
+      <DefaultText>«Аргументы для безрассудного пьянства, я полагаю...»</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>5</ID>
-      <DefaultText>"Если ты должен поэкспериментировать с неизвестными веществами, экспериментируй на *других*".</DefaultText>
+      <DefaultText>«Если ты должен поэкспериментировать с неизвестными веществами, экспериментируй на *других*».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -51,23 +51,23 @@
     </Entry>
     <Entry>
       <ID>10</ID>
-      <DefaultText>"Я бы хотел быть достаточно взрослым, чтобы пить. Это выглядело как развлечение".</DefaultText>
+      <DefaultText>«Я бы хотел быть достаточно взрослым, чтобы пить. Это выглядело как развлечение».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>11</ID>
-      <DefaultText>"Не хотел бы сейчас попить чего-нибудь из сточной канавы?"</DefaultText>
+      <DefaultText>«Не хотел бы сейчас попить чего-нибудь из сточной канавы?»</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>12</ID>
-      <DefaultText>"Всем известно, что нельзя брать в рот странные вещи. *Всем*".</DefaultText>
+      <DefaultText>«Всем известно, что нельзя брать в рот странные вещи. *Всем*».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>13</ID>
-      <DefaultText>"Лучше ты, чем я, парень. Хотя на самом деле это выглядит заманчиво!"</DefaultText>
-      <FemaleText>«Лучше ты, чем я, девочка. Хотя на самом деле это выглядит заманчиво!"</FemaleText>
+      <DefaultText>«Лучше ты, чем я, парень. Хотя на самом деле это выглядит заманчиво!»</DefaultText>
+      <FemaleText>«Лучше ты, чем я, девочка. Хотя на самом деле это выглядит заманчиво!«</FemaleText>
     </Entry>
   </Entries>
 </StringTableFile>

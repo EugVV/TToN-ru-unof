@@ -6,27 +6,27 @@
   <Entries>
     <Entry>
       <ID>1</ID>
-      <DefaultText>"Привет. Тоже отправляешься в путешествие, а?"</DefaultText>
+      <DefaultText>«Привет. Тоже отправляешься в путешествие, а?»</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>2</ID>
-      <DefaultText>"Я еду с посланием. Не премину сказать, что это истинное удовольствие. Как прекрасна жизнь!"</DefaultText>
+      <DefaultText>«Я еду с посланием. Не премину сказать, что это истинное удовольствие. Как прекрасна жизнь!»</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>3</ID>
-      <DefaultText>"Если ты посланник города вроде Сагуса, то хозяева принимают тебя как члена королевской семьи".</DefaultText>
+      <DefaultText>«Если ты посланник города вроде Сагуса, то хозяева принимают тебя как члена королевской семьи».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>4</ID>
-      <DefaultText>"Мои сумки всегда чуть не лопаются от бесплатных полотенцев и ароматного мыла, когда я возвращаюсь".</DefaultText>
+      <DefaultText>«Мои сумки всегда чуть не лопаются от бесплатных полотенцев и ароматного мыла, когда я возвращаюсь».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>5</ID>
-      <DefaultText>"Интересно, какое жильё они приготовили на *этот* раз".</DefaultText>
+      <DefaultText>«Интересно, какое жильё они приготовили на *этот* раз».</DefaultText>
       <FemaleText />
     </Entry>
   </Entries>

@@ -6,12 +6,12 @@
   <Entries>
     <Entry>
       <ID>1</ID>
-      <DefaultText>"Мне не нужна твоя помощь, ты для меня все еще щенок из Дендры".</DefaultText>
+      <DefaultText>«Мне не нужна твоя помощь, ты для меня все еще щенок из Дендры».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>2</ID>
-      <DefaultText>"Мерзкий последователь Дендры... Дети откроют твои секреты!"</DefaultText>
+      <DefaultText>«Мерзкий последователь Дендры... Дети откроют твои секреты!»</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -26,32 +26,32 @@
     </Entry>
     <Entry>
       <ID>6</ID>
-      <DefaultText>"Не важно, знак Инифира это или нет, никогда последователь Дендры не будет нашим другом".</DefaultText>
+      <DefaultText>«Не важно, знак Инифира это или нет, никогда последователь Дендры не будет нашим другом».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>7</ID>
-      <DefaultText>"Найди Мемуаристов или отведай клинка освобождения".</DefaultText>
+      <DefaultText>«Найди Мемуаристов или отведай клинка освобождения».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>8</ID>
-      <DefaultText>"Мы не просим многого — найди пропавших людей и верни их сюда!"</DefaultText>
+      <DefaultText>«Мы не просим многого — найди пропавших людей и верни их сюда!»</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>9</ID>
-      <DefaultText>"Ты начинаешь мне надоедать".</DefaultText>
+      <DefaultText>«Ты начинаешь мне надоедать».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>10</ID>
-      <DefaultText>"На твоих руках кровь. Ты освободитель!"</DefaultText>
+      <DefaultText>«На твоих руках кровь. Ты освободитель!»</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>11</ID>
-      <DefaultText>"Слабая плоть поможет слабейшей".</DefaultText>
+      <DefaultText>«Слабая плоть поможет слабейшей».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -61,7 +61,7 @@
     </Entry>
     <Entry>
       <ID>13</ID>
-      <DefaultText>"Мертвый ожил. Инифир велик".</DefaultText>
+      <DefaultText>«Мертвый ожил. Инифир велик».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -71,7 +71,7 @@
     </Entry>
     <Entry>
       <ID>15</ID>
-      <DefaultText>"Скоро замок откроется, и мы присоединимся к нашим братьям у Врат".</DefaultText>
+      <DefaultText>«Скоро замок откроется, и мы присоединимся к нашим братьям у Врат».</DefaultText>
       <FemaleText />
     </Entry>
   </Entries>

@@ -66,27 +66,27 @@
     </Entry>
     <Entry>
       <ID>13</ID>
-      <DefaultText>"Не смей говорить со мной, личинка Дендры".</DefaultText>
+      <DefaultText>«Не смей говорить со мной, личинка Дендры».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>14</ID>
-      <DefaultText>"Мемуаристы ликовали, когда их души обрели свободу. Ты это почувствовал?"</DefaultText>
-      <FemaleText>"Мемуаристы ликовали, когда их души обрели свободу. Ты это почувствовала?"</FemaleText>
+      <DefaultText>«Мемуаристы ликовали, когда их души обрели свободу. Ты это почувствовал?»</DefaultText>
+      <FemaleText>«Мемуаристы ликовали, когда их души обрели свободу. Ты это почувствовала?»</FemaleText>
     </Entry>
     <Entry>
       <ID>15</ID>
-      <DefaultText>"Ты предаешь высшее благо".</DefaultText>
+      <DefaultText>«Ты предаешь высшее благо».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>16</ID>
-      <DefaultText>"Мы так и нашли то, что искали. Неважно, в итоге все окажутся у Врат".</DefaultText>
+      <DefaultText>«Мы так и нашли то, что искали. Неважно, в итоге все окажутся у Врат».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>17</ID>
-      <DefaultText>"Метка Инифира воскресит мертвых к жизни".</DefaultText>
+      <DefaultText>«Метка Инифира воскресит мертвых к жизни».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -96,32 +96,32 @@
     </Entry>
     <Entry>
       <ID>19</ID>
-      <DefaultText>"Помоги нам открыть замок. Сила Врат будет твоей".</DefaultText>
+      <DefaultText>«Помоги нам открыть замок. Сила Врат будет твоей».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>20</ID>
-      <DefaultText>"Личинка Дендры".</DefaultText>
+      <DefaultText>«Личинка Дендры».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>21</ID>
-      <DefaultText>"Проходи, отброс Дендры".</DefaultText>
+      <DefaultText>«Проходи, отброс Дендры».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>22</ID>
-      <DefaultText>"Мы получим плоть сбежавших".</DefaultText>
+      <DefaultText>«Мы получим плоть сбежавших».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>23</ID>
-      <DefaultText>"Найди наших друзей-мемуаристов и привлеки их к ответу".</DefaultText>
+      <DefaultText>«Найди наших друзей-мемуаристов и привлеки их к ответу».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>24</ID>
-      <DefaultText>"Оставь свои земные путы".</DefaultText>
+      <DefaultText>«Оставь свои земные путы».</DefaultText>
       <FemaleText />
     </Entry>
   </Entries>

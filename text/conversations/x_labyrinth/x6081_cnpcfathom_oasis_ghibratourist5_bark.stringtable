@@ -6,17 +6,17 @@
   <Entries>
     <Entry>
       <ID>1</ID>
-      <DefaultText>"Для дышащего воздухом он довольно привлекательный".</DefaultText>
+      <DefaultText>«Для дышащего воздухом он довольно привлекательный».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>2</ID>
-      <DefaultText>"Мужчины, дышащие воздухом, вынашивают яйца? Или это особь женского рода? Никак не могу запомнить".</DefaultText>
+      <DefaultText>«Мужчины, дышащие воздухом, вынашивают яйца? Или это особь женского рода? Никак не могу запомнить».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>3</ID>
-      <DefaultText>"Интересно, что их брачный ритуал похож..."</DefaultText>
+      <DefaultText>«Интересно, что их брачный ритуал похож...»</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -26,7 +26,7 @@
     </Entry>
     <Entry>
       <ID>5</ID>
-      <DefaultText>"Дышащий воздухом, да? Как необычно!"</DefaultText>
+      <DefaultText>«Дышащий воздухом, да? Как необычно!»</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -36,8 +36,8 @@
     </Entry>
     <Entry>
       <ID>8</ID>
-      <DefaultText>"Привет, красавчик!"</DefaultText>
-      <FemaleText>"Привет, симпатяга!"</FemaleText>
+      <DefaultText>«Привет, красавчик!»</DefaultText>
+      <FemaleText>«Привет, симпатяга!»</FemaleText>
     </Entry>
     <Entry>
       <ID>11</ID>

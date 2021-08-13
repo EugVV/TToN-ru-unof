@@ -16,17 +16,17 @@
     </Entry>
     <Entry>
       <ID>13</ID>
-      <DefaultText>"Айтасий! Это Святейшество!"</DefaultText>
+      <DefaultText>«Айтасий! Это Святейшество!»</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>14</ID>
-      <DefaultText>"Айтасий может тебе помочь, почтенный сосуд".</DefaultText>
+      <DefaultText>«Айтасий может тебе помочь, почтенный сосуд».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>15</ID>
-      <DefaultText>"Я, гм, не мастак говорить. Но люблю слушать!"</DefaultText>
+      <DefaultText>«Я, гм, не мастак говорить. Но люблю слушать!»</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -36,12 +36,12 @@
     </Entry>
     <Entry>
       <ID>17</ID>
-      <DefaultText>"Айтасий! Это ещё один почтенный сосуд!"</DefaultText>
+      <DefaultText>«Айтасий! Это ещё один почтенный сосуд!»</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>19</ID>
-      <DefaultText>"Вы оказываете мне слишком много чести, Святейшество. Мои слова ничего не стоят".</DefaultText>
+      <DefaultText>«Вы оказываете мне слишком много чести, Святейшество. Мои слова ничего не стоят».</DefaultText>
       <FemaleText />
     </Entry>
   </Entries>

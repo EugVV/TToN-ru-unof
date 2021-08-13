@@ -6,22 +6,22 @@
   <Entries>
     <Entry>
       <ID>1</ID>
-      <DefaultText>"Не волнуйся, здесь мы в безопасности".</DefaultText>
+      <DefaultText>«Не волнуйся, здесь мы в безопасности».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>2</ID>
-      <DefaultText>"Все слишком взволнованы. Порталы и раньше были открыты, но Скорбь никогда ими не пользовалась".</DefaultText>
+      <DefaultText>«Все слишком взволнованы. Порталы и раньше были открыты, но Скорбь никогда ими не пользовалась».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>3</ID>
-      <DefaultText>"Я уже рассказывал тебе свою теорию о гробнице?"</DefaultText>
+      <DefaultText>«Я уже рассказывал тебе свою теорию о гробнице?»</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>4</ID>
-      <DefaultText>"Не обращай внимания на остальных".</DefaultText>
+      <DefaultText>«Не обращай внимания на остальных».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -31,17 +31,17 @@
     </Entry>
     <Entry>
       <ID>6</ID>
-      <DefaultText>"Но ты снова забываешь о гробнице".</DefaultText>
+      <DefaultText>«Но ты снова забываешь о гробнице».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>7</ID>
-      <DefaultText>"Чем еще объяснить мирные годы?"</DefaultText>
+      <DefaultText>«Чем еще объяснить мирные годы?»</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>8</ID>
-      <DefaultText>"Нет. Ты перегибаешь палку".</DefaultText>
+      <DefaultText>«Нет. Ты перегибаешь палку».</DefaultText>
       <FemaleText />
     </Entry>
   </Entries>

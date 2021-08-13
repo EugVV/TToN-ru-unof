@@ -6,27 +6,27 @@
   <Entries>
     <Entry>
       <ID>1</ID>
-      <DefaultText>"Мой хмурый друг не слишком доверяет незнакомцам. Не обращай внимания".</DefaultText>
+      <DefaultText>«Мой хмурый друг не слишком доверяет незнакомцам. Не обращай внимания».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>2</ID>
-      <DefaultText>"Приходи поболтать в любое время. Я люблю встречаться с местными. Мы будем часто видеться".</DefaultText>
+      <DefaultText>«Приходи поболтать в любое время. Я люблю встречаться с местными. Мы будем часто видеться».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>3</ID>
-      <DefaultText>"Мне нравится здешняя атмосфера. Она... как бы это сказать? Оптимистичная".</DefaultText>
+      <DefaultText>«Мне нравится здешняя атмосфера. Она... как бы это сказать? Оптимистичная».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>4</ID>
-      <DefaultText>"Это хорошее место. Много возможностей начать свое дело".</DefaultText>
+      <DefaultText>«Это хорошее место. Много возможностей начать свое дело».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>5</ID>
-      <DefaultText>"Еще увидимся, друг".</DefaultText>
+      <DefaultText>«Еще увидимся, друг».</DefaultText>
       <FemaleText />
     </Entry>
   </Entries>

@@ -11,27 +11,27 @@
     </Entry>
     <Entry>
       <ID>5</ID>
-      <DefaultText>"Уходим отсюда, братья и сестры! Портал в Некрополь всё ещё работает!"</DefaultText>
+      <DefaultText>«Уходим отсюда, братья и сестры! Портал в Некрополь всё ещё работает!»</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>6</ID>
-      <DefaultText>"Боже мой, она здесь! Она всех нас убьет!"</DefaultText>
+      <DefaultText>«Боже мой, она здесь! Она всех нас убьет!»</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>7</ID>
-      <DefaultText>"Я не буду сидеть сложа руки и ждать, пока вы все перестанете бояться".</DefaultText>
+      <DefaultText>«Я не буду сидеть сложа руки и ждать, пока вы все перестанете бояться».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>8</ID>
-      <DefaultText>"Я... вернусь. Я пойду за помощью. Я... боже милостивый..."</DefaultText>
+      <DefaultText>«Я... вернусь. Я пойду за помощью. Я... боже милостивый...»</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>9</ID>
-      <DefaultText>"Используй эти щиты!"</DefaultText>
+      <DefaultText>«Используй эти щиты!»</DefaultText>
       <FemaleText />
     </Entry>
   </Entries>

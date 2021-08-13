@@ -6,27 +6,27 @@
   <Entries>
     <Entry>
       <ID>1</ID>
-      <DefaultText>"Не самое лучшее время для разговоров, извини. Я одновременно веду несколько переговоров. Немного сбивает с толку".</DefaultText>
+      <DefaultText>«Не самое лучшее время для разговоров, извини. Я одновременно веду несколько переговоров. Немного сбивает с толку».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>2</ID>
-      <DefaultText>"Гибра хотят договориться быстро, что странно для них. Хотя не могу пожаловаться!"</DefaultText>
+      <DefaultText>«Гибра хотят договориться быстро, что странно для них. Хотя не могу пожаловаться!»</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>3</ID>
-      <DefaultText>"О, любезный. Ты прервал мою мысль. Так о чём я думал?"</DefaultText>
-      <FemaleText>"О, любезная. Ты прервала мою мысль. Так о чём я думал?"</FemaleText>
+      <DefaultText>«О, любезный. Ты прервал мою мысль. Так о чём я думал?»</DefaultText>
+      <FemaleText>«О, любезная. Ты прервала мою мысль. Так о чём я думал?»</FemaleText>
     </Entry>
     <Entry>
       <ID>4</ID>
-      <DefaultText>"А! Вспомнил, что я... нет, нет, не то".</DefaultText>
+      <DefaultText>«А! Вспомнил, что я... нет, нет, не то».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>5</ID>
-      <DefaultText>"Ну ничего себе!"</DefaultText>
+      <DefaultText>«Ну ничего себе!»</DefaultText>
       <FemaleText />
     </Entry>
   </Entries>

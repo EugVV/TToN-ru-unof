@@ -16,7 +16,7 @@
     </Entry>
     <Entry>
       <ID>3</ID>
-      <DefaultText>"Ты и есть фобит?"</DefaultText>
+      <DefaultText>«Ты и есть фобит?»</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -26,7 +26,7 @@
     </Entry>
     <Entry>
       <ID>5</ID>
-      <DefaultText>"Ты можешь разговаривать?"</DefaultText>
+      <DefaultText>«Ты можешь разговаривать?»</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -41,12 +41,12 @@
     </Entry>
     <Entry>
       <ID>8</ID>
-      <DefaultText>"Как ты работаешь?"</DefaultText>
+      <DefaultText>«Как ты работаешь?»</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>9</ID>
-      <DefaultText>"Повтори, как ты работаешь?".</DefaultText>
+      <DefaultText>«Повтори, как ты работаешь?».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -70,7 +70,7 @@
     </Entry>
     <Entry>
       <ID>13</ID>
-      <DefaultText>"Я ищу круглый предмет из темного прозрачного материала — магматический аннулет. Тебе он не попадался?"</DefaultText>
+      <DefaultText>«Я ищу круглый предмет из темного прозрачного материала — магматический аннулет. Тебе он не попадался?»</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -87,12 +87,12 @@
     </Entry>
     <Entry>
       <ID>16</ID>
-      <DefaultText>"Почему закрылась пещера?"</DefaultText>
+      <DefaultText>«Почему закрылась пещера?»</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>17</ID>
-      <DefaultText>"Покажите мне еще раз существо в пещере".</DefaultText>
+      <DefaultText>«Покажите мне еще раз существо в пещере».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -112,7 +112,7 @@
     </Entry>
     <Entry>
       <ID>21</ID>
-      <DefaultText>"*Ты* закрыл пещеру, ведь так? Ты можешь ее открыть для меня?"</DefaultText>
+      <DefaultText>«*Ты* закрыл пещеру, ведь так? Ты можешь ее открыть для меня?»</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -134,12 +134,12 @@
     </Entry>
     <Entry>
       <ID>25</ID>
-      <DefaultText>"Ты пропустишь меня туда, где погибли квишамис?"</DefaultText>
+      <DefaultText>«Ты пропустишь меня туда, где погибли квишамис?»</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>26</ID>
-      <DefaultText>"Человек, убивший квишамис... Он сейчас здесь?"</DefaultText>
+      <DefaultText>«Человек, убивший квишамис... Он сейчас здесь?»</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -151,14 +151,14 @@
     </Entry>
     <Entry>
       <ID>28</ID>
-      <DefaultText>Мелькает фиолетовый свет — "нет". Секундой позже вы ощущаете пульсацию по всему телу, означающую "да".
+      <DefaultText>Мелькает фиолетовый свет — «нет». Секундой позже вы ощущаете пульсацию по всему телу, означающую «да».
 
 Больше ничего не происходит.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>29</ID>
-      <DefaultText>"Прощай".</DefaultText>
+      <DefaultText>«Прощай».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -173,12 +173,12 @@
     </Entry>
     <Entry>
       <ID>33</ID>
-      <DefaultText>"Можешь рассказать мне о людях, расположившихся лагерем вокруг Голоса?"</DefaultText>
+      <DefaultText>«Можешь рассказать мне о людях, расположившихся лагерем вокруг Голоса?»</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>34</ID>
-      <DefaultText>"Покажи мне, что случилось с квишамисом еще раз".</DefaultText>
+      <DefaultText>«Покажи мне, что случилось с квишамисом еще раз».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -188,7 +188,7 @@
     </Entry>
     <Entry>
       <ID>36</ID>
-      <DefaultText>У вас сильное ощущение, что пульсация означает "Да". Этот фобит отличается от других. У него могут отсутствовать коммуникативные качества Голоса, но тем не менее он пытается говорить с вами.</DefaultText>
+      <DefaultText>У вас сильное ощущение, что пульсация означает «Да». Этот фобит отличается от других. У него могут отсутствовать коммуникативные качества Голоса, но тем не менее он пытается говорить с вами.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -276,7 +276,7 @@
     </Entry>
     <Entry>
       <ID>53</ID>
-      <DefaultText>"I don't understand."</DefaultText>
+      <DefaultText>«I don't understand.»</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -297,7 +297,7 @@
       <ID>56</ID>
       <DefaultText>Кристалл испускает очередной одиночный толчок, встряхивающий ваше тело.
 
-У вас сильное ощущение, что пульсация означает "Да". Фобит не похож на остальные, виденные вами. У него могут отсутствовать коммуникативные качества Голоса, но тем не менее он пытается говорить с вами.</DefaultText>
+У вас сильное ощущение, что пульсация означает «Да». Фобит не похож на остальные, виденные вами. У него могут отсутствовать коммуникативные качества Голоса, но тем не менее он пытается говорить с вами.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>

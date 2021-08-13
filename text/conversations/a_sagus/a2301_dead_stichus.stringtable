@@ -21,17 +21,17 @@
     </Entry>
     <Entry>
       <ID>4</ID>
-      <DefaultText>""</DefaultText>
+      <DefaultText>«»</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>5</ID>
-      <DefaultText>""</DefaultText>
+      <DefaultText>«»</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>6</ID>
-      <DefaultText>""</DefaultText>
+      <DefaultText>«»</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -93,9 +93,9 @@
     </Entry>
     <Entry>
       <ID>21</ID>
-      <DefaultText>Вы осматриваете стены и потолок. 
+      <DefaultText>Вы осматриваете стены и потолок.
 
-Мало кто знает о обычае стихусов под названием "тоннель смерти", яркий пример которого вы видите своими глазами. Видимо, эта особь была старой или больной и решила умереть, чтобы не быть обузой для сородичей.</DefaultText>
+Мало кто знает о обычае стихусов под названием «тоннель смерти», яркий пример которого вы видите своими глазами. Видимо, эта особь была старой или больной и решила умереть, чтобы не быть обузой для сородичей.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>

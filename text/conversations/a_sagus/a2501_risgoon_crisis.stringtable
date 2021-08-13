@@ -26,7 +26,7 @@
     </Entry>
     <Entry>
       <ID>8</ID>
-      <DefaultText>["Easiest meal we've earned in months!"
+      <DefaultText>[«Easiest meal we've earned in months!»
 takes the money, guestures to his friend and they walk away]</DefaultText>
       <FemaleText />
     </Entry>
@@ -37,7 +37,7 @@ takes the money, guestures to his friend and they walk away]</DefaultText>
     </Entry>
     <Entry>
       <ID>10</ID>
-      <DefaultText>["sorry, its just bussiness"]</DefaultText>
+      <DefaultText>[«sorry, its just bussiness»]</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -67,7 +67,7 @@ takes the money, guestures to his friend and they walk away]</DefaultText>
     </Entry>
     <Entry>
       <ID>16</ID>
-      <DefaultText>"Мы будем драться или болтать?"</DefaultText>
+      <DefaultText>«Мы будем драться или болтать?»</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -82,16 +82,16 @@ takes the money, guestures to his friend and they walk away]</DefaultText>
     </Entry>
     <Entry>
       <ID>22</ID>
-      <DefaultText>Она поднимает брови и бросает взгляд на свою спутницу. 
+      <DefaultText>Она поднимает брови и бросает взгляд на свою спутницу.
 
-"За драки с берсерками нам вроде не платят, а?" — ее напарница задумывается, затем качает головой. 
+«За драки с берсерками нам вроде не платят, а?» — ее напарница задумывается, затем качает головой.
 
-"Удачи с отмщением, Рис", — произносит она, убирая оружие. "Мы вернем твои шины... если выживешь", — она сопровождает эти слова многозначительным взглядом в вашу сторону, затем удаляется вместе с напарницей.</DefaultText>
+«Удачи с отмщением, Рис», — произносит она, убирая оружие. «Мы вернем твои шины... если выживешь», — она сопровождает эти слова многозначительным взглядом в вашу сторону, затем удаляется вместе с напарницей.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>23</ID>
-      <DefaultText>"Ха. Еще бы".</DefaultText>
+      <DefaultText>«Ха. Еще бы».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>

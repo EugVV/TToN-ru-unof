@@ -21,7 +21,7 @@
     </Entry>
     <Entry>
       <ID>4</ID>
-      <DefaultText>"Что ты до сих пор здесь делаешь?" — отрезает Белеазар, протирая воспаленные глаза рукавом одежды.</DefaultText>
+      <DefaultText>«Что ты до сих пор здесь делаешь?» — отрезает Белеазар, протирая воспаленные глаза рукавом одежды.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -31,13 +31,13 @@
     </Entry>
     <Entry>
       <ID>7</ID>
-      <DefaultText>""
+      <DefaultText>«»
 {GAVIN: Gating with blank global for now. This is another Order of Truth faction quest branch. Disable this node when a conclusion is reached in one of the branches.}</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>8</ID>
-      <DefaultText>""</DefaultText>
+      <DefaultText>«»</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -72,14 +72,14 @@
     </Entry>
     <Entry>
       <ID>19</ID>
-      <DefaultText>"Мне казалось, я попросил оставить меня в покое!"</DefaultText>
+      <DefaultText>«Мне казалось, я попросил оставить меня в покое!»</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>20</ID>
       <DefaultText>Белеазар склоняется над рабочим столом, переворачивая страницы потертого от времени бестиария.
 
-"О. Привет", — говорит он со слабой улыбкой.</DefaultText>
+«О. Привет», — говорит он со слабой улыбкой.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -89,24 +89,24 @@
     </Entry>
     <Entry>
       <ID>22</ID>
-      <DefaultText>"Привет!" — говорит он и машет рукой. Куски плоти нихтемерона разлетаются во все стороны.</DefaultText>
+      <DefaultText>«Привет!» — говорит он и машет рукой. Куски плоти нихтемерона разлетаются во все стороны.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>23</ID>
-      <DefaultText>"Ты? Тебе не достаточно было один раз испортить мой труд? Твои друзья исследователи платят тебе за то, что ты приходишь и смеешься надо мной?"</DefaultText>
+      <DefaultText>«Ты? Тебе не достаточно было один раз испортить мой труд? Твои друзья исследователи платят тебе за то, что ты приходишь и смеешься надо мной?»</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>24</ID>
-      <DefaultText>"Это орден Истины", — говорит он. — "Если я не на полевых исследованиях, то работаю здесь".
+      <DefaultText>«Это орден Истины», — говорит он. — «Если я не на полевых исследованиях, то работаю здесь».
 
 Он неловко подмигивает вам.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>25</ID>
-      <DefaultText>"Что? *Ох*", — говорит он, пытаясь сделать хитрый взгляд. "Рад тебя видеть", — громко произносит он. — "Я изучаю биомеханические организмы. Например, нихтемеронов".
+      <DefaultText>«Что? *Ох*», — говорит он, пытаясь сделать хитрый взгляд. «Рад тебя видеть», — громко произносит он. — «Я изучаю биомеханические организмы. Например, нихтемеронов».
 
 Он снова вам подмигивает.</DefaultText>
       <FemaleText />
@@ -118,165 +118,165 @@
     </Entry>
     <Entry>
       <ID>27</ID>
-      <DefaultText>"Что ты здесь делаешь?"</DefaultText>
+      <DefaultText>«Что ты здесь делаешь?»</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>28</ID>
-      <DefaultText>"Что ты здесь делаешь?"</DefaultText>
+      <DefaultText>«Что ты здесь делаешь?»</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>29</ID>
-      <DefaultText>"Прощай".</DefaultText>
+      <DefaultText>«Прощай».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>30</ID>
-      <DefaultText>"Ммм? Ах, да. Прощай".</DefaultText>
+      <DefaultText>«Ммм? Ах, да. Прощай».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>31</ID>
-      <DefaultText>"Я... это орден Истины", — говорит он озадаченно. — "Я здесь работаю".</DefaultText>
+      <DefaultText>«Я... это орден Истины», — говорит он озадаченно. — «Я здесь работаю».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>32</ID>
-      <DefaultText>"Я изучаю биомеханические организмы", — говорит он, хмурясь и опустив плечи. "Ты меня помнишь, верно? Мы встречались на Малом Круге".</DefaultText>
+      <DefaultText>«Я изучаю биомеханические организмы», — говорит он, хмурясь и опустив плечи. «Ты меня помнишь, верно? Мы встречались на Малом Круге».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>33</ID>
-      <DefaultText>"Ничего. Не. Трогай", — шипит он. — "Тобой и так уже достаточно сделано для разрушения моей работы и репутации!"</DefaultText>
+      <DefaultText>«Ничего. Не. Трогай», — шипит он. — «Тобой и так уже достаточно сделано для разрушения моей работы и репутации!»</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>34</ID>
-      <DefaultText>"Я, я почти выяснил, что не так", — бормочет он. — "Ничего не трогай!"</DefaultText>
+      <DefaultText>«Я, я почти выяснил, что не так», — бормочет он. — «Ничего не трогай!»</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>37</ID>
-      <DefaultText>"Меня ещё не исключили из ордена", — говорит он, и его шея начинает краснеть. — "Несмотря на твои старания".</DefaultText>
+      <DefaultText>«Меня ещё не исключили из ордена», — говорит он, и его шея начинает краснеть. — «Несмотря на твои старания».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>38</ID>
-      <DefaultText>"О нет", — говорит он, мотая головой. — "Ты больше ничего от меня не получишь. Оставь меня в покое!"</DefaultText>
+      <DefaultText>«О нет», — говорит он, мотая головой. — «Ты больше ничего от меня не получишь. Оставь меня в покое!»</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>39</ID>
-      <DefaultText>""</DefaultText>
+      <DefaultText>«»</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>40</ID>
-      <DefaultText>""</DefaultText>
+      <DefaultText>«»</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>41</ID>
-      <DefaultText>""</DefaultText>
+      <DefaultText>«»</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>42</ID>
-      <DefaultText>""</DefaultText>
+      <DefaultText>«»</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>43</ID>
-      <DefaultText>""</DefaultText>
+      <DefaultText>«»</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>44</ID>
-      <DefaultText>""</DefaultText>
+      <DefaultText>«»</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>46</ID>
-      <DefaultText>""</DefaultText>
+      <DefaultText>«»</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>47</ID>
-      <DefaultText>"Как хочешь".</DefaultText>
+      <DefaultText>«Как хочешь».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>50</ID>
-      <DefaultText>""
+      <DefaultText>«»
 {GAVIN: Add new CharacterWitness variable to account for him changing his mind.}</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>51</ID>
-      <DefaultText>""</DefaultText>
+      <DefaultText>«»</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>52</ID>
-      <DefaultText>""</DefaultText>
+      <DefaultText>«»</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>53</ID>
-      <DefaultText>""</DefaultText>
+      <DefaultText>«»</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>54</ID>
-      <DefaultText>""</DefaultText>
+      <DefaultText>«»</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>55</ID>
-      <DefaultText>""</DefaultText>
+      <DefaultText>«»</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>56</ID>
-      <DefaultText>""</DefaultText>
+      <DefaultText>«»</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>57</ID>
-      <DefaultText>""</DefaultText>
+      <DefaultText>«»</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>58</ID>
-      <DefaultText>""</DefaultText>
+      <DefaultText>«»</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>59</ID>
-      <DefaultText>""</DefaultText>
+      <DefaultText>«»</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>60</ID>
-      <DefaultText>"Привет!" — говорит он. Его глаза сияют изможденным, но счастливым блеском.</DefaultText>
+      <DefaultText>«Привет!» — говорит он. Его глаза сияют изможденным, но счастливым блеском.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>61</ID>
-      <DefaultText>"Извини, что мешаю тебе изучать нихтемерона".</DefaultText>
+      <DefaultText>«Извини, что мешаю тебе изучать нихтемерона».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>62</ID>
-      <DefaultText>"О! Ты?" — он с глухим стуком опускает руки на рабочий стол. — "Так намного легче перенести позор и стыд!"
+      <DefaultText>«О! Ты?» — он с глухим стуком опускает руки на рабочий стол. — «Так намного легче перенести позор и стыд!»
 
 Он растирает ушибленную руку, пристально глядя на вас.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>63</ID>
-      <DefaultText>"Даже не смотри на меня!" — вопит он. — "Ты больше никому не расскажешь, над чем я теперь работаю!"</DefaultText>
+      <DefaultText>«Даже не смотри на меня!» — вопит он. — «Ты больше никому не расскажешь, над чем я теперь работаю!»</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -291,58 +291,58 @@
     </Entry>
     <Entry>
       <ID>67</ID>
-      <DefaultText>"Это орден Истины", — говорит он, хмурясь. — "Если я не на полевых исследованиях, то работаю здесь. Думаешь, я всё время провожу на Малом Круге?"</DefaultText>
+      <DefaultText>«Это орден Истины», — говорит он, хмурясь. — «Если я не на полевых исследованиях, то работаю здесь. Думаешь, я всё время провожу на Малом Круге?»</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>68</ID>
-      <DefaultText>"Ты..." — он снова хмурится. — "Ты правда не помнишь? Я изучаю биомеханические организмы. С твоей помощью у меня появился нихтемерон".</DefaultText>
+      <DefaultText>«Ты...» — он снова хмурится. — «Ты правда не помнишь? Я изучаю биомеханические организмы. С твоей помощью у меня появился нихтемерон».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>69</ID>
-      <DefaultText>"Напомни, зачем ты здесь?"</DefaultText>
+      <DefaultText>«Напомни, зачем ты здесь?»</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>70</ID>
-      <DefaultText>"Я изучаю биомеханические организмы".</DefaultText>
+      <DefaultText>«Я изучаю биомеханические организмы».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>71</ID>
-      <DefaultText>"Я изучаю биомеханические организмы".</DefaultText>
+      <DefaultText>«Я изучаю биомеханические организмы».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>72</ID>
-      <DefaultText>"Я изучаю биомеханические организмы, например, нихтемеронов. И другие вещи".</DefaultText>
+      <DefaultText>«Я изучаю биомеханические организмы, например, нихтемеронов. И другие вещи».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>73</ID>
-      <DefaultText>"Хватит со мной говорить! Оставь меня в покое!"</DefaultText>
+      <DefaultText>«Хватит со мной говорить! Оставь меня в покое!»</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>74</ID>
-      <DefaultText>"Я изучаю организмы", — говорит он, восхищенно рассматривая рисунок листа с металлической резьбой в записях Эль-Джинто. — "Биомеханические".</DefaultText>
+      <DefaultText>«Я изучаю организмы», — говорит он, восхищенно рассматривая рисунок листа с металлической резьбой в записях Эль-Джинто. — «Биомеханические».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>75</ID>
-      <DefaultText>"Я..." — начинает он, переворачивая страницу. Его бровь приподнимается, демонстрируя глубокий интерес. 
+      <DefaultText>«Я...» — начинает он, переворачивая страницу. Его бровь приподнимается, демонстрируя глубокий интерес.
 
-"Видел другое существо с такой же отметиной..." — бормочет он. — "Биомеханическое? Нет. Органический камень?"
+«Видел другое существо с такой же отметиной...» — бормочет он. — «Биомеханическое? Нет. Органический камень?»
 
 Он явно забыл, что вы здесь.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>76</ID>
-      <DefaultText>"Что?" — бормочет он, почти не слушая. Заметки Эль-Джинто явно привлекают его внимание.
+      <DefaultText>«Что?» — бормочет он, почти не слушая. Заметки Эль-Джинто явно привлекают его внимание.
 
-"А", — говорит он наконец, не глядя на вас. — "Я из ордена Истины. Я тут работаю".
+«А», — говорит он наконец, не глядя на вас. — «Я из ордена Истины. Я тут работаю».
 
 Страницы шелестят, когда он перебирает их.</DefaultText>
       <FemaleText />

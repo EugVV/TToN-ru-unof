@@ -6,27 +6,27 @@
   <Entries>
     <Entry>
       <ID>1</ID>
-      <DefaultText>"О, привет, привет. Я освобожусь через минутку".</DefaultText>
+      <DefaultText>«О, привет, привет. Я освобожусь через минутку».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>2</ID>
-      <DefaultText>"О, я думал, ты здесь для того, чтобы поговорить о моих товарах. О моей линии *особенных* продуктов".</DefaultText>
+      <DefaultText>«О, я думал, ты здесь для того, чтобы поговорить о моих товарах. О моей линии *особенных* продуктов».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>3</ID>
-      <DefaultText>"Я продаю, если можно так сказать, восстановители. Тонизирующие средства. Порошки *особой* природы".</DefaultText>
+      <DefaultText>«Я продаю, если можно так сказать, восстановители. Тонизирующие средства. Порошки *особой* природы».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>4</ID>
-      <DefaultText>"Также у меня отлично продаются имплантаты всех форм и размеров, на любой вкус".</DefaultText>
+      <DefaultText>«Также у меня отлично продаются имплантаты всех форм и размеров, на любой вкус».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>5</ID>
-      <DefaultText>"Заглядывай в любой момент".</DefaultText>
+      <DefaultText>«Заглядывай в любой момент».</DefaultText>
       <FemaleText />
     </Entry>
   </Entries>

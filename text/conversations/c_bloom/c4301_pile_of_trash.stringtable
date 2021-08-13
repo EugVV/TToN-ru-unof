@@ -40,7 +40,7 @@
     </Entry>
     <Entry>
       <ID>6</ID>
-      <DefaultText>""</DefaultText>
+      <DefaultText>«»</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -50,17 +50,17 @@
     </Entry>
     <Entry>
       <ID>8</ID>
-      <DefaultText>"Пожалуйста, оставь меня в покое. Я отдала тебе всё, что у меня было".</DefaultText>
+      <DefaultText>«Пожалуйста, оставь меня в покое. Я отдала тебе всё, что у меня было».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>9</ID>
-      <DefaultText>"Я истекаю кровью. Моя жизнь... гаснет".</DefaultText>
+      <DefaultText>«Я истекаю кровью. Моя жизнь... гаснет».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>10</ID>
-      <DefaultText>"Боль... утихает... но почему... становится так темно?"</DefaultText>
+      <DefaultText>«Боль... утихает... но почему... становится так темно?»</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -96,12 +96,12 @@
     </Entry>
     <Entry>
       <ID>16</ID>
-      <DefaultText>"Я не причиню тебе вреда".</DefaultText>
+      <DefaultText>«Я не причиню тебе вреда».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>17</ID>
-      <DefaultText>"Я протягиваю руку и предлагаю мир".</DefaultText>
+      <DefaultText>«Я протягиваю руку и предлагаю мир».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>

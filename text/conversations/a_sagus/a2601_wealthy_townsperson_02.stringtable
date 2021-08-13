@@ -6,27 +6,27 @@
   <Entries>
     <Entry>
       <ID>1</ID>
-      <DefaultText>"Климона моя лучшая подруга, но она тратит все мое время".</DefaultText>
+      <DefaultText>«Климона моя лучшая подруга, но она тратит все мое время».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>2</ID>
-      <DefaultText>"Сегодня она ведет меня на охоту. Вчера было ныряние среди руин. Буквально".</DefaultText>
+      <DefaultText>«Сегодня она ведет меня на охоту. Вчера было ныряние среди руин. Буквально».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>3</ID>
-      <DefaultText>"Мне пришлось провести всю ночь, выжимая соленую воду и вытаскивая чертовы щупальца из волос".</DefaultText>
+      <DefaultText>«Мне пришлось провести всю ночь, выжимая соленую воду и вытаскивая чертовы щупальца из волос».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>4</ID>
-      <DefaultText>"Я очень люблю Климону, но ее *страсть* к опасным приключениям уже осточертела".</DefaultText>
+      <DefaultText>«Я очень люблю Климону, но ее *страсть* к опасным приключениям уже осточертела».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>5</ID>
-      <DefaultText>"Думаю, по крайней мере лучше быть съеденным диким зверем, чем умереть в кровати".</DefaultText>
+      <DefaultText>«Думаю, по крайней мере лучше быть съеденным диким зверем, чем умереть в кровати».</DefaultText>
       <FemaleText />
     </Entry>
   </Entries>

@@ -128,7 +128,7 @@
     </Entry>
     <Entry>
       <ID>23</ID>
-      <DefaultText>Вы обнаруживаете себя перед призрачной женщиной. Она сурово и холодно смотрит на вас: "Останови его. Он разрушил бессчётное количество жизней".</DefaultText>
+      <DefaultText>Вы обнаруживаете себя перед призрачной женщиной. Она сурово и холодно смотрит на вас: «Останови его. Он разрушил бессчётное количество жизней».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -228,14 +228,14 @@
     </Entry>
     <Entry>
       <ID>42</ID>
-      <DefaultText>""
-{GAVIN: Marking as SHOULD NOT PLAY. Add more prophecies here, including some sort of permadeath after viewing all the ones below. We should also disable the trivial ones after non-trivial is unlocked.} 
-{GAVIN: Don't disable the trivial ones. The point of this obelisk is that the visions are random. The "real" visions are only ever available if the player sufficiently messes with it. They're easter eggs. -AH}</DefaultText>
+      <DefaultText>«»
+{GAVIN: Marking as SHOULD NOT PLAY. Add more prophecies here, including some sort of permadeath after viewing all the ones below. We should also disable the trivial ones after non-trivial is unlocked.}
+{GAVIN: Don't disable the trivial ones. The point of this obelisk is that the visions are random. The «real» visions are only ever available if the player sufficiently messes with it. They're easter eggs. -AH}</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>43</ID>
-      <DefaultText>""</DefaultText>
+      <DefaultText>«»</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>

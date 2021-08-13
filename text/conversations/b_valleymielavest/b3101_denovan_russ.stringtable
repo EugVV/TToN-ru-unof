@@ -21,12 +21,12 @@
     </Entry>
     <Entry>
       <ID>4</ID>
-      <DefaultText>"Как тебя зовут?"</DefaultText>
+      <DefaultText>«Как тебя зовут?»</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>5</ID>
-      <DefaultText>"Расскажи еще раз, кто ты".</DefaultText>
+      <DefaultText>«Расскажи еще раз, кто ты».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -36,27 +36,27 @@
     </Entry>
     <Entry>
       <ID>7</ID>
-      <DefaultText>"Что ты здесь делаешь?"</DefaultText>
+      <DefaultText>«Что ты здесь делаешь?»</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>8</ID>
-      <DefaultText>"Расскажи еще раз, что ты здесь делаешь".</DefaultText>
+      <DefaultText>«Расскажи еще раз, что ты здесь делаешь».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>9</ID>
-      <DefaultText>"Пытаюсь попасть домой". Он выпускает дым в сторону Таланы. "Если у тебя есть вопросы, поговори с Таланой. Вы уже встречались, да? Да". Он вдыхает очередную порцию дыма.</DefaultText>
+      <DefaultText>«Пытаюсь попасть домой». Он выпускает дым в сторону Таланы. «Если у тебя есть вопросы, поговори с Таланой. Вы уже встречались, да? Да». Он вдыхает очередную порцию дыма.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>10</ID>
-      <DefaultText>"Ничего. Просто пыль и воспоминания".</DefaultText>
+      <DefaultText>«Ничего. Просто пыль и воспоминания».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>11</ID>
-      <DefaultText>"Денован Расс". Он бросает на вас взгляд и снова переводит его вдаль.</DefaultText>
+      <DefaultText>«Денован Расс». Он бросает на вас взгляд и снова переводит его вдаль.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -66,12 +66,12 @@
     </Entry>
     <Entry>
       <ID>13</ID>
-      <DefaultText>"Талана говорит, что ты дезертировал с Бесконечной Битвы".</DefaultText>
+      <DefaultText>«Талана говорит, что ты дезертировал с Бесконечной Битвы».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>14</ID>
-      <DefaultText>"Ты не мог бы рассказать мне о Бесконечной Битве?"</DefaultText>
+      <DefaultText>«Ты не мог бы рассказать мне о Бесконечной Битве?»</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -81,7 +81,7 @@
     </Entry>
     <Entry>
       <ID>16</ID>
-      <DefaultText>"Что ты можешь рассказать мне о Долине?"</DefaultText>
+      <DefaultText>«Что ты можешь рассказать мне о Долине?»</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -91,12 +91,12 @@
     </Entry>
     <Entry>
       <ID>18</ID>
-      <DefaultText>"Прощай".</DefaultText>
+      <DefaultText>«Прощай».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>19</ID>
-      <DefaultText>"Мм-хм".</DefaultText>
+      <DefaultText>«Мм-хм».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -107,25 +107,25 @@
     <Entry>
       <ID>21</ID>
       <DefaultText>Он задерживает дыхание. Дым ниспадает по его расслабленным пальцам, а на осунувшемся лице читается ужас. Он начинает трястись, а из горла вырывается одинокий всхлип, прежде чем он возвращается в реальность.
- 
+
  Лицо вновь приобретает безучастное выражение, и он поднимает упавшую сигарету. Сделав неспешную затяжку, он наконец расслабляется.
- 
- "Нет".</DefaultText>
+
+ «Нет».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>22</ID>
-      <DefaultText>Его дыхание прерывается, но в этот раз ему удается удержать себя в руках. "Нет. Пойди и посмотри".</DefaultText>
+      <DefaultText>Его дыхание прерывается, но в этот раз ему удается удержать себя в руках. «Нет. Пойди и посмотри».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>23</ID>
-      <DefaultText>"Пытаюсь попасть домой. Видишь эту женщину? Это Талана. У тебя есть вопросы?" — указывает он. "Да".</DefaultText>
+      <DefaultText>«Пытаюсь попасть домой. Видишь эту женщину? Это Талана. У тебя есть вопросы?» — указывает он. «Да».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>24</ID>
-      <DefaultText>"Поговори с Таланой".</DefaultText>
+      <DefaultText>«Поговори с Таланой».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>

@@ -6,37 +6,37 @@
   <Entries>
     <Entry>
       <ID>1</ID>
-      <DefaultText>"Прошу, оставь меня".</DefaultText>
+      <DefaultText>«Прошу, оставь меня».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>2</ID>
-      <DefaultText>"Вы убиваете друг друга в этом грязном мире и оставляете после себя лужи крови... Зачем?"</DefaultText>
+      <DefaultText>«Вы убиваете друг друга в этом грязном мире и оставляете после себя лужи крови... Зачем?»</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>6</ID>
-      <DefaultText>"Дочь тут просто расцвела. Умнеет. Сил набирается. А я увядаю..."</DefaultText>
+      <DefaultText>«Дочь тут просто расцвела. Умнеет. Сил набирается. А я увядаю...»</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>9</ID>
-      <DefaultText>"Мне тут не нравится. И мне сюда не хотелось. Ваше Цветение *похитило* меня из моего мира".</DefaultText>
+      <DefaultText>«Мне тут не нравится. И мне сюда не хотелось. Ваше Цветение *похитило* меня из моего мира».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>10</ID>
-      <DefaultText>"Цветение поглотило и выплюнуло меня. Кажется, внутри у меня был вкус дочери..."</DefaultText>
+      <DefaultText>«Цветение поглотило и выплюнуло меня. Кажется, внутри у меня был вкус дочери...»</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>11</ID>
-      <DefaultText>"Отвали".</DefaultText>
+      <DefaultText>«Отвали».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>12</ID>
-      <DefaultText>"Уважай мои желания!"</DefaultText>
+      <DefaultText>«Уважай мои желания!»</DefaultText>
       <FemaleText />
     </Entry>
   </Entries>

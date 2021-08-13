@@ -6,12 +6,12 @@
   <Entries>
     <Entry>
       <ID>1</ID>
-      <DefaultText>"Эти нелегалы погубят меня. Шины за это, шины за то!"</DefaultText>
+      <DefaultText>«Эти нелегалы погубят меня. Шины за это, шины за то!»</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>2</ID>
-      <DefaultText>"Ха. Наблюдать как этого бандита Арталио поедает Пасть, было самым лучшим, что я видел за все эти годы!"</DefaultText>
+      <DefaultText>«Ха. Наблюдать как этого бандита Арталио поедает Пасть, было самым лучшим, что я видел за все эти годы!»</DefaultText>
       <FemaleText />
     </Entry>
   </Entries>

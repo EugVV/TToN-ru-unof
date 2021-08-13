@@ -16,7 +16,7 @@
     </Entry>
     <Entry>
       <ID>2</ID>
-      <DefaultText>Вы с ужасом понимаете, что в портале позади вас появляется Скорбь. Зная, что вы в ловушке, эта тварь тянется к вам... 
+      <DefaultText>Вы с ужасом понимаете, что в портале позади вас появляется Скорбь. Зная, что вы в ловушке, эта тварь тянется к вам...
 
 {SOUND: Could play a Sorrow sound effect here.}</DefaultText>
       <FemaleText />
@@ -190,7 +190,7 @@
       <ID>31</ID>
       <DefaultText>На смену щелчкам приходит новый звук... жуткое жужжание, которое могло бы издавать гигантское насекомое размером с гору. Звук становится все громче.
 
-{SOUND: If doing Bloom sound effects, they should add the bone-jarring hum (but still include the usual "voice" in background),}</DefaultText>
+{SOUND: If doing Bloom sound effects, they should add the bone-jarring hum (but still include the usual «voice» in background),}</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>

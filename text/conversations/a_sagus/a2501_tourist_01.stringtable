@@ -6,27 +6,27 @@
   <Entries>
     <Entry>
       <ID>1</ID>
-      <DefaultText>"О, привет. Ты тоже собираешься в экспедицию?"</DefaultText>
+      <DefaultText>«О, привет. Ты тоже собираешься в экспедицию?»</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>2</ID>
-      <DefaultText>"Мой муж и я отложили кое-какие сбережения на *настоящую* экспедицию! Мы так счастливы".</DefaultText>
+      <DefaultText>«Мой муж и я отложили кое-какие сбережения на *настоящую* экспедицию! Мы так счастливы».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>3</ID>
-      <DefaultText>"Мы собираемся исследовать руины! Это очень популярная экспедиция. Мы сможем оставить себе *любые* нуменеры, которые найдем!"</DefaultText>
+      <DefaultText>«Мы собираемся исследовать руины! Это очень популярная экспедиция. Мы сможем оставить себе *любые* нуменеры, которые найдем!»</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>4</ID>
-      <DefaultText>"Мой муж *очень* рад".</DefaultText>
+      <DefaultText>«Мой муж *очень* рад».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>5</ID>
-      <DefaultText>"О, мне просто не терпится отправиться в экспедицию".</DefaultText>
+      <DefaultText>«О, мне просто не терпится отправиться в экспедицию».</DefaultText>
       <FemaleText />
     </Entry>
   </Entries>

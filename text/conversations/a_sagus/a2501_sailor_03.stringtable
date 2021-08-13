@@ -6,29 +6,29 @@
   <Entries>
     <Entry>
       <ID>1</ID>
-      <DefaultText>"Эй, красавчик. Я задержусь на побережье всего на несколько часов. Ты свободен?"</DefaultText>
-      <FemaleText>"Эй, красавица. Я задержусь на побережье всего на несколько часов. Ты свободна?"</FemaleText>
+      <DefaultText>«Эй, красавчик. Я задержусь на побережье всего на несколько часов. Ты свободен?»</DefaultText>
+      <FemaleText>«Эй, красавица. Я задержусь на побережье всего на несколько часов. Ты свободна?»</FemaleText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>2</ID>
-      <DefaultText>"Что означает твоя татуировка, дорогой?"</DefaultText>
-      <FemaleText>"Что означает твоя татуировка, милашка?"</FemaleText>
+      <DefaultText>«Что означает твоя татуировка, дорогой?»</DefaultText>
+      <FemaleText>«Что означает твоя татуировка, милашка?»</FemaleText>
     </Entry>
     <Entry>
       <ID>3</ID>
-      <DefaultText>"Меня называют Молотом. Угадай, почему".</DefaultText>
+      <DefaultText>«Меня называют Молотом. Угадай, почему».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>4</ID>
-      <DefaultText>"Эй. У меня тоже есть татуировка. Возможно, позже я покажу тебе её".</DefaultText>
+      <DefaultText>«Эй. У меня тоже есть татуировка. Возможно, позже я покажу тебе её».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>5</ID>
-      <DefaultText>"Ещё увидимся, дорогой".</DefaultText>
-      <FemaleText>"Ещё увидимся, дорогуша".</FemaleText>
+      <DefaultText>«Ещё увидимся, дорогой».</DefaultText>
+      <FemaleText>«Ещё увидимся, дорогуша».</FemaleText>
     </Entry>
   </Entries>
 </StringTableFile>

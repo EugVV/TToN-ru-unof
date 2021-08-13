@@ -6,17 +6,17 @@
   <Entries>
     <Entry>
       <ID>1</ID>
-      <DefaultText>"Я не спущусь туда еще раз. Неважно, сколько Корро мне заплатит".</DefaultText>
+      <DefaultText>«Я не спущусь туда еще раз. Неважно, сколько Корро мне заплатит».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>2</ID>
-      <DefaultText>"Один из дронов начал заряжаться, чтобы выстрелить в меня, но я его ударил изо всех сил, и это его остановило".</DefaultText>
+      <DefaultText>«Один из дронов начал заряжаться, чтобы выстрелить в меня, но я его ударил изо всех сил, и это его остановило».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>3</ID>
-      <DefaultText>"Эти металлические дроны внизу... они несут какую-то околесицу".</DefaultText>
+      <DefaultText>«Эти металлические дроны внизу... они несут какую-то околесицу».</DefaultText>
       <FemaleText />
     </Entry>
   </Entries>

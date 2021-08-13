@@ -6,32 +6,32 @@
   <Entries>
     <Entry>
       <ID>1</ID>
-      <DefaultText>"Говорят, в Малом Нилише открылась новая Пасть. Интересно, куда она ведет? Ну как к сокровищам?"</DefaultText>
+      <DefaultText>«Говорят, в Малом Нилише открылась новая Пасть. Интересно, куда она ведет? Ну как к сокровищам?»</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>2</ID>
-      <DefaultText>"Это ты открыл Пасть в Малом Нилише? Видать, нам с ребятами пора в путь, исследовать миры!"</DefaultText>
-      <FemaleText>"Это ты открыла Пасть в Малом Нилише? Видать, нам с ребятами пора в путь, исследовать миры!"</FemaleText>
+      <DefaultText>«Это ты открыл Пасть в Малом Нилише? Видать, нам с ребятами пора в путь, исследовать миры!»</DefaultText>
+      <FemaleText>«Это ты открыла Пасть в Малом Нилише? Видать, нам с ребятами пора в путь, исследовать миры!»</FemaleText>
     </Entry>
     <Entry>
       <ID>3</ID>
-      <DefaultText>"Устал крутиться тут без дела. Открылось бы несколько Пастей..."</DefaultText>
+      <DefaultText>«Устал крутиться тут без дела. Открылось бы несколько Пастей...»</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>4</ID>
-      <DefaultText>"В таком большом месте *куда-нибудь* да можно пойти".</DefaultText>
+      <DefaultText>«В таком большом месте *куда-нибудь* да можно пойти».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>5</ID>
-      <DefaultText>"Почему мы еще здесь? Надоело ждать".</DefaultText>
+      <DefaultText>«Почему мы еще здесь? Надоело ждать».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>6</ID>
-      <DefaultText>"Хватит болтать. Идем".</DefaultText>
+      <DefaultText>«Хватит болтать. Идем».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>

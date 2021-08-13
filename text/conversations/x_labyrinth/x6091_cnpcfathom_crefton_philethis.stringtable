@@ -8,9 +8,9 @@
       <ID>1</ID>
       <DefaultText>Когда вы приближаетесь к филету, вы видите, что его стеклянная маска — или лицо — покрыто паутиной трещин, похожих на те, появление которых на лице филета снаружи часовой башни вызвали вы. Из трещин выходит туман гниения, но по мере того, как он рассеивается, заметно, что туман не поднимается вверх, а в большей степени опускается.
 
-Филет произносит только одно слово: "Алый". Ничего больше не объяснив, он замолкает и через мгновение исчезает.
+Филет произносит только одно слово: «Алый». Ничего больше не объяснив, он замолкает и через мгновение исчезает.
 
-{WORDPLAY: "Maroon" here conjures the off-red color, the sense of castaway, and the slang term for "idiot." I doubt this will be replicable in any foreign language, so maybe just go for a reddish color that carries *some* secondary meaning.}</DefaultText>
+{WORDPLAY: «Maroon» here conjures the off-red color, the sense of castaway, and the slang term for «idiot.» I doubt this will be replicable in any foreign language, so maybe just go for a reddish color that carries *some* secondary meaning.}</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -19,7 +19,7 @@
 
 Когда вы приближаетесь, похоже, что он глубоко дышит, скрытый одеянием, но ничего не слышно — ни слов, ни шума, ни дыхания.
 
-Кажется, что его стеклянная маска смотрит на вас, но вполне возможно, что под маской он просто спит. Он просто стоит здесь, безразличный, но внезапно начинает говорить: "Сколько частиц света было пролито на землю с тех пор, как ты потревожил источник?"</DefaultText>
+Кажется, что его стеклянная маска смотрит на вас, но вполне возможно, что под маской он просто спит. Он просто стоит здесь, безразличный, но внезапно начинает говорить: «Сколько частиц света было пролито на землю с тех пор, как ты потревожил источник?»</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -59,27 +59,27 @@
     </Entry>
     <Entry>
       <ID>10</ID>
-      <DefaultText>"Ни одной".</DefaultText>
+      <DefaultText>«Ни одной».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>11</ID>
-      <DefaultText>"Одна".</DefaultText>
+      <DefaultText>«Одна».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>12</ID>
-      <DefaultText>"Несколько".</DefaultText>
+      <DefaultText>«Несколько».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>13</ID>
-      <DefaultText>"Много".</DefaultText>
+      <DefaultText>«Много».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>14</ID>
-      <DefaultText>"Я не знаю".</DefaultText>
+      <DefaultText>«Я не знаю».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -89,17 +89,17 @@
     </Entry>
     <Entry>
       <ID>16</ID>
-      <DefaultText>"Да".</DefaultText>
+      <DefaultText>«Да».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>17</ID>
-      <DefaultText>"Нет.</DefaultText>
+      <DefaultText>«Нет.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>18</ID>
-      <DefaultText>"Теленок йола получает кислое молоко из вымени матери. Тот, кто ищет более сладкое питье, старится, но никогда об этом не сожалеет. Пастух йолов льет соленые слезы, но земля все равно испытывает недостаток влаги". Его маска темнеет, но тихий безразличный голос продолжает звучать. "Ты пил свет?"</DefaultText>
+      <DefaultText>«Теленок йола получает кислое молоко из вымени матери. Тот, кто ищет более сладкое питье, старится, но никогда об этом не сожалеет. Пастух йолов льет соленые слезы, но земля все равно испытывает недостаток влаги». Его маска темнеет, но тихий безразличный голос продолжает звучать. «Ты пил свет?»</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -109,52 +109,52 @@
     </Entry>
     <Entry>
       <ID>20</ID>
-      <DefaultText>"Нет".</DefaultText>
+      <DefaultText>«Нет».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>21</ID>
-      <DefaultText>"Я оставил его в источнике".</DefaultText>
+      <DefaultText>«Я оставил его в источнике».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>22</ID>
-      <DefaultText>"Я выпил свет".</DefaultText>
+      <DefaultText>«Я выпил свет».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>23</ID>
-      <DefaultText>"Я не знаю".</DefaultText>
+      <DefaultText>«Я не знаю».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>24</ID>
-      <DefaultText>Из органов речи филета исходит сдавленное шипение. Наконец, без обвинений и наставлений, он просто говорит: "Ты знаешь".</DefaultText>
+      <DefaultText>Из органов речи филета исходит сдавленное шипение. Наконец, без обвинений и наставлений, он просто говорит: «Ты знаешь».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>25</ID>
-      <DefaultText>Филет чуть-чуть придвигается к вам. "Нет. Ты не знаешь света. Спрашивай".</DefaultText>
+      <DefaultText>Филет чуть-чуть придвигается к вам. «Нет. Ты не знаешь света. Спрашивай».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>26</ID>
-      <DefaultText>Филет чуть-чуть придвигается к вам. "Нет. Свет сожжет тебя. Спрашивай".</DefaultText>
+      <DefaultText>Филет чуть-чуть придвигается к вам. «Нет. Свет сожжет тебя. Спрашивай».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>27</ID>
-      <DefaultText>Филет чуть-чуть придвигается к вам. "Да. Спрашивай".</DefaultText>
+      <DefaultText>Филет чуть-чуть придвигается к вам. «Да. Спрашивай».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>28</ID>
-      <DefaultText>"Что такое свет? В чем смысл твоих вопросов?"</DefaultText>
+      <DefaultText>«Что такое свет? В чем смысл твоих вопросов?»</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>29</ID>
-      <DefaultText>"Почему ты здесь? *Откуда* ты здесь?"</DefaultText>
+      <DefaultText>«Почему ты здесь? *Откуда* ты здесь?»</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -164,12 +164,12 @@
     </Entry>
     <Entry>
       <ID>31</ID>
-      <DefaultText>"Что ты можешь рассказать мне об этом месте?"</DefaultText>
+      <DefaultText>«Что ты можешь рассказать мне об этом месте?»</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>32</ID>
-      <DefaultText>"Позволь спросить еще раз — что ты *можешь* рассказать мне об этом месте?"</DefaultText>
+      <DefaultText>«Позволь спросить еще раз — что ты *можешь* рассказать мне об этом месте?»</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -179,22 +179,22 @@
     </Entry>
     <Entry>
       <ID>34</ID>
-      <DefaultText>С чем-то похожим на вздох он отвечает: "Все".</DefaultText>
+      <DefaultText>С чем-то похожим на вздох он отвечает: «Все».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>35</ID>
-      <DefaultText>"Ничего".</DefaultText>
+      <DefaultText>«Ничего».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>36</ID>
-      <DefaultText>"Кто ты такой, по-твоему?"</DefaultText>
+      <DefaultText>«Кто ты такой, по-твоему?»</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>37</ID>
-      <DefaultText>"Почему я все время встречаю тебя?"</DefaultText>
+      <DefaultText>«Почему я все время встречаю тебя?»</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -204,49 +204,49 @@
     </Entry>
     <Entry>
       <ID>39</ID>
-      <DefaultText>"Можешь помочь мне?"</DefaultText>
+      <DefaultText>«Можешь помочь мне?»</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>40</ID>
-      <DefaultText>"В этой ситуации я приму любую помощь, даже от тех, кто недружелюбен ко мне".</DefaultText>
+      <DefaultText>«В этой ситуации я приму любую помощь, даже от тех, кто недружелюбен ко мне».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>41</ID>
-      <DefaultText>"Так ты не можешь помочь мне?"</DefaultText>
+      <DefaultText>«Так ты не можешь помочь мне?»</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>42</ID>
-      <DefaultText>"В чем вопрос?"</DefaultText>
+      <DefaultText>«В чем вопрос?»</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>43</ID>
-      <DefaultText>"Прощай".</DefaultText>
+      <DefaultText>«Прощай».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>44</ID>
-      <DefaultText>Голос филета двоится, как будто возникает эхо, предшествующее самому звуку. После эха слышатся слова. "Когда вопрос известен, ответ — только вывод".</DefaultText>
+      <DefaultText>Голос филета двоится, как будто возникает эхо, предшествующее самому звуку. После эха слышатся слова. «Когда вопрос известен, ответ — только вывод».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>45</ID>
-      <DefaultText>Филет поднимает свою сферическую голову и отвечает без эмоций: "Я всегда был здесь".</DefaultText>
+      <DefaultText>Филет поднимает свою сферическую голову и отвечает без эмоций: «Я всегда был здесь».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>46</ID>
-      <DefaultText>"Нет. Нам не следует этого делать".
+      <DefaultText>«Нет. Нам не следует этого делать».
 
 Спустя несколько мгновений его одежда, кажется, изгибается внутрь, и он исчезает.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>47</ID>
-      <DefaultText>"Это не вопрос".</DefaultText>
+      <DefaultText>«Это не вопрос».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -256,7 +256,7 @@
     </Entry>
     <Entry>
       <ID>49</ID>
-      <DefaultText>Лицо филета сияет жемчужным блеском, а в его голосе на этот раз слышится сильное чувство облегчения. "Теперь ты понимаешь".
+      <DefaultText>Лицо филета сияет жемчужным блеском, а в его голосе на этот раз слышится сильное чувство облегчения. «Теперь ты понимаешь».
 
 Спустя несколько мгновений его одежда, кажется, изгибается внутрь, и он исчезает.</DefaultText>
       <FemaleText />
@@ -288,12 +288,12 @@
     </Entry>
     <Entry>
       <ID>56</ID>
-      <DefaultText>Из-под тяжелого одеяния филета доносится протяжный стон. Голос, который затем звучит, по сравнению с этим стоном кажется высоким и писклявым. "Развратник, лишенный других удовольствий, решил обняться с холодным нихтемероном. Вкусен был роман, как и сам распутник".</DefaultText>
+      <DefaultText>Из-под тяжелого одеяния филета доносится протяжный стон. Голос, который затем звучит, по сравнению с этим стоном кажется высоким и писклявым. «Развратник, лишенный других удовольствий, решил обняться с холодным нихтемероном. Вкусен был роман, как и сам распутник».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>57</ID>
-      <DefaultText>Одеяния то поднимаются, то опускаются. Что-то небольшое движется под ними. Затем оно отвечает: "В башне из слоновой кости Госпожа слышит вой из секций наблюдения. Делаются заметки. Действия не предпринимаются".</DefaultText>
+      <DefaultText>Одеяния то поднимаются, то опускаются. Что-то небольшое движется под ними. Затем оно отвечает: «В башне из слоновой кости Госпожа слышит вой из секций наблюдения. Делаются заметки. Действия не предпринимаются».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -313,7 +313,7 @@
     </Entry>
     <Entry>
       <ID>62</ID>
-      <DefaultText>"Я все еще не понимаю, почему тебе так не нравится этот филет".</DefaultText>
+      <DefaultText>«Я все еще не понимаю, почему тебе так не нравится этот филет».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>

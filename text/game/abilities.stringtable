@@ -1931,7 +1931,7 @@
     </Entry>
     <Entry>
       <ID>385</ID>
-      <DefaultText>Не получает эффект "Обход с фланга", когда окружен врагами.</DefaultText>
+      <DefaultText>Не получает эффект «Обход с фланга», когда окружен врагами.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -5106,7 +5106,7 @@
     </Entry>
     <Entry>
       <ID>1021</ID>
-      <DefaultText>Атаки от способностей "Оппортунист" и "Контратака" при попадании завершают ход цели.</DefaultText>
+      <DefaultText>Атаки от способностей «Оппортунист» и «Контратака» при попадании завершают ход цели.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>

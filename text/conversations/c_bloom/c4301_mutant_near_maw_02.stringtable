@@ -6,12 +6,12 @@
   <Entries>
     <Entry>
       <ID>1</ID>
-      <DefaultText>"Видел ли я Пасть? Да она вырвалась прямо из стены и разрушила мой чертов дом!"</DefaultText>
+      <DefaultText>«Видел ли я Пасть? Да она вырвалась прямо из стены и разрушила мой чертов дом!»</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>3</ID>
-      <DefaultText>"Кажется, Мемовира нужна, чтобы держать Пасти под контролем..."</DefaultText>
+      <DefaultText>«Кажется, Мемовира нужна, чтобы держать Пасти под контролем...»</DefaultText>
       <FemaleText />
     </Entry>
   </Entries>

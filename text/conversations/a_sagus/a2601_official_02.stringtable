@@ -6,32 +6,32 @@
   <Entries>
     <Entry>
       <ID>1</ID>
-      <DefaultText>"Я сейчас не могу говорить. Важный момент переговоров".</DefaultText>
+      <DefaultText>«Я сейчас не могу говорить. Важный момент переговоров».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>2</ID>
-      <DefaultText>"Мадам Блан представляет Семьи Рабов на переговорах с гибра".</DefaultText>
+      <DefaultText>«Мадам Блан представляет Семьи Рабов на переговорах с гибра».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>3</ID>
-      <DefaultText>"Думаю, что переговоры пройдут довольно хорошо. Удивительно".</DefaultText>
+      <DefaultText>«Думаю, что переговоры пройдут довольно хорошо. Удивительно».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>4</ID>
-      <DefaultText>"Мадам Блан — не самый лучший представитель, который у нас есть".</DefaultText>
+      <DefaultText>«Мадам Блан — не самый лучший представитель, который у нас есть».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>5</ID>
-      <DefaultText>"Не могу так сказать".</DefaultText>
+      <DefaultText>«Не могу так сказать».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>6</ID>
-      <DefaultText>"Не сейчас. Мне надо сконцентрироваться".</DefaultText>
+      <DefaultText>«Не сейчас. Мне надо сконцентрироваться».</DefaultText>
       <FemaleText />
     </Entry>
   </Entries>

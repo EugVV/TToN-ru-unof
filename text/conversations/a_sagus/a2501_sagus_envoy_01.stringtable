@@ -6,22 +6,22 @@
   <Entries>
     <Entry>
       <ID>1</ID>
-      <DefaultText>"Прости. Тебе не попадался очень важного вида конверт с тиснением?"</DefaultText>
+      <DefaultText>«Прости. Тебе не попадался очень важного вида конверт с тиснением?»</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>2</ID>
-      <DefaultText>::вздыхает:: "Я потерял свои документы. Теперь я вряд ли пройду через пропускной пункт".</DefaultText>
+      <DefaultText>::вздыхает:: «Я потерял свои документы. Теперь я вряд ли пройду через пропускной пункт».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>3</ID>
-      <DefaultText>"Ой, какой же я дурак. Вот ведь мои бумаги — в кармане лежат!"</DefaultText>
+      <DefaultText>«Ой, какой же я дурак. Вот ведь мои бумаги — в кармане лежат!»</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>4</ID>
-      <DefaultText>"О, ну вот. Где мои деньги?"</DefaultText>
+      <DefaultText>«О, ну вот. Где мои деньги?»</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>

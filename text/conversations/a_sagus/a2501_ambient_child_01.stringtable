@@ -6,27 +6,27 @@
   <Entries>
     <Entry>
       <ID>1</ID>
-      <DefaultText>"Разве корабли не прекрасны?"</DefaultText>
+      <DefaultText>«Разве корабли не прекрасны?»</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>2</ID>
-      <DefaultText>"Мне позволено быть здесь самому по себе. Моя мать так говорит".</DefaultText>
+      <DefaultText>«Мне позволено быть здесь самому по себе. Моя мать так говорит».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>3</ID>
-      <DefaultText>"Ты не скажешь никому, что я здесь, правда? Я в смысле, мне позволено быть здесь самому по себе".</DefaultText>
+      <DefaultText>«Ты не скажешь никому, что я здесь, правда? Я в смысле, мне позволено быть здесь самому по себе».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>4</ID>
-      <DefaultText>"Пожалуйста, никому не говори , что я здесь".</DefaultText>
+      <DefaultText>«Пожалуйста, никому не говори , что я здесь».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>5</ID>
-      <DefaultText>"Ты можешь сказать моей матери, что я здесь приглядываю за кораблями. Она не будет возражать".</DefaultText>
+      <DefaultText>«Ты можешь сказать моей матери, что я здесь приглядываю за кораблями. Она не будет возражать».</DefaultText>
       <FemaleText />
     </Entry>
   </Entries>

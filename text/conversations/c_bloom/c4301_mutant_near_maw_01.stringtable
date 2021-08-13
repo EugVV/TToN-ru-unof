@@ -6,22 +6,22 @@
   <Entries>
     <Entry>
       <ID>1</ID>
-      <DefaultText>"Интересно, что привлекает эту Пасть. Может быть, высокомерие... или зелёный цвет... или девочки с оленьими рогами".</DefaultText>
+      <DefaultText>«Интересно, что привлекает эту Пасть. Может быть, высокомерие... или зелёный цвет... или девочки с оленьими рогами».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>3</ID>
-      <DefaultText>"Больше не надо гадать, что привлекает эту Пасть, фу-у!"</DefaultText>
+      <DefaultText>«Больше не надо гадать, что привлекает эту Пасть, фу-у!»</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>4</ID>
-      <DefaultText>"Не знаю, *что* привлекает Пасть, но я не собираюсь подходить к ним близко".</DefaultText>
+      <DefaultText>«Не знаю, *что* привлекает Пасть, но я не собираюсь подходить к ним близко».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>5</ID>
-      <DefaultText>"Я наблюдал, как открывается Пасть... но лучше бы я этого не видел".</DefaultText>
+      <DefaultText>«Я наблюдал, как открывается Пасть... но лучше бы я этого не видел».</DefaultText>
       <FemaleText />
     </Entry>
   </Entries>

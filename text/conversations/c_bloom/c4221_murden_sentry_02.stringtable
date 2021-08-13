@@ -16,17 +16,17 @@
     </Entry>
     <Entry>
       <ID>3</ID>
-      <DefaultText>"Хккккхккк. сссССсс!"</DefaultText>
+      <DefaultText>«Хккккхккк. сссССсс!»</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>4</ID>
-      <DefaultText>"Что, не хочешь со мной говорить?"</DefaultText>
+      <DefaultText>«Что, не хочешь со мной говорить?»</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>5</ID>
-      <DefaultText>"Мне нужно с тобой поговорить".</DefaultText>
+      <DefaultText>«Мне нужно с тобой поговорить».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -41,7 +41,7 @@
     </Entry>
     <Entry>
       <ID>8</ID>
-      <DefaultText>"Прощай".</DefaultText>
+      <DefaultText>«Прощай».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -51,7 +51,7 @@
     </Entry>
     <Entry>
       <ID>10</ID>
-      <DefaultText>"Хккккхккк. сссССсс!"</DefaultText>
+      <DefaultText>«Хккккхккк. сссССсс!»</DefaultText>
       <FemaleText />
     </Entry>
   </Entries>

@@ -146,23 +146,23 @@
     </Entry>
     <Entry>
       <ID>30</ID>
-      <DefaultText>["You leave our new charge undefended just to save your own skin? I should have expected no less, I suppose."]</DefaultText>
+      <DefaultText>[«You leave our new charge undefended just to save your own skin? I should have expected no less, I suppose.»]</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>31</ID>
-      <DefaultText>["Convenient for you to find such protection right where we're ambushed!"]</DefaultText>
+      <DefaultText>[«Convenient for you to find such protection right where we're ambushed!»]</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>32</ID>
-      <DefaultText>["Fine work, castoff!"]</DefaultText>
+      <DefaultText>[«Fine work, castoff!»]</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>33</ID>
-      <DefaultText>["Quiet, you fool! Qorro can't know what he is!"]</DefaultText>
-      <FemaleText>["Quiet, you fool! Qorro can't know what she is!"]</FemaleText>
+      <DefaultText>[«Quiet, you fool! Qorro can't know what he is!»]</DefaultText>
+      <FemaleText>[«Quiet, you fool! Qorro can't know what she is!»]</FemaleText>
     </Entry>
     <Entry>
       <ID>34</ID>
@@ -221,57 +221,57 @@
     </Entry>
     <Entry>
       <ID>46</ID>
-      <DefaultText>"Мы должны добраться до тела Корро! В его руку вживлено устройство, с помощью которого он управлял временным мостом. Теперь это устройство никто не контролирует, а без него реле управления очень скоро будут перегружены".</DefaultText>
+      <DefaultText>«Мы должны добраться до тела Корро! В его руку вживлено устройство, с помощью которого он управлял временным мостом. Теперь это устройство никто не контролирует, а без него реле управления очень скоро будут перегружены».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>47</ID>
-      <DefaultText>["Well. There would have been better outcomes, I admit."]</DefaultText>
+      <DefaultText>[«Well. There would have been better outcomes, I admit.»]</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>48</ID>
-      <DefaultText>["And *that* is how we manipulate the numenera. Any questions?"]</DefaultText>
+      <DefaultText>[«And *that* is how we manipulate the numenera. Any questions?»]</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>49</ID>
-      <DefaultText>["You ungrateful, ignorant son of an aneen! Watch what you're doing!"]</DefaultText>
+      <DefaultText>[«You ungrateful, ignorant son of an aneen! Watch what you're doing!»]</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>50</ID>
-      <DefaultText>["We're resorting to underhanded tricks now, are we?"]</DefaultText>
+      <DefaultText>[«We're resorting to underhanded tricks now, are we?»]</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>51</ID>
-      <DefaultText>["Don't worry, dear. You'll get the hang of numenera, in time."]</DefaultText>
+      <DefaultText>[«Don't worry, dear. You'll get the hang of numenera, in time.»]</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>52</ID>
-      <DefaultText>["I knew you were talented the moment we met!"]</DefaultText>
+      <DefaultText>[«I knew you were talented the moment we met!»]</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>53</ID>
-      <DefaultText>"Все в порядке, дорогуша! Я сумею тебя защитить!"</DefaultText>
+      <DefaultText>«Все в порядке, дорогуша! Я сумею тебя защитить!»</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>54</ID>
-      <DefaultText>["Aligern! We must end this quickly! His life hangs by a thread!"]</DefaultText>
-      <FemaleText>["Aligern! We must end this quickly! Her life hangs by a thread!"]</FemaleText>
+      <DefaultText>[«Aligern! We must end this quickly! His life hangs by a thread!»]</DefaultText>
+      <FemaleText>[«Aligern! We must end this quickly! Her life hangs by a thread!»]</FemaleText>
     </Entry>
     <Entry>
       <ID>55</ID>
-      <DefaultText>"Ты чертовски много знаешь о том, как это работает. Это твоя новая уловка?"</DefaultText>
+      <DefaultText>«Ты чертовски много знаешь о том, как это работает. Это твоя новая уловка?»</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>56</ID>
-      <DefaultText>Она мечет в него убийственный взгляд: "Заткнись и помоги обезвредить устройство, пока весь этот конструкт не взлетел на воздух".</DefaultText>
+      <DefaultText>Она мечет в него убийственный взгляд: «Заткнись и помоги обезвредить устройство, пока весь этот конструкт не взлетел на воздух».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -301,32 +301,32 @@
     </Entry>
     <Entry>
       <ID>63</ID>
-      <DefaultText>["Well done, dear! That will keep them busy!"]</DefaultText>
+      <DefaultText>[«Well done, dear! That will keep them busy!»]</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>64</ID>
-      <DefaultText>["Move away from there, dear! Stand behind me!"]</DefaultText>
+      <DefaultText>[«Move away from there, dear! Stand behind me!»]</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>65</ID>
-      <DefaultText>["Wittty quip!']</DefaultText>
+      <DefaultText>[«Wittty quip!']</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>66</ID>
-      <DefaultText>["It seems the very world itself objects to your presence!"]</DefaultText>
+      <DefaultText>[«It seems the very world itself objects to your presence!»]</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>67</ID>
-      <DefaultText>["Witty retort!"]</DefaultText>
+      <DefaultText>[«Witty retort!»]</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>68</ID>
-      <DefaultText>["You bother, mid-battle, to taunt me? Aligern, take this seriously, please!"]</DefaultText>
+      <DefaultText>[«You bother, mid-battle, to taunt me? Aligern, take this seriously, please!»]</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -356,22 +356,22 @@
     </Entry>
     <Entry>
       <ID>74</ID>
-      <DefaultText>["You look rather more charming like that, Aligern. No one can see you scowling."]</DefaultText>
+      <DefaultText>[«You look rather more charming like that, Aligern. No one can see you scowling.»]</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>75</ID>
-      <DefaultText>["Very funny, sisters. Next time it will be one of *you*."]</DefaultText>
+      <DefaultText>[«Very funny, sisters. Next time it will be one of *you*.»]</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>76</ID>
-      <DefaultText>["Come away from there! This construct is rife with traps for the uninitiated!"]</DefaultText>
+      <DefaultText>[«Come away from there! This construct is rife with traps for the uninitiated!»]</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>77</ID>
-      <DefaultText>["Take heed, dear! *That* is what happens you ignore the numenera!"]</DefaultText>
+      <DefaultText>[«Take heed, dear! *That* is what happens you ignore the numenera!»]</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -381,7 +381,7 @@
     </Entry>
     <Entry>
       <ID>79</ID>
-      <DefaultText>"Мне не по себе. Посмотри, как реле управления мостом стали разгораться после смерти Корро. Пожалуй, стоило бы отключить эту его перчатку, иначе у нас под носом может взорваться очередная его ловушка".</DefaultText>
+      <DefaultText>«Мне не по себе. Посмотри, как реле управления мостом стали разгораться после смерти Корро. Пожалуй, стоило бы отключить эту его перчатку, иначе у нас под носом может взорваться очередная его ловушка».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>

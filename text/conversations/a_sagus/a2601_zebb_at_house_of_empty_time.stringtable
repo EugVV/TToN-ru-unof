@@ -6,22 +6,22 @@
   <Entries>
     <Entry>
       <ID>1</ID>
-      <DefaultText>"Как эта дверь работает?"</DefaultText>
+      <DefaultText>«Как эта дверь работает?»</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>2</ID>
-      <DefaultText>"Когда я смотрю на нее, она кажется страшнее".</DefaultText>
+      <DefaultText>«Когда я смотрю на нее, она кажется страшнее».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>3</ID>
-      <DefaultText>"Что, если я не понравлюсь новой семье?"</DefaultText>
+      <DefaultText>«Что, если я не понравлюсь новой семье?»</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>4</ID>
-      <DefaultText>"Что, если дверь отправит меня... в никуда?"</DefaultText>
+      <DefaultText>«Что, если дверь отправит меня... в никуда?»</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -31,7 +31,7 @@
     </Entry>
     <Entry>
       <ID>6</ID>
-      <DefaultText>"Давайте поскорее разберемся с этим".</DefaultText>
+      <DefaultText>«Давайте поскорее разберемся с этим».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -41,7 +41,7 @@
     </Entry>
     <Entry>
       <ID>8</ID>
-      <DefaultText>"Я скучаю по Ним".</DefaultText>
+      <DefaultText>«Я скучаю по Ним».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>

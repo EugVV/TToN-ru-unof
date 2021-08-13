@@ -6,12 +6,12 @@
   <Entries>
     <Entry>
       <ID>1</ID>
-      <DefaultText>"Добрый день тебе, Гость".</DefaultText>
+      <DefaultText>«Добрый день тебе, Гость».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>2</ID>
-      <DefaultText>"Добрый вечер тебе, Гость".</DefaultText>
+      <DefaultText>«Добрый вечер тебе, Гость».</DefaultText>
       <FemaleText />
     </Entry>
   </Entries>

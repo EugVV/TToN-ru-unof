@@ -6,7 +6,7 @@
   <Entries>
     <Entry>
       <ID>1</ID>
-      <DefaultText>"Эта местность находится под защитой Нерегулярных войск Арталио".</DefaultText>
+      <DefaultText>«Эта местность находится под защитой Нерегулярных войск Арталио».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -16,8 +16,8 @@
     </Entry>
     <Entry>
       <ID>4</ID>
-      <DefaultText>"Командир!.. Простите, господин. Вы напомнили мне нашего бывшего командира".</DefaultText>
-      <FemaleText>"Командир!.. Простите, мадам. Вы напомнили мне нашего бывшего командира".</FemaleText>
+      <DefaultText>«Командир!.. Простите, господин. Вы напомнили мне нашего бывшего командира».</DefaultText>
+      <FemaleText>«Командир!.. Простите, мадам. Вы напомнили мне нашего бывшего командира».</FemaleText>
     </Entry>
     <Entry>
       <ID>5</ID>
@@ -26,17 +26,17 @@
     </Entry>
     <Entry>
       <ID>6</ID>
-      <DefaultText>"Командир!.. Простите, я принял вас за нашего капитана. Странно".</DefaultText>
+      <DefaultText>«Командир!.. Простите, я принял вас за нашего капитана. Странно».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>7</ID>
-      <DefaultText>"Благодарим за возвращение нашего знамени. Это старая драная тряпка... но мы проливали кровь под ним".</DefaultText>
+      <DefaultText>«Благодарим за возвращение нашего знамени. Это старая драная тряпка... но мы проливали кровь под ним».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>8</ID>
-      <DefaultText>"Вы вернули знамя? Ура!"</DefaultText>
+      <DefaultText>«Вы вернули знамя? Ура!»</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -46,7 +46,7 @@
     </Entry>
     <Entry>
       <ID>10</ID>
-      <DefaultText>"Пасти открываются... надеюсь, ничто сквозь них не пройдет".</DefaultText>
+      <DefaultText>«Пасти открываются... надеюсь, ничто сквозь них не пройдет».</DefaultText>
       <FemaleText />
     </Entry>
   </Entries>

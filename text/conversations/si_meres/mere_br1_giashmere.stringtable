@@ -11,12 +11,12 @@
     </Entry>
     <Entry>
       <ID>2</ID>
-      <DefaultText>"Могу я взять у тебя жертвоприношение?"</DefaultText>
+      <DefaultText>«Могу я взять у тебя жертвоприношение?»</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>3</ID>
-      <DefaultText>"Забудь".</DefaultText>
+      <DefaultText>«Забудь».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -31,7 +31,7 @@
     </Entry>
     <Entry>
       <ID>6</ID>
-      <DefaultText>"Как это понимать?"</DefaultText>
+      <DefaultText>«Как это понимать?»</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -51,17 +51,17 @@
     </Entry>
     <Entry>
       <ID>10</ID>
-      <DefaultText>"Эй, Омис. Не дашь ли мне амулет, что у тебя на шее?"</DefaultText>
+      <DefaultText>«Эй, Омис. Не дашь ли мне амулет, что у тебя на шее?»</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>11</ID>
-      <DefaultText>"Омис, по-моему, тебе стоит пойти поговорить с Най'кулом".</DefaultText>
+      <DefaultText>«Омис, по-моему, тебе стоит пойти поговорить с Най'кулом».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>12</ID>
-      <DefaultText>"Омис, по-моему, тебе стоит пойти поговорить с Най'кулом".</DefaultText>
+      <DefaultText>«Омис, по-моему, тебе стоит пойти поговорить с Най'кулом».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -81,7 +81,7 @@
     </Entry>
     <Entry>
       <ID>16</ID>
-      <DefaultText>"Эй, насчет того амулета. Я думаю, что нужно отдать его этому Отверженному".</DefaultText>
+      <DefaultText>«Эй, насчет того амулета. Я думаю, что нужно отдать его этому Отверженному».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>

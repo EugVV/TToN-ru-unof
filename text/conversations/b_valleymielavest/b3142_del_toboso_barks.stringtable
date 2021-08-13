@@ -11,17 +11,17 @@
     </Entry>
     <Entry>
       <ID>2</ID>
-      <DefaultText>"Никакой пощады! Ха! Я не сдамся!"</DefaultText>
+      <DefaultText>«Никакой пощады! Ха! Я не сдамся!»</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>3</ID>
-      <DefaultText>"Я не дрогну!"</DefaultText>
+      <DefaultText>«Я не дрогну!»</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>4</ID>
-      <DefaultText>"Враг, достойный рыцаря!"</DefaultText>
+      <DefaultText>«Враг, достойный рыцаря!»</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -31,7 +31,7 @@
     </Entry>
     <Entry>
       <ID>6</ID>
-      <DefaultText>"Ах, она... все же... ждала меня..."</DefaultText>
+      <DefaultText>«Ах, она... все же... ждала меня...»</DefaultText>
       <FemaleText />
     </Entry>
   </Entries>

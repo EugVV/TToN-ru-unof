@@ -11,22 +11,22 @@
     </Entry>
     <Entry>
       <ID>2</ID>
-      <DefaultText>"Спасибо, ты и правда святой".</DefaultText>
-      <FemaleText>"Спасибо, ты и правда святая".</FemaleText>
+      <DefaultText>«Спасибо, ты и правда святой».</DefaultText>
+      <FemaleText>«Спасибо, ты и правда святая».</FemaleText>
     </Entry>
     <Entry>
       <ID>3</ID>
-      <DefaultText>"Бездна Аваддона! Нам конец!"</DefaultText>
+      <DefaultText>«Бездна Аваддона! Нам конец!»</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>4</ID>
-      <DefaultText>"Я достаточно пожил, чтобы умереть здесь".</DefaultText>
+      <DefaultText>«Я достаточно пожил, чтобы умереть здесь».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>5</ID>
-      <DefaultText>"Это место было... нашим убежищем..."</DefaultText>
+      <DefaultText>«Это место было... нашим убежищем...»</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -46,47 +46,47 @@
     </Entry>
     <Entry>
       <ID>9</ID>
-      <DefaultText>"Не могу сказать, что я сделал бы то же самое для тебя, но... спасибо".</DefaultText>
+      <DefaultText>«Не могу сказать, что я сделал бы то же самое для тебя, но... спасибо».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>10</ID>
-      <DefaultText>"Хорошо. Теперь уйди с дороги!"</DefaultText>
+      <DefaultText>«Хорошо. Теперь уйди с дороги!»</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>11</ID>
-      <DefaultText>"Ты... ты пришёл за *мной*? С-спасибо".</DefaultText>
-      <FemaleText>"Ты... ты пришла за *мной*? С-спасибо".</FemaleText>
+      <DefaultText>«Ты... ты пришёл за *мной*? С-спасибо».</DefaultText>
+      <FemaleText>«Ты... ты пришла за *мной*? С-спасибо».</FemaleText>
     </Entry>
     <Entry>
       <ID>13</ID>
-      <DefaultText>"Так что... вот и все..."</DefaultText>
+      <DefaultText>«Так что... вот и все...»</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>14</ID>
-      <DefaultText>"Напрасно... все напрасно..."</DefaultText>
+      <DefaultText>«Напрасно... все напрасно...»</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>15</ID>
-      <DefaultText>"Почему?"</DefaultText>
+      <DefaultText>«Почему?»</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>16</ID>
-      <DefaultText>"Уйди с дороги".</DefaultText>
+      <DefaultText>«Уйди с дороги».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>17</ID>
-      <DefaultText>"Где наш творец? Его даже не волнует, что сейчас происходит?"</DefaultText>
+      <DefaultText>«Где наш творец? Его даже не волнует, что сейчас происходит?»</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>18</ID>
-      <DefaultText>"Нигде не безопасно!"</DefaultText>
+      <DefaultText>«Нигде не безопасно!»</DefaultText>
       <FemaleText />
     </Entry>
   </Entries>

@@ -6,12 +6,12 @@
   <Entries>
     <Entry>
       <ID>1</ID>
-      <DefaultText>"О, только не еще один турист. Провожатые сказали идти *этим* путем".</DefaultText>
+      <DefaultText>«О, только не еще один турист. Провожатые сказали идти *этим* путем».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>2</ID>
-      <DefaultText>"Этот рынок был лучше до того, как Гиаш пустили сюда *посетителей*".</DefaultText>
+      <DefaultText>«Этот рынок был лучше до того, как Гиаш пустили сюда *посетителей*».</DefaultText>
       <FemaleText />
     </Entry>
   </Entries>

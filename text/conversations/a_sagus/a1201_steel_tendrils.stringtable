@@ -26,7 +26,7 @@
 Отступив, вы делаете ей несколько выпадов. Сбалансирована на славу — может выйти неплохое оружие.
 
 {LOOT}
-{SOUND: One of the metal hands is snapped off the steel "vine". The hand is about the size of a mace.}</DefaultText>
+{SOUND: One of the metal hands is snapped off the steel «vine». The hand is about the size of a mace.}</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -45,7 +45,7 @@
 Вы делаете ей несколько выпадов. Сбалансирована на славу — может выйти неплохое оружие.
 
 {LOOT}
-{SOUND: One of the metal hands is snapped off the steel "vine." The hand is about the size of a mace.}</DefaultText>
+{SOUND: One of the metal hands is snapped off the steel «vine.» The hand is about the size of a mace.}</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -103,12 +103,12 @@
     </Entry>
     <Entry>
       <ID>16</ID>
-      <DefaultText>"Похоже, у тебя появился враг. Поздравляю, дорогуша".</DefaultText>
+      <DefaultText>«Похоже, у тебя появился враг. Поздравляю, дорогуша».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>17</ID>
-      <DefaultText>"Для тебя нет большего счастья, чем крушить всё вокруг, верно?"</DefaultText>
+      <DefaultText>«Для тебя нет большего счастья, чем крушить всё вокруг, верно?»</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>

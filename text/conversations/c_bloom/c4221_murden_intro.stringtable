@@ -11,7 +11,7 @@
     </Entry>
     <Entry>
       <ID>2</ID>
-      <DefaultText>"Отойдите в сторону, или я повыдергиваю ваши перья и поджарю вас на вертеле".</DefaultText>
+      <DefaultText>«Отойдите в сторону, или я повыдергиваю ваши перья и поджарю вас на вертеле».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -36,7 +36,7 @@
     </Entry>
     <Entry>
       <ID>7</ID>
-      <DefaultText>"Я заплачу, чтобы вы отошли в сторону".</DefaultText>
+      <DefaultText>«Я заплачу, чтобы вы отошли в сторону».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -118,12 +118,12 @@
     </Entry>
     <Entry>
       <ID>25</ID>
-      <DefaultText>"Я не причиню вам вреда. Я пришёл забрать штандарт Нерегулярных войск Арталио".</DefaultText>
-      <FemaleText>"Я не причиню вам вреда. Я пришла забрать штандарт Нерегулярных войск Арталио".</FemaleText>
+      <DefaultText>«Я не причиню вам вреда. Я пришёл забрать штандарт Нерегулярных войск Арталио».</DefaultText>
+      <FemaleText>«Я не причиню вам вреда. Я пришла забрать штандарт Нерегулярных войск Арталио».</FemaleText>
     </Entry>
     <Entry>
       <ID>26</ID>
-      <DefaultText>"Повторяю, я хочу забрать штандарт Арталио. Я не причиню вам вреда".</DefaultText>
+      <DefaultText>«Повторяю, я хочу забрать штандарт Арталио. Я не причиню вам вреда».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -177,7 +177,7 @@
     </Entry>
     <Entry>
       <ID>42</ID>
-      <DefaultText>"Забудьте. Я не собираюсь платить вам прямо сейчас".</DefaultText>
+      <DefaultText>«Забудьте. Я не собираюсь платить вам прямо сейчас».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -207,12 +207,12 @@
     </Entry>
     <Entry>
       <ID>49</ID>
-      <DefaultText>"Я передумал. Я заплачу, чтобы вы отошли в сторону".</DefaultText>
-      <FemaleText>"Я передумала. Я заплачу, чтобы вы отошли в сторону".</FemaleText>
+      <DefaultText>«Я передумал. Я заплачу, чтобы вы отошли в сторону».</DefaultText>
+      <FemaleText>«Я передумала. Я заплачу, чтобы вы отошли в сторону».</FemaleText>
     </Entry>
     <Entry>
       <ID>50</ID>
-      <DefaultText>"Вы примете [Global: c4221_MurdenSentryBribeAmount] шина(-ов) в качестве платы?"</DefaultText>
+      <DefaultText>«Вы примете [Global: c4221_MurdenSentryBribeAmount] шина(-ов) в качестве платы?»</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>

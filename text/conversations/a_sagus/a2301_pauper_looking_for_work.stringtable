@@ -6,37 +6,37 @@
   <Entries>
     <Entry>
       <ID>1</ID>
-      <DefaultText>"Есть работа? Может, двери скрипят? Или убить кого надо? Я за все берусь!"</DefaultText>
+      <DefaultText>«Есть работа? Может, двери скрипят? Или убить кого надо? Я за все берусь!»</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>2</ID>
-      <DefaultText>"Я хорошо готовлю. Кухня есть? Ножи есть? С ножами я умею управляться".</DefaultText>
+      <DefaultText>«Я хорошо готовлю. Кухня есть? Ножи есть? С ножами я умею управляться».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>3</ID>
-      <DefaultText>"Гляди, какая у меня сильная спина! Давай понесу твои вещи? Обещаю ничего не красть!"</DefaultText>
+      <DefaultText>«Гляди, какая у меня сильная спина! Давай понесу твои вещи? Обещаю ничего не красть!»</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>4</ID>
-      <DefaultText>"Ты на фабрике работаешь? Пойду к тебе в ученики. Я и не старый вовсе, даже зубы есть, гляди!"</DefaultText>
+      <DefaultText>«Ты на фабрике работаешь? Пойду к тебе в ученики. Я и не старый вовсе, даже зубы есть, гляди!»</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>5</ID>
-      <DefaultText>"Мне нужна не милостыня, а честный заработок".</DefaultText>
+      <DefaultText>«Мне нужна не милостыня, а честный заработок».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>6</ID>
-      <DefaultText>"Могу даже еду твою пробовать, не отравлена ли! А могу даже пожевать".</DefaultText>
+      <DefaultText>«Могу даже еду твою пробовать, не отравлена ли! А могу даже пожевать».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>7</ID>
-      <DefaultText>"Написать твой портрет? Мне раз доводилось рисовать, это просто".</DefaultText>
+      <DefaultText>«Написать твой портрет? Мне раз доводилось рисовать, это просто».</DefaultText>
       <FemaleText />
     </Entry>
   </Entries>

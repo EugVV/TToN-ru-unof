@@ -11,12 +11,12 @@
     </Entry>
     <Entry>
       <ID>1</ID>
-      <DefaultText>"Думаешь, те бандиты вернутся? Если так, то они приведут с собой больше друзей..."</DefaultText>
+      <DefaultText>«Думаешь, те бандиты вернутся? Если так, то они приведут с собой больше друзей...»</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>2</ID>
-      <DefaultText>"Тебе жаль этих бандитов? Их не за что жалеть. Они постоянно запугивают нас".</DefaultText>
+      <DefaultText>«Тебе жаль этих бандитов? Их не за что жалеть. Они постоянно запугивают нас».</DefaultText>
       <FemaleText />
     </Entry>
   </Entries>

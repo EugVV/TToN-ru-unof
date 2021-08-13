@@ -6,12 +6,12 @@
   <Entries>
     <Entry>
       <ID>1</ID>
-      <DefaultText>"Хорошо, не будем об этом".</DefaultText>
+      <DefaultText>«Хорошо, не будем об этом».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>2</ID>
-      <DefaultText>"Хочешь поговорить? Говори".</DefaultText>
+      <DefaultText>«Хочешь поговорить? Говори».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -36,17 +36,17 @@
     </Entry>
     <Entry>
       <ID>7</ID>
-      <DefaultText>"Ну, расскажи о себе".</DefaultText>
+      <DefaultText>«Ну, расскажи о себе».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>8</ID>
-      <DefaultText>"Как у тебя дела?"</DefaultText>
+      <DefaultText>«Как у тебя дела?»</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>9</ID>
-      <DefaultText>"Думаю, нам стоит разделиться".</DefaultText>
+      <DefaultText>«Думаю, нам стоит разделиться».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -56,7 +56,7 @@
     </Entry>
     <Entry>
       <ID>11</ID>
-      <DefaultText>"Поговорим о тех, с кем путешествуем".</DefaultText>
+      <DefaultText>«Поговорим о тех, с кем путешествуем».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -306,37 +306,37 @@
     </Entry>
     <Entry>
       <ID>86</ID>
-      <DefaultText>"Я думала, мы чего-то добиваемся. И не могу скрыть своего удивления".</DefaultText>
+      <DefaultText>«Я думала, мы чего-то добиваемся. И не могу скрыть своего удивления».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>89</ID>
-      <DefaultText>"Это плохая мысль. Мы хорошо сработались. Но ладно".</DefaultText>
+      <DefaultText>«Это плохая мысль. Мы хорошо сработались. Но ладно».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>90</ID>
-      <DefaultText>"Как раз собиралась сказать то же самое. Не думаю, что мы когда-нибудь встретимся".</DefaultText>
+      <DefaultText>«Как раз собиралась сказать то же самое. Не думаю, что мы когда-нибудь встретимся».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>91</ID>
-      <DefaultText>"Если понадоблюсь, буду у себя дома в Пещере Последних Слов. Мне есть чем заняться".</DefaultText>
+      <DefaultText>«Если понадоблюсь, буду у себя дома в Пещере Последних Слов. Мне есть чем заняться».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>94</ID>
-      <DefaultText>"О чем?"</DefaultText>
+      <DefaultText>«О чем?»</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>95</ID>
-      <DefaultText>"Каждый новый отверженный все страннее предыдущих. Если ты сейчас этого не понимаешь, то почувствуешь позже. Вот смотришь ты на меня и понимаешь, что мы оба были сосудами для одного разума, и начинаешь задумываться, что, быть может, нас объединяет что-то еще". Она пожимает плечами. "Все мы высокомерные гордецы с манией величия. Об этом".</DefaultText>
+      <DefaultText>«Каждый новый отверженный все страннее предыдущих. Если ты сейчас этого не понимаешь, то почувствуешь позже. Вот смотришь ты на меня и понимаешь, что мы оба были сосудами для одного разума, и начинаешь задумываться, что, быть может, нас объединяет что-то еще». Она пожимает плечами. «Все мы высокомерные гордецы с манией величия. Об этом».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>102</ID>
-      <DefaultText>"Я снова хочу поговорить о тебе".</DefaultText>
+      <DefaultText>«Я снова хочу поговорить о тебе».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -501,7 +501,7 @@
     </Entry>
     <Entry>
       <ID>214</ID>
-      <DefaultText>"Я не горжусь тем, что живу здесь".</DefaultText>
+      <DefaultText>«Я не горжусь тем, что живу здесь».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -746,7 +746,7 @@
     </Entry>
     <Entry>
       <ID>264</ID>
-      <DefaultText>"Пока больше ничего не надо. Продолжим путь".</DefaultText>
+      <DefaultText>«Пока больше ничего не надо. Продолжим путь».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1091,7 +1091,7 @@
     </Entry>
     <Entry>
       <ID>334</ID>
-      <DefaultText>"Поговорим о том, что *общего* между отверженными. Думаю, ты сможешь ответить на большинство моих вопросов".</DefaultText>
+      <DefaultText>«Поговорим о том, что *общего* между отверженными. Думаю, ты сможешь ответить на большинство моих вопросов».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1121,59 +1121,59 @@
     </Entry>
     <Entry>
       <ID>340</ID>
-      <DefaultText>"Ты же не отдашь яйца стихусов Пелиай?"
+      <DefaultText>«Ты же не отдашь яйца стихусов Пелиай?»
 
 {SCRIPT: Wants to Talk}</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>341</ID>
-      <DefaultText>"Почему нет?"</DefaultText>
+      <DefaultText>«Почему нет?»</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>342</ID>
-      <DefaultText>"Да, так и было".</DefaultText>
+      <DefaultText>«Да, так и было».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>343</ID>
-      <DefaultText>"Хорошо. А если мы найдем сирот, мы их тоже сделаем заложниками?"</DefaultText>
+      <DefaultText>«Хорошо. А если мы найдем сирот, мы их тоже сделаем заложниками?»</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>344</ID>
-      <DefaultText>"Ты же знаешь, что они собираются делать с яйцами? Пелиай собирается использовать их против стихусов в качестве заложников. Семьи Рабов могут справиться со стихусами, не угрожая их детям. *Я* же смогла".</DefaultText>
+      <DefaultText>«Ты же знаешь, что они собираются делать с яйцами? Пелиай собирается использовать их против стихусов в качестве заложников. Семьи Рабов могут справиться со стихусами, не угрожая их детям. *Я* же смогла».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>345</ID>
-      <DefaultText>"Я уже угрожаю детям стихусов. Их яйца у меня. Тоже своего рода угроза".</DefaultText>
+      <DefaultText>«Я уже угрожаю детям стихусов. Их яйца у меня. Тоже своего рода угроза».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>346</ID>
-      <DefaultText>"Стихусы — угроза городу. Пусть город сам с ними разбирается".</DefaultText>
+      <DefaultText>«Стихусы — угроза городу. Пусть город сам с ними разбирается».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>347</ID>
-      <DefaultText>"Ты можешь вернуть им яйца".</DefaultText>
+      <DefaultText>«Ты можешь вернуть им яйца».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>348</ID>
-      <DefaultText>"Наверное, это все, на что я могу рассчитывать".</DefaultText>
+      <DefaultText>«Наверное, это все, на что я могу рассчитывать».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>349</ID>
-      <DefaultText>"Я подумаю об этом".</DefaultText>
+      <DefaultText>«Я подумаю об этом».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>350</ID>
-      <DefaultText>"Могу, но, скорее всего, не буду".</DefaultText>
+      <DefaultText>«Могу, но, скорее всего, не буду».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1203,17 +1203,17 @@
     </Entry>
     <Entry>
       <ID>370</ID>
-      <DefaultText>"Она сказала, что пыталась договориться".</DefaultText>
+      <DefaultText>«Она сказала, что пыталась договориться».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>371</ID>
-      <DefaultText>Она вздыхает. "Угрозы не всегда лучшее решение, и это говорю тебе я".</DefaultText>
+      <DefaultText>Она вздыхает. «Угрозы не всегда лучшее решение, и это говорю тебе я».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>372</ID>
-      <DefaultText>"Порой люди понимают только так".</DefaultText>
+      <DefaultText>«Порой люди понимают только так».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1458,17 +1458,17 @@
     </Entry>
     <Entry>
       <ID>421</ID>
-      <DefaultText>"Кто сказал? *Он*? Надеюсь, ты не прислушаешься к совету наемника о суде".</DefaultText>
+      <DefaultText>«Кто сказал? *Он*? Надеюсь, ты не прислушаешься к совету наемника о суде».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>422</ID>
-      <DefaultText>"Не понимаю, чем я оскорбил столь почтенную персону. И, между прочим, я ничего такого не предлагал. Я просто сопровождаю друга".</DefaultText>
+      <DefaultText>«Не понимаю, чем я оскорбил столь почтенную персону. И, между прочим, я ничего такого не предлагал. Я просто сопровождаю друга».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>423</ID>
-      <DefaultText>"Прошу тебя, Тибир. У тебя та еще репутация. Даже не пытайся убедить меня, что делаешь это по доброте душевной".</DefaultText>
+      <DefaultText>«Прошу тебя, Тибир. У тебя та еще репутация. Даже не пытайся убедить меня, что делаешь это по доброте душевной».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1478,12 +1478,12 @@
     </Entry>
     <Entry>
       <ID>425</ID>
-      <DefaultText>"Есть зацепка по убийствам в Подбрюшье: треугольник с кровоточащим глазом внутри круга, а другой треугольник разрывает круг справа".</DefaultText>
+      <DefaultText>«Есть зацепка по убийствам в Подбрюшье: треугольник с кровоточащим глазом внутри круга, а другой треугольник разрывает круг справа».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>426</ID>
-      <DefaultText>"Тьфу. Дети Бесконечных Врат. Секта, отделившаяся от Дендра О'хур. Подарок миру от одного из наших братьев. Дендра безобидны, отвратительны и никчемны, как и их основатель. У них есть часовня в Подбрюшье. Сходи туда и поговори с ними".</DefaultText>
+      <DefaultText>«Тьфу. Дети Бесконечных Врат. Секта, отделившаяся от Дендра О'хур. Подарок миру от одного из наших братьев. Дендра безобидны, отвратительны и никчемны, как и их основатель. У них есть часовня в Подбрюшье. Сходи туда и поговори с ними».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1503,7 +1503,7 @@
     </Entry>
     <Entry>
       <ID>430</ID>
-      <DefaultText>"Убийства в Подбрюшье... Некоторые говорят, что это твоих рук дело".</DefaultText>
+      <DefaultText>«Убийства в Подбрюшье... Некоторые говорят, что это твоих рук дело».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1933,9 +1933,9 @@
     </Entry>
     <Entry>
       <ID>546</ID>
-      <DefaultText>"Я уже много лет не убивала никого в Подбрюшье. В этом нет ни смысла, ни дохода". Она складывает руки на груди: "Я профессионал. Мне нужно поддерживать репутацию".
+      <DefaultText>«Я уже много лет не убивала никого в Подбрюшье. В этом нет ни смысла, ни дохода». Она складывает руки на груди: «Я профессионал. Мне нужно поддерживать репутацию».
 
-Она ненадолго замолкает. "Но если удалось найти какие-нибудь зацепки, расскажи мне. Признаться, мне интересно, *чья* это работа".</DefaultText>
+Она ненадолго замолкает. «Но если удалось найти какие-нибудь зацепки, расскажи мне. Признаться, мне интересно, *чья* это работа».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1950,27 +1950,27 @@
     </Entry>
     <Entry>
       <ID>549</ID>
-      <DefaultText>"Я возвращаюсь в Пещеру Последних Слов. А ты занимайся... Тем, чем занимаешься".</DefaultText>
+      <DefaultText>«Я возвращаюсь в Пещеру Последних Слов. А ты занимайся... Тем, чем занимаешься».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>550</ID>
-      <DefaultText>"Что будем делать дальше?"</DefaultText>
+      <DefaultText>«Что будем делать дальше?»</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>551</ID>
-      <DefaultText>"Пойдем в Миэль Авест. Там ты найдешь ответы на свои вопросы".</DefaultText>
+      <DefaultText>«Пойдем в Миэль Авест. Там ты найдешь ответы на свои вопросы».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>552</ID>
-      <DefaultText>"Мне не стоило примыкать к тебе. Смотри, как все обернулось".</DefaultText>
+      <DefaultText>«Мне не стоило примыкать к тебе. Смотри, как все обернулось».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>554</ID>
-      <DefaultText>"Если ты этого хочешь. Мне есть, чем заняться".</DefaultText>
+      <DefaultText>«Если ты этого хочешь. Мне есть, чем заняться».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -2030,9 +2030,9 @@
     </Entry>
     <Entry>
       <ID>566</ID>
-      <DefaultText>Она нерешительно подходит к столу, словно хочет вернуться к работе, но затем складывает руки на груди: "Но..."
+      <DefaultText>Она нерешительно подходит к столу, словно хочет вернуться к работе, но затем складывает руки на груди: «Но...»
 
-"Забудь. У нас есть заботы и поважнее. Просто... притворись, что не видишь неприятностей".</DefaultText>
+«Забудь. У нас есть заботы и поважнее. Просто... притворись, что не видишь неприятностей».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -2042,7 +2042,7 @@
     </Entry>
     <Entry>
       <ID>568</ID>
-      <DefaultText>"У меня ещё вопросы об отверженных".</DefaultText>
+      <DefaultText>«У меня ещё вопросы об отверженных».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>

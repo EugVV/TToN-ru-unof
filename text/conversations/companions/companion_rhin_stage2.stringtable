@@ -11,7 +11,7 @@
     </Entry>
     <Entry>
       <ID>2</ID>
-      <DefaultText>"В чём дело?"</DefaultText>
+      <DefaultText>«В чём дело?»</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -26,27 +26,27 @@
     </Entry>
     <Entry>
       <ID>7</ID>
-      <DefaultText>"Расскажи о себе".</DefaultText>
+      <DefaultText>«Расскажи о себе».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>8</ID>
-      <DefaultText>"Как у тебя дела?"</DefaultText>
+      <DefaultText>«Как у тебя дела?»</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>9</ID>
-      <DefaultText>"Нам лучше разделиться".</DefaultText>
+      <DefaultText>«Нам лучше разделиться».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>10</ID>
-      <DefaultText>"Продолжим путь".</DefaultText>
+      <DefaultText>«Продолжим путь».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>11</ID>
-      <DefaultText>"Поговорим о тех, с кем путешествуем".</DefaultText>
+      <DefaultText>«Поговорим о тех, с кем путешествуем».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -196,7 +196,7 @@
     </Entry>
     <Entry>
       <ID>94</ID>
-      <DefaultText>"Разумеется. Я принесу ее тебе".</DefaultText>
+      <DefaultText>«Разумеется. Я принесу ее тебе».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -206,7 +206,7 @@
     </Entry>
     <Entry>
       <ID>102</ID>
-      <DefaultText>"Я снова хочу поговорить о тебе".</DefaultText>
+      <DefaultText>«Я снова хочу поговорить о тебе».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -361,7 +361,7 @@
     </Entry>
     <Entry>
       <ID>214</ID>
-      <DefaultText>"Как ты думаешь, что делать дальше?"
+      <DefaultText>«Как ты думаешь, что делать дальше?»
 
 {SCRIPT: B-priority idea. Rhin doesn't know what to do next *unless* she happens to be present when you get a certain step (e.g. when you talk to Casmeen/Mimeon about Matkina, or when Matkina tells you about Mazzof).}</DefaultText>
       <FemaleText />
@@ -373,17 +373,17 @@
     </Entry>
     <Entry>
       <ID>216</ID>
-      <DefaultText>"Ну что ж..." Она теребит пальцами полы куртки. "Кажется, я слышала, что тебе нужен человек, который может починить... какую-то камеру? Думаю, тебе пора его отыскать".</DefaultText>
+      <DefaultText>«Ну что ж...» Она теребит пальцами полы куртки. «Кажется, я слышала, что тебе нужен человек, который может починить... какую-то камеру? Думаю, тебе пора его отыскать».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>217</ID>
-      <DefaultText>"Кажется, я слышала, что ты кого-то ищешь... Наверно, это и есть Мэткина?"</DefaultText>
+      <DefaultText>«Кажется, я слышала, что ты кого-то ищешь... Наверно, это и есть Мэткина?»</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>218</ID>
-      <DefaultText>"Я слышала, что ты собираешься в какое-то убежище. Миэль Авест или что-то в этом духе. Правда, я не знаю, как туда добраться... на самом деле я мало что знаю".</DefaultText>
+      <DefaultText>«Я слышала, что ты собираешься в какое-то убежище. Миэль Авест или что-то в этом духе. Правда, я не знаю, как туда добраться... на самом деле я мало что знаю».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -508,12 +508,12 @@
     </Entry>
     <Entry>
       <ID>256</ID>
-      <DefaultText>"Посмотрим, что можно сделать".</DefaultText>
+      <DefaultText>«Посмотрим, что можно сделать».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>257</ID>
-      <DefaultText>"Вряд ли у нас есть много времени, но я подумаю об этом".</DefaultText>
+      <DefaultText>«Вряд ли у нас есть много времени, но я подумаю об этом».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -528,7 +528,7 @@
     </Entry>
     <Entry>
       <ID>260</ID>
-      <DefaultText>"Ну ладно. Так куда теперь?"</DefaultText>
+      <DefaultText>«Ну ладно. Так куда теперь?»</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -658,51 +658,51 @@
     </Entry>
     <Entry>
       <ID>291</ID>
-      <DefaultText>"Через вездескоп в Караван-Сарае я видел тебя на свалке".</DefaultText>
-      <FemaleText>"Через вездескоп в Караван-Сарае я видела тебя на свалке".</FemaleText>
+      <DefaultText>«Через вездескоп в Караван-Сарае я видел тебя на свалке».</DefaultText>
+      <FemaleText>«Через вездескоп в Караван-Сарае я видела тебя на свалке».</FemaleText>
     </Entry>
     <Entry>
       <ID>292</ID>
-      <DefaultText>"Ты видел *прошлое*?" — она вздрагивает и обхватывает себя руками. — "Что... что ты видел?"</DefaultText>
-      <FemaleText>"Ты видела *прошлое*?" — она вздрагивает и обхватывает себя руками. — "Что... что ты видела?"</FemaleText>
+      <DefaultText>«Ты видел *прошлое*?» — она вздрагивает и обхватывает себя руками. — «Что... что ты видел?»</DefaultText>
+      <FemaleText>«Ты видела *прошлое*?» — она вздрагивает и обхватывает себя руками. — «Что... что ты видела?»</FemaleText>
     </Entry>
     <Entry>
       <ID>293</ID>
-      <DefaultText>"Было слишком далеко, чтобы можно было толком разглядеть".</DefaultText>
+      <DefaultText>«Было слишком далеко, чтобы можно было толком разглядеть».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>294</ID>
-      <DefaultText>"Ты развела костер — единственный костер в окрестностях".</DefaultText>
+      <DefaultText>«Ты развела костер — единственный костер в окрестностях».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>295</ID>
-      <DefaultText>"Ты выглядела напуганной".</DefaultText>
+      <DefaultText>«Ты выглядела напуганной».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>296</ID>
-      <DefaultText>"О. Вот как". Она внимательно разглядывает свой башмак. "Мне не нравится вспоминать то время".</DefaultText>
+      <DefaultText>«О. Вот как». Она внимательно разглядывает свой башмак. «Мне не нравится вспоминать то время».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>297</ID>
-      <DefaultText>"Ха! Да, об этом мне тоже кое-кто говорил..." Какое-то время она смотрит вдаль.
+      <DefaultText>«Ха! Да, об этом мне тоже кое-кто говорил...» Какое-то время она смотрит вдаль.
 
-Вдруг она качает головой. "Прости. Чего ты хотел?"</DefaultText>
-      <FemaleText>"Ха! Да, об этом мне тоже кое-кто говорил..." Какое-то время она смотрит вдаль.
+Вдруг она качает головой. «Прости. Чего ты хотел?»</DefaultText>
+      <FemaleText>«Ха! Да, об этом мне тоже кое-кто говорил...» Какое-то время она смотрит вдаль.
 
-Вдруг она качает головой. "Прости. Чего ты хотела?"</FemaleText>
+Вдруг она качает головой. «Прости. Чего ты хотела?»</FemaleText>
     </Entry>
     <Entry>
       <ID>298</ID>
-      <DefaultText>Она крепче обхватывает себя руками: "О, я и *была* напугана. Это было страшное время".</DefaultText>
+      <DefaultText>Она крепче обхватывает себя руками: «О, я и *была* напугана. Это было страшное время».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>299</ID>
-      <DefaultText>Вдруг она обезоруживающе улыбается вам: "Впрочем, теперь мне намного лучше".</DefaultText>
+      <DefaultText>Вдруг она обезоруживающе улыбается вам: «Впрочем, теперь мне намного лучше».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -712,7 +712,7 @@
     </Entry>
     <Entry>
       <ID>301</ID>
-      <DefaultText>"Тебе больше не нужно бояться, ведь я рядом".</DefaultText>
+      <DefaultText>«Тебе больше не нужно бояться, ведь я рядом».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>

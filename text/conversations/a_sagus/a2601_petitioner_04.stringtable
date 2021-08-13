@@ -11,22 +11,22 @@
     </Entry>
     <Entry>
       <ID>2</ID>
-      <DefaultText>"Ты не можешь подождать, чтобы поговорить с этим отродьем лаака?"</DefaultText>
+      <DefaultText>«Ты не можешь подождать, чтобы поговорить с этим отродьем лаака?»</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>3</ID>
-      <DefaultText>"Я старался быть любезным. Я старался подписывать их бумажки и платить взятки. Это было еще недавно!"</DefaultText>
+      <DefaultText>«Я старался быть любезным. Я старался подписывать их бумажки и платить взятки. Это было еще недавно!»</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>4</ID>
-      <DefaultText>"Марси будет в ярости. Мы собирались пожениться завтра".</DefaultText>
+      <DefaultText>«Марси будет в ярости. Мы собирались пожениться завтра».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>5</ID>
-      <DefaultText>"Я изобью его до крови, если *что-нибудь* вообще течет в его венах".</DefaultText>
+      <DefaultText>«Я изобью его до крови, если *что-нибудь* вообще течет в его венах».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -41,17 +41,17 @@
     </Entry>
     <Entry>
       <ID>9</ID>
-      <DefaultText>"Эй! У некоторых из нас есть еще дела!"</DefaultText>
+      <DefaultText>«Эй! У некоторых из нас есть еще дела!»</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>10</ID>
-      <DefaultText>"Да хватит уже!"</DefaultText>
+      <DefaultText>«Да хватит уже!»</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>11</ID>
-      <DefaultText>"Поспеши!"</DefaultText>
+      <DefaultText>«Поспеши!»</DefaultText>
       <FemaleText />
     </Entry>
   </Entries>

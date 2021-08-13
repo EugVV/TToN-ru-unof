@@ -11,18 +11,18 @@
     </Entry>
     <Entry>
       <ID>1</ID>
-      <DefaultText>"Молодец, что убил всех этих мерденов. Давно пора было это сделать".</DefaultText>
-      <FemaleText>"Молодец, что убила всех этих мерденов. Давно пора было это сделать".</FemaleText>
+      <DefaultText>«Молодец, что убил всех этих мерденов. Давно пора было это сделать».</DefaultText>
+      <FemaleText>«Молодец, что убила всех этих мерденов. Давно пора было это сделать».</FemaleText>
     </Entry>
     <Entry>
       <ID>2</ID>
-      <DefaultText>"На твоем месте я бы держался подальше от Старой темницы рабов: мы больше не можем контролировать мерденов".</DefaultText>
+      <DefaultText>«На твоем месте я бы держался подальше от Старой темницы рабов: мы больше не можем контролировать мерденов».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>3</ID>
-      <DefaultText>"Ты новенький? Не видел тебя раньше".</DefaultText>
-      <FemaleText>"Ты новенькая? Не видел тебя раньше".</FemaleText>
+      <DefaultText>«Ты новенький? Не видел тебя раньше».</DefaultText>
+      <FemaleText>«Ты новенькая? Не видел тебя раньше».</FemaleText>
     </Entry>
   </Entries>
 </StringTableFile>

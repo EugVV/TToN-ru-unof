@@ -6,32 +6,32 @@
   <Entries>
     <Entry>
       <ID>1</ID>
-      <DefaultText>"Доброго тебе дня".</DefaultText>
+      <DefaultText>«Доброго тебе дня».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>2</ID>
-      <DefaultText>"Эй, там".</DefaultText>
+      <DefaultText>«Эй, там».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>3</ID>
-      <DefaultText>"Вскоре я уеду. Ещё один месяц в открытом небе!"</DefaultText>
+      <DefaultText>«Вскоре я уеду. Ещё один месяц в открытом небе!»</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>4</ID>
-      <DefaultText>"Воздухоплавание — штука непростая. Иногда облака бывают голодными".</DefaultText>
+      <DefaultText>«Воздухоплавание — штука непростая. Иногда облака бывают голодными».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>5</ID>
-      <DefaultText>"Нет ничего лучше ощущения твёрдой почвы у тебя под ногами, не правда ли?"</DefaultText>
+      <DefaultText>«Нет ничего лучше ощущения твёрдой почвы у тебя под ногами, не правда ли?»</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>6</ID>
-      <DefaultText>"Держись подальше от матросов в отпуске. Некоторые из них творят ужасные, *постыдные* вещи".</DefaultText>
+      <DefaultText>«Держись подальше от матросов в отпуске. Некоторые из них творят ужасные, *постыдные* вещи».</DefaultText>
       <FemaleText />
     </Entry>
   </Entries>

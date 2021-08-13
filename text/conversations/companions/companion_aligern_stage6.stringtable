@@ -6,12 +6,12 @@
   <Entries>
     <Entry>
       <ID>1</ID>
-      <DefaultText>"Иди выкопай яму и похоронись там, отверженный. Чтоб ты сдох в ней".</DefaultText>
-      <FemaleText>"Иди выкопай яму и похоронись там, отверженная. Чтоб ты сдохла в ней".</FemaleText>
+      <DefaultText>«Иди выкопай яму и похоронись там, отверженный. Чтоб ты сдох в ней».</DefaultText>
+      <FemaleText>«Иди выкопай яму и похоронись там, отверженная. Чтоб ты сдохла в ней».</FemaleText>
     </Entry>
     <Entry>
       <ID>2</ID>
-      <DefaultText>"Что происходит? Тебе помочь?"</DefaultText>
+      <DefaultText>«Что происходит? Тебе помочь?»</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -21,37 +21,37 @@
     </Entry>
     <Entry>
       <ID>4</ID>
-      <DefaultText>"Расскажи о себе".</DefaultText>
+      <DefaultText>«Расскажи о себе».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>5</ID>
-      <DefaultText>"Я снова хочу поговорить о тебе".</DefaultText>
+      <DefaultText>«Я снова хочу поговорить о тебе».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>6</ID>
-      <DefaultText>"Как у тебя дела?"</DefaultText>
+      <DefaultText>«Как у тебя дела?»</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>7</ID>
-      <DefaultText>"Поговорим о тех, с кем путешествуем".</DefaultText>
+      <DefaultText>«Поговорим о тех, с кем путешествуем».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>8</ID>
-      <DefaultText>"Что будем делать дальше?"</DefaultText>
+      <DefaultText>«Что будем делать дальше?»</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>9</ID>
-      <DefaultText>"Подожди меня здесь".</DefaultText>
+      <DefaultText>«Подожди меня здесь».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>10</ID>
-      <DefaultText>"Продолжим".</DefaultText>
+      <DefaultText>«Продолжим».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -61,12 +61,12 @@
     </Entry>
     <Entry>
       <ID>14</ID>
-      <DefaultText>Он окидывает взглядом Лабиринт. "Я сделаю это быстро. Жрец Вечности, алдей Ормена. Активированный скелет в устройстве Меняющегося Бога... в твоем теле. Семья превратилась в татуировки на моих руках, и сейчас я обнаружил знания, чтобы вернуть их обратно. А именно, как только мы выйдем из твоего разума. Это должно защитить их".</DefaultText>
+      <DefaultText>Он окидывает взглядом Лабиринт. «Я сделаю это быстро. Жрец Вечности, алдей Ормена. Активированный скелет в устройстве Меняющегося Бога... в твоем теле. Семья превратилась в татуировки на моих руках, и сейчас я обнаружил знания, чтобы вернуть их обратно. А именно, как только мы выйдем из твоего разума. Это должно защитить их».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>15</ID>
-      <DefaultText>Он качает своей головой. "Если ты не знаешь моей истории до настоящего времени, я уже теряю надежду, что ты в принципе когда-либо узнаешь ее".</DefaultText>
+      <DefaultText>Он качает своей головой. «Если ты не знаешь моей истории до настоящего времени, я уже теряю надежду, что ты в принципе когда-либо узнаешь ее».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -76,52 +76,52 @@
     </Entry>
     <Entry>
       <ID>17</ID>
-      <DefaultText>Он окидывает взглядом Лабиринт. "Я сделаю это быстро. Жрец Вечности, алдей Ормена. Активированный скелет в устройстве Меняющегося Бога... в твоем теле. Сейчас мне просто нужно получить любые ответы, которые Фонг подготовил для меня, а затем я определюсь, что делать дальше".</DefaultText>
+      <DefaultText>Он окидывает взглядом Лабиринт. «Я сделаю это быстро. Жрец Вечности, алдей Ормена. Активированный скелет в устройстве Меняющегося Бога... в твоем теле. Сейчас мне просто нужно получить любые ответы, которые Фонг подготовил для меня, а затем я определюсь, что делать дальше».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>18</ID>
-      <DefaultText>Он качает своей головой. "Если ты не знаешь моей истории до настоящего времени, я уже теряю надежду, что ты в принципе когда-либо узнаешь ее".</DefaultText>
+      <DefaultText>Он качает своей головой. «Если ты не знаешь моей истории до настоящего времени, я уже теряю надежду, что ты в принципе когда-либо узнаешь ее».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>22</ID>
-      <DefaultText>"Не самое лучшее время для этого, не так ли? Давай. Мы уже почти закончили".</DefaultText>
+      <DefaultText>«Не самое лучшее время для этого, не так ли? Давай. Мы уже почти закончили».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>23</ID>
-      <DefaultText>Он качает головой: "Я всё ещё с тобой, верно? Я готов идти до конца. Пойдём, отверженный".</DefaultText>
-      <FemaleText>Он качает головой: "Я всё ещё с тобой, верно? Я готов идти до конца. Пойдём, отверженная".</FemaleText>
+      <DefaultText>Он качает головой: «Я всё ещё с тобой, верно? Я готов идти до конца. Пойдём, отверженный».</DefaultText>
+      <FemaleText>Он качает головой: «Я всё ещё с тобой, верно? Я готов идти до конца. Пойдём, отверженная».</FemaleText>
     </Entry>
     <Entry>
       <ID>24</ID>
-      <DefaultText>Он беспомощно пожимает плечами: "Это страна грёз отверженного. Я просто иду за тобой".</DefaultText>
-      <FemaleText>Он беспомощно пожимает плечами: "Это страна грёз отверженной. Я просто иду за тобой".</FemaleText>
+      <DefaultText>Он беспомощно пожимает плечами: «Это страна грёз отверженного. Я просто иду за тобой».</DefaultText>
+      <FemaleText>Он беспомощно пожимает плечами: «Это страна грёз отверженной. Я просто иду за тобой».</FemaleText>
     </Entry>
     <Entry>
       <ID>25</ID>
-      <DefaultText>"Нет настроения для болтовни. Мы должны продолжать двигаться".</DefaultText>
+      <DefaultText>«Нет настроения для болтовни. Мы должны продолжать двигаться».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>26</ID>
-      <DefaultText>{disbelief} "Ты собираешься оставить меня одного в этой стране грез? Прекрасно. Я постараюсь не делать много вреда, пока ты будешь отсутствовать".</DefaultText>
+      <DefaultText>{disbelief} «Ты собираешься оставить меня одного в этой стране грез? Прекрасно. Я постараюсь не делать много вреда, пока ты будешь отсутствовать».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>28</ID>
-      <DefaultText>"Так долго".</DefaultText>
+      <DefaultText>«Так долго».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>29</ID>
-      <DefaultText>"Хороший план".</DefaultText>
+      <DefaultText>«Хороший план».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>30</ID>
-      <DefaultText>"Ты хочешь снова присоединиться ко мне?"</DefaultText>
+      <DefaultText>«Ты хочешь снова присоединиться ко мне?»</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -151,32 +151,32 @@
     </Entry>
     <Entry>
       <ID>36</ID>
-      <DefaultText>"С тобой уже и так много людей. Если ты хочешь освободить немного места, дай мне знать. Я был бы рад присоединиться к тебе снова. Иначе, я найду выход самостоятельно".</DefaultText>
+      <DefaultText>«С тобой уже и так много людей. Если ты хочешь освободить немного места, дай мне знать. Я был бы рад присоединиться к тебе снова. Иначе, я найду выход самостоятельно».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>37</ID>
-      <DefaultText>"Просто дай мне знать".</DefaultText>
+      <DefaultText>«Просто дай мне знать».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>38</ID>
-      <DefaultText>"Так как мне здесь нечем особо заняться... Ладно".</DefaultText>
+      <DefaultText>«Так как мне здесь нечем особо заняться... Ладно».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>39</ID>
-      <DefaultText>"Давай отправляться в путь".</DefaultText>
+      <DefaultText>«Давай отправляться в путь».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>40</ID>
-      <DefaultText>"Не сейчас. До свидания".</DefaultText>
+      <DefaultText>«Не сейчас. До свидания».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>41</ID>
-      <DefaultText>"Хе. Удачи".</DefaultText>
+      <DefaultText>«Хе. Удачи».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -186,13 +186,13 @@
     </Entry>
     <Entry>
       <ID>43</ID>
-      <DefaultText>"Здесь? Сейчас? О нет. Мы зашли так далеко. Мы доведем это до конца."</DefaultText>
+      <DefaultText>«Здесь? Сейчас? О нет. Мы зашли так далеко. Мы доведем это до конца.»</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>44</ID>
-      <DefaultText>"Заканчивай это, отверженный. Мы зашли слишком далеко".</DefaultText>
-      <FemaleText>"Заканчивай это, отверженная. Мы зашли слишком далеко".</FemaleText>
+      <DefaultText>«Заканчивай это, отверженный. Мы зашли слишком далеко».</DefaultText>
+      <FemaleText>«Заканчивай это, отверженная. Мы зашли слишком далеко».</FemaleText>
     </Entry>
     <Entry>
       <ID>45</ID>

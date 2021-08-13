@@ -6,17 +6,17 @@
   <Entries>
     <Entry>
       <ID>1</ID>
-      <DefaultText>"Ну? Ты собираешься его открывать? Или мне придется тебя убить и открыть самой?"</DefaultText>
+      <DefaultText>«Ну? Ты собираешься его открывать? Или мне придется тебя убить и открыть самой?»</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>2</ID>
-      <DefaultText>"Просто сделай это, пока я не решила сама вас всех убить".</DefaultText>
+      <DefaultText>«Просто сделай это, пока я не решила сама вас всех убить».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>3</ID>
-      <DefaultText>"Нет, мы не враги. Но если ты не откроешь Резонанс, то скоро станем ими".</DefaultText>
+      <DefaultText>«Нет, мы не враги. Но если ты не откроешь Резонанс, то скоро станем ими».</DefaultText>
       <FemaleText />
     </Entry>
   </Entries>

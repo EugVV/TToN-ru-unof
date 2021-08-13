@@ -16,12 +16,12 @@
     </Entry>
     <Entry>
       <ID>3</ID>
-      <DefaultText>"Святейшество говорит со мной, Айтасий! Что мне сказать?"</DefaultText>
+      <DefaultText>«Святейшество говорит со мной, Айтасий! Что мне сказать?»</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>4</ID>
-      <DefaultText>"Почтенный сосуд говорит со мной, Айтасий! Что мне сказать?"</DefaultText>
+      <DefaultText>«Почтенный сосуд говорит со мной, Айтасий! Что мне сказать?»</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -36,12 +36,12 @@
     </Entry>
     <Entry>
       <ID>7</ID>
-      <DefaultText>"Пожалуйста, поговорите с Айтасий, святейшество. Я маленький человек!"</DefaultText>
+      <DefaultText>«Пожалуйста, поговорите с Айтасий, святейшество. Я маленький человек!»</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>8</ID>
-      <DefaultText>"Пожалуйста, поговорите с Айтасий, почтенный сосуд. Я маленький человек!"</DefaultText>
+      <DefaultText>«Пожалуйста, поговорите с Айтасий, почтенный сосуд. Я маленький человек!»</DefaultText>
       <FemaleText />
     </Entry>
   </Entries>

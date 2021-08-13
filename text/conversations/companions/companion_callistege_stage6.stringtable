@@ -6,48 +6,48 @@
   <Entries>
     <Entry>
       <ID>1</ID>
-      <DefaultText>"Нам больше не о чем говорить. Прощай, отверженный".</DefaultText>
-      <FemaleText>"Нам больше не о чем говорить. Прощай, отверженная".</FemaleText>
+      <DefaultText>«Нам больше не о чем говорить. Прощай, отверженный».</DefaultText>
+      <FemaleText>«Нам больше не о чем говорить. Прощай, отверженная».</FemaleText>
     </Entry>
     <Entry>
       <ID>2</ID>
-      <DefaultText>"Да? Все-таки решил, что я нужна тебе?"</DefaultText>
-      <FemaleText>"Да? Всё-таки решила, что я нужна тебе?"</FemaleText>
+      <DefaultText>«Да? Все-таки решил, что я нужна тебе?»</DefaultText>
+      <FemaleText>«Да? Всё-таки решила, что я нужна тебе?»</FemaleText>
     </Entry>
     <Entry>
       <ID>3</ID>
-      <DefaultText>"Пойдем со мной".</DefaultText>
+      <DefaultText>«Пойдем со мной».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>4</ID>
-      <DefaultText>Она жестом показывает на остальную группу. "У нас едва хватит места чтобы двигаться, если вся наша большая команда вместе пустится галопом".</DefaultText>
+      <DefaultText>Она жестом показывает на остальную группу. «У нас едва хватит места чтобы двигаться, если вся наша большая команда вместе пустится галопом».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>5</ID>
-      <DefaultText>"Я бы присоединилась к вам, если бы вас было меньше, но увы".</DefaultText>
+      <DefaultText>«Я бы присоединилась к вам, если бы вас было меньше, но увы».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>6</ID>
-      <DefaultText>"Как пожелаешь, дорогуша".</DefaultText>
+      <DefaultText>«Как пожелаешь, дорогуша».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>7</ID>
-      <DefaultText>"Давайте уже положим всему этому конец".</DefaultText>
+      <DefaultText>«Давайте уже положим всему этому конец».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>8</ID>
-      <DefaultText>"Не сейчас. До свидания".</DefaultText>
+      <DefaultText>«Не сейчас. До свидания».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>9</ID>
-      <DefaultText>"Всё же постарайся не слишком воодушевляться моими надеждами, дорогой".</DefaultText>
-      <FemaleText>"Всё же постарайся не слишком воодушевляться моими надеждами, дорогая".</FemaleText>
+      <DefaultText>«Всё же постарайся не слишком воодушевляться моими надеждами, дорогой».</DefaultText>
+      <FemaleText>«Всё же постарайся не слишком воодушевляться моими надеждами, дорогая».</FemaleText>
     </Entry>
     <Entry>
       <ID>10</ID>
@@ -56,7 +56,7 @@
     </Entry>
     <Entry>
       <ID>11</ID>
-      <DefaultText>"Расскажи о себе".</DefaultText>
+      <DefaultText>«Расскажи о себе».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -66,7 +66,7 @@
     </Entry>
     <Entry>
       <ID>13</ID>
-      <DefaultText>"Ребенок воспитанный в высшем обществе, обнаружил, что изысканная социальная среда никак не влияет на мир. Я искала утешения в науке, и я разбросала себя по мирам в погоне за знанием. И вот ты видишь меня".</DefaultText>
+      <DefaultText>«Ребенок воспитанный в высшем обществе, обнаружил, что изысканная социальная среда никак не влияет на мир. Я искала утешения в науке, и я разбросала себя по мирам в погоне за знанием. И вот ты видишь меня».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -91,32 +91,32 @@
     </Entry>
     <Entry>
       <ID>18</ID>
-      <DefaultText>"Я снова хочу поговорить о тебе".</DefaultText>
+      <DefaultText>«Я снова хочу поговорить о тебе».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>19</ID>
-      <DefaultText>Она вздыхает. "Давай отложим обсуждение этой темы до лучших времен, которые очевидно еще не настали".</DefaultText>
+      <DefaultText>Она вздыхает. «Давай отложим обсуждение этой темы до лучших времен, которые очевидно еще не настали».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>20</ID>
-      <DefaultText>"Как у тебя дела?"</DefaultText>
+      <DefaultText>«Как у тебя дела?»</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>21</ID>
-      <DefaultText>"Довольно неплохо, учитывая обстоятельства. Однако, давайте двигаться дальше. Я боюсь, что нам предстоит больше сражений, чем у нас осталось времени".</DefaultText>
+      <DefaultText>«Довольно неплохо, учитывая обстоятельства. Однако, давайте двигаться дальше. Я боюсь, что нам предстоит больше сражений, чем у нас осталось времени».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>22</ID>
-      <DefaultText>"Поговорим о тех, с кем путешествуем".</DefaultText>
+      <DefaultText>«Поговорим о тех, с кем путешествуем».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>23</ID>
-      <DefaultText>Она качает своей головой. "Время для этого ушло. На счастье это или на беду, но они с нами сейчас, и, возможно, навсегда".</DefaultText>
+      <DefaultText>Она качает своей головой. «Время для этого ушло. На счастье это или на беду, но они с нами сейчас, и, возможно, навсегда».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -131,38 +131,38 @@
     </Entry>
     <Entry>
       <ID>26</ID>
-      <DefaultText>"Подожди меня здесь".</DefaultText>
+      <DefaultText>«Подожди меня здесь».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>27</ID>
-      <DefaultText>"Ты должен быть готов на любые решения, чтобы обеспечить себе победу, дорогой".</DefaultText>
-      <FemaleText>"Ты должна быть готова на любые решения, чтобы обеспечить себе победу, дорогая".</FemaleText>
+      <DefaultText>«Ты должен быть готов на любые решения, чтобы обеспечить себе победу, дорогой».</DefaultText>
+      <FemaleText>«Ты должна быть готова на любые решения, чтобы обеспечить себе победу, дорогая».</FemaleText>
     </Entry>
     <Entry>
       <ID>28</ID>
-      <DefaultText>"Я буду здес, если я понадоблюсь тебе".</DefaultText>
+      <DefaultText>«Я буду здес, если я понадоблюсь тебе».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>29</ID>
-      <DefaultText>"Пойдем же".</DefaultText>
+      <DefaultText>«Пойдем же».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>30</ID>
-      <DefaultText>"Да. давай".</DefaultText>
+      <DefaultText>«Да. давай».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>31</ID>
-      <DefaultText>"Я в порядке. У нас есть другие заботы".</DefaultText>
+      <DefaultText>«Я в порядке. У нас есть другие заботы».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>32</ID>
-      <DefaultText>"Научить отпускать их, дорогой. Они сейчас только отвлекают нас от цели".</DefaultText>
-      <FemaleText>"Научить отпускать их, дорогая. Они сейчас только отвлекают нас от цели".</FemaleText>
+      <DefaultText>«Научить отпускать их, дорогой. Они сейчас только отвлекают нас от цели».</DefaultText>
+      <FemaleText>«Научить отпускать их, дорогая. Они сейчас только отвлекают нас от цели».</FemaleText>
     </Entry>
     <Entry>
       <ID>33</ID>
@@ -176,13 +176,13 @@
     </Entry>
     <Entry>
       <ID>36</ID>
-      <DefaultText>"Сюда? Нет. С этого места мы будем держаться вместе, если ты не возражаешь".</DefaultText>
+      <DefaultText>«Сюда? Нет. С этого места мы будем держаться вместе, если ты не возражаешь».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>37</ID>
-      <DefaultText>"Пойдем, дорогой. Давай уже сделаем то, зачем мы сюда пришли".</DefaultText>
-      <FemaleText>"Пойдем, дорогая. Давай уже сделаем то, зачем мы сюда пришли".</FemaleText>
+      <DefaultText>«Пойдем, дорогой. Давай уже сделаем то, зачем мы сюда пришли».</DefaultText>
+      <FemaleText>«Пойдем, дорогая. Давай уже сделаем то, зачем мы сюда пришли».</FemaleText>
     </Entry>
     <Entry>
       <ID>38</ID>
@@ -261,12 +261,12 @@
     </Entry>
     <Entry>
       <ID>53</ID>
-      <DefaultText>"Ты готова войти в информационную сферу или разорвать связь со своими сестрами?"</DefaultText>
+      <DefaultText>«Ты готова войти в информационную сферу или разорвать связь со своими сестрами?»</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>54</ID>
-      <DefaultText>"Давай уже решим вопрос — либо ты войдешь в информационную сферу, либо ты вернешься к человечеству раз и навсегда".</DefaultText>
+      <DefaultText>«Давай уже решим вопрос — либо ты войдешь в информационную сферу, либо ты вернешься к человечеству раз и навсегда».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -276,7 +276,7 @@
     </Entry>
     <Entry>
       <ID>56</ID>
-      <DefaultText>"Ты хотела увидеть записи о сфере данных, сделанные Меняющимся Богом? Вот. Возьми их".</DefaultText>
+      <DefaultText>«Ты хотела увидеть записи о сфере данных, сделанные Меняющимся Богом? Вот. Возьми их».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>

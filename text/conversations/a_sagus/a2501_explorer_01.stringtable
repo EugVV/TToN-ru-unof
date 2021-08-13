@@ -6,27 +6,27 @@
   <Entries>
     <Entry>
       <ID>1</ID>
-      <DefaultText>"Добрый день, человек. Сейчас мы немного заняты".</DefaultText>
+      <DefaultText>«Добрый день, человек. Сейчас мы немного заняты».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>2</ID>
-      <DefaultText>"Краска — мой компаньон тут — думает, что наше следующее совместное путешествие приведёт нас в Цветение".</DefaultText>
+      <DefaultText>«Краска — мой компаньон тут — думает, что наше следующее совместное путешествие приведёт нас в Цветение».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>3</ID>
-      <DefaultText>"Экспедиция в густонаселённый город как-то не согласуется с целью «исследования». Но Краска упрямый".</DefaultText>
+      <DefaultText>«Экспедиция в густонаселённый город как-то не согласуется с целью „исследования“. Но Краска упрямый».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>4</ID>
-      <DefaultText>"Мой компаньон явно нашёл любовницу в Цветении и хочет *исследовать* её".</DefaultText>
+      <DefaultText>«Мой компаньон явно нашёл любовницу в Цветении и хочет *исследовать* её».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>5</ID>
-      <DefaultText>"Краска утомительный. Забавный, но утомительный".</DefaultText>
+      <DefaultText>«Краска утомительный. Забавный, но утомительный».</DefaultText>
       <FemaleText />
     </Entry>
   </Entries>

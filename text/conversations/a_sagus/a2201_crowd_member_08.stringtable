@@ -21,27 +21,27 @@
     </Entry>
     <Entry>
       <ID>4</ID>
-      <DefaultText>"Я потерял все из-за этих чертовых тварей".</DefaultText>
+      <DefaultText>«Я потерял все из-за этих чертовых тварей».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>5</ID>
-      <DefaultText>"Эти монстры отняли у меня дом. Отняли мою с-семью".</DefaultText>
+      <DefaultText>«Эти монстры отняли у меня дом. Отняли мою с-семью».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>6</ID>
-      <DefaultText>"Сейчас я бездомная! Одинокая! Из-за *них*!"</DefaultText>
+      <DefaultText>«Сейчас я бездомная! Одинокая! Из-за *них*!»</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>7</ID>
-      <DefaultText>"Я хочу видеть этих насекомых *мертвыми*".</DefaultText>
+      <DefaultText>«Я хочу видеть этих насекомых *мертвыми*».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>8</ID>
-      <DefaultText>"Стихус должен страдать как все мы страдали".</DefaultText>
+      <DefaultText>«Стихус должен страдать как все мы страдали».</DefaultText>
       <FemaleText />
     </Entry>
   </Entries>

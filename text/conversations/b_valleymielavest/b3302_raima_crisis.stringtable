@@ -26,18 +26,18 @@
     </Entry>
     <Entry>
       <ID>5</ID>
-      <DefaultText>Она ухмыляется. "С удовольствием".</DefaultText>
+      <DefaultText>Она ухмыляется. «С удовольствием».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>6</ID>
-      <DefaultText>Она отрывисто кивает. "При условии, что ты будешь прикрывать наши спины. Пойдем, Песчанорукий".</DefaultText>
+      <DefaultText>Она отрывисто кивает. «При условии, что ты будешь прикрывать наши спины. Пойдем, Песчанорукий».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>7</ID>
-      <DefaultText>Она резко оборачивается, чтобы возразить, а затем пятится назад при взгляде на разрушения вокруг нее. "Может быть, ты прав. Пойдем, Андроний, у нас здесь ничего не осталось".</DefaultText>
-      <FemaleText>Она резко оборачивается, чтобы возразить, а затем пятится назад при взгляде на разрушения вокруг нее. "Может быть, ты права. Пойдем, Андроний, у нас здесь ничего не осталось".</FemaleText>
+      <DefaultText>Она резко оборачивается, чтобы возразить, а затем пятится назад при взгляде на разрушения вокруг нее. «Может быть, ты прав. Пойдем, Андроний, у нас здесь ничего не осталось».</DefaultText>
+      <FemaleText>Она резко оборачивается, чтобы возразить, а затем пятится назад при взгляде на разрушения вокруг нее. «Может быть, ты права. Пойдем, Андроний, у нас здесь ничего не осталось».</FemaleText>
     </Entry>
     <Entry>
       <ID>8</ID>
@@ -56,28 +56,28 @@
     </Entry>
     <Entry>
       <ID>12</ID>
-      <DefaultText>"Ни за что", — говорит она, хмурясь.</DefaultText>
+      <DefaultText>«Ни за что», — говорит она, хмурясь.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>14</ID>
-      <DefaultText>"Мы уходим. Ты разве не этого хотел?"</DefaultText>
-      <FemaleText>"Мы уходим. Ты разве не этого хотела?"</FemaleText>
+      <DefaultText>«Мы уходим. Ты разве не этого хотел?»</DefaultText>
+      <FemaleText>«Мы уходим. Ты разве не этого хотела?»</FemaleText>
     </Entry>
     <Entry>
       <ID>15</ID>
-      <DefaultText>"Мы пытаемся найти других. Чего ты хочешь?"</DefaultText>
+      <DefaultText>«Мы пытаемся найти других. Чего ты хочешь?»</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>16</ID>
-      <DefaultText>"Мы делаем все возможное, чтобы противостоять этим чудовищам. Что тебе нужно?"</DefaultText>
+      <DefaultText>«Мы делаем все возможное, чтобы противостоять этим чудовищам. Что тебе нужно?»</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>17</ID>
-      <DefaultText>"Я собиралась убить его! Ты не имел права!"</DefaultText>
-      <FemaleText>"Я собиралась убить его! Ты не имела права!"</FemaleText>
+      <DefaultText>«Я собиралась убить его! Ты не имел права!»</DefaultText>
+      <FemaleText>«Я собиралась убить его! Ты не имела права!»</FemaleText>
     </Entry>
     <Entry>
       <ID>18</ID>
@@ -91,17 +91,17 @@
     </Entry>
     <Entry>
       <ID>20</ID>
-      <DefaultText>"Песчанорукий! *Черт* возьми!"</DefaultText>
+      <DefaultText>«Песчанорукий! *Черт* возьми!»</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>21</ID>
-      <DefaultText>Клинок невозмутимо проносится мимо опасностей, окружающих ее. Она смотрит на вас: "Что тебе нужно?"</DefaultText>
+      <DefaultText>Клинок невозмутимо проносится мимо опасностей, окружающих ее. Она смотрит на вас: «Что тебе нужно?»</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>22</ID>
-      <DefaultText>"Что тебе нужно?"</DefaultText>
+      <DefaultText>«Что тебе нужно?»</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -111,7 +111,7 @@
     </Entry>
     <Entry>
       <ID>24</ID>
-      <DefaultText>Она ухмыляется. "С удовольствием".</DefaultText>
+      <DefaultText>Она ухмыляется. «С удовольствием».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -121,7 +121,7 @@
     </Entry>
     <Entry>
       <ID>26</ID>
-      <DefaultText>Она отрывисто кивает. "Хорошо. Прикрой меня".</DefaultText>
+      <DefaultText>Она отрывисто кивает. «Хорошо. Прикрой меня».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -131,42 +131,42 @@
     </Entry>
     <Entry>
       <ID>28</ID>
-      <DefaultText>Она резко оборачивается, чтобы возразить, а затем пятится назад при взгляде на разрушения вокруг нее. "Может быть, ты прав. Позаботься об остальных, хорошо?"</DefaultText>
-      <FemaleText>Она резко оборачивается, чтобы возразить, а затем пятится назад при взгляде на разрушения вокруг нее. "Может быть, ты права. Позаботься об остальных, хорошо?"</FemaleText>
+      <DefaultText>Она резко оборачивается, чтобы возразить, а затем пятится назад при взгляде на разрушения вокруг нее. «Может быть, ты прав. Позаботься об остальных, хорошо?»</DefaultText>
+      <FemaleText>Она резко оборачивается, чтобы возразить, а затем пятится назад при взгляде на разрушения вокруг нее. «Может быть, ты права. Позаботься об остальных, хорошо?»</FemaleText>
     </Entry>
     <Entry>
       <ID>29</ID>
-      <DefaultText>"Ни за что", — говорит она, хмурясь.</DefaultText>
+      <DefaultText>«Ни за что», — говорит она, хмурясь.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>31</ID>
-      <DefaultText>"Я ухожу. Ты разве не этого хотел?"</DefaultText>
-      <FemaleText>"Я ухожу. Ты разве не этого хотела?"</FemaleText>
+      <DefaultText>«Я ухожу. Ты разве не этого хотел?»</DefaultText>
+      <FemaleText>«Я ухожу. Ты разве не этого хотела?»</FemaleText>
     </Entry>
     <Entry>
       <ID>32</ID>
-      <DefaultText>"Я пытаюсь найти других. Чего ты хочешь?"</DefaultText>
+      <DefaultText>«Я пытаюсь найти других. Чего ты хочешь?»</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>33</ID>
-      <DefaultText>"Я делаю все возможное, чтобы противостоять этим чудовищам. Что тебе нужно?"</DefaultText>
+      <DefaultText>«Я делаю все возможное, чтобы противостоять этим чудовищам. Что тебе нужно?»</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>35</ID>
-      <DefaultText>"Песчанорукий ничего не знает о тактических приемах! Где *он*?"</DefaultText>
+      <DefaultText>«Песчанорукий ничего не знает о тактических приемах! Где *он*?»</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>36</ID>
-      <DefaultText>"Это твой дом?"</DefaultText>
+      <DefaultText>«Это твой дом?»</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>37</ID>
-      <DefaultText>"Боги, она здесь!"</DefaultText>
+      <DefaultText>«Боги, она здесь!»</DefaultText>
       <FemaleText />
     </Entry>
   </Entries>

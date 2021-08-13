@@ -30,7 +30,7 @@
     </Entry>
     <Entry>
       <ID>8</ID>
-      <DefaultText>"Убирайся из моей головы!"</DefaultText>
+      <DefaultText>«Убирайся из моей головы!»</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -40,7 +40,7 @@
     </Entry>
     <Entry>
       <ID>10</ID>
-      <DefaultText>"Что ты делаешь в моей голове?"</DefaultText>
+      <DefaultText>«Что ты делаешь в моей голове?»</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -85,22 +85,22 @@
     </Entry>
     <Entry>
       <ID>17</ID>
-      <DefaultText>"Ты променял одну тюрьму на другую. Несправедливо".</DefaultText>
+      <DefaultText>«Ты променял одну тюрьму на другую. Несправедливо».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>18</ID>
-      <DefaultText>"Ты необычно существо..."</DefaultText>
+      <DefaultText>«Ты необычно существо...»</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>19</ID>
-      <DefaultText>"Я найду способ освободить тебя".</DefaultText>
+      <DefaultText>«Я найду способ освободить тебя».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>20</ID>
-      <DefaultText>"Что это был за звук? Почему твои глаза меняют цвет?"</DefaultText>
+      <DefaultText>«Что это был за звук? Почему твои глаза меняют цвет?»</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -160,17 +160,17 @@
     </Entry>
     <Entry>
       <ID>30</ID>
-      <DefaultText>"Что ты за существо?"</DefaultText>
+      <DefaultText>«Что ты за существо?»</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>31</ID>
-      <DefaultText>"Можешь еще что-нибудь рассказать о себе?"</DefaultText>
+      <DefaultText>«Можешь еще что-нибудь рассказать о себе?»</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>32</ID>
-      <DefaultText>"Прощай".</DefaultText>
+      <DefaultText>«Прощай».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -212,12 +212,12 @@
     </Entry>
     <Entry>
       <ID>40</ID>
-      <DefaultText>"Ты ведь не отражение, верно? Не станешь красть мой разум?"</DefaultText>
+      <DefaultText>«Ты ведь не отражение, верно? Не станешь красть мой разум?»</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>41</ID>
-      <DefaultText>"Хочешь пойти со мной?"</DefaultText>
+      <DefaultText>«Хочешь пойти со мной?»</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>

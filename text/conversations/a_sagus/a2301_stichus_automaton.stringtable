@@ -43,12 +43,12 @@
     </Entry>
     <Entry>
       <ID>10</ID>
-      <DefaultText>"Отведи меня на обрыв на Краю Утеса".</DefaultText>
+      <DefaultText>«Отведи меня на обрыв на Краю Утеса».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>11</ID>
-      <DefaultText>"Прокопай туннель куда-нибудь".</DefaultText>
+      <DefaultText>«Прокопай туннель куда-нибудь».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -73,7 +73,7 @@
     </Entry>
     <Entry>
       <ID>16</ID>
-      <DefaultText>"Отведи меня в Пещеру Последних Слов".</DefaultText>
+      <DefaultText>«Отведи меня в Пещеру Последних Слов».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -83,7 +83,7 @@
     </Entry>
     <Entry>
       <ID>18</ID>
-      <DefaultText>"Ладно, не обращай внимания".</DefaultText>
+      <DefaultText>«Ладно, не обращай внимания».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -157,7 +157,7 @@
     </Entry>
     <Entry>
       <ID>35</ID>
-      <DefaultText>"Копай в случайном направлении".</DefaultText>
+      <DefaultText>«Копай в случайном направлении».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -179,7 +179,7 @@
     </Entry>
     <Entry>
       <ID>39</ID>
-      <DefaultText>"В помойке за «Пятым глазом» копается стихус-изгой. Выкопай туннель и приведи его сюда в целости".</DefaultText>
+      <DefaultText>«В помойке за „Пятым глазом“ копается стихус-изгой. Выкопай туннель и приведи его сюда в целости».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -199,12 +199,12 @@
     </Entry>
     <Entry>
       <ID>43</ID>
-      <DefaultText>"Отведи меня в логово стихусов".</DefaultText>
+      <DefaultText>«Отведи меня в логово стихусов».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>44</ID>
-      <DefaultText>"Верни меня в логово стихусов".</DefaultText>
+      <DefaultText>«Верни меня в логово стихусов».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -219,12 +219,12 @@
     </Entry>
     <Entry>
       <ID>47</ID>
-      <DefaultText>"Отведи меня в храм Меняющегося Бога".</DefaultText>
+      <DefaultText>«Отведи меня в храм Меняющегося Бога».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>48</ID>
-      <DefaultText>"Верни меня в храм Меняющегося Бога".</DefaultText>
+      <DefaultText>«Верни меня в храм Меняющегося Бога».</DefaultText>
       <FemaleText />
     </Entry>
   </Entries>

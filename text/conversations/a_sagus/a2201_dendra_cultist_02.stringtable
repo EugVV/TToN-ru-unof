@@ -6,27 +6,27 @@
   <Entries>
     <Entry>
       <ID>1</ID>
-      <DefaultText>"Я ощущаю поблизости запах пиршества. А ты?"</DefaultText>
+      <DefaultText>«Я ощущаю поблизости запах пиршества. А ты?»</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>2</ID>
-      <DefaultText>"Столько чудесных маленьких пиршеств нынче повсюду, спрятанных под камнями".</DefaultText>
+      <DefaultText>«Столько чудесных маленьких пиршеств нынче повсюду, спрятанных под камнями».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>3</ID>
-      <DefaultText>"Ты ощущаешь их запах? От них веет прохладой. Они живут в воздухе".</DefaultText>
+      <DefaultText>«Ты ощущаешь их запах? От них веет прохладой. Они живут в воздухе».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>4</ID>
-      <DefaultText>"Мне просто нужно немного перекусить. Что-то, чтобы продержаться до обеда".</DefaultText>
+      <DefaultText>«Мне просто нужно немного перекусить. Что-то, чтобы продержаться до обеда».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>5</ID>
-      <DefaultText>"Всего лишь один маленький кусочек, и как раз придет время возвращаться домой".</DefaultText>
+      <DefaultText>«Всего лишь один маленький кусочек, и как раз придет время возвращаться домой».</DefaultText>
       <FemaleText />
     </Entry>
   </Entries>

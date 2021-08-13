@@ -11,12 +11,12 @@
     </Entry>
     <Entry>
       <ID>1</ID>
-      <DefaultText>"Как воняло от тех бандитов, когда они убегали! Кто-то из них явно наложил в штаны".</DefaultText>
+      <DefaultText>«Как воняло от тех бандитов, когда они убегали! Кто-то из них явно наложил в штаны».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>2</ID>
-      <DefaultText>"Убить тех бандитов было слишком *легко*. Они знали, что у них нет шансов".</DefaultText>
+      <DefaultText>«Убить тех бандитов было слишком *легко*. Они знали, что у них нет шансов».</DefaultText>
       <FemaleText />
     </Entry>
   </Entries>

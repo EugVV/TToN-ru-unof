@@ -11,22 +11,22 @@
     </Entry>
     <Entry>
       <ID>2</ID>
-      <DefaultText>"Ох!"</DefaultText>
+      <DefaultText>«Ох!»</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>3</ID>
-      <DefaultText>"Ах!"</DefaultText>
+      <DefaultText>«Ах!»</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>4</ID>
-      <DefaultText>"Ух!"</DefaultText>
+      <DefaultText>«Ух!»</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>5</ID>
-      <DefaultText>"Эх!"</DefaultText>
+      <DefaultText>«Эх!»</DefaultText>
       <FemaleText />
     </Entry>
   </Entries>

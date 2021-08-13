@@ -303,7 +303,7 @@
     </Entry>
     <Entry>
       <ID>60</ID>
-      <DefaultText>Попытаться ввести цифры из записки мертвого мемуариста с именем "Найма".</DefaultText>
+      <DefaultText>Попытаться ввести цифры из записки мертвого мемуариста с именем «Найма».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -318,7 +318,7 @@
     </Entry>
     <Entry>
       <ID>63</ID>
-      <DefaultText>"Помнишь код от гробницы Первой? Самое время пустить его в ход".</DefaultText>
+      <DefaultText>«Помнишь код от гробницы Первой? Самое время пустить его в ход».</DefaultText>
       <FemaleText />
     </Entry>
   </Entries>

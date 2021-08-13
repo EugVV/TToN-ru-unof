@@ -13,7 +13,7 @@
     </Entry>
     <Entry>
       <ID>2</ID>
-      <DefaultText>""</DefaultText>
+      <DefaultText>«»</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -94,27 +94,27 @@
     </Entry>
     <Entry>
       <ID>17</ID>
-      <DefaultText>"Что это значит? Ничегошеньки не понимаю!"
+      <DefaultText>«Что это значит? Ничегошеньки не понимаю!»
 {RHIN}</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>18</ID>
-      <DefaultText>"О да, *именно так* нужно использовать нуменеру, как же еще", — кисло молвит Алигерн. — "Оскорблять людей сквозь время и пространство".
+      <DefaultText>«О да, *именно так* нужно использовать нуменеру, как же еще», — кисло молвит Алигерн. — «Оскорблять людей сквозь время и пространство».
 
 {ALIGERN}</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>19</ID>
-      <DefaultText>"Лучше стало, дорогуша?"
+      <DefaultText>«Лучше стало, дорогуша?»
 
 {CALLISTEGE}</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>20</ID>
-      <DefaultText>"Она оскорбила нас! Пальцем!" — он грозит стеклу кулаком. — "А ну выходи и повтори! Вот я тебя!"
+      <DefaultText>«Она оскорбила нас! Пальцем!» — он грозит стеклу кулаком. — «А ну выходи и повтори! Вот я тебя!»
 {ERRITIS}</DefaultText>
       <FemaleText />
     </Entry>
@@ -125,31 +125,31 @@
     </Entry>
     <Entry>
       <ID>22</ID>
-      <DefaultText>"Ага! Еще один соперник. Выходите, трусы! Получите по очереди, или все вместе!"
+      <DefaultText>«Ага! Еще один соперник. Выходите, трусы! Получите по очереди, или все вместе!»
 {ERRITIS}</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>23</ID>
-      <DefaultText>"Скажи ты, Эрритис".</DefaultText>
+      <DefaultText>«Скажи ты, Эрритис».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>24</ID>
-      <DefaultText>"Успокойся. Все, кого мы видим, давно мертвы".</DefaultText>
+      <DefaultText>«Успокойся. Все, кого мы видим, давно мертвы».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>26</ID>
-      <DefaultText>Он смотрит на темное стекло и фыркает. 
+      <DefaultText>Он смотрит на темное стекло и фыркает.
 
-"В темноте прячешься? Так я и думал!"
+«В темноте прячешься? Так я и думал!»
 {ERRITIS}</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>27</ID>
-      <DefaultText>"Ох", — говорит он, чуть погодя. — "Тогда нечего так грубить! Недоразумения возникают".
+      <DefaultText>«Ох», — говорит он, чуть погодя. — «Тогда нечего так грубить! Недоразумения возникают».
 {ERRITIS}</DefaultText>
       <FemaleText />
     </Entry>
@@ -174,7 +174,7 @@
     </Entry>
     <Entry>
       <ID>32</ID>
-      <DefaultText>"Уверена, в том раунде она точно тебя победила".
+      <DefaultText>«Уверена, в том раунде она точно тебя победила».
 {MATKINA}</DefaultText>
       <FemaleText />
     </Entry>
@@ -205,7 +205,7 @@
     </Entry>
     <Entry>
       <ID>36</ID>
-      <DefaultText>"Сссссс", — шипит Оом, агрессивно и, вероятно, грубо размахивая усиком.</DefaultText>
+      <DefaultText>«Сссссс», — шипит Оом, агрессивно и, вероятно, грубо размахивая усиком.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>

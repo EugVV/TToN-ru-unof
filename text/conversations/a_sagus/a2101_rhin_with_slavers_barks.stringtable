@@ -16,43 +16,43 @@
     </Entry>
     <Entry>
       <ID>3</ID>
-      <DefaultText>"Ты обещал... Я тебе поверила..."</DefaultText>
-      <FemaleText>"Ты обещала... Я тебе поверила..."</FemaleText>
+      <DefaultText>«Ты обещал... Я тебе поверила...»</DefaultText>
+      <FemaleText>«Ты обещала... Я тебе поверила...»</FemaleText>
     </Entry>
     <Entry>
       <ID>4</ID>
-      <DefaultText>"Этот мир... в нем не осталось добра".</DefaultText>
+      <DefaultText>«Этот мир... в нем не осталось добра».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>5</ID>
-      <DefaultText>"Она не сможет вечно меня удерживать".</DefaultText>
+      <DefaultText>«Она не сможет вечно меня удерживать».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>6</ID>
-      <DefaultText>"Уходи".</DefaultText>
+      <DefaultText>«Уходи».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>7</ID>
-      <DefaultText>"Помни о своем обещании".</DefaultText>
+      <DefaultText>«Помни о своем обещании».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>8</ID>
-      <DefaultText>"Не оставляй меня с ней".</DefaultText>
+      <DefaultText>«Не оставляй меня с ней».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>9</ID>
-      <DefaultText>"Я верю тебе..."</DefaultText>
+      <DefaultText>«Я верю тебе...»</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>10</ID>
-      <DefaultText>"Ты сказал, что вернешься за мной".</DefaultText>
-      <FemaleText>"Ты сказала, что вернешься за мной".</FemaleText>
+      <DefaultText>«Ты сказал, что вернешься за мной».</DefaultText>
+      <FemaleText>«Ты сказала, что вернешься за мной».</FemaleText>
     </Entry>
   </Entries>
 </StringTableFile>

@@ -26,7 +26,7 @@
     </Entry>
     <Entry>
       <ID>5</ID>
-      <DefaultText>"Я-я", — заикается он, а затем ловит ваш взгляд и сглатывает слюну. "Д-да, хорошо. Только скажи, что мне делать, и я это сделаю".</DefaultText>
+      <DefaultText>«Я-я», — заикается он, а затем ловит ваш взгляд и сглатывает слюну. «Д-да, хорошо. Только скажи, что мне делать, и я это сделаю».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -56,33 +56,33 @@
     </Entry>
     <Entry>
       <ID>11</ID>
-      <DefaultText>"Мы не сможем их одолеть! Мы должны бежать!"</DefaultText>
+      <DefaultText>«Мы не сможем их одолеть! Мы должны бежать!»</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>12</ID>
-      <DefaultText>"Прошу, оставь меня".</DefaultText>
+      <DefaultText>«Прошу, оставь меня».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>15</ID>
-      <DefaultText>Он стоит, как вкопанный, согнувшись от ужаса. Его руки закрывают голову со всех сторон. "Я-я-я не могу... Они кричат на меня! Я не могу..."</DefaultText>
+      <DefaultText>Он стоит, как вкопанный, согнувшись от ужаса. Его руки закрывают голову со всех сторон. «Я-я-я не могу... Они кричат на меня! Я не могу...»</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>16</ID>
-      <DefaultText>Он дрожит. "Ч-что я должен сделать?"</DefaultText>
+      <DefaultText>Он дрожит. «Ч-что я должен сделать?»</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>17</ID>
-      <DefaultText>"Я помогу тебе с-спасти других отверженных!"</DefaultText>
+      <DefaultText>«Я помогу тебе с-спасти других отверженных!»</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>18</ID>
-      <DefaultText>"Ты тоже должен бежать отсюда! Миэль Авест уже потерян!"</DefaultText>
-      <FemaleText>"Ты тоже должна бежать отсюда! Миэль Авест уже потерян!"</FemaleText>
+      <DefaultText>«Ты тоже должен бежать отсюда! Миэль Авест уже потерян!»</DefaultText>
+      <FemaleText>«Ты тоже должна бежать отсюда! Миэль Авест уже потерян!»</FemaleText>
     </Entry>
     <Entry>
       <ID>19</ID>
@@ -96,7 +96,7 @@
     </Entry>
     <Entry>
       <ID>21</ID>
-      <DefaultText>Он кивает: "Х-хорошо. Это я могу".</DefaultText>
+      <DefaultText>Он кивает: «Х-хорошо. Это я могу».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -108,7 +108,7 @@
       <ID>23</ID>
       <DefaultText>Он покачивается от удара, прижимая руку к покрасневшей щеке. В глазах появляется толика смысла.
 
-"С-спасибо", — говорит он, сглотнув слюну. — "Ч-чем я могу помочь? Скажи, что мне делать".</DefaultText>
+«С-спасибо», — говорит он, сглотнув слюну. — «Ч-чем я могу помочь? Скажи, что мне делать».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -128,7 +128,7 @@
     </Entry>
     <Entry>
       <ID>28</ID>
-      <DefaultText>"Подожди! Помоги мне!"</DefaultText>
+      <DefaultText>«Подожди! Помоги мне!»</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -138,22 +138,22 @@
     </Entry>
     <Entry>
       <ID>30</ID>
-      <DefaultText>"Мы должны бежать! Беги!"</DefaultText>
+      <DefaultText>«Мы должны бежать! Беги!»</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>31</ID>
-      <DefaultText>"Я н-не могу... не могу..."</DefaultText>
+      <DefaultText>«Я н-не могу... не могу...»</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>33</ID>
-      <DefaultText>"Что теперь? Боги, что теперь?"</DefaultText>
+      <DefaultText>«Что теперь? Боги, что теперь?»</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>34</ID>
-      <DefaultText>"О, нет! Нет!"</DefaultText>
+      <DefaultText>«О, нет! Нет!»</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>

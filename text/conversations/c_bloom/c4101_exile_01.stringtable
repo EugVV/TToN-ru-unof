@@ -6,12 +6,12 @@
   <Entries>
     <Entry>
       <ID>1</ID>
-      <DefaultText>"Некогда я был знатной персоной в Сагусе. Но все в прошлом, давно в прошлом..."</DefaultText>
+      <DefaultText>«Некогда я был знатной персоной в Сагусе. Но все в прошлом, давно в прошлом...»</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>3</ID>
-      <DefaultText>"Я здесь пять лет, а от жены ни весточки. И от детей тоже..."</DefaultText>
+      <DefaultText>«Я здесь пять лет, а от жены ни весточки. И от детей тоже...»</DefaultText>
       <FemaleText />
     </Entry>
   </Entries>

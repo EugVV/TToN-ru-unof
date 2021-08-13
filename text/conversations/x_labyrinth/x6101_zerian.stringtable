@@ -36,12 +36,12 @@
     </Entry>
     <Entry>
       <ID>7</ID>
-      <DefaultText>"Это все иллюзия, Зериан. Спроси мертвецов, если мне не веришь".</DefaultText>
+      <DefaultText>«Это все иллюзия, Зериан. Спроси мертвецов, если мне не веришь».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>8</ID>
-      <DefaultText>"Попробуй, Зериан. Спроси мертвецов, правда это или нет".</DefaultText>
+      <DefaultText>«Попробуй, Зериан. Спроси мертвецов, правда это или нет».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -51,7 +51,7 @@
     </Entry>
     <Entry>
       <ID>16</ID>
-      <DefaultText>"Не волнуйся. Я тебе помогу".</DefaultText>
+      <DefaultText>«Не волнуйся. Я тебе помогу».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -61,14 +61,14 @@
     </Entry>
     <Entry>
       <ID>18</ID>
-      <DefaultText>Он снова смотрит на вас. На этот раз его взгляд яснее. "Это не... правда".
+      <DefaultText>Он снова смотрит на вас. На этот раз его взгляд яснее. «Это не... правда».
 
-Он кивает. "Я помогу тебе. Во всем, что ни попросишь".</DefaultText>
+Он кивает. «Я помогу тебе. Во всем, что ни попросишь».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>19</ID>
-      <DefaultText>Он покачивает головой: "Единственный, кто выдает себя за другого, это *ты*".</DefaultText>
+      <DefaultText>Он покачивает головой: «Единственный, кто выдает себя за другого, это *ты*».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -78,12 +78,12 @@
     </Entry>
     <Entry>
       <ID>21</ID>
-      <DefaultText>Он ухмыляется и произносит: "Нет".</DefaultText>
+      <DefaultText>Он ухмыляется и произносит: «Нет».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>22</ID>
-      <DefaultText>Он странно на вас смотрит, наклонив голову набок. "Любопытно", — говорит он, прежде чем улетучиться в другую часть Лабиринта.</DefaultText>
+      <DefaultText>Он странно на вас смотрит, наклонив голову набок. «Любопытно», — говорит он, прежде чем улетучиться в другую часть Лабиринта.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -103,7 +103,7 @@
     </Entry>
     <Entry>
       <ID>32</ID>
-      <DefaultText>Он уклоняется от вашего удара. Он грозит вам пальцем и цокает языком. "Если один раз меня одурачишь..."</DefaultText>
+      <DefaultText>Он уклоняется от вашего удара. Он грозит вам пальцем и цокает языком. «Если один раз меня одурачишь...»</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>

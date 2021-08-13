@@ -11,12 +11,12 @@
     </Entry>
     <Entry>
       <ID>7</ID>
-      <DefaultText>"Время пришло!"</DefaultText>
+      <DefaultText>«Время пришло!»</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>8</ID>
-      <DefaultText>"Мы слышим, повелители!"</DefaultText>
+      <DefaultText>«Мы слышим, повелители!»</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -26,12 +26,12 @@
     </Entry>
     <Entry>
       <ID>10</ID>
-      <DefaultText>"Нас ждет награда!"</DefaultText>
+      <DefaultText>«Нас ждет награда!»</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>11</ID>
-      <DefaultText>"За славу!"</DefaultText>
+      <DefaultText>«За славу!»</DefaultText>
       <FemaleText />
     </Entry>
   </Entries>

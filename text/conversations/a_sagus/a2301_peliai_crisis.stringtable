@@ -41,22 +41,22 @@
     </Entry>
     <Entry>
       <ID>12</ID>
-      <DefaultText>"Передай эти яйца, если думаешь, что так будет лучше. Скорее!"</DefaultText>
+      <DefaultText>«Передай эти яйца, если думаешь, что так будет лучше. Скорее!»</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>13</ID>
-      <DefaultText>"Если понадобится, я заберу их с твоего трупа!"</DefaultText>
+      <DefaultText>«Если понадобится, я заберу их с твоего трупа!»</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>14</ID>
-      <DefaultText>"Аккуратнее! Не повреди яйца!"</DefaultText>
+      <DefaultText>«Аккуратнее! Не повреди яйца!»</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>15</ID>
-      <DefaultText>"Принеси яйца мне!"</DefaultText>
+      <DefaultText>«Принеси яйца мне!»</DefaultText>
       <FemaleText />
     </Entry>
   </Entries>

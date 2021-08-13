@@ -6,32 +6,32 @@
   <Entries>
     <Entry>
       <ID>1</ID>
-      <DefaultText>"Что? Чего ты хочешь? Разве не видишь, что я занят? Ты знаешь, что я делаю? А?"</DefaultText>
+      <DefaultText>«Что? Чего ты хочешь? Разве не видишь, что я занят? Ты знаешь, что я делаю? А?»</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>2</ID>
-      <DefaultText>"Мне нужно еще починить трубу и лампу, прежде чем я смогу пойти домой".</DefaultText>
+      <DefaultText>«Мне нужно еще починить трубу и лампу, прежде чем я смогу пойти домой».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>3</ID>
-      <DefaultText>"Чего тебе? Почему ты меня отрываешь от дела? Я работаю, ясно?"</DefaultText>
+      <DefaultText>«Чего тебе? Почему ты меня отрываешь от дела? Я работаю, ясно?»</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>4</ID>
-      <DefaultText>"Хочешь взять на себя ответственность за все эти сломанные лампы и трубки? Ради бога!"</DefaultText>
+      <DefaultText>«Хочешь взять на себя ответственность за все эти сломанные лампы и трубки? Ради бога!»</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>5</ID>
-      <DefaultText>"Пожалуйста, оставь меня в покое!"</DefaultText>
+      <DefaultText>«Пожалуйста, оставь меня в покое!»</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>8</ID>
-      <DefaultText>"Иди донимай кого-нибудь еще".</DefaultText>
+      <DefaultText>«Иди донимай кого-нибудь еще».</DefaultText>
       <FemaleText />
     </Entry>
   </Entries>

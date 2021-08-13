@@ -36,17 +36,17 @@
     </Entry>
     <Entry>
       <ID>7</ID>
-      <DefaultText>"Шум... Сильно. Стой... Слушать".</DefaultText>
+      <DefaultText>«Шум... Сильно. Стой... Слушать».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>8</ID>
-      <DefaultText>"Вор! Взять яйца!"</DefaultText>
+      <DefaultText>«Вор! Взять яйца!»</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>9</ID>
-      <DefaultText>"Яйца раздавил!"</DefaultText>
+      <DefaultText>«Яйца раздавил!»</DefaultText>
       <FemaleText />
     </Entry>
   </Entries>

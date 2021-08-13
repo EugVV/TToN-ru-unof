@@ -6,28 +6,28 @@
   <Entries>
     <Entry>
       <ID>1</ID>
-      <DefaultText>"Ты... ты позволишь мне прикоснуться к тебе, почитаемый сосуд?"</DefaultText>
+      <DefaultText>«Ты... ты позволишь мне прикоснуться к тебе, почитаемый сосуд?»</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>2</ID>
-      <DefaultText>"Прошу, плюнь мне в лицо, — я хочу познать блаженство!"</DefaultText>
+      <DefaultText>«Прошу, плюнь мне в лицо, — я хочу познать блаженство!»</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>3</ID>
-      <DefaultText>"Ударь меня! Я жажду принять страдание от твоих рук!"</DefaultText>
+      <DefaultText>«Ударь меня! Я жажду принять страдание от твоих рук!»</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>4</ID>
-      <DefaultText>"Возьми мою жизнь! Быть убитым богом — счастливая смерть!"</DefaultText>
+      <DefaultText>«Возьми мою жизнь! Быть убитым богом — счастливая смерть!»</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>5</ID>
-      <DefaultText>"Неужели это из-за *моей* ошибки ты забрал солнце? Да, я *заслуживаю* этого!"</DefaultText>
-      <FemaleText>"Неужели это из-за *моей* ошибки ты забрала солнце? Да, я *заслуживаю* этого!"</FemaleText>
+      <DefaultText>«Неужели это из-за *моей* ошибки ты забрал солнце? Да, я *заслуживаю* этого!»</DefaultText>
+      <FemaleText>«Неужели это из-за *моей* ошибки ты забрала солнце? Да, я *заслуживаю* этого!»</FemaleText>
     </Entry>
     <Entry>
       <ID>6</ID>

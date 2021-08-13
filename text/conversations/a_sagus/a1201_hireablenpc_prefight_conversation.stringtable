@@ -16,17 +16,17 @@
     </Entry>
     <Entry>
       <ID>3</ID>
-      <DefaultText>"Нихтемерон прибыл. Я готов, когда скажешь".</DefaultText>
+      <DefaultText>«Нихтемерон прибыл. Я готов, когда скажешь».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>4</ID>
-      <DefaultText>"Твое описание едва ли делает честь этому выдающемуся монстру, друг мой. Я готов прийти тебе на помощь!"</DefaultText>
+      <DefaultText>«Твое описание едва ли делает честь этому выдающемуся монстру, друг мой. Я готов прийти тебе на помощь!»</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>5</ID>
-      <DefaultText>"Пора сразиться с нихтемероном, не так ли? Я готова, когда скажешь!"</DefaultText>
+      <DefaultText>«Пора сразиться с нихтемероном, не так ли? Я готова, когда скажешь!»</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -106,17 +106,17 @@
     </Entry>
     <Entry>
       <ID>27</ID>
-      <DefaultText>"Пора сразиться с нихтемероном, не так ли? Мы готовы, когда скажешь!"</DefaultText>
+      <DefaultText>«Пора сразиться с нихтемероном, не так ли? Мы готовы, когда скажешь!»</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>29</ID>
-      <DefaultText>"Нихтемерон прибыл. Мы готовы, когда скажешь".</DefaultText>
+      <DefaultText>«Нихтемерон прибыл. Мы готовы, когда скажешь».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>30</ID>
-      <DefaultText>"Твое описание едва ли делает честь этому выдающемуся монстру, друг мой. Мы готовы прийти тебе на помощь!"</DefaultText>
+      <DefaultText>«Твое описание едва ли делает честь этому выдающемуся монстру, друг мой. Мы готовы прийти тебе на помощь!»</DefaultText>
       <FemaleText />
     </Entry>
   </Entries>

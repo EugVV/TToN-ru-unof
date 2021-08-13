@@ -11,12 +11,12 @@
     </Entry>
     <Entry>
       <ID>1</ID>
-      <DefaultText>"Врата закрыты не просто так. Посетителей не принимают".</DefaultText>
+      <DefaultText>«Врата закрыты не просто так. Посетителей не принимают».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>2</ID>
-      <DefaultText>"Мне говорили про тебя. Начальство не велело тебя пускать... пока что".</DefaultText>
+      <DefaultText>«Мне говорили про тебя. Начальство не велело тебя пускать... пока что».</DefaultText>
       <FemaleText />
     </Entry>
   </Entries>

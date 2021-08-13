@@ -6,27 +6,27 @@
   <Entries>
     <Entry>
       <ID>1</ID>
-      <DefaultText>"Мы не должны были приземляться сюда. Наш дирижабль потерпел крушение. Я думал, мы все умрем".</DefaultText>
+      <DefaultText>«Мы не должны были приземляться сюда. Наш дирижабль потерпел крушение. Я думал, мы все умрем».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>2</ID>
-      <DefaultText>"Мне нравится этот город. Здесь интересные люди. Я хочу больше о нем узнать".</DefaultText>
+      <DefaultText>«Мне нравится этот город. Здесь интересные люди. Я хочу больше о нем узнать».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>3</ID>
-      <DefaultText>"Мы многое что увидели в этом городе. Здесь, на Малом Кругу, есть интересные развлечения".</DefaultText>
+      <DefaultText>«Мы многое что увидели в этом городе. Здесь, на Малом Кругу, есть интересные развлечения».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>4</ID>
-      <DefaultText>"Сегодня вечером мы планируем посетить Подбрюшье".</DefaultText>
+      <DefaultText>«Сегодня вечером мы планируем посетить Подбрюшье».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>5</ID>
-      <DefaultText>"Прощай, гражданин".</DefaultText>
+      <DefaultText>«Прощай, гражданин».</DefaultText>
       <FemaleText />
     </Entry>
   </Entries>

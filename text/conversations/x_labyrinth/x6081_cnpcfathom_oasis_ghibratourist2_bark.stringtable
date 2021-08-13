@@ -6,17 +6,17 @@
   <Entries>
     <Entry>
       <ID>1</ID>
-      <DefaultText>"Проклятые дышащие воздухом, всегда пытаются обмануть нас".</DefaultText>
+      <DefaultText>«Проклятые дышащие воздухом, всегда пытаются обмануть нас».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>2</ID>
-      <DefaultText>"Заточение — это слишком хорошо для него. Его надо было бросить в Затерянное Море".</DefaultText>
+      <DefaultText>«Заточение — это слишком хорошо для него. Его надо было бросить в Затерянное Море».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>3</ID>
-      <DefaultText>"Я слышал, что они убили своего спутника. Почему они его тоже убили?"</DefaultText>
+      <DefaultText>«Я слышал, что они убили своего спутника. Почему они его тоже убили?»</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -26,7 +26,7 @@
     </Entry>
     <Entry>
       <ID>5</ID>
-      <DefaultText>"Уйди с дороги".</DefaultText>
+      <DefaultText>«Уйди с дороги».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -36,12 +36,12 @@
     </Entry>
     <Entry>
       <ID>7</ID>
-      <DefaultText>"Ты один из *них*! Ты точно не должен быть там, вместе с ним?"</DefaultText>
+      <DefaultText>«Ты один из *них*! Ты точно не должен быть там, вместе с ним?»</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>8</ID>
-      <DefaultText>"А, для меня вы все одинаковые".</DefaultText>
+      <DefaultText>«А, для меня вы все одинаковые».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>

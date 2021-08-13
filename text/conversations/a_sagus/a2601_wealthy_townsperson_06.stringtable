@@ -6,27 +6,27 @@
   <Entries>
     <Entry>
       <ID>1</ID>
-      <DefaultText>"Не возражаешь? Мне нужно серьезно поговорить с... с моим доктором".</DefaultText>
+      <DefaultText>«Не возражаешь? Мне нужно серьезно поговорить с... с моим доктором».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>2</ID>
-      <DefaultText>"Видишь ли, я не очень хорошо себя чувствую. И мой доктор помогает мне... не... чувствовать себя плохо".</DefaultText>
+      <DefaultText>«Видишь ли, я не очень хорошо себя чувствую. И мой доктор помогает мне... не... чувствовать себя плохо».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>3</ID>
-      <DefaultText>"На самом деле, если честно, со мной все хорошо. Я кое-что спрашиваю... у доктора... для друга".</DefaultText>
+      <DefaultText>«На самом деле, если честно, со мной все хорошо. Я кое-что спрашиваю... у доктора... для друга».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>4</ID>
-      <DefaultText>"Жена моего друга! У нее проблема, с которой мне сейчас помогает доктор. Да".</DefaultText>
+      <DefaultText>«Жена моего друга! У нее проблема, с которой мне сейчас помогает доктор. Да».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>5</ID>
-      <DefaultText>"Послушайте, не могли бы вы *пожалуйста* уйти?"</DefaultText>
+      <DefaultText>«Послушайте, не могли бы вы *пожалуйста* уйти?»</DefaultText>
       <FemaleText />
     </Entry>
   </Entries>

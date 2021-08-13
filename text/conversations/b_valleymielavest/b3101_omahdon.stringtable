@@ -16,8 +16,8 @@
     </Entry>
     <Entry>
       <ID>5</ID>
-      <DefaultText>"Спасибо за все, что ты сделал, друг".</DefaultText>
-      <FemaleText>"Спасибо за все, что ты сделала, подруга".</FemaleText>
+      <DefaultText>«Спасибо за все, что ты сделал, друг».</DefaultText>
+      <FemaleText>«Спасибо за все, что ты сделала, подруга».</FemaleText>
     </Entry>
   </Entries>
 </StringTableFile>

@@ -6,27 +6,27 @@
   <Entries>
     <Entry>
       <ID>1</ID>
-      <DefaultText>"О. Ты напугала меня. Я не привык быть в окружении большого количества людей!"</DefaultText>
+      <DefaultText>«О. Ты напугала меня. Я не привык быть в окружении большого количества людей!»</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>2</ID>
-      <DefaultText>"Вскоре мы снова отправимся в долину Павших Героев. Слава богу".</DefaultText>
+      <DefaultText>«Вскоре мы снова отправимся в долину Павших Героев. Слава богу».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>3</ID>
-      <DefaultText>"Я надеюсь они ухаживали за моей могилой!"</DefaultText>
+      <DefaultText>«Я надеюсь они ухаживали за моей могилой!»</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>4</ID>
-      <DefaultText>"Тебе следует как-нибудь посетить долину Павших Героев. Она довольно красива, по-своему".</DefaultText>
+      <DefaultText>«Тебе следует как-нибудь посетить долину Павших Героев. Она довольно красива, по-своему».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>5</ID>
-      <DefaultText>"До свидания!"</DefaultText>
+      <DefaultText>«До свидания!»</DefaultText>
       <FemaleText />
     </Entry>
   </Entries>

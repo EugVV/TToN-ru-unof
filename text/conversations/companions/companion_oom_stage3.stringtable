@@ -46,7 +46,7 @@
     </Entry>
     <Entry>
       <ID>9</ID>
-      <DefaultText>"Давай поговорим о наших спутниках".</DefaultText>
+      <DefaultText>«Давай поговорим о наших спутниках».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -56,7 +56,7 @@
     </Entry>
     <Entry>
       <ID>11</ID>
-      <DefaultText>"Думаю, нам пока стоит разделиться".</DefaultText>
+      <DefaultText>«Думаю, нам пока стоит разделиться».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -76,18 +76,18 @@
     </Entry>
     <Entry>
       <ID>15</ID>
-      <DefaultText>"Можно тебя осмотреть?"</DefaultText>
+      <DefaultText>«Можно тебя осмотреть?»</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>16</ID>
-      <DefaultText>"Я хочу снова осмотреть тебя".</DefaultText>
+      <DefaultText>«Я хочу снова осмотреть тебя».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>17</ID>
       <DefaultText>Внезапно существо поднимает глаза, и его мысли текут в ваш разум. Ошеломлению нет предела: это не слова, не символы, не какое бы то ни было из известных вам наречий. Эти мысли... они... все понимают. Понимают, что они — Мысли в вашей голове.
- 
+
  Едва это осознав, они пробуждаются в вашем разуме, преобразовывают *ваши* мысли в образы, передающие вам все, о чем думает существо.</DefaultText>
       <FemaleText />
     </Entry>
@@ -133,17 +133,17 @@
     </Entry>
     <Entry>
       <ID>28</ID>
-      <DefaultText>"Давай попробуем изменить твою форму, Оом".</DefaultText>
+      <DefaultText>«Давай попробуем изменить твою форму, Оом».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>29</ID>
-      <DefaultText>"Поменяй форму".</DefaultText>
+      <DefaultText>«Поменяй форму».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>30</ID>
-      <DefaultText>"Пойдём дальше".</DefaultText>
+      <DefaultText>«Пойдём дальше».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -158,12 +158,12 @@
     </Entry>
     <Entry>
       <ID>33</ID>
-      <DefaultText>"Оом, я хочу задать тебе несколько вопросов".</DefaultText>
+      <DefaultText>«Оом, я хочу задать тебе несколько вопросов».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>34</ID>
-      <DefaultText>"У меня есть еще несколько вопросов, Оом".</DefaultText>
+      <DefaultText>«У меня есть еще несколько вопросов, Оом».</DefaultText>
       <FemaleText />
     </Entry>
   </Entries>

@@ -36,52 +36,52 @@
     </Entry>
     <Entry>
       <ID>7</ID>
-      <DefaultText>"Я не могу двигаться".</DefaultText>
+      <DefaultText>«Я не могу двигаться».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>8</ID>
-      <DefaultText>"Свобода!"</DefaultText>
+      <DefaultText>«Свобода!»</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>10</ID>
-      <DefaultText>"Я не могу пошевелиться!"</DefaultText>
+      <DefaultText>«Я не могу пошевелиться!»</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>11</ID>
-      <DefaultText>"Я на свободе!"</DefaultText>
+      <DefaultText>«Я на свободе!»</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>12</ID>
-      <DefaultText>"Я в ловушке! Не могу пошевелиться!"</DefaultText>
+      <DefaultText>«Я в ловушке! Не могу пошевелиться!»</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>13</ID>
-      <DefaultText>"Я снова не могу пошевелиться!"</DefaultText>
+      <DefaultText>«Я снова не могу пошевелиться!»</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>14</ID>
-      <DefaultText>"Я не могу двигаться!"</DefaultText>
+      <DefaultText>«Я не могу двигаться!»</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>15</ID>
-      <DefaultText>"Свобода! Оковы пали!"</DefaultText>
+      <DefaultText>«Свобода! Оковы пали!»</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>16</ID>
-      <DefaultText>"Меня сковало! Не могу двинуться!"</DefaultText>
+      <DefaultText>«Меня сковало! Не могу двинуться!»</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>17</ID>
-      <DefaultText>"Свобода! Куда мне пойти?"</DefaultText>
+      <DefaultText>«Свобода! Куда мне пойти?»</DefaultText>
       <FemaleText />
     </Entry>
   </Entries>

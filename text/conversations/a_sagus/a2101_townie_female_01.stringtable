@@ -6,12 +6,12 @@
   <Entries>
     <Entry>
       <ID>1</ID>
-      <DefaultText>"Мне нравится твоя татуировка. Где ее набили?"</DefaultText>
+      <DefaultText>«Мне нравится твоя татуировка. Где ее набили?»</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>2</ID>
-      <DefaultText>"Где я могу сделать такую татуировку? У лекаря?"</DefaultText>
+      <DefaultText>«Где я могу сделать такую татуировку? У лекаря?»</DefaultText>
       <FemaleText />
     </Entry>
   </Entries>

@@ -6,12 +6,12 @@
   <Entries>
     <Entry>
       <ID>3</ID>
-      <DefaultText>"Я бы сказал, наш капитан был слишком молод, чтобы умирать... но он не был таковым".</DefaultText>
+      <DefaultText>«Я бы сказал, наш капитан был слишком молод, чтобы умирать... но он не был таковым».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>5</ID>
-      <DefaultText>"Спасибо за знамя, отверженный".</DefaultText>
+      <DefaultText>«Спасибо за знамя, отверженный».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -26,7 +26,7 @@
     </Entry>
     <Entry>
       <ID>9</ID>
-      <DefaultText>"Я на службе. Не разговариваю с незнакомцами".</DefaultText>
+      <DefaultText>«Я на службе. Не разговариваю с незнакомцами».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>

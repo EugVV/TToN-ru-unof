@@ -6,27 +6,27 @@
   <Entries>
     <Entry>
       <ID>1</ID>
-      <DefaultText>"Ты не из этой местности, нет так ли? Я тоже не местная".</DefaultText>
+      <DefaultText>«Ты не из этой местности, нет так ли? Я тоже не местная».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>2</ID>
-      <DefaultText>"Я приехала из Морского Королевства Ган в Твердыне. Это далеко на западе, если ты не знаешь".</DefaultText>
+      <DefaultText>«Я приехала из Морского Королевства Ган в Твердыне. Это далеко на западе, если ты не знаешь».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>3</ID>
-      <DefaultText>"Меня никогда не тянуло к морю. Я бы лучше поехала на остров, так далеко, как только возможно. Чтобы увидеть то, что хотела".</DefaultText>
+      <DefaultText>«Меня никогда не тянуло к морю. Я бы лучше поехала на остров, так далеко, как только возможно. Чтобы увидеть то, что хотела».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>4</ID>
-      <DefaultText>"Я в дороге уже почти... не знаю, век или около того? Больше?"</DefaultText>
+      <DefaultText>«Я в дороге уже почти... не знаю, век или около того? Больше?»</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>5</ID>
-      <DefaultText>"Береги себя там".</DefaultText>
+      <DefaultText>«Береги себя там».</DefaultText>
       <FemaleText />
     </Entry>
   </Entries>

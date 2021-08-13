@@ -6,17 +6,17 @@
   <Entries>
     <Entry>
       <ID>1</ID>
-      <DefaultText>"Давайте поближе посмотрим на этого преступника, дышащего воздухом!"</DefaultText>
+      <DefaultText>«Давайте поближе посмотрим на этого преступника, дышащего воздухом!»</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>2</ID>
-      <DefaultText>"Подойди ближе! Здесь много места для всех".</DefaultText>
+      <DefaultText>«Подойди ближе! Здесь много места для всех».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>3</ID>
-      <DefaultText>"Он пытался украсть Талисман Скоргила и убил своего спутника, пытаясь убежать!"</DefaultText>
+      <DefaultText>«Он пытался украсть Талисман Скоргила и убил своего спутника, пытаясь убежать!»</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -26,12 +26,12 @@
     </Entry>
     <Entry>
       <ID>5</ID>
-      <DefaultText>"Добро пожаловать, сэр. Хорошего дня!"</DefaultText>
-      <FemaleText>"Добро пожаловать, мадам. Хорошего дня!"</FemaleText>
+      <DefaultText>«Добро пожаловать, сэр. Хорошего дня!»</DefaultText>
+      <FemaleText>«Добро пожаловать, мадам. Хорошего дня!»</FemaleText>
     </Entry>
     <Entry>
       <ID>6</ID>
-      <DefaultText>"Надеюсь, вам понравился рынок".</DefaultText>
+      <DefaultText>«Надеюсь, вам понравился рынок».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -41,17 +41,17 @@
     </Entry>
     <Entry>
       <ID>8</ID>
-      <DefaultText>"Ты уже видел дышащего воздухом?"</DefaultText>
+      <DefaultText>«Ты уже видел дышащего воздухом?»</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>9</ID>
-      <DefaultText>"Не волнуйся. Он не сможет убежать, это невозможно".</DefaultText>
+      <DefaultText>«Не волнуйся. Он не сможет убежать, это невозможно».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>10</ID>
-      <DefaultText>"Не могу дождаться, когда закончу дела, чтобы привести своих детей".</DefaultText>
+      <DefaultText>«Не могу дождаться, когда закончу дела, чтобы привести своих детей».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>

@@ -6,17 +6,17 @@
   <Entries>
     <Entry>
       <ID>1</ID>
-      <DefaultText>"Прочь с дороги, оборванец".</DefaultText>
+      <DefaultText>«Прочь с дороги, оборванец».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>2</ID>
-      <DefaultText>"Я по делу к Иратору Бренну. Это тебя не касается".</DefaultText>
+      <DefaultText>«Я по делу к Иратору Бренну. Это тебя не касается».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>3</ID>
-      <DefaultText>"Уходи".</DefaultText>
+      <DefaultText>«Уходи».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>

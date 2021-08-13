@@ -6,12 +6,12 @@
   <Entries>
     <Entry>
       <ID>1</ID>
-      <DefaultText>"Грррр".</DefaultText>
+      <DefaultText>«Грррр».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>2</ID>
-      <DefaultText>"Ррррр".</DefaultText>
+      <DefaultText>«Ррррр».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -86,7 +86,7 @@
     </Entry>
     <Entry>
       <ID>17</ID>
-      <DefaultText>"Хрррр".</DefaultText>
+      <DefaultText>«Хрррр».</DefaultText>
       <FemaleText />
     </Entry>
   </Entries>

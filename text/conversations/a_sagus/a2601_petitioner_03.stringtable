@@ -6,17 +6,17 @@
   <Entries>
     <Entry>
       <ID>1</ID>
-      <DefaultText>"Могу сказать — этот человек знает, как заставить других ждать".</DefaultText>
+      <DefaultText>«Могу сказать — этот человек знает, как заставить других ждать».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>2</ID>
-      <DefaultText>"Держу пари, кто-то сломает себе нос еще до выходных. Я выиграю!"</DefaultText>
+      <DefaultText>«Держу пари, кто-то сломает себе нос еще до выходных. Я выиграю!»</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>3</ID>
-      <DefaultText>"С минуты на минуту кто-то начнет на него кричать. Я это чувствую".</DefaultText>
+      <DefaultText>«С минуты на минуту кто-то начнет на него кричать. Я это чувствую».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -26,7 +26,7 @@
     </Entry>
     <Entry>
       <ID>5</ID>
-      <DefaultText>"Я на самом деле принес не все, что должен подписать этот проклятый квилл-ниблер. Я здесь только для развлечения".</DefaultText>
+      <DefaultText>«Я на самом деле принес не все, что должен подписать этот проклятый квилл-ниблер. Я здесь только для развлечения».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -36,17 +36,17 @@
     </Entry>
     <Entry>
       <ID>12</ID>
-      <DefaultText>"Такое чувство, будто я стою здесь уже много *дней*..."</DefaultText>
+      <DefaultText>«Такое чувство, будто я стою здесь уже много *дней*...»</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>13</ID>
-      <DefaultText>"Секретарь даже не смотрит на нас!"</DefaultText>
+      <DefaultText>«Секретарь даже не смотрит на нас!»</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>14</ID>
-      <DefaultText>"Спорим, он заставит нас ждать всю ночь!"</DefaultText>
+      <DefaultText>«Спорим, он заставит нас ждать всю ночь!»</DefaultText>
       <FemaleText />
     </Entry>
   </Entries>

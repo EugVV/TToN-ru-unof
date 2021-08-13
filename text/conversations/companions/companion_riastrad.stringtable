@@ -16,12 +16,12 @@
     </Entry>
     <Entry>
       <ID>2</ID>
-      <DefaultText>"Итак, куда теперь?"</DefaultText>
+      <DefaultText>«Итак, куда теперь?»</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>3</ID>
-      <DefaultText>"Хватит ломать комедию. Присоединяйся к нам!"</DefaultText>
+      <DefaultText>«Хватит ломать комедию. Присоединяйся к нам!»</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -36,7 +36,7 @@
     </Entry>
     <Entry>
       <ID>6</ID>
-      <DefaultText>"Хорошо".</DefaultText>
+      <DefaultText>«Хорошо».</DefaultText>
       <FemaleText />
     </Entry>
   </Entries>

@@ -11,7 +11,7 @@
     </Entry>
     <Entry>
       <ID>2</ID>
-      <DefaultText>"Ты готов к этому?"</DefaultText>
+      <DefaultText>«Ты готов к этому?»</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -21,64 +21,64 @@
     </Entry>
     <Entry>
       <ID>4</ID>
-      <DefaultText>"Пора. Входи".</DefaultText>
+      <DefaultText>«Пора. Входи».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>5</ID>
-      <DefaultText>Коти делает шаг вперед, а затем оборачивается к вам: "Если я выживу, — то есть, если от меня что-нибудь останется — то буду свободен, и тогда никто не сможет меня тронуть".
+      <DefaultText>Коти делает шаг вперед, а затем оборачивается к вам: «Если я выживу, — то есть, если от меня что-нибудь останется — то буду свободен, и тогда никто не сможет меня тронуть».
 
 Он поворачивается к вам спиной и заходит в затемненную комнату. Дверь за ним закрывается.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>6</ID>
-      <DefaultText>"Нет! Коти, ты не должен этого делать!"</DefaultText>
+      <DefaultText>«Нет! Коти, ты не должен этого делать!»</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>7</ID>
-      <DefaultText>"Я передумал и хочу, чтобы ты вернулся на подворье".</DefaultText>
-      <FemaleText>"Я передумала и хочу, чтобы ты вернулся на подворье".</FemaleText>
+      <DefaultText>«Я передумал и хочу, чтобы ты вернулся на подворье».</DefaultText>
+      <FemaleText>«Я передумала и хочу, чтобы ты вернулся на подворье».</FemaleText>
     </Entry>
     <Entry>
       <ID>8</ID>
-      <DefaultText>"Правда? Но я..." — однако вместо того, чтобы продолжить этот спор, Коти выбегает тем же путем, откуда пришли вы.</DefaultText>
+      <DefaultText>«Правда? Но я...» — однако вместо того, чтобы продолжить этот спор, Коти выбегает тем же путем, откуда пришли вы.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>9</ID>
-      <DefaultText>Коти неотрывно смотрит на темный проем, а затем произносит: "Должен. Это единственный выход. Я должен".</DefaultText>
+      <DefaultText>Коти неотрывно смотрит на темный проем, а затем произносит: «Должен. Это единственный выход. Я должен».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>10</ID>
-      <DefaultText>Рин поворачивается к вам. В ее глазах видны слезы и отчаяние: "Пожалуйста, не заставляйте его это делать".</DefaultText>
+      <DefaultText>Рин поворачивается к вам. В ее глазах видны слезы и отчаяние: «Пожалуйста, не заставляйте его это делать».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>11</ID>
-      <DefaultText>"Он сам на это подписался, Рин. Это его выбор, а не мой".</DefaultText>
+      <DefaultText>«Он сам на это подписался, Рин. Это его выбор, а не мой».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>12</ID>
-      <DefaultText>"Он должен. Хотя бы для того, чтобы ты прекратила доставать меня разговорами о нем. Коти, заходи внутрь".</DefaultText>
+      <DefaultText>«Он должен. Хотя бы для того, чтобы ты прекратила доставать меня разговорами о нем. Коти, заходи внутрь».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>13</ID>
-      <DefaultText>"Хорошо. Коти, встретимся на подворье".</DefaultText>
+      <DefaultText>«Хорошо. Коти, встретимся на подворье».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>15</ID>
-      <DefaultText>Она топает ногой: "Так не годится!"</DefaultText>
+      <DefaultText>Она топает ногой: «Так не годится!»</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>16</ID>
-      <DefaultText>"Прости, Рин. Иди, Коти".</DefaultText>
+      <DefaultText>«Прости, Рин. Иди, Коти».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>

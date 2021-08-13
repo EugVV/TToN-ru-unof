@@ -6,27 +6,27 @@
   <Entries>
     <Entry>
       <ID>1</ID>
-      <DefaultText>"Привет! Что ты здесь делаешь? Ты Секретарь? Посыльный? *Шпион*? Ох, нет, не говори со мной".</DefaultText>
+      <DefaultText>«Привет! Что ты здесь делаешь? Ты Секретарь? Посыльный? *Шпион*? Ох, нет, не говори со мной».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>2</ID>
-      <DefaultText>"Я прихожу сюда каждый день, чтобы пообедать. Какие красивые здания!"</DefaultText>
+      <DefaultText>«Я прихожу сюда каждый день, чтобы пообедать. Какие красивые здания!»</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>3</ID>
-      <DefaultText>"Как все вокруг остаются такими чистыми? Может быть, им стирают одежду слуги?"</DefaultText>
+      <DefaultText>«Как все вокруг остаются такими чистыми? Может быть, им стирают одежду слуги?»</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>4</ID>
-      <DefaultText>"Однажды женщина из Совета указала прямо на меня!"</DefaultText>
+      <DefaultText>«Однажды женщина из Совета указала прямо на меня!»</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>5</ID>
-      <DefaultText>"Прощай".</DefaultText>
+      <DefaultText>«Прощай».</DefaultText>
       <FemaleText />
     </Entry>
   </Entries>

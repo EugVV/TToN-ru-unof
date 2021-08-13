@@ -11,12 +11,12 @@
     </Entry>
     <Entry>
       <ID>1</ID>
-      <DefaultText>"Ти-ши воллам сегул. Эдкла Арехия".</DefaultText>
+      <DefaultText>«Ти-ши воллам сегул. Эдкла Арехия».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>2</ID>
-      <DefaultText>"Эдкла Арехия! Эдкла... *Арехия*. Ти-ши. Воллам. Сегул!"</DefaultText>
+      <DefaultText>«Эдкла Арехия! Эдкла... *Арехия*. Ти-ши. Воллам. Сегул!»</DefaultText>
       <FemaleText />
     </Entry>
   </Entries>

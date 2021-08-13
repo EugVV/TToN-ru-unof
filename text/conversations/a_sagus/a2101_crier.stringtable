@@ -6,89 +6,89 @@
   <Entries>
     <Entry>
       <ID>1</ID>
-      <DefaultText>"На риф упала звезда! Сотни людей наблюдали сие явление!"</DefaultText>
+      <DefaultText>«На риф упала звезда! Сотни людей наблюдали сие явление!»</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>2</ID>
-      <DefaultText>"Зверское убийство в Подбрюшье! Убийца неизвестен, и до сих пор на свободе!"</DefaultText>
+      <DefaultText>«Зверское убийство в Подбрюшье! Убийца неизвестен, и до сих пор на свободе!»</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>3</ID>
-      <DefaultText>"На Краю Утеса рухнул очередной дом! Совет во всем обвиняет стихусов!"</DefaultText>
+      <DefaultText>«На Краю Утеса рухнул очередной дом! Совет во всем обвиняет стихусов!»</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>4</ID>
-      <DefaultText>"Очередное убийство в Подбрюшье! От жертвы осталась лишь освежеванная рука!"</DefaultText>
+      <DefaultText>«Очередное убийство в Подбрюшье! От жертвы осталась лишь освежеванная рука!»</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>5</ID>
-      <DefaultText>"Новые разрушения на Краю Утеса! Дом Сиятельной Маделии упал в море!"</DefaultText>
+      <DefaultText>«Новые разрушения на Краю Утеса! Дом Сиятельной Маделии упал в море!»</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>6</ID>
-      <DefaultText>"Правосудие свершилось! Предатель Рис мертв!"</DefaultText>
+      <DefaultText>«Правосудие свершилось! Предатель Рис мертв!»</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>7</ID>
-      <DefaultText>"Очередная жертва свежевателя рук! Третье убийство в Подбрюшье!"</DefaultText>
+      <DefaultText>«Очередная жертва свежевателя рук! Третье убийство в Подбрюшье!»</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>8</ID>
-      <DefaultText>"По приказу Совета, наемник, называющий себя Тибиром, разыскивается для допроса по обвинению в государственной измене!"</DefaultText>
+      <DefaultText>«По приказу Совета, наемник, называющий себя Тибиром, разыскивается для допроса по обвинению в государственной измене!»</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>9</ID>
-      <DefaultText>"Очередное обрушение на Краю Утеса! Погибла уважаемая повитуха!"</DefaultText>
+      <DefaultText>«Очередное обрушение на Краю Утеса! Погибла уважаемая повитуха!»</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>10</ID>
-      <DefaultText>"Свежеватель рук скрылся, бросив последнюю убитую жертву!"</DefaultText>
+      <DefaultText>«Свежеватель рук скрылся, бросив последнюю убитую жертву!»</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>11</ID>
-      <DefaultText>"Трагедия на Краю Утеса! Дом упал в море, погибла маленькая девочка!"</DefaultText>
+      <DefaultText>«Трагедия на Краю Утеса! Дом упал в море, погибла маленькая девочка!»</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>12</ID>
-      <DefaultText>"Стихусы продолжают копать! Жители Края Утеса боятся, что обрушатся новые дома!"
+      <DefaultText>«Стихусы продолжают копать! Жители Края Утеса боятся, что обрушатся новые дома!»
 
 {GEORGE: Should this set the global that tracks whether the PC knows the sticha are responsible for the tremors, falling houses, etc.? This is tracked by G_ZoneA_KnowStichaUndermineCity. I'm not sure what the repercussions of setting it here would have, so leaving alone for now. -JF}</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>13</ID>
-      <DefaultText>"Край Утеса спасен! Наконец-то стихусы перестали копать!"</DefaultText>
+      <DefaultText>«Край Утеса спасен! Наконец-то стихусы перестали копать!»</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>14</ID>
-      <DefaultText>"На Краю Утеса убит бродячий стихус! Благодарим за вмешательство бравого Лорда Вунтгена!"</DefaultText>
+      <DefaultText>«На Краю Утеса убит бродячий стихус! Благодарим за вмешательство бравого Лорда Вунтгена!»</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>15</ID>
-      <DefaultText>"Стихус-отщепенец скрылся от погони на Краю Утеса! Лорд Вантген с позором покинул район!"</DefaultText>
+      <DefaultText>«Стихус-отщепенец скрылся от погони на Краю Утеса! Лорд Вантген с позором покинул район!»</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>16</ID>
-      <DefaultText>"На Краю Утеса замечен одинокий стихус! Лорд Вантген пообещал убить его!"</DefaultText>
+      <DefaultText>«На Краю Утеса замечен одинокий стихус! Лорд Вантген пообещал убить его!»</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>17</ID>
-      <DefaultText>"Всё тихо и спокойно! Да здравствует Совет и Семьи Рабов!"</DefaultText>
+      <DefaultText>«Всё тихо и спокойно! Да здравствует Совет и Семьи Рабов!»</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -98,7 +98,7 @@
     </Entry>
     <Entry>
       <ID>19</ID>
-      <DefaultText>"Извини, мне нельзя болтать: нужно объявить последние новости".</DefaultText>
+      <DefaultText>«Извини, мне нельзя болтать: нужно объявить последние новости».</DefaultText>
       <FemaleText />
     </Entry>
   </Entries>

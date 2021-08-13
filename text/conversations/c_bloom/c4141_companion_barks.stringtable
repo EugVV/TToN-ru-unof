@@ -16,12 +16,12 @@
     </Entry>
     <Entry>
       <ID>3</ID>
-      <DefaultText>"Насколько, по-твоему, мы понимаем что именно игрушка может против нас сделать?"</DefaultText>
+      <DefaultText>«Насколько, по-твоему, мы понимаем что именно игрушка может против нас сделать?»</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>4</ID>
-      <DefaultText>"Кто хочет поспорить?"</DefaultText>
+      <DefaultText>«Кто хочет поспорить?»</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -36,7 +36,7 @@
     </Entry>
     <Entry>
       <ID>7</ID>
-      <DefaultText>"Я весьма недурно умею болтать без умолку, но..."</DefaultText>
+      <DefaultText>«Я весьма недурно умею болтать без умолку, но...»</DefaultText>
       <FemaleText />
     </Entry>
   </Entries>

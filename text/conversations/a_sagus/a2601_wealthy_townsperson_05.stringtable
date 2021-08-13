@@ -6,32 +6,32 @@
   <Entries>
     <Entry>
       <ID>1</ID>
-      <DefaultText>"Эта ужасная женщина!"</DefaultText>
+      <DefaultText>«Эта ужасная женщина!»</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>2</ID>
-      <DefaultText>"Я пытаюсь обсудить... кое-какое дело со Сведущей Йеной, продавцом секретов".</DefaultText>
+      <DefaultText>«Я пытаюсь обсудить... кое-какое дело со Сведущей Йеной, продавцом секретов».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>3</ID>
-      <DefaultText>"Она уже знает все секреты, которые я ей рассказываю. Это невозможно!"</DefaultText>
+      <DefaultText>«Она уже знает все секреты, которые я ей рассказываю. Это невозможно!»</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>4</ID>
-      <DefaultText>"Может быть, мне предложить ей... нет, нет. Если она сообщит это кому-нибудь еще, я пропаду!"</DefaultText>
+      <DefaultText>«Может быть, мне предложить ей... нет, нет. Если она сообщит это кому-нибудь еще, я пропаду!»</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>5</ID>
-      <DefaultText>"Что я могу ей продать? Что же?"</DefaultText>
+      <DefaultText>«Что я могу ей продать? Что же?»</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>6</ID>
-      <DefaultText>"Может мне... нет, она только *посмеется* надо мной".</DefaultText>
+      <DefaultText>«Может мне... нет, она только *посмеется* надо мной».</DefaultText>
       <FemaleText />
     </Entry>
   </Entries>

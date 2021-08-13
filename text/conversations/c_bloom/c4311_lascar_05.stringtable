@@ -6,17 +6,17 @@
   <Entries>
     <Entry>
       <ID>1</ID>
-      <DefaultText>"Умный ты, да? Не для посетителей".</DefaultText>
-      <FemaleText>"Умная ты, да? Не для посетителей".</FemaleText>
+      <DefaultText>«Умный ты, да? Не для посетителей».</DefaultText>
+      <FemaleText>«Умная ты, да? Не для посетителей».</FemaleText>
     </Entry>
     <Entry>
       <ID>2</ID>
-      <DefaultText>"Не посещать место. Капитан для тебя. Иди".</DefaultText>
+      <DefaultText>«Не посещать место. Капитан для тебя. Иди».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>3</ID>
-      <DefaultText>"Мы работаем, правильно. Не говорить-болтать. Про-ще вай".</DefaultText>
+      <DefaultText>«Мы работаем, правильно. Не говорить-болтать. Про-ще вай».</DefaultText>
       <FemaleText />
     </Entry>
   </Entries>

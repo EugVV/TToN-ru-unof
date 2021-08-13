@@ -6,22 +6,22 @@
   <Entries>
     <Entry>
       <ID>1</ID>
-      <DefaultText>"Пожалуйста, доброе сердце. Посмотри на меня".</DefaultText>
+      <DefaultText>«Пожалуйста, доброе сердце. Посмотри на меня».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>2</ID>
-      <DefaultText>"Просто посмотри на меня. Хотя бы один час. Неделю, если ты можешь себе это позволить".</DefaultText>
+      <DefaultText>«Просто посмотри на меня. Хотя бы один час. Неделю, если ты можешь себе это позволить».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>3</ID>
-      <DefaultText>"Я питаюсь вниманием, видишь ли. Никто никогда на не меня не смотрит. Я умираю с голода!"</DefaultText>
+      <DefaultText>«Я питаюсь вниманием, видишь ли. Никто никогда на не меня не смотрит. Я умираю с голода!»</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>4</ID>
-      <DefaultText>"Взгляни на меня! Пожалуйста! Смотри сердито, если надо. Я так голоден!"</DefaultText>
+      <DefaultText>«Взгляни на меня! Пожалуйста! Смотри сердито, если надо. Я так голоден!»</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>

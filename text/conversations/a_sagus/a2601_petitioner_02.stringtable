@@ -31,27 +31,27 @@
     </Entry>
     <Entry>
       <ID>6</ID>
-      <DefaultText>"Я ожидаю своей очереди со вчерашнего дня. Я не преувеличиваю".</DefaultText>
+      <DefaultText>«Я ожидаю своей очереди со вчерашнего дня. Я не преувеличиваю».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>7</ID>
-      <DefaultText>"Я только хочу, чтоб он поставил печать на мою бумагу на ввоз. Это все!"</DefaultText>
+      <DefaultText>«Я только хочу, чтоб он поставил печать на мою бумагу на ввоз. Это все!»</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>8</ID>
-      <DefaultText>"Что он делает? Он продолжает перемещать бумаги. Переворачивает их. Зачем? В чем смысл?"</DefaultText>
+      <DefaultText>«Что он делает? Он продолжает перемещать бумаги. Переворачивает их. Зачем? В чем смысл?»</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>9</ID>
-      <DefaultText>"У него в руках бумага, с которой он не сводит недовольного взгляда. Он же не думает, что написанное в ней изменится, если он отвернется?"</DefaultText>
+      <DefaultText>«У него в руках бумага, с которой он не сводит недовольного взгляда. Он же не думает, что написанное в ней изменится, если он отвернется?»</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>10</ID>
-      <DefaultText>"Я... Я не понимаю. Он не сделал свою работу. Почему он не сделал свою работу?"</DefaultText>
+      <DefaultText>«Я... Я не понимаю. Он не сделал свою работу. Почему он не сделал свою работу?»</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -66,17 +66,17 @@
     </Entry>
     <Entry>
       <ID>13</ID>
-      <DefaultText>"Я жду уже двенадцать часов!"</DefaultText>
+      <DefaultText>«Я жду уже двенадцать часов!»</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>14</ID>
-      <DefaultText>"Мне нужно передать груз!"</DefaultText>
+      <DefaultText>«Мне нужно передать груз!»</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>15</ID>
-      <DefaultText>"Только поставить печать. Пожалуйста!"</DefaultText>
+      <DefaultText>«Только поставить печать. Пожалуйста!»</DefaultText>
       <FemaleText />
     </Entry>
   </Entries>

@@ -6,12 +6,12 @@
   <Entries>
     <Entry>
       <ID>1</ID>
-      <DefaultText>"Эй вы, стражи... Вам дали другое задание. Идите со мной".</DefaultText>
+      <DefaultText>«Эй вы, стражи... Вам дали другое задание. Идите со мной».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>2</ID>
-      <DefaultText>"Хранил это для тебя, Тибир!"</DefaultText>
+      <DefaultText>«Хранил это для тебя, Тибир!»</DefaultText>
       <FemaleText />
     </Entry>
   </Entries>

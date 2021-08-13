@@ -6,7 +6,7 @@
   <Entries>
     <Entry>
       <ID>1</ID>
-      <DefaultText>"Продажа краденного здесь! Краденные вещи по хорошей цене!"</DefaultText>
+      <DefaultText>«Продажа краденного здесь! Краденные вещи по хорошей цене!»</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -21,27 +21,27 @@
     </Entry>
     <Entry>
       <ID>4</ID>
-      <DefaultText>"Я знаю этот взгляд. Интересно, почему меня ещё не повязали стражи, ага? Профессиональная тайна, работяга".</DefaultText>
+      <DefaultText>«Я знаю этот взгляд. Интересно, почему меня ещё не повязали стражи, ага? Профессиональная тайна, работяга».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>5</ID>
-      <DefaultText>"Интересуешься, почему никто на меня не донёс. Может, и пытались. Хе. Может, ни у кого не вышло".</DefaultText>
+      <DefaultText>«Интересуешься, почему никто на меня не донёс. Может, и пытались. Хе. Может, ни у кого не вышло».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>6</ID>
-      <DefaultText>"Если не будем говорить по делу, то ступай прочь. Давай отсюда".</DefaultText>
+      <DefaultText>«Если не будем говорить по делу, то ступай прочь. Давай отсюда».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>7</ID>
-      <DefaultText>"Ворованные нуменеры покупают здесь! Вопросов не задают!"</DefaultText>
+      <DefaultText>«Ворованные нуменеры покупают здесь! Вопросов не задают!»</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>8</ID>
-      <DefaultText>"Осторожность и секретность! Вот что вы можете ожидать от Харго Забора!"</DefaultText>
+      <DefaultText>«Осторожность и секретность! Вот что вы можете ожидать от Харго Забора!»</DefaultText>
       <FemaleText />
     </Entry>
   </Entries>

@@ -38,7 +38,7 @@
     </Entry>
     <Entry>
       <ID>7</ID>
-      <DefaultText>"Я не понимаю тебя!"</DefaultText>
+      <DefaultText>«Я не понимаю тебя!»</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -119,7 +119,7 @@
     </Entry>
     <Entry>
       <ID>22</ID>
-      <DefaultText>"До встречи".</DefaultText>
+      <DefaultText>«До встречи».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -286,17 +286,17 @@
     </Entry>
     <Entry>
       <ID>57</ID>
-      <DefaultText>"Вы имеете в виду искусственный интеллект?"</DefaultText>
+      <DefaultText>«Вы имеете в виду искусственный интеллект?»</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>58</ID>
-      <DefaultText>"Вы умеете говорить?"</DefaultText>
+      <DefaultText>«Вы умеете говорить?»</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>59</ID>
-      <DefaultText>"Зачем вам разумы устройств?"</DefaultText>
+      <DefaultText>«Зачем вам разумы устройств?»</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -318,33 +318,33 @@
     </Entry>
     <Entry>
       <ID>63</ID>
-      <DefaultText>"Я ещё ничего не нашёл, простите".
+      <DefaultText>«Я ещё ничего не нашёл, простите».
 
 {SCRIPT: Only available if the PC actually hasn't found any — will require an additional condition if the Peerless are implemented and if the PC can discover the true nature of the god of the Caravanserai.}</DefaultText>
-      <FemaleText>"Я ещё ничего не нашла, простите".
+      <FemaleText>«Я ещё ничего не нашла, простите».
 
 {SCRIPT: Only available if the PC actually hasn't found any — will require an additional condition if the Peerless are implemented and if the PC can discover the true nature of the god of the Caravanserai.}</FemaleText>
     </Entry>
     <Entry>
       <ID>64</ID>
-      <DefaultText>"Я сообщу вам, если найду какой-нибудь искусственный интеллект".</DefaultText>
+      <DefaultText>«Я сообщу вам, если найду какой-нибудь искусственный интеллект».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>65</ID>
-      <DefaultText>"Неужели?" — бормочет Каллистеж. — "Что будет с теми интеллектами, если ты их доставишь?" Серебряные сироты не реагируют на ее слова.</DefaultText>
+      <DefaultText>«Неужели?» — бормочет Каллистеж. — «Что будет с теми интеллектами, если ты их доставишь?» Серебряные сироты не реагируют на ее слова.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>66</ID>
       <DefaultText>Каллистеж слегка прикасается ладонью к вашей руке.
 
-"Узнай их мотивы, дорогуша, но помни, что знания теряют силу, когда ими делятся". Серебряные сироты не реагируют на ее слова.</DefaultText>
+«Узнай их мотивы, дорогуша, но помни, что знания теряют силу, когда ими делятся». Серебряные сироты не реагируют на ее слова.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>67</ID>
-      <DefaultText>"Я ищу женщину с пурпурными волосами. Вы её не видели?"</DefaultText>
+      <DefaultText>«Я ищу женщину с пурпурными волосами. Вы её не видели?»</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>

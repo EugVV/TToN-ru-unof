@@ -16,7 +16,7 @@
     </Entry>
     <Entry>
       <ID>3</ID>
-      <DefaultText>"Тело вон там. Мы получим его, когда вернемся".</DefaultText>
+      <DefaultText>«Тело вон там. Мы получим его, когда вернемся».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -31,22 +31,22 @@
     </Entry>
     <Entry>
       <ID>6</ID>
-      <DefaultText>"Коло, ты снова видишь вещи, которых там нет".</DefaultText>
+      <DefaultText>«Коло, ты снова видишь вещи, которых там нет».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>7</ID>
-      <DefaultText>"Конечно же они есть, Натли. Просто... не здесь".</DefaultText>
+      <DefaultText>«Конечно же они есть, Натли. Просто... не здесь».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>8</ID>
-      <DefaultText>"Мы уже говорили об этом. *Здесь* — единственное место, которое следует принимать в расчет".</DefaultText>
+      <DefaultText>«Мы уже говорили об этом. *Здесь* — единственное место, которое следует принимать в расчет».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>9</ID>
-      <DefaultText>"Ха! Другой «ты» сказал то же самое пять минут назад".</DefaultText>
+      <DefaultText>«Ха! Другой „ты“ сказал то же самое пять минут назад».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -61,17 +61,17 @@
     </Entry>
     <Entry>
       <ID>12</ID>
-      <DefaultText>"Коло, тебе следует заткнуться. Только Инифир может говорить загадками".</DefaultText>
+      <DefaultText>«Коло, тебе следует заткнуться. Только Инифир может говорить загадками».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>13</ID>
-      <DefaultText>"Только этот «я». У меня есть другие".</DefaultText>
+      <DefaultText>«Только этот „я“. У меня есть другие».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>14</ID>
-      <DefaultText>"Об этом я и говорю".</DefaultText>
+      <DefaultText>«Об этом я и говорю».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -81,7 +81,7 @@
     </Entry>
     <Entry>
       <ID>16</ID>
-      <DefaultText>"Другие могли бы освободить *тебя*, если бы ты вступил во владения кагана".</DefaultText>
+      <DefaultText>«Другие могли бы освободить *тебя*, если бы ты вступил во владения кагана».</DefaultText>
       <FemaleText />
     </Entry>
   </Entries>

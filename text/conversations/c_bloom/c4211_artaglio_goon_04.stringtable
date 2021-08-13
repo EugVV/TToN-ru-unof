@@ -6,7 +6,7 @@
   <Entries>
     <Entry>
       <ID>3</ID>
-      <DefaultText>"Поднимем бокалы за павшего Арталио!"</DefaultText>
+      <DefaultText>«Поднимем бокалы за павшего Арталио!»</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -16,7 +16,7 @@
     </Entry>
     <Entry>
       <ID>5</ID>
-      <DefaultText>"Выпьем за возвращение знамени!"</DefaultText>
+      <DefaultText>«Выпьем за возвращение знамени!»</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -31,7 +31,7 @@
     </Entry>
     <Entry>
       <ID>9</ID>
-      <DefaultText>"Хватай кружку, незнакомец. Если выдержишь этот алкоголь, конечно".</DefaultText>
+      <DefaultText>«Хватай кружку, незнакомец. Если выдержишь этот алкоголь, конечно».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>

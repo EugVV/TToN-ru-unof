@@ -11,37 +11,37 @@
     </Entry>
     <Entry>
       <ID>1</ID>
-      <DefaultText>"Серьезно, ты это слышишь? Цветение проголодалось. Этот звук напоминает мне звук, когда ворчит мой желудок".</DefaultText>
+      <DefaultText>«Серьезно, ты это слышишь? Цветение проголодалось. Этот звук напоминает мне звук, когда ворчит мой желудок».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>2</ID>
-      <DefaultText>"Может быть, ты хочешь помочь мне здесь?"</DefaultText>
+      <DefaultText>«Может быть, ты хочешь помочь мне здесь?»</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>3</ID>
-      <DefaultText>"Ну, и когда мы начнем? Цветение не в шутку пугает меня и я уже беспокоюсь".</DefaultText>
+      <DefaultText>«Ну, и когда мы начнем? Цветение не в шутку пугает меня и я уже беспокоюсь».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>4</ID>
-      <DefaultText>"Я не могу поверить , что Торговый пост сейчас открыт. Я думал, он закрылся навсегда".</DefaultText>
+      <DefaultText>«Я не могу поверить , что Торговый пост сейчас открыт. Я думал, он закрылся навсегда».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>5</ID>
-      <DefaultText>"Правда, я очень рад, что вы оказались здесь, чтобы помочь нам вызволить это фургон".</DefaultText>
+      <DefaultText>«Правда, я очень рад, что вы оказались здесь, чтобы помочь нам вызволить это фургон».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>7</ID>
-      <DefaultText>"Цветение съедает *все*. Сейчас оно съело мою работу".</DefaultText>
+      <DefaultText>«Цветение съедает *все*. Сейчас оно съело мою работу».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>8</ID>
-      <DefaultText>"Точно, Торговый пост открыт снова. Но как долго он будет открыт? И скоро оно съест *нас*?"</DefaultText>
+      <DefaultText>«Точно, Торговый пост открыт снова. Но как долго он будет открыт? И скоро оно съест *нас*?»</DefaultText>
       <FemaleText />
     </Entry>
   </Entries>

@@ -6,13 +6,13 @@
   <Entries>
     <Entry>
       <ID>1</ID>
-      <DefaultText>"Мы пытаемся заставить Алопо осмотреть катену, но он труслив, как досси".</DefaultText>
+      <DefaultText>«Мы пытаемся заставить Алопо осмотреть катену, но он труслив, как досси».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>2</ID>
-      <DefaultText>"Что ты там делал? Теперь всё... тёмное".</DefaultText>
-      <FemaleText>"Что ты там делала? Теперь всё... тёмное".</FemaleText>
+      <DefaultText>«Что ты там делал? Теперь всё... тёмное».</DefaultText>
+      <FemaleText>«Что ты там делала? Теперь всё... тёмное».</FemaleText>
     </Entry>
   </Entries>
 </StringTableFile>

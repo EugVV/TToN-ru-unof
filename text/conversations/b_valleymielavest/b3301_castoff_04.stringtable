@@ -6,22 +6,22 @@
   <Entries>
     <Entry>
       <ID>1</ID>
-      <DefaultText>"Так это ты мастер сваливаться с небес?"</DefaultText>
+      <DefaultText>«Так это ты мастер сваливаться с небес?»</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>2</ID>
-      <DefaultText>"Кажется, Скорбь зашевелилась после твоего рождения. Совпадение?"</DefaultText>
+      <DefaultText>«Кажется, Скорбь зашевелилась после твоего рождения. Совпадение?»</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>3</ID>
-      <DefaultText>"Как мы можем быть уверены, что она и сюда за тобой не явится?"</DefaultText>
+      <DefaultText>«Как мы можем быть уверены, что она и сюда за тобой не явится?»</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>4</ID>
-      <DefaultText>"Уходи из Миэль Авеста. Могу поспорить, Скорбь охотится именно за тобой".</DefaultText>
+      <DefaultText>«Уходи из Миэль Авеста. Могу поспорить, Скорбь охотится именно за тобой».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -31,18 +31,18 @@
     </Entry>
     <Entry>
       <ID>6</ID>
-      <DefaultText>"Я знаю о местных средствах защиты, но их *недостаточно*".</DefaultText>
+      <DefaultText>«Я знаю о местных средствах защиты, но их *недостаточно*».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>7</ID>
-      <DefaultText>"Щиты всего лишь маскируют нас, и скорбь может наткнуться на них в любой момент".</DefaultText>
+      <DefaultText>«Щиты всего лишь маскируют нас, и скорбь может наткнуться на них в любой момент».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>8</ID>
-      <DefaultText>"Ты не считаешь, что с его появлением нужно ждать беды?"</DefaultText>
-      <FemaleText>"Ты не считаешь, что с её появлением нужно ждать беды?"</FemaleText>
+      <DefaultText>«Ты не считаешь, что с его появлением нужно ждать беды?»</DefaultText>
+      <FemaleText>«Ты не считаешь, что с её появлением нужно ждать беды?»</FemaleText>
     </Entry>
     <Entry>
       <ID>9</ID>

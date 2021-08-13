@@ -61,22 +61,22 @@
     </Entry>
     <Entry>
       <ID>12</ID>
-      <DefaultText>"Черт возьми! Райма была *моей*!"</DefaultText>
+      <DefaultText>«Черт возьми! Райма была *моей*!»</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>13</ID>
-      <DefaultText>"Мы уходим, мы уходим".</DefaultText>
+      <DefaultText>«Мы уходим, мы уходим».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>14</ID>
-      <DefaultText>"Что случилось? Я думал, мы должны искать других".</DefaultText>
+      <DefaultText>«Что случилось? Я думал, мы должны искать других».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>15</ID>
-      <DefaultText>"Мы делаем все, что в наших силах. Уходи".</DefaultText>
+      <DefaultText>«Мы делаем все, что в наших силах. Уходи».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -96,7 +96,7 @@
     </Entry>
     <Entry>
       <ID>19</ID>
-      <DefaultText>"С удовольствием".</DefaultText>
+      <DefaultText>«С удовольствием».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -106,7 +106,7 @@
     </Entry>
     <Entry>
       <ID>21</ID>
-      <DefaultText>Он отрывисто кивает. "Хорошо. Пойдем, Райма".</DefaultText>
+      <DefaultText>Он отрывисто кивает. «Хорошо. Пойдем, Райма».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -116,12 +116,12 @@
     </Entry>
     <Entry>
       <ID>23</ID>
-      <DefaultText>Он резко оборачивается, чтобы возразить, а затем вздыхает при взгляде на разрушения вокруг него. "Может быть, ты прав. Пойдем, Райма. Нам больше не за что бороться".</DefaultText>
-      <FemaleText>Он резко оборачивается, чтобы возразить, а затем вздыхает при взгляде на разрушения вокруг него. "Может быть, ты права. Пойдем, Райма. Нам больше не за что бороться".</FemaleText>
+      <DefaultText>Он резко оборачивается, чтобы возразить, а затем вздыхает при взгляде на разрушения вокруг него. «Может быть, ты прав. Пойдем, Райма. Нам больше не за что бороться».</DefaultText>
+      <FemaleText>Он резко оборачивается, чтобы возразить, а затем вздыхает при взгляде на разрушения вокруг него. «Может быть, ты права. Пойдем, Райма. Нам больше не за что бороться».</FemaleText>
     </Entry>
     <Entry>
       <ID>24</ID>
-      <DefaultText>"Нет", — рычит он. — "Ни от *кого* я убегать не буду".</DefaultText>
+      <DefaultText>«Нет», — рычит он. — «Ни от *кого* я убегать не буду».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -136,17 +136,17 @@
     </Entry>
     <Entry>
       <ID>27</ID>
-      <DefaultText>"Райма! Нет!"</DefaultText>
+      <DefaultText>«Райма! Нет!»</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>28</ID>
-      <DefaultText>Клинок перемещается туда-сюда, пытаясь нанести следующий удар. Его доспехи трещат, когда он поворачивается к вам. "Что?"</DefaultText>
+      <DefaultText>Клинок перемещается туда-сюда, пытаясь нанести следующий удар. Его доспехи трещат, когда он поворачивается к вам. «Что?»</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>29</ID>
-      <DefaultText>"Что на этот раз?"</DefaultText>
+      <DefaultText>«Что на этот раз?»</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -156,7 +156,7 @@
     </Entry>
     <Entry>
       <ID>31</ID>
-      <DefaultText>"С удовольствием".</DefaultText>
+      <DefaultText>«С удовольствием».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -166,7 +166,7 @@
     </Entry>
     <Entry>
       <ID>33</ID>
-      <DefaultText>Он отрывисто кивает. "Верно".</DefaultText>
+      <DefaultText>Он отрывисто кивает. «Верно».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -176,42 +176,42 @@
     </Entry>
     <Entry>
       <ID>35</ID>
-      <DefaultText>Он резко оборачивается, чтобы возразить, а затем вздыхает при взгляде на разрушения вокруг него: "Может быть, ты и прав".</DefaultText>
-      <FemaleText>Он резко оборачивается, чтобы возразить, а затем вздыхает при взгляде на разрушения вокруг него: "Может быть, ты и права".</FemaleText>
+      <DefaultText>Он резко оборачивается, чтобы возразить, а затем вздыхает при взгляде на разрушения вокруг него: «Может быть, ты и прав».</DefaultText>
+      <FemaleText>Он резко оборачивается, чтобы возразить, а затем вздыхает при взгляде на разрушения вокруг него: «Может быть, ты и права».</FemaleText>
     </Entry>
     <Entry>
       <ID>36</ID>
-      <DefaultText>"Нет", — рычит он. — "Ни от *кого* я убегать не буду".</DefaultText>
+      <DefaultText>«Нет», — рычит он. — «Ни от *кого* я убегать не буду».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>44</ID>
-      <DefaultText>"Я ухожу, ухожу".</DefaultText>
+      <DefaultText>«Я ухожу, ухожу».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>45</ID>
-      <DefaultText>"Что случилось? Думал, я должен искать других".</DefaultText>
+      <DefaultText>«Что случилось? Думал, я должен искать других».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>46</ID>
-      <DefaultText>"Я делаю все, что могу. Оставь меня".</DefaultText>
+      <DefaultText>«Я делаю все, что могу. Оставь меня».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>47</ID>
-      <DefaultText>"Райма так и блуждает где-то. Мы не можем вместе работать, когда далеко друг от друга!"</DefaultText>
+      <DefaultText>«Райма так и блуждает где-то. Мы не можем вместе работать, когда далеко друг от друга!»</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>48</ID>
-      <DefaultText>"Мы не боимся тебя. Отведай нашего меча!"</DefaultText>
+      <DefaultText>«Мы не боимся тебя. Отведай нашего меча!»</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>49</ID>
-      <DefaultText>"Начинается!"</DefaultText>
+      <DefaultText>«Начинается!»</DefaultText>
       <FemaleText />
     </Entry>
   </Entries>

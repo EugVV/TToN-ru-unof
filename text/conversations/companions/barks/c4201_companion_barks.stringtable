@@ -6,12 +6,12 @@
   <Entries>
     <Entry>
       <ID>1</ID>
-      <DefaultText>"Я, как и любой исследователь, люблю руины, но эти меня *вообще* не радуют".</DefaultText>
+      <DefaultText>«Я, как и любой исследователь, люблю руины, но эти меня *вообще* не радуют».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>2</ID>
-      <DefaultText>"А где же сокровища?"</DefaultText>
+      <DefaultText>«А где же сокровища?»</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -31,7 +31,7 @@
     </Entry>
     <Entry>
       <ID>6</ID>
-      <DefaultText>"Да, когда-то это место процветало. А потом, видимо, случилось нечто ужасное".</DefaultText>
+      <DefaultText>«Да, когда-то это место процветало. А потом, видимо, случилось нечто ужасное».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -76,17 +76,17 @@
     </Entry>
     <Entry>
       <ID>15</ID>
-      <DefaultText>"Нас заперли? Супер!"</DefaultText>
+      <DefaultText>«Нас заперли? Супер!»</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>16</ID>
-      <DefaultText>"Придется искать другой выход".</DefaultText>
+      <DefaultText>«Придется искать другой выход».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>17</ID>
-      <DefaultText>"Это неудобно. Похоже, придется возвращаться обратно. Что бы там ни было".</DefaultText>
+      <DefaultText>«Это неудобно. Похоже, придется возвращаться обратно. Что бы там ни было».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -101,17 +101,17 @@
     </Entry>
     <Entry>
       <ID>20</ID>
-      <DefaultText>"Постой! Что-то приближается... Готовьтесь!"</DefaultText>
+      <DefaultText>«Постой! Что-то приближается... Готовьтесь!»</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>21</ID>
-      <DefaultText>"Я особо остро чувствую *опасность*! Вон оттуда! *Славненько*!"</DefaultText>
+      <DefaultText>«Я особо остро чувствую *опасность*! Вон оттуда! *Славненько*!»</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>22</ID>
-      <DefaultText>"Все назад! Сейчас этот узел из потрохов что-то в нас бросит!"</DefaultText>
+      <DefaultText>«Все назад! Сейчас этот узел из потрохов что-то в нас бросит!»</DefaultText>
       <FemaleText />
     </Entry>
   </Entries>

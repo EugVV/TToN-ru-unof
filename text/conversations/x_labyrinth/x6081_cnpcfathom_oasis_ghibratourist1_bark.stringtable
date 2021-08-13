@@ -6,17 +6,17 @@
   <Entries>
     <Entry>
       <ID>1</ID>
-      <DefaultText>"Он такой злой. Мне плохо, когда я смотрю на него".</DefaultText>
+      <DefaultText>«Он такой злой. Мне плохо, когда я смотрю на него».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>2</ID>
-      <DefaultText>"Действительно ли заточение — лучшее наказание для него? Наверное, он был бы счастливее, если бы его бросили в Затерянное Море".</DefaultText>
+      <DefaultText>«Действительно ли заточение — лучшее наказание для него? Наверное, он был бы счастливее, если бы его бросили в Затерянное Море».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>3</ID>
-      <DefaultText>"Я слышал, что он даже не украл его. Это незаслуженное наказание".</DefaultText>
+      <DefaultText>«Я слышал, что он даже не украл его. Это незаслуженное наказание».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -26,7 +26,7 @@
     </Entry>
     <Entry>
       <ID>5</ID>
-      <DefaultText>"Ты пробовал эликсир жизни?"</DefaultText>
+      <DefaultText>«Ты пробовал эликсир жизни?»</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -36,12 +36,12 @@
     </Entry>
     <Entry>
       <ID>8</ID>
-      <DefaultText>"Ты знаешь заключенного?"</DefaultText>
+      <DefaultText>«Ты знаешь заключенного?»</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>9</ID>
-      <DefaultText>"Вы двое выглядите похоже. Вы родственники?"</DefaultText>
+      <DefaultText>«Вы двое выглядите похоже. Вы родственники?»</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>

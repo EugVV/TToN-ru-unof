@@ -6,12 +6,12 @@
   <Entries>
     <Entry>
       <ID>1</ID>
-      <DefaultText>"Хорошее сегодня солнышко, а?"</DefaultText>
+      <DefaultText>«Хорошее сегодня солнышко, а?»</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>2</ID>
-      <DefaultText>"Во тьме... тяжело. Хочу спать..."
+      <DefaultText>«Во тьме... тяжело. Хочу спать...»
 
 {SCRIPT: First time player talks to him in nighttime, he should play this node and then pass out (until daylight returns). If nighttime occurs again after this, he should always just pass out automatically as soon as the transition happens.}</DefaultText>
       <FemaleText />

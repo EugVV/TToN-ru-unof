@@ -6,12 +6,12 @@
   <Entries>
     <Entry>
       <ID>1</ID>
-      <DefaultText>"Что, уже ночь? Странно..."</DefaultText>
+      <DefaultText>«Что, уже ночь? Странно...»</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>2</ID>
-      <DefaultText>"Омерзительное зрелище, и все же... я не могу отвести взгляд".</DefaultText>
+      <DefaultText>«Омерзительное зрелище, и все же... я не могу отвести взгляд».</DefaultText>
       <FemaleText />
     </Entry>
   </Entries>

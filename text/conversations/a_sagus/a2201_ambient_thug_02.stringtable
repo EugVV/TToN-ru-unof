@@ -6,27 +6,27 @@
   <Entries>
     <Entry>
       <ID>1</ID>
-      <DefaultText>"У тебя есть повод, чтобы преследовать меня?"</DefaultText>
+      <DefaultText>«У тебя есть повод, чтобы преследовать меня?»</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>2</ID>
-      <DefaultText>"Я похож на того, за кем ты хочешь повсюду таскаться?"</DefaultText>
+      <DefaultText>«Я похож на того, за кем ты хочешь повсюду таскаться?»</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>3</ID>
-      <DefaultText>"Я сразу начинаю беспокоиться, когда люди следуют за мной. Сияние?"</DefaultText>
+      <DefaultText>«Я сразу начинаю беспокоиться, когда люди следуют за мной. Сияние?»</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>4</ID>
-      <DefaultText>"Последний человек, который ходил за мной, получил кинжал в бок. Несчастный случай, конечно".</DefaultText>
+      <DefaultText>«Последний человек, который ходил за мной, получил кинжал в бок. Несчастный случай, конечно».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>5</ID>
-      <DefaultText>::вздыхает:: "Конечно. Следуй за мной повсюду. Мы хорошо проведём время".</DefaultText>
+      <DefaultText>::вздыхает:: «Конечно. Следуй за мной повсюду. Мы хорошо проведём время».</DefaultText>
       <FemaleText />
     </Entry>
   </Entries>
