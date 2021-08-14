@@ -6,14 +6,14 @@
   <Entries>
     <Entry>
       <ID>1</ID>
-      <DefaultText>[Призрак метнулся к вам, явно будучи в панике.
+      <DefaultText>[Призрак бросается к вам, явно будучи в панике.
 
-«Именно сейчас! »Почему ты здесь? Быстрее, нам надо бежать! Она идет сюда!«]</DefaultText>
+«Именно сейчас! Почему ты здесь? Быстрее, нам надо бежать! Она идёт сюда!»]</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>2</ID>
-      <DefaultText>[Кто идет сюда?«]</DefaultText>
+      <DefaultText>[«Кто идёт сюда?»]</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
