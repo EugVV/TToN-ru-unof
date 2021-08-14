@@ -147,7 +147,7 @@
     </Entry>
     <Entry>
       <ID>29</ID>
-      <DefaultText>«Можно спросить еще кое-что?»</DefaultText>
+      <DefaultText>«Можно спросить ещё кое-что?»</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -157,17 +157,17 @@
     </Entry>
     <Entry>
       <ID>31</ID>
-      <DefaultText>Он смеется, но быстро себя одергивает: «Единственное, что может освободить его, это помилование Совета. Но помиловать какого-то там неудачника? Да скорей у меня крылья вырастут».</DefaultText>
+      <DefaultText>Он смеётся, но быстро себя одёргивает: «Единственное, что может освободить его, это помилование Совета. Но помиловать какого-то там неудачника? Да скорей у меня крылья вырастут».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>32</ID>
-      <DefaultText>«Мое терпение не бесконечно... Ну да как знаешь».</DefaultText>
+      <DefaultText>«Моё терпение не бесконечно, друг. Но... как знаешь».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>33</ID>
-      <DefaultText>«Добрый день. Ээ, ночь. Ээ...»</DefaultText>
+      <DefaultText>«Добрый день. Э-э, ночь. Гм...»</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -504,12 +504,12 @@
     </Entry>
     <Entry>
       <ID>107</ID>
-      <DefaultText>Он поворачивается к вам: «Вот и все. Я домой».</DefaultText>
+      <DefaultText>Он поворачивается к вам: «Вот и всё. Я ухожу домой».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>108</ID>
-      <DefaultText>«Добрый день. Ээ, ночь. Ээ...»</DefaultText>
+      <DefaultText>«Добрый день. Э-э, ночь. Гм...»</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -892,9 +892,9 @@
     </Entry>
     <Entry>
       <ID>193</ID>
-      <DefaultText>«Когда приговоренный умрет, его тело съест Пожиратель Неправых».
+      <DefaultText>«Когда приговорённый умрёт, его тело съест Пожиратель Неправых».
 
-Он гордо вскидывает голову: «Вот так в Утесах вершится справедливость!»</DefaultText>
+Он гордо вскидывает голову: «Вот так в Утёсах вершится справедливость!»</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -909,7 +909,7 @@
     </Entry>
     <Entry>
       <ID>196</ID>
-      <DefaultText>«Вон тот человек сказал мне, что причастен к преступлению Риса.»</DefaultText>
+      <DefaultText>«Вон тот человек сказал мне, что причастен к преступлению Риса».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
