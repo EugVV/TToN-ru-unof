@@ -671,12 +671,12 @@
     </Entry>
     <Entry>
       <ID>134</ID>
-      <DefaultText>«Уф! Так не должно быть.»</DefaultText>
+      <DefaultText>«Уф. Это неправильно».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>135</ID>
-      <DefaultText>«Именем Черной Тройки!»</DefaultText>
+      <DefaultText>«Именем Чёрной Тройки!»</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -2201,7 +2201,7 @@
     </Entry>
     <Entry>
       <ID>440</ID>
-      <DefaultText>{hushed}«Инстинкт мне подсказывает, что нам стоит применить маскировку, чтобы избежать встречи со стихусами.{warning} Забудь про мои инстинкты.»</DefaultText>
+      <DefaultText>{hushed}«Инстинкт мне подсказывает, что нам стоит применить маскировку, чтобы избежать встречи со стихусами.{warning} Забудь про мои инстинкты».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -2221,7 +2221,7 @@
     </Entry>
     <Entry>
       <ID>444</ID>
-      <DefaultText>{Alarmed}«Внезапно мне стало больно... {grunts, surprised, in pain}ходить.»</DefaultText>
+      <DefaultText>{Alarmed}«Внезапно мне стало больно... {grunts, surprised, in pain}ходить».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -2331,12 +2331,12 @@
     </Entry>
     <Entry>
       <ID>466</ID>
-      <DefaultText>«Мы здесь простояли вечность! {Grumbles, mutters}Ну, может немного меньше, но все же.»</DefaultText>
+      <DefaultText>«Мы здесь простояли вечность! {Grumbles, mutters}Ну, может, немного меньше, но всё же».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>467</ID>
-      <DefaultText>{ants in pants}«Приключения поджидают нас на каждом шагу. Почему бы на не погнаться за ними?»</DefaultText>
+      <DefaultText>{ants in pants}«Приключения поджидают нас на каждом шагу. Почему бы не погнаться за ними?»</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -2471,12 +2471,12 @@
     </Entry>
     <Entry>
       <ID>494</ID>
-      <DefaultText>«Ты же знаешь, что ты не можешь умереть. Перестань дурить».</DefaultText>
+      <DefaultText>«Ты же знаешь, что не можешь умереть. Перестань всех дурить».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>495</ID>
-      <DefaultText>{Impatient}«Возвращайся поскорее — так скучно, когда ты умираешь.»</DefaultText>
+      <DefaultText>{Impatient}«Возвращайся поскорее — так скучно, когда ты умираешь».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -3231,7 +3231,7 @@
     </Entry>
     <Entry>
       <ID>646</ID>
-      <DefaultText>«Я... Я умираю...»</DefaultText>
+      <DefaultText>«Я... я умираю...»</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -3476,7 +3476,7 @@
     </Entry>
     <Entry>
       <ID>695</ID>
-      <DefaultText>«Если захочешь еще умереть, я могу достать тебе чан с кислотой.»</DefaultText>
+      <DefaultText>«Если снова захочешь умереть, я могу достать тебе чан с кислотой».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -3591,7 +3591,7 @@
     </Entry>
     <Entry>
       <ID>718</ID>
-      <DefaultText>{determined}«Нет. НЕТ. Я не умираю.»</DefaultText>
+      <DefaultText>{determined}«Нет. НЕТ. Я не умираю».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -5158,7 +5158,7 @@
     </Entry>
     <Entry>
       <ID>1031</ID>
-      <DefaultText>«...Во мгле или заблудившись... она найдет дорогу... домой.»</DefaultText>
+      <DefaultText>«...Во мгле или заблудившись... она найдёт дорогу... домой».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -5588,12 +5588,12 @@
     </Entry>
     <Entry>
       <ID>1117</ID>
-      <DefaultText>«Кто-нибудь протянет мне руку помощи? {Pause}Не ты, Аль.»</DefaultText>
+      <DefaultText>«Кто-нибудь протянет мне руку помощи? {Pause}Не ты, Аль».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>1118</ID>
-      <DefaultText>«Все в порядке. На ошибках учишься».</DefaultText>
+      <DefaultText>«Всё в порядке. На ошибках учишься».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>

@@ -378,7 +378,7 @@
     </Entry>
     <Entry>
       <ID>75</ID>
-      <DefaultText>«...Во мгле или заблудившись... она найдет дорогу... домой.»</DefaultText>
+      <DefaultText>«...Во мгле или заблудившись... она найдёт дорогу... домой».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -808,12 +808,12 @@
     </Entry>
     <Entry>
       <ID>161</ID>
-      <DefaultText>«Кто-нибудь протянет мне руку помощи? {Pause}Не ты, Аль.»</DefaultText>
+      <DefaultText>«Кто-нибудь протянет мне руку помощи? {Pause}Не ты, Аль».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>162</ID>
-      <DefaultText>«Все в порядке. На ошибках учишься».</DefaultText>
+      <DefaultText>«Всё в порядке. На ошибках учишься».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>

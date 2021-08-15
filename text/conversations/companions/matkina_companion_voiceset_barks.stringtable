@@ -276,7 +276,7 @@
     </Entry>
     <Entry>
       <ID>55</ID>
-      <DefaultText>«Я... Я умираю...»</DefaultText>
+      <DefaultText>«Я... я умираю...»</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -521,7 +521,7 @@
     </Entry>
     <Entry>
       <ID>104</ID>
-      <DefaultText>«Если захочешь еще умереть, я могу достать тебе чан с кислотой.»</DefaultText>
+      <DefaultText>«Если снова захочешь умереть, я могу достать тебе чан с кислотой».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -636,7 +636,7 @@
     </Entry>
     <Entry>
       <ID>127</ID>
-      <DefaultText>{determined}«Нет. НЕТ. Я не умираю.»</DefaultText>
+      <DefaultText>{determined}«Нет. НЕТ. Я не умираю».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>

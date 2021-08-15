@@ -236,7 +236,7 @@
     </Entry>
     <Entry>
       <ID>47</ID>
-      <DefaultText>{hushed}«Инстинкт мне подсказывает, что нам стоит применить маскировку, чтобы избежать встречи со стихусами.{warning} Забудь про мои инстинкты.»</DefaultText>
+      <DefaultText>{hushed}«Инстинкт мне подсказывает, что нам стоит применить маскировку, чтобы избежать встречи со стихусами.{warning} Забудь про мои инстинкты».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -256,7 +256,7 @@
     </Entry>
     <Entry>
       <ID>51</ID>
-      <DefaultText>{Alarmed}«Внезапно мне стало больно... {grunts, surprised, in pain}ходить.»</DefaultText>
+      <DefaultText>{Alarmed}«Внезапно мне стало больно... {grunts, surprised, in pain}ходить».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -366,12 +366,12 @@
     </Entry>
     <Entry>
       <ID>73</ID>
-      <DefaultText>«Мы здесь простояли вечность! {Grumbles, mutters}Ну, может немного меньше, но все же.»</DefaultText>
+      <DefaultText>«Мы здесь простояли вечность! {Grumbles, mutters}Ну, может немного меньше, но всё же».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>74</ID>
-      <DefaultText>{ants in pants}«Приключения поджидают нас на каждом шагу. Почему бы на не погнаться за ними?»</DefaultText>
+      <DefaultText>{ants in pants}«Приключения поджидают нас на каждом шагу. Почему бы не погнаться за ними?»</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -511,18 +511,18 @@
     </Entry>
     <Entry>
       <ID>102</ID>
-      <DefaultText>«Ты же знаешь, что ты не можешь умереть. Перестань дурить».</DefaultText>
+      <DefaultText>«Ты же знаешь, что не можешь умереть. Перестань всех дурить».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>103</ID>
-      <DefaultText>{Impatient}«Возвращайся поскорее — так скучно, когда ты умираешь.»</DefaultText>
+      <DefaultText>{Impatient}«Возвращайся поскорее — так скучно, когда ты умираешь».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>104</ID>
-      <DefaultText>{Irritated}«Что, серьезно, опять умер? {Scoffs}Да ты просто жаждешь внимания!»</DefaultText>
-      <FemaleText>{Irritated}«Что, серьезно, опять умерла? {Scoffs}Да ты просто жаждешь внимания!»</FemaleText>
+      <DefaultText>{Irritated}«Что, серьёзно, опять умер? {Scoffs}Да ты просто жаждешь внимания!»</DefaultText>
+      <FemaleText>{Irritated}«Что, серьёзно, опять умерла? {Scoffs}Да ты просто жаждешь внимания!»</FemaleText>
     </Entry>
     <Entry>
       <ID>105</ID>

@@ -76,12 +76,12 @@
     </Entry>
     <Entry>
       <ID>15</ID>
-      <DefaultText>«Продолжим».</DefaultText>
+      <DefaultText>«Продолжим путь».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>16</ID>
-      <DefaultText>«{Scared}Точно.» ::дрожит::</DefaultText>
+      <DefaultText>«{Scared}Верно». ::дрожит::</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -161,17 +161,17 @@
     </Entry>
     <Entry>
       <ID>34</ID>
-      <DefaultText>«Мы вернемся за ними, но сейчас это важнее.»</DefaultText>
+      <DefaultText>«Мы вернёмся за ними, но сейчас это важнее».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>35</ID>
-      <DefaultText>«Я не могу. Мы не знаем как попасть в Эн-тозон, чтобы открыть его Пасть.»</DefaultText>
+      <DefaultText>«Я не могу. Мы не знаем как попасть в Эн-тозон, чтобы открыть его Пасть».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>36</ID>
-      <DefaultText>«Все хорошо. Давайте доберемся до дома, пока мы не наделали чего-нибудь еще».</DefaultText>
+      <DefaultText>«Хорошо. Давай доберёмся до дома, пока не наделали чего-нибудь ещё».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -434,17 +434,17 @@
     </Entry>
     <Entry>
       <ID>91</ID>
-      <DefaultText>«Ты хотела о чем-то поговорить?»</DefaultText>
+      <DefaultText>«Ты хотела о чём-то поговорить?»</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>93</ID>
-      <DefaultText>«У меня нет на это времени.»</DefaultText>
+      <DefaultText>«У меня нет на это времени».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>94</ID>
-      <DefaultText>«Да. Нет.» Она прикрывает свой рот ладонью. «Ничего страшного.»</DefaultText>
+      <DefaultText>«Да. Нет», — она прикрывает рот ладонью. — «Неважно».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
