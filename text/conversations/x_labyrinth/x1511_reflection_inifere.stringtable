@@ -11,7 +11,7 @@
     </Entry>
     <Entry>
       <ID>2</ID>
-      <DefaultText>«Инифир, я хочу поговорить с тобой.»</DefaultText>
+      <DefaultText>«Инифир, я хочу поговорить с тобой».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -133,12 +133,12 @@
     </Entry>
     <Entry>
       <ID>29</ID>
-      <DefaultText>«Дайте мне кровоточить в вашем разуме, как вы очернили мой.»</DefaultText>
-      <FemaleText />
+      <DefaultText>«Позволь мне кровоточить в твоём разуме, как ты очернил мой».</DefaultText>
+      <FemaleText>«Позволь мне кровоточить в твоём разуме, как ты очернила мой».</FemaleText>
     </Entry>
     <Entry>
       <ID>30</ID>
-      <DefaultText>Перед вами стоит расплывчатая фигура Инифира. Помимо нехватки вещества из которого он состоит, его также тяготят неведомые трудности. В его четко очерченных, следящих за вами глазах, читается негласная печаль.</DefaultText>
+      <DefaultText>Перед вами расплывчатая фигура Инифира. Помимо нехватки вещества из которого он состоит, его также тяготят неведомые трудности. В его чётко очерченных, следящих за вами глазах, читается невысказанное горе.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -200,7 +200,7 @@
     </Entry>
     <Entry>
       <ID>42</ID>
-      <DefaultText>«Ты нашел здесь умиротворение?»</DefaultText>
+      <DefaultText>«Ты нашёл здесь умиротворение?»</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -210,7 +210,7 @@
     </Entry>
     <Entry>
       <ID>44</ID>
-      <DefaultText>«Прощай.»</DefaultText>
+      <DefaultText>«Прощай».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
