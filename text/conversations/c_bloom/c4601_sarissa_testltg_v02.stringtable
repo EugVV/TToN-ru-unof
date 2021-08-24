@@ -445,7 +445,7 @@
     </Entry>
     <Entry>
       <ID>135</ID>
-      <DefaultText>«No, thank you.»</DefaultText>
+      <DefaultText>«Нет, спасибо».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -701,12 +701,12 @@
     </Entry>
     <Entry>
       <ID>192</ID>
-      <DefaultText>«Квишамис ушел с дороги».</DefaultText>
+      <DefaultText>«Квишамис ушёл с дороги».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>193</ID>
-      <DefaultText>«Not yet.»</DefaultText>
+      <DefaultText>«Не сейчас».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>

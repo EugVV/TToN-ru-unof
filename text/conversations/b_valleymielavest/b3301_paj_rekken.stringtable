@@ -638,12 +638,12 @@
     </Entry>
     <Entry>
       <ID>165</ID>
-      <DefaultText>«Ты принял ее сторону. Почему? Ты видел, что случилось в Кольне».</DefaultText>
-      <FemaleText>«Ты приняла ее сторону. Почему? Ты видела, что случилось в Кольне».</FemaleText>
+      <DefaultText>«Ты принял её сторону. Почему? Ты видел, что случилось в Кольне».</DefaultText>
+      <FemaleText>«Ты приняла её сторону. Почему? Ты видела, что случилось в Кольне».</FemaleText>
     </Entry>
     <Entry>
       <ID>166</ID>
-      <DefaultText>«Хватит. Пойдём.»</DefaultText>
+      <DefaultText>«Хватит. Пойдём».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -658,7 +658,7 @@
     </Entry>
     <Entry>
       <ID>169</ID>
-      <DefaultText>Вы не можете прочитать ее мысли. Они заглушены, как будто что-то вмешивается в них.</DefaultText>
+      <DefaultText>Вы не можете прочитать её мысли. Они заглушены, как будто что-то вмешивается в них.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
