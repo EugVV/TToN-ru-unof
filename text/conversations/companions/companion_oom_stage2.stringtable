@@ -91,12 +91,12 @@
     </Entry>
     <Entry>
       <ID>22</ID>
-      <DefaultText>«Оом, я хочу задать тебе несколько вопросов».</DefaultText>
+      <DefaultText>«Оом, у меня к тебе вопросы».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>23</ID>
-      <DefaultText>«У меня есть еще несколько вопросов, Оом».</DefaultText>
+      <DefaultText>«У меня ещё вопросы, Оом».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -160,7 +160,7 @@
     </Entry>
     <Entry>
       <ID>36</ID>
-      <DefaultText>«Пойдем дальше».</DefaultText>
+      <DefaultText>«Пойдём дальше».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
