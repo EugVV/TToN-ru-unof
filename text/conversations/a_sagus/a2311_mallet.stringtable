@@ -263,7 +263,7 @@
     </Entry>
     <Entry>
       <ID>58</ID>
-      <DefaultText>«Да, конечно. Кто?»</DefaultText>
+      <DefaultText>«Да, конечно. О ком?»</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -278,7 +278,7 @@
     </Entry>
     <Entry>
       <ID>61</ID>
-      <DefaultText>«Что ещё думаешь об Имбиту?»</DefaultText>
+      <DefaultText>«Повтори, что думаешь об Имбиту?»</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -293,7 +293,7 @@
     </Entry>
     <Entry>
       <ID>65</ID>
-      <DefaultText>«Что сейчас ты думаешь о Гзи?»</DefaultText>
+      <DefaultText>«Повтори, что ты думаешь о Гзи?»</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -308,7 +308,7 @@
     </Entry>
     <Entry>
       <ID>68</ID>
-      <DefaultText>«Что еще ты чувствуешь по поводу Киятавы?»</DefaultText>
+      <DefaultText>«Ещё раз, что ты чувствуешь по поводу Киятавы?»</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -318,7 +318,7 @@
     </Entry>
     <Entry>
       <ID>70</ID>
-      <DefaultText>«Да ну? О чем?»</DefaultText>
+      <DefaultText>«Да ну? О чём?»</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -350,7 +350,7 @@
     </Entry>
     <Entry>
       <ID>76</ID>
-      <DefaultText>«Гзи — монстр», — говорит он, покачивая головой. — «Меньше, чем человек, но больше, чем животное. Я видел, как она одним взмахом своих когтей содрала кожу с лица трупа и запихнула её себе в рот как лепёшку. И не останавливалась, пока плоть не закончилась — до последней капли крови».
+      <DefaultText>«Гзи — монстр», — говорит он, покачивая головой. — «Меньше, чем человек, но больше, чем животное. Я видел, как она одним взмахом своих когтей содрала кожу с лица трупа и запихнула её себе в рот как лепёшку. И не останавливалась, пока плоть не закончилась, — до последней капли крови».
 
 Он закусывает верхнюю губу так, что текут струйки крови: «Поговори с Гзи, если хочешь. Постарайся её понять. Ну а я, я держусь от неё на расстоянии».</DefaultText>
       <FemaleText />
@@ -470,7 +470,7 @@
     </Entry>
     <Entry>
       <ID>99</ID>
-      <DefaultText>«Н-да, я даже и не сомневался».</DefaultText>
+      <DefaultText>«М-да, я даже и не сомневался».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>

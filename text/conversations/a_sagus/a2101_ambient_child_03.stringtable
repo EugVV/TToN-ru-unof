@@ -16,13 +16,12 @@
     </Entry>
     <Entry>
       <ID>3</ID>
-      <DefaultText>«Ночью даже лучше!»
-{SCRIPT: These barks are triggered by a2101_ambient_performer_02's actions, not the player}</DefaultText>
+      <DefaultText>«Ночью даже лучше!»</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>4</ID>
-      <DefaultText>«Ууух».</DefaultText>
+      <DefaultText>«У-ух».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>

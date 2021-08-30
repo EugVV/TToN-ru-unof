@@ -881,7 +881,7 @@
     </Entry>
     <Entry>
       <ID>175</ID>
-      <DefaultText>Страж Гибра</DefaultText>
+      <DefaultText>Страж-гибра</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -2676,7 +2676,7 @@
     </Entry>
     <Entry>
       <ID>534</ID>
-      <DefaultText>Торговец Гибра</DefaultText>
+      <DefaultText>Торговец-гибра</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -2831,12 +2831,12 @@
     </Entry>
     <Entry>
       <ID>565</ID>
-      <DefaultText>Сановник Гибра</DefaultText>
+      <DefaultText>Сановник-гибра</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>566</ID>
-      <DefaultText>Посол Гибра</DefaultText>
+      <DefaultText>Посол гибра</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
