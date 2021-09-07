@@ -5641,7 +5641,7 @@
     </Entry>
     <Entry>
       <ID>1128</ID>
-      <DefaultText>Предельное усилие при проверках Интеллекта увеличивается на +1.</DefaultText>
+      <DefaultText>Предельное усилие при проверках интеллекта увеличивается на +1.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -5651,12 +5651,12 @@
     </Entry>
     <Entry>
       <ID>1130</ID>
-      <DefaultText>Дает силу за счет ярости, но эта сила имеет свою цену: [PassiveEffectsBasic].</DefaultText>
+      <DefaultText>Черпает силу из безумия, но эта сила имеет свою цену: [PassiveEffectsBasic].</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>1131</ID>
-      <DefaultText>Умиротворенность Серии</DefaultText>
+      <DefaultText>Умиротворённость Серии</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
