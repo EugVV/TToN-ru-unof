@@ -21,7 +21,7 @@
     </Entry>
     <Entry>
       <ID>4</ID>
-      <DefaultText>«Ты уже нанес мне достаточно обид?»</DefaultText>
+      <DefaultText>«Разве от тебя ещё не достаточно вреда?»</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -31,17 +31,17 @@
     </Entry>
     <Entry>
       <ID>6</ID>
-      <DefaultText>«Еще раз благодарю тебя».</DefaultText>
+      <DefaultText>«Ещё раз благодарю тебя».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>7</ID>
-      <DefaultText>«Ты сдержал свое обещание. Я этого не забуду».</DefaultText>
-      <FemaleText />
+      <DefaultText>«Ты сдержал своё обещание. Я этого не забуду».</DefaultText>
+      <FemaleText>«Ты сдержала своё обещание. Я этого не забуду».</FemaleText>
     </Entry>
     <Entry>
       <ID>8</ID>
-      <DefaultText>«Я действительно верю, что она чувствует ко мне симпатию».</DefaultText>
+      <DefaultText>«Я верю, что она оттаивает ко мне».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -61,37 +61,38 @@
     </Entry>
     <Entry>
       <ID>18</ID>
-      <DefaultText>«У меня и Салимери есть дела здесь».</DefaultText>
+      <DefaultText>«У меня и Салимери здесь дела».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>19</ID>
       <DefaultText>«Ты мне уже надоел».</DefaultText>
-      <FemaleText />
+      <FemaleText>«Ты мне уже надоела».</FemaleText>
     </Entry>
     <Entry>
       <ID>20</ID>
-      <DefaultText>«Я не знаю, почему ты так понравился ей. Я все равно когда-нибудь убью тебя».</DefaultText>
+      <DefaultText>«Не понимаю, почему ты так понравился ей. Я всё равно когда-нибудь убью тебя».</DefaultText>
+      <FemaleText>«Не понимаю, почему ты так понравилась ей. Я всё равно когда-нибудь убью тебя».</FemaleText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>21</ID>
-      <DefaultText>«Упавшая Звезда, как голова? Держу пари, еще кровоточит».</DefaultText>
+      <DefaultText>«Упавшая звезда, как голова? Держу пари, ещё кровоточит».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>22</ID>
-      <DefaultText>«Как выгодно — после проигранной битвы можно вернуться из мира мертвых. Возможно, ты используешь эту способность и сегодня».</DefaultText>
+      <DefaultText>«Как удобно — после проигранной битвы можно вернуться из мира мёртвых. Возможно, ты используешь эту способность и сегодня».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>24</ID>
-      <DefaultText>«У меня и Салимери есть дела здесь».</DefaultText>
+      <DefaultText>«У меня и Салимери здесь дела».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>25</ID>
-      <DefaultText>«Не забудь о своем обещании».</DefaultText>
+      <DefaultText>«Не забудь о своём обещании».</DefaultText>
       <FemaleText />
     </Entry>
   </Entries>
