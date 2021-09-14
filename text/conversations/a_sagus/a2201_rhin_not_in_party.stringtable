@@ -116,12 +116,12 @@
     </Entry>
     <Entry>
       <ID>27</ID>
-      <DefaultText>Она смотрит на тесный уголок, в котором пряталась, а затем снова на вас: «Куда ты идешь?»</DefaultText>
+      <DefaultText>Она смотрит на тесный уголок, в котором пряталась, а затем снова на вас: «Куда ты идёшь?»</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>28</ID>
-      <DefaultText>«Идем!»</DefaultText>
+      <DefaultText>«Идём!»</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -171,12 +171,12 @@
     </Entry>
     <Entry>
       <ID>38</ID>
-      <DefaultText>«Кажется...» — затем она стискивает зубы и кивает. — «Хорошо. Я это сделаю».</DefaultText>
+      <DefaultText>«Наверное...» — затем она стискивает зубы и кивает. — «Хорошо. Так и поступлю».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>39</ID>
-      <DefaultText>«Хорошо. Звучит вроде неплохо. Я это сделаю».</DefaultText>
+      <DefaultText>«Ладно. Звучит вроде неплохо. Так и поступлю».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -403,12 +403,12 @@
     </Entry>
     <Entry>
       <ID>89</ID>
-      <DefaultText>«Но что с теми головорезами? Что если еще кто-нибудь придет за мной или за *тобой*? Я не боец и не смогу помочь тебе».</DefaultText>
+      <DefaultText>«Но что с теми головорезами? Что, если ещё кто-нибудь придёт за мной или за *тобой*? Я не боец и не смогу тебе помочь».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>90</ID>
-      <DefaultText>При этих словах Рин хмурится, хотя, кажется, она обдумывает ваше предложение.</DefaultText>
+      <DefaultText>При этих словах Рин хмурится, хотя ваше предложение, видимо, обдумывает.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
