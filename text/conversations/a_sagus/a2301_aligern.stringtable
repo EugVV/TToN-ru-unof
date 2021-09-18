@@ -61,7 +61,7 @@
     </Entry>
     <Entry>
       <ID>12</ID>
-      <DefaultText>«Как ты попал сюда?»</DefaultText>
+      <DefaultText>«Как ты сюда попал?»</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -141,22 +141,22 @@
     </Entry>
     <Entry>
       <ID>28</ID>
-      <DefaultText>«Это Подбрюшье. Отличное место для работы, если ты ценишь свое личное пространство. Здесь есть и удивительные находки, и хорошие люди... Ну, может не такие уж и хорошие. Но они стараются жить более-менее честно».</DefaultText>
+      <DefaultText>«Это Подбрюшье. Отличное место для работы, если ты ценишь своё личное пространство. Здесь есть и удивительные находки, и хорошие люди... ну, может, не такие уж и хорошие. Но они стараются жить более-менее честно».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>29</ID>
-      <DefaultText>«Подбрюшье. Я мало что могу сказать тебе о нем. Вероятно, не самое лучшее место для тебя».</DefaultText>
+      <DefaultText>«Подбрюшье. Я мало что могу о нём рассказать. Вероятно, не самое лучшее место для тебя».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>30</ID>
-      <DefaultText>«Что ты можешь рассказать мне об этом месте?»</DefaultText>
+      <DefaultText>«Что ты можешь рассказать об этом месте?»</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>31</ID>
-      <DefaultText>«Не расскажешь ли еще о Подбрюшье?»</DefaultText>
+      <DefaultText>«Не расскажешь ли снова об этом месте?»</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -171,12 +171,12 @@
     </Entry>
     <Entry>
       <ID>34</ID>
-      <DefaultText>«Орден Истины решил, что я им больше не нужен, так что я собрал вещи и переехал сюда. Все равно мне здесь больше нравится. Здесь ты хотя бы можешь посмотреть в лицо тем, кто хочет прирезать тебя».</DefaultText>
+      <DefaultText>«Орден Истины решил, что я им больше не нужен, так что я собрал вещи и переехал сюда. Всё равно мне здесь больше нравится. Здесь ты хотя бы можешь посмотреть в лицо тем, кто хочет тебя прирезать».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>35</ID>
-      <DefaultText>«Потому что остальные варианты мне не понравились».</DefaultText>
+      <DefaultText>«Потому что остальные варианты мне не нравились».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -186,7 +186,7 @@
     </Entry>
     <Entry>
       <ID>37</ID>
-      <DefaultText>«Можешь еще раз рассказать, почему ты оказался здесь?»</DefaultText>
+      <DefaultText>«Не повторишь, почему ты оказался здесь?»</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -271,12 +271,12 @@
     </Entry>
     <Entry>
       <ID>54</ID>
-      <DefaultText>«Так как мне здесь нечем особо заняться... Ладно».</DefaultText>
+      <DefaultText>«Не то чтобы я занят здесь чем-то очень важным. Ладно».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>55</ID>
-      <DefaultText>«Так ты пойдешь со мной?»</DefaultText>
+      <DefaultText>«Не хочешь снова путешествовать со мной?»</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -286,7 +286,7 @@
     </Entry>
     <Entry>
       <ID>57</ID>
-      <DefaultText>«Нет, если ты предлагаешь путешествовать целой толпой. Избавься от кое-кого и потом мы поговорим».</DefaultText>
+      <DefaultText>«Нет, если ты предлагаешь путешествовать целой толпой. Избавься от кого-нибудь, а потом мы поговорим».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -366,12 +366,12 @@
     </Entry>
     <Entry>
       <ID>73</ID>
-      <DefaultText>«Я слышал о них, но не наводил справок. Работы много. А ты у Дендры не спрашивал? А у своей сестры, Мэткины? Это мой тебе совет».</DefaultText>
-      <FemaleText />
+      <DefaultText>«Я слышал о них, но не наводил справок. Работы много. А ты у Дендра не спрашивал? Или у своей сестры, Мэткины? Это мой тебе совет».</DefaultText>
+      <FemaleText>«Я слышал о них, но не наводил справок. Работы много. А ты у Дендра не спрашивала? Или у своей сестры, Мэткины? Это мой тебе совет».</FemaleText>
     </Entry>
     <Entry>
       <ID>74</ID>
-      <DefaultText>«Я же уже сказал... поговори с Мэткиной или с Дендрой».</DefaultText>
+      <DefaultText>«Я же уже сказал... поговори с Мэткиной или спроси у Дендра».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -381,8 +381,8 @@
     </Entry>
     <Entry>
       <ID>76</ID>
-      <DefaultText>«Я хотел бы еще раз расспросить тебя об убийствах в Подбрюшье».</DefaultText>
-      <FemaleText>«Я хотела бы еще раз расспросить тебя об убийствах в Подбрюшье».</FemaleText>
+      <DefaultText>«Я хотел бы ещё раз спросить тебя об убийствах в Подбрюшье».</DefaultText>
+      <FemaleText>«Я хотела бы ещё раз спросить тебя об убийствах в Подбрюшье».</FemaleText>
     </Entry>
     <Entry>
       <ID>77</ID>
@@ -396,7 +396,7 @@
     </Entry>
     <Entry>
       <ID>80</ID>
-      <DefaultText>«Мм-хм».</DefaultText>
+      <DefaultText>«М-м-хм».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -416,7 +416,7 @@
     </Entry>
     <Entry>
       <ID>85</ID>
-      <DefaultText>«Я как-то покупал у нее кое-что, но близкими друзьями нас не назовешь».</DefaultText>
+      <DefaultText>«Я кое-что у неё покупал, но близкими друзьями нас не назовёшь».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -441,12 +441,12 @@
     </Entry>
     <Entry>
       <ID>91</ID>
-      <DefaultText>«Так ты пойдешь со мной?»</DefaultText>
+      <DefaultText>«Не хочешь снова путешествовать со мной?»</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>92</ID>
-      <DefaultText>«Я хочу еще раз попросить тебя стать моим спутником».</DefaultText>
+      <DefaultText>«Я хочу ещё раз попросить тебя стать моим спутником».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -461,7 +461,7 @@
     </Entry>
     <Entry>
       <ID>95</ID>
-      <DefaultText>«Можешь рассказать мне об этом месте еще раз?»</DefaultText>
+      <DefaultText>«Не расскажешь ли снова об этом месте?»</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -491,7 +491,7 @@
     </Entry>
     <Entry>
       <ID>101</ID>
-      <DefaultText>«Можешь еще раз рассказать о себе?»</DefaultText>
+      <DefaultText>«Можешь ещё раз рассказать о себе?»</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
