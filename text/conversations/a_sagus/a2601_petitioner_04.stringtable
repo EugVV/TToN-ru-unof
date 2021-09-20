@@ -11,12 +11,12 @@
     </Entry>
     <Entry>
       <ID>2</ID>
-      <DefaultText>«Ты не можешь подождать, чтобы поговорить с этим отродьем лаака?»</DefaultText>
+      <DefaultText>«Ты тоже ждёшь, чтобы поговорить с этим отродьем лаака, не так ли?»</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>3</ID>
-      <DefaultText>«Я старался быть любезным. Я старался подписывать их бумажки и платить взятки. Это было еще недавно!»</DefaultText>
+      <DefaultText>«Я старался следовать правилам. Пытался подписать все его бумаги и дать ему взятку. Но это было больше часа назад!»</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -26,7 +26,7 @@
     </Entry>
     <Entry>
       <ID>5</ID>
-      <DefaultText>«Я изобью его до крови, если *что-нибудь* вообще течет в его венах».</DefaultText>
+      <DefaultText>«Я изобью его в кровь, если *что-либо* вообще течёт в его венах».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -41,7 +41,7 @@
     </Entry>
     <Entry>
       <ID>9</ID>
-      <DefaultText>«Эй! У некоторых из нас есть еще дела!»</DefaultText>
+      <DefaultText>«Эй! У некоторых из нас есть и другие дела!»</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>

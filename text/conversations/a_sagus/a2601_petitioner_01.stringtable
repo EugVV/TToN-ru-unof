@@ -6,27 +6,27 @@
   <Entries>
     <Entry>
       <ID>1</ID>
-      <DefaultText>«О чем можно так долго говорить? У меня только простой приказ!»</DefaultText>
+      <DefaultText>«Почему это занимает так много времени? Я здесь лишь ради простого предписания!»</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>2</ID>
-      <DefaultText>«Я обращаюсь за разрешением продавать орехи на Малом Круге. Орехи! Они говорят, что надо подождать два дня!»</DefaultText>
+      <DefaultText>«Я обращаюсь за разрешением продавать орехи на Малом Круге. Орехи! А он говорит, что надо подождать два дня!»</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>3</ID>
-      <DefaultText>«Он просил три гонорара, подтверждение гражданства и гарантийное письмо!»</DefaultText>
+      <DefaultText>«Он потребовал оплату трёх разных пошлин, подтверждение гражданства и заявление о намерениях!»</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>4</ID>
-      <DefaultText>«Я просто хочу продавать сладости из орехов детям. Они же не думают, что я шпион? Нелегально добываю орехи?»</DefaultText>
+      <DefaultText>«Я просто хочу продавать детям сахарные орешки. Он же не думает, что я шпионка? Вожу орехи контрабандой?»</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>5</ID>
-      <DefaultText>::ворчит::</DefaultText>
+      <DefaultText>::рычит::</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -36,7 +36,7 @@
     </Entry>
     <Entry>
       <ID>7</ID>
-      <DefaultText>«Что еще вам нужно?»</DefaultText>
+      <DefaultText>«Что ещё вам нужно?»</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -46,7 +46,7 @@
     </Entry>
     <Entry>
       <ID>9</ID>
-      <DefaultText>«Вы уже все сделали?»</DefaultText>
+      <DefaultText>«Всё уже почти готово?»</DefaultText>
       <FemaleText />
     </Entry>
   </Entries>
