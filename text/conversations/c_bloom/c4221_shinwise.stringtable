@@ -107,7 +107,7 @@
     </Entry>
     <Entry>
       <ID>18</ID>
-      <DefaultText>«Мне знакомо клеймо на твоей щеке. Таким знаком в Утесах Сагуса юстициары клеймят убийц».
+      <DefaultText>«Мне знакомо клеймо на твоей щеке. Таким знаком на Утёсах Сагуса юстициары клеймят убийц».
 
 {COLIN/GEORGE: Consider making this a global flag check for the player having seen the mark in Zone A.}</DefaultText>
       <FemaleText />
