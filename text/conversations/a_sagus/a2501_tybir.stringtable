@@ -162,7 +162,7 @@
     <Entry>
       <ID>30</ID>
       <DefaultText>«Ты уверен? У меня огромный опыт. Я повидал много мест».</DefaultText>
-      <FemaleText />
+      <FemaleText>«Ты уверена? У меня огромный опыт. Я повидал много мест».</FemaleText>
     </Entry>
     <Entry>
       <ID>31</ID>
@@ -229,7 +229,7 @@
     <Entry>
       <ID>43</ID>
       <DefaultText>«Ты уверен? У меня огромный опыт. Я повидал много мест».</DefaultText>
-      <FemaleText />
+      <FemaleText>«Ты уверена? У меня огромный опыт. Я повидал много мест».</FemaleText>
     </Entry>
     <Entry>
       <ID>44</ID>
