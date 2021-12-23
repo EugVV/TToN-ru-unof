@@ -360,7 +360,7 @@
     </Entry>
     <Entry>
       <ID>77</ID>
-      <DefaultText>«Еще увидимся».</DefaultText>
+      <DefaultText>«Ещё увидимся».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -370,9 +370,9 @@
     </Entry>
     <Entry>
       <ID>80</ID>
-      <DefaultText>«Нет, ты не сможешь. Я уже все облазила в этих дважды проклятых горах, но пути так и не нашла. Мне нужно найти другой путь из долины. *Приятно* было с тобой поболтать».
+      <DefaultText>«Нет, не увидимся. Я уже всё облазила в этих дважды проклятых горах, но пути так и не нашла. Мне нужно найти другой путь из долины. *Приятно* было с тобой поболтать».
 
- Ее тон заставляет вас усомниться в правдивости этого заявления.</DefaultText>
+Её тон заставляет вас усомниться в правдивости последнего заявления.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -412,7 +412,7 @@
     </Entry>
     <Entry>
       <ID>88</ID>
-      <DefaultText>«Подожди, не уходи. Позволь мне сначала задать еще несколько вопросов».</DefaultText>
+      <DefaultText>«Погоди, ты уходишь? Позволь мне сперва задать ещё несколько вопросов».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -422,12 +422,12 @@
     </Entry>
     <Entry>
       <ID>90</ID>
-      <DefaultText>«Мм».</DefaultText>
+      <DefaultText>«М-м».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>91</ID>
-      <DefaultText>В ее глазах видно еле скрываемое раздражение.</DefaultText>
+      <DefaultText>В её глазах видно еле скрываемое раздражение.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
