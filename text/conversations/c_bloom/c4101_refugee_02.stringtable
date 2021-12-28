@@ -11,17 +11,17 @@
     </Entry>
     <Entry>
       <ID>1</ID>
-      <DefaultText>«Пока эти воры не оставят в покое Киан, они не придут за мной».</DefaultText>
+      <DefaultText>«Пока эти воры заняты Киан, они не придут по мою душу».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>3</ID>
-      <DefaultText>«Что случилось с нашим светом? Катену ушел!»</DefaultText>
+      <DefaultText>«Что случилось с нашим светом? Катена сломалась!»</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>4</ID>
-      <DefaultText>«Не видел тех двух мутантов. Хватит доставать Киан. Они идут за мной?»</DefaultText>
+      <DefaultText>«Не вижу тех двух мутантов. Перестали доставать Киан. Неужели идут за мной?»</DefaultText>
       <FemaleText />
     </Entry>
   </Entries>
