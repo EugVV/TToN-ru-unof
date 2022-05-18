@@ -678,12 +678,12 @@
     </Entry>
     <Entry>
       <ID>141</ID>
-      <DefaultText>«Я говорил с Лето. Она не придет».</DefaultText>
-      <FemaleText>«Я говорила с Лето. Она не придет».</FemaleText>
+      <DefaultText>«Я говорил с Лето. Она отказалась».</DefaultText>
+      <FemaleText>«Я говорила с Лето. Она отказалась».</FemaleText>
     </Entry>
     <Entry>
       <ID>142</ID>
-      <DefaultText>Она хмурится: «Провидица стала бы ценным дополнением. Ну да ладно. Обойдемся без нее».</DefaultText>
+      <DefaultText>Она хмурится: «Провидица была бы ценным дополнением. Ну да ладно. Обойдёмся без неё».</DefaultText>
       <FemaleText />
     </Entry>
   </Entries>
