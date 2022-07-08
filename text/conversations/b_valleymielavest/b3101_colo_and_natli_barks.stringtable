@@ -6,7 +6,7 @@
   <Entries>
     <Entry>
       <ID>1</ID>
-      <DefaultText />
+      <DefaultText>{SCRIPT: These barks need a trigger set up that fires his conversation at the script node every few seconds.}</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -16,17 +16,17 @@
     </Entry>
     <Entry>
       <ID>3</ID>
-      <DefaultText>«Тело вон там. Мы получим его, когда вернемся».</DefaultText>
+      <DefaultText>«Тело вон там. Мы получим его, когда вернёмся».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>4</ID>
-      <DefaultText />
+      <DefaultText>«Где? Я не вижу никакого тела».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>5</ID>
-      <DefaultText />
+      <DefaultText>«Да вон же».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -36,27 +36,27 @@
     </Entry>
     <Entry>
       <ID>7</ID>
-      <DefaultText>«Конечно же они есть, Натли. Просто... не здесь».</DefaultText>
+      <DefaultText>«Конечно же, есть, Натли. Просто... не здесь».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>8</ID>
-      <DefaultText>«Мы уже говорили об этом. *Здесь* — единственное место, которое следует принимать в расчет».</DefaultText>
+      <DefaultText>«Мы ведь уже об этом говорили. *Здесь* — единственное место, которое следует принимать в расчёт».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>9</ID>
-      <DefaultText>«Ха! Другой „ты“ сказал то же самое пять минут назад».</DefaultText>
+      <DefaultText>«Ха! Другая „ты“ сказала то же самое пять минут назад».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>10</ID>
-      <DefaultText />
+      <DefaultText>«Другой меня нет!»</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>11</ID>
-      <DefaultText />
+      <DefaultText>«Не здесь нет. А здесь — есть».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -66,7 +66,7 @@
     </Entry>
     <Entry>
       <ID>13</ID>
-      <DefaultText>«Только этот „я“. У меня есть другие».</DefaultText>
+      <DefaultText>«Только это „я“. У меня есть другие».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -81,7 +81,7 @@
     </Entry>
     <Entry>
       <ID>16</ID>
-      <DefaultText>«Другие могли бы освободить *тебя*, если бы ты вступил во владения кагана».</DefaultText>
+      <DefaultText>«Другие могли бы освободить *тебя*, вступи ты во владения кагана».</DefaultText>
       <FemaleText />
     </Entry>
   </Entries>
