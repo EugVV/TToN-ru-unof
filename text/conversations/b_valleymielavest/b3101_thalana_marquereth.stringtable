@@ -501,7 +501,7 @@
     </Entry>
     <Entry>
       <ID>95</ID>
-      <DefaultText>«Мерегалли! Остерегайся!»</DefaultText>
+      <DefaultText>«Мерегалли! Не теряй внимания!»</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -511,7 +511,7 @@
     </Entry>
     <Entry>
       <ID>97</ID>
-      <DefaultText>«Еще всего один-два дня здесь, так? Возможно, мы продолжим путь».</DefaultText>
+      <DefaultText>«Ещё всего один-два дня здесь, так? Возможно, мы продолжим путь».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -521,12 +521,12 @@
     </Entry>
     <Entry>
       <ID>99</ID>
-      <DefaultText>«Уверяю тебя, мне это известно».</DefaultText>
+      <DefaultText>«Уверяю тебя, я всегда начеку».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>100</ID>
-      <DefaultText>«Курят».</DefaultText>
+      <DefaultText>«Курю».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -536,27 +536,27 @@
     </Entry>
     <Entry>
       <ID>102</ID>
-      <DefaultText>«Уверения — это прекрасно, но поступки лучше. Покажи мне».</DefaultText>
+      <DefaultText>«Уверения — это прекрасно, но поступки лучше. Докажи мне».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>103</ID>
-      <DefaultText>«... дороги домой нет».</DefaultText>
+      <DefaultText>«...дороги домой нет».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>104</ID>
-      <DefaultText>«Мы попадем домой, Расс, не сомневайся».</DefaultText>
+      <DefaultText>«Мы попадём домой, Расс, не сомневайся».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>106</ID>
-      <DefaultText>«Я с нетерпением жду поступков».</DefaultText>
+      <DefaultText>«Я с нетерпением жду действий».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>107</ID>
-      <DefaultText>«Поступки? Я видела предостаточно».</DefaultText>
+      <DefaultText>«Действий? Я видела их предостаточно».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
