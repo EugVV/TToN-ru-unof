@@ -21,7 +21,7 @@
     </Entry>
     <Entry>
       <ID>4</ID>
-      <DefaultText>«Знания приходят с опытом... или как-то иначе?»</DefaultText>
+      <DefaultText>«Знания приходят с опытом… или как-то иначе?»</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -36,8 +36,8 @@
     </Entry>
     <Entry>
       <ID>7</ID>
-      <DefaultText>«Если ты уверен, что это не опасно...»</DefaultText>
-      <FemaleText>«Если ты уверена, что это не опасно...»</FemaleText>
+      <DefaultText>«Если ты уверен, что это не опасно…»</DefaultText>
+      <FemaleText>«Если ты уверена, что это не опасно…»</FemaleText>
     </Entry>
     <Entry>
       <ID>8</ID>
@@ -46,7 +46,7 @@
     </Entry>
     <Entry>
       <ID>9</ID>
-      <DefaultText>«Если ты считаешь, что так лучше...»</DefaultText>
+      <DefaultText>«Если ты считаешь, что так лучше…»</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -116,7 +116,7 @@
     </Entry>
     <Entry>
       <ID>23</ID>
-      <DefaultText>«О! О боги, неужели я только что...»</DefaultText>
+      <DefaultText>«О! О боги, неужели я только что…»</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -216,12 +216,12 @@
     </Entry>
     <Entry>
       <ID>43</ID>
-      <DefaultText>«Этот кристалл... ты до *него* пытаешься добраться?»</DefaultText>
+      <DefaultText>«Этот кристалл… ты до *него* пытаешься добраться?»</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>44</ID>
-      <DefaultText>«Аль, спрячь меня! Спрячь нас всех! Пока кристалл не закончит... чего бы он там не делал».</DefaultText>
+      <DefaultText>«Аль, спрячь меня! Спрячь нас всех! Пока кристалл не закончит… чего бы он там не делал».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -246,12 +246,12 @@
     </Entry>
     <Entry>
       <ID>49</ID>
-      <DefaultText>«Эм, теперь из моей сумки валит дым, и мне от него... плохо».</DefaultText>
+      <DefaultText>«Эм, теперь из моей сумки валит дым, и мне от него… плохо».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>50</ID>
-      <DefaultText>«Мне нужно прилечь... и, вероятно, выбросить все эти теплые сияющие штуки».</DefaultText>
+      <DefaultText>«Мне нужно прилечь… и, вероятно, выбросить все эти теплые сияющие штуки».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -266,17 +266,17 @@
     </Entry>
     <Entry>
       <ID>53</ID>
-      <DefaultText>«Мам?.. МАМ?!?! ...Мама!»</DefaultText>
+      <DefaultText>«Мам?.. МАМ?!?! …Мама!»</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>54</ID>
-      <DefaultText>«Хотела бы я... {dying gasp}»</DefaultText>
+      <DefaultText>«Хотела бы я… {dying gasp}»</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>55</ID>
-      <DefaultText>«Но я... я... {dying gasp}»</DefaultText>
+      <DefaultText>«Но я… я… {dying gasp}»</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -338,7 +338,7 @@
     </Entry>
     <Entry>
       <ID>67</ID>
-      <DefaultText>«Я не создана, чтобы творить богов, но... я рада, что я это сделала».</DefaultText>
+      <DefaultText>«Я не создана, чтобы творить богов, но… я рада, что я это сделала».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -378,12 +378,12 @@
     </Entry>
     <Entry>
       <ID>75</ID>
-      <DefaultText>«...Во мгле или заблудившись... она найдёт дорогу... домой».</DefaultText>
+      <DefaultText>«…Во мгле или заблудившись… она найдёт дорогу… домой».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>76</ID>
-      <DefaultText>«Меня... меня... *сильно* ранило. На помощь!»</DefaultText>
+      <DefaultText>«Меня… меня… *сильно* ранило. На помощь!»</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -418,12 +418,12 @@
     </Entry>
     <Entry>
       <ID>83</ID>
-      <DefaultText>«Это... Самое странное место, где я когда-либо бывала».</DefaultText>
+      <DefaultText>«Это… Самое странное место, где я когда-либо бывала».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>84</ID>
-      <DefaultText>«Это *сам* монстр или мы находимся *в* монстре, или...»</DefaultText>
+      <DefaultText>«Это *сам* монстр или мы находимся *в* монстре, или…»</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -433,7 +433,7 @@
     </Entry>
     <Entry>
       <ID>86</ID>
-      <DefaultText>«Такое отвратительное место, что в нем есть нечто... знакомое».</DefaultText>
+      <DefaultText>«Такое отвратительное место, что в нем есть нечто… знакомое».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -443,7 +443,7 @@
     </Entry>
     <Entry>
       <ID>88</ID>
-      <DefaultText>«Все такое... мертвое».</DefaultText>
+      <DefaultText>«Все такое… мертвое».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -483,7 +483,7 @@
     </Entry>
     <Entry>
       <ID>96</ID>
-      <DefaultText>«Этому... не бывать».</DefaultText>
+      <DefaultText>«Этому… не бывать».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -503,7 +503,7 @@
     </Entry>
     <Entry>
       <ID>100</ID>
-      <DefaultText>«Он еще немного сияет. Это значит... что с ним все будет хорошо?»</DefaultText>
+      <DefaultText>«Он еще немного сияет. Это значит… что с ним все будет хорошо?»</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -518,7 +518,7 @@
     </Entry>
     <Entry>
       <ID>103</ID>
-      <DefaultText>«С ним все будет в порядке... верно?»</DefaultText>
+      <DefaultText>«С ним все будет в порядке… верно?»</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -533,7 +533,7 @@
     </Entry>
     <Entry>
       <ID>106</ID>
-      <DefaultText>«Нет... О, нет...»</DefaultText>
+      <DefaultText>«Нет… О, нет…»</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -643,7 +643,7 @@
     </Entry>
     <Entry>
       <ID>128</ID>
-      <DefaultText>«У тебя есть что-нибудь, чтобы остановить кровотечение... или смерть?»</DefaultText>
+      <DefaultText>«У тебя есть что-нибудь, чтобы остановить кровотечение… или смерть?»</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -673,7 +673,7 @@
     </Entry>
     <Entry>
       <ID>134</ID>
-      <DefaultText>«Я себя... странно чувствую. В этом месте такое нормально?»</DefaultText>
+      <DefaultText>«Я себя… странно чувствую. В этом месте такое нормально?»</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -708,7 +708,7 @@
     </Entry>
     <Entry>
       <ID>141</ID>
-      <DefaultText>«Я думала, что я умерла. Моя голова... наверно, я все еще близка к этому».</DefaultText>
+      <DefaultText>«Я думала, что я умерла. Моя голова… наверно, я все еще близка к этому».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -788,7 +788,7 @@
     </Entry>
     <Entry>
       <ID>157</ID>
-      <DefaultText>«Мне здесь... не по себе».</DefaultText>
+      <DefaultText>«Мне здесь… не по себе».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -803,7 +803,7 @@
     </Entry>
     <Entry>
       <ID>160</ID>
-      <DefaultText>«Я себя неважно чувствую...»</DefaultText>
+      <DefaultText>«Я себя неважно чувствую…»</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -828,7 +828,7 @@
     </Entry>
     <Entry>
       <ID>165</ID>
-      <DefaultText>«Нет. Я в порядке. Мы можем... Идти».</DefaultText>
+      <DefaultText>«Нет. Я в порядке. Мы можем… Идти».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -938,7 +938,7 @@
     </Entry>
     <Entry>
       <ID>187</ID>
-      <DefaultText>«Я... *совсем* не хочу здесь находиться».</DefaultText>
+      <DefaultText>«Я… *совсем* не хочу здесь находиться».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -963,7 +963,7 @@
     </Entry>
     <Entry>
       <ID>192</ID>
-      <DefaultText>«*Красивое* место. Почти как дома... *почти*».</DefaultText>
+      <DefaultText>«*Красивое* место. Почти как дома… *почти*».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>

@@ -188,7 +188,7 @@
     </Entry>
     <Entry>
       <ID>38</ID>
-      <DefaultText>Еле слышно она добавляет: «Если бы только Совет разрешил нам улететь туда...»
+      <DefaultText>Еле слышно она добавляет: «Если бы только Совет разрешил нам улететь туда…»
 
 {SCRIPT: Does not play if the player has lifted the travel ban.}</DefaultText>
       <FemaleText />
@@ -212,7 +212,7 @@
     </Entry>
     <Entry>
       <ID>42</ID>
-      <DefaultText>«Я почти готов...»
+      <DefaultText>«Я почти готов…»
 
 {SCRIPT: Player has lifted travel ban.}</DefaultText>
       <FemaleText />

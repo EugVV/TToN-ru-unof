@@ -121,7 +121,7 @@
     </Entry>
     <Entry>
       <ID>24</ID>
-      <DefaultText>«В следующей жизни...»</DefaultText>
+      <DefaultText>«В следующей жизни…»</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -241,7 +241,7 @@
     </Entry>
     <Entry>
       <ID>48</ID>
-      <DefaultText>«Слишком много шифров... Давно я себя так не чувствовал».</DefaultText>
+      <DefaultText>«Слишком много шифров… Давно я себя так не чувствовал».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -266,18 +266,18 @@
     </Entry>
     <Entry>
       <ID>53</ID>
-      <DefaultText>«Спаси меня. Ты должен... меня спасти».</DefaultText>
-      <FemaleText>«Спаси меня. Ты должна... меня спасти».</FemaleText>
+      <DefaultText>«Спаси меня. Ты должен… меня спасти».</DefaultText>
+      <FemaleText>«Спаси меня. Ты должна… меня спасти».</FemaleText>
     </Entry>
     <Entry>
       <ID>54</ID>
-      <DefaultText>{gasping}«Еще не конец... Я еще жив...»</DefaultText>
+      <DefaultText>{gasping}«Еще не конец… Я еще жив…»</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>55</ID>
-      <DefaultText>{gasping}«Ты... предал... меня».</DefaultText>
-      <FemaleText>{gasping}«Ты... предала... меня».</FemaleText>
+      <DefaultText>{gasping}«Ты… предал… меня».</DefaultText>
+      <FemaleText>{gasping}«Ты… предала… меня».</FemaleText>
     </Entry>
     <Entry>
       <ID>56</ID>
@@ -516,7 +516,7 @@
     </Entry>
     <Entry>
       <ID>103</ID>
-      <DefaultText>«Это было... Вполне ожидаемо».</DefaultText>
+      <DefaultText>«Это было… Вполне ожидаемо».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -661,7 +661,7 @@
     </Entry>
     <Entry>
       <ID>132</ID>
-      <DefaultText>«Ты даже не представляешь... Спасибо тебе».</DefaultText>
+      <DefaultText>«Ты даже не представляешь… Спасибо тебе».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -701,12 +701,12 @@
     </Entry>
     <Entry>
       <ID>140</ID>
-      <DefaultText>«Кажется... Все будет хорошо».</DefaultText>
+      <DefaultText>«Кажется… Все будет хорошо».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>141</ID>
-      <DefaultText>«Ух... Что произошло, пока меня не было?»</DefaultText>
+      <DefaultText>«Ух… Что произошло, пока меня не было?»</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -851,7 +851,7 @@
     </Entry>
     <Entry>
       <ID>170</ID>
-      <DefaultText>«Я не хочу делать тебе больно...»</DefaultText>
+      <DefaultText>«Я не хочу делать тебе больно…»</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -941,17 +941,17 @@
     </Entry>
     <Entry>
       <ID>188</ID>
-      <DefaultText>«Боги, Бесконечная Битва... Никогда не хотел сюда попасть».</DefaultText>
+      <DefaultText>«Боги, Бесконечная Битва… Никогда не хотел сюда попасть».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>189</ID>
-      <DefaultText>«Это оборудование... Я уже видел нечто такое».</DefaultText>
+      <DefaultText>«Это оборудование… Я уже видел нечто такое».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>190</ID>
-      <DefaultText>«Обычно Долина не столь... оживленная».</DefaultText>
+      <DefaultText>«Обычно Долина не столь… оживленная».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1241,7 +1241,7 @@
     </Entry>
     <Entry>
       <ID>248</ID>
-      <DefaultText>«Я изуродована... во всех своих жизнях».</DefaultText>
+      <DefaultText>«Я изуродована… во всех своих жизнях».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1256,12 +1256,12 @@
     </Entry>
     <Entry>
       <ID>251</ID>
-      <DefaultText>{шёпотом} «Ты... подвёл меня... отверженный...»</DefaultText>
-      <FemaleText>{шёпотом} «Ты... подвела меня... отверженная...»</FemaleText>
+      <DefaultText>{шёпотом} «Ты… подвёл меня… отверженный…»</DefaultText>
+      <FemaleText>{шёпотом} «Ты… подвела меня… отверженная…»</FemaleText>
     </Entry>
     <Entry>
       <ID>252</ID>
-      <DefaultText>{weakly} «Мои сестры... отомстят за меня».</DefaultText>
+      <DefaultText>{weakly} «Мои сестры… отомстят за меня».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1296,7 +1296,7 @@
     </Entry>
     <Entry>
       <ID>259</ID>
-      <DefaultText>«Кое-что я узнала...»</DefaultText>
+      <DefaultText>«Кое-что я узнала…»</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1496,7 +1496,7 @@
     </Entry>
     <Entry>
       <ID>299</ID>
-      <DefaultText>«Я от тебя ожидала большего, дорогуша. Это был... урок».</DefaultText>
+      <DefaultText>«Я от тебя ожидала большего, дорогуша. Это был… урок».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1616,7 +1616,7 @@
     </Entry>
     <Entry>
       <ID>323</ID>
-      <DefaultText>«Исключено... Просто исключено. Я так помирать не собираюсь».</DefaultText>
+      <DefaultText>«Исключено… Просто исключено. Я так помирать не собираюсь».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1656,7 +1656,7 @@
     </Entry>
     <Entry>
       <ID>331</ID>
-      <DefaultText>«Невероятно! ...Но, к сожалению, действенно».</DefaultText>
+      <DefaultText>«Невероятно! …Но, к сожалению, действенно».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1931,7 +1931,7 @@
     </Entry>
     <Entry>
       <ID>386</ID>
-      <DefaultText>«Я понимаю, что остальная часть Долины не такая... многолюдная».</DefaultText>
+      <DefaultText>«Я понимаю, что остальная часть Долины не такая… многолюдная».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1976,7 +1976,7 @@
     </Entry>
     <Entry>
       <ID>395</ID>
-      <DefaultText>«Если хочешь сделать все правильно...»</DefaultText>
+      <DefaultText>«Если хочешь сделать все правильно…»</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -2106,7 +2106,7 @@
     </Entry>
     <Entry>
       <ID>421</ID>
-      <DefaultText>«Пади пред моим мощным ударом! ... ой, что-то я не то сказал».</DefaultText>
+      <DefaultText>«Пади пред моим мощным ударом! … ой, что-то я не то сказал».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -2186,7 +2186,7 @@
     </Entry>
     <Entry>
       <ID>437</ID>
-      <DefaultText>{dawning delight}«Неужели это... героический последний рубеж? Да! Поэтому мы должны выжить любой ценой!»</DefaultText>
+      <DefaultText>{dawning delight}«Неужели это… героический последний рубеж? Да! Поэтому мы должны выжить любой ценой!»</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -2221,7 +2221,7 @@
     </Entry>
     <Entry>
       <ID>444</ID>
-      <DefaultText>{Alarmed}«Внезапно мне стало больно... {grunts, surprised, in pain}ходить».</DefaultText>
+      <DefaultText>{Alarmed}«Внезапно мне стало больно… {grunts, surprised, in pain}ходить».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -2346,7 +2346,7 @@
     </Entry>
     <Entry>
       <ID>469</ID>
-      <DefaultText>{Surprised, a little confused}«Что... меня *ранили?*»</DefaultText>
+      <DefaultText>{Surprised, a little confused}«Что… меня *ранили?*»</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -2371,7 +2371,7 @@
     </Entry>
     <Entry>
       <ID>474</ID>
-      <DefaultText>«Любопытный запах. Кстати о запахах, я когда-нибудь говорил тебе... {happy gasp}эй, у меня есть родинка!»</DefaultText>
+      <DefaultText>«Любопытный запах. Кстати о запахах, я когда-нибудь говорил тебе… {happy gasp}эй, у меня есть родинка!»</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -2426,7 +2426,7 @@
     </Entry>
     <Entry>
       <ID>485</ID>
-      <DefaultText>{Laughs, but does it knowingly as if looking at himself in a mirror}«Почему... Ха-ха-ха-ха. Хa».</DefaultText>
+      <DefaultText>{Laughs, but does it knowingly as if looking at himself in a mirror}«Почему… Ха-ха-ха-ха. Хa».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -2736,7 +2736,7 @@
     </Entry>
     <Entry>
       <ID>547</ID>
-      <DefaultText>{Slowly, as if not sure what to make of this new feeling}«Странно... Мне тут одна идея пришла».</DefaultText>
+      <DefaultText>{Slowly, as if not sure what to make of this new feeling}«Странно… Мне тут одна идея пришла».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -2781,7 +2781,7 @@
     </Entry>
     <Entry>
       <ID>556</ID>
-      <DefaultText>«Простое упростили... Вот и все!»</DefaultText>
+      <DefaultText>«Простое упростили… Вот и все!»</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -2906,7 +2906,7 @@
     </Entry>
     <Entry>
       <ID>581</ID>
-      <DefaultText>«Думаю... да, до пожара это место нравилось мне больше».</DefaultText>
+      <DefaultText>«Думаю… да, до пожара это место нравилось мне больше».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -2916,7 +2916,7 @@
     </Entry>
     <Entry>
       <ID>583</ID>
-      <DefaultText>«Где мы? Все выглядит... запутанно».</DefaultText>
+      <DefaultText>«Где мы? Все выглядит… запутанно».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -3221,7 +3221,7 @@
     </Entry>
     <Entry>
       <ID>644</ID>
-      <DefaultText>«Это... Нет... Мне была уготована иная судьба».</DefaultText>
+      <DefaultText>«Это… Нет… Мне была уготована иная судьба».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -3231,7 +3231,7 @@
     </Entry>
     <Entry>
       <ID>646</ID>
-      <DefaultText>«Я... я умираю...»</DefaultText>
+      <DefaultText>«Я… я умираю…»</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -3321,7 +3321,7 @@
     </Entry>
     <Entry>
       <ID>664</ID>
-      <DefaultText>«О... Мы чем-то были заняты?»</DefaultText>
+      <DefaultText>«О… Мы чем-то были заняты?»</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -3331,12 +3331,12 @@
     </Entry>
     <Entry>
       <ID>666</ID>
-      <DefaultText>«Может мне стоит научиться жонглировать...»</DefaultText>
+      <DefaultText>«Может мне стоит научиться жонглировать…»</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>667</ID>
-      <DefaultText>«Ненавижу признавать свою боль, но...»</DefaultText>
+      <DefaultText>«Ненавижу признавать свою боль, но…»</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -3356,12 +3356,12 @@
     </Entry>
     <Entry>
       <ID>671</ID>
-      <DefaultText>«Городская жизнь... это единственная жизнь».</DefaultText>
+      <DefaultText>«Городская жизнь… это единственная жизнь».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>672</ID>
-      <DefaultText>«Жизнь в городе имеет свои прелести. Просто нужно игнорировать... всех людей».</DefaultText>
+      <DefaultText>«Жизнь в городе имеет свои прелести. Просто нужно игнорировать… всех людей».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -3481,7 +3481,7 @@
     </Entry>
     <Entry>
       <ID>696</ID>
-      <DefaultText>«...Мы обречены...»</DefaultText>
+      <DefaultText>«…Мы обречены…»</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -3721,7 +3721,7 @@
     </Entry>
     <Entry>
       <ID>744</ID>
-      <DefaultText>«Если ты настаиваешь...»</DefaultText>
+      <DefaultText>«Если ты настаиваешь…»</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -3906,7 +3906,7 @@
     </Entry>
     <Entry>
       <ID>781</ID>
-      <DefaultText>«Так вот где все началось...»</DefaultText>
+      <DefaultText>«Так вот где все началось…»</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -3931,8 +3931,8 @@
     </Entry>
     <Entry>
       <ID>786</ID>
-      <DefaultText>«И очнулся ты здесь? Как... неожиданно».</DefaultText>
-      <FemaleText>«И очнулась ты здесь? Как... неожиданно».</FemaleText>
+      <DefaultText>«И очнулся ты здесь? Как… неожиданно».</DefaultText>
+      <FemaleText>«И очнулась ты здесь? Как… неожиданно».</FemaleText>
     </Entry>
     <Entry>
       <ID>787</ID>
@@ -4141,7 +4141,7 @@
     </Entry>
     <Entry>
       <ID>828</ID>
-      <DefaultText>«Что с этими людьми? Они как будто... не в своем уме».</DefaultText>
+      <DefaultText>«Что с этими людьми? Они как будто… не в своем уме».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -4166,12 +4166,12 @@
     </Entry>
     <Entry>
       <ID>833</ID>
-      <DefaultText>«Я несу слишком много этих штук. Они... воздействуют».</DefaultText>
+      <DefaultText>«Я несу слишком много этих штук. Они… воздействуют».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>834</ID>
-      <DefaultText>«Мне нужно прилечь... и, вероятно, выкинуть весь этот хлам».</DefaultText>
+      <DefaultText>«Мне нужно прилечь… и, вероятно, выкинуть весь этот хлам».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -4186,7 +4186,7 @@
     </Entry>
     <Entry>
       <ID>837</ID>
-      <DefaultText>«Жизнь... за жизнь... Достойный обмен».</DefaultText>
+      <DefaultText>«Жизнь… за жизнь… Достойный обмен».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -4196,7 +4196,7 @@
     </Entry>
     <Entry>
       <ID>839</ID>
-      <DefaultText>«Увидимся... на той стороне, дружище».</DefaultText>
+      <DefaultText>«Увидимся… на той стороне, дружище».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -4291,7 +4291,7 @@
     </Entry>
     <Entry>
       <ID>858</ID>
-      <DefaultText>«Мои воспоминания из детства очень... странные. Но четкие».</DefaultText>
+      <DefaultText>«Мои воспоминания из детства очень… странные. Но четкие».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -4321,7 +4321,7 @@
     </Entry>
     <Entry>
       <ID>864</ID>
-      <DefaultText>«Этому... не бывать».</DefaultText>
+      <DefaultText>«Этому… не бывать».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -4361,7 +4361,7 @@
     </Entry>
     <Entry>
       <ID>872</ID>
-      <DefaultText>«Ты еще глупее... чем я помнила».</DefaultText>
+      <DefaultText>«Ты еще глупее… чем я помнила».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -4521,7 +4521,7 @@
     </Entry>
     <Entry>
       <ID>904</ID>
-      <DefaultText>«Со мной все хорошо. Я могу... Нет, мне нехорошо».</DefaultText>
+      <DefaultText>«Со мной все хорошо. Я могу… Нет, мне нехорошо».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -4641,7 +4641,7 @@
     </Entry>
     <Entry>
       <ID>928</ID>
-      <DefaultText>«Я себя неважно чувствую...»</DefaultText>
+      <DefaultText>«Я себя неважно чувствую…»</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -4776,7 +4776,7 @@
     </Entry>
     <Entry>
       <ID>955</ID>
-      <DefaultText>«Что с этими людьми? Они как будто... не в своем уме».</DefaultText>
+      <DefaultText>«Что с этими людьми? Они как будто… не в своем уме».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -4806,7 +4806,7 @@
     </Entry>
     <Entry>
       <ID>961</ID>
-      <DefaultText>«Знания приходят с опытом... или как-то иначе?»</DefaultText>
+      <DefaultText>«Знания приходят с опытом… или как-то иначе?»</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -4821,8 +4821,8 @@
     </Entry>
     <Entry>
       <ID>964</ID>
-      <DefaultText>«Если ты уверен, что это не опасно...»</DefaultText>
-      <FemaleText>«Если ты уверена, что это не опасно...»</FemaleText>
+      <DefaultText>«Если ты уверен, что это не опасно…»</DefaultText>
+      <FemaleText>«Если ты уверена, что это не опасно…»</FemaleText>
     </Entry>
     <Entry>
       <ID>965</ID>
@@ -4831,7 +4831,7 @@
     </Entry>
     <Entry>
       <ID>966</ID>
-      <DefaultText>«Если ты считаешь, что так лучше...»</DefaultText>
+      <DefaultText>«Если ты считаешь, что так лучше…»</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -4901,7 +4901,7 @@
     </Entry>
     <Entry>
       <ID>980</ID>
-      <DefaultText>«О! О боги, неужели я только что...»</DefaultText>
+      <DefaultText>«О! О боги, неужели я только что…»</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -5001,12 +5001,12 @@
     </Entry>
     <Entry>
       <ID>1000</ID>
-      <DefaultText>«Этот кристалл... ты до *него* пытаешься добраться?»</DefaultText>
+      <DefaultText>«Этот кристалл… ты до *него* пытаешься добраться?»</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>1001</ID>
-      <DefaultText>«Аль, спрячь меня! Спрячь нас всех! Пока кристалл не закончит... чего бы он там не делал».</DefaultText>
+      <DefaultText>«Аль, спрячь меня! Спрячь нас всех! Пока кристалл не закончит… чего бы он там не делал».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -5031,12 +5031,12 @@
     </Entry>
     <Entry>
       <ID>1006</ID>
-      <DefaultText>«Эм, теперь из моей сумки валит дым, и мне от него... плохо».</DefaultText>
+      <DefaultText>«Эм, теперь из моей сумки валит дым, и мне от него… плохо».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>1007</ID>
-      <DefaultText>«Мне нужно прилечь... и, вероятно, выбросить все эти теплые сияющие штуки».</DefaultText>
+      <DefaultText>«Мне нужно прилечь… и, вероятно, выбросить все эти теплые сияющие штуки».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -5051,17 +5051,17 @@
     </Entry>
     <Entry>
       <ID>1010</ID>
-      <DefaultText>«Мам?.. МАМ?!?! ...Мама!»</DefaultText>
+      <DefaultText>«Мам?.. МАМ?!?! …Мама!»</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>1011</ID>
-      <DefaultText>«Хотела бы я... {dying gasp}»</DefaultText>
+      <DefaultText>«Хотела бы я… {dying gasp}»</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>1012</ID>
-      <DefaultText>«Но я... я... {dying gasp}»</DefaultText>
+      <DefaultText>«Но я… я… {dying gasp}»</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -5118,7 +5118,7 @@
     </Entry>
     <Entry>
       <ID>1023</ID>
-      <DefaultText>«Я не создана, чтобы творить богов, но... я рада, что я это сделала».</DefaultText>
+      <DefaultText>«Я не создана, чтобы творить богов, но… я рада, что я это сделала».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -5158,12 +5158,12 @@
     </Entry>
     <Entry>
       <ID>1031</ID>
-      <DefaultText>«...Во мгле или заблудившись... она найдёт дорогу... домой».</DefaultText>
+      <DefaultText>«…Во мгле или заблудившись… она найдёт дорогу… домой».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>1032</ID>
-      <DefaultText>«Меня... меня... *сильно* ранило. На помощь!»</DefaultText>
+      <DefaultText>«Меня… меня… *сильно* ранило. На помощь!»</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -5198,12 +5198,12 @@
     </Entry>
     <Entry>
       <ID>1039</ID>
-      <DefaultText>«Это... Самое странное место, где я когда-либо бывала».</DefaultText>
+      <DefaultText>«Это… Самое странное место, где я когда-либо бывала».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>1040</ID>
-      <DefaultText>«Это *сам* монстр или мы находимся *в* монстре, или...»</DefaultText>
+      <DefaultText>«Это *сам* монстр или мы находимся *в* монстре, или…»</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -5213,7 +5213,7 @@
     </Entry>
     <Entry>
       <ID>1042</ID>
-      <DefaultText>«Такое отвратительное место, что в нем есть нечто... знакомое».</DefaultText>
+      <DefaultText>«Такое отвратительное место, что в нем есть нечто… знакомое».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -5223,7 +5223,7 @@
     </Entry>
     <Entry>
       <ID>1044</ID>
-      <DefaultText>«Все такое... мертвое».</DefaultText>
+      <DefaultText>«Все такое… мертвое».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -5263,7 +5263,7 @@
     </Entry>
     <Entry>
       <ID>1052</ID>
-      <DefaultText>«Этому... не бывать».</DefaultText>
+      <DefaultText>«Этому… не бывать».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -5283,7 +5283,7 @@
     </Entry>
     <Entry>
       <ID>1056</ID>
-      <DefaultText>«Он еще немного сияет. Это значит... что с ним все будет хорошо?»</DefaultText>
+      <DefaultText>«Он еще немного сияет. Это значит… что с ним все будет хорошо?»</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -5298,7 +5298,7 @@
     </Entry>
     <Entry>
       <ID>1059</ID>
-      <DefaultText>«С ним все будет в порядке... верно?»</DefaultText>
+      <DefaultText>«С ним все будет в порядке… верно?»</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -5313,7 +5313,7 @@
     </Entry>
     <Entry>
       <ID>1062</ID>
-      <DefaultText>«Нет... О, нет...»</DefaultText>
+      <DefaultText>«Нет… О, нет…»</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -5423,7 +5423,7 @@
     </Entry>
     <Entry>
       <ID>1084</ID>
-      <DefaultText>«У тебя есть что-нибудь, чтобы остановить кровотечение... или смерть?»</DefaultText>
+      <DefaultText>«У тебя есть что-нибудь, чтобы остановить кровотечение… или смерть?»</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -5453,7 +5453,7 @@
     </Entry>
     <Entry>
       <ID>1090</ID>
-      <DefaultText>«Я себя... странно чувствую. В этом месте такое нормально?»</DefaultText>
+      <DefaultText>«Я себя… странно чувствую. В этом месте такое нормально?»</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -5488,7 +5488,7 @@
     </Entry>
     <Entry>
       <ID>1097</ID>
-      <DefaultText>«Я думала, что я умерла. Моя голова... наверно, я все еще близка к этому».</DefaultText>
+      <DefaultText>«Я думала, что я умерла. Моя голова… наверно, я все еще близка к этому».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -5568,7 +5568,7 @@
     </Entry>
     <Entry>
       <ID>1113</ID>
-      <DefaultText>«Мне здесь... не по себе».</DefaultText>
+      <DefaultText>«Мне здесь… не по себе».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -5583,7 +5583,7 @@
     </Entry>
     <Entry>
       <ID>1116</ID>
-      <DefaultText>«Я себя неважно чувствую...»</DefaultText>
+      <DefaultText>«Я себя неважно чувствую…»</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -5608,7 +5608,7 @@
     </Entry>
     <Entry>
       <ID>1121</ID>
-      <DefaultText>«Нет. Я в порядке. Мы можем... Идти».</DefaultText>
+      <DefaultText>«Нет. Я в порядке. Мы можем… Идти».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -5718,7 +5718,7 @@
     </Entry>
     <Entry>
       <ID>1143</ID>
-      <DefaultText>«Я... *совсем* не хочу здесь находиться».</DefaultText>
+      <DefaultText>«Я… *совсем* не хочу здесь находиться».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -5743,7 +5743,7 @@
     </Entry>
     <Entry>
       <ID>1148</ID>
-      <DefaultText>«*Красивое* место. Почти как дома... *почти*».</DefaultText>
+      <DefaultText>«*Красивое* место. Почти как дома… *почти*».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -5943,7 +5943,7 @@
     </Entry>
     <Entry>
       <ID>1188</ID>
-      <DefaultText>«Ох, больно...»</DefaultText>
+      <DefaultText>«Ох, больно…»</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -6228,7 +6228,7 @@
     </Entry>
     <Entry>
       <ID>1245</ID>
-      <DefaultText>«А тут пивной нет? Так я и думал...»</DefaultText>
+      <DefaultText>«А тут пивной нет? Так я и думал…»</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -6273,7 +6273,7 @@
     </Entry>
     <Entry>
       <ID>1254</ID>
-      <DefaultText>«Бедняга... Давай обыщем его карманы, вдруг что на память найдем».</DefaultText>
+      <DefaultText>«Бедняга… Давай обыщем его карманы, вдруг что на память найдем».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -6283,7 +6283,7 @@
     </Entry>
     <Entry>
       <ID>1256</ID>
-      <DefaultText>«Ох, нехорошо...»</DefaultText>
+      <DefaultText>«Ох, нехорошо…»</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -6308,7 +6308,7 @@
     </Entry>
     <Entry>
       <ID>1261</ID>
-      <DefaultText>«Кажется... Кажется, все».</DefaultText>
+      <DefaultText>«Кажется… Кажется, все».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -6413,7 +6413,7 @@
     </Entry>
     <Entry>
       <ID>1282</ID>
-      <DefaultText>«Что-то колени дрожат...»</DefaultText>
+      <DefaultText>«Что-то колени дрожат…»</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -6543,7 +6543,7 @@
     </Entry>
     <Entry>
       <ID>1308</ID>
-      <DefaultText>«Мы можем... поговорить?»</DefaultText>
+      <DefaultText>«Мы можем… поговорить?»</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -6578,7 +6578,7 @@
     </Entry>
     <Entry>
       <ID>1315</ID>
-      <DefaultText>«Мне бы подлечиться...»</DefaultText>
+      <DefaultText>«Мне бы подлечиться…»</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -6598,7 +6598,7 @@
     </Entry>
     <Entry>
       <ID>1319</ID>
-      <DefaultText>«Сейчас поспать бы...»</DefaultText>
+      <DefaultText>«Сейчас поспать бы…»</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -6763,17 +6763,17 @@
     </Entry>
     <Entry>
       <ID>1352</ID>
-      <DefaultText>«Знакомое место, но не пойму, почему...»</DefaultText>
+      <DefaultText>«Знакомое место, но не пойму, почему…»</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>1353</ID>
-      <DefaultText>«Какой-то я... мертвоватый».</DefaultText>
+      <DefaultText>«Какой-то я… мертвоватый».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>1354</ID>
-      <DefaultText>{Обеспокоено}«Э-э-э... Не мог бы кто-нибудь подойти сюда? И поскорее?..»</DefaultText>
+      <DefaultText>{Обеспокоено}«Э-э-э… Не мог бы кто-нибудь подойти сюда? И поскорее?..»</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>

@@ -26,7 +26,7 @@
     </Entry>
     <Entry>
       <ID>5</ID>
-      <DefaultText>{a little guilty}«Я... игры? Э-э, нет. *Я* ни во что не играю».</DefaultText>
+      <DefaultText>{a little guilty}«Я… игры? Э-э, нет. *Я* ни во что не играю».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -71,7 +71,7 @@
     </Entry>
     <Entry>
       <ID>14</ID>
-      <DefaultText>«Тебе точно не хочется взять с собой кого-то более... ответственного?»</DefaultText>
+      <DefaultText>«Тебе точно не хочется взять с собой кого-то более… ответственного?»</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -111,7 +111,7 @@
     </Entry>
     <Entry>
       <ID>22</ID>
-      <DefaultText>«Приключения! Веселье! И... друзья? Мы ведь друзья, правда?»</DefaultText>
+      <DefaultText>«Приключения! Веселье! И… друзья? Мы ведь друзья, правда?»</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -211,12 +211,12 @@
     </Entry>
     <Entry>
       <ID>44</ID>
-      <DefaultText>{Pouts}«Не понимаю, как столько копий Каллистеж заметили это в толпе... самих себя».</DefaultText>
+      <DefaultText>{Pouts}«Не понимаю, как столько копий Каллистеж заметили это в толпе… самих себя».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>45</ID>
-      <DefaultText>{trying to be lighthearted}«Я... извиняюсь. А я могу пожертвовать тряпку? На благотворительность?»</DefaultText>
+      <DefaultText>{trying to be lighthearted}«Я… извиняюсь. А я могу пожертвовать тряпку? На благотворительность?»</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -271,7 +271,7 @@
     </Entry>
     <Entry>
       <ID>62</ID>
-      <DefaultText>{confused, slightly threatening} «...что ты сказала?»</DefaultText>
+      <DefaultText>{confused, slightly threatening} «…что ты сказала?»</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -346,17 +346,17 @@
     </Entry>
     <Entry>
       <ID>77</ID>
-      <DefaultText>«Когда ты говоришь со своими богами... Они отвечают? Их слова звучат в твоём разуме или ты ощущаешь их простые эмоции?» </DefaultText>
+      <DefaultText>«Когда ты говоришь со своими богами… Они отвечают? Их слова звучат в твоём разуме или ты ощущаешь их простые эмоции?» </DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>78</ID>
-      <DefaultText>«Они просто... говорят со мной. Как правило, словами».</DefaultText>
+      <DefaultText>«Они просто… говорят со мной. Как правило, словами».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>79</ID>
-      <DefaultText>«Я не вижу доказательства существования твоих богов, но если так тебе проще жить в этом мире...»</DefaultText>
+      <DefaultText>«Я не вижу доказательства существования твоих богов, но если так тебе проще жить в этом мире…»</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -376,12 +376,12 @@
     </Entry>
     <Entry>
       <ID>83</ID>
-      <DefaultText>«Я помню тебя по тем временам, когда я еще не изменилась. У тебя всегда были... интересные... схемы. Помнишь, как ты пытался продать мне юную рабыню, а она оказалась ребенком, которого ты обманом увел с улицы?»</DefaultText>
+      <DefaultText>«Я помню тебя по тем временам, когда я еще не изменилась. У тебя всегда были… интересные… схемы. Помнишь, как ты пытался продать мне юную рабыню, а она оказалась ребенком, которого ты обманом увел с улицы?»</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>84</ID>
-      <DefaultText>«Что? Я бы никогда...»</DefaultText>
+      <DefaultText>«Что? Я бы никогда…»</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -541,7 +541,7 @@
     </Entry>
     <Entry>
       <ID>121</ID>
-      <DefaultText>«Али, а кто тебя разрисовал? Похоже, он не закончил рисунок. {Trying to take them in}Или... твои рисунки не могут определиться».</DefaultText>
+      <DefaultText>«Али, а кто тебя разрисовал? Похоже, он не закончил рисунок. {Trying to take them in}Или… твои рисунки не могут определиться».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -596,7 +596,7 @@
     </Entry>
     <Entry>
       <ID>133</ID>
-      <DefaultText>«Не кричи. Когда ты это делаешь... {frowns}мы все тебя слышим. И это делает тебя... еще более назойливым, чем обычно».</DefaultText>
+      <DefaultText>«Не кричи. Когда ты это делаешь… {frowns}мы все тебя слышим. И это делает тебя… еще более назойливым, чем обычно».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -636,7 +636,7 @@
     </Entry>
     <Entry>
       <ID>141</ID>
-      <DefaultText>«О... мне это очень понравится!»</DefaultText>
+      <DefaultText>«О… мне это очень понравится!»</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -651,12 +651,12 @@
     </Entry>
     <Entry>
       <ID>145</ID>
-      <DefaultText>«...вы могли бы даже построить амбар или два рядом с говорливым ручейком».</DefaultText>
+      <DefaultText>«…вы могли бы даже построить амбар или два рядом с говорливым ручейком».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>146</ID>
-      <DefaultText>«Меня уже тошнит от говорливых... соседей».</DefaultText>
+      <DefaultText>«Меня уже тошнит от говорливых… соседей».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -671,17 +671,17 @@
     </Entry>
     <Entry>
       <ID>149</ID>
-      <DefaultText>«...вы могли бы даже построить амбар или два рядом с говорливым ручейком».</DefaultText>
+      <DefaultText>«…вы могли бы даже построить амбар или два рядом с говорливым ручейком».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>150</ID>
-      <DefaultText>«Меня уже тошнит от говорливых... соседей».</DefaultText>
+      <DefaultText>«Меня уже тошнит от говорливых… соседей».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>151</ID>
-      <DefaultText>«Каллистежи, иногда мне кажется, что... некоторые из вас угрожают мне. Пока вы спите».</DefaultText>
+      <DefaultText>«Каллистежи, иногда мне кажется, что… некоторые из вас угрожают мне. Пока вы спите».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -731,17 +731,17 @@
     </Entry>
     <Entry>
       <ID>161</ID>
-      <DefaultText>«...вы могли бы даже построить амбар или два рядом с говорливым ручейком».</DefaultText>
+      <DefaultText>«…вы могли бы даже построить амбар или два рядом с говорливым ручейком».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>162</ID>
-      <DefaultText>«Меня уже тошнит от говорливых... соседей».</DefaultText>
+      <DefaultText>«Меня уже тошнит от говорливых… соседей».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>163</ID>
-      <DefaultText>«Эрритис, Эрритис, Эрритис...»</DefaultText>
+      <DefaultText>«Эрритис, Эрритис, Эрритис…»</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -756,7 +756,7 @@
     </Entry>
     <Entry>
       <ID>166</ID>
-      <DefaultText>«Эрритис, я тут думаю...»</DefaultText>
+      <DefaultText>«Эрритис, я тут думаю…»</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -776,7 +776,7 @@
     </Entry>
     <Entry>
       <ID>170</ID>
-      <DefaultText>«Но... да, это так».</DefaultText>
+      <DefaultText>«Но… да, это так».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -796,7 +796,7 @@
     </Entry>
     <Entry>
       <ID>174</ID>
-      <DefaultText>«Ну... да. Я и впрямь Эрритис».</DefaultText>
+      <DefaultText>«Ну… да. Я и впрямь Эрритис».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -811,7 +811,7 @@
     </Entry>
     <Entry>
       <ID>177</ID>
-      <DefaultText>«Ты? ...на костре?»</DefaultText>
+      <DefaultText>«Ты? …на костре?»</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -821,7 +821,7 @@
     </Entry>
     <Entry>
       <ID>181</ID>
-      <DefaultText>«Мэтти, я тут думал...»</DefaultText>
+      <DefaultText>«Мэтти, я тут думал…»</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -841,7 +841,7 @@
     </Entry>
     <Entry>
       <ID>185</ID>
-      <DefaultText>«Да...»</DefaultText>
+      <DefaultText>«Да…»</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -866,12 +866,12 @@
     </Entry>
     <Entry>
       <ID>190</ID>
-      <DefaultText>«Мэтти, я хотел спросить про твою золотистую кожу. Ты выглядишь так... живописно».</DefaultText>
+      <DefaultText>«Мэтти, я хотел спросить про твою золотистую кожу. Ты выглядишь так… живописно».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>191</ID>
-      <DefaultText>«Моя кожа... {realizes what happened, shakes head}Ты смотришь на меня через свое... сияние, Эрритис».</DefaultText>
+      <DefaultText>«Моя кожа… {realizes what happened, shakes head}Ты смотришь на меня через свое… сияние, Эрритис».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -891,7 +891,7 @@
     </Entry>
     <Entry>
       <ID>195</ID>
-      <DefaultText>«Эрритис... {sighs}Знаешь, забудь».</DefaultText>
+      <DefaultText>«Эрритис… {sighs}Знаешь, забудь».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -941,7 +941,7 @@
     </Entry>
     <Entry>
       <ID>207</ID>
-      <DefaultText>«Оом... меняется. Он еще больше... Оом. ООМ, вот кто он».</DefaultText>
+      <DefaultText>«Оом… меняется. Он еще больше… Оом. ООМ, вот кто он».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -976,12 +976,12 @@
     </Entry>
     <Entry>
       <ID>214</ID>
-      <DefaultText>«Но... я не хочу слушать историю».</DefaultText>
+      <DefaultText>«Но… я не хочу слушать историю».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>215</ID>
-      <DefaultText>«Ты говоришь это сейчас. Хотя... если ты скажешь это и потом, мне придется рассказывать истории самому себе. Снова».</DefaultText>
+      <DefaultText>«Ты говоришь это сейчас. Хотя… если ты скажешь это и потом, мне придется рассказывать истории самому себе. Снова».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1006,7 +1006,7 @@
     </Entry>
     <Entry>
       <ID>222</ID>
-      <DefaultText>«В некотором царстве однажды... произошел конфликт! Драка! Снова конфликт! Дерзкий поединок!{Casually thrown out} Продолжение следует».</DefaultText>
+      <DefaultText>«В некотором царстве однажды… произошел конфликт! Драка! Снова конфликт! Дерзкий поединок!{Casually thrown out} Продолжение следует».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1036,7 +1036,7 @@
     </Entry>
     <Entry>
       <ID>230</ID>
-      <DefaultText>«...на тебе была только улыбка? И она тебя пропустила?»</DefaultText>
+      <DefaultText>«…на тебе была только улыбка? И она тебя пропустила?»</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1046,7 +1046,7 @@
     </Entry>
     <Entry>
       <ID>232</ID>
-      <DefaultText>«Но... где же ты прятал деньги? Во рту?»</DefaultText>
+      <DefaultText>«Но… где же ты прятал деньги? Во рту?»</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1076,7 +1076,7 @@
     </Entry>
     <Entry>
       <ID>238</ID>
-      <DefaultText>«Тибир, та история, в середине которой ты остановился... Можешь перейти к финалу и рассказать все в обратном порядке?»</DefaultText>
+      <DefaultText>«Тибир, та история, в середине которой ты остановился… Можешь перейти к финалу и рассказать все в обратном порядке?»</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1131,7 +1131,7 @@
     </Entry>
     <Entry>
       <ID>249</ID>
-      <DefaultText>«В тебе есть что-то этакое, Эрритис...»</DefaultText>
+      <DefaultText>«В тебе есть что-то этакое, Эрритис…»</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1176,7 +1176,7 @@
     </Entry>
     <Entry>
       <ID>258</ID>
-      <DefaultText>«Итак... скука? {mocking, light laugh}На всякий случай напоминаю, что у тебя нет монополии на трагедии».</DefaultText>
+      <DefaultText>«Итак… скука? {mocking, light laugh}На всякий случай напоминаю, что у тебя нет монополии на трагедии».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1341,12 +1341,12 @@
     </Entry>
     <Entry>
       <ID>303</ID>
-      <DefaultText>{Frightened}«Я... ты не можешь его получить. Он нужен мне».</DefaultText>
+      <DefaultText>{Frightened}«Я… ты не можешь его получить. Он нужен мне».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>304</ID>
-      <DefaultText>{Laughs heartily}«В тот день, когда *мне* понадобится бог, чтобы спрятаться, тебя просто... {suddenly ashamed; trying to change the subject}Нет, всё в порядке, он мне не нужен».</DefaultText>
+      <DefaultText>{Laughs heartily}«В тот день, когда *мне* понадобится бог, чтобы спрятаться, тебя просто… {suddenly ashamed; trying to change the subject}Нет, всё в порядке, он мне не нужен».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1446,12 +1446,12 @@
     </Entry>
     <Entry>
       <ID>325</ID>
-      <DefaultText>«А почему твои татуировки... вращаются?»</DefaultText>
+      <DefaultText>«А почему твои татуировки… вращаются?»</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>326</ID>
-      <DefaultText>«Ал говорит, что твои татуировки...»</DefaultText>
+      <DefaultText>«Ал говорит, что твои татуировки…»</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1466,7 +1466,7 @@
     </Entry>
     <Entry>
       <ID>329</ID>
-      <DefaultText>«Разве не странно, что с тобой столько сестер? Они не слишком... шумные?»</DefaultText>
+      <DefaultText>«Разве не странно, что с тобой столько сестер? Они не слишком… шумные?»</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1506,7 +1506,7 @@
     </Entry>
     <Entry>
       <ID>337</ID>
-      <DefaultText>«Оом, ты лучший товарищ для игр. Твоя кожа похожа на... нелипкую смолу».</DefaultText>
+      <DefaultText>«Оом, ты лучший товарищ для игр. Твоя кожа похожа на… нелипкую смолу».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1521,7 +1521,7 @@
     </Entry>
     <Entry>
       <ID>340</ID>
-      <DefaultText>«В тебе что-то есть. Что-то... неправильное».</DefaultText>
+      <DefaultText>«В тебе что-то есть. Что-то… неправильное».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1711,7 +1711,7 @@
     </Entry>
     <Entry>
       <ID>378</ID>
-      <DefaultText>«И что ты хочешь услышать? Что они... {teasing}замешаны?»</DefaultText>
+      <DefaultText>«И что ты хочешь услышать? Что они… {teasing}замешаны?»</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1766,7 +1766,7 @@
     </Entry>
     <Entry>
       <ID>389</ID>
-      <DefaultText>«Я... что? Я не *злой*. Я просто не люблю миндальничать с дураками».</DefaultText>
+      <DefaultText>«Я… что? Я не *злой*. Я просто не люблю миндальничать с дураками».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1811,7 +1811,7 @@
     </Entry>
     <Entry>
       <ID>398</ID>
-      <DefaultText>{Defensive}«Нет. Понимаешь, я умело затормозил дирижабль о землю... {double take}И почему я *объясняю* это тебе?»</DefaultText>
+      <DefaultText>{Defensive}«Нет. Понимаешь, я умело затормозил дирижабль о землю… {double take}И почему я *объясняю* это тебе?»</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1876,7 +1876,7 @@
     </Entry>
     <Entry>
       <ID>411</ID>
-      <DefaultText>«...да?»</DefaultText>
+      <DefaultText>«…да?»</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1896,7 +1896,7 @@
     </Entry>
     <Entry>
       <ID>415</ID>
-      <DefaultText>{Quiet, a bit taken aback}«...Потому что я спросила?»</DefaultText>
+      <DefaultText>{Quiet, a bit taken aback}«…Потому что я спросила?»</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1936,7 +1936,7 @@
     </Entry>
     <Entry>
       <ID>423</ID>
-      <DefaultText>(расстроенно ворчит) «Сколько еще мы должны сопровождать это... *дивное* сокровище?»</DefaultText>
+      <DefaultText>(расстроенно ворчит) «Сколько еще мы должны сопровождать это… *дивное* сокровище?»</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1966,7 +1966,7 @@
     </Entry>
     <Entry>
       <ID>430</ID>
-      <DefaultText>{Taken aback, flustered}«Я... ну... тогда... {gets grumpy}знаешь, для девочки, которая задаёт так много вопросов, ты знаешь подозрительно много».</DefaultText>
+      <DefaultText>{Taken aback, flustered}«Я… ну… тогда… {gets grumpy}знаешь, для девочки, которая задаёт так много вопросов, ты знаешь подозрительно много».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -2141,7 +2141,7 @@
     </Entry>
     <Entry>
       <ID>472</ID>
-      <DefaultText>«Мне приходится сдерживаться, так что... да. Немного».</DefaultText>
+      <DefaultText>«Мне приходится сдерживаться, так что… да. Немного».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>

@@ -128,7 +128,7 @@
       <ID>20</ID>
       <DefaultText>Вы осторожно направляете осколок на обелиск, и из сооружения вырывается сверхгорячий луч. Он попадает в кристалл, и осколок заливается тёплым зелёным светом. Вы чувствуете в руке лёгкую вибрацию.
 
-{ANIM: Green laser shoots player... or just in front of player. As [B] or [C] priority, the player could stretch out his hand, wielding the crystal shard, and the beam hits the shard.}
+{ANIM: Green laser shoots player… or just in front of player. As [B] or [C] priority, the player could stretch out his hand, wielding the crystal shard, and the beam hits the shard.}
 {SOUND: Laser sound effect.}
 {DP}</DefaultText>
       <FemaleText />

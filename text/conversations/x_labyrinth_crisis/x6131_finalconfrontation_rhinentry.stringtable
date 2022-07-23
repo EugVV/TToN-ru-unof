@@ -6,7 +6,7 @@
   <Entries>
     <Entry>
       <ID>1</ID>
-      <DefaultText>{уверенно и гордо}«Вот я и нашла тебя! И, похоже, как раз вовремя. Аль, Варлин... {ухмыляется}Покажем им, на что мы способны!»
+      <DefaultText>{уверенно и гордо}«Вот я и нашла тебя! И, похоже, как раз вовремя. Аль, Варлин… {ухмыляется}Покажем им, на что мы способны!»
 
 {SCRIPT/SOUND/VO: This was not in the original VO recording list, but if we can do a pick-up then this would be a good one to add.}</DefaultText>
       <FemaleText />

@@ -6,7 +6,7 @@
   <Entries>
     <Entry>
       <ID>1</ID>
-      <DefaultText>«Не могу поверить... мы снова поддались...»</DefaultText>
+      <DefaultText>«Не могу поверить… мы снова поддались…»</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -16,7 +16,7 @@
     </Entry>
     <Entry>
       <ID>3</ID>
-      <DefaultText>«Ты... Меняющийся Бог... я...»</DefaultText>
+      <DefaultText>«Ты… Меняющийся Бог… я…»</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -36,8 +36,8 @@
     </Entry>
     <Entry>
       <ID>7</ID>
-      <DefaultText>«Новый отверженный? Дай мне на тебя взглянуть...»</DefaultText>
-      <FemaleText>«Новая отверженная? Дай мне на тебя взглянуть...»</FemaleText>
+      <DefaultText>«Новый отверженный? Дай мне на тебя взглянуть…»</DefaultText>
+      <FemaleText>«Новая отверженная? Дай мне на тебя взглянуть…»</FemaleText>
     </Entry>
   </Entries>
 </StringTableFile>

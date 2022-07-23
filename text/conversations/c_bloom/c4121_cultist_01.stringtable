@@ -11,17 +11,17 @@
     </Entry>
     <Entry>
       <ID>1</ID>
-      <DefaultText>«Ты слышишь голоса Пожирателя? Они *приветствуют* тебя... и зовут в Сердце».</DefaultText>
+      <DefaultText>«Ты слышишь голоса Пожирателя? Они *приветствуют* тебя… и зовут в Сердце».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>2</ID>
-      <DefaultText>«Богохульник... *Враг* Пожирателя. *Убирайся* из этого священного места».</DefaultText>
+      <DefaultText>«Богохульник… *Враг* Пожирателя. *Убирайся* из этого священного места».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>3</ID>
-      <DefaultText>«*Кто* ты? Друг или враг нашего бога? Не могу понять шепчущих...»</DefaultText>
+      <DefaultText>«*Кто* ты? Друг или враг нашего бога? Не могу понять шепчущих…»</DefaultText>
       <FemaleText />
     </Entry>
   </Entries>

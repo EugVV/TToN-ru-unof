@@ -6,12 +6,12 @@
   <Entries>
     <Entry>
       <ID>1</ID>
-      <DefaultText>«Моя... жизнь была отдана за тебя».</DefaultText>
+      <DefaultText>«Моя… жизнь была отдана за тебя».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>2</ID>
-      <DefaultText>«Ты... привел меня сюда».</DefaultText>
+      <DefaultText>«Ты… привел меня сюда».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -21,7 +21,7 @@
     </Entry>
     <Entry>
       <ID>4</ID>
-      <DefaultText>«Скорбь... стерла меня».</DefaultText>
+      <DefaultText>«Скорбь… стерла меня».</DefaultText>
       <FemaleText />
     </Entry>
   </Entries>
