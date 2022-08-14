@@ -1531,7 +1531,7 @@
     </Entry>
     <Entry>
       <ID>305</ID>
-      <DefaultText>Наносит [Damage] всем врагам в зоне действия. Даже в случае промаха наносит [Color: Damage]1 урон[/Color] за каждый пункт приложенного усилия.\n\n[DamageFromEffort].</DefaultText>
+      <DefaultText>Наносит [Damage] всем врагам в зоне действия. Даже в случае промаха наносит [Color: Damage]1 урона[/Color] за каждый пункт приложенного усилия.\n\n[DamageFromEffort].</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
