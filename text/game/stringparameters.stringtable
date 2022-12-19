@@ -5772,7 +5772,7 @@
     </Entry>
     <Entry>
       <ID>1154</ID>
-      <DefaultText>Что привело тебя к *этому*?</DefaultText>
+      <DefaultText>Что же привело к *этому*?</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -7137,8 +7137,8 @@
     </Entry>
     <Entry>
       <ID>1427</ID>
-      <DefaultText>А знает ли он? Конечно нет. Но, возможно, его вопросы приведут нас к знаниям.</DefaultText>
-      <FemaleText>А знает ли она? Конечно нет. Но, возможно, её вопросы приведут нас к знаниям.</FemaleText>
+      <DefaultText>А знает ли он? Конечно, нет. Но, возможно, его вопросы приведут нас к знаниям.</DefaultText>
+      <FemaleText>А знает ли она? Конечно, нет. Но, возможно, её вопросы приведут нас к знаниям.</FemaleText>
     </Entry>
     <Entry>
       <ID>1428</ID>
