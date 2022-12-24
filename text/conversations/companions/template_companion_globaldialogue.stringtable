@@ -246,17 +246,17 @@
     </Entry>
     <Entry>
       <ID>111</ID>
-      <DefaultText>«У меня есть еще один вопрос».</DefaultText>
+      <DefaultText>«У меня другой вопрос, если не возражаешь».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>113</ID>
-      <DefaultText>«Это все, что мне хотелось узнать. Давай сменим тему».</DefaultText>
+      <DefaultText>«Это всё, что мне хотелось узнать. Продолжим путь».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>114</ID>
-      <DefaultText>[Окей]</DefaultText>
+      <DefaultText>[Ладно]</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>

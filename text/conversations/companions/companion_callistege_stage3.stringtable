@@ -31,8 +31,8 @@
     </Entry>
     <Entry>
       <ID>7</ID>
-      <DefaultText>«Я хотел бы узнать об одном из людей, с которыми мы путешествуем».</DefaultText>
-      <FemaleText>«Я хотела бы узнать об одном из людей, с которыми мы путешествуем».</FemaleText>
+      <DefaultText>«Я хотел бы спросить об одном из тех, с кем мы путешествуем».</DefaultText>
+      <FemaleText>«Я хотела бы спросить об одном из тех, с кем мы путешествуем».</FemaleText>
     </Entry>
     <Entry>
       <ID>8</ID>
@@ -41,7 +41,7 @@
     </Entry>
     <Entry>
       <ID>9</ID>
-      <DefaultText>«Это все, что мне хотелось узнать. Пойдем дальше».</DefaultText>
+      <DefaultText>«Это всё, что мне хотелось узнать. Продолжим путь».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
