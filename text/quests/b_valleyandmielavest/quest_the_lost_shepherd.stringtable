@@ -6,12 +6,12 @@
   <Entries>
     <Entry>
       <ID>0</ID>
-      <DefaultText>Потерянный Пастух</DefaultText>
+      <DefaultText>Забывшийся пастух</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>1</ID>
-      <DefaultText>Искать альковы в долине</DefaultText>
+      <DefaultText>Обыскать альковы в долине</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -31,7 +31,7 @@
     </Entry>
     <Entry>
       <ID>5</ID>
-      <DefaultText>Эрритис стал еще сильнее.</DefaultText>
+      <DefaultText>Эрритис стал сильнее.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -95,12 +95,12 @@
     </Entry>
     <Entry>
       <ID>10008</ID>
-      <DefaultText>Попадание в Спокойствие через Резонансную Камеру отличается от простого перетаскивания туда меня и моих товарищей едва заметными деталями. Отражение Эрритиса пропало, и я сомневаюсь, что он вернется.</DefaultText>
+      <DefaultText>Попадание в Спокойствие через резонансную камеру отличается от простого перетаскивания туда меня и моих товарищей едва заметными деталями. Отражение Эрритиса пропало, и я сомневаюсь, что он вернётся.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>20000</ID>
-      <DefaultText>Мне посоветовали обратиться к докторам Топи Хиургов в Цветении касательно состояния Эрритиса.</DefaultText>
+      <DefaultText>Мне посоветовали обратиться касательно состояния Эрритиса к докторам Топи Хиургов в Цветении.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
