@@ -1527,12 +1527,12 @@
     <Entry>
       <ID>304</ID>
       <DefaultText>Искусная</DefaultText>
-      <FemaleText>Искусная</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>305</ID>
       <DefaultText>Сверхимпульсивный</DefaultText>
-      <FemaleText>Сверхимпульсивная</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>306</ID>
@@ -1547,7 +1547,7 @@
     <Entry>
       <ID>308</ID>
       <DefaultText>Потерянный</DefaultText>
-      <FemaleText>Потерянный</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>309</ID>
@@ -1576,7 +1576,7 @@
     </Entry>
     <Entry>
       <ID>314</ID>
-      <DefaultText>Вы любите учиться и знаете много о разных вещах. Однако, вы не очень общительны.</DefaultText>
+      <DefaultText>Вы любите учиться и знаете много о разных вещах. Однако вы не очень общительны.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1596,7 +1596,7 @@
     </Entry>
     <Entry>
       <ID>318</ID>
-      <DefaultText>Вы любите природу и знаете, как справиться со стихией. Жизнь на природе закалила вас. Однако, люди и механизмы являются для вас загадкой.</DefaultText>
+      <DefaultText>Вы любите природу и знаете, как справиться со стихией. Жизнь на природе закалила вас. Однако люди и механизмы являются для вас загадкой.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1621,7 +1621,7 @@
     </Entry>
     <Entry>
       <ID>323</ID>
-      <DefaultText>Вы превосходите в скорости любого. Может вы и не особо ловки, но зато вы сама быстрота.</DefaultText>
+      <DefaultText>Вы превосходите в скорости любого. Может, вы и не особо ловки, но зато вы сама быстрота.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1631,12 +1631,12 @@
     </Entry>
     <Entry>
       <ID>325</ID>
-      <DefaultText>Вы быстро приходите в ярость, и можете подкрепить свой гнев силой.</DefaultText>
+      <DefaultText>Вы быстро приходите в ярость и можете подкрепить свой гнев силой.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>326</ID>
-      <DefaultText>Способность Каллистеж существовать в нескольких измерениях дает ей возможность взглянуть на многие вещи под другим углом.</DefaultText>
+      <DefaultText>Способность Каллистеж существовать в нескольких измерениях даёт ей возможность взглянуть на многие вещи под другим углом.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -3092,17 +3092,17 @@
     <Entry>
       <ID>618</ID>
       <DefaultText>Ожесточённый</DefaultText>
-      <FemaleText>Ожесточённая</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>619</ID>
       <DefaultText>Хитрый</DefaultText>
-      <FemaleText>Хитрая</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>620</ID>
       <DefaultText>Незаметная</DefaultText>
-      <FemaleText>Незаметная</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>621</ID>

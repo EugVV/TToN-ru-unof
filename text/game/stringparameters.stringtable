@@ -6277,12 +6277,12 @@
     </Entry>
     <Entry>
       <ID>1255</ID>
-      <DefaultText>Лучше всего отправить их к лорду Инифиру, но для них сойдёт любой финал.</DefaultText>
+      <DefaultText>Лучше всего отправить их к лорду Инифиру, но любой их конец будет оправдан.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>1256</ID>
-      <DefaultText>Неважно, есть ли у нас код — им всё равно не жить, но мы *должны* достать код!</DefaultText>
+      <DefaultText>Они поплатятся жизнями в любом случае, но мы *должны* заполучить пароль!</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -6337,7 +6337,7 @@
     </Entry>
     <Entry>
       <ID>1267</ID>
-      <DefaultText>Я знаю, если всё обернётся хорошо, Утваг обвинит *меня*.</DefaultText>
+      <DefaultText>Я знаю, и в этом положительном стечении обстоятельств Утваг обвинит *меня*.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -7152,7 +7152,7 @@
     </Entry>
     <Entry>
       <ID>1430</ID>
-      <DefaultText>У него есть собственное необъяснимое влечение. Он обязательно обучается *чему-нибудь*.</DefaultText>
+      <DefaultText>Его влечение оставим ему самому. *Чему-нибудь* он обязательно научится.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
