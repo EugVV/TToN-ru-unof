@@ -2931,12 +2931,12 @@
     </Entry>
     <Entry>
       <ID>586</ID>
-      <DefaultText>Не владеет тяжелым оружием</DefaultText>
+      <DefaultText>Не владеет тяжёлым оружием</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>587</ID>
-      <DefaultText>Не владеет средним и тяжелым оружием</DefaultText>
+      <DefaultText>Не владеет средним и тяжёлым оружием</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -4021,7 +4021,7 @@
     </Entry>
     <Entry>
       <ID>804</ID>
-      <DefaultText>Облегчает атаки тяжелым дробящим оружием.</DefaultText>
+      <DefaultText>Облегчает атаки тяжёлым дробящим оружием.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -4031,12 +4031,12 @@
     </Entry>
     <Entry>
       <ID>806</ID>
-      <DefaultText>Облегчает атаки легким дробящим оружием.</DefaultText>
+      <DefaultText>Облегчает атаки лёгким дробящим оружием.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>807</ID>
-      <DefaultText>Облегчает атаки тяжелым клинковым оружием.</DefaultText>
+      <DefaultText>Облегчает атаки тяжёлым клинковым оружием.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -4046,12 +4046,12 @@
     </Entry>
     <Entry>
       <ID>809</ID>
-      <DefaultText>Облегчает атаки легким клинковым оружием.</DefaultText>
+      <DefaultText>Облегчает атаки лёгким клинковым оружием.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>810</ID>
-      <DefaultText>Облегчает атаки тяжелым стрелковым оружием.</DefaultText>
+      <DefaultText>Облегчает атаки тяжёлым стрелковым оружием.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -4061,7 +4061,7 @@
     </Entry>
     <Entry>
       <ID>812</ID>
-      <DefaultText>Облегчает атаки легким стрелковым оружием.</DefaultText>
+      <DefaultText>Облегчает атаки лёгким стрелковым оружием.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -4851,7 +4851,7 @@
     </Entry>
     <Entry>
       <ID>970</ID>
-      <DefaultText>Тяжелое оружие</DefaultText>
+      <DefaultText>Тяжёлое оружие</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -7557,12 +7557,12 @@
     </Entry>
     <Entry>
       <ID>1512</ID>
-      <DefaultText>Чем бы Оом не являлся, он, кажется, рассматривает вас как своего подопечного. И сделает все, чтобы защитить вас.</DefaultText>
+      <DefaultText>Чем бы Оом ни являлся, он, кажется, рассматривает вас как своего подопечного. И сделает всё, чтобы защитить вас.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>1513</ID>
-      <DefaultText>Течет с Потоками</DefaultText>
+      <DefaultText>Течёт с Потоками</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -7577,7 +7577,7 @@
     </Entry>
     <Entry>
       <ID>1516</ID>
-      <DefaultText>Ученый</DefaultText>
+      <DefaultText>Учёный</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>

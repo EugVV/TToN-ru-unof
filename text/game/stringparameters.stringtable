@@ -7197,13 +7197,13 @@
     </Entry>
     <Entry>
       <ID>1439</ID>
-      <DefaultText>Мой ответ — я её *найду*.</DefaultText>
+      <DefaultText>Мой ответ. Я его *найду*.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>1440</ID>
-      <DefaultText>Он получил мой ответ!</DefaultText>
-      <FemaleText>Она получила мой ответ!</FemaleText>
+      <DefaultText>Мой ответ у него!</DefaultText>
+      <FemaleText>Мой ответ у неё!</FemaleText>
     </Entry>
     <Entry>
       <ID>1441</ID>
