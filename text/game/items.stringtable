@@ -5456,7 +5456,7 @@
     </Entry>
     <Entry>
       <ID>1163</ID>
-      <DefaultText>Перманенто увеличивает [Color: PositiveModifier]&lt;quad class="resistance"&gt; Сопротивление на +1[/Color].</DefaultText>
+      <DefaultText>Перманентно увеличивает [Color: PositiveModifier]&lt;quad class="resistance"&gt;сопротивление на +1[/Color].</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -5466,7 +5466,7 @@
     </Entry>
     <Entry>
       <ID>1165</ID>
-      <DefaultText>Мгновенно снимает все [FettleIcon: Buff]положительные и [FettleIcon: Status]статусные эффекты со всех врагов. В дополнение дает эффект [Fettles] ([FettleEffectsBasic]).</DefaultText>
+      <DefaultText>Мгновенно снимает все [FettleIcon: Buff]положительные и [FettleIcon: Status]статусные эффекты со всех врагов. В дополнение даёт эффект [Fettles] ([FettleEffectsBasic]).</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>

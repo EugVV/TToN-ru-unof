@@ -251,7 +251,7 @@
     </Entry>
     <Entry>
       <ID>49</ID>
-      <DefaultText>Бонус: +2 ко всем задачам</DefaultText>
+      <DefaultText>+2 ко всем задачам</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -771,7 +771,7 @@
     </Entry>
     <Entry>
       <ID>153</ID>
-      <DefaultText>Преобразует весь урон в межпространственный и дает бонус [PassiveEffectsBasic], но при этом межпространственный урон по этому персонажу увеличен на [Color: Damage]+50%[/Color]</DefaultText>
+      <DefaultText>Преобразует весь урон в межпространственный и даёт [PassiveEffectsBasic], но при этом межпространственный урон по этому персонажу увеличен на [Color: Damage]+50%[/Color]</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -786,12 +786,12 @@
     </Entry>
     <Entry>
       <ID>156</ID>
-      <DefaultText>Поглощает весь урон, наносимый Скорбью и ее фрагментами. Также [Damage] при атаках против Скорби и ее фрагментов. [PassiveEffectsBasic]</DefaultText>
+      <DefaultText>Поглощает весь урон, наносимый Скорбью и её фрагментами. Также [Damage] при атаках против Скорби и её фрагментов. [PassiveEffectsBasic]</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>157</ID>
-      <DefaultText>Преобразует весь наносимый урон в [DamageIcon: Energy][Color: Energy]энергетический[/Color] и дает бонус [PassiveEffectsBasic]</DefaultText>
+      <DefaultText>Преобразует весь наносимый урон в [DamageIcon: Energy][Color: Energy]энергетический[/Color] и даёт [PassiveEffectsBasic]</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
