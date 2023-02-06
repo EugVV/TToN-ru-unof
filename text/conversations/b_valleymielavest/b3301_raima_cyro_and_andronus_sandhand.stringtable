@@ -43,19 +43,19 @@
     </Entry>
     <Entry>
       <ID>8</ID>
-      <DefaultText>«Как!» — одновременно кричат они, оборачиваясь к вам.</DefaultText>
+      <DefaultText>«Что?!» — в один голос кричат они, оборачиваясь к вам.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>9</ID>
-      <DefaultText>Они застывают, оборвав крики, и в тишине, едва дыша, поворачиваются к вам.
+      <DefaultText>Они застывают, оборвав крики, безмолвно и затаив дыхание поворачиваются к вам.
 
-Они одновременно зажмуриваются.</DefaultText>
+Затем одновременно моргают.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>10</ID>
-      <DefaultText>Они одновременно замолкают и смотрят на вас, не веря своим глазам.</DefaultText>
+      <DefaultText>Они одновременно замолкают и скептически смотрят на вас.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -514,7 +514,7 @@
     </Entry>
     <Entry>
       <ID>104</ID>
-      <DefaultText>«Ты *дитя*», — говорит она со смехом. — «Ты неблагодарный!»</DefaultText>
+      <DefaultText>«Ты *дитя*», — говорит она с презрительной усмешкой. — «Неблагодарное дитя!»</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -524,7 +524,7 @@
     </Entry>
     <Entry>
       <ID>106</ID>
-      <DefaultText>«Наверное, ты во всем разобралась, не так ли?»</DefaultText>
+      <DefaultText>«Думаешь, ты во всём разобралась, да?»</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
