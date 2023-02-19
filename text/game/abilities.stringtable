@@ -4321,7 +4321,7 @@
     </Entry>
     <Entry>
       <ID>864</ID>
-      <DefaultText>Высосите боевой дух из цели: это даст +1 к урону при следующем ударе и в случайном порядке снимет одно положительное состояние.</DefaultText>
+      <DefaultText>Высасывает боевой дух из цели, это даёт +1 к урону при следующем ударе и снимает одно случайное положительное состояние.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -4331,7 +4331,7 @@
     </Entry>
     <Entry>
       <ID>866</ID>
-      <DefaultText>Снижает сложность атак в Скрытом состоянии.</DefaultText>
+      <DefaultText>Снижает сложность атак в скрытом состоянии.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -4341,7 +4341,7 @@
     </Entry>
     <Entry>
       <ID>868</ID>
-      <DefaultText>Распылите перед собой облако нано-частиц, нанося [Damage] и накладывая эффект [Fettles] ([FettleEffectsBasic]) на всех врагов, которые не смогли избежать атаки.\n\n[DamageFromEffort].</DefaultText>
+      <DefaultText>Распыляет перед вами облако наночастиц, нанося [Damage] и накладывая эффект [Fettles] ([FettleEffectsBasic]) на всех врагов, которые не смогли избежать атаки.\n\n[DamageFromEffort].</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -4351,7 +4351,7 @@
     </Entry>
     <Entry>
       <ID>870</ID>
-      <DefaultText>Увеличьте скорость движения на +50 % в течение 3 раундов.</DefaultText>
+      <DefaultText>Увеличивает скорость движения на +50 % в течение 3 раундов.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
