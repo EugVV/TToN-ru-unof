@@ -611,7 +611,7 @@
     </Entry>
     <Entry>
       <ID>121</ID>
-      <DefaultText>Маленькая Пасть</DefaultText>
+      <DefaultText>Корпускулярная пасть</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1466,7 +1466,7 @@
     </Entry>
     <Entry>
       <ID>292</ID>
-      <DefaultText>Маленькая Пасть</DefaultText>
+      <DefaultText>Корпускулярная пасть</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -3631,7 +3631,7 @@
     </Entry>
     <Entry>
       <ID>725</ID>
-      <DefaultText>Пасти</DefaultText>
+      <DefaultText>Пасть</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -3641,7 +3641,7 @@
     </Entry>
     <Entry>
       <ID>727</ID>
-      <DefaultText>Непристойная Пасть</DefaultText>
+      <DefaultText>Непристойная пасть</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>

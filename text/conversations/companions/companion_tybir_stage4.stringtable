@@ -1008,9 +1008,7 @@
     </Entry>
     <Entry>
       <ID>343</ID>
-      <DefaultText>«Открывать Пасти Цветения должно быть нетрудно. Думаю, у меня получится».
-{SCRIPT: Should not play after this event is complete.}
-{SCRIPT: Tybir should have seen a maw.}</DefaultText>
+      <DefaultText>«Открывать пасти Цветения должно быть нетрудно. Думаю, у меня получится».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
