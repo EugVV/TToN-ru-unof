@@ -6,7 +6,7 @@
   <Entries>
     <Entry>
       <ID>0</ID>
-      <DefaultText>Мешок Рин</DefaultText>
+      <DefaultText>Сумка Рин</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -41,37 +41,37 @@
     </Entry>
     <Entry>
       <ID>10000</ID>
-      <DefaultText>Рин сказала, что у работорговцев, которые похитили ее, остался ее мешок с несколькими личными вещами. Она просит вас вернуть ей мешок.</DefaultText>
+      <DefaultText>Рин сказала, что у работорговцев, которые её поймали, осталась её сумка с личными вещами. Она просит вас вернуть сумку.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>10001</ID>
-      <DefaultText>Рин сказала, что убежала, не взяв мешок с собой. Возможно, он еще у Толь Магуур.</DefaultText>
+      <DefaultText>Рин сказала, что убежала, не взяв сумку с собой. Возможно, та ещё у Толь Магуур.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>10002</ID>
-      <DefaultText>Толь подтвердила, что мешок Рин у нее. Вам нужно как-то забрать у нее мешок.</DefaultText>
+      <DefaultText>Толь подтвердила, что сумка Рин у неё. Вам нужно как-то забрать у неё сумку.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>10003</ID>
-      <DefaultText>Вы убили Толь, и Рин забрала мешок с ее трупа.</DefaultText>
+      <DefaultText>Вы убили Толь, и Рин забрала сумку с её трупа.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>10004</ID>
-      <DefaultText>Это было нелегко, но вы сумели убедить Толь, что если Рин принадлежит вам, то вам принадлежит и ее имущество.</DefaultText>
+      <DefaultText>Это было нелегко, но вы сумели убедить Толь, что если Рин принадлежит вам, то вам принадлежит и её имущество.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>10005</ID>
-      <DefaultText>Толь не сразу согласилась отдать мешок. Вам пришлось заплатить больше, чтобы получить вещи Рин.</DefaultText>
+      <DefaultText>Толь не сразу согласилась отдать сумку. Вам пришлось заплатить больше, чтобы получить вещи Рин.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>10006</ID>
-      <DefaultText>Толь не согласилась отдать мешок, но вам удалось украсть его, когда она отвлеклась.</DefaultText>
+      <DefaultText>Толь не согласилась отдать сумку, но вам удалось украсть её, когда она отвлеклась.</DefaultText>
       <FemaleText />
     </Entry>
   </Entries>
