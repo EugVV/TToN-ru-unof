@@ -6,12 +6,12 @@
   <Entries>
     <Entry>
       <ID>1</ID>
-      <DefaultText>«Мне не нужна твоя помощь, ты для меня все еще щенок из Дендры».</DefaultText>
+      <DefaultText>«Плевать на твою помощь, ты для меня всё ещё щенок из Дендры».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>2</ID>
-      <DefaultText>«Мерзкий последователь Дендры… Дети откроют твои секреты!»</DefaultText>
+      <DefaultText>«Дрянь из Дендры… Дети откроют твои секреты!»</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -26,7 +26,7 @@
     </Entry>
     <Entry>
       <ID>6</ID>
-      <DefaultText>«Не важно, знак Инифира это или нет, никогда последователь Дендры не будет нашим другом».</DefaultText>
+      <DefaultText>«Неважно, знак Инифира это или нет, никому из Дендры не быть нашим другом».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -36,7 +36,7 @@
     </Entry>
     <Entry>
       <ID>8</ID>
-      <DefaultText>«Мы не просим многого — найди пропавших людей и верни их сюда!»</DefaultText>
+      <DefaultText>«Мы не просим многого: найди пропавших людей и верни их сюда!»</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
