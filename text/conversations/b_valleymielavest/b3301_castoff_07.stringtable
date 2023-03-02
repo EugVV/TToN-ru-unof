@@ -6,12 +6,12 @@
   <Entries>
     <Entry>
       <ID>1</ID>
-      <DefaultText>«Это чудное место!»</DefaultText>
+      <DefaultText>«Ну и *скука* же тут».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>2</ID>
-      <DefaultText>«Я понимаю то, почему все прячутся от Скорби, но те, что живут здесь, не *живут* в полном смысле, ты меня понимаешь?»</DefaultText>
+      <DefaultText>«Понятно, почему все прячутся от Скорби, но те, что живут здесь, не *живут* в полном смысле, понимаешь?»</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>

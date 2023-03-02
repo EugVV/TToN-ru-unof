@@ -6,12 +6,12 @@
   <Entries>
     <Entry>
       <ID>1</ID>
-      <DefaultText>«Ах, если бы наш создатель был здесь…»</DefaultText>
+      <DefaultText>«Вот бы наш создатель был здесь…»</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>2</ID>
-      <DefaultText>«В твоем теле остались воспоминания Меняющегося Бога? У меня нет».</DefaultText>
+      <DefaultText>«В твоём теле остались воспоминания Меняющегося Бога? У меня — нет».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -21,7 +21,7 @@
     </Entry>
     <Entry>
       <ID>4</ID>
-      <DefaultText>«Я больше не хочу здесь оставаться, но… Я не был в мире уже лет десять».</DefaultText>
+      <DefaultText>«Не хочу тут оставаться, но… я не был в мире уже лет десять».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -31,17 +31,17 @@
     </Entry>
     <Entry>
       <ID>6</ID>
-      <DefaultText>«А что, если я *впустую* трачу бессмертие?»</DefaultText>
+      <DefaultText>«Что, если я *впустую* трачу бессмертие?»</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>7</ID>
-      <DefaultText>«Но что толку от бессмертия, если его можно урезать?»</DefaultText>
+      <DefaultText>«Но что толку от бессмертия, если его можно оборвать?»</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>8</ID>
-      <DefaultText>«Я должен… Нет, не должен».</DefaultText>
+      <DefaultText>«Я должен… нет, не должен».</DefaultText>
       <FemaleText />
     </Entry>
   </Entries>
