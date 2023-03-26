@@ -462,7 +462,7 @@
     </Entry>
     <Entry>
       <ID>100</ID>
-      <DefaultText>Он внимательно слушает, наклонив голову, и когда вы заканчиваете говорить, обдумывает ваши слова. «Когда-нибудь ты останешься в одиночестве и тогда заплатишь за свои слова. Это еще не конец, я обещаю».</DefaultText>
+      <DefaultText>Он внимательно слушает, наклонив голову, и, когда вы заканчиваете говорить, обдумывает ваши слова. «Когда-нибудь ты останешься в одиночестве и тогда заплатишь за свои слова. Это ещё не конец, обещаю».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -477,37 +477,37 @@
     </Entry>
     <Entry>
       <ID>103</ID>
-      <DefaultText>[Атака] «Похоже, дело словами не окончится».</DefaultText>
+      <DefaultText>[Атака] «Похоже, слова доходят не до всех».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>104</ID>
-      <DefaultText>«Значит… значит мы принесем в жертву этого человека?»</DefaultText>
+      <DefaultText>«Значит… значит мы принесём в жертву этого человека?»</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>105</ID>
-      <DefaultText>«Нет. Он пытался помочь с поисками. Но ничего не нашел. Это наша ошибка, друг мой. Пойдем. Нужно понять, что произошло с нашими беглецами».</DefaultText>
-      <FemaleText>«Нет. Она пыталась помочь с поисками. Но ничего не нашла. Это наша ошибка, друг мой. Пойдем. Нужно понять, что произошло с нашими беглецами».</FemaleText>
+      <DefaultText>«Нет. Он пытался помочь с поисками. Но ничего не нашёл. Это наша ошибка, друг мой. Пойдём. Нужно понять, что произошло с нашими беглецами».</DefaultText>
+      <FemaleText>«Нет. Она пыталась помочь с поисками. Но ничего не нашла. Это наша ошибка, друг мой. Пойдём. Нужно понять, что произошло с нашими беглецами».</FemaleText>
     </Entry>
     <Entry>
       <ID>106</ID>
-      <DefaultText>«Но мы еще встретимся, о да».</DefaultText>
+      <DefaultText>«Но мы ещё встретимся, о да».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>107</ID>
-      <DefaultText>«Еще нет, но я буду искать дальше».</DefaultText>
+      <DefaultText>«Ещё нет, но я буду искать дальше».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>108</ID>
-      <DefaultText>«Ты только тратишь свое время. Найди их!»</DefaultText>
+      <DefaultText>«Ты только тратишь своё время. Найди их!»</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>109</ID>
-      <DefaultText>«Ищи еще!»</DefaultText>
+      <DefaultText>«Ищи ещё!»</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -524,17 +524,17 @@
       <ID>112</ID>
       <DefaultText>«Жаль. Кровь должна пролиться. Неважно чья, пусть даже твоя».
 
- Они достают оружие и готовятся к атаке.
- {TUSSLE: Start Tussle with Klin'kar, Altil, and Mosslan — if PC wins, set Global b3101_KlinKar_Resolution = 4. If PC is killed, set it to 5}</DefaultText>
+Они выхватывают оружие и готовятся к атаке!
+{TUSSLE: Start Tussle with Klin'kar, Altil, and Mosslan — if PC wins, set Global b3101_KlinKar_Resolution = 4. If PC is killed, set it to 5}</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>113</ID>
       <DefaultText>Белтракс выбрасывает руку в воздух, и мерцающая пыль окутывает его товарища Роноса. Когда пыль рассеивается, вы видите, что Ронос исчез.
 
- «Хочешь драки? Я бы тебе поддался, ведь силы неравны».
+«Хочешь драки? Я бы тебе поддался, ведь силы неравны».
 
- Сектанты приближаются, их оружие блестит.</DefaultText>
+Сектанты приближаются, их оружие блестит.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -619,7 +619,7 @@
     </Entry>
     <Entry>
       <ID>135</ID>
-      <DefaultText>«Расскажи еще раз о Детях Бесконечных Врат».</DefaultText>
+      <DefaultText>«Расскажи ещё раз о Детях Бесконечных Врат».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -711,7 +711,7 @@
     </Entry>
     <Entry>
       <ID>155</ID>
-      <DefaultText>«У меня есть еще несколько вопросов».</DefaultText>
+      <DefaultText>«У меня ещё остались вопросы».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -818,14 +818,14 @@
     </Entry>
     <Entry>
       <ID>182</ID>
-      <DefaultText>«Куда это ты направляешься? Отсюда только два выхода. Первый — это найти мемуаристов. А второй…» Он облизывает губы.
+      <DefaultText>«Куда это ты направляешься? Отсюда только два выхода. Первый — это найти мемуаристов. А второй…» — он облизывает губы.
 
-«Что ж, второй путь тебе не понравится. Ты поймешь это сразу, как только попытаешься опять скрыться от меня».</DefaultText>
+«Что ж, второй путь тебе не понравится. Ты поймёшь это сразу, как только попытаешься опять скрыться от меня».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>183</ID>
-      <DefaultText>Его покрасневшее лицо кривится в безобразной гримасе. «Я тебя предупреждал о том, что произойдет, если ты опять перейдешь мне дорогу».</DefaultText>
+      <DefaultText>Его покрасневшее лицо кривится в безобразной гримасе: «Я тебя предупреждал о том, что произойдёт, если ты опять перейдёшь мне дорогу».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -840,12 +840,12 @@
     </Entry>
     <Entry>
       <ID>186</ID>
-      <DefaultText>[Атака] «С этим покончено. *Теперь* ты уберешься с моей дороги».</DefaultText>
+      <DefaultText>[Атака] «Хватит с меня. Ты уберёшься с моей дороги *сейчас же*».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>187</ID>
-      <DefaultText>«Этого не могло быть. Ты тоже не уйдешь от меня».</DefaultText>
+      <DefaultText>«Этого не могло быть. Ты тоже не уйдёшь от меня».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -855,13 +855,13 @@
     </Entry>
     <Entry>
       <ID>189</ID>
-      <DefaultText>Он ухмыляется. «Ты еще не понял?»</DefaultText>
-      <FemaleText />
+      <DefaultText>Он ухмыляется: «Ты ещё не понял?»</DefaultText>
+      <FemaleText>Он ухмыляется: «Ты ещё не поняла?»</FemaleText>
     </Entry>
     <Entry>
       <ID>190</ID>
       <DefaultText>«Хорошо. Я готов».</DefaultText>
-      <FemaleText />
+      <FemaleText>«Хорошо. Я готова».</FemaleText>
     </Entry>
     <Entry>
       <ID>191</ID>
