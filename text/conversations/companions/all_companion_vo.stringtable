@@ -96,7 +96,7 @@
     </Entry>
     <Entry>
       <ID>19</ID>
-      <DefaultText>«Хочешь еще?»</DefaultText>
+      <DefaultText>«Хочешь ещё?»</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -271,7 +271,7 @@
     </Entry>
     <Entry>
       <ID>54</ID>
-      <DefaultText>{gasping}«Еще не конец… Я еще жив…»</DefaultText>
+      <DefaultText>{gasping}«Ещё не конец… я ещё жив…»</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -291,7 +291,7 @@
     </Entry>
     <Entry>
       <ID>58</ID>
-      <DefaultText>«Готов протестировать ее».</DefaultText>
+      <DefaultText>«Готов протестировать её».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -466,7 +466,7 @@
     </Entry>
     <Entry>
       <ID>93</ID>
-      <DefaultText>{short, sharp} «Ха!»</DefaultText>
+      <DefaultText>{short, sharp}«Ха!»</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -496,7 +496,7 @@
     </Entry>
     <Entry>
       <ID>99</ID>
-      <DefaultText>«Черт, Эрритис! Не вздумай умирать!»</DefaultText>
+      <DefaultText>«Чёрт, Эрритис! Не вздумай умирать!»</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -511,37 +511,37 @@
     </Entry>
     <Entry>
       <ID>102</ID>
-      <DefaultText>«Вставай, отверженный. Ты еще не умер».</DefaultText>
-      <FemaleText>«Вставай, отверженная. Ты еще не умерла».</FemaleText>
+      <DefaultText>«Вставай, отверженный. Ты ещё не умер».</DefaultText>
+      <FemaleText>«Вставай, отверженная. Ты ещё не умерла».</FemaleText>
     </Entry>
     <Entry>
       <ID>103</ID>
-      <DefaultText>«Это было… Вполне ожидаемо».</DefaultText>
+      <DefaultText>«Это было… вполне ожидаемо».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>104</ID>
-      <DefaultText>«Черт тебя дери, отверженный! Ну не так же!»</DefaultText>
-      <FemaleText>«Черт тебя дери, отверженная! Ну не так же!»</FemaleText>
+      <DefaultText>«Чёрт тебя дери, отверженный! Ну не так же!»</DefaultText>
+      <FemaleText>«Чёрт тебя дери, отверженная! Ну не так же!»</FemaleText>
     </Entry>
     <Entry>
       <ID>105</ID>
-      <DefaultText>«Мэткина, ты не умерла. Так что, давай, поднимайся».</DefaultText>
+      <DefaultText>«Мэткина, ты не умерла. Так что давай, поднимайся».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>106</ID>
-      <DefaultText>«Это штука вообще не *умирает*?»</DefaultText>
+      <DefaultText>«Это создание вообще не *умирает*?»</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>107</ID>
-      <DefaultText>«Ее кровь на твоих руках, отверженный».</DefaultText>
-      <FemaleText>«Ее кровь на твоих руках, отверженная».</FemaleText>
+      <DefaultText>«Её кровь на твоих руках, отверженный».</DefaultText>
+      <FemaleText>«Её кровь на твоих руках, отверженная».</FemaleText>
     </Entry>
     <Entry>
       <ID>108</ID>
-      <DefaultText>{frown} «Я уж точно не буду скучать по этому старому вояке».</DefaultText>
+      <DefaultText>{frown}«Я уж точно не буду скучать по этому старому вояке».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -551,22 +551,22 @@
     </Entry>
     <Entry>
       <ID>110</ID>
-      <DefaultText>«Может, отдохнешь еще немного?»</DefaultText>
+      <DefaultText>«Может, отдохнёшь ещё немного?»</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>111</ID>
-      <DefaultText>«Не будем терять времени, отверженный. Идем».</DefaultText>
-      <FemaleText>«Не будем терять времени, отверженная. Идем».</FemaleText>
+      <DefaultText>«Не будем терять времени, отверженный. Идём».</DefaultText>
+      <FemaleText>«Не будем терять времени, отверженная. Идём».</FemaleText>
     </Entry>
     <Entry>
       <ID>112</ID>
-      <DefaultText>«Ты пришел в себя. Наконец-то».</DefaultText>
+      <DefaultText>«Ты пришёл в себя. Наконец-то».</DefaultText>
       <FemaleText>«Ты пришла в себя. Наконец-то».</FemaleText>
     </Entry>
     <Entry>
       <ID>113</ID>
-      <DefaultText>«Тебе действительно нравится все время умирать и воскресать? А то частенько это делаешь».</DefaultText>
+      <DefaultText>«Тебе действительно нравится всё время умирать и воскресать? А то частенько это делаешь».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -931,7 +931,7 @@
     </Entry>
     <Entry>
       <ID>186</ID>
-      <DefaultText>«Что это еще за *кошмар*?»</DefaultText>
+      <DefaultText>«Что это ещё за *кошмар*?»</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -941,7 +941,7 @@
     </Entry>
     <Entry>
       <ID>188</ID>
-      <DefaultText>«Боги, Бесконечная Битва… Никогда не хотел сюда попасть».</DefaultText>
+      <DefaultText>«Боги, Бесконечная Битва… никогда не хотел сюда попасть».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1101,7 +1101,7 @@
     </Entry>
     <Entry>
       <ID>220</ID>
-      <DefaultText>«Еще один выведен из строя».</DefaultText>
+      <DefaultText>«Ещё один выведен из строя».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1126,7 +1126,7 @@
     </Entry>
     <Entry>
       <ID>225</ID>
-      <DefaultText>«Как я и предполагала. Давай еще раз!»</DefaultText>
+      <DefaultText>«Как я и предполагала. Давай ещё раз!»</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1236,7 +1236,7 @@
     </Entry>
     <Entry>
       <ID>247</ID>
-      <DefaultText>«Убери эти шифры. Еще немного, и я пострадаю».</DefaultText>
+      <DefaultText>«Убери эти шифры. Ещё немного, и я пострадаю».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1256,8 +1256,8 @@
     </Entry>
     <Entry>
       <ID>251</ID>
-      <DefaultText>{шёпотом} «Ты… подвёл меня… отверженный…»</DefaultText>
-      <FemaleText>{шёпотом} «Ты… подвела меня… отверженная…»</FemaleText>
+      <DefaultText>{шёпотом}«Ты… подвёл меня… отверженный…»</DefaultText>
+      <FemaleText>{шёпотом}«Ты… подвела меня… отверженная…»</FemaleText>
     </Entry>
     <Entry>
       <ID>252</ID>
@@ -1431,7 +1431,7 @@
     </Entry>
     <Entry>
       <ID>286</ID>
-      <DefaultText>«Как долго мы еще будем здесь?»</DefaultText>
+      <DefaultText>«Как долго мы ещё будем здесь?»</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1501,7 +1501,7 @@
     </Entry>
     <Entry>
       <ID>300</ID>
-      <DefaultText>«О, Мэткина. Попробуй еще раз».</DefaultText>
+      <DefaultText>«О, Мэткина. Попробуй ещё раз».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1511,12 +1511,12 @@
     </Entry>
     <Entry>
       <ID>302</ID>
-      <DefaultText>«Ее смерть на твоей совести, отверженный».</DefaultText>
-      <FemaleText>«Ее смерть на твоей совести, отверженная».</FemaleText>
+      <DefaultText>«Её смерть на твоей совести, отверженный».</DefaultText>
+      <FemaleText>«Её смерть на твоей совести, отверженная».</FemaleText>
     </Entry>
     <Entry>
       <ID>303</ID>
-      <DefaultText>{droll} «Как жаль, что Тибира нет с нами. Чем бы мы ни занялись».</DefaultText>
+      <DefaultText>{droll}«Как жаль, что Тибира нет с нами. Чем бы мы ни занялись».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1531,7 +1531,7 @@
     </Entry>
     <Entry>
       <ID>306</ID>
-      <DefaultText>«Идем, хватит мешкать. Впереди нас ждет целый мир!»</DefaultText>
+      <DefaultText>«Идём, хватит мешкать. Впереди нас ждёт целый мир!»</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1616,7 +1616,7 @@
     </Entry>
     <Entry>
       <ID>323</ID>
-      <DefaultText>«Исключено… Просто исключено. Я так помирать не собираюсь».</DefaultText>
+      <DefaultText>«Исключено… просто исключено. Я так помирать не собираюсь».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -2026,7 +2026,7 @@
     </Entry>
     <Entry>
       <ID>405</ID>
-      <DefaultText>«Я готов стать еще большим героем!»</DefaultText>
+      <DefaultText>«Я готов стать ещё большим героем!»</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -2046,12 +2046,12 @@
     </Entry>
     <Entry>
       <ID>409</ID>
-      <DefaultText>«Я стал еще пуще бить злодеев, чем раньше!»</DefaultText>
+      <DefaultText>«Я колошмачу злодеев даже лучше, чем раньше!»</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>410</ID>
-      <DefaultText>«Я чувствую себя еще круче!»</DefaultText>
+      <DefaultText>«Я чувствую себя ещё круче!»</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -2236,7 +2236,7 @@
     </Entry>
     <Entry>
       <ID>447</ID>
-      <DefaultText>«Я не должен умереть! Я еще столько всего должен сделать!»</DefaultText>
+      <DefaultText>«Я не должен умереть! Мне ещё столько всего предстоит сделать!»</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -2341,7 +2341,7 @@
     </Entry>
     <Entry>
       <ID>468</ID>
-      <DefaultText>«Я бы поспал, если бы это не было еще *скучнее*».</DefaultText>
+      <DefaultText>«Я бы поспал, если бы это не было ещё *скучнее*».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -2356,17 +2356,17 @@
     </Entry>
     <Entry>
       <ID>471</ID>
-      <DefaultText>{cheerful}«Я помню этот город. Я когда-то разбился в нем!»</DefaultText>
+      <DefaultText>{cheerful}«Я помню этот город. Я когда-то разбился в нём!»</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>472</ID>
-      <DefaultText>«Ты только посмотри на нас. Гуляем по городу. Ничего не крушим.{beat, bored groan.}»</DefaultText>
+      <DefaultText>«Ты только посмотри на нас. Гуляем по городу. Ничего не крушим{beat, bored groan.}».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>473</ID>
-      <DefaultText>«Я и понятия *не* имел, что город такой большой!»</DefaultText>
+      <DefaultText>«Я и *понятия* не имел, что город такой большой!»</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -2626,7 +2626,7 @@
     </Entry>
     <Entry>
       <ID>525</ID>
-      <DefaultText>{Got a happy injection}«Я бы еще от *такого* не отказался».</DefaultText>
+      <DefaultText>{Got a happy injection}«Я бы ещё от *такого* не отказался».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -2916,7 +2916,7 @@
     </Entry>
     <Entry>
       <ID>583</ID>
-      <DefaultText>«Где мы? Все выглядит… запутанно».</DefaultText>
+      <DefaultText>«Где мы? Всё выглядит… запутанно».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -2931,7 +2931,7 @@
     </Entry>
     <Entry>
       <ID>586</ID>
-      <DefaultText>«Думаешь, это все еще работает? Нет?»</DefaultText>
+      <DefaultText>«Думаешь, это всё ещё работает? Нет?»</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -3041,7 +3041,7 @@
     </Entry>
     <Entry>
       <ID>608</ID>
-      <DefaultText>«Мои враги будут меня бояться. Бояться еще больше».</DefaultText>
+      <DefaultText>«Мои враги будут меня бояться. Бояться ещё больше».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -3081,7 +3081,7 @@
     </Entry>
     <Entry>
       <ID>616</ID>
-      <DefaultText>{exultant} «Да».</DefaultText>
+      <DefaultText>{exultant}«Да».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -3091,12 +3091,12 @@
     </Entry>
     <Entry>
       <ID>618</ID>
-      <DefaultText>«На этой штуке не остается ни царапины!»</DefaultText>
+      <DefaultText>«На этой штуке не остаётся ни царапины!»</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>619</ID>
-      <DefaultText>«Да! Давай еще!»</DefaultText>
+      <DefaultText>«Да! Давай ещё!»</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -3106,8 +3106,8 @@
     </Entry>
     <Entry>
       <ID>621</ID>
-      <DefaultText>«Ты следующий, тупица».</DefaultText>
-      <FemaleText>«Ты следующая, тупица».</FemaleText>
+      <DefaultText>«Ты на очереди, тупица».</DefaultText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>622</ID>
@@ -3706,7 +3706,7 @@
     </Entry>
     <Entry>
       <ID>741</ID>
-      <DefaultText>«Что еще?»</DefaultText>
+      <DefaultText>«Что ещё?»</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -3761,12 +3761,12 @@
     </Entry>
     <Entry>
       <ID>752</ID>
-      <DefaultText>«Вытащи меня отсюда, либо вылечи — но сделай что-нибудь!»</DefaultText>
+      <DefaultText>«Вытащи меня отсюда либо вылечи — но сделай что-нибудь!»</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>753</ID>
-      <DefaultText>«Облажались, черт побери».</DefaultText>
+      <DefaultText>«Облажались, чёрт побери».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -3776,7 +3776,7 @@
     </Entry>
     <Entry>
       <ID>755</ID>
-      <DefaultText>«Да что ты знаешь? Я еще *более* смертоносная».</DefaultText>
+      <DefaultText>«Да что ты знаешь? Я *ещё* более смертоносная».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -3786,7 +3786,7 @@
     </Entry>
     <Entry>
       <ID>757</ID>
-      <DefaultText>«Это мое, а не твое».</DefaultText>
+      <DefaultText>«Это моё, а не твоё».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -4326,7 +4326,7 @@
     </Entry>
     <Entry>
       <ID>865</ID>
-      <DefaultText>«Не сдавайся! Битва еще не окончена!»</DefaultText>
+      <DefaultText>«Не сдавайся! Битва ещё не окончена!»</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -4351,7 +4351,7 @@
     </Entry>
     <Entry>
       <ID>870</ID>
-      <DefaultText>«Нет! Стой. {Laughs}Чуть не забыла: все будет в порядке».</DefaultText>
+      <DefaultText>«Нет! Стой. {Laughs}Чуть не забыла: всё будет в порядке».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -4361,7 +4361,7 @@
     </Entry>
     <Entry>
       <ID>872</ID>
-      <DefaultText>«Ты еще глупее… чем я помнила».</DefaultText>
+      <DefaultText>«Ты ещё глупее… чем я помнила».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -4376,7 +4376,7 @@
     </Entry>
     <Entry>
       <ID>875</ID>
-      <DefaultText>«Держись там, Оом. Я все еще бьюсь за тебя».</DefaultText>
+      <DefaultText>«Держись там, Оом. Я всё ещё бьюсь за тебя».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -4391,7 +4391,7 @@
     </Entry>
     <Entry>
       <ID>878</ID>
-      <DefaultText>«Наконец-то. Я уже думала, что мне придется оставить тебя здесь».</DefaultText>
+      <DefaultText>«Наконец-то. Я уже думала, мне придётся оставить тебя здесь».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -4476,7 +4476,7 @@
     </Entry>
     <Entry>
       <ID>895</ID>
-      <DefaultText>«А это действительно больно. То странное лекарственное средство у тебя все еще с собой?»</DefaultText>
+      <DefaultText>«А это действительно больно. То странное лекарственное средство у тебя всё ещё с собой?»</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -4501,7 +4501,7 @@
     </Entry>
     <Entry>
       <ID>900</ID>
-      <DefaultText>«Спасибо за это. А теперь идем».</DefaultText>
+      <DefaultText>«Спасибо за это. А теперь идём».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -5253,7 +5253,7 @@
     </Entry>
     <Entry>
       <ID>1050</ID>
-      <DefaultText>«Нет, нет, и нет».</DefaultText>
+      <DefaultText>«Нет, нет и нет».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -5268,7 +5268,7 @@
     </Entry>
     <Entry>
       <ID>1053</ID>
-      <DefaultText>«Ох! О, нет! Что нам делать?»</DefaultText>
+      <DefaultText>«Ох! О нет! Что нам делать?»</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -5278,12 +5278,12 @@
     </Entry>
     <Entry>
       <ID>1055</ID>
-      <DefaultText>«Она в порядке? Некоторые ее проявления все еще смотрят на меня, будто готовы дать мне отпор».</DefaultText>
+      <DefaultText>«Она в порядке? Некоторые её проявления всё ещё смотрят на меня, будто готовы дать мне отпор».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>1056</ID>
-      <DefaultText>«Он еще немного сияет. Это значит… что с ним все будет хорошо?»</DefaultText>
+      <DefaultText>«Он ещё немного сияет. Это значит… что с ним всё будет хорошо?»</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -5298,12 +5298,12 @@
     </Entry>
     <Entry>
       <ID>1059</ID>
-      <DefaultText>«С ним все будет в порядке… верно?»</DefaultText>
+      <DefaultText>«С ним всё будет в порядке… верно?»</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>1060</ID>
-      <DefaultText>«Я начинаю сомневаться в своем покровителе».</DefaultText>
+      <DefaultText>«Я начинаю сомневаться в своём покровителе».</DefaultText>
       <FemaleText>«Я начинаю сомневаться в своей покровительнице».</FemaleText>
     </Entry>
     <Entry>
@@ -5488,7 +5488,7 @@
     </Entry>
     <Entry>
       <ID>1097</ID>
-      <DefaultText>«Я думала, что я умерла. Моя голова… наверно, я все еще близка к этому».</DefaultText>
+      <DefaultText>«Я думала, что умерла. Моя голова… наверно, я всё ещё близка к этому».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -6113,7 +6113,7 @@
     </Entry>
     <Entry>
       <ID>1222</ID>
-      <DefaultText>«Пригнись. Скоро мы уйдем».</DefaultText>
+      <DefaultText>«Пригнись. Скоро мы уйдём».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -6133,7 +6133,7 @@
     </Entry>
     <Entry>
       <ID>1226</ID>
-      <DefaultText>«Мы все еще тут? Пойдем уже!»</DefaultText>
+      <DefaultText>«Мы всё ещё тут? Пойдём уже!»</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -6478,7 +6478,7 @@
     </Entry>
     <Entry>
       <ID>1295</ID>
-      <DefaultText>«О, так мы еще живы. Отлично!»</DefaultText>
+      <DefaultText>«О, так мы ещё живы. Отлично!»</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -6493,7 +6493,7 @@
     </Entry>
     <Entry>
       <ID>1298</ID>
-      <DefaultText>«Не везет нам что-то».</DefaultText>
+      <DefaultText>«Не везёт нам что-то».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
