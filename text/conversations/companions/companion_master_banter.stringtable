@@ -16,7 +16,7 @@
     </Entry>
     <Entry>
       <ID>3</ID>
-      <DefaultText>«Эрритис, почему ты так себя ведешь? Для чего тебе это?»</DefaultText>
+      <DefaultText>«Эрритис, почему ты так себя ведёшь? Для чего тебе это?»</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -31,7 +31,7 @@
     </Entry>
     <Entry>
       <ID>6</ID>
-      <DefaultText>«Ты смеешься невесть почему. А здесь нет ничего веселого».</DefaultText>
+      <DefaultText>«Ты смеёшься невесть почему. А здесь нет ничего веселого».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -376,7 +376,7 @@
     </Entry>
     <Entry>
       <ID>83</ID>
-      <DefaultText>«Я помню тебя по тем временам, когда я еще не изменилась. У тебя всегда были… интересные… схемы. Помнишь, как ты пытался продать мне юную рабыню, а она оказалась ребенком, которого ты обманом увел с улицы?»</DefaultText>
+      <DefaultText>«Помню тебя по тем временам, когда я ещё не изменилась. У тебя всегда были… интересные… схемы. Помнишь, как ты пытался продать мне юную рабыню, а она оказалась ребёнком, которого ты обманом увёл с улицы?»</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -581,7 +581,7 @@
     </Entry>
     <Entry>
       <ID>129</ID>
-      <DefaultText>«Это может повредить кому-нибудь еще».</DefaultText>
+      <DefaultText>«Это может повредить кому-нибудь ещё».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -596,7 +596,7 @@
     </Entry>
     <Entry>
       <ID>133</ID>
-      <DefaultText>«Не кричи. Когда ты это делаешь… {frowns}мы все тебя слышим. И это делает тебя… еще более назойливым, чем обычно».</DefaultText>
+      <DefaultText>«Не кричи. Когда ты это делаешь… {frowns}мы все тебя слышим. И это делает тебя… ещё более назойливым, чем обычно».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -616,7 +616,7 @@
     </Entry>
     <Entry>
       <ID>137</ID>
-      <DefaultText>«Гм. Кто-то из них лжет?»</DefaultText>
+      <DefaultText>«Гм. Кто-то из них лжёт?»</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -926,7 +926,7 @@
     </Entry>
     <Entry>
       <ID>204</ID>
-      <DefaultText>«Оом никогда нас не покинет, правда? Оом никогда не умрет, верно? Скажи, что Оом всегда будет с нами».</DefaultText>
+      <DefaultText>«Оом никогда нас не покинет, правда? Оом никогда не умрёт, верно? Скажи, что Оом всегда будет с нами».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -941,7 +941,7 @@
     </Entry>
     <Entry>
       <ID>207</ID>
-      <DefaultText>«Оом… меняется. Он еще больше… Оом. ООМ, вот кто он».</DefaultText>
+      <DefaultText>«Оом… меняется. Он даже ещё больше… Оом. ООМ, вот кто он».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1006,7 +1006,7 @@
     </Entry>
     <Entry>
       <ID>222</ID>
-      <DefaultText>«В некотором царстве однажды… произошел конфликт! Драка! Снова конфликт! Дерзкий поединок!{Casually thrown out} Продолжение следует».</DefaultText>
+      <DefaultText>«В некотором царстве однажды… произошёл конфликт! Драка! Снова конфликт! Дерзкий поединок!{Casually thrown out} Продолжение следует».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1016,17 +1016,17 @@
     </Entry>
     <Entry>
       <ID>226</ID>
-      <DefaultText>«Я только что вспомнил конец истории, которую я вам рассказывал».</DefaultText>
+      <DefaultText>«Я только что вспомнил конец истории, которую вам рассказывал».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>227</ID>
-      <DefaultText>«Это была всего одна история? {To himself}Я думал, Змей Тысячи Поцелуев убьет меня еще до того, как успеет убить тебя».</DefaultText>
+      <DefaultText>«Это была всего одна история? {To himself}Я думал, Змей Тысячи Поцелуев убьёт меня ещё до того, как успеет убить тебя».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>228</ID>
-      <DefaultText>«Это был бы ужасный конец. Кроме того, меня бы здесь не было, если бы я был мертв. Не *спи*, Тибир».</DefaultText>
+      <DefaultText>«Это был бы ужасный конец. Кроме того, меня бы здесь не было, если бы я был мёртв. *Держись*, Тибир».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1681,7 +1681,7 @@
     </Entry>
     <Entry>
       <ID>372</ID>
-      <DefaultText>«Но есть еще один вариант. Можешь нести меня».</DefaultText>
+      <DefaultText>«Но есть ещё один вариант. Можешь нести меня».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1836,17 +1836,17 @@
     </Entry>
     <Entry>
       <ID>403</ID>
-      <DefaultText>{smiling}«Я знаю, что всегда кто-нибудь смотрит. И я не хмурился — это мое прекрасное суровое лицо».</DefaultText>
+      <DefaultText>{smiling}«Я знаю, что всегда кто-нибудь смотрит. И я не хмурился — это моё прекрасное суровое лицо».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>404</ID>
-      <DefaultText>«В моем-то возрасте, девочка? Да у меня все болит».</DefaultText>
+      <DefaultText>«В моём-то возрасте, девочка? Да у меня всё болит».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>405</ID>
-      <DefaultText>«Это так. Они все время двигаются. Смотри, они кружатся даже сейчас!»</DefaultText>
+      <DefaultText>«Это так. Они всё время двигаются. Смотри, они кружатся даже сейчас!»</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1861,12 +1861,12 @@
     </Entry>
     <Entry>
       <ID>408</ID>
-      <DefaultText>«Не думала, что это возможно, но из-за тебя у меня голова разболелась еще *сильнее*».</DefaultText>
+      <DefaultText>«Не думала, что это возможно, но из-за тебя моя голова разболелась ещё *сильнее*».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>409</ID>
-      <DefaultText>«А что, если ты соберешься спать, а одна из них продолжит болтать?»</DefaultText>
+      <DefaultText>«А что, если ты соберёшься спать, а одна из них продолжит болтать?»</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1886,7 +1886,7 @@
     </Entry>
     <Entry>
       <ID>413</ID>
-      <DefaultText>{Giggles} ::хихикает::</DefaultText>
+      <DefaultText>{Giggles}::хихикает::</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1936,27 +1936,27 @@
     </Entry>
     <Entry>
       <ID>423</ID>
-      <DefaultText>(расстроенно ворчит) «Сколько еще мы должны сопровождать это… *дивное* сокровище?»</DefaultText>
+      <DefaultText>{расстроенно ворчит}«Сколько ещё мы должны сопровождать это… *дивное* сокровище?»</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>425</ID>
-      <DefaultText>{muttering to self} «Молодец, Алигерн. Просто *молодец*».</DefaultText>
+      <DefaultText>{muttering to self}«Молодец, Алигерн. Просто *молодец*».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>426</ID>
-      <DefaultText>«Если бы все было так просто».</DefaultText>
+      <DefaultText>«Если бы всё было так просто».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>427</ID>
-      <DefaultText>{sweetly}«Она научилась останавливаться, дорогуша. Мы ее научили».</DefaultText>
+      <DefaultText>{sweetly}«Она научилась останавливаться, дорогуша. Мы её научили».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>428</ID>
-      <DefaultText>{Smiles}«О. Вот так! Все в порядке!»</DefaultText>
+      <DefaultText>{Smiles}«О. Вот так! Всё в порядке!»</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
