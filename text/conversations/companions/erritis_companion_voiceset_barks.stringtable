@@ -11,7 +11,7 @@
     </Entry>
     <Entry>
       <ID>2</ID>
-      <DefaultText>«Если хочешь сделать все правильно…»</DefaultText>
+      <DefaultText>«Если хочешь сделать всё правильно…»</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -61,7 +61,7 @@
     </Entry>
     <Entry>
       <ID>12</ID>
-      <DefaultText>«Я готов стать еще большим героем!»</DefaultText>
+      <DefaultText>«Я готов стать ещё большим героем!»</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -81,12 +81,12 @@
     </Entry>
     <Entry>
       <ID>16</ID>
-      <DefaultText>«Я стал еще пуще бить злодеев, чем раньше!»</DefaultText>
+      <DefaultText>«Я колошмачу злодеев даже лучше, чем раньше!»</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>17</ID>
-      <DefaultText>«Я чувствую себя еще круче!»</DefaultText>
+      <DefaultText>«Я чувствую себя ещё круче!»</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -271,7 +271,7 @@
     </Entry>
     <Entry>
       <ID>54</ID>
-      <DefaultText>«Я не должен умереть! Я еще столько всего должен сделать!»</DefaultText>
+      <DefaultText>«Я не должен умереть! Мне ещё столько всего предстоит сделать!»</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -376,7 +376,7 @@
     </Entry>
     <Entry>
       <ID>75</ID>
-      <DefaultText>«Я бы поспал, если бы это не было еще *скучнее*».</DefaultText>
+      <DefaultText>«Я бы поспал, если бы это не было ещё *скучнее*».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -391,17 +391,17 @@
     </Entry>
     <Entry>
       <ID>78</ID>
-      <DefaultText>{cheerful}«Я помню этот город. Я когда-то разбился в нем!»</DefaultText>
+      <DefaultText>{cheerful}«Я помню этот город. Я когда-то разбился в нём!»</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>79</ID>
-      <DefaultText>«Ты только посмотри на нас. Гуляем по городу. Ничего не крушим.{beat, bored groan.}»</DefaultText>
+      <DefaultText>«Ты только посмотри на нас. Гуляем по городу. Ничего не крушим{beat, bored groan.}».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>80</ID>
-      <DefaultText>«Я и понятия *не* имел, что город такой большой!»</DefaultText>
+      <DefaultText>«Я и *понятия не имел*, что город такой большой!»</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -661,7 +661,7 @@
     </Entry>
     <Entry>
       <ID>132</ID>
-      <DefaultText>{Got a happy injection}«Я бы еще от *такого* не отказался».</DefaultText>
+      <DefaultText>{Got a happy injection}«Я бы ещё от *такого* не отказался».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -951,7 +951,7 @@
     </Entry>
     <Entry>
       <ID>190</ID>
-      <DefaultText>«Где мы? Все выглядит… запутанно».</DefaultText>
+      <DefaultText>«Где мы? Всё выглядит… запутанно».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -966,7 +966,7 @@
     </Entry>
     <Entry>
       <ID>193</ID>
-      <DefaultText>«Думаешь, это все еще работает? Нет?»</DefaultText>
+      <DefaultText>«Думаешь, это всё ещё работает? Нет?»</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
