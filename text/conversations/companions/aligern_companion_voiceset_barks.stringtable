@@ -96,7 +96,7 @@
     </Entry>
     <Entry>
       <ID>19</ID>
-      <DefaultText>«Хочешь еще?»</DefaultText>
+      <DefaultText>«Хочешь ещё?»</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -501,7 +501,7 @@
     </Entry>
     <Entry>
       <ID>100</ID>
-      <DefaultText>«Черт, Эрритис! Не вздумай умирать!»</DefaultText>
+      <DefaultText>«Чёрт, Эрритис! Не вздумай умирать!»</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -516,32 +516,32 @@
     </Entry>
     <Entry>
       <ID>103</ID>
-      <DefaultText>«Вставай, отверженный. Ты еще не умер».</DefaultText>
-      <FemaleText>«Вставай, отверженная. Ты еще не умерла».</FemaleText>
+      <DefaultText>«Вставай, отверженный. Ты ещё не умер».</DefaultText>
+      <FemaleText>«Вставай, отверженная. Ты ещё не умерла».</FemaleText>
     </Entry>
     <Entry>
       <ID>104</ID>
-      <DefaultText>«Это было… Вполне ожидаемо».</DefaultText>
+      <DefaultText>«Это было… вполне ожидаемо».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>105</ID>
-      <DefaultText>«Черт тебя дери, отверженный! Ну не так же!»</DefaultText>
-      <FemaleText>«Черт тебя дери, отверженная! Ну не так же!»</FemaleText>
+      <DefaultText>«Чёрт тебя дери, отверженный! Ну не так же!»</DefaultText>
+      <FemaleText>«Чёрт тебя дери, отверженная! Ну не так же!»</FemaleText>
     </Entry>
     <Entry>
       <ID>106</ID>
-      <DefaultText>«Мэткина, ты не умерла. Так что, давай, поднимайся».</DefaultText>
+      <DefaultText>«Мэткина, ты не умерла. Так что давай, поднимайся».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>107</ID>
-      <DefaultText>«Это штука вообще не *умирает*?»</DefaultText>
+      <DefaultText>«Эта тварь вообще *не умирает*?»</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>108</ID>
-      <DefaultText>{frown} «Я уж точно не буду скучать по этому старому вояке».</DefaultText>
+      <DefaultText>{frown}«Уж я точно не буду скучать по этому старому вояке».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -551,22 +551,22 @@
     </Entry>
     <Entry>
       <ID>110</ID>
-      <DefaultText>«Может, отдохнешь еще немного?»</DefaultText>
+      <DefaultText>«Может, отдохнёшь ещё немного?»</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>111</ID>
-      <DefaultText>«Не будем терять времени, отверженный. Идем».</DefaultText>
-      <FemaleText>«Не будем терять времени, отверженная. Идем».</FemaleText>
+      <DefaultText>«Не будем терять времени, отверженный. Идём».</DefaultText>
+      <FemaleText>«Не будем терять времени, отверженная. Идём».</FemaleText>
     </Entry>
     <Entry>
       <ID>112</ID>
-      <DefaultText>«Ты пришел в себя. Наконец-то».</DefaultText>
+      <DefaultText>«Ты пришёл в себя. Наконец-то».</DefaultText>
       <FemaleText>«Ты пришла в себя. Наконец-то».</FemaleText>
     </Entry>
     <Entry>
       <ID>113</ID>
-      <DefaultText>«Тебе действительно нравится все время умирать и воскресать? А то частенько это делаешь».</DefaultText>
+      <DefaultText>«Тебе так нравится всё время умирать и воскресать? А то частенько за тобой замечаю».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -936,7 +936,7 @@
     </Entry>
     <Entry>
       <ID>187</ID>
-      <DefaultText>«Что это еще за *кошмар*?»</DefaultText>
+      <DefaultText>«Что это ещё за *кошмар*?»</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -986,7 +986,7 @@
     </Entry>
     <Entry>
       <ID>197</ID>
-      <DefaultText>«Все эти страдания — от ее гордыни».</DefaultText>
+      <DefaultText>«Все эти страдания — от её гордыни».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1001,8 +1001,8 @@
     </Entry>
     <Entry>
       <ID>200</ID>
-      <DefaultText>«Ее кровь на твоих руках, отверженный».</DefaultText>
-      <FemaleText>«Ее кровь на твоих руках, отверженная».</FemaleText>
+      <DefaultText>«Её кровь на твоих руках, отверженный».</DefaultText>
+      <FemaleText>«Её кровь на твоих руках, отверженная».</FemaleText>
     </Entry>
   </Entries>
 </StringTableFile>
