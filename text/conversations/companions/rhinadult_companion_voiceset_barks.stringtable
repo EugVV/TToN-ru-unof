@@ -11,12 +11,12 @@
     </Entry>
     <Entry>
       <ID>2</ID>
-      <DefaultText>«Ладно. Идем».</DefaultText>
+      <DefaultText>«Ладно. Идём».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>3</ID>
-      <DefaultText>«Идем, Аль. Покажем им, чему мы научились».</DefaultText>
+      <DefaultText>«Идём, Аль. Покажем, чему мы научились».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -31,12 +31,12 @@
     </Entry>
     <Entry>
       <ID>6</ID>
-      <DefaultText>«Для тебя? Все, что угодно».</DefaultText>
+      <DefaultText>«Для тебя? Что угодно».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>7</ID>
-      <DefaultText>«Все, что тебе угодно».</DefaultText>
+      <DefaultText>«Всё, что угодно».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -486,7 +486,7 @@
     </Entry>
     <Entry>
       <ID>97</ID>
-      <DefaultText>«Не сдавайся! Битва еще не окончена!»</DefaultText>
+      <DefaultText>«Не сдавайся! Битва ещё не окончена!»</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -511,7 +511,7 @@
     </Entry>
     <Entry>
       <ID>102</ID>
-      <DefaultText>«Нет! Стой. {Laughs}Чуть не забыла: все будет в порядке».</DefaultText>
+      <DefaultText>«Нет! Стой. {Laughs}Чуть не забыла: всё будет в порядке».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -521,7 +521,7 @@
     </Entry>
     <Entry>
       <ID>104</ID>
-      <DefaultText>«Ты еще глупее… чем я помнила».</DefaultText>
+      <DefaultText>«Ты ещё глупее… чем я помнила».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -536,7 +536,7 @@
     </Entry>
     <Entry>
       <ID>107</ID>
-      <DefaultText>«Держись там, Оом. Я все еще бьюсь за тебя».</DefaultText>
+      <DefaultText>«Держись там, Оом. Я всё ещё бьюсь за тебя».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -551,12 +551,12 @@
     </Entry>
     <Entry>
       <ID>110</ID>
-      <DefaultText>«Наконец-то. Я уже думала, что мне придется оставить тебя здесь».</DefaultText>
+      <DefaultText>«Наконец-то. Я уже думала, что мне придётся оставить тебя здесь».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>111</ID>
-      <DefaultText>«Тебе повезло, что я здесь, чтобы защитить тебя».</DefaultText>
+      <DefaultText>«Тебе повезло, ведь я здесь, чтобы защитить тебя».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -636,7 +636,7 @@
     </Entry>
     <Entry>
       <ID>127</ID>
-      <DefaultText>«А это действительно больно. То странное лекарственное средство у тебя все еще с собой?»</DefaultText>
+      <DefaultText>«А это действительно больно. То странное лекарственное средство у тебя всё ещё с собой?»</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -661,7 +661,7 @@
     </Entry>
     <Entry>
       <ID>132</ID>
-      <DefaultText>«Спасибо за это. А теперь идем».</DefaultText>
+      <DefaultText>«Спасибо. А теперь идём».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -671,7 +671,7 @@
     </Entry>
     <Entry>
       <ID>134</ID>
-      <DefaultText>«Фу-х, что-то мне нехорошо».</DefaultText>
+      <DefaultText>«Фух, что-то мне нехорошо».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -681,7 +681,7 @@
     </Entry>
     <Entry>
       <ID>136</ID>
-      <DefaultText>«Со мной все хорошо. Я могу… Нет, мне нехорошо».</DefaultText>
+      <DefaultText>«Со мной всё хорошо. Я могу… Нет, мне нехорошо».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -696,7 +696,7 @@
     </Entry>
     <Entry>
       <ID>139</ID>
-      <DefaultText>«Готов бросить вызов миру».</DefaultText>
+      <DefaultText>«Готова бросить вызов миру».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
