@@ -116,7 +116,7 @@
     </Entry>
     <Entry>
       <ID>23</ID>
-      <DefaultText>«Еще один выведен из строя».</DefaultText>
+      <DefaultText>«Ещё один выведен из строя».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -136,12 +136,12 @@
     </Entry>
     <Entry>
       <ID>27</ID>
-      <DefaultText>«Эффект минимальный. Неужели мои расчеты неверны?»</DefaultText>
+      <DefaultText>«Эффект минимальный. Неужели мои расчёты неверны?»</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>28</ID>
-      <DefaultText>«Как я и предполагала. Давай еще раз!»</DefaultText>
+      <DefaultText>«Как я и предполагала. Давай ещё раз!»</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -251,7 +251,7 @@
     </Entry>
     <Entry>
       <ID>50</ID>
-      <DefaultText>«Убери эти шифры. Еще немного, и я пострадаю».</DefaultText>
+      <DefaultText>«Убери эти шифры. Ещё немного, и я пострадаю».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -271,17 +271,17 @@
     </Entry>
     <Entry>
       <ID>54</ID>
-      <DefaultText>{whispering} «Ты… подвел меня… отверженный…»</DefaultText>
-      <FemaleText>{whispering} «Ты… подвела меня… отверженная…»</FemaleText>
+      <DefaultText>{whispering}«Ты… подвёл меня… отверженный…»</DefaultText>
+      <FemaleText>{whispering}«Ты… подвела меня… отверженная…»</FemaleText>
     </Entry>
     <Entry>
       <ID>55</ID>
-      <DefaultText>{weakly} «Мои сестры… отомстят за меня».</DefaultText>
+      <DefaultText>{weakly}«Мои сёстры… отомстят за меня».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>56</ID>
-      <DefaultText>«Это мое, и никто этого у меня не отнимет».</DefaultText>
+      <DefaultText>«Это моё, и никто этого у меня не отнимет».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -451,7 +451,7 @@
     </Entry>
     <Entry>
       <ID>90</ID>
-      <DefaultText>«Как долго мы еще будем здесь?»</DefaultText>
+      <DefaultText>«Как долго мы ещё будем здесь?»</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -531,7 +531,7 @@
     </Entry>
     <Entry>
       <ID>106</ID>
-      <DefaultText>«О, Мэткина. Попробуй еще раз».</DefaultText>
+      <DefaultText>«О, Мэткина. Попробуй ещё раз».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -541,7 +541,7 @@
     </Entry>
     <Entry>
       <ID>108</ID>
-      <DefaultText>{droll} «Как жаль, что Тибира нет с нами. Чем бы мы ни занялись».</DefaultText>
+      <DefaultText>{droll}«Как жаль, что Тибира нет с нами. Чем бы мы ни занялись».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>

@@ -21,7 +21,7 @@
     </Entry>
     <Entry>
       <ID>4</ID>
-      <DefaultText>«Пять сотен! Он мой, черт тебя побери!»</DefaultText>
+      <DefaultText>«Пять сотен! Он мой, чёрт тебя побери!»</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -36,7 +36,7 @@
     </Entry>
     <Entry>
       <ID>7</ID>
-      <DefaultText>«Всего лишь четыре сотни? За человека, который убил шестерых людей?»</DefaultText>
+      <DefaultText>«Всего лишь четыре сотни? За человека, который убил шестерых?»</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -56,7 +56,7 @@
     </Entry>
     <Entry>
       <ID>11</ID>
-      <DefaultText>«Кто-то еще хочет сделать ставку?»</DefaultText>
+      <DefaultText>«Кто-то ещё хочет сделать ставку?»</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -76,7 +76,7 @@
     </Entry>
     <Entry>
       <ID>15</ID>
-      <DefaultText>«Еще один подонок, ожидающий искупления! Мы начинаем с трехсот тридцати».</DefaultText>
+      <DefaultText>«Ещё один подонок, ожидающий искупления! Мы начинаем с трехсот тридцати».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -106,7 +106,7 @@
     </Entry>
     <Entry>
       <ID>21</ID>
-      <DefaultText>«Я слышу семьсот пятьдесят? Есть еще покупатели?»</DefaultText>
+      <DefaultText>«Я слышу семьсот пятьдесят? Есть ещё покупатели?»</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -126,7 +126,7 @@
     </Entry>
     <Entry>
       <ID>25</ID>
-      <DefaultText>«Может, он украл его у ребенка! Из целого приюта детей! Их последнюю корку хлеба!»</DefaultText>
+      <DefaultText>«Может, он украл его у ребёнка! Из целого приюта детей! Их последнюю корку хлеба!»</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -136,12 +136,12 @@
     </Entry>
     <Entry>
       <ID>27</ID>
-      <DefaultText>«Хм, возможно, ты прав. Тогда перейдет к нашему следующему рабу!»</DefaultText>
+      <DefaultText>«Хм, возможно, ты прав. Тогда перейдём к нашему следующему рабу!»</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>28</ID>
-      <DefaultText>«Пфф. Слишком высокая цена для меня».</DefaultText>
+      <DefaultText>«Пф-ф. Слишком высокая цена для меня».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -156,17 +156,17 @@
     </Entry>
     <Entry>
       <ID>31</ID>
-      <DefaultText>«Ты хотел предложить кого-то еще, толстяк?»</DefaultText>
+      <DefaultText>«Ты хотел предложить кого-то ещё, толстяк?»</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>32</ID>
-      <DefaultText>«Кого-то стоящего, в конце концов. Я куплю ее сразу за девять сотен».</DefaultText>
+      <DefaultText>«Кого-то стоящего, в конце концов. Я куплю её сразу за девять сотен».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>33</ID>
-      <DefaultText>«Восемьсот? Почему ты не позволишь остальным из нас хотя бы взглянуть на нее?»</DefaultText>
+      <DefaultText>«Восемьсот? Почему ты не позволишь остальным из нас хотя бы взглянуть на неё?»</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -181,7 +181,7 @@
     </Entry>
     <Entry>
       <ID>36</ID>
-      <DefaultText>«Я слышу еще ставки? Нет? Продано этой прекрасной леди за девятьсот шин!»</DefaultText>
+      <DefaultText>«Я слышу ещё ставки? Нет? Продано этой прекрасной леди за девятьсот шин!»</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -191,7 +191,7 @@
     </Entry>
     <Entry>
       <ID>38</ID>
-      <DefaultText>«Что если бы я сказал тебе, что он заманивает клиентов в свое хранилище, издевается над ними и скармливает куски машине?»</DefaultText>
+      <DefaultText>«А если бы я сказал тебе, что он заманивает клиентов в своё хранилище, издевается над ними и скармливает куски машине?»</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -206,7 +206,7 @@
     </Entry>
     <Entry>
       <ID>41</ID>
-      <DefaultText>«Я не следил за его делом, поэтому… Я предложу три сотни, но потребую компенсацию, если он окажется бесполезным».</DefaultText>
+      <DefaultText>«Я не следил за его делом, поэтому… я предложу три сотни, но потребую компенсацию, если он окажется бесполезным».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -291,7 +291,7 @@
     </Entry>
     <Entry>
       <ID>63</ID>
-      <DefaultText>«Есть еще ставки? Нет? Раз? Два! Продано за семьсот!»</DefaultText>
+      <DefaultText>«Есть ещё ставки? Нет? Раз? Два! Продано за семьсот!»</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
