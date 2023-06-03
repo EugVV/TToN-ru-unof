@@ -26,22 +26,22 @@
     </Entry>
     <Entry>
       <ID>5</ID>
-      <DefaultText>«Ты даже не заметишь мое отсутствие».</DefaultText>
+      <DefaultText>«Ты даже не заметишь моё отсутствие».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>6</ID>
-      <DefaultText>«Как шепот».</DefaultText>
+      <DefaultText>«Как шёпот».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>7</ID>
-      <DefaultText>«Ты же хочешь, чтобы все было сделано правильно».</DefaultText>
+      <DefaultText>«Ты же хочешь, чтобы всё было сделано правильно».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>8</ID>
-      <DefaultText>«Я там, в тени».</DefaultText>
+      <DefaultText>«Я тут, в тени».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -51,7 +51,7 @@
     </Entry>
     <Entry>
       <ID>10</ID>
-      <DefaultText>«Всего мгновенье, и все готово».</DefaultText>
+      <DefaultText>«Всего мгновенье, и всё готово».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -86,7 +86,7 @@
     </Entry>
     <Entry>
       <ID>17</ID>
-      <DefaultText>«Мои враги будут меня бояться. Бояться еще больше».</DefaultText>
+      <DefaultText>«Враги будут меня бояться. Бояться ещё больше».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -126,7 +126,7 @@
     </Entry>
     <Entry>
       <ID>25</ID>
-      <DefaultText>{exultant} «Да».</DefaultText>
+      <DefaultText>{exultant}«Да».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -136,12 +136,12 @@
     </Entry>
     <Entry>
       <ID>27</ID>
-      <DefaultText>«На этой штуке не остается ни царапины!»</DefaultText>
+      <DefaultText>«На этой твари ни царапины!»</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>28</ID>
-      <DefaultText>«Да! Давай еще!»</DefaultText>
+      <DefaultText>«Да! Давай ещё!»</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -751,7 +751,7 @@
     </Entry>
     <Entry>
       <ID>150</ID>
-      <DefaultText>«Что еще?»</DefaultText>
+      <DefaultText>«Что ещё?»</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -811,7 +811,7 @@
     </Entry>
     <Entry>
       <ID>162</ID>
-      <DefaultText>«Облажались, черт побери».</DefaultText>
+      <DefaultText>«Облажались, чёрт побери».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -821,7 +821,7 @@
     </Entry>
     <Entry>
       <ID>164</ID>
-      <DefaultText>«Да что ты знаешь? Я еще *более* смертоносная».</DefaultText>
+      <DefaultText>«Да что ты знаешь? Я *ещё более* смертоносная».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -831,7 +831,7 @@
     </Entry>
     <Entry>
       <ID>166</ID>
-      <DefaultText>«Это мое, а не твое».</DefaultText>
+      <DefaultText>«Это моё, а не твоё».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
