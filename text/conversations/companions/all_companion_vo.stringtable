@@ -2781,7 +2781,7 @@
     </Entry>
     <Entry>
       <ID>556</ID>
-      <DefaultText>«Простое упростили… Вот и все!»</DefaultText>
+      <DefaultText>«Простое упростили… вот и всё!»</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -2791,7 +2791,7 @@
     </Entry>
     <Entry>
       <ID>558</ID>
-      <DefaultText>{Phew}«Я себя чувствую немного пьяным».</DefaultText>
+      <DefaultText>{Phew}«Я чувствую себя немного потускневшим».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -2801,12 +2801,12 @@
     </Entry>
     <Entry>
       <ID>560</ID>
-      <DefaultText>{slightly hurt}«Эй, это мое!»</DefaultText>
+      <DefaultText>{slightly hurt}«Эй, это моё!»</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>561</ID>
-      <DefaultText>«Мне это нужно, чтобы выстоять в тяжелые времена!»</DefaultText>
+      <DefaultText>«Мне это нужно, чтобы выстоять в тяжёлые времена!»</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>

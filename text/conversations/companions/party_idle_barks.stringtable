@@ -181,7 +181,7 @@
     </Entry>
     <Entry>
       <ID>36</ID>
-      <DefaultText>«Как долго мы еще будем здесь?»</DefaultText>
+      <DefaultText>«Как долго мы ещё будем здесь?»</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -191,12 +191,12 @@
     </Entry>
     <Entry>
       <ID>38</ID>
-      <DefaultText>«Все чудеса созидания у нас под рукой, а мы все бездействуем».</DefaultText>
+      <DefaultText>«Все чудеса созидания у нас под рукой, а мы всё бездействуем».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>39</ID>
-      <DefaultText>«Не мешай мне. Мне хватает и моих сестер».</DefaultText>
+      <DefaultText>«Не мешай мне. Мне хватает и моих сестёр».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -206,7 +206,7 @@
     </Entry>
     <Entry>
       <ID>41</ID>
-      <DefaultText>«Я устала. Так не пойдет».</DefaultText>
+      <DefaultText>«Я устала. Так не пойдёт».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -261,7 +261,7 @@
     </Entry>
     <Entry>
       <ID>52</ID>
-      <DefaultText>«Может, здесь найдется бард или министрель, который сможет достойно воспеть мне дифирамбы!»</DefaultText>
+      <DefaultText>«Может, здесь найдётся бард или министрель, который сможет достойно воспеть мне дифирамбы!»</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -281,12 +281,12 @@
     </Entry>
     <Entry>
       <ID>56</ID>
-      <DefaultText>«Я бы поспал, если бы это не было еще *скучнее*».</DefaultText>
+      <DefaultText>«Я бы поспал, если бы это не было ещё *скучнее*».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>57</ID>
-      <DefaultText>{Phew}«Я себя чувствую немного пьяным».</DefaultText>
+      <DefaultText>{Phew}«Я чувствую себя немного потускневшим».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -531,12 +531,12 @@
     </Entry>
     <Entry>
       <ID>110</ID>
-      <DefaultText>«Мы все еще тут? Пойдем уже!»</DefaultText>
+      <DefaultText>«Мы всё ещё тут? Пойдём уже!»</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>111</ID>
-      <DefaultText>«Я бы сейчас предпочел напиваться без штанов».</DefaultText>
+      <DefaultText>«Я бы сейчас предпочёл напиваться без штанов».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>

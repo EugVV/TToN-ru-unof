@@ -816,7 +816,7 @@
     </Entry>
     <Entry>
       <ID>163</ID>
-      <DefaultText>«Простое упростили… Вот и все!»</DefaultText>
+      <DefaultText>«Простое упростили… вот и всё!»</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -826,7 +826,7 @@
     </Entry>
     <Entry>
       <ID>165</ID>
-      <DefaultText>{Phew}«Я себя чувствую немного пьяным».</DefaultText>
+      <DefaultText>{Phew}«Я себя чувствую немного потускневшим».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -836,7 +836,7 @@
     </Entry>
     <Entry>
       <ID>167</ID>
-      <DefaultText>{slightly hurt}«Эй, это мое!»</DefaultText>
+      <DefaultText>{slightly hurt}«Эй, это моё!»</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
