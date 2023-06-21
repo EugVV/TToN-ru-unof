@@ -68,12 +68,12 @@
     </Entry>
     <Entry>
       <ID>13</ID>
-      <DefaultText>[Атака] «В таком случае, завалим их».</DefaultText>
+      <DefaultText>[Атака] «В таком случае завалим их».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>15</ID>
-      <DefaultText>Алигерн морщится, но достает оружие: «Слыхал я планы и похуже».</DefaultText>
+      <DefaultText>Алигерн морщится, но достаёт оружие: «Слыхал я планы и похуже».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -83,7 +83,7 @@
     </Entry>
     <Entry>
       <ID>17</ID>
-      <DefaultText>«Что случилось с вашим мертвым другом?»</DefaultText>
+      <DefaultText>«Что случилось с вашим мёртвым другом?»</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -131,12 +131,12 @@
     </Entry>
     <Entry>
       <ID>26</ID>
-      <DefaultText>[Атака] «В таком случае, разберемся с ними прямо сейчас».</DefaultText>
+      <DefaultText>[Атака] «В таком случае разберёмся с ними прямо сейчас».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>27</ID>
-      <DefaultText>Каллистеж щурится. Ее лицо медленно растягивается в усмешке.
+      <DefaultText>Каллистеж щурится. Её лицо медленно растягивается в усмешке.
 
 «Прямой подход», — произносит она, доставая оружие. — «Превосходно».</DefaultText>
       <FemaleText />
