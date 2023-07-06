@@ -473,7 +473,7 @@
     </Entry>
     <Entry>
       <ID>94</ID>
-      <DefaultText>«Нет, нет, и нет».</DefaultText>
+      <DefaultText>«Нет, нет и нет».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -488,7 +488,7 @@
     </Entry>
     <Entry>
       <ID>97</ID>
-      <DefaultText>«Ох! О, нет! Что нам делать?»</DefaultText>
+      <DefaultText>«Ох! О нет! Что нам делать?»</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -498,12 +498,12 @@
     </Entry>
     <Entry>
       <ID>99</ID>
-      <DefaultText>«Она в порядке? Некоторые ее проявления все еще смотрят на меня, будто готовы дать мне отпор».</DefaultText>
+      <DefaultText>«Она в порядке? Некоторые её сёстры-отражения как будто бы всё ещё стоят!»</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>100</ID>
-      <DefaultText>«Он еще немного сияет. Это значит… что с ним все будет хорошо?»</DefaultText>
+      <DefaultText>«Он всё ещё немного сияет. Это значит… что с ним всё будет хорошо?»</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -518,13 +518,13 @@
     </Entry>
     <Entry>
       <ID>103</ID>
-      <DefaultText>«С ним все будет в порядке… верно?»</DefaultText>
+      <DefaultText>«С ним всё будет в порядке… верно?»</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>104</ID>
-      <DefaultText>«Я начинаю сомневаться в своем покровителе».</DefaultText>
-      <FemaleText>«Я начинаю сомневаться в своей покровительнице».</FemaleText>
+      <DefaultText>«Я начинаю сомневаться в своём защитнике».</DefaultText>
+      <FemaleText>«Я начинаю сомневаться в своей защитнице».</FemaleText>
     </Entry>
     <Entry>
       <ID>105</ID>
@@ -708,7 +708,7 @@
     </Entry>
     <Entry>
       <ID>141</ID>
-      <DefaultText>«Я думала, что я умерла. Моя голова… наверно, я все еще близка к этому».</DefaultText>
+      <DefaultText>«Я думала, что умерла. Моя голова… наверно, я всё ещё близка к этому».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -733,7 +733,7 @@
     </Entry>
     <Entry>
       <ID>146</ID>
-      <DefaultText>«Ох! Ты откуда пришел?»</DefaultText>
+      <DefaultText>«Ох! Ты откуда пришёл?»</DefaultText>
       <FemaleText>«Ох! Ты откуда пришла?»</FemaleText>
     </Entry>
     <Entry>
