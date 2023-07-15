@@ -6,12 +6,12 @@
   <Entries>
     <Entry>
       <ID>1</ID>
-      <DefaultText>«Что ж, а теперь… еще… больше. А вот и очередной караван!»</DefaultText>
+      <DefaultText>«Что ж, а теперь… ещё… больше. А вот и очередной караван!»</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>3</ID>
-      <DefaultText>«Похоже, это место нужно почесать. Или же, наоборот, его слишком часто чешут».</DefaultText>
+      <DefaultText>«Похоже, это место нужно почесать. Или же наоборот, его слишком часто чешут».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -31,7 +31,7 @@
     </Entry>
     <Entry>
       <ID>7</ID>
-      <DefaultText>«О. вижу, Цветение снова атакует».</DefaultText>
+      <DefaultText>«О. Вижу, Цветение снова атакует».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
