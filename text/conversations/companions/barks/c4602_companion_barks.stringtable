@@ -21,12 +21,12 @@
     </Entry>
     <Entry>
       <ID>4</ID>
-      <DefaultText>«Видите бороздки на кристаллах? Как они появились? Сомневаюсь, что естественным путем».</DefaultText>
+      <DefaultText>«Видите бороздки на кристаллах? Как они появились? Сомневаюсь, что естественным путём».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>5</ID>
-      <DefaultText>«Это напоминает мне о… нет, пожалуй, ни о чем не напоминает. Да!»</DefaultText>
+      <DefaultText>«Это напоминает мне о… нет, пожалуй, ни о чём не напоминает. Да!»</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -96,7 +96,7 @@
     </Entry>
     <Entry>
       <ID>19</ID>
-      <DefaultText>«Что ж, *такое* мне еще не доводилось убивать».</DefaultText>
+      <DefaultText>«Что ж, *такое* мне ещё не доводилось убивать».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -106,7 +106,7 @@
     </Entry>
     <Entry>
       <ID>21</ID>
-      <DefaultText>«Огромные кристаллические жуки? Такого я еще не видел!»</DefaultText>
+      <DefaultText>«Огромные кристаллические жуки? Такого я ещё не видел!»</DefaultText>
       <FemaleText />
     </Entry>
   </Entries>
