@@ -166,13 +166,13 @@
     </Entry>
     <Entry>
       <ID>34</ID>
-      <DefaultText>«Кто, ты сказала, ворует вещи здесь в окрестностях?»</DefaultText>
+      <DefaultText>«Кто, говоришь, ворует вещи здесь в окрестностях?»</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>35</ID>
-      <DefaultText>Авина смотрит на вас рассерженным взгядом. «Ты говорил что-то по поводу стихуса, и сейчас он мертв!»</DefaultText>
-      <FemaleText />
+      <DefaultText>Авина смотрит на вас рассерженным взгядом: «Ты говорил что-то по поводу стихуса, и сейчас он мёртв!»</DefaultText>
+      <FemaleText>Авина смотрит на вас рассерженным взгядом: «Ты говорила что-то по поводу стихуса, и сейчас он мёртв!»</FemaleText>
     </Entry>
     <Entry>
       <ID>36</ID>
@@ -181,7 +181,7 @@
     </Entry>
     <Entry>
       <ID>37</ID>
-      <DefaultText>«Ты не знаешь, кто жил в том доме по соседству?»</DefaultText>
+      <DefaultText>«Не знаешь, кто жил в том доме по соседству?»</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -409,7 +409,7 @@
     </Entry>
     <Entry>
       <ID>81</ID>
-      <DefaultText>«Я не хочу себя оправдывать».</DefaultText>
+      <DefaultText>«Я не собираюсь оправдываться».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -777,7 +777,7 @@
     </Entry>
     <Entry>
       <ID>154</ID>
-      <DefaultText>Оставить ее.</DefaultText>
+      <DefaultText>Оставить её.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -787,7 +787,7 @@
     </Entry>
     <Entry>
       <ID>157</ID>
-      <DefaultText>«Расскажи мне еще раз, что случилось».</DefaultText>
+      <DefaultText>«Расскажи мне ещё раз, что случилось».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -812,14 +812,14 @@
     </Entry>
     <Entry>
       <ID>163</ID>
-      <DefaultText>Она отворачивается. «Несчастный. Он никогда никому не сделал ничего плохого. Почему ты это сделал?»</DefaultText>
-      <FemaleText />
+      <DefaultText>Она отворачивается: «Несчастный. Он никогда никому не сделал ничего плохого. Почему ты это сделал?»</DefaultText>
+      <FemaleText>Она отворачивается: «Несчастный. Он никогда никому не сделал ничего плохого. Почему ты это сделала?»</FemaleText>
     </Entry>
     <Entry>
       <ID>164</ID>
-      <DefaultText>«Возможно, не мне. Но ты *знаешь*, это было неправильно».
+      <DefaultText>«Не передо мной, может быть. Но *знаешь*, это было неправильно».
 
-Она повесила голову. «Чего ты хочешь?»</DefaultText>
+Она опускает голову: «Чего ты хочешь?»</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -890,7 +890,7 @@
     </Entry>
     <Entry>
       <ID>177</ID>
-      <DefaultText>«Мне все еще нужно поговорить с тобой».</DefaultText>
+      <DefaultText>«Мне всё ещё нужно поговорить с тобой».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -900,12 +900,12 @@
     </Entry>
     <Entry>
       <ID>179</ID>
-      <DefaultText>«У меня еще есть несколько вопросов к тебе».</DefaultText>
+      <DefaultText>«У меня к тебе вопросы».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>180</ID>
-      <DefaultText>«Хорошо».</DefaultText>
+      <DefaultText>«Ла-адно».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
