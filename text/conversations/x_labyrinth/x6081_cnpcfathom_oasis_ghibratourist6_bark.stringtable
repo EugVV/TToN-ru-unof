@@ -11,12 +11,12 @@
     </Entry>
     <Entry>
       <ID>2</ID>
-      <DefaultText>«Интересно, позволят ли они нам прийти еще раз после школы».</DefaultText>
+      <DefaultText>«Интересно, позволят ли они нам прийти ещё раз после школы».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>3</ID>
-      <DefaultText>«Мой сын раньше никогда не видел дышащих воздухом».</DefaultText>
+      <DefaultText>«Сын раньше не видел дышащих воздухом».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -26,7 +26,7 @@
     </Entry>
     <Entry>
       <ID>5</ID>
-      <DefaultText>«Моему сыну нужен коралл для школьного проекта. Почему он всегда говорит мне об этом в последнюю минуту?»</DefaultText>
+      <DefaultText>«Сыну нужен коралл для школьного проекта. Почему он всегда говорит мне в последнюю минуту?»</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -36,8 +36,8 @@
     </Entry>
     <Entry>
       <ID>8</ID>
-      <DefaultText>«Еще один дышащий воздухом! Наверно, пришел навестить друга».</DefaultText>
-      <FemaleText />
+      <DefaultText>«Ещё один дышащий воздухом! Наверно, пришёл навестить друга».</DefaultText>
+      <FemaleText>«Ещё одна дышащая воздухом! Наверно, пришла навестить друга».</FemaleText>
     </Entry>
     <Entry>
       <ID>11</ID>
