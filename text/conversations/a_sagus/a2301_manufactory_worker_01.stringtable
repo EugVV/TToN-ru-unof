@@ -11,7 +11,7 @@
     </Entry>
     <Entry>
       <ID>2</ID>
-      <DefaultText>«Мне нужно еще починить трубу и лампу, прежде чем я смогу пойти домой».</DefaultText>
+      <DefaultText>«Мне нужно ещё починить трубу и лампу, прежде чем пойду домой».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -31,7 +31,7 @@
     </Entry>
     <Entry>
       <ID>8</ID>
-      <DefaultText>«Иди донимай кого-нибудь еще».</DefaultText>
+      <DefaultText>«Иди донимай кого-нибудь другого».</DefaultText>
       <FemaleText />
     </Entry>
   </Entries>
