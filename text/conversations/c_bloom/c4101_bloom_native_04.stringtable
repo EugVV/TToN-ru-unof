@@ -6,12 +6,12 @@
   <Entries>
     <Entry>
       <ID>1</ID>
-      <DefaultText>«Семья без меня пропадет! Но охранники не выпускают меня из ворот! Я хочу… домой…»</DefaultText>
+      <DefaultText>«Семья без меня пропадёт! Но охранники не пускают меня через ворота! Я хочу… домой…»</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>2</ID>
-      <DefaultText>«Ты можешь пройти через ворота? Но как? У тебя большие связи? А меня пропустят?»</DefaultText>
+      <DefaultText>«Тебе позволяют проход через ворота? Но как? У тебя связи? А меня пропустят?»</DefaultText>
       <FemaleText />
     </Entry>
   </Entries>

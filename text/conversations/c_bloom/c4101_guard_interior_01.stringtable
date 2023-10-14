@@ -6,7 +6,7 @@
   <Entries>
     <Entry>
       <ID>1</ID>
-      <DefaultText>«Смотри под ноги! Я не пугаю, но просто Цветение ведет себя странно, и никто не знает, почему».</DefaultText>
+      <DefaultText>«Смотри под ноги. Я не пугаю, но Цветение ведёт себя странно, и никто не знает почему».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -26,17 +26,17 @@
     </Entry>
     <Entry>
       <ID>5</ID>
-      <DefaultText>«Мемовира очень зла на тебя… Но не все ей преданы. Может, ты сумеешь настроить кого-нибудь против нее».</DefaultText>
+      <DefaultText>«Мемовира очень зла на тебя… но не все ей преданы. Может, ты сумеешь настроить кого-нибудь против неё».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>6</ID>
-      <DefaultText>«Ты! То есть, это самое… Все ж про тебя говорят! Ладно… иди и не обращай на меня внимания».</DefaultText>
+      <DefaultText>«Ты! То есть, это самое… все ж про тебя говорят. Ладно… иди и не обращай на меня внимания».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>7</ID>
-      <DefaultText>«Мемовира ждет тебя в крепости».</DefaultText>
+      <DefaultText>«Мемовира ждёт тебя в крепости».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
