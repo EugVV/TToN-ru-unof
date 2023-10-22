@@ -6,8 +6,8 @@
   <Entries>
     <Entry>
       <ID>2</ID>
-      <DefaultText>«Ты исследователь? Рад за тебя. Я покупатель. Ты отвлекаешь меня».</DefaultText>
-      <FemaleText />
+      <DefaultText>«Ты исследователь? Чудесно. Я покупатель. И ты меня отвлекаешь».</DefaultText>
+      <FemaleText>«Ты исследовательница? Чудесно. Я покупатель. И ты меня отвлекаешь».</FemaleText>
     </Entry>
   </Entries>
 </StringTableFile>
