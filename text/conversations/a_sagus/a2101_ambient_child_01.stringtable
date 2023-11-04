@@ -6,12 +6,12 @@
   <Entries>
     <Entry>
       <ID>1</ID>
-      <DefaultText>«Мне не обязательно идти домой, пока еще не настала *глубокая* ночь».</DefaultText>
+      <DefaultText>«Мне необязательно идти домой, пока ещё не настала *глубокая* ночь».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>2</ID>
-      <DefaultText>«На дороге была монетка. Но это не настоящие деньги. Она все время вертится».</DefaultText>
+      <DefaultText>«На дороге была монетка. Но это не настоящие деньги. Она всё время вертится».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -26,7 +26,7 @@
     </Entry>
     <Entry>
       <ID>5</ID>
-      <DefaultText>«Три года назад пропала моя сестра. Наверное, ее уже нет среди нас».</DefaultText>
+      <DefaultText>«Моя сестра пропала три часа назад. Наверно, её уже нет среди живых».</DefaultText>
       <FemaleText />
     </Entry>
   </Entries>

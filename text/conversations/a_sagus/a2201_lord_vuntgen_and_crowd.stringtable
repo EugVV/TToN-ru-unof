@@ -166,7 +166,7 @@
     </Entry>
     <Entry>
       <ID>33</ID>
-      <DefaultText>«Я думал, что они остались под землей! Почему этот здесь?»</DefaultText>
+      <DefaultText>«Я думал, они остались под землёй! Почему этот здесь?»</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -196,7 +196,7 @@
     </Entry>
     <Entry>
       <ID>39</ID>
-      <DefaultText>«Я думаю, что видел что-то около старого генератора щита!»</DefaultText>
+      <DefaultText>«Думаю, я что-то видел около старого генератора щита!»</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -221,12 +221,12 @@
     </Entry>
     <Entry>
       <ID>44</ID>
-      <DefaultText>«Они не обманули. Есть только *один* стихус на воле».</DefaultText>
+      <DefaultText>«Они не обманули. Тут только *один* стихус-бродяга на воле».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>45</ID>
-      <DefaultText>«Не бойтесь. Мы найдем тварь, если все будем бдительны!»</DefaultText>
+      <DefaultText>«Не бойтесь. Мы найдём тварь, если все будем бдительны!»</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -256,7 +256,7 @@
     </Entry>
     <Entry>
       <ID>51</ID>
-      <DefaultText>«А что если на воле есть *больше* одного стихуса?»</DefaultText>
+      <DefaultText>«А что, если на воле *больше* одного стихуса?»</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -336,7 +336,7 @@
     </Entry>
     <Entry>
       <ID>67</ID>
-      <DefaultText>«Он все еще прячется где-то в этом районе. Кто-нибудь видел его?»</DefaultText>
+      <DefaultText>«Он всё ещё прячется где-то в этом районе. Кто-нибудь его видел?»</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>

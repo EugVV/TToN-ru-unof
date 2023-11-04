@@ -6,7 +6,7 @@
   <Entries>
     <Entry>
       <ID>1</ID>
-      <DefaultText>«Есть занятия и похуже. Зато здесь тепло».</DefaultText>
+      <DefaultText>«Бывают занятия и похуже. Зато здесь тепло».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -16,7 +16,7 @@
     </Entry>
     <Entry>
       <ID>3</ID>
-      <DefaultText>«Добавь еще деталей в хвостовое оперение».</DefaultText>
+      <DefaultText>«Добавь ещё деталей в хвостовое оперение».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -36,7 +36,7 @@
     </Entry>
     <Entry>
       <ID>7</ID>
-      <DefaultText>::почесывание::</DefaultText>
+      <DefaultText>::почёсывается::</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
