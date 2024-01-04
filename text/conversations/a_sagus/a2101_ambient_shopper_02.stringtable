@@ -6,22 +6,22 @@
   <Entries>
     <Entry>
       <ID>1</ID>
-      <DefaultText>«Интересно, бывают ли скидки для ночных покупателей?»</DefaultText>
+      <DefaultText>«Интересно, есть ли тут скидки для ночных покупателей?»</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>2</ID>
-      <DefaultText>«Не спешите с выбором товара на этом рынке. Хорошенько осмотрите то, что покупаете».</DefaultText>
+      <DefaultText>«Не спеши с выбором товара на этом рынке. Хорошенько осмотри то, что покупаешь».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>3</ID>
-      <DefaultText>«Иногда торговцы мясом предлагают попробовать свой товар. Не советую этого делать».</DefaultText>
+      <DefaultText>«Иногда торговцы мясом предлагают попробовать свой товар. Я не советую».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>4</ID>
-      <DefaultText>«Нужно заглянуть еще в пару мест, прежде чем возвращаться домой в канавы».</DefaultText>
+      <DefaultText>«Нужно заглянуть ещё в пару мест, прежде чем возвращаться домой в коллектор».</DefaultText>
       <FemaleText />
     </Entry>
   </Entries>

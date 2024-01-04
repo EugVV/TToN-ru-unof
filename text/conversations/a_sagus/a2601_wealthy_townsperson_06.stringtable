@@ -6,7 +6,7 @@
   <Entries>
     <Entry>
       <ID>1</ID>
-      <DefaultText>«Не возражаешь? Мне нужно серьезно поговорить с… с моим доктором».</DefaultText>
+      <DefaultText>«Не возражаешь? Мне нужно серьёзно поговорить с… с моим доктором».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -16,12 +16,12 @@
     </Entry>
     <Entry>
       <ID>3</ID>
-      <DefaultText>«На самом деле, если честно, со мной все хорошо. Я кое-что спрашиваю… у доктора… для друга».</DefaultText>
+      <DefaultText>«На самом деле, если честно, со мной всё хорошо. Я кое-что спрашиваю… у доктора… для друга».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>4</ID>
-      <DefaultText>«Жена моего друга! У нее проблема, с которой мне сейчас помогает доктор. Да».</DefaultText>
+      <DefaultText>«Жена моего друга! У неё проблема, с которой мне сейчас помогает доктор. Да».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
