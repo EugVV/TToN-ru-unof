@@ -6,7 +6,7 @@
   <Entries>
     <Entry>
       <ID>0</ID>
-      <DefaultText>Освобожденный</DefaultText>
+      <DefaultText>Освобождённый</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -51,7 +51,7 @@
     </Entry>
     <Entry>
       <ID>30003</ID>
-      <DefaultText>Вы освободили Коти и дали ему свободу идти своим путем. Что может пойти не так?</DefaultText>
+      <DefaultText>Вы освободили Коти и дали ему свободу идти своим путём. Что может пойти не так?</DefaultText>
       <FemaleText />
     </Entry>
   </Entries>
