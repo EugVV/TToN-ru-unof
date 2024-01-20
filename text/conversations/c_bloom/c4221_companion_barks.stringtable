@@ -11,7 +11,7 @@
     </Entry>
     <Entry>
       <ID>2</ID>
-      <DefaultText>«Нет ничего лучше, чем убийство мердена. Само их *имя* подсказывает, что мы должны с ними сделать».</DefaultText>
+      <DefaultText>«Нет ничего лучше, чем убить мердена. Само их *название* подсказывает, что мы должны с ними сделать».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -151,7 +151,7 @@
     </Entry>
     <Entry>
       <ID>30</ID>
-      <DefaultText>«Спасти незнакомца от смерти, закрыв в темном подземелье? Очень по-геройски».</DefaultText>
+      <DefaultText>«Спасти незнакомца от смерти, закрыв в тёмном подземелье? Очень по-геройски».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -191,12 +191,12 @@
     </Entry>
     <Entry>
       <ID>38</ID>
-      <DefaultText>«Благодаря тебе они считают, что путь безопасен? Но ты же *знаешь*, что мердены еще живы?»</DefaultText>
+      <DefaultText>«Благодаря тебе они считают, что путь безопасен? Но ты же *знаешь*, что мердены ещё живы?»</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>39</ID>
-      <DefaultText>«Не знаю, что у тебя за план, но думаю, ты в курсе, что мердены по-прежнему патрулируют коридоры».</DefaultText>
+      <DefaultText>«Не знаю, что у тебя за план, но, думаю, ты в курсе, что мердены по-прежнему патрулируют коридоры».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -211,7 +211,7 @@
     </Entry>
     <Entry>
       <ID>42</ID>
-      <DefaultText>«Стойте! Ты снова отправляешь бедных стражников в засаду?»</DefaultText>
+      <DefaultText>«Стой! Ты снова отправляешь бедных стражников в засаду?»</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -261,17 +261,17 @@
     </Entry>
     <Entry>
       <ID>52</ID>
-      <DefaultText>«Конечно, так они умрут быстрее, чем могло бы быть, но мне всегда казалось, что ты выше этого».</DefaultText>
+      <DefaultText>«Конечно, так они умрут быстрее, чем могли бы, но мне всегда казалось, что ты выше этого».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>53</ID>
-      <DefaultText>«Меня удивляет твое хладнокровие».</DefaultText>
+      <DefaultText>«Меня удивляет твоё хладнокровие».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>54</ID>
-      <DefaultText>«Без толку оплакивать мертвых. Давайте уже делать то, для чего пришли, и валим отсюда».</DefaultText>
+      <DefaultText>«Без толку оплакивать мёртвых. Давайте уже делать то, для чего пришли, и валим отсюда».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -361,7 +361,7 @@
     </Entry>
     <Entry>
       <ID>72</ID>
-      <DefaultText>«Молодец. Благодаря этому мы можем рассчитывать на расположение Мемовиры. Помяни мое слово».</DefaultText>
+      <DefaultText>«Молодец. Благодаря этому мы можем рассчитывать на расположение Мемовиры. Помяни моё слово».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -411,7 +411,7 @@
     </Entry>
     <Entry>
       <ID>82</ID>
-      <DefaultText>«Хороший парень. … Но я ему не доверяю».</DefaultText>
+      <DefaultText>«Хороший парень… но я ему не доверяю».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -431,7 +431,7 @@
     </Entry>
     <Entry>
       <ID>86</ID>
-      <DefaultText>«А-га».</DefaultText>
+      <DefaultText>«Ага».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -441,7 +441,7 @@
     </Entry>
     <Entry>
       <ID>88</ID>
-      <DefaultText>«В этой комнате есть что-то зловещее и могущественное. Будьте осторожны».</DefaultText>
+      <DefaultText>«В этой комнате есть что-то зловещее и могущественное. Будь осторожней».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -506,7 +506,7 @@
     </Entry>
     <Entry>
       <ID>101</ID>
-      <DefaultText>«Это был самый смелый поступок, который я когда-либо видел. Но еще и самый неосмотрительный».</DefaultText>
+      <DefaultText>«Это был самый смелый поступок, который я когда-либо видел. Но ещё и самый неосмотрительный».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -531,8 +531,8 @@
     </Entry>
     <Entry>
       <ID>106</ID>
-      <DefaultText>«Чёрт! Похоже, я только что проиграл пари. О, ты не спишь! Рад видеть тебя, приятель».</DefaultText>
-      <FemaleText>«Чёрт! Похоже, я только что проиграл пари. О, ты не спишь! Рад видеть тебя, подруга».</FemaleText>
+      <DefaultText>«Чёрт! Похоже, я только что проиграл пари. О, ты очнулся! Рад видеть тебя, приятель».</DefaultText>
+      <FemaleText>«Чёрт! Похоже, я только что проиграл пари. О, ты очнулась! Рад видеть тебя, подруга».</FemaleText>
     </Entry>
   </Entries>
 </StringTableFile>

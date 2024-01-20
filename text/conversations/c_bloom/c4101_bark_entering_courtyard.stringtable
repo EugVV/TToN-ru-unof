@@ -11,17 +11,17 @@
     </Entry>
     <Entry>
       <ID>2</ID>
-      <DefaultText>«Напомни рассказать тебе историю о Дворе Бесчисленных Возвращений. Он начинается здесь и заканчивается тоже здесь».</DefaultText>
+      <DefaultText>«Напомни рассказать тебе историю о Дворе Бесчисленных Возвращений. Она начинается здесь и заканчивается тоже здесь».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>3</ID>
-      <DefaultText>«Нам необходимо создать здесь укрепление».</DefaultText>
+      <DefaultText>«Нам необходимо основать тут опорный пункт».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>4</ID>
-      <DefaultText>{Huffy, to himself}«Интересно, Дракоген все еще здесь? И прежний ли характер… Хм».</DefaultText>
+      <DefaultText>{Надменно, себе под нос}«Интересно, Дракоген всё ещё здесь? И всё такой же дракогенистый? Хм».</DefaultText>
       <FemaleText />
     </Entry>
   </Entries>
