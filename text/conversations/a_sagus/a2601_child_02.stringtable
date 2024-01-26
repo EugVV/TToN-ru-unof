@@ -6,7 +6,7 @@
   <Entries>
     <Entry>
       <ID>1</ID>
-      <DefaultText>«Вы не видели женщину с серебряным поясом, так ведь? Работяга заплатил нам, чтобы мы понаблюдали за ней».</DefaultText>
+      <DefaultText>«Не встречалась женщина с серебряным поясом, нет? Работяга заплатил нам, чтобы мы понаблюдали за ней».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -16,17 +16,17 @@
     </Entry>
     <Entry>
       <ID>3</ID>
-      <DefaultText>«Галси продает нож с когтем на краю. Очень впечатляюще».</DefaultText>
+      <DefaultText>«Галси продаёт нож с когтем на конце. Очень впечатляюще».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>4</ID>
-      <DefaultText>«Вы уверены, что не видели женщину с серебряным поясом? Тьфу. Что за *скукота* в этом месте».</DefaultText>
+      <DefaultText>«Точно не встречалась женщина с серебряным поясом? Тьфу. Что за *скукота* в этом месте».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>5</ID>
-      <DefaultText>«Еще пять минут и я иду домой».</DefaultText>
+      <DefaultText>«Ещё пять минут, и я иду домой».</DefaultText>
       <FemaleText />
     </Entry>
   </Entries>
