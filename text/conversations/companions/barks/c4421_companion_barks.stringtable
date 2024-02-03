@@ -6,12 +6,12 @@
   <Entries>
     <Entry>
       <ID>1</ID>
-      <DefaultText>«*Еще* призрачные языки? Еще больше?»</DefaultText>
+      <DefaultText>«*Опять* призрачные языки? И ещё больше?»</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>2</ID>
-      <DefaultText>«У существа должен был быть *один*, самое большее *два* языка. Цветение, похоже, считает, чем больше языков, тем лучше».</DefaultText>
+      <DefaultText>«У существа должен был быть *один*, самое большее *два* языка. Это Цветение — какой-то мерзкий коллекционер языков».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -31,7 +31,7 @@
     </Entry>
     <Entry>
       <ID>6</ID>
-      <DefaultText>«Нет-нет. Мне не надо. Но все равно спасибо».</DefaultText>
+      <DefaultText>«Нет-нет. Мне не надо. Но всё равно спасибо».</DefaultText>
       <FemaleText />
     </Entry>
   </Entries>
