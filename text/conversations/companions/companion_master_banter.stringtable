@@ -6,7 +6,7 @@
   <Entries>
     <Entry>
       <ID>1</ID>
-      <DefaultText>{snappish} «Постарайся обуздать свой энтузиазм, ладно? Мы тут не в игры играем».</DefaultText>
+      <DefaultText>{snappish}«Постарайся обуздать свой энтузиазм, ладно? Мы тут не в игры играем».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -871,7 +871,7 @@
     </Entry>
     <Entry>
       <ID>191</ID>
-      <DefaultText>«Моя кожа… {realizes what happened, shakes head}Ты смотришь на меня через свое… сияние, Эрритис».</DefaultText>
+      <DefaultText>«Моя кожа… {понимает, что произошло, качает головой}ты смотришь на меня через своё… сияние, Эрритис».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -891,7 +891,7 @@
     </Entry>
     <Entry>
       <ID>195</ID>
-      <DefaultText>«Эрритис… {sighs}Знаешь, забудь».</DefaultText>
+      <DefaultText>«Эрритис… {вздыхает}знаешь, забудь».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1421,27 +1421,27 @@
     </Entry>
     <Entry>
       <ID>319</ID>
-      <DefaultText>«Эта женщина начинает думать, что ее клинки давно не вонзались в живую плоть».</DefaultText>
+      <DefaultText>«Эта женщина начинает думать, что её клинки давно не вонзались в живую плоть».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>320</ID>
-      <DefaultText>«Этого никогда не произойдет».</DefaultText>
+      <DefaultText>«Этого никогда не произойдёт».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>322</ID>
-      <DefaultText>«И почему тебе этого хочется? {laughs} Шучу. Спрячь свои кинжалы, убийца».</DefaultText>
+      <DefaultText>«И почему тебе этого хочется? {смеётся}Шучу. Спрячь свои кинжалы, убийца».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>323</ID>
-      <DefaultText>{muttering}«И вид стал бы лучше».</DefaultText>
+      <DefaultText>{шёпотом}«И вид стал бы лучше».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>324</ID>
-      <DefaultText>«Говорят, в свое время тебя считали грозным бойцом».</DefaultText>
+      <DefaultText>«Говорят, в своё время тебя считали грозным бойцом».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1466,7 +1466,7 @@
     </Entry>
     <Entry>
       <ID>329</ID>
-      <DefaultText>«Разве не странно, что с тобой столько сестер? Они не слишком… шумные?»</DefaultText>
+      <DefaultText>«Разве не странно, что с тобой столько сестёр? Они не слишком… шумные?»</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1591,7 +1591,7 @@
     </Entry>
     <Entry>
       <ID>354</ID>
-      <DefaultText>{Pained, not slow}«Можешь убавить свое свечение, парень? У меня легкое похмелье, знаешь ли».</DefaultText>
+      <DefaultText>{Pained, not slow}«Можешь убавить своё свечение, парень? У меня лёгкое похмелье, знаешь ли».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -2121,7 +2121,7 @@
     </Entry>
     <Entry>
       <ID>466</ID>
-      <DefaultText>«Что это за песня? Я никогда ее не слышала».</DefaultText>
+      <DefaultText>«Что это за песня? Я никогда её не слышала».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
