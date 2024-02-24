@@ -1272,7 +1272,7 @@
     <Entry>
       <ID>254</ID>
       <DefaultText>*Вот* тот, кто поможет Пожирателю!</DefaultText>
-      <FemaleText />
+      <FemaleText>*Вот* та, кто поможет Пожирателю!</FemaleText>
     </Entry>
     <Entry>
       <ID>255</ID>
