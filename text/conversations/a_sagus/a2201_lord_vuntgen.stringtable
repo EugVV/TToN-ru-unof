@@ -1153,8 +1153,8 @@
     </Entry>
     <Entry>
       <ID>241</ID>
-      <DefaultText>«Возвращайся в свое гнездо, любитель жуков!»</DefaultText>
-      <FemaleText />
+      <DefaultText>«Возвращайся в своё гнездо, любитель жуков!»</DefaultText>
+      <FemaleText>«Возвращайся в своё гнездо, любительница жуков!»</FemaleText>
     </Entry>
     <Entry>
       <ID>242</ID>
@@ -1168,7 +1168,7 @@
     </Entry>
     <Entry>
       <ID>244</ID>
-      <DefaultText>«Наконец-то. Дома должны быть в безопасности теперь».</DefaultText>
+      <DefaultText>«Наконец-то. Теперь дома должны быть в безопасности».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1228,7 +1228,7 @@
     </Entry>
     <Entry>
       <ID>261</ID>
-      <DefaultText>«Задавайте».</DefaultText>
+      <DefaultText>«Задавай».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
