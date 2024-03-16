@@ -142,19 +142,19 @@
       <ID>27</ID>
       <DefaultText>«Это бесконечный парад неприятностей, и из-за тебя я не пропустил ни одной. Хватит с меня. {дрожит}Рядом с тобой даже Каллистеж кажется милосердной».
 
-«Хватит с меня. {пауза}Надеюсь, ты сгниешь тут».
+«Хватит с меня. {пауза}Надеюсь, ты сгниёшь тут».
 
 {SCRIPT: Only plays if this is the third time the player has forced him into a violation of his self. (Maw and Doctors are the other two.)}</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>28</ID>
-      <DefaultText>«Спасибо тебе, что не заставил меня доводить это до конца. Почему ты изменил свое решение»?</DefaultText>
-      <FemaleText />
+      <DefaultText>Он берёт себя в руки: «Я видел, как оно пыталось поглотить часть твоего разума. Ты мог обратить его внимание на меня. Почему же не сделал этого?»</DefaultText>
+      <FemaleText>Он берёт себя в руки: «Я видел, как оно пыталось поглотить часть твоего разума. Ты могла обратить его внимание на меня. Почему же не сделала этого?»</FemaleText>
     </Entry>
     <Entry>
       <ID>29</ID>
-      <DefaultText>«Ты мой друг, и это причиняло тебе вред».</DefaultText>
+      <DefaultText>«Ты мой друг».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -164,22 +164,22 @@
     </Entry>
     <Entry>
       <ID>31</ID>
-      <DefaultText>Алигерн фыркает. «Просто расчет, да? Я буду помнить об этом».</DefaultText>
+      <DefaultText>Алигерн фыркает: «Просто расчёт, да? Я это запомню».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>32</ID>
-      <DefaultText>«Ты не был таким сильным, как я думал. Было бы лучше, чтобы я привлек внимание Цветения».</DefaultText>
-      <FemaleText />
+      <DefaultText>«Ты не был таким сильным, как я думал. Привлекать внимание Цветения лучше было мне».</DefaultText>
+      <FemaleText>«Ты не был таким сильным, как я думала. Привлекать внимание Цветения лучше было мне».</FemaleText>
     </Entry>
     <Entry>
       <ID>33</ID>
-      <DefaultText>«Без каких-либо конкретных причин. Я просто сделал это».</DefaultText>
-      <FemaleText>«Без каких-либо конкретных причин. Я просто сделала это».</FemaleText>
+      <DefaultText>«Без каких-либо конкретных причин. Я просто так решил».</DefaultText>
+      <FemaleText>«Без каких-либо конкретных причин. Я просто так решила».</FemaleText>
     </Entry>
     <Entry>
       <ID>34</ID>
-      <DefaultText>«Держа свои мотивы при себе? Прекрасно».</DefaultText>
+      <DefaultText>«Держишь свои мотивы при себе? Прекрасно».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1203,7 +1203,7 @@
     </Entry>
     <Entry>
       <ID>245</ID>
-      <DefaultText>«Спасибо. Я знал, что ты не доведешь это до конца».</DefaultText>
+      <DefaultText>«Спасибо. Я знал, что ты не пойдёшь на это».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1213,13 +1213,13 @@
     </Entry>
     <Entry>
       <ID>247</ID>
-      <DefaultText>Он презрительно усмехается. «Ты проделал большую работу, демонстрируя свою дружбу».</DefaultText>
-      <FemaleText />
+      <DefaultText>Он презрительно усмехается: «Ты проделал большую работу, демонстрируя свою дружбу».</DefaultText>
+      <FemaleText>Он презрительно усмехается: «Ты проделала большую работу, демонстрируя свою дружбу».</FemaleText>
     </Entry>
     <Entry>
       <ID>248</ID>
-      <DefaultText>«Я ценю это, отверженный. С тобой все в порядке».</DefaultText>
-      <FemaleText />
+      <DefaultText>«Я ценю это, отверженный. А ты вполне ничего».</DefaultText>
+      <FemaleText>«Я ценю это, отверженная. А ты вполне ничего».</FemaleText>
     </Entry>
     <Entry>
       <ID>249</ID>
@@ -1233,13 +1233,13 @@
     </Entry>
     <Entry>
       <ID>251</ID>
-      <DefaultText>Он резко кивнул головой. «Тогда не ошибись в следующий раз».</DefaultText>
+      <DefaultText>Он резко кивает головой: «Тогда не ошибись в следующий раз».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>252</ID>
       <DefaultText>«Хорошо, если бы ты подумал об этом раньше».</DefaultText>
-      <FemaleText />
+      <FemaleText>«Хорошо, если бы ты подумала об этом раньше».</FemaleText>
     </Entry>
     <Entry>
       <ID>253</ID>
@@ -1470,7 +1470,8 @@
     </Entry>
     <Entry>
       <ID>299</ID>
-      <DefaultText>«Аадирис была права насчет тебя».</DefaultText>
+      <DefaultText>
+«Аадирис была права насчёт тебя».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
