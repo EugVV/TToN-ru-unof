@@ -16,12 +16,12 @@
     </Entry>
     <Entry>
       <ID>3</ID>
-      <DefaultText>«Ты обещал… Я тебе поверила…»</DefaultText>
-      <FemaleText>«Ты обещала… Я тебе поверила…»</FemaleText>
+      <DefaultText>«Ты обещал… я тебе поверила…»</DefaultText>
+      <FemaleText>«Ты обещала… я тебе поверила…»</FemaleText>
     </Entry>
     <Entry>
       <ID>4</ID>
-      <DefaultText>«Этот мир… в нем не осталось добра».</DefaultText>
+      <DefaultText>«Этот мир… в нём не осталось добра».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -36,7 +36,7 @@
     </Entry>
     <Entry>
       <ID>7</ID>
-      <DefaultText>«Помни о своем обещании».</DefaultText>
+      <DefaultText>«Помни о своём обещании».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -51,8 +51,8 @@
     </Entry>
     <Entry>
       <ID>10</ID>
-      <DefaultText>«Ты сказал, что вернешься за мной».</DefaultText>
-      <FemaleText>«Ты сказала, что вернешься за мной».</FemaleText>
+      <DefaultText>«Ты сказал, что вернёшься за мной».</DefaultText>
+      <FemaleText>«Ты сказала, что вернёшься за мной».</FemaleText>
     </Entry>
   </Entries>
 </StringTableFile>
