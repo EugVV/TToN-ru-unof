@@ -21,7 +21,7 @@
     </Entry>
     <Entry>
       <ID>3</ID>
-      <DefaultText>В диалоге или во время кризиса вы можете приложить дополнительные усилия, затратив на это очки &lt;quad class="mightpool"&gt;[Color: Might]силы[/Color], &lt;quad class="speedpool"&gt;[Color: Speed]скорости[/Color] или &lt;quad class="intellectpool"&gt;[Color: Intellect]интеллекта[/Color].</DefaultText>
+      <DefaultText>В диалоге или во время кризиса можно приложить дополнительные усилия, затратив на это очки &lt;quad class="mightpool"&gt;[Color: Might]силы[/Color], &lt;quad class="speedpool"&gt;[Color: Speed]скорости[/Color] или &lt;quad class="intellectpool"&gt;[Color: Intellect]интеллекта[/Color].</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -116,7 +116,7 @@
     </Entry>
     <Entry>
       <ID>22</ID>
-      <DefaultText>Доминирующие Потоки не помешают вам выбрать какую-либо фразу в диалоге, но они могут незначительно повлиять на реакцию других людей.</DefaultText>
+      <DefaultText>Доминирующие Потоки не помешают выбрать какую-либо фразу в диалоге, но могут незначительно повлиять на реакцию других людей.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
