@@ -2591,7 +2591,7 @@
     </Entry>
     <Entry>
       <ID>518</ID>
-      <DefaultText>Восстанавливает параметр {1} на {0}</DefaultText>
+      <DefaultText>Восстанавливает на {0} параметр {1}</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
