@@ -531,12 +531,12 @@
     </Entry>
     <Entry>
       <ID>119</ID>
-      <DefaultText>«А твое сияние причиняет боль?»</DefaultText>
+      <DefaultText>«А твоё сияние причиняет боль?»</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>120</ID>
-      <DefaultText>«Это одна из твоих загадок? Если так, что твои загадки тоже причиняют боль».</DefaultText>
+      <DefaultText>«Это одна из твоих загадок? Если так, то твои загадки тоже причиняют боль».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -701,7 +701,7 @@
     </Entry>
     <Entry>
       <ID>155</ID>
-      <DefaultText>«Мне нравится твое платье. Очень красочное».</DefaultText>
+      <DefaultText>«Мне нравится твоё платье. Очень красочное».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -711,7 +711,7 @@
     </Entry>
     <Entry>
       <ID>157</ID>
-      <DefaultText>«В нем вы все похожи на стаю огромных птиц».</DefaultText>
+      <DefaultText>«В нём вы все похожи на стаю огромных птиц».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1241,12 +1241,12 @@
     </Entry>
     <Entry>
       <ID>271</ID>
-      <DefaultText>«Твоя смерть принесла бы нам неудобства. Давай начнем с этого».</DefaultText>
+      <DefaultText>«Твоя смерть принесла бы нам неудобства. Давай начнём с этого».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>272</ID>
-      <DefaultText>«Мое умение? Храбрость? А! Моя улыбка, да?»</DefaultText>
+      <DefaultText>«Моё умение? Храбрость? А! Моя улыбка, да?»</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1271,7 +1271,7 @@
     </Entry>
     <Entry>
       <ID>277</ID>
-      <DefaultText>«Нет. Твое сияние мешает мне видеть тени».</DefaultText>
+      <DefaultText>«Нет. Твоё сияние мешает мне видеть тени».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1621,7 +1621,7 @@
     </Entry>
     <Entry>
       <ID>360</ID>
-      <DefaultText>«Ты забавный маленький проказник. Ты ведь понимаешь все, что мы говорим, правда?»</DefaultText>
+      <DefaultText>«Ты забавный маленький проказник. Ты ведь понимаешь всё, что мы говорим, правда?»</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1636,7 +1636,7 @@
     </Entry>
     <Entry>
       <ID>363</ID>
-      <DefaultText>«Ты постоянно издаешь какие-то звуки. Боишься, что мы забудем о твоем существовании?»</DefaultText>
+      <DefaultText>«Ты постоянно издаёшь какие-то звуки. Боишься, что мы забудем о твоём существовании?»</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1646,7 +1646,7 @@
     </Entry>
     <Entry>
       <ID>365</ID>
-      <DefaultText>«Это работа. К тому же, разве наемники не убивают людей время от времени?»</DefaultText>
+      <DefaultText>«Это работа. К тому же разве наёмники не убивают людей время от времени?»</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -2076,7 +2076,7 @@
     </Entry>
     <Entry>
       <ID>455</ID>
-      <DefaultText>«Тем не менее, я должен поддерживать свою репутацию. Может, поужинаем сегодня? Готов сделать все, что в моих силах».</DefaultText>
+      <DefaultText>«Тем не менее я должен поддерживать свою репутацию. Может, поужинаем сегодня? Готов сделать всё, что в моих силах».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -2086,7 +2086,7 @@
     </Entry>
     <Entry>
       <ID>457</ID>
-      <DefaultText>«Тибир, {suddenly cold}это не твое дело».</DefaultText>
+      <DefaultText>«Тибир, {suddenly cold}это не твоё дело».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
