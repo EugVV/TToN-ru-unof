@@ -2226,23 +2226,23 @@
     </Entry>
     <Entry>
       <ID>445</ID>
-      <DefaultText>Может, существуют два молотка? Возможно. У прошлого множество тайн.</DefaultText>
+      <DefaultText>Может, таких молота два? Должно быть. У прошлого множество тайн.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>446</ID>
-      <DefaultText>Нет. Они соврали? И как *давно* они врут? Я же даже, я… Нет…</DefaultText>
+      <DefaultText>Нет. Они солгали? И как *давно* они лгут? Я же даже, я… Нет…</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>447</ID>
-      <DefaultText>Зачем им врать? И зачем сознаваться в этом сейчас? С какой целью?</DefaultText>
+      <DefaultText>Зачем им лгать? И зачем сознаваться в этом сейчас? С какой целью?</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>448</ID>
       <DefaultText>Ты должен был найти это, отверженный, но не приносить мне. Сейчас, впрочем, всё хорошо.</DefaultText>
-      <FemaleText />
+      <FemaleText>Ты должна был найти это, отверженная, но не приносить мне. Сейчас, впрочем, всё хорошо.</FemaleText>
     </Entry>
     <Entry>
       <ID>449</ID>
@@ -2251,27 +2251,27 @@
     </Entry>
     <Entry>
       <ID>450</ID>
-      <DefaultText>Ты тоже поговори с ним, с отверженным. Открой ему правду о прошлом.</DefaultText>
-      <FemaleText>Ты тоже поговори с ней, с отверженной. Открой ей правду о прошлом.</FemaleText>
+      <DefaultText>Поговори и с ним тоже, с отверженным. Открой ему правду о прошлом.</DefaultText>
+      <FemaleText>Поговори и с ней тоже, с отверженной. Открой ей правду о прошлом.</FemaleText>
     </Entry>
     <Entry>
       <ID>451</ID>
-      <DefaultText>Сколько ещё важного предстоит узнать? Меняющийся Бог тоже знал об этом.</DefaultText>
+      <DefaultText>Что же ещё может быть важным, кроме известности? Меняющийся Бог тоже знал об этом.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>452</ID>
-      <DefaultText>Шепчущие не станут лгать. Она вернётся однажды к Крупинке. Может и не ко мне, но однажды вернётся.</DefaultText>
+      <DefaultText>Шепчущие не станут лгать. Однажды она вернётся к Крупинке. Может, и не ко мне, но однажды вернётся.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>453</ID>
-      <DefaultText>Нет, моё съели. Это было… Ничто. И о чём я думал?</DefaultText>
+      <DefaultText>Нет, моя не была съедена. Это было… неважно. О чём я там думала?</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>454</ID>
-      <DefaultText>Это нормально, что я не помню, когда у меня были обе руки? Да, нормально.</DefaultText>
+      <DefaultText>Разве не странно, что я не помню, когда у меня были обе руки? Нет. Это не должно быть странным.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -2281,7 +2281,7 @@
     </Entry>
     <Entry>
       <ID>456</ID>
-      <DefaultText>Возможно, обо мне так и думают. Это может быть частью их иллюзии.</DefaultText>
+      <DefaultText>Возможно, так обо мне и думают. Это может быть частью их иллюзии.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -2321,7 +2321,7 @@
     </Entry>
     <Entry>
       <ID>464</ID>
-      <DefaultText>Так замёрз… Так устал… Так… несдержан.</DefaultText>
+      <DefaultText>Так замёрзла… так устала… так… несдержана.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -2336,12 +2336,12 @@
     </Entry>
     <Entry>
       <ID>467</ID>
-      <DefaultText>Я никогда не считала это богом. Лишь голосом. А теперь и осведомителем.</DefaultText>
+      <DefaultText>Я никогда не считала его богом. Лишь голосом. А теперь и осведомителем.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>468</ID>
-      <DefaultText>Возможно ли?.. Нет… Он не мог выжить.</DefaultText>
+      <DefaultText>Возможно ли?.. Нет… он не мог выжить.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
