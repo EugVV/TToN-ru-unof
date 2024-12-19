@@ -16,12 +16,12 @@
     </Entry>
     <Entry>
       <ID>3</ID>
-      <DefaultText>«Ух. Сейчас мне придется обжечь свои ботинки».</DefaultText>
+      <DefaultText>«Тьфу. Сейчас мне придётся обжечь свои ботинки».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>4</ID>
-      <DefaultText>«Я не против выпить, но я не хочу быть съеденным».</DefaultText>
+      <DefaultText>«Я не против выпить, но не хочу быть съеденным».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -36,7 +36,7 @@
     </Entry>
     <Entry>
       <ID>7</ID>
-      <DefaultText>«Это место напоминает мне преодоление канализационных труб Стронта с рейнджерами Реимана».</DefaultText>
+      <DefaultText>«Это место напоминает мне преодоление канализационных труб Стронта со следопытами Реимана».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -360,7 +360,7 @@
     </Entry>
     <Entry>
       <ID>77</ID>
-      <DefaultText>«Это гигантское брюхо бурчит и звук становится ближе».</DefaultText>
+      <DefaultText>«Это гигантское брюхо бурчит, и звук становится ближе».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -380,7 +380,7 @@
     </Entry>
     <Entry>
       <ID>81</ID>
-      <DefaultText>«Этот запах? Это в твоем мозгу. Эта вонь отчаянья и голода».</DefaultText>
+      <DefaultText>«Этот запах? Он в твоём мозгу. Так воняют отчаяние и голод».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -400,7 +400,7 @@
     </Entry>
     <Entry>
       <ID>85</ID>
-      <DefaultText>«Единственное, что я бы сказала о Цветении — это великолепное место, где можно спрятать тело или даже десяток».</DefaultText>
+      <DefaultText>«Единственное, что я бы сказала о Цветении, — это великолепное место, где можно спрятать тело или даже десяток».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
