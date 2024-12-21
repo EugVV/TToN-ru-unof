@@ -6,13 +6,13 @@
   <Entries>
     <Entry>
       <ID>1</ID>
-      <DefaultText>«На твоем месте я бы шел своей дорогой. Без обид».</DefaultText>
+      <DefaultText>«На твоём месте я бы шёл своей дорогой. Без обид».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>2</ID>
       <DefaultText>«Иди отсюда, отверженный».</DefaultText>
-      <FemaleText />
+      <FemaleText>«Иди отсюда, отверженная».</FemaleText>
     </Entry>
   </Entries>
 </StringTableFile>
