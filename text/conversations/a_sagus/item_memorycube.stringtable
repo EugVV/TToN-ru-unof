@@ -115,7 +115,7 @@
     </Entry>
     <Entry>
       <ID>22</ID>
-      <DefaultText>Сосуд с черной жидкостью на круглом стеклянном столе.</DefaultText>
+      <DefaultText>Сосуд с чёрной жидкостью на круглом стеклянном столе.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -125,12 +125,12 @@
     </Entry>
     <Entry>
       <ID>24</ID>
-      <DefaultText>Больные животные, сбившиеся в кучу вокруг зараженного пруда.</DefaultText>
+      <DefaultText>Больные животные, сбившиеся в кучу вокруг заражённого пруда.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>25</ID>
-      <DefaultText>Уходящий вдаль ряд толстых свечей в темном бесконечном коридоре.</DefaultText>
+      <DefaultText>Уходящий вдаль ряд толстых свечей в тёмном бесконечном коридоре.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -311,7 +311,7 @@
     </Entry>
     <Entry>
       <ID>60</ID>
-      <DefaultText>«Скажи, почему Скорбь меня преследует».</DefaultText>
+      <DefaultText>«Скажи, почему Скорбь меня преследует?»</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
