@@ -377,14 +377,14 @@
     </Entry>
     <Entry>
       <ID>68</ID>
-      <DefaultText>И все же вы понимаете, что дальше можно не копать. Это и есть тот мужчина — Отверженный. О нем говорило отражение девочки. Можно возвращаться ко скульптору Заофи.
+      <DefaultText>И всё же вы понимаете, что дальше можно не копать. Это и есть тот мужчина — отверженный. О нём говорило отражение девочки. Можно возвращаться к скульптору Заофи.
 
 {SCRIPT: JESSE: Node only visible if PC ate the girl's corpse and spoke to her reflection, learning the true story of the castoff.}</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>69</ID>
-      <DefaultText>Вы смотрите на тело на носилках, и вас накрывает жалость. На долю секунды вы видите отражение женщины, чье тело нашли в разрушенном доме. Она как-то связана с этим мужчиной.
+      <DefaultText>Вы смотрите на тело на носилках, и вас накрывает жалость. На долю секунды вы видите отражение женщины, чьё тело нашли в разрушенном доме. Она как-то связана с этим мужчиной.
 
 {SCRIPT: JESSE: Node only visible If the player has already seen the dead woman in the collapsed house, but she only exists as a partial Reflection. The quest advances to step 4.}</DefaultText>
       <FemaleText />
@@ -396,7 +396,7 @@
     </Entry>
     <Entry>
       <ID>71</ID>
-      <DefaultText>«Я помогаю Толстону расследовать темные дела в Подбрюшье. Ответишь на несколько вопросов?»</DefaultText>
+      <DefaultText>«Я помогаю Толстону расследовать тёмные дела в Подбрюшье. Ответишь на пару вопросов?»</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -428,7 +428,7 @@
     </Entry>
     <Entry>
       <ID>77</ID>
-      <DefaultText>«Ты точно ничего не знаешь насчет убитого протеже Толстона?»</DefaultText>
+      <DefaultText>«Ты точно ничего не знаешь насчёт убитого протеже Толстона?»</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -693,7 +693,7 @@
       <ID>130</ID>
       <DefaultText>«Вряд ли мы узнаем», — вздыхает он. — «Она могла съесть мясо, тронутое их болезнью. Или прочла о них в пыльной книге».
 
-Он смотрит на темную стену и повторяет: «Вряд ли мы узнаем».</DefaultText>
+Он смотрит на тёмную стену и повторяет: «Вряд ли мы узнаем».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
