@@ -216,7 +216,7 @@
     </Entry>
     <Entry>
       <ID>43</ID>
-      <DefaultText>«Не пускайте Первую! Не пускайте ее!»</DefaultText>
+      <DefaultText>«Не пускайте Первую! Не пускайте её!»</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -241,7 +241,7 @@
     </Entry>
     <Entry>
       <ID>48</ID>
-      <DefaultText>«Слишком много шифров… Давно я себя так не чувствовал».</DefaultText>
+      <DefaultText>«Слишком много шифров… давно я себя так не чувствовал».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -3491,8 +3491,8 @@
     </Entry>
     <Entry>
       <ID>698</ID>
-      <DefaultText>«Найди способ, чтобы вернуть ее обратно, братец, или вас обоих постигнет смерть».</DefaultText>
-      <FemaleText>«Найди способ, чтобы вернуть ее обратно, сестрица, или вас обеих постигнет смерть».</FemaleText>
+      <DefaultText>«Найди способ вернуть её обратно, братец, или вас обоих постигнет смерть».</DefaultText>
+      <FemaleText>«Найди способ вернуть её обратно, сестрица, или вас обеих постигнет смерть».</FemaleText>
     </Entry>
     <Entry>
       <ID>699</ID>
@@ -4681,7 +4681,7 @@
     </Entry>
     <Entry>
       <ID>936</ID>
-      <DefaultText>«Я сама ее сделала. Нет, я не отдам ее тебе».</DefaultText>
+      <DefaultText>«Я сама её сделала. Нет, я не отдам её тебе».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -4696,7 +4696,7 @@
     </Entry>
     <Entry>
       <ID>939</ID>
-      <DefaultText>«За Баранта!»</DefaultText>
+      <DefaultText>«За Барант!»</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -5768,7 +5768,7 @@
     </Entry>
     <Entry>
       <ID>1153</ID>
-      <DefaultText>«Кем была эта женщина? Почему у нее так много лиц?»</DefaultText>
+      <DefaultText>«Кем была эта женщина? Почему у неё так много лиц?»</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -5958,12 +5958,12 @@
     </Entry>
     <Entry>
       <ID>1191</ID>
-      <DefaultText>«Давай убьем их».</DefaultText>
+      <DefaultText>«Давай убьём их».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>1192</ID>
-      <DefaultText>«Зря мы не решили все словами».</DefaultText>
+      <DefaultText>«Зря мы не решили всё словами».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -5978,22 +5978,22 @@
     </Entry>
     <Entry>
       <ID>1195</ID>
-      <DefaultText>«Мне кажется, что лучше ту клетку не отпирать».</DefaultText>
+      <DefaultText>«Мне кажется, лучше ту клетку не отпирать».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>1196</ID>
-      <DefaultText>«Я не то чтобы напрашиваюсь, но *кто-нибудь* должен следить за Женжисом, пока мы бьемся об дверь кортекса».</DefaultText>
+      <DefaultText>«Я не то чтобы напрашиваюсь, но *кто-нибудь* должен следить за Женжесом, пока мы работаем над дверью кортекса».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>1197</ID>
-      <DefaultText>«Не трать время на Мемовиру. Нам надо пройти мимо нее».</DefaultText>
+      <DefaultText>«Не трать время на Мемовиру. Нам надо пройти мимо неё».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>1198</ID>
-      <DefaultText>«Получается? Я в технике не силен. Но умею оставаться живым, что намерен продолжить».</DefaultText>
+      <DefaultText>«Получается? Я в технике не силён. Хотя здорово оставаться живым. Давай продолжим».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -6728,7 +6728,7 @@
     </Entry>
     <Entry>
       <ID>1345</ID>
-      <DefaultText>«Хорошо, что все закончилось».</DefaultText>
+      <DefaultText>«Хорошо, что всё закончилось».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -6763,7 +6763,7 @@
     </Entry>
     <Entry>
       <ID>1352</ID>
-      <DefaultText>«Знакомое место, но не пойму, почему…»</DefaultText>
+      <DefaultText>«Знакомое место, но не пойму почему…»</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -6773,7 +6773,7 @@
     </Entry>
     <Entry>
       <ID>1354</ID>
-      <DefaultText>{Обеспокоено}«Э-э-э… Не мог бы кто-нибудь подойти сюда? И поскорее?..»</DefaultText>
+      <DefaultText>{Обеспокоено}«Э-э… не мог бы кто-нибудь подойти сюда? И поскорее?»</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
