@@ -6,7 +6,7 @@
   <Entries>
     <Entry>
       <ID>1</ID>
-      <DefaultText>[First time comment after she joins the party. She tells the player about her satchel (if we can implement that with Tol).]  {SCRIPT: Set to Should Not Play for now.}</DefaultText>
+      <DefaultText>[First time comment after she joins the party. She tells the player about her satchel (if we can implement that with Tol).]</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -196,7 +196,7 @@
     </Entry>
     <Entry>
       <ID>94</ID>
-      <DefaultText>«Разумеется. Я принесу ее тебе».</DefaultText>
+      <DefaultText>«Разумеется. Я принесу её тебе».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -373,12 +373,12 @@
     </Entry>
     <Entry>
       <ID>216</ID>
-      <DefaultText>«Ну что ж…» Она теребит пальцами полы куртки. «Кажется, я слышала, что тебе нужен человек, который может починить… какую-то камеру? Думаю, тебе пора его отыскать».</DefaultText>
+      <DefaultText>«Ну…» — она теребит пальцами полы куртки. — «Кажется, я слышала, что тебе нужен кто-нибудь, способный починить… какую-то камеру? Думаю, тебе пора его отыскать».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>217</ID>
-      <DefaultText>«Кажется, я слышала, что ты кого-то ищешь… Наверно, это и есть Мэткина?»</DefaultText>
+      <DefaultText>«Кажется, я слышала, что ты кого-то ищешь… наверно, это Мэткина?»</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -673,7 +673,7 @@
     </Entry>
     <Entry>
       <ID>294</ID>
-      <DefaultText>«Ты развела костер — единственный костер в окрестностях».</DefaultText>
+      <DefaultText>«Ты развела костёр — единственный костёр в окрестностях».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -683,17 +683,17 @@
     </Entry>
     <Entry>
       <ID>296</ID>
-      <DefaultText>«О. Вот как». Она внимательно разглядывает свой башмак. «Мне не нравится вспоминать то время».</DefaultText>
+      <DefaultText>«О. Вот как», — она внимательно разглядывает свой башмак. — «Мне не нравится вспоминать то время».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>297</ID>
-      <DefaultText>«Ха! Да, об этом мне тоже кое-кто говорил…» Какое-то время она смотрит вдаль.
+      <DefaultText>«Ха! Да, об этом мне тоже кое-кто говорил…» — какое-то время она смотрит вдаль.
 
-Вдруг она качает головой. «Прости. Чего ты хотел?»</DefaultText>
-      <FemaleText>«Ха! Да, об этом мне тоже кое-кто говорил…» Какое-то время она смотрит вдаль.
+Вдруг она качает головой: «Прости. Чего ты хотел?»</DefaultText>
+      <FemaleText>«Ха! Да, об этом мне тоже кое-кто говорил…» — какое-то время она смотрит вдаль.
 
-Вдруг она качает головой. «Прости. Чего ты хотела?»</FemaleText>
+Вдруг она качает головой: «Прости. Чего ты хотела?»</FemaleText>
     </Entry>
     <Entry>
       <ID>298</ID>
@@ -717,7 +717,7 @@
     </Entry>
     <Entry>
       <ID>302</ID>
-      <DefaultText>Она смотрит на вас. На ее лице появляется мимолетная улыбка.</DefaultText>
+      <DefaultText>Она смотрит на вас. На краткий миг её лицо озаряется улыбкой.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
