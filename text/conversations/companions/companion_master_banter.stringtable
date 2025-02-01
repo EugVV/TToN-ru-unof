@@ -56,7 +56,7 @@
     </Entry>
     <Entry>
       <ID>11</ID>
-      <DefaultText>«Ты можешь держать эту тварь подальше от меня?»</DefaultText>
+      <DefaultText>«Можешь держать этот пузырь подальше от меня?»</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -66,7 +66,7 @@
     </Entry>
     <Entry>
       <ID>13</ID>
-      <DefaultText>«Та рана выглядит просто ужасно. Не хочешь показать ее лекарю?»</DefaultText>
+      <DefaultText>«Та рана выглядит просто ужасно. Не хочешь показать её лекарю?»</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -81,12 +81,12 @@
     </Entry>
     <Entry>
       <ID>16</ID>
-      <DefaultText>{disgusted}«Тебе обязательно расценивать каждое социальное взаимодействие как возможность снять свои штаны?»</DefaultText>
+      <DefaultText>{disgusted}«Тебе обязательно расценивать каждое социальное взаимодействие как возможность снять штаны?»</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>17</ID>
-      <DefaultText>«Ты хоть к чему-нибудь относишься серьезно?»</DefaultText>
+      <DefaultText>«Ты хоть к чему-нибудь относишься серьёзно?»</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -96,7 +96,7 @@
     </Entry>
     <Entry>
       <ID>19</ID>
-      <DefaultText>«Эрритис, перестань дергаться. Успокойся. И умолкни. Сделай все сразу».</DefaultText>
+      <DefaultText>«Эрритис, перестань дёргаться. Успокойся. И умолкни. Сделай всё сразу».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -971,7 +971,7 @@
     </Entry>
     <Entry>
       <ID>213</ID>
-      <DefaultText>«Рин, если хочешь услышать интересную историю, можешь заслужить ее, став моим оруженосцем».</DefaultText>
+      <DefaultText>«Рин, если хочешь услышать интересную историю, можешь заслужить её, став моим оруженосцем».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -981,7 +981,7 @@
     </Entry>
     <Entry>
       <ID>215</ID>
-      <DefaultText>«Ты говоришь это сейчас. Хотя… если ты скажешь это и потом, мне придется рассказывать истории самому себе. Снова».</DefaultText>
+      <DefaultText>«Ты говоришь это сейчас. Хотя… если ты скажешь это и потом, мне придётся рассказывать истории самому себе. Снова».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
