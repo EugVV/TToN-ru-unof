@@ -6,7 +6,7 @@
   <Entries>
     <Entry>
       <ID>1</ID>
-      <DefaultText>«Не верю своим глазам. Кто-то просто взял и выключил Солнце».</DefaultText>
+      <DefaultText>«Не верю глазам. Кто-то просто взял и выключил солнце».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -21,12 +21,12 @@
     </Entry>
     <Entry>
       <ID>4</ID>
-      <DefaultText>«Он оставил ее у берега, / камнями могилу накрыл. / Он оставил ее одну, мертвую».</DefaultText>
+      <DefaultText>«Отнёс её на брег печальный, / где под камнями схоронил / и мёртвую одну оставил».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>5</ID>
-      <DefaultText>«Так она в той могиле лежит. / Дух ее в заточении спит».</DefaultText>
+      <DefaultText>«Так она в той могиле лежит, / дух её в заточении спит».</DefaultText>
       <FemaleText />
     </Entry>
   </Entries>
