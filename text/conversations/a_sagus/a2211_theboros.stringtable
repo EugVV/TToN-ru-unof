@@ -695,7 +695,7 @@ Theboros should comment about Riastrad (and Satsada) if the player asks about th
     </Entry>
     <Entry>
       <ID>136</ID>
-      <DefaultText>Он на мгновение смотрит на вас. «Нет. Невозможно».</DefaultText>
+      <DefaultText>Мгновение он смотрит на вас: «Нет. Невозможно».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -710,7 +710,7 @@ Theboros should comment about Riastrad (and Satsada) if the player asks about th
     </Entry>
     <Entry>
       <ID>139</ID>
-      <DefaultText>«Может быть им и нет дела, но ты служишь им, взяв на себя это бремя».</DefaultText>
+      <DefaultText>«Может быть, им и нет дела, но ты служишь им, взяв на себя это бремя».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
