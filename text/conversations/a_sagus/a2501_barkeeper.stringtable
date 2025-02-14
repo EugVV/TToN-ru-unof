@@ -16,12 +16,12 @@
     </Entry>
     <Entry>
       <ID>3</ID>
-      <DefaultText>«Большинство клиентов здесь наполовину пьяные моряки, несостоявшиеся торговцы и потерявшиеся туристы».</DefaultText>
+      <DefaultText>«Большинство клиентов здесь полубезумные моряки, несостоявшиеся торговцы и потерявшиеся туристы».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>4</ID>
-      <DefaultText>«Однажды, клиент купил бутылку и проглотил ее целиком, с пробкой и всем содержимым».</DefaultText>
+      <DefaultText>«Однажды клиент купил бутылку и проглотил её целиком, с пробкой и всем содержимым».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -31,17 +31,17 @@
     </Entry>
     <Entry>
       <ID>6</ID>
-      <DefaultText>«Одна из наших бутылок скрипит каждый раз, когда ее открываешь. Я всегда забываю которая».</DefaultText>
+      <DefaultText>«Одна из наших бутылок скрипит каждый раз, когда её открываешь. Я всегда забываю которая».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>7</ID>
-      <DefaultText>«Я сплю под баром вместе с крысами. У меня есть подушка и все такое».</DefaultText>
+      <DefaultText>«Я сплю под баром вместе с крысами. У меня есть подушка и всё такое».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>8</ID>
-      <DefaultText>«Может мне следует нанять помощника?»</DefaultText>
+      <DefaultText>«Может, мне следует нанять помощника?»</DefaultText>
       <FemaleText />
     </Entry>
   </Entries>
