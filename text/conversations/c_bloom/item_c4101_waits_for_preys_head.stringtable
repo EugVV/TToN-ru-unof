@@ -6,7 +6,7 @@
   <Entries>
     <Entry>
       <ID>1</ID>
-      <DefaultText>Голова Ждущего Жертву приветствует вас и говорит, что мечтает быть поглощенной Цветением.</DefaultText>
+      <DefaultText>Голова Ждущего Жертву приветствует вас и говорит, что мечтает быть поглощённой Цветением.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -31,7 +31,7 @@
     </Entry>
     <Entry>
       <ID>6</ID>
-      <DefaultText>Голова Ждущего Жертву снова приветствует вас и спрашивает, когда вы планируете скормить ее Цветению.</DefaultText>
+      <DefaultText>Голова Ждущего Жертву снова приветствует вас и спрашивает, когда вы планируете скормить её Цветению.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -41,7 +41,7 @@
     </Entry>
     <Entry>
       <ID>8</ID>
-      <DefaultText>Убрать ее в сторону.</DefaultText>
+      <DefaultText>Убрать её в рюкзак.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>

@@ -31,7 +31,7 @@
     </Entry>
     <Entry>
       <ID>6</ID>
-      <DefaultText>«Я как-то раз обжег язык. Было больно. Затем я снова обжег язык, чтобы удостовериться, что не ошибся».</DefaultText>
+      <DefaultText>«Я как-то раз обжёг язык. Было больно. Затем я снова обжёг язык, чтобы удостовериться, что не ошибся».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -41,7 +41,7 @@
     </Entry>
     <Entry>
       <ID>8</ID>
-      <DefaultText>{Whispers}«Она покарает нас за рифмоплетство без разрешения?»</DefaultText>
+      <DefaultText>{Whispers}«Она покарает нас за рифмоплётство без разрешения?»</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -81,12 +81,12 @@
     </Entry>
     <Entry>
       <ID>16</ID>
-      <DefaultText>«Я ее ни разу не видел среди плоти».</DefaultText>
+      <DefaultText>«Я её ни разу не видел среди плоти».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>17</ID>
-      <DefaultText>«В ее заграждениях появляются трещины».</DefaultText>
+      <DefaultText>«В её заграждениях появляются трещины».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -106,12 +106,12 @@
     </Entry>
     <Entry>
       <ID>21</ID>
-      <DefaultText>«Защищаться огнем от Цветения? Не сработает».</DefaultText>
+      <DefaultText>«Защищаться огнём от Цветения? Не сработает».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>22</ID>
-      <DefaultText>«Все равно, что пытаться повернуть реку вспять. Старшая девочка столкнется с неизбежным».</DefaultText>
+      <DefaultText>«Всё равно что пытаться повернуть реку вспять. Старшая девочка столкнётся с неизбежным».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>

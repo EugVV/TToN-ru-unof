@@ -6,7 +6,7 @@
   <Entries>
     <Entry>
       <ID>1</ID>
-      <DefaultText>«Здесь мы держим рабов… но не продаем их. Те, что внизу, назначены Цветению».</DefaultText>
+      <DefaultText>«Здесь мы держим рабов… но не продаём их. Те, что внизу, назначены Цветению».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -36,7 +36,7 @@
     </Entry>
     <Entry>
       <ID>12</ID>
-      <DefaultText>«Идем, Рин. Мы никогда тебя не обидим. А вот Толь теперь доставляет нам страдания».</DefaultText>
+      <DefaultText>«Идём, Рин. Мы никогда тебя не обидим. А вот Толь теперь доставляет нам страдания».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -46,12 +46,12 @@
     </Entry>
     <Entry>
       <ID>14</ID>
-      <DefaultText>«Последнее время Толь очень опасна. Того и гляди по нам ударит ее всплеск».</DefaultText>
+      <DefaultText>«Последнее время Толь очень опасна. Того и гляди по нам ударит её всплеск».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>15</ID>
-      <DefaultText>«Помоги найти Рин. Город не место для девчушки ее возраста».</DefaultText>
+      <DefaultText>«Помоги найти Рин. Город не место для девчушки её возраста».</DefaultText>
       <FemaleText />
     </Entry>
   </Entries>
