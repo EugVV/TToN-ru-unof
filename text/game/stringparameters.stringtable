@@ -3166,13 +3166,13 @@
     </Entry>
     <Entry>
       <ID>633</ID>
-      <DefaultText>Дурак! Идёт на верную смерть.</DefaultText>
-      <FemaleText>Дурочка! Идёт на верную смерть.</FemaleText>
+      <DefaultText>Идиот готов отдать себя на съедение.</DefaultText>
+      <FemaleText>Идиотка готова отдать себя на съедение.</FemaleText>
     </Entry>
     <Entry>
       <ID>634</ID>
-      <DefaultText>Глупец. Нас можно победить.</DefaultText>
-      <FemaleText />
+      <DefaultText>Дурак. И нас можно победить.</DefaultText>
+      <FemaleText>Дура. И нас можно победить.</FemaleText>
     </Entry>
     <Entry>
       <ID>635</ID>
