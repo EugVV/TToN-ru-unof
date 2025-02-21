@@ -47,7 +47,7 @@
     </Entry>
     <Entry>
       <ID>8</ID>
-      <DefaultText>Закрытую панель, кажется, не трогали с момента, когда вы видели ее в последний раз.</DefaultText>
+      <DefaultText>Закрытую панель, кажется, не трогали с момента, когда вы видели её в последний раз.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -97,7 +97,7 @@
     </Entry>
     <Entry>
       <ID>19</ID>
-      <DefaultText>Панель не реагирует на ваши прикосновения. Она даже не передает вибрацию.</DefaultText>
+      <DefaultText>Панель не реагирует на ваши прикосновения. Она даже не передаёт вибрацию.</DefaultText>
       <FemaleText />
     </Entry>
   </Entries>

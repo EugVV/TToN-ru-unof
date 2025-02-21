@@ -11,13 +11,13 @@
     </Entry>
     <Entry>
       <ID>2</ID>
-      <DefaultText>«Тебе не кажется это странным? Ночь, когда ее не ждали. Тут что-то нечисто, мне кажется».
+      <DefaultText>«Тебе не кажется это странным? Ночь, когда её не ждали. Мне кажется, тут что-то нечисто».
 {SCRIPT: script tags moved to comments on nodes. Please be aware they need to be accounted for.}</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>3</ID>
-      <DefaultText>«И ты считаешь себя актером?»</DefaultText>
+      <DefaultText>«И ты считаешь себя актёром?»</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -32,7 +32,7 @@
     </Entry>
     <Entry>
       <ID>6</ID>
-      <DefaultText>«'Да, что такое?»</DefaultText>
+      <DefaultText>«Да, что такое?»</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
