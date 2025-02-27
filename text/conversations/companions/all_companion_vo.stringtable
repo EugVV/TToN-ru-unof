@@ -961,12 +961,12 @@
     </Entry>
     <Entry>
       <ID>192</ID>
-      <DefaultText>«Нам придется найти другой выход!»</DefaultText>
+      <DefaultText>«Нам придётся найти другой выход!»</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>193</ID>
-      <DefaultText>«Выйдем через ту пирамиду! Вперед!»</DefaultText>
+      <DefaultText>«Выйдем через ту пирамиду! Вперёд!»</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -2486,7 +2486,7 @@
     </Entry>
     <Entry>
       <ID>497</ID>
-      <DefaultText>«Жду не дождусь, когда ты придешь в себя! Ой. А ты не приходишь».</DefaultText>
+      <DefaultText>«Жду не дождусь, когда ты придёшь в себя! Ой. А ты не приходишь».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -2531,7 +2531,7 @@
     </Entry>
     <Entry>
       <ID>506</ID>
-      <DefaultText>{Impatient}«Наконец-то! {Under breath to himself, childish}И петухи могут начать нестись, пока ты придешь в себя. {Beat}А вообще было бы круто, на самом деле».</DefaultText>
+      <DefaultText>{Impatient}«Наконец-то! {Under breath to himself, childish}И петухи могут начать нестись, пока ты придёшь в себя. {Beat}А вообще было бы круто, на самом деле».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
