@@ -2006,22 +2006,22 @@
     </Entry>
     <Entry>
       <ID>401</ID>
-      <DefaultText>Где бы мне раздобыть ещё денег… Эй, можно обчистить его.</DefaultText>
-      <FemaleText>Где бы мне раздобыть ещё денег… Эй, можно обчистить её.</FemaleText>
+      <DefaultText>Где бы мне раздобыть ещё денег?.. Эй, вот он явно не из бедных.</DefaultText>
+      <FemaleText>Где бы мне раздобыть ещё денег?.. Эй, вот она явно не из бедных.</FemaleText>
     </Entry>
     <Entry>
       <ID>402</ID>
-      <DefaultText>Надеюсь, у Шин есть новости.</DefaultText>
+      <DefaultText>Надеюсь, у Шин сегодня что-нибудь новенькое!</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>403</ID>
-      <DefaultText>Друг мой! Может, у него ещё есть?</DefaultText>
-      <FemaleText>Друг мой! Может, у неё ещё есть?</FemaleText>
+      <DefaultText>Мой друг! Может, у него ещё есть?</DefaultText>
+      <FemaleText>Мой друг! Может, у неё ещё есть?</FemaleText>
     </Entry>
     <Entry>
       <ID>404</ID>
-      <DefaultText>Я даже и не думал, что кокософрукт такой сочный…</DefaultText>
+      <DefaultText>Я даже и не думал, что фрукт коконы такой сочный…</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -2031,22 +2031,22 @@
     </Entry>
     <Entry>
       <ID>406</ID>
-      <DefaultText>Меня не признавали. Так мне казалось. Благодаря Шин, у меня было несколько семей.</DefaultText>
+      <DefaultText>Меня не признавали! По крайней мере я так думал. Благодаря Шин у меня было несколько семей.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>407</ID>
-      <DefaultText>Я не мог съесть ни кусочка больше. Живот раздулся до предела!</DefaultText>
+      <DefaultText>Не могу больше съесть ни кусочка. Живот раздулся до предела!</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>408</ID>
-      <DefaultText>Моя госпожа, я в жизни не был трезвее.</DefaultText>
+      <DefaultText>Госпожа моя, я в жизни не был трезвее.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>409</ID>
-      <DefaultText>Награда? Для меня? Признаться, я поражён, учитывая скольких лиммилов я убил.</DefaultText>
+      <DefaultText>Награда? Мне? Признаться, это неожиданно, учитывая, скольких лиммилов я убил.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
