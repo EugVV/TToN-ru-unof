@@ -6,7 +6,7 @@
   <Entries>
     <Entry>
       <ID>1</ID>
-      <DefaultText>«Черт! Обычно распылитель плоти действует лучше!»</DefaultText>
+      <DefaultText>«Чёрт! Обычно распылитель плоти действует лучше!»</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -21,8 +21,8 @@
     </Entry>
     <Entry>
       <ID>4</ID>
-      <DefaultText>«Тебе придется как следует постараться, приятель!»</DefaultText>
-      <FemaleText>«Тебе придется как следует постараться, подруга!»</FemaleText>
+      <DefaultText>«Тебе придётся как следует постараться, приятель!»</DefaultText>
+      <FemaleText>«Тебе придётся как следует постараться, подруга!»</FemaleText>
     </Entry>
     <Entry>
       <ID>5</ID>
