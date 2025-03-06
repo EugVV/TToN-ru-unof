@@ -6,7 +6,7 @@
   <Entries>
     <Entry>
       <ID>1</ID>
-      <DefaultText>«Раздаются бесплатные советы! Четкие советы для каждого!»</DefaultText>
+      <DefaultText>«Раздаю бесплатные советы! Чёткие советы для каждого!»</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -41,12 +41,12 @@
     </Entry>
     <Entry>
       <ID>8</ID>
-      <DefaultText>«Вы очень красивы. Теперь плохая новость — прямо сейчас все представляют вас в голом виде. Каждый».</DefaultText>
+      <DefaultText>«Вы очень красивы. Теперь плохая новость: прямо сейчас все представляют вас в голом виде. Каждый».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>9</ID>
-      <DefaultText>«Я думаю над хорошим советом, но, пожалуй, мне придется взять за него деньги».</DefaultText>
+      <DefaultText>«Я думаю над хорошим советом, но, пожалуй, мне придётся взять за него деньги».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>

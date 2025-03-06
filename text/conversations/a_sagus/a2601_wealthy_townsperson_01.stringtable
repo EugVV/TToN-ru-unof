@@ -6,12 +6,12 @@
   <Entries>
     <Entry>
       <ID>1</ID>
-      <DefaultText>«Ну, речь о… ой, ты не гид, так ведь? Черт».</DefaultText>
+      <DefaultText>«Ну, речь о… ой, ты не гид, так ведь? Чёрт».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>2</ID>
-      <DefaultText>«Кресса и я наняли гида, который поведет нас на охоту. Ему придется *все же* показать лицо».</DefaultText>
+      <DefaultText>«Кресса и я наняли гида, который поведёт нас на охоту. Ему всё же придётся показать лицо».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -21,12 +21,12 @@
     </Entry>
     <Entry>
       <ID>4</ID>
-      <DefaultText>«Если так будет продолжаться, то мы лучше пойдем штурмом на Подбрюшье и наловим грызунов в мешки».</DefaultText>
+      <DefaultText>«Если так будет продолжаться, нам лучше пробежаться по Подбрюшью и наловить в мешок грызунов!»</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>5</ID>
-      <DefaultText>«Интересно, не убит ли и ограблен наш гид? Наверняка это не в первый раз!»</DefaultText>
+      <DefaultText>«Интересно, не ограблен ли и убит наш гид? Наверняка это не в первый раз!»</DefaultText>
       <FemaleText />
     </Entry>
   </Entries>

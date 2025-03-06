@@ -31,7 +31,7 @@
     </Entry>
     <Entry>
       <ID>6</ID>
-      <DefaultText>«Ты смеёшься невесть почему. А здесь нет ничего веселого».</DefaultText>
+      <DefaultText>«Ты смеёшься невесть почему. А здесь нет ничего весёлого».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1791,7 +1791,7 @@
     </Entry>
     <Entry>
       <ID>394</ID>
-      <DefaultText>{Slightly hurt}«Крошечный? Сияющий? {beat, pleased} Принц? О!»</DefaultText>
+      <DefaultText>{Slightly hurt}«Крошечный? Сияющий? {beat, pleased}Принц? О!»</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1806,7 +1806,7 @@
     </Entry>
     <Entry>
       <ID>397</ID>
-      <DefaultText>{As though teaching a pupil}«Никогда. Раздумья замедляют мысли. Я всегда действую, прежде чем думать. А потом действую снова! Если сделать все правильно, думать вообще не придется!»</DefaultText>
+      <DefaultText>{As though teaching a pupil}«Никогда. Раздумья замедляют мысли. Я всегда действую, прежде чем думать. А потом действую снова! Если сделать всё правильно, думать вообще не придётся!»</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -2026,12 +2026,12 @@
     </Entry>
     <Entry>
       <ID>444</ID>
-      <DefaultText>«Ладно, как хочешь. Придется положиться на мое *живое* воображение».</DefaultText>
+      <DefaultText>«Ладно, как хочешь. Придётся положиться на моё *живое* воображение».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>446</ID>
-      <DefaultText>«Так я и думал. Ты был бы более веселым, будь это иначе».</DefaultText>
+      <DefaultText>«Так я и думал. Ты был бы более весёлым, будь это иначе».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -2046,7 +2046,7 @@
     </Entry>
     <Entry>
       <ID>449</ID>
-      <DefaultText>«Ну хорошо. Тогда познакомь меня с одной из своих сестер. Я подожду».</DefaultText>
+      <DefaultText>«Ну хорошо. Тогда познакомь меня с одной из своих сестёр. Я подожду».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
