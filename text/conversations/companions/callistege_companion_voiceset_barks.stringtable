@@ -186,7 +186,7 @@
     </Entry>
     <Entry>
       <ID>37</ID>
-      <DefaultText>«Наши друзья хотят поиграть? Так давай развлечем их».</DefaultText>
+      <DefaultText>«Наши друзья хотят поиграть? Так давай развлечём их».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -196,7 +196,7 @@
     </Entry>
     <Entry>
       <ID>39</ID>
-      <DefaultText>«Вперед, затем к победе!»</DefaultText>
+      <DefaultText>«Тогда вперёд, к победе!»</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -206,7 +206,7 @@
     </Entry>
     <Entry>
       <ID>41</ID>
-      <DefaultText>«Мы не можем позволить ему открыть эту клетку, иначе все потеряно!»</DefaultText>
+      <DefaultText>«Мы не можем позволить ему открыть эту клетку, иначе всё потеряно!»</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -216,7 +216,7 @@
     </Entry>
     <Entry>
       <ID>43</ID>
-      <DefaultText>«Если мы не остановим Мемовиру, вы все умрете. Следи за резонансной камерой!»</DefaultText>
+      <DefaultText>«Если мы не остановим Мемовиру, вы все умрёте. Следи за резонансной камерой!»</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -226,7 +226,7 @@
     </Entry>
     <Entry>
       <ID>45</ID>
-      <DefaultText>{intent, focused, not letting fear take over} «Оглянись вокруг. Твой создатель хорошо строил, и если нам удастся активировать генераторы щита, мы, возможно, выживем».</DefaultText>
+      <DefaultText>{решительно, сосредоточенно, отбрасывая страх}«Оглянись вокруг. Твой создатель хорошо строил, и если нам удастся активировать генераторы щита, мы, возможно, выживем».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -821,12 +821,12 @@
     </Entry>
     <Entry>
       <ID>164</ID>
-      <DefaultText>«Наши знания преумножаются, сестры».</DefaultText>
+      <DefaultText>«Наши знания преумножаются, сёстры».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>165</ID>
-      <DefaultText>«Я устала. Так не пойдет».</DefaultText>
+      <DefaultText>«Я устала. Так не пойдёт».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -836,7 +836,7 @@
     </Entry>
     <Entry>
       <ID>167</ID>
-      <DefaultText>«Это мое».</DefaultText>
+      <DefaultText>«Это моё».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -851,17 +851,17 @@
     </Entry>
     <Entry>
       <ID>170</ID>
-      <DefaultText>«Ты умрешь, тупица».</DefaultText>
+      <DefaultText>«Ты умрёшь, тупица».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>171</ID>
-      <DefaultText>«Тебя от меня ничего не спасет».</DefaultText>
+      <DefaultText>«Тебя от меня ничего не спасёт».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>172</ID>
-      <DefaultText>«Ты умрешь, и точка».</DefaultText>
+      <DefaultText>«Ты умрёшь, и точка».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -941,8 +941,8 @@
     </Entry>
     <Entry>
       <ID>188</ID>
-      <DefaultText>{urgent}«Идем, отверженный. Скорбь уже у ворот. Мы должны убраться отсюда, и поскорее!»</DefaultText>
-      <FemaleText>{urgent}«Идем, отверженная. Скорбь уже у ворот. Мы должны убраться отсюда, и поскорее!»</FemaleText>
+      <DefaultText>{настойчиво}«Идём, отверженный. Скорбь уже у ворот. Мы должны убраться отсюда и поскорее!»</DefaultText>
+      <FemaleText>{настойчиво}«Идём, отверженная. Скорбь уже у ворот. Мы должны убраться отсюда и поскорее!»</FemaleText>
     </Entry>
     <Entry>
       <ID>189</ID>
@@ -986,7 +986,7 @@
     </Entry>
     <Entry>
       <ID>197</ID>
-      <DefaultText>«Похоже, мы приблизились к нашей цели. Теперь давай найдем выход отсюда».</DefaultText>
+      <DefaultText>«Похоже, мы приблизились к нашей цели. Теперь давай найдём выход отсюда».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -996,8 +996,8 @@
     </Entry>
     <Entry>
       <ID>199</ID>
-      <DefaultText>«Ее смерть на твоей совести, отверженный».</DefaultText>
-      <FemaleText>«Ее смерть на твоей совести, отверженная».</FemaleText>
+      <DefaultText>«Её смерть на твоей совести, отверженный».</DefaultText>
+      <FemaleText>«Её смерть на твоей совести, отверженная».</FemaleText>
     </Entry>
   </Entries>
 </StringTableFile>

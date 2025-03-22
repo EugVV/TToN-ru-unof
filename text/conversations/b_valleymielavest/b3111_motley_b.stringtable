@@ -243,12 +243,12 @@
     </Entry>
     <Entry>
       <ID>48</ID>
-      <DefaultText>[Атака] «Ты убил этих людей. За это тебя ждет смерть».</DefaultText>
+      <DefaultText>[Атака] «Ты убил этих людей. За это тебя ждёт смерть».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>49</ID>
-      <DefaultText>[Атака] «Ты стоишь на моем пути. И поэтому ты умрешь».</DefaultText>
+      <DefaultText>[Атака] «Ты стоишь на моём пути. И поэтому ты умрёшь».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>

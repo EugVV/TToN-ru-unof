@@ -6,7 +6,7 @@
   <Entries>
     <Entry>
       <ID>1</ID>
-      <DefaultText>«Шмотки. Тряпье. Изгибание сухожилий».</DefaultText>
+      <DefaultText>«Шмотки. Тряпьё. Изгибание сухожилий».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -16,17 +16,17 @@
     </Entry>
     <Entry>
       <ID>3</ID>
-      <DefaultText>«Послушайте пение. Кричащий хор. Раны в воздухе, незаживающая короста!»</DefaultText>
+      <DefaultText>«Услышь пение. Кричащий хор. Раны в воздухе, незаживающая короста!»</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>4</ID>
-      <DefaultText>«Он ждет. Он здесь. Он всегда здесь. Давит. Маячит! *Болезнь* кожи!»</DefaultText>
+      <DefaultText>«Он ждёт. Он здесь. Он всегда здесь. Давит. Маячит! *Болезнь* кожи!»</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>5</ID>
-      <DefaultText>«Черные комки в моих венах. В моем горле. В глазах».</DefaultText>
+      <DefaultText>«Чёрные комки в моих венах. В моём горле. В глазах».</DefaultText>
       <FemaleText />
     </Entry>
   </Entries>

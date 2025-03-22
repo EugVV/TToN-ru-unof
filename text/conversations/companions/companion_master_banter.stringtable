@@ -6,7 +6,7 @@
   <Entries>
     <Entry>
       <ID>1</ID>
-      <DefaultText>{snappish}«Постарайся обуздать свой энтузиазм, ладно? Мы тут не в игры играем».</DefaultText>
+      <DefaultText>{резко}«Постарайся обуздать свой энтузиазм, ладно? Мы тут не в игры играем».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -26,7 +26,7 @@
     </Entry>
     <Entry>
       <ID>5</ID>
-      <DefaultText>{a little guilty}«Я… игры? Э-э, нет. *Я* ни во что не играю».</DefaultText>
+      <DefaultText>{слегка виновато}«Я… игры? Э-э, нет. *Я* ни во что не играю».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -161,12 +161,12 @@
     </Entry>
     <Entry>
       <ID>33</ID>
-      <DefaultText>{watery sound}::слрп::</DefaultText>
+      <DefaultText>{слабо}::слрп::</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>34</ID>
-      <DefaultText>{disgusted} «Надеюсь, это было совпадение».</DefaultText>
+      <DefaultText>{с отвращением}«Надеюсь, это было совпадение».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -181,7 +181,7 @@
     </Entry>
     <Entry>
       <ID>38</ID>
-      <DefaultText>«О, да. Я собирала каждую грязную тряпку и крошку черствого хлеба, чтобы заплатить ей».</DefaultText>
+      <DefaultText>«О, да. Я собирала каждую грязную тряпку и крошку чёрствого хлеба, чтобы заплатить ей».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -201,22 +201,22 @@
     </Entry>
     <Entry>
       <ID>42</ID>
-      <DefaultText>«О, да. Женщины. Мужчины. Деньги. Выпивка. Все это очень серьезно».</DefaultText>
+      <DefaultText>«О, да. Женщины. Мужчины. Деньги. Выпивка. Всё это очень серьёзно».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>43</ID>
-      <DefaultText>«А почему нет? Этот мир — шутка, Алигерн. Чем раньше ты это поймешь, тем легче тебе будет».</DefaultText>
+      <DefaultText>«А почему нет? Этот мир — шутка, Алигерн. Чем раньше ты это поймёшь, тем легче тебе будет».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>44</ID>
-      <DefaultText>{Pouts}«Не понимаю, как столько копий Каллистеж заметили это в толпе… самих себя».</DefaultText>
+      <DefaultText>{дуется}«Не понимаю, как столько копий Каллистеж заметили это в толпе… самих себя».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>45</ID>
-      <DefaultText>{trying to be lighthearted}«Я… извиняюсь. А я могу пожертвовать тряпку? На благотворительность?»</DefaultText>
+      <DefaultText>{изображает беззаботность}«Я… извиняюсь. А можно пожертвовать тряпку? На благотворительность?»</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1076,7 +1076,7 @@
     </Entry>
     <Entry>
       <ID>238</ID>
-      <DefaultText>«Тибир, та история, в середине которой ты остановился… Можешь перейти к финалу и рассказать все в обратном порядке?»</DefaultText>
+      <DefaultText>«Тибир, та история, в середине которой ты остановился… можешь перейти к финалу и рассказать всё в обратном порядке?»</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1111,12 +1111,12 @@
     </Entry>
     <Entry>
       <ID>245</ID>
-      <DefaultText>«Идем, Алигерн. Надо двигаться дальше. Шагай чуточку бодрее».</DefaultText>
+      <DefaultText>«Идём, Алигерн. Надо двигаться дальше. Шагай чуточку бодрее».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>246</ID>
-      <DefaultText>«Путешествовать с тобой — все равно что выступать в цирке. Все пялятся на нас».</DefaultText>
+      <DefaultText>«Путешествовать с тобой — всё равно что выступать в цирке. Все на нас пялятся».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1136,7 +1136,7 @@
     </Entry>
     <Entry>
       <ID>250</ID>
-      <DefaultText>«Как тебе удается постоянно быть в хорошем настроении?»</DefaultText>
+      <DefaultText>«Как тебе удаётся постоянно быть в хорошем настроении?»</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1176,7 +1176,7 @@
     </Entry>
     <Entry>
       <ID>258</ID>
-      <DefaultText>«Итак… скука? {mocking, light laugh}На всякий случай напоминаю, что у тебя нет монополии на трагедии».</DefaultText>
+      <DefaultText>«Итак… скука? {с насмешкой}На всякий случай напоминаю, что у тебя нет монополии на трагедии».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1196,7 +1196,7 @@
     </Entry>
     <Entry>
       <ID>262</ID>
-      <DefaultText>{indignant}«Что, ты хочешь, чтобы они делали за тебя разные фокусы?»</DefaultText>
+      <DefaultText>{возмущённо}«Что, ты хочешь, чтобы они делали за тебя разные фокусы?»</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1211,12 +1211,12 @@
     </Entry>
     <Entry>
       <ID>265</ID>
-      <DefaultText>{disbelieving pause}«Я на двести лет старше тебя».</DefaultText>
+      <DefaultText>{скептическая пауза}«Я на двести лет старше тебя».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>266</ID>
-      <DefaultText>«Ты все равно меркнешь в моем свете, дорогуша. Кто будет смотреть на тебя, когда рядом я?»</DefaultText>
+      <DefaultText>«Ты всё равно меркнешь в моём свете, дорогуша. Кто будет смотреть на тебя, когда рядом я?»</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1231,7 +1231,7 @@
     </Entry>
     <Entry>
       <ID>269</ID>
-      <DefaultText>«Все это. Всех *вас*. Из-за вас я ни черта не вижу».</DefaultText>
+      <DefaultText>«Всё это. Всех *вас*. Из-за вас я ни черта не вижу».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -2086,7 +2086,7 @@
     </Entry>
     <Entry>
       <ID>457</ID>
-      <DefaultText>«Тибир, {suddenly cold}это не твоё дело».</DefaultText>
+      <DefaultText>«Тибир, {неожиданно холодно}это не твоё дело».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
