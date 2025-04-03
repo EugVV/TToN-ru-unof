@@ -1246,7 +1246,7 @@
     </Entry>
     <Entry>
       <ID>248</ID>
-      <DefaultText>Обеспечивает улучшение защиты против атак, направленных на Интеллект.</DefaultText>
+      <DefaultText>Обеспечивает улучшение защиты против атак, направленных на интеллект.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1256,17 +1256,17 @@
     </Entry>
     <Entry>
       <ID>250</ID>
-      <DefaultText>Даёт улучшение в задачах на Скорость и меткость.</DefaultText>
+      <DefaultText>Даёт улучшение в задачах на скорость и меткость.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>251</ID>
-      <DefaultText>Усилия по защите — Уровень 1</DefaultText>
+      <DefaultText>Усилия по защите: уровень 1</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>252</ID>
-      <DefaultText>Внимательно следите за последующими атаками. В активном состоянии дает -3 к сложности всех задач по защите.</DefaultText>
+      <DefaultText>Внимательно следите за последующими атаками. В активном состоянии даёт -3 к сложности всех задач по защите.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1336,7 +1336,7 @@
     </Entry>
     <Entry>
       <ID>266</ID>
-      <DefaultText>Отвлеките врагов с помощью взрыва, Оглушив их на 1 раунд.</DefaultText>
+      <DefaultText>Отвлечь врагов с помощью взрыва, оглушив их на 1 раунд.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1351,7 +1351,7 @@
     </Entry>
     <Entry>
       <ID>269</ID>
-      <DefaultText>Мощная незаметная атака, которая дает +4 к повреждениям. Доступно только тогда, когда Мэткина в Скрытом состоянии.</DefaultText>
+      <DefaultText>Мощная незаметная атака, которая даёт +4 к урону. Доступно только тогда, когда Мэткина в скрытом состоянии.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -2361,7 +2361,7 @@
     </Entry>
     <Entry>
       <ID>471</ID>
-      <DefaultText>Увеличивает уровень Здоровья и всех Резервов параметров.</DefaultText>
+      <DefaultText>Увеличивает уровень здоровья и всех резервов параметров.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -2381,7 +2381,7 @@
     </Entry>
     <Entry>
       <ID>475</ID>
-      <DefaultText>Поле, поглощающее энергию, дает 2 к Физической броне.</DefaultText>
+      <DefaultText>Поле, поглощающее энергию, даёт 2 к физической броне.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -2556,7 +2556,7 @@
     </Entry>
     <Entry>
       <ID>510</ID>
-      <DefaultText>В активном состоянии дает -3 к сложности всех задач по защите.</DefaultText>
+      <DefaultText>В активном состоянии даёт -3 к сложности всех задач по защите.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -2566,7 +2566,7 @@
     </Entry>
     <Entry>
       <ID>512</ID>
-      <DefaultText>Попытайтесь обнаружить спрятавшихся врагов или ловушки.</DefaultText>
+      <DefaultText>Попытка обнаружить спрятавшихся врагов или ловушки.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -2576,12 +2576,12 @@
     </Entry>
     <Entry>
       <ID>514</ID>
-      <DefaultText>Создает поле, влияющее на органы чувств, которое мгновенно скрывает пользователя.</DefaultText>
+      <DefaultText>Создаёт поле, влияющее на органы чувств, которое мгновенно скрывает пользователя.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>515</ID>
-      <DefaultText>Поднимите уровень самого низкого Резерва параметров союзника.</DefaultText>
+      <DefaultText>Поднять уровень самого низкого резерва параметров союзника.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -3121,7 +3121,7 @@
     </Entry>
     <Entry>
       <ID>624</ID>
-      <DefaultText>Вы получаете [PassiveEffectsBasic] против врагов с более низкой Инициативностью, чем у Тибира.</DefaultText>
+      <DefaultText>Даёт [PassiveEffectsBasic] против врагов с более низкой инициативой, чем у Тибира.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -3131,7 +3131,7 @@
     </Entry>
     <Entry>
       <ID>626</ID>
-      <DefaultText>Защититесь от атак. Снижает вашу способность к уклонению, но увеличивает степень поглощения урона броней. В активном состоянии дает +3 к Физической броне, +3 к сложности Ускоренной защиты.</DefaultText>
+      <DefaultText>Защититься от атак. Снижает способность к уклонению, но увеличивает степень поглощения урона бронёй. В активном состоянии даёт +3 к физической броне, +3 к сложности Ускоренной защиты.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -3141,7 +3141,7 @@
     </Entry>
     <Entry>
       <ID>628</ID>
-      <DefaultText>Вы получаете [StatModifiers], если держите что-то в левой руке.</DefaultText>
+      <DefaultText>Даёт [StatModifiers], если держать что-то в левой руке.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -6011,7 +6011,7 @@
     </Entry>
     <Entry>
       <ID>1202</ID>
-      <DefaultText>При попадании дает состояние [Fettles] (заставляет цель сражаться на вашей стороне).</DefaultText>
+      <DefaultText>При попадании даёт состояние [Fettles] (заставляет цель сражаться на вашей стороне).</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -6046,7 +6046,7 @@
     </Entry>
     <Entry>
       <ID>1209</ID>
-      <DefaultText>Дает эффект [Fettles] ([FettleEffectsBasic])</DefaultText>
+      <DefaultText>Даёт эффект [Fettles] ([FettleEffectsBasic])</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -6056,7 +6056,7 @@
     </Entry>
     <Entry>
       <ID>1211</ID>
-      <DefaultText>[Healing], дает состояние [Fettles] ([FettleEffectsBasic])</DefaultText>
+      <DefaultText>[Healing], даёт состояние [Fettles] ([FettleEffectsBasic])</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>

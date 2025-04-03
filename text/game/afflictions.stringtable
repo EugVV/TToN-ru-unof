@@ -761,7 +761,7 @@
     </Entry>
     <Entry>
       <ID>151</ID>
-      <DefaultText>Преобразует весь наносимый урон в [DamageIcon: Mental][Color: Mental]ментальный[/Color] и дает [PassiveEffectsBasic]</DefaultText>
+      <DefaultText>Преобразует весь наносимый урон в [DamageIcon: Mental][Color: Mental]ментальный[/Color] и даёт [PassiveEffectsBasic]</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>

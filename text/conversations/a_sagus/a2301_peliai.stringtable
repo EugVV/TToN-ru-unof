@@ -1097,7 +1097,7 @@
     </Entry>
     <Entry>
       <ID>227</ID>
-      <DefaultText>Пелиай сухо улыбается: «Я дам [Global: a2301_StichusEggsPeliai] шинов, и не больше. Не наглей».</DefaultText>
+      <DefaultText>Пелиай сухо улыбается: «Я дам [Global: a2301_StichusEggsPeliai] шинов и не больше. Не наглей».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1109,7 +1109,7 @@
       <ID>230</ID>
       <DefaultText>«Рада, что мы пришли к соглашению».
 
-Пелиай забирает яйца и взамен дает [Global: a2301_StichusEggsPeliai] шинов.</DefaultText>
+Пелиай забирает яйца и взамен даёт [Global: a2301_StichusEggsPeliai] шинов.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1575,7 +1575,7 @@
     </Entry>
     <Entry>
       <ID>316</ID>
-      <DefaultText>Пелиай сухо улыбается: «Я дам [Global: a2301_StichusEggsPeliai] шинов, и не больше. Не наглей».</DefaultText>
+      <DefaultText>Пелиай сухо улыбается: «Я дам [Global: a2301_StichusEggsPeliai] шинов и не больше. Не наглей».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1587,14 +1587,14 @@
       <ID>318</ID>
       <DefaultText>«Рада, что мы сумели договориться».
 
-Пелиай забирает яйца и взамен дает [Global: a2301_StichusEggsPeliai] шинов.
+Пелиай забирает яйца и взамен даёт [Global: a2301_StichusEggsPeliai] шинов.
 
 {LOOT: PARTIAL REWARD}</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>319</ID>
-      <DefaultText>«Теперь… Не отдашь ли мне яйца, чтобы у нас была хоть какая-то гарантия того, что стихусы не вернутся?»
+      <DefaultText>«Теперь… не отдашь ли мне яйца, чтобы у нас была хоть какая-то гарантия того, что стихусы не вернутся?»
 
 Пелиай выжидательно протягивает руку.</DefaultText>
       <FemaleText />
@@ -2180,7 +2180,7 @@
     </Entry>
     <Entry>
       <ID>437</ID>
-      <DefaultText>«Я веду дипломатические переговоры от лица города. К сожалению, я имею дело с *неразумными* существами», — Пелиай раздраженно трясет гребнем. — «Никаких подвижек. Сижу в этом туннеле уже несколько дней, а результатов *ноль*».</DefaultText>
+      <DefaultText>«Я веду дипломатические переговоры от лица города. К сожалению, я имею дело с *неразумными* существами», — Пелиай раздражённо трясёт гребнем. — «Никаких подвижек. Сижу в этом туннеле уже несколько дней, а результатов *ноль*».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
