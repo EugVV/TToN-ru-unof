@@ -381,7 +381,7 @@
     </Entry>
     <Entry>
       <ID>76</ID>
-      <DefaultText>{through gritted teeth}«Со мной все будет хорошо».</DefaultText>
+      <DefaultText>{сквозь сжатые зубы}«Со мной всё будет хорошо».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -401,7 +401,7 @@
     </Entry>
     <Entry>
       <ID>80</ID>
-      <DefaultText>«Должен признать, они проделали серьезную работу в городе».</DefaultText>
+      <DefaultText>«Должен признать, они проделали серьёзную работу в городе».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -421,7 +421,7 @@
     </Entry>
     <Entry>
       <ID>84</ID>
-      <DefaultText>«С тех пор, как я узнал об этом, я старался держаться подальше от этого места».</DefaultText>
+      <DefaultText>«С тех пор, как узнал об этом, я старался держаться подальше от этого места».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -2746,17 +2746,17 @@
     </Entry>
     <Entry>
       <ID>549</ID>
-      <DefaultText>«Я окружен!{heroically satisfied}Отлично!»</DefaultText>
+      <DefaultText>«Я окружён! {с героическим удовлетворением}Отлично!»</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>550</ID>
-      <DefaultText>{excited}«Смотри! Все шансы сложились против меня!»</DefaultText>
+      <DefaultText>{возбуждённо}«Смотри! Все шансы сложились против меня!»</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>551</ID>
-      <DefaultText>«Может, мы и ранены, но мы будем сражаться до последнего вздоха!{suddenly uncertain} Разве нет?»</DefaultText>
+      <DefaultText>«Может, мы и ранены, но будем сражаться до последнего вздоха! {внезапно неуверенно}Разве нет?»</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -2766,12 +2766,12 @@
     </Entry>
     <Entry>
       <ID>553</ID>
-      <DefaultText>{weakening, still cheerful}«Более слабый герой уже был бы мертв!»</DefaultText>
+      <DefaultText>{ослабленно, но всё же весело}«Более слабый герой уже был бы мёртв!»</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>554</ID>
-      <DefaultText>{weakening}«Эй! Кто постоянно закрывает мне глаза?»</DefaultText>
+      <DefaultText>{ослабленно}«Эй! Кто постоянно закрывает мне глаза?»</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -4291,12 +4291,12 @@
     </Entry>
     <Entry>
       <ID>858</ID>
-      <DefaultText>«Мои воспоминания из детства очень… странные. Но четкие».</DefaultText>
+      <DefaultText>«Мои воспоминания из детства очень… странные. Но чёткие».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>859</ID>
-      <DefaultText>«Ого! Это серьезнее, чем я думала. Нужна помощь?»</DefaultText>
+      <DefaultText>«Ого! Это серьёзнее, чем я думала. Нужна помощь?»</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -4351,7 +4351,7 @@
     </Entry>
     <Entry>
       <ID>870</ID>
-      <DefaultText>«Нет! Стой. {Laughs}Чуть не забыла: всё будет в порядке».</DefaultText>
+      <DefaultText>«Нет! Стой. {Смеётся}Чуть не забыла: всё будет в порядке».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -4366,7 +4366,7 @@
     </Entry>
     <Entry>
       <ID>873</ID>
-      <DefaultText>{Sad}«Я подвела тебя, дружище».</DefaultText>
+      <DefaultText>{С досадой}«Я подвела тебя, дружище».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -5198,22 +5198,22 @@
     </Entry>
     <Entry>
       <ID>1039</ID>
-      <DefaultText>«Это… Самое странное место, где я когда-либо бывала».</DefaultText>
+      <DefaultText>«Это… самое странное место, где я когда-либо бывала».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>1040</ID>
-      <DefaultText>«Это *сам* монстр или мы находимся *в* монстре, или…»</DefaultText>
+      <DefaultText>«Это *сам* монстр, или мы находимся *в* монстре, или…»</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>1041</ID>
-      <DefaultText>«Ух, я только что во что-то наступила. А, нет, это всего лишь пол».</DefaultText>
+      <DefaultText>«Фу, я только что во что-то наступила. А, нет, это всего лишь пол».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>1042</ID>
-      <DefaultText>«Такое отвратительное место, что в нем есть нечто… знакомое».</DefaultText>
+      <DefaultText>«Такое отвратительное место, что в нём есть нечто… знакомое».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -5223,12 +5223,12 @@
     </Entry>
     <Entry>
       <ID>1044</ID>
-      <DefaultText>«Все такое… мертвое».</DefaultText>
+      <DefaultText>«Всё такое… мёртвое».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>1045</ID>
-      <DefaultText>«Мне не нравится, что рядом находится столько мертвых людей».</DefaultText>
+      <DefaultText>«Мне не нравится, что рядом столько мёртвых».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>

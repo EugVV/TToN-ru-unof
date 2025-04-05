@@ -381,7 +381,7 @@
     </Entry>
     <Entry>
       <ID>76</ID>
-      <DefaultText>{through gritted teeth}«Со мной все будет хорошо».</DefaultText>
+      <DefaultText>{сквозь сжатые зубы}«Со мной всё будет хорошо».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -401,7 +401,7 @@
     </Entry>
     <Entry>
       <ID>80</ID>
-      <DefaultText>«Должен признать, они проделали серьезную работу в городе».</DefaultText>
+      <DefaultText>«Должен признать, они проделали серьёзную работу в городе».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -416,7 +416,7 @@
     </Entry>
     <Entry>
       <ID>83</ID>
-      <DefaultText>«С тех пор, как я узнал об этом, я старался держаться подальше от этого места».</DefaultText>
+      <DefaultText>«С тех пор, как узнал об этом, я старался держаться подальше от этого места».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -461,7 +461,7 @@
     </Entry>
     <Entry>
       <ID>92</ID>
-      <DefaultText>{short, sharp} «Ха!»</DefaultText>
+      <DefaultText>{резко} «Ха!»</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
