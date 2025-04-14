@@ -486,12 +486,12 @@
     </Entry>
     <Entry>
       <ID>97</ID>
-      <DefaultText>«С тобой все в порядке? Ох, нет, не все».</DefaultText>
+      <DefaultText>«С тобой всё в порядке? Ох, нет, не всё».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>98</ID>
-      <DefaultText>«Надеюсь, что он счастлив там, куда отправился».</DefaultText>
+      <DefaultText>«Надеюсь, он счастлив там, куда отправился».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -501,7 +501,7 @@
     </Entry>
     <Entry>
       <ID>100</ID>
-      <DefaultText>«Бедняга… Давай обыщем его карманы, вдруг что на память найдем».</DefaultText>
+      <DefaultText>«Бедняга. Давай обыщем его карманы, вдруг что на память найдём».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -526,7 +526,7 @@
     </Entry>
     <Entry>
       <ID>105</ID>
-      <DefaultText>«Ох. Вот и все, да?»</DefaultText>
+      <DefaultText>«Ох. Вот и всё, да?»</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -536,7 +536,7 @@
     </Entry>
     <Entry>
       <ID>107</ID>
-      <DefaultText>«Кажется… Кажется, все».</DefaultText>
+      <DefaultText>«Кажется… кажется, всё».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -551,7 +551,7 @@
     </Entry>
     <Entry>
       <ID>110</ID>
-      <DefaultText>«А, хорошо. Ты больше не мертвый».</DefaultText>
+      <DefaultText>«А, хорошо. Ты больше не мёртвый».</DefaultText>
       <FemaleText>«А, хорошо. Ты больше не мёртвая».</FemaleText>
     </Entry>
     <Entry>

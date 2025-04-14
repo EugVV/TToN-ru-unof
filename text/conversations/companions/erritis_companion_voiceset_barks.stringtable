@@ -771,7 +771,7 @@
     </Entry>
     <Entry>
       <ID>154</ID>
-      <DefaultText>{Slowly, as if not sure what to make of this new feeling}«Странно… Мне тут одна идея пришла».</DefaultText>
+      <DefaultText>{Медленно, словно не зная, как быть с новым чувством}«Странно… мне тут одна идея пришла».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -781,17 +781,17 @@
     </Entry>
     <Entry>
       <ID>156</ID>
-      <DefaultText>«Я окружен!{heroically satisfied}Отлично!»</DefaultText>
+      <DefaultText>«Я окружён! {с героическим удовлетворением}Отлично!»</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>157</ID>
-      <DefaultText>{excited}«Смотри! Все шансы сложились против меня!»</DefaultText>
+      <DefaultText>{возбуждённо}«Смотри! Все шансы сложились против меня!»</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>158</ID>
-      <DefaultText>«Может, мы и ранены, но мы будем сражаться до последнего вздоха!{suddenly uncertain} Разве нет?»</DefaultText>
+      <DefaultText>«Может, мы и ранены, но будем сражаться до последнего вздоха! {внезапно неуверенно}Разве нет?»</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -801,12 +801,12 @@
     </Entry>
     <Entry>
       <ID>160</ID>
-      <DefaultText>{weakening, still cheerful}«Более слабый герой уже был бы мертв!»</DefaultText>
+      <DefaultText>{ослабленно, но всё же весело}«Более слабый герой уже был бы мёртв!»</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>161</ID>
-      <DefaultText>{weakening}«Эй! Кто постоянно закрывает мне глаза?»</DefaultText>
+      <DefaultText>{ослабленно}«Эй! Кто постоянно закрывает мне глаза?»</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
