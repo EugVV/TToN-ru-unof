@@ -6,12 +6,12 @@
   <Entries>
     <Entry>
       <ID>1</ID>
-      <DefaultText>«На риф упала звезда! Сотни людей наблюдали сие явление!»</DefaultText>
+      <DefaultText>«На риф упала звезда! Явление наблюдали сотни свидетелей!»</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>2</ID>
-      <DefaultText>«Зверское убийство в Подбрюшье! Убийца неизвестен, и до сих пор на свободе!»</DefaultText>
+      <DefaultText>«Зверское убийство в Подбрюшье! Убийца неизвестен… и до сих пор на свободе!»</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -21,7 +21,7 @@
     </Entry>
     <Entry>
       <ID>4</ID>
-      <DefaultText>«Очередное убийство в Подбрюшье! От жертвы осталась лишь освежеванная рука!»</DefaultText>
+      <DefaultText>«Очередное убийство в Подбрюшье! От жертвы осталась лишь освежёванная рука!»</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -31,7 +31,7 @@
     </Entry>
     <Entry>
       <ID>6</ID>
-      <DefaultText>«Правосудие свершилось! Предатель Рис мертв!»</DefaultText>
+      <DefaultText>«Правосудие свершилось! Предатель Рис мёртв!»</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -41,7 +41,7 @@
     </Entry>
     <Entry>
       <ID>8</ID>
-      <DefaultText>«По приказу Совета, наемник, называющий себя Тибиром, разыскивается для допроса по обвинению в государственной измене!»</DefaultText>
+      <DefaultText>«По приказу Совета наёмник, называющий себя Тибиром, разыскивается для допроса по обвинению в государственной измене!»</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>

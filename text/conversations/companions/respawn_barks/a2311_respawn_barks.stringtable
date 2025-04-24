@@ -16,8 +16,8 @@
     </Entry>
     <Entry>
       <ID>3</ID>
-      <DefaultText>«Ты дурак. Ты бы мог спасти себя — и нас — от многих неприятностей».</DefaultText>
-      <FemaleText />
+      <DefaultText>«Дурак. Ты мог бы избавить себя — и нас — от многих неприятностей».</DefaultText>
+      <FemaleText>«Дура. Ты могла бы избавить себя — и нас — от многих неприятностей».</FemaleText>
     </Entry>
     <Entry>
       <ID>4</ID>
@@ -26,8 +26,8 @@
     </Entry>
     <Entry>
       <ID>5</ID>
-      <DefaultText>«Вставай. Тебе нужно идти, прежде чем эта банда не поймет, что ты не мертв».</DefaultText>
-      <FemaleText />
+      <DefaultText>«Вставай. Нужно идти, прежде чем эта банда поймёт, что ты не мёртв».</DefaultText>
+      <FemaleText>«Вставай. Нужно идти, прежде чем эта банда поймёт, что ты не мертва».</FemaleText>
     </Entry>
   </Entries>
 </StringTableFile>

@@ -826,7 +826,7 @@
     </Entry>
     <Entry>
       <ID>165</ID>
-      <DefaultText>{Phew}«Я себя чувствую немного потускневшим».</DefaultText>
+      <DefaultText>{Устало}«Я себя чувствую немного потускневшим».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -836,12 +836,12 @@
     </Entry>
     <Entry>
       <ID>167</ID>
-      <DefaultText>{slightly hurt}«Эй, это моё!»</DefaultText>
+      <DefaultText>{с лёгкой обидой}«Эй, это моё!»</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>168</ID>
-      <DefaultText>«Мне это нужно, чтобы выстоять в тяжелые времена!»</DefaultText>
+      <DefaultText>«Мне это нужно, чтобы выстоять в тяжёлые времена!»</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -936,7 +936,7 @@
     </Entry>
     <Entry>
       <ID>187</ID>
-      <DefaultText>{fond}«Ты водишь меня по таким прекрасным местам».</DefaultText>
+      <DefaultText>{с обожанием}«Ты водишь меня по таким прекрасным местам».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -956,7 +956,7 @@
     </Entry>
     <Entry>
       <ID>191</ID>
-      <DefaultText>{stage whisper}«Думаю, мы им не особо приглянулись».</DefaultText>
+      <DefaultText>{театральным шёпотом}«Думаю, мы им не особо приглянулись».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -981,7 +981,7 @@
     </Entry>
     <Entry>
       <ID>196</ID>
-      <DefaultText>{casually}«Надеюсь, у меня тоже когда-нибудь будет надгробье. Большое».</DefaultText>
+      <DefaultText>{мимоходом}«Надеюсь, у меня тоже когда-нибудь будет надгробье. Большое».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
