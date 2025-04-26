@@ -12,7 +12,7 @@
     <Entry>
       <ID>2</ID>
       <DefaultText>«Ты потерялся, малыш-отверженный?»</DefaultText>
-      <FemaleText />
+      <FemaleText>«Ты потерялась, малыш-отверженная?»</FemaleText>
     </Entry>
   </Entries>
 </StringTableFile>
