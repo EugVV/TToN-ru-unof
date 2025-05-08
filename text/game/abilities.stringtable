@@ -4641,12 +4641,12 @@
     </Entry>
     <Entry>
       <ID>928</ID>
-      <DefaultText>Солдат, который не умеет уклоняться от ударов, долго не живет. Тибир имеет навык Ускоренной защиты.</DefaultText>
+      <DefaultText>Солдат, который не умеет уклоняться от ударов, долго не живёт. Тибир имеет навык ускоренной защиты.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>929</ID>
-      <DefaultText>Вы получаете [PassiveEffectsBasic].</DefaultText>
+      <DefaultText>Даёт [PassiveEffectsBasic].</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -6171,7 +6171,7 @@
     </Entry>
     <Entry>
       <ID>1234</ID>
-      <DefaultText>Сосредоточенность. Усилие. Точность. Это ваш девиз, и вы применяете его каждый раз, когда идете в атаку.</DefaultText>
+      <DefaultText>Сосредоточенность. Усилие. Точность. Это ваш девиз, и вы применяете его каждый раз, когда идёте в атаку.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -6186,7 +6186,7 @@
     </Entry>
     <Entry>
       <ID>1237</ID>
-      <DefaultText>Даже если вы ослепнете и окажетесь в незнакомом месте, вы все равно поразите цель. Вы настолько хороши.</DefaultText>
+      <DefaultText>Даже если вы ослепнете и окажетесь в незнакомом месте, вы всё равно поразите цель. Вы настолько хороши.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>

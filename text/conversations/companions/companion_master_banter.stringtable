@@ -1386,7 +1386,7 @@
     </Entry>
     <Entry>
       <ID>312</ID>
-      <DefaultText>{incredulous} «Ты пользуешься духами?»</DefaultText>
+      <DefaultText>{недоверчиво}«Ты пользуешься духами?»</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1411,7 +1411,7 @@
     </Entry>
     <Entry>
       <ID>317</ID>
-      <DefaultText>«Немного аромата — да. Но от тебя несет так, будто ты плавал в бассейне с духами».</DefaultText>
+      <DefaultText>«Немного аромата — да. Но от тебя несёт так, будто ты плавал в бассейне с духами».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>

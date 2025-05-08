@@ -6,7 +6,7 @@
   <Entries>
     <Entry>
       <ID>1</ID>
-      <DefaultText>«Ты тоже не идешь в эту экспедицию, не так ли?»</DefaultText>
+      <DefaultText>«Ты тоже не идёшь в эту экспедицию, не так ли?»</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -16,7 +16,7 @@
     </Entry>
     <Entry>
       <ID>3</ID>
-      <DefaultText>«Они собираются привести нас в какие-то Богом забытые руины. Потом они просто улетят оттуда, когда нас сожрут заживо».</DefaultText>
+      <DefaultText>«Они собираются привести нас в какие-то богом забытые руины. Потом они просто улетят оттуда, когда нас сожрут заживо».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -26,7 +26,7 @@
     </Entry>
     <Entry>
       <ID>5</ID>
-      <DefaultText>«Возможно, корабль потерпит крушение. Как мы спасемся, если не умеем летать?»</DefaultText>
+      <DefaultText>«Возможно, корабль потерпит крушение. Как мы спасёмся, если не умеем летать?»</DefaultText>
       <FemaleText />
     </Entry>
   </Entries>

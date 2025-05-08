@@ -3131,7 +3131,7 @@
     </Entry>
     <Entry>
       <ID>626</ID>
-      <DefaultText>«Проберись внутри под клапанами. Это и есть ключ. Вперед!»</DefaultText>
+      <DefaultText>«Проберись внутри под клапанами. Это и есть ключ. Вперёд!»</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -3151,7 +3151,7 @@
     </Entry>
     <Entry>
       <ID>630</ID>
-      <DefaultText>«Твоя смерть идет за тобой».</DefaultText>
+      <DefaultText>«Твоя смерть идёт за тобой».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -3161,7 +3161,7 @@
     </Entry>
     <Entry>
       <ID>632</ID>
-      <DefaultText>«Не подпускай его к клетке. Наш создатель *не* убьет меня!»</DefaultText>
+      <DefaultText>«Не подпускай его к клетке. Наш создатель *не* убьёт меня!»</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -3181,7 +3181,7 @@
     </Entry>
     <Entry>
       <ID>636</ID>
-      <DefaultText>{terrified, urgent} «Просыпайся! Просыпайся! Скорбь здесь! Доберись до генераторов щита!»</DefaultText>
+      <DefaultText>{испуганно, поспешно}«Просыпайся! Просыпайся! Скорбь здесь! Доберись до генераторов щита!»</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -3656,7 +3656,7 @@
     </Entry>
     <Entry>
       <ID>731</ID>
-      <DefaultText>«Идем!»</DefaultText>
+      <DefaultText>«Идём!»</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -3946,7 +3946,7 @@
     </Entry>
     <Entry>
       <ID>789</ID>
-      <DefaultText>«Только глянь на этих двоих. Совершенно не отдают себе отчет, к чему приведет их гордыня».</DefaultText>
+      <DefaultText>«Только глянь на этих двоих. Совершенно не отдают себе отчёт, к чему приведёт их гордыня».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -3956,12 +3956,12 @@
     </Entry>
     <Entry>
       <ID>791</ID>
-      <DefaultText>«Ладно. Идем».</DefaultText>
+      <DefaultText>«Ладно. Идём».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>792</ID>
-      <DefaultText>«Идем, Аль. Покажем им, чему мы научились».</DefaultText>
+      <DefaultText>«Идём, Аль. Покажем им, чему мы научились».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -3976,12 +3976,12 @@
     </Entry>
     <Entry>
       <ID>795</ID>
-      <DefaultText>«Для тебя? Все, что угодно».</DefaultText>
+      <DefaultText>«Для тебя? Всё что угодно».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>796</ID>
-      <DefaultText>«Все, что тебе угодно».</DefaultText>
+      <DefaultText>«Всё, что тебе угодно».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>

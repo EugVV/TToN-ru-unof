@@ -176,7 +176,7 @@
     </Entry>
     <Entry>
       <ID>35</ID>
-      <DefaultText>«Проберись внутри под клапанами. Это и есть ключ. Вперед!»</DefaultText>
+      <DefaultText>«Проберись внутри под клапанами. Это и есть ключ. Вперёд!»</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -196,7 +196,7 @@
     </Entry>
     <Entry>
       <ID>39</ID>
-      <DefaultText>«Твоя смерть идет за тобой».</DefaultText>
+      <DefaultText>«Твоя смерть идёт за тобой».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -206,7 +206,7 @@
     </Entry>
     <Entry>
       <ID>41</ID>
-      <DefaultText>«Не подпускай его к клетке. Наш создатель *не* убьет меня!»</DefaultText>
+      <DefaultText>«Не подпускай его к клетке. Наш создатель *не* убьёт меня!»</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -226,7 +226,7 @@
     </Entry>
     <Entry>
       <ID>45</ID>
-      <DefaultText>{terrified, urgent} «Просыпайся! Просыпайся! Скорбь здесь! Доберись до генераторов щита!»</DefaultText>
+      <DefaultText>{испуганно, поспешно}«Просыпайся! Просыпайся! Скорбь здесь! Доберись до генераторов щита!»</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -701,7 +701,7 @@
     </Entry>
     <Entry>
       <ID>140</ID>
-      <DefaultText>«Идем!»</DefaultText>
+      <DefaultText>«Идём!»</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
