@@ -189,12 +189,12 @@
       <ID>36</ID>
       <DefaultText>«Ну, я никогда не готов биться насмерть», — говорит Тибир. — «А кто готов?»
 
-Он достает оружие.</DefaultText>
+Он достаёт оружие.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>37</ID>
-      <DefaultText>«Успокойся, Эрритис. В чем дело?»</DefaultText>
+      <DefaultText>«Успокойся, Эрритис. В чём дело?»</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -204,7 +204,7 @@
     </Entry>
     <Entry>
       <ID>39</ID>
-      <DefaultText>«Сдохните, вшивые трусливые пташки, ворующие чужие штаны!» — ревет Эрритис, бросаясь в атаку.</DefaultText>
+      <DefaultText>«Сдохните, вшивые трусливые пташки, ворующие чужие штаны!» — ревёт Эрритис, бросаясь в атаку.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
