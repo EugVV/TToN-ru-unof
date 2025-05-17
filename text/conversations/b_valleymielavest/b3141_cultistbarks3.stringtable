@@ -21,7 +21,7 @@
     </Entry>
     <Entry>
       <ID>9</ID>
-      <DefaultText>«Лорд Инифир зовет!»</DefaultText>
+      <DefaultText>«Лорд Инифир зовёт!»</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -31,7 +31,7 @@
     </Entry>
     <Entry>
       <ID>11</ID>
-      <DefaultText>«Какая слава ждет нас?»</DefaultText>
+      <DefaultText>«Какая слава ждёт нас?»</DefaultText>
       <FemaleText />
     </Entry>
   </Entries>

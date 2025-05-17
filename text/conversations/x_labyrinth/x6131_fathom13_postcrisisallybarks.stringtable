@@ -6,7 +6,7 @@
   <Entries>
     <Entry>
       <ID>1</ID>
-      <DefaultText>Так вот ради чего все было? Открывай. Наc ждет наша судьба.</DefaultText>
+      <DefaultText>Так вот ради чего всё было? Открывай. Наc ждёт наша судьба.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -31,22 +31,22 @@
     </Entry>
     <Entry>
       <ID>6</ID>
-      <DefaultText>Не знаю насчет тебя, а я хочу домой. Нам в ту дверь, да?</DefaultText>
+      <DefaultText>Не знаю насчёт тебя, а я хочу домой. Нам в ту дверь, да?</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>7</ID>
-      <DefaultText>Так вот зачем наш создатель охотился все это время… Открывай! Давай посмотрим, стоило ли оно того.</DefaultText>
+      <DefaultText>Так вот зачем наш создатель охотился всё это время… Открывай! Давай посмотрим, стоило ли оно того.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>8</ID>
-      <DefaultText>Последняя дверь… Если я забыл упомянуть, это было моим *лучшим* приключением. Повезло тебе.</DefaultText>
+      <DefaultText>Последняя дверь… если я забыл упомянуть, это было моим *лучшим* приключением. Повезло тебе.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>9</ID>
-      <DefaultText>Значит… Эта дверь вернет нас домой? Надеюсь, так и будет.</DefaultText>
+      <DefaultText>Значит… эта дверь вернёт нас домой? Надеюсь, так и будет.</DefaultText>
       <FemaleText />
     </Entry>
   </Entries>

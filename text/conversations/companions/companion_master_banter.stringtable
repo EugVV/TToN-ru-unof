@@ -1516,7 +1516,7 @@
     </Entry>
     <Entry>
       <ID>339</ID>
-      <DefaultText>{grouchy}«Я устала. Мне хочется остановиться».</DefaultText>
+      <DefaultText>{ворчливо}«Я устала. Мне хочется остановиться».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1531,12 +1531,12 @@
     </Entry>
     <Entry>
       <ID>342</ID>
-      <DefaultText>«Я наблюдаю за тобой, когда ты думаешь, что никто не смотрит. В такие моменты ты перестаешь улыбаться».</DefaultText>
+      <DefaultText>«Я наблюдаю за тобой, когда ты думаешь, что никто не смотрит. В такие моменты ты перестаёшь улыбаться».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>343</ID>
-      <DefaultText>{Quietly}«Ал мечтает научиться прятаться от тебя».</DefaultText>
+      <DefaultText>{Тихо}«Ал мечтает научиться прятаться от тебя».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1551,7 +1551,7 @@
     </Entry>
     <Entry>
       <ID>346</ID>
-      <DefaultText>«Алигерн, иди рядом со мной. Слушай, а что делали сестры Каллистеж, пока вы двое были наедине?»</DefaultText>
+      <DefaultText>«Алигерн, иди рядом со мной. Слушай, а что делали сёстры Каллистеж, пока вы двое были наедине?»</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>

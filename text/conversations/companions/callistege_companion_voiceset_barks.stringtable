@@ -541,7 +541,7 @@
     </Entry>
     <Entry>
       <ID>108</ID>
-      <DefaultText>{droll}«Как жаль, что Тибира нет с нами. Чем бы мы ни занялись».</DefaultText>
+      <DefaultText>{шутливо}«Как жаль, что Тибира нет с нами. Чем бы мы ни занялись».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -556,7 +556,7 @@
     </Entry>
     <Entry>
       <ID>111</ID>
-      <DefaultText>«Идем, хватит мешкать. Впереди нас ждет целый мир!»</DefaultText>
+      <DefaultText>«Идём, хватит мешкать. Впереди нас ждёт целый мир!»</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -641,7 +641,7 @@
     </Entry>
     <Entry>
       <ID>128</ID>
-      <DefaultText>«Исключено… Просто исключено. Я так помирать не собираюсь».</DefaultText>
+      <DefaultText>«Исключено… просто исключено. Я так помирать не собираюсь».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
