@@ -515,7 +515,7 @@
     </Entry>
     <Entry>
       <ID>93</ID>
-      <DefaultText>Они с тревогой ждут, пока вы разберетесь с пилотирующим устройством.</DefaultText>
+      <DefaultText>Они с тревогой ждут, пока вы разберётесь с пилотирующим устройством.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -555,7 +555,7 @@
     </Entry>
     <Entry>
       <ID>101</ID>
-      <DefaultText>Они нападают на вас, и убивают.</DefaultText>
+      <DefaultText>Они нападают на вас и убивают.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -595,7 +595,7 @@
     </Entry>
     <Entry>
       <ID>110</ID>
-      <DefaultText>Вы оказываетесь в открытом космосе, и тут же умираете.</DefaultText>
+      <DefaultText>Вы оказываетесь в открытом космосе и тут же умираете.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>

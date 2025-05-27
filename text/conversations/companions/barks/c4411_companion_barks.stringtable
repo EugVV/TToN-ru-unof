@@ -26,7 +26,7 @@
     </Entry>
     <Entry>
       <ID>5</ID>
-      <DefaultText>«Невозможно предсказать, чем все обернется».</DefaultText>
+      <DefaultText>«Невозможно предсказать, чем всё обернётся».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -71,7 +71,7 @@
     </Entry>
     <Entry>
       <ID>14</ID>
-      <DefaultText>«Надеюсь, выбраться отсюда будет не сложнее, чем сюда попасть».</DefaultText>
+      <DefaultText>«Надеюсь, выбраться отсюда будет не сложнее, чем попасть».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -106,7 +106,7 @@
     </Entry>
     <Entry>
       <ID>21</ID>
-      <DefaultText>«Вполне вероятно, что где-то внизу мы найдем голого великана. Жду *не дождусь*».</DefaultText>
+      <DefaultText>«Значит, мы вполне можем найти внизу голого великана».</DefaultText>
       <FemaleText />
     </Entry>
   </Entries>
