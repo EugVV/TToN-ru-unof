@@ -6,12 +6,12 @@
   <Entries>
     <Entry>
       <ID>1</ID>
-      <DefaultText>«Я служу пророку Дорану. Поговори лучше с *ним*».</DefaultText>
+      <DefaultText>«Я служу пророку Дорану. Говори с *ним*, не со мной».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>2</ID>
-      <DefaultText>::сердите смотрит::</DefaultText>
+      <DefaultText>::сердито смотрит::</DefaultText>
       <FemaleText />
     </Entry>
   </Entries>
