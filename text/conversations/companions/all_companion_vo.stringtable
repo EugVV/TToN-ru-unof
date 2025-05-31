@@ -1961,7 +1961,7 @@
     </Entry>
     <Entry>
       <ID>392</ID>
-      <DefaultText>«Похоже, мы приблизились к нашей цели. Теперь давай найдем выход отсюда».</DefaultText>
+      <DefaultText>«Похоже, мы приблизились к нашей цели. Теперь давай найдём выход отсюда».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1976,7 +1976,7 @@
     </Entry>
     <Entry>
       <ID>395</ID>
-      <DefaultText>«Если хочешь сделать все правильно…»</DefaultText>
+      <DefaultText>«Если хочешь сделать всё правильно…»</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -2016,7 +2016,7 @@
     </Entry>
     <Entry>
       <ID>403</ID>
-      <DefaultText>«Посмотрите вниз! Вверх! {Beat, faltering}По сторонам!»</DefaultText>
+      <DefaultText>«Посмотрите вниз! Вверх! {Устало, нерешительно}По сторонам!»</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -2411,22 +2411,22 @@
     </Entry>
     <Entry>
       <ID>482</ID>
-      <DefaultText>«Так много героев! И так мало известных мне имен!»</DefaultText>
+      <DefaultText>«Так много героев! И так мало известных мне имён!»</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>483</ID>
-      <DefaultText>«Может, здесь найдется бард или министрель, который сможет достойно воспеть мне дифирамбы!»</DefaultText>
+      <DefaultText>«Может, здесь найдётся бард или министрель, который сможет достойно воспеть мне дифирамбы!»</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>484</ID>
-      <DefaultText>«Почему это место такое траурное?{suspicious} Мы должны кого-то оплакивать?»</DefaultText>
+      <DefaultText>«Почему это место такое траурное?{подозрительно} Мы должны кого-то оплакивать?»</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>485</ID>
-      <DefaultText>{Laughs, but does it knowingly as if looking at himself in a mirror}«Почему… Ха-ха-ха-ха. Хa».</DefaultText>
+      <DefaultText>{Смеётся, но осознанно, словно глядит на себя в зеркало}«Почему… ха-ха-ха-ха. Хa».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -2436,17 +2436,17 @@
     </Entry>
     <Entry>
       <ID>487</ID>
-      <DefaultText>«Нет, конечно, нет».</DefaultText>
+      <DefaultText>«Нет. Конечно, нет».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>488</ID>
-      <DefaultText>{chipper}«Извини, но нет!»</DefaultText>
+      <DefaultText>{бодро}«Извини, но нет!»</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>489</ID>
-      <DefaultText>{smiling}«Нет!»</DefaultText>
+      <DefaultText>{с улыбкой}«Нет!»</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -6248,7 +6248,7 @@
     </Entry>
     <Entry>
       <ID>1249</ID>
-      <DefaultText>«Хе, нет».</DefaultText>
+      <DefaultText>«Хе. Нет».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -6258,12 +6258,12 @@
     </Entry>
     <Entry>
       <ID>1251</ID>
-      <DefaultText>«С тобой все в порядке? Ох, нет, не все».</DefaultText>
+      <DefaultText>«С тобой всё в порядке? Ох, нет, не всё».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>1252</ID>
-      <DefaultText>«Надеюсь, что он счастлив там, куда отправился».</DefaultText>
+      <DefaultText>«Надеюсь, он счастлив там, куда отправился».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -6273,7 +6273,7 @@
     </Entry>
     <Entry>
       <ID>1254</ID>
-      <DefaultText>«Бедняга… Давай обыщем его карманы, вдруг что на память найдем».</DefaultText>
+      <DefaultText>«Бедняга. Давай обыщем его карманы, вдруг что на память найдём».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -6298,7 +6298,7 @@
     </Entry>
     <Entry>
       <ID>1259</ID>
-      <DefaultText>«Ох. Вот и все, да?»</DefaultText>
+      <DefaultText>«Ох. Вот и всё, да?»</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -6308,7 +6308,7 @@
     </Entry>
     <Entry>
       <ID>1261</ID>
-      <DefaultText>«Кажется… Кажется, все».</DefaultText>
+      <DefaultText>«Кажется… кажется, всё».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -6773,7 +6773,7 @@
     </Entry>
     <Entry>
       <ID>1354</ID>
-      <DefaultText>{Обеспокоено}«Э-э… не мог бы кто-нибудь подойти сюда? И поскорее?»</DefaultText>
+      <DefaultText>{Обеспокоенно}«Э-э… не мог бы кто-нибудь подойти сюда? И поскорее?»</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>

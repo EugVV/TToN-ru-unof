@@ -51,7 +51,7 @@
     </Entry>
     <Entry>
       <ID>10</ID>
-      <DefaultText>«Посмотрите вниз! Вверх! {Beat, faltering}По сторонам!»</DefaultText>
+      <DefaultText>«Посмотрите вниз! Вверх! {Устало, нерешительно}По сторонам!»</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -446,22 +446,22 @@
     </Entry>
     <Entry>
       <ID>89</ID>
-      <DefaultText>«Так много героев! И так мало известных мне имен!»</DefaultText>
+      <DefaultText>«Так много героев! И так мало известных мне имён!»</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>90</ID>
-      <DefaultText>«Может, здесь найдется бард или министрель, который сможет достойно воспеть мне дифирамбы!»</DefaultText>
+      <DefaultText>«Может, здесь найдётся бард или министрель, который сможет достойно воспеть мне дифирамбы!»</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>91</ID>
-      <DefaultText>«Почему это место такое траурное?{suspicious} Мы должны кого-то оплакивать?»</DefaultText>
+      <DefaultText>«Почему это место такое траурное?{подозрительно} Мы должны кого-то оплакивать?»</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>92</ID>
-      <DefaultText>{Laughs, but does it knowingly as if looking at himself in a mirror}«Почему… Ха-ха-ха-ха. Хa».</DefaultText>
+      <DefaultText>{Смеётся, но осознанно, словно глядит на себя в зеркало}«Почему… ха-ха-ха-ха. Хa».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -471,17 +471,17 @@
     </Entry>
     <Entry>
       <ID>94</ID>
-      <DefaultText>«Нет, конечно, нет».</DefaultText>
+      <DefaultText>«Нет. Конечно, нет».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>95</ID>
-      <DefaultText>{chipper}«Извини, но нет!»</DefaultText>
+      <DefaultText>{бодро}«Извини, но нет!»</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>96</ID>
-      <DefaultText>{smiling}«Нет!»</DefaultText>
+      <DefaultText>{с улыбкой}«Нет!»</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
