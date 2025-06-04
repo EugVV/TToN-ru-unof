@@ -1671,7 +1671,7 @@
     </Entry>
     <Entry>
       <ID>334</ID>
-      <DefaultText>{spritely} «Что ж, *я* чувствую себя лучше».</DefaultText>
+      <DefaultText>{бодро}«Что ж, *я* чувствую себя лучше».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1711,7 +1711,7 @@
     </Entry>
     <Entry>
       <ID>342</ID>
-      <DefaultText>«Ты от меня не уйдешь!»</DefaultText>
+      <DefaultText>«Ты от меня не уйдёшь!»</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1746,7 +1746,7 @@
     </Entry>
     <Entry>
       <ID>349</ID>
-      <DefaultText>«Случай сюда, дорогуша. Я должна кое-что тебе сказать».</DefaultText>
+      <DefaultText>«Слушай сюда, дорогуша. Я должна кое-что тебе сказать».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1756,7 +1756,7 @@
     </Entry>
     <Entry>
       <ID>351</ID>
-      <DefaultText>«Они думают, что окружили меня». {laughs}</DefaultText>
+      <DefaultText>«Они думают, что окружили меня». {смеётся}</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
