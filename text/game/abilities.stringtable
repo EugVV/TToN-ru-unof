@@ -1126,7 +1126,7 @@
     </Entry>
     <Entry>
       <ID>224</ID>
-      <DefaultText>Вложите все силы в неистовые удары режущим оружием.</DefaultText>
+      <DefaultText>Вложить все силы в неистовые удары режущим оружием.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1136,7 +1136,7 @@
     </Entry>
     <Entry>
       <ID>226</ID>
-      <DefaultText>Обрушьте орудие удара на врага с дополнительной яростью.</DefaultText>
+      <DefaultText>Обрушить дробящее оружие на врага с дополнительной яростью.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1146,7 +1146,7 @@
     </Entry>
     <Entry>
       <ID>228</ID>
-      <DefaultText>Выберите тип урона. Нанесите [TotalDamage] выбранного типа и получите небольшой дополнительный эффект в зависимости от вашего выбора.\n\n[DamageFromEffort]</DefaultText>
+      <DefaultText>Позволяет выбрать тип урона. Наносит [TotalDamage] выбранного типа и даёт небольшой дополнительный эффект в зависимости от выбора.\n\n[DamageFromEffort]</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1156,7 +1156,7 @@
     </Entry>
     <Entry>
       <ID>230</ID>
-      <DefaultText>Создайте лезвие психической энергии и используйте его для разрубания врага на куски.</DefaultText>
+      <DefaultText>Создать лезвие психической энергии и использовать его для разрубания врага на куски.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1716,27 +1716,27 @@
     </Entry>
     <Entry>
       <ID>342</ID>
-      <DefaultText>Завершает ход немедленно. Проведите основную атаку против первого начавшего двигаться противника в радиусе поражения оружия с улучшением [PassiveEffectsBasic].</DefaultText>
+      <DefaultText>Завершает ход немедленно. Первый начавший двигаться противник в радиусе поражения оружия провоцирует основную атаку с улучшением [PassiveEffectsBasic].</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>343</ID>
-      <DefaultText>Цельтесь в уязвимое место. От этой атаки проще уклониться, но она причиняет больше ущерба.</DefaultText>
+      <DefaultText>Прицелиться в уязвимое место. От этой атаки проще уклониться, но она причиняет больший урон.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>344</ID>
-      <DefaultText>Вскройте артерию. Причиняет меньше ущерба при попадании, но оставляет кровоточащую рану.</DefaultText>
+      <DefaultText>Вскрыть артерию. Причиняет меньший урон при попадании, но оставляет кровоточащую рану.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>345</ID>
-      <DefaultText>Вы получаете статус [Fettles], который вынуждает цель атаковать вас.</DefaultText>
+      <DefaultText>Даёт статус [Fettles], который вынуждает цель атаковать персонажа.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>346</ID>
-      <DefaultText>Пронзите врага мечом, чтобы нанести дополнительный ущерб.</DefaultText>
+      <DefaultText>Пронзить врага мечом, чтобы нанести дополнительный урон.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1946,7 +1946,7 @@
     </Entry>
     <Entry>
       <ID>388</ID>
-      <DefaultText>Вы получаете улучшение [StatModifiers], когда носите лёгкую броню или вообще обходитесь без брони.</DefaultText>
+      <DefaultText>Даёт улучшение [StatModifiers], когда надета лёгкая броня или вообще нет брони.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1961,7 +1961,7 @@
     </Entry>
     <Entry>
       <ID>391</ID>
-      <DefaultText>Накладывает состояние [Fettles] на всех противников в радиусе действия, что вынуждает их атаковать вас.</DefaultText>
+      <DefaultText>Накладывает состояние [Fettles] на всех противников в радиусе действия, что вынуждает их атаковать персонажа.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -2941,7 +2941,7 @@
     </Entry>
     <Entry>
       <ID>588</ID>
-      <DefaultText>Используйте Силу для увеличения усилия при выполнении небоевых задач на Скорость.</DefaultText>
+      <DefaultText>Использовать силу для увеличения усилия при выполнении небоевых задач на скорость.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -2951,12 +2951,12 @@
     </Entry>
     <Entry>
       <ID>590</ID>
-      <DefaultText>Вы получаете улучшение [StatModifiers].</DefaultText>
+      <DefaultText>Даёт улучшение [StatModifiers].</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>591</ID>
-      <DefaultText>Учитесь у ночи. Улучшение +1 к навыкам, наиболее полезным в темноте: Ловкость рук, Питание падалью и Восприятие.</DefaultText>
+      <DefaultText>Ночь — лучший учитель. Улучшение +1 к навыкам, наиболее полезным в темноте: «Ловкость рук», «Питание падалью» и «Восприятие».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -2966,7 +2966,7 @@
     </Entry>
     <Entry>
       <ID>593</ID>
-      <DefaultText>Завершает ход немедленно. Если эта способность активна и любой союзник на Близком расстоянии поражен атакой, поменяйтесь с ним местами и примите на себя урон, состояния или другие воздействия.</DefaultText>
+      <DefaultText>Завершает ход немедленно. Если эта способность активна и любой союзник на близком расстоянии поражён атакой, персонаж меняется с ним местами и принимает на себя урон, состояния или другие воздействия.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -3151,7 +3151,7 @@
     </Entry>
     <Entry>
       <ID>630</ID>
-      <DefaultText>Выберите один навык исследования, знания или общения и получите [Color: PositiveModifier]+1 к уровню подготовки[/Color] для этого навыка.</DefaultText>
+      <DefaultText>Позволяет выбрать один навык исследования, знания или общения и получить [Color: PositiveModifier]+1 к уровню подготовки[/Color] этого навыка.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -3931,7 +3931,7 @@
     </Entry>
     <Entry>
       <ID>786</ID>
-      <DefaultText>В состоянии [FettleIcon: Status][Color: PositiveModifier]фазового сдвига[/Color] вы получаете [PassiveEffectsBasic].</DefaultText>
+      <DefaultText>В состоянии [FettleIcon: Status][Color: PositiveModifier]фазового сдвига[/Color] даёт [PassiveEffectsBasic].</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -4571,7 +4571,7 @@
     </Entry>
     <Entry>
       <ID>914</ID>
-      <DefaultText>Вступив в сражение, вы получаете ускорение на 3 раунда, что увеличит скорость вашего движения на 50%.</DefaultText>
+      <DefaultText>Ворваться в бой, получив ускорение на 3 раунда, что увеличит скорость движения на 50%.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -4591,7 +4591,7 @@
     </Entry>
     <Entry>
       <ID>918</ID>
-      <DefaultText>Обозначьте в качестве цели союзника, в радиусе поражения оружия которого находятся противники, затем выберите одного из противников. Выбранный союзник незамедлительно совершит атаку на этого противника.</DefaultText>
+      <DefaultText>Обозначить в качестве цели союзника, в радиусе поражения оружия которого находятся противники, затем выбрать одного из противников. Выбранный союзник незамедлительно совершит атаку этого противника.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -4601,7 +4601,7 @@
     </Entry>
     <Entry>
       <ID>920</ID>
-      <DefaultText>Вы получаете:[PassiveEffectsBasic].</DefaultText>
+      <DefaultText>Даёт [PassiveEffectsBasic].</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -4916,7 +4916,7 @@
     </Entry>
     <Entry>
       <ID>983</ID>
-      <DefaultText>Создает Лакуну, служащую для защиты.</DefaultText>
+      <DefaultText>Создаёт лакуну, служащую для защиты.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -4926,7 +4926,7 @@
     </Entry>
     <Entry>
       <ID>985</ID>
-      <DefaultText>Переместите врага в выбранное вами место.</DefaultText>
+      <DefaultText>Переместить врага в выбранное место.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -4936,7 +4936,7 @@
     </Entry>
     <Entry>
       <ID>987</ID>
-      <DefaultText>Вы получаете [PassiveEffectsBasic].</DefaultText>
+      <DefaultText>Даёт [PassiveEffectsBasic].</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -4956,7 +4956,7 @@
     </Entry>
     <Entry>
       <ID>991</ID>
-      <DefaultText>Толкните или потяните всё в пределах среднего диапазона</DefaultText>
+      <DefaultText>Толкнуть или потянуть всё в пределах среднего диапазона</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -4966,7 +4966,7 @@
     </Entry>
     <Entry>
       <ID>993</ID>
-      <DefaultText>Вы получаете [StatModifiers].</DefaultText>
+      <DefaultText>Даёт [StatModifiers].</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -4981,7 +4981,7 @@
     </Entry>
     <Entry>
       <ID>996</ID>
-      <DefaultText>Выберите тип урона и получите эффект [Fettles] (весь урон преобразуется в урон выбранного типа).</DefaultText>
+      <DefaultText>Выбрать тип урона и получить эффект [Fettles] (весь урон преобразуется в урон выбранного типа).</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -5011,7 +5011,7 @@
     </Entry>
     <Entry>
       <ID>1002</ID>
-      <DefaultText>Вы получаете [Color: PositiveModifier]улучшение +[BonusAmount1]%[/Color] для каждого пункта усилия, приложенного при проверках навыков: Восприятие, Знания: механизмы, Знания: мистицизм и Знания: естественные.</DefaultText>
+      <DefaultText>Даёт [Color: PositiveModifier]улучшение +[BonusAmount1]%[/Color] для каждого пункта усилия, приложенного при проверках навыков: «Восприятие», «Знания: механизмы», «Знания: мистицизм» и «Знания: естественные».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -5216,7 +5216,7 @@
     </Entry>
     <Entry>
       <ID>1043</ID>
-      <DefaultText>Вы получаете на [Color: PositiveModifier]+5% шинов больше[/Color] при продаже предметов и тратите на [Color: PositiveModifier]-5% меньше[/Color] при покупке предметов.</DefaultText>
+      <DefaultText>Позволяет получать на [Color: PositiveModifier]5% шинов больше[/Color] при продаже предметов и тратить на [Color: PositiveModifier]5% меньше[/Color] при покупке.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -5241,7 +5241,7 @@
     </Entry>
     <Entry>
       <ID>1048</ID>
-      <DefaultText>В случае критического успеха в задачах на убеждение, хитрость или запугивание, запас параметра Интеллект полностью восстанавливается.</DefaultText>
+      <DefaultText>В случае критического успеха в задачах на убеждение, хитрость или запугивание запас интеллекта полностью восстанавливается.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -5281,7 +5281,7 @@
     </Entry>
     <Entry>
       <ID>1056</ID>
-      <DefaultText>Перейдите в состояние [Fettles] (вас невозможно выбрать в качестве цели и состояние не снимается никакими действиями).</DefaultText>
+      <DefaultText>Перейти в состояние [Fettles] (персонажа невозможно выбрать в качестве цели, и состояние не снимается никакими действиями).</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -5416,7 +5416,7 @@
     </Entry>
     <Entry>
       <ID>1083</ID>
-      <DefaultText>Вы получаете [PassiveEffectsBasic].</DefaultText>
+      <DefaultText>Даёт [PassiveEffectsBasic].</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -5436,7 +5436,7 @@
     </Entry>
     <Entry>
       <ID>1087</ID>
-      <DefaultText>Вы получаете [StatModifiers] и [SimpleTaskModifiers].</DefaultText>
+      <DefaultText>Даёт [StatModifiers] и [SimpleTaskModifiers].</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -5466,7 +5466,7 @@
     </Entry>
     <Entry>
       <ID>1093</ID>
-      <DefaultText>Вы получаете [PassiveEffectsBasic].</DefaultText>
+      <DefaultText>Даёт [PassiveEffectsBasic].</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -5661,7 +5661,7 @@
     </Entry>
     <Entry>
       <ID>1132</ID>
-      <DefaultText>Вы получаете [PassiveEffectsBasic].</DefaultText>
+      <DefaultText>Даёт [PassiveEffectsBasic].</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -5671,7 +5671,7 @@
     </Entry>
     <Entry>
       <ID>1134</ID>
-      <DefaultText>Вы получаете [PassiveEffectsBasic].</DefaultText>
+      <DefaultText>Даёт [PassiveEffectsBasic].</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -5936,12 +5936,12 @@
     </Entry>
     <Entry>
       <ID>1187</ID>
-      <DefaultText>Избавившись от влияния Скорби, вы получаете [PassiveEffectsBasic].</DefaultText>
+      <DefaultText>Избавление от влияния Скорби на разум дало [PassiveEffectsBasic].</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>1188</ID>
-      <DefaultText>Это способность обеспечивается вашей связью с Цветением.</DefaultText>
+      <DefaultText>Это способность обеспечивается связью с Цветением.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
