@@ -123,7 +123,7 @@
     </Entry>
     <Entry>
       <ID>22</ID>
-      <DefaultText>Если он это все равно и побеждает, это приравнивается к грубому нарушению уговора с Рин (плюс, игрок не изучит, как создавать Всплески Потоков далее в игре).
+      <DefaultText>Если он это всё равно делает и побеждает, это приравнивается к грубому нарушению уговора с Рин (плюс, игрок не изучит, как создавать Всплески Потоков далее в игре).
 
 {SCRIPT: Need to set variable if PC wins the fight: a2101_TolKilledByPC=1 so we can reference this later}
 {SCRIPT: If PC is cursed by Tol, remove the debuff}

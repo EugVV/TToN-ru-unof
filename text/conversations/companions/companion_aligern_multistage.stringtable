@@ -323,12 +323,12 @@
     </Entry>
     <Entry>
       <ID>64</ID>
-      <DefaultText>{angry, disappointed}«Пока».</DefaultText>
+      <DefaultText>{сердито, разочарованно}«Пока».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>65</ID>
-      <DefaultText>«Так быстро сбрасываешь меня со счетов? Хорошо. Мы все равно не были близки».</DefaultText>
+      <DefaultText>«Так быстро сбрасываешь меня со счетов? Хорошо. Мы всё равно не были близки».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>

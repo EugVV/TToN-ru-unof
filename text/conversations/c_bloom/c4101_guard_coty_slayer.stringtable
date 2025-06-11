@@ -6,12 +6,12 @@
   <Entries>
     <Entry>
       <ID>1</ID>
-      <DefaultText>«Эй, ты! Это твой раб?»</DefaultText>
+      <DefaultText>«Эй ты! Это твой раб?»</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>2</ID>
-      <DefaultText>«Ты о чем?»</DefaultText>
+      <DefaultText>«Ты о чём?»</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -26,7 +26,7 @@
     </Entry>
     <Entry>
       <ID>5</ID>
-      <DefaultText>«Мальчишку поймали, когда он шарил в кошельке гражданина. Бежал, как ошпаренный, но мы с напарником все же загнали его в угол и поймали».</DefaultText>
+      <DefaultText>«Мальчишку поймали, когда он шарил в кошельке гражданина. Бежал как ошпаренный, но мы с напарником всё же загнали его в угол и поймали».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -91,12 +91,12 @@
     </Entry>
     <Entry>
       <ID>19</ID>
-      <DefaultText>«В чем, вообще, дело?»</DefaultText>
+      <DefaultText>«В чём вообще дело?»</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>20</ID>
-      <DefaultText>«Послушай, мне все равно. Я уже полчаса стою тут и жду хозяина, так что назначу им тебя».</DefaultText>
+      <DefaultText>«Послушай, мне всё равно. Я уже полчаса стою тут и жду хозяина, так что назначу им тебя».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -106,7 +106,7 @@
     </Entry>
     <Entry>
       <ID>22</ID>
-      <DefaultText>«Если у вас есть вопросы насчет компенсации, то обратитесь к начальству. Хорошего дня, господин».</DefaultText>
+      <DefaultText>«Если у вас есть вопросы насчёт компенсации, то обратитесь к начальству. Хорошего дня, господин».</DefaultText>
       <FemaleText>«Если у вас есть вопросы насчёт компенсации, то обратитесь к начальству. Хорошего дня, госпожа».</FemaleText>
     </Entry>
     <Entry>
