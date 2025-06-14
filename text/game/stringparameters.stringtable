@@ -1481,7 +1481,7 @@
     </Entry>
     <Entry>
       <ID>296</ID>
-      <DefaultText>С Мемовирой покончено. Она вышла.</DefaultText>
+      <DefaultText>С Мемовирой покончено. Вся вышла.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1511,7 +1511,7 @@
     </Entry>
     <Entry>
       <ID>302</ID>
-      <DefaultText>Думаю, стражники получили не *меньше* [Global: c4301_AmbushBribeStandard]. Придётся стрясти с них деньги.</DefaultText>
+      <DefaultText>Думаю, у стражников не *меньше* [Global: c4301_AmbushBribeStandard]. Хотя эти деньги придётся брать силой.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
