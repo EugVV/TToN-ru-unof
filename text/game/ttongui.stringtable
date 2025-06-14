@@ -3551,7 +3551,7 @@
     </Entry>
     <Entry>
       <ID>710</ID>
-      <DefaultText>Выберите способности для изучения.</DefaultText>
+      <DefaultText>Нужно выбрать способности для изучения.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -3566,7 +3566,7 @@
     </Entry>
     <Entry>
       <ID>713</ID>
-      <DefaultText>Выберите способность</DefaultText>
+      <DefaultText>Выбор способности</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -5266,7 +5266,7 @@
     </Entry>
     <Entry>
       <ID>1053</ID>
-      <DefaultText>Распределите очки парметров</DefaultText>
+      <DefaultText>Распределение очков параметров</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -5276,12 +5276,12 @@
     </Entry>
     <Entry>
       <ID>1055</ID>
-      <DefaultText>Распределить очки таланта</DefaultText>
+      <DefaultText>Распределение очков таланта</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>1056</ID>
-      <DefaultText>Выберите способности</DefaultText>
+      <DefaultText>Выбор способности</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -5306,12 +5306,12 @@
     </Entry>
     <Entry>
       <ID>1061</ID>
-      <DefaultText>Выберите навык исследования</DefaultText>
+      <DefaultText>Выбор навыка исследования</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>1062</ID>
-      <DefaultText>Выберите оружейный навык</DefaultText>
+      <DefaultText>Выбор оружейного навыка</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -5326,12 +5326,12 @@
     </Entry>
     <Entry>
       <ID>1065</ID>
-      <DefaultText>Выберите характеристику</DefaultText>
+      <DefaultText>Выбор характеристики</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>1066</ID>
-      <DefaultText>Характеристики — это наборы навыков и небольших преимуществ, которые отличают вашего персонажа от других того же типа.</DefaultText>
+      <DefaultText>Характеристики — это наборы навыков и небольших преимуществ, которые отличают персонажа от других того же типа.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>

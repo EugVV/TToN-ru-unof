@@ -5001,7 +5001,7 @@
     </Entry>
     <Entry>
       <ID>1000</ID>
-      <DefaultText>Получаете улучшение [SimpleTaskModifiers].</DefaultText>
+      <DefaultText>Даёт улучшение [SimpleTaskModifiers].</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -5176,7 +5176,7 @@
     </Entry>
     <Entry>
       <ID>1035</ID>
-      <DefaultText>Атакуйте всех противников в радиусе поражения и нанесите [Damage]. Все противники с негативными эффектами, не сумевшие избежать атаки, отбрасываются на небольшое расстояние.\n\n[DamageFromEffort].</DefaultText>
+      <DefaultText>Атаковать всех противников в радиусе поражения и нанести [Damage]. Все противники с негативными эффектами, не сумевшие избежать атаки, отбрасываются на небольшое расстояние.\n\n[DamageFromEffort].</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -5186,7 +5186,7 @@
     </Entry>
     <Entry>
       <ID>1037</ID>
-      <DefaultText>Призывает психического конструкта, который обеспечит вам численное превосходство над противником. Одновременно персонаж может призвать только одного призрачного воина.</DefaultText>
+      <DefaultText>Призывает психического конструкта, который обеспечивает численное превосходство над противником. Одновременно персонаж может призвать только одного призрачного воина.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -5196,7 +5196,7 @@
     </Entry>
     <Entry>
       <ID>1039</ID>
-      <DefaultText>Обрызгайте поле органическим растворителем, который способен разъесть практически любой объект.</DefaultText>
+      <DefaultText>Обрызгать область органическим растворителем, который способен разъесть практически всё.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -5206,7 +5206,7 @@
     </Entry>
     <Entry>
       <ID>1041</ID>
-      <DefaultText>Вы и союзники рядом с вами получаете постоянный эффект [Fettles] ([FettleDescriptions])</DefaultText>
+      <DefaultText>Даёт персонажу и союзникам на близком расстоянии постоянный эффект [Fettles] ([FettleDescriptions])</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
