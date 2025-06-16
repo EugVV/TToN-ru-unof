@@ -56,7 +56,7 @@
     </Entry>
     <Entry>
       <ID>11</ID>
-      <DefaultText>«Всегда не мог выносить, когда эта тварь нашептывает мне».</DefaultText>
+      <DefaultText>«Всегда не мог выносить, когда эта тварь нашёптывает мне».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -66,7 +66,7 @@
     </Entry>
     <Entry>
       <ID>13</ID>
-      <DefaultText>«Все это место вызывает у меня желание помыться».</DefaultText>
+      <DefaultText>«Всё это место вызывает у меня желание помыться».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -81,7 +81,7 @@
     </Entry>
     <Entry>
       <ID>16</ID>
-      <DefaultText>«Ты должен чувствовать себя как дома, Оом. Маленький сгусток, окруженный другими сгустками».</DefaultText>
+      <DefaultText>«Ты должен чувствовать себя как дома, Оом. Маленький сгусток, окружённый другими сгустками».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -120,7 +120,7 @@
     </Entry>
     <Entry>
       <ID>24</ID>
-      <DefaultText>::вздыхает:: «Некоторым людям не угодишь».</DefaultText>
+      <DefaultText>::вздыхает:: «Некоторым не угодишь».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>

@@ -196,12 +196,12 @@
     </Entry>
     <Entry>
       <ID>32</ID>
-      <DefaultText>«Ты прав. Это несправедливо по отношению к нему. Он заслуживает, чтобы о нем помнили».</DefaultText>
+      <DefaultText>«Ты прав. Это несправедливо по отношению к нему. Он заслуживает, чтобы о нём помнили».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>33</ID>
-      <DefaultText>«Если я узнаю что-нибудь на этот счет, я дам тебе знать».</DefaultText>
+      <DefaultText>«Если я узнаю что-нибудь на этот счёт, я дам тебе знать».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -793,7 +793,7 @@
     </Entry>
     <Entry>
       <ID>145</ID>
-      <DefaultText>«То есть…ты всё ещё в тупике?»</DefaultText>
+      <DefaultText>«То есть… ты всё ещё в тупике?»</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>

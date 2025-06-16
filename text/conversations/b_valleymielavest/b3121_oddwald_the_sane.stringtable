@@ -350,7 +350,7 @@
     </Entry>
     <Entry>
       <ID>67</ID>
-      <DefaultText>«С помощью слов и уговоров. Надеюсь, до насилия дело не дойдет. Мои хрупкие кости не приспособлены для боя».</DefaultText>
+      <DefaultText>«С помощью слов и уговоров. Надеюсь, до насилия дело не дойдёт. Мои хрупкие кости не приспособлены для боя».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -369,7 +369,7 @@
 
 Но он кое-что оставил. Среди мусора вы замечаете вещицу странной формы.
 
- {LOOT: Drop Silver Merecaster.}</DefaultText>
+{LOOT: Drop Silver Merecaster.}</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
