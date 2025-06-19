@@ -6887,13 +6887,13 @@
     </Entry>
     <Entry>
       <ID>1377</ID>
-      <DefaultText>Он принёс нам мир! Теперь я его должник. Он хороший человек.</DefaultText>
-      <FemaleText>Она принесла нам мир! Теперь я её должник. Она хороший человек.</FemaleText>
+      <DefaultText>Принёсший покой! Я его должник. Он хороший человек.</DefaultText>
+      <FemaleText>Принёсшая покой! Я её должник. Она хороший человек.</FemaleText>
     </Entry>
     <Entry>
       <ID>1378</ID>
-      <DefaultText>Не важно. Я помогу ему, если смогу.</DefaultText>
-      <FemaleText>Не важно. Я помогу ей, если смогу.</FemaleText>
+      <DefaultText>Не имеет значения. Я помогу ему, если смогу.</DefaultText>
+      <FemaleText>Не имеет значения. Я помогу ей, если смогу.</FemaleText>
     </Entry>
     <Entry>
       <ID>1379</ID>
@@ -6902,13 +6902,13 @@
     </Entry>
     <Entry>
       <ID>1380</ID>
-      <DefaultText>Я не знаю, что они имеют в виду. Мне и не нужно знать.</DefaultText>
+      <DefaultText>Не знаю, что всё это значило. Мне и не нужно знать.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>1381</ID>
-      <DefaultText>Что ему от меня было нужно? Зачем? Не думаю, что он просто хотел помочь.</DefaultText>
-      <FemaleText>Что ей от меня было нужно? Зачем? Не думаю, что она просто хотела помочь.</FemaleText>
+      <DefaultText>Что ему было от меня нужно? Зачем? Не думаю, что он просто хотел помочь.</DefaultText>
+      <FemaleText>Что ей было от меня нужно? Зачем? Не думаю, что она просто хотела помочь.</FemaleText>
     </Entry>
     <Entry>
       <ID>1382</ID>
