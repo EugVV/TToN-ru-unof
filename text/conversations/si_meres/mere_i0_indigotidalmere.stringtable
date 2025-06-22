@@ -1058,7 +1058,9 @@
     </Entry>
     <Entry>
       <ID>186</ID>
-      <DefaultText>Вы хватаете мальчика за руку и тащите его за собой, торопясь вперед.</DefaultText>
+      <DefaultText>
+
+Вы хватаете мальчика за руку и тащите его за собой, торопясь вперёд.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>

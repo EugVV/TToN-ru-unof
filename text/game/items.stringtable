@@ -3251,12 +3251,12 @@
     </Entry>
     <Entry>
       <ID>710</ID>
-      <DefaultText>При активации: исцеляет пользователя на 4, но наносит на 2 ед. меньше урона.</DefaultText>
+      <DefaultText>При активации: исцеляет пользователя на 4, но наносит на 2 меньше урона.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>711</ID>
-      <DefaultText>Паразит похож на червей из долины Павших Героев, но все же это разные существа.</DefaultText>
+      <DefaultText>Паразит похож на червей из долины Павших Героев, но всё же это разные существа.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>

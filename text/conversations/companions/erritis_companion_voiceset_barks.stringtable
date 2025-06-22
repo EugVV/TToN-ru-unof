@@ -716,12 +716,12 @@
     </Entry>
     <Entry>
       <ID>143</ID>
-      <DefaultText>«Хоть я и ищу *усердно*, я пока ничего не нашел».</DefaultText>
+      <DefaultText>«Хоть и ищу *усердно*, я пока ничего не нашёл».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>144</ID>
-      <DefaultText>«Нет. Ничего не нашел».</DefaultText>
+      <DefaultText>«Нет. Ничего не нашёл».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -746,27 +746,27 @@
     </Entry>
     <Entry>
       <ID>149</ID>
-      <DefaultText>{Cheerful}«И я рад встрече!»</DefaultText>
+      <DefaultText>{Радостно}«И я рад встрече!»</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>150</ID>
-      <DefaultText>{Eager}«Что? Так мы отправляемся?»</DefaultText>
+      <DefaultText>{С нетерпением}«Что? Так мы отправляемся?»</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>151</ID>
-      <DefaultText>{Eager}«Вперед!»</DefaultText>
+      <DefaultText>{С нетерпением}«Вперёд!»</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>152</ID>
-      <DefaultText>{Eager}«Опасности ждут нас!»</DefaultText>
+      <DefaultText>{С нетерпением}«Опасности ждут нас!»</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>153</ID>
-      <DefaultText>{Eager}«Впереди нас ждут новые опасности? Так тому и быть!»</DefaultText>
+      <DefaultText>{С нетерпением}«Впереди нас ждут новые опасности? Так тому и быть!»</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
