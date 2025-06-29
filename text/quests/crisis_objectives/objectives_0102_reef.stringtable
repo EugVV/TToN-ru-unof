@@ -11,7 +11,7 @@
     </Entry>
     <Entry>
       <ID>1</ID>
-      <DefaultText>Победить Корро и его наемников
+      <DefaultText>Победить Корро и его наёмников
 — использовать светящуюся турель с фиолетовой энергией
 — поговорить с Корро разными компаньонами</DefaultText>
       <FemaleText />
@@ -23,12 +23,12 @@
     </Entry>
     <Entry>
       <ID>3</ID>
-      <DefaultText>Убить Корро, или дать ему сбежать</DefaultText>
+      <DefaultText>Убить Корро или дать ему сбежать</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>4</ID>
-      <DefaultText>Победить оставшихся наемников</DefaultText>
+      <DefaultText>Победить оставшихся наёмников</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
