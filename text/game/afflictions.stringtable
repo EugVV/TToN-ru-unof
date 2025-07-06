@@ -261,7 +261,7 @@
     </Entry>
     <Entry>
       <ID>51</ID>
-      <DefaultText>Весь урон преобразуется в межпространственный и вы получаете [PassiveEffectsBasic], но при этом межпространственный урон по этому персонажу увеличивается на [Color: Damage]+100%[/Color]</DefaultText>
+      <DefaultText>Преобразует весь урон в межпространственный и даёт [PassiveEffectsBasic], но при этом межпространственный урон по этому персонажу увеличивается на [Color: Damage]+100%[/Color]</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -276,7 +276,7 @@
     </Entry>
     <Entry>
       <ID>54</ID>
-      <DefaultText>Кислота разъедает вашу кожу.</DefaultText>
+      <DefaultText>Кислота разъедает кожу.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -726,7 +726,7 @@
     </Entry>
     <Entry>
       <ID>144</ID>
-      <DefaultText>зловещий шёпот наполняет ваш ум и намекает на бесчисленные секреты, которые можно раскрыть</DefaultText>
+      <DefaultText>зловещий шёпот наполняет ум и намекает на бесчисленные секреты, которые можно раскрыть</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
