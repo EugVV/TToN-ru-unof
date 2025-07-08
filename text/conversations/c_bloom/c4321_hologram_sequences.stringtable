@@ -21,7 +21,7 @@
     </Entry>
     <Entry>
       <ID>4</ID>
-      <DefaultText>«Не хочешь ли поесть, Бндари?»</DefaultText>
+      <DefaultText>«Не хочешь перекусить, Бндари?»</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -31,7 +31,7 @@
     </Entry>
     <Entry>
       <ID>6</ID>
-      <DefaultText>«М-м-м. Разбуди меня, когда приедем в интересное место».</DefaultText>
+      <DefaultText>«М-м. Разбуди меня, когда прибудем в интересное место».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -41,12 +41,12 @@
     </Entry>
     <Entry>
       <ID>8</ID>
-      <DefaultText>«За тобой, дорогая».</DefaultText>
+      <DefaultText>«Прямо за тобой, дорогая».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>9</ID>
-      <DefaultText>«Миледи, я измеряю межпространственную скорость по ориентирам, которые мы проезжаем».</DefaultText>
+      <DefaultText>«Миледи, я измеряю нашу скорость перемещения между измерениями по времени прохода известных ориентиров».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -56,52 +56,52 @@
     </Entry>
     <Entry>
       <ID>11</ID>
-      <DefaultText>«Но катена ведь скажет, если спросить».</DefaultText>
+      <DefaultText>«Но катена ведь сообщит, если запросить».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>12</ID>
-      <DefaultText>«Думаю, это зависит от того, что вам важнее: дорога или место назначения».</DefaultText>
+      <DefaultText>«Полагаю, это зависит от того, ценишь ли ты путешествие или конечный пункт».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>13</ID>
-      <DefaultText>«Ох! Напугал меня».</DefaultText>
+      <DefaultText>«Ох! Напугала».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>14</ID>
-      <DefaultText>«Смотри, Анстолл. Видишь те полосы света? Они остались от умерших звёзд».</DefaultText>
+      <DefaultText>«Смотри, Анстолл. Видишь те ореолы? Они остались после ухода звёзд».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>15</ID>
-      <DefaultText>«Умерших звёзд? Что ты имеешь в виду?»</DefaultText>
+      <DefaultText>«*Ухода* звёзд? Что ты имеешь в виду?»</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>16</ID>
-      <DefaultText>«Это не звёзды и не их останки. Это изменения во времени и притяжении».</DefaultText>
+      <DefaultText>«Это не сами звёзды и не их гаснущие фрагменты. Это флуктуации во времени и гравитации».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>17</ID>
-      <DefaultText>«Так-то оно так, но чтобы сохранить живость ума, его надо упражнять».</DefaultText>
+      <DefaultText>«Так-то оно так, но, чтобы сохранить остроту ума, его надо упражнять».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>18</ID>
-      <DefaultText>«Как скажешь. Но лучше бы мои слуги *прислуживали*».</DefaultText>
+      <DefaultText>«Как скажешь. А я лучше позволю слугам *служить*».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>20</ID>
-      <DefaultText>«Принесут ли они деньги или подношения? Приумножат ли моё имущество? Если нет, то мне от них никакой пользы».</DefaultText>
+      <DefaultText>«Принесут ли они деньги или награды? Приумножат ли моё имущество? Если нет, то мне от них никакой пользы».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>21</ID>
-      <DefaultText>«Ты многое упускаешь. Когда-нибудь я научу тебя».</DefaultText>
+      <DefaultText>«Ты многое упускаешь. Когда-нибудь я тебя научу».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -111,7 +111,7 @@
     </Entry>
     <Entry>
       <ID>24</ID>
-      <DefaultText>«А ты не знаешь? С ума сойти. Она не беременна. Она собирается *прорасти*».</DefaultText>
+      <DefaultText>«А ты не знаешь? Это очаровательно. Она не беременна. Она собирается *прорасти*».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -121,27 +121,27 @@
     </Entry>
     <Entry>
       <ID>26</ID>
-      <DefaultText>«Какие… прорасти?»</DefaultText>
+      <DefaultText>«Она… что? Прорасти?»</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>27</ID>
-      <DefaultText>«Видимо, её любовник был не человеком. Он опылил её, и растёт в ней теперь вовсе не *ребёнок*».</DefaultText>
+      <DefaultText>«Очевидно, её тайный любовник не был человеком. Он опылил её, и в ней теперь растёт вовсе не *ребёнок*».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>28</ID>
-      <DefaultText>«А муж её знает?»</DefaultText>
+      <DefaultText>«А её муж в курсе?»</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>29</ID>
-      <DefaultText>«Скоро узнает. Такое надолго не скрыть!»</DefaultText>
+      <DefaultText>«Скоро наверняка будет в курсе. Такое не скроешь!»</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>30</ID>
-      <DefaultText>«Хоть какое-то развлечение. До ужаса скучная поездка выдалась».</DefaultText>
+      <DefaultText>«Хоть какое-то развлечение. Поездка выдалась до ужаса скучной».</DefaultText>
       <FemaleText />
     </Entry>
   </Entries>
