@@ -1062,7 +1062,7 @@
     </Entry>
     <Entry>
       <ID>219</ID>
-      <DefaultText>«Ну что ж, как знаешь», — она щелкает пальцами, и стражи кидаются в бой!</DefaultText>
+      <DefaultText>«Ну что ж, как знаешь», — она щёлкает пальцами, и стражи кидаются в бой!</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1072,8 +1072,8 @@
     </Entry>
     <Entry>
       <ID>221</ID>
-      <DefaultText>«Нет, они мне самому нужны».</DefaultText>
-      <FemaleText>«Нет, они мне самой нужны».</FemaleText>
+      <DefaultText>«Нет, они нужны мне самому».</DefaultText>
+      <FemaleText>«Нет, они нужны мне самой».</FemaleText>
     </Entry>
     <Entry>
       <ID>222</ID>
