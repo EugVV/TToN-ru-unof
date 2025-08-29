@@ -1661,8 +1661,8 @@
     </Entry>
     <Entry>
       <ID>332</ID>
-      <DefaultText>Он поступил мудро и *справедливо*. Но разве он руководствовался именно этим?</DefaultText>
-      <FemaleText>Она поступила мудро и *справедливо*. Но разве она руководствовалась именно этим?</FemaleText>
+      <DefaultText>Мудрый и *справедливый* поступок. Но руководствовался ли он именно этим?</DefaultText>
+      <FemaleText>Мудрый и *справедливый* поступок. Но руководствовалась ли она именно этим?</FemaleText>
     </Entry>
     <Entry>
       <ID>333</ID>
@@ -1676,23 +1676,23 @@
     </Entry>
     <Entry>
       <ID>335</ID>
-      <DefaultText>Неумышленно справедливо. Стоит ли вообще тратить время на этого человека?</DefaultText>
+      <DefaultText>Неумышленная справедливость. Стоит ли вообще тратить время на этого человека?</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>336</ID>
-      <DefaultText>С этим человеком нужно быть поосторожнее.</DefaultText>
+      <DefaultText>С этим человеком стоит быть поосторожнее.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>337</ID>
-      <DefaultText>Мудро, но возможно не хватает предусмотрительности или сострадания.</DefaultText>
+      <DefaultText>Мудро, но, возможно, не хватает предусмотрительности или сострадания.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>338</ID>
-      <DefaultText>Ему не хватает сострадания. С ним нужно быть поосторожнее.</DefaultText>
-      <FemaleText>Ей не хватает сострадания. С ней нужно быть поосторожнее.</FemaleText>
+      <DefaultText>Ему не хватает сострадания. С ним стоит быть поосторожнее.</DefaultText>
+      <FemaleText>Ей не хватает сострадания. С ней стоит быть поосторожнее.</FemaleText>
     </Entry>
     <Entry>
       <ID>339</ID>
@@ -1701,7 +1701,7 @@
     </Entry>
     <Entry>
       <ID>340</ID>
-      <DefaultText>Я *должен* уважать договорённости. Могу лишь надеяться, что она *получит* по заслугам за содеянное.</DefaultText>
+      <DefaultText>Я *должен* уважать договорённости. Могу лишь надеяться, что за содеянное она получит *по заслугам*.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1711,12 +1711,12 @@
     </Entry>
     <Entry>
       <ID>342</ID>
-      <DefaultText>Увидеть закат над Пустыней Холода. В последний раз обсудить Скопление с Йигтли…</DefaultText>
+      <DefaultText>Увидеть бы закат над Пустыней Холода. В последний раз обсудить Скопление с Йигтли…</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>343</ID>
-      <DefaultText>Ей может даже казаться, что она невиновна, поскольку потеряла всякую человечность.</DefaultText>
+      <DefaultText>Она может даже считать себя невиновной, поскольку утратила всякую человечность.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1726,7 +1726,7 @@
     </Entry>
     <Entry>
       <ID>345</ID>
-      <DefaultText>Мои люди погибли от её рук. От них *разит* предсмертными муками.</DefaultText>
+      <DefaultText>На её совести смерть многих из моего народа. От её рук *разит* их предсмертными муками.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1736,7 +1736,7 @@
     </Entry>
     <Entry>
       <ID>347</ID>
-      <DefaultText>Не ври мне, человек.</DefaultText>
+      <DefaultText>Не лги мне, человек.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
