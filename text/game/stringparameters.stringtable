@@ -1596,7 +1596,7 @@
     </Entry>
     <Entry>
       <ID>319</ID>
-      <DefaultText>Теперь мутанты прислали *людей*, чтобы выудить из меня признание? Ишь чего придумали.</DefaultText>
+      <DefaultText>Теперь мутанты шлют *людей*, чтобы выудить из меня признание? Больные ублюдки.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1606,27 +1606,27 @@
     </Entry>
     <Entry>
       <ID>321</ID>
-      <DefaultText>У них ни законов нет, ни душ. Тогда и осквернять им ничего.</DefaultText>
+      <DefaultText>У них ни законов нет, ни душ. Так какое тут может быть преступление?</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>322</ID>
-      <DefaultText>Значит, мои действия были справедливо оправданы. Мутанты заслужили смерти.</DefaultText>
+      <DefaultText>Значит, мои действия были справедливо оправданы. Мутанты заслужили смерть.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>323</ID>
-      <DefaultText>*Ему* я ни в чём признаваться не буду. Больно велик риск.</DefaultText>
-      <FemaleText>*Ей* я ни в чём признаваться не буду. Больно велик риск.</FemaleText>
+      <DefaultText>*Ему* я ни в чём признаваться не буду. Слишком велик риск.</DefaultText>
+      <FemaleText>*Ей* я ни в чём признаваться не буду. Слишком велик риск.</FemaleText>
     </Entry>
     <Entry>
       <ID>324</ID>
-      <DefaultText>Они не люди. *Нет*. Уверен, я правильно поступил со своими людьми.</DefaultText>
+      <DefaultText>Они не люди. *Нет*. Уверена, в глазах своих собратьев я поступила правильно.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>325</ID>
-      <DefaultText>Это *не* преступление. *Не может* им быть!</DefaultText>
+      <DefaultText>Это не *преступление*. *Не может* им быть!</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
