@@ -419,7 +419,7 @@
     </Entry>
     <Entry>
       <ID>83</ID>
-      <DefaultText>«Этот стихус сеял панику и твои соседи захотели, чтобы он убрался».</DefaultText>
+      <DefaultText>«Этот стихус сеял панику, и твои соседи захотели, чтобы он убрался».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -429,9 +429,9 @@
     </Entry>
     <Entry>
       <ID>87</ID>
-      <DefaultText>«Но он был нашим другом! Он был нашей семьей!»
+      <DefaultText>«Но он был нашим другом! Он был нашей семьёй!»
 
-Она повесила голову. «Чего ты хочешь?»</DefaultText>
+Она поникает: «Чего ты хочешь?»</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -453,7 +453,7 @@
     </Entry>
     <Entry>
       <ID>91</ID>
-      <DefaultText>«Может я смогу что-то сделать для Зебба».</DefaultText>
+      <DefaultText>«Может, я смогу что-то сделать для Зебба».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>

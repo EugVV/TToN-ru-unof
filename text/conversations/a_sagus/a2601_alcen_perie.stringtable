@@ -451,13 +451,13 @@
     </Entry>
     <Entry>
       <ID>92</ID>
-      <DefaultText>«Я думаю, Рин будет лучше со своей семьей».</DefaultText>
+      <DefaultText>«Я думаю, Рин будет лучше со своей семьёй».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>93</ID>
-      <DefaultText>«Я передумал. Рин будет гораздо лучше со своей семьей. Они смогут хорошо позаботиться о ней».</DefaultText>
-      <FemaleText />
+      <DefaultText>«Я передумал. Рин будет гораздо лучше со своей семьёй. Они позаботятся о ней».</DefaultText>
+      <FemaleText>«Я передумала. Рин будет гораздо лучше со своей семьёй. Они позаботятся о ней».</FemaleText>
     </Entry>
     <Entry>
       <ID>94</ID>
@@ -863,7 +863,7 @@
     </Entry>
     <Entry>
       <ID>172</ID>
-      <DefaultText>«Что скажешь, Зебб? С нетерпением ждёшь встречи с новой семьей?»</DefaultText>
+      <DefaultText>«Что скажешь, Зебб? С нетерпением ждёшь встречи с новой семьёй?»</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
