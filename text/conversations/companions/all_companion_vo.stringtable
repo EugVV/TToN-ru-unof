@@ -5513,7 +5513,7 @@
     </Entry>
     <Entry>
       <ID>1102</ID>
-      <DefaultText>«Ох! Ты откуда пришел?»</DefaultText>
+      <DefaultText>«Ох! Ты откуда пришёл?»</DefaultText>
       <FemaleText>«Ох! Ты откуда пришла?»</FemaleText>
     </Entry>
     <Entry>
@@ -5733,12 +5733,12 @@
     </Entry>
     <Entry>
       <ID>1146</ID>
-      <DefaultText>«Пол ушел. Что теперь будем делать?»</DefaultText>
+      <DefaultText>«Пол ушёл. Что теперь будем делать?»</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>1147</ID>
-      <DefaultText>«Думаю, ты привел меня в *худшее* место».</DefaultText>
+      <DefaultText>«Думаю, ты привёл меня в *худшее* место».</DefaultText>
       <FemaleText>«Думаю, ты привела меня в *худшее* место».</FemaleText>
     </Entry>
     <Entry>
