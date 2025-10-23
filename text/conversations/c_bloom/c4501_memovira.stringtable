@@ -1104,7 +1104,7 @@
     </Entry>
     <Entry>
       <ID>248</ID>
-      <DefaultText>Мэткина молчит и пристально смотрит на Мемовиру.</DefaultText>
+      <DefaultText>Мэткина молчит и сверлит взглядом Мемовиру.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1498,8 +1498,8 @@
     </Entry>
     <Entry>
       <ID>329</ID>
-      <DefaultText>«Память нашего создателя, когда я нашёл Маззофа».</DefaultText>
-      <FemaleText>«Память нашего создателя, когда я нашла Маззофа».</FemaleText>
+      <DefaultText>«Воспоминания нашего создателя, когда я нашёл Маззофа».</DefaultText>
+      <FemaleText>«Воспоминания нашего создателя, когда я нашла Маззофа».</FemaleText>
     </Entry>
     <Entry>
       <ID>330</ID>
