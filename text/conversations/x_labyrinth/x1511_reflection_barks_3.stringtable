@@ -11,8 +11,8 @@
     </Entry>
     <Entry>
       <ID>2</ID>
-      <DefaultText>«Ты… привел меня сюда».</DefaultText>
-      <FemaleText />
+      <DefaultText>«Ты… привёл меня сюда».</DefaultText>
+      <FemaleText>«Ты… привела меня сюда».</FemaleText>
     </Entry>
     <Entry>
       <ID>3</ID>
@@ -21,7 +21,7 @@
     </Entry>
     <Entry>
       <ID>4</ID>
-      <DefaultText>«Скорбь… стерла меня».</DefaultText>
+      <DefaultText>«Скорбь… стёрла меня».</DefaultText>
       <FemaleText />
     </Entry>
   </Entries>
