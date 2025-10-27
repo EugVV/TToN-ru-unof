@@ -6867,13 +6867,13 @@
     </Entry>
     <Entry>
       <ID>1373</ID>
-      <DefaultText>Ещё одна такая ошибка, и я перестану удивляться.</DefaultText>
+      <DefaultText>Ещё одно такое путешествие, и я перестану удивляться.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>1374</ID>
-      <DefaultText>Спорим, он попытается в этот раз.</DefaultText>
-      <FemaleText />
+      <DefaultText>Спорим, в этот раз он попытается?</DefaultText>
+      <FemaleText>Спорим, в этот раз она попытается?</FemaleText>
     </Entry>
     <Entry>
       <ID>1375</ID>
