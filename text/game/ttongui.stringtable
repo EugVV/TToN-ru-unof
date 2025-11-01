@@ -2586,7 +2586,7 @@
     </Entry>
     <Entry>
       <ID>517</ID>
-      <DefaultText>Восстанавливает {0} {1} очков {2}</DefaultText>
+      <DefaultText>Восстанавливает {0}–{1} очков параметра {2}</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -2606,7 +2606,7 @@
     </Entry>
     <Entry>
       <ID>521</ID>
-      <DefaultText>Восстанавливает {0} {1} очков наименьшего параметра</DefaultText>
+      <DefaultText>Восстанавливает {0}–{1} очков наименьшего параметра</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
