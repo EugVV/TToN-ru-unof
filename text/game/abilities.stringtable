@@ -5156,7 +5156,7 @@
     </Entry>
     <Entry>
       <ID>1031</ID>
-      <DefaultText>Когда активна [FettleIcon: Buff][Color: PositiveModifier]Гибкость[/Color], то в задачах где она применима вы получаете [Color: PositiveModifier]улучшение +[BonusAmount1]%[/Color] для каждого пункта усилия.</DefaultText>
+      <DefaultText>Когда активна [FettleIcon: Buff][Color: PositiveModifier]Гибкость[/Color], то в задачах, где она применима, даётся [Color: PositiveModifier]улучшение +[BonusAmount1]%[/Color] для каждого пункта усилия.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -5166,7 +5166,7 @@
     </Entry>
     <Entry>
       <ID>1033</ID>
-      <DefaultText>Атака, наносящая [Damage]. Если цель находится под воздействием [FettleIcon: Debuff]негативного эффекта, то вы [Color: Heal] восстанавливаете Здоровье на [BonusAmount1]% нанесенного урона[/Color].</DefaultText>
+      <DefaultText>Атака, наносящая [Damage]. Если цель находится под воздействием [FettleIcon: Debuff]негативного эффекта, то [Color: Heal]восстанавливает атакующему здоровье на [BonusAmount1]% нанесённого урона[/Color].</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
