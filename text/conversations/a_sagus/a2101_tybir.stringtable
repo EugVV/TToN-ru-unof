@@ -638,7 +638,7 @@
     </Entry>
     <Entry>
       <ID>121</ID>
-      <DefaultText>«Видимо, все дело в этом».
+      <DefaultText>«Видимо, всё дело в этом».
 
 {SCRIPT: Nodes 119, 120 and 121 play one after the other with short gaps between the first time the player gets near Tybir after day has switched to night.}</DefaultText>
       <FemaleText />

@@ -6,12 +6,12 @@
   <Entries>
     <Entry>
       <ID>1</ID>
-      <DefaultText>«Эй. Не смотри на меня так пристально».</DefaultText>
+      <DefaultText>«Тьфу. Не смотри на меня так пристально».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>2</ID>
-      <DefaultText>«Прошлой ночью я выпил все в городе. Включая то, что было в ведре за баром».</DefaultText>
+      <DefaultText>«Прошлой ночью я выпил всё в городе. Включая то, что было в ведре за баром».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -26,12 +26,12 @@
     </Entry>
     <Entry>
       <ID>5</ID>
-      <DefaultText>«Клянусь жизнью, я не думал, что это похмелье сохранится».</DefaultText>
+      <DefaultText>«Ещё немного такого похмелья — и голову об стену разобью».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>6</ID>
-      <DefaultText>::охает::</DefaultText>
+      <DefaultText>::стонет::</DefaultText>
       <FemaleText />
     </Entry>
   </Entries>

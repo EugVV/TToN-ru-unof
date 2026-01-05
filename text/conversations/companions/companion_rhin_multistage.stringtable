@@ -916,12 +916,12 @@
     </Entry>
     <Entry>
       <ID>199</ID>
-      <DefaultText>«Разумеется, я не вру! Я просто… Я просто…»</DefaultText>
+      <DefaultText>«Разумеется, я не вру! Я просто… просто…»</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>200</ID>
-      <DefaultText>«Значит… ты *тоже* считаешь, что у меня не все в порядке с головой?»</DefaultText>
+      <DefaultText>«Значит… ты *тоже* считаешь, что у меня не всё в порядке с головой?»</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -931,7 +931,7 @@
     </Entry>
     <Entry>
       <ID>202</ID>
-      <DefaultText>«Я не знаю… Возможно, так ты сможешь что-нибудь вспомнить. Например, как звали твоих родителей?»</DefaultText>
+      <DefaultText>«Я не знаю… возможно, так ты сможешь что-нибудь вспомнить. Например, как звали твоих родителей?»</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1138,7 +1138,7 @@
     </Entry>
     <Entry>
       <ID>246</ID>
-      <DefaultText>«Прости. В последнее время у меня тоже не все складывается удачно. Мне не стоило это говорить».</DefaultText>
+      <DefaultText>«Прости. В последнее время у меня тоже не всё складывается удачно. Мне не стоило это говорить».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>

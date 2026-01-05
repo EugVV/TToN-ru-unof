@@ -411,7 +411,7 @@
     </Entry>
     <Entry>
       <ID>78</ID>
-      <DefaultText>«Знаешь, мне бы все-таки хотелось посмотреть на существо поближе».</DefaultText>
+      <DefaultText>«Знаешь, мне бы всё-таки хотелось посмотреть на существо поближе».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -423,7 +423,7 @@
     </Entry>
     <Entry>
       <ID>81</ID>
-      <DefaultText>«Так я и думал», — Эль-Джинто ухмыляется и скрещивает руки на груди. — «Цена в шинах все та же: [Global: a2101_NychthemeronPrice]».
+      <DefaultText>«Так я и думал», — Эль-Джинто ухмыляется и скрещивает руки на груди. — «Цена в шинах всё та же: [Global: a2101_NychthemeronPrice]».
 
 {MONEY: Same amount as in Node 80.}</DefaultText>
       <FemaleText />
