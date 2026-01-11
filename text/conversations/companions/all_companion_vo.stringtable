@@ -1466,7 +1466,7 @@
     </Entry>
     <Entry>
       <ID>293</ID>
-      <DefaultText>«Тяжелый урок, полученный слишком рано».</DefaultText>
+      <DefaultText>«Тяжёлый урок, полученный слишком рано».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1481,7 +1481,7 @@
     </Entry>
     <Entry>
       <ID>296</ID>
-      <DefaultText>{matter of fact, unafraid}«Ты не можешь умереть».</DefaultText>
+      <DefaultText>{констатируя факт, без страха}«Ты не можешь умереть».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -2171,7 +2171,7 @@
     </Entry>
     <Entry>
       <ID>434</ID>
-      <DefaultText>«По моему опыту, злодей, у которого в руках есть некая штука — опасный злодей.{happy gasp} Возможно, он пытается уничтожить мир!»</DefaultText>
+      <DefaultText>«По моему опыту, злодей, у которого в руках некая штука, — опасный злодей.{счастливый вздох} Возможно, он пытается уничтожить мир!»</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -2186,12 +2186,12 @@
     </Entry>
     <Entry>
       <ID>437</ID>
-      <DefaultText>{dawning delight}«Неужели это… героический последний рубеж? Да! Поэтому мы должны выжить любой ценой!»</DefaultText>
+      <DefaultText>{с пробуждающейся радостью}«Неужели это… героический последний рубеж? Да! Поэтому мы должны выжить любой ценой!»</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>438</ID>
-      <DefaultText>«Эти щиты на вид надежные. Как подлинные искатели приключений, мы должны держаться от них подальше».</DefaultText>
+      <DefaultText>«Эти щиты на вид надёжные. Как подлинные искатели приключений, мы должны держаться от них подальше».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -2201,7 +2201,7 @@
     </Entry>
     <Entry>
       <ID>440</ID>
-      <DefaultText>{hushed}«Инстинкт мне подсказывает, что нам стоит применить маскировку, чтобы избежать встречи со стихусами.{warning} Забудь про мои инстинкты».</DefaultText>
+      <DefaultText>{приглушённо}«Инстинкт мне подсказывает, что нам стоит применить маскировку, чтобы избежать встречи со стихусами.{с предупреждением} Забудь про мои инстинкты».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -2211,17 +2211,17 @@
     </Entry>
     <Entry>
       <ID>442</ID>
-      <DefaultText>«Мне холодно. Жарко. Вскипаю. Мерзну! У МЕНЯ СЛИШКОМ МНОГО СОКРОВИЩ!»</DefaultText>
+      <DefaultText>«Мне холодно. Жарко. Вскипаю. Мёрзну! У МЕНЯ СЛИШКОМ МНОГО СОКРОВИЩ!»</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>443</ID>
-      <DefaultText>«Я парю. Разлетаюсь на части. Выброси шифры, Эрритис. Выброси».</DefaultText>
+      <DefaultText>«Я парю. Разлетаюсь на части. Выбрось шифры, Эрритис. Выбрось».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>444</ID>
-      <DefaultText>{Alarmed}«Внезапно мне стало больно… {grunts, surprised, in pain}ходить».</DefaultText>
+      <DefaultText>{Тревожно}«Внезапно мне стало больно… {вздыхает, с удивлением и болью}ходить».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
