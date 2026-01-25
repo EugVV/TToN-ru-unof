@@ -3336,12 +3336,12 @@
     </Entry>
     <Entry>
       <ID>667</ID>
-      <DefaultText>Наносит [Damage] и накладывает состояние [Fettles] на всех врагов в радиусе воздействия ([FettleEffectsBasic])</DefaultText>
+      <DefaultText>Наносит [Damage] и накладывает состояние [Fettles] на всех врагов в радиусе воздействия ([FettleEffectsBasic]).</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>668</ID>
-      <DefaultText>Шепот сферы данных.</DefaultText>
+      <DefaultText>Шёпот сферы данных.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -4131,7 +4131,7 @@
     </Entry>
     <Entry>
       <ID>826</ID>
-      <DefaultText>Сопряженная подпрограмма</DefaultText>
+      <DefaultText>Сопряжённая подпрограмма</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -4151,7 +4151,7 @@
     </Entry>
     <Entry>
       <ID>830</ID>
-      <DefaultText>Сопряженная подпрограмма</DefaultText>
+      <DefaultText>Сопряжённая подпрограмма</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -4166,7 +4166,7 @@
     </Entry>
     <Entry>
       <ID>833</ID>
-      <DefaultText>Алигерн готов вложить в своё следующее действие исходящий от пробудившейся татуировки поток энергии.\n\t-3 к сложности следующей атаки, +3 к урону, накладывает оглушение на 1 раунд. \n\tПри следующем исцелении даёт +6 очков.\n\tВлияние следующего примененного негативного состояния держится в течение +2 раундов.</DefaultText>
+      <DefaultText>Алигерн готов вложить в своё следующее действие исходящий от пробудившейся татуировки поток энергии.\n\t-3 к сложности следующей атаки, +3 к урону, накладывает оглушение на 1 раунд. \n\tПри следующем исцелении даёт +6 очков.\n\tВлияние следующего применённого негативного состояния держится в течение +2 раундов.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -5036,7 +5036,7 @@
     </Entry>
     <Entry>
       <ID>1007</ID>
-      <DefaultText>Наносит [Damage], суммарно [TotalDamage]. Даже в случае промаха наносит [Color: Damage]1 урон[/Color] для каждого пункта примененного усилия.\n\n[DamageFromEffort].</DefaultText>
+      <DefaultText>Наносит [Damage], суммарно [TotalDamage]. Даже в случае промаха наносит [Color: Damage]1 урона[/Color] для каждого пункта приложенного усилия.\n\n[DamageFromEffort].</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
