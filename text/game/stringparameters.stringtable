@@ -2926,12 +2926,12 @@
     </Entry>
     <Entry>
       <ID>585</ID>
-      <DefaultText>Откажись, парень. Прошу, откажись.</DefaultText>
-      <FemaleText>Откажись, девушка. Прошу, откажись.</FemaleText>
+      <DefaultText>Скажи нет, парень. Прошу, скажи нет.</DefaultText>
+      <FemaleText>Скажи нет, девочка. Прошу, скажи нет.</FemaleText>
     </Entry>
     <Entry>
       <ID>586</ID>
-      <DefaultText>Никогда не поздно забыть обо всём…</DefaultText>
+      <DefaultText>Ещё не слишком поздно уйти…</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -3036,8 +3036,8 @@
     </Entry>
     <Entry>
       <ID>607</ID>
-      <DefaultText>О чём я думал, преследуя его?</DefaultText>
-      <FemaleText>О чём я думал, преследуя её?</FemaleText>
+      <DefaultText>О чём я думал, когда пошёл с ним?</DefaultText>
+      <FemaleText>О чём я думал, когда пошёл с ней?</FemaleText>
     </Entry>
     <Entry>
       <ID>608</ID>
@@ -3046,12 +3046,12 @@
     </Entry>
     <Entry>
       <ID>609</ID>
-      <DefaultText>Что мы наделали…</DefaultText>
+      <DefaultText>Что сделали все мы…</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>610</ID>
-      <DefaultText>Тот самый «Нибовианский Убийца»? Нет, нам нужны три повозки и цирковая палатка.</DefaultText>
+      <DefaultText>«Нибовийский убийца»? Нет, тут нужны три повозки и цирковая палатка.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -6632,12 +6632,12 @@
     </Entry>
     <Entry>
       <ID>1326</ID>
-      <DefaultText>Я не мог. Я боялся себя и того, что он мог обо мне подумать.</DefaultText>
+      <DefaultText>Я не мог. Слишком сильно боялся. Того, что он мог обо мне подумать, да, но ещё и себя.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>1327</ID>
-      <DefaultText>Я устал от лжи. Это моя вина, и это чистая правда.</DefaultText>
+      <DefaultText>Меня уже тошнит от лжи. Вина тут моя, и это чистая правда.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
