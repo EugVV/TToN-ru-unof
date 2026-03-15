@@ -1316,7 +1316,7 @@
     </Entry>
     <Entry>
       <ID>263</ID>
-      <DefaultText>Неужели я прирождённый убийца? Это бы многое объяснило.</DefaultText>
+      <DefaultText>Неужели во мне всегда прятался убийца? Это бы многое объяснило.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1336,12 +1336,12 @@
     </Entry>
     <Entry>
       <ID>267</ID>
-      <DefaultText>Тот проводник Цветения часто туда ходит. Грисслер, кажется?</DefaultText>
+      <DefaultText>Тот проводник Цветения тоже часто туда ходит. Грисслер, кажется?</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>268</ID>
-      <DefaultText>Она боится Цветения больше, чем я когда-то.</DefaultText>
+      <DefaultText>Она боится Цветения больше, чем я когда-либо.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1351,8 +1351,8 @@
     </Entry>
     <Entry>
       <ID>270</ID>
-      <DefaultText>Он, должно быть, поступил куда хуже, чем я со своей сестрой.</DefaultText>
-      <FemaleText>Она, должно быть, поступила куда хуже, чем я со своей сестрой.</FemaleText>
+      <DefaultText>Должно быть, он когда-то поступил куда хуже, чем я со своей сестрой.</DefaultText>
+      <FemaleText>Должно быть, она когда-то поступила куда хуже, чем я со своей сестрой.</FemaleText>
     </Entry>
     <Entry>
       <ID>271</ID>
