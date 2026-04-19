@@ -198,7 +198,7 @@
     </Entry>
     <Entry>
       <ID>39</ID>
-      <DefaultText>«Давай поговорим о тех улучшениях ещё раз».</DefaultText>
+      <DefaultText>«Давай поговорим об улучшениях ещё раз».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -210,7 +210,7 @@
     </Entry>
     <Entry>
       <ID>41</ID>
-      <DefaultText>«Конечно», — говорит она, складывая руки на бедра. — «Кому нужна работа?»</DefaultText>
+      <DefaultText>«Конечно», — говорит она, складывая руки на бёдра. — «Кому нужна работа?»</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -311,7 +311,7 @@
     </Entry>
     <Entry>
       <ID>63</ID>
-      <DefaultText>«Расскажи ещё раз, что за провода у тебя на руках».</DefaultText>
+      <DefaultText>«Повтори, что за провода у тебя на руках?»</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -421,7 +421,7 @@
     </Entry>
     <Entry>
       <ID>83</ID>
-      <DefaultText>«А это точно необходимо?» — спрашивает он, но улыбается вам, когда нити из его одежды начинают двигаться сами по себе.
+      <DefaultText>«А это точно необходимо?» — спрашивает он, но улыбается вам, когда нити его одежды начинают двигаться сами по себе.
 
 «Спасибо, дружище».
 {ERRITIS}</DefaultText>
@@ -640,7 +640,7 @@
     </Entry>
     <Entry>
       <ID>129</ID>
-      <DefaultText>После нескольких минут Анше опускает кулак.
+      <DefaultText>После нескольких минут Анше разжимает кулак.
 
 «Выполнено», — говорит она. — «Кто следующий?»</DefaultText>
       <FemaleText />
@@ -720,7 +720,7 @@
     </Entry>
     <Entry>
       <ID>145</ID>
-      <DefaultText>«Очень жаль. Возвращайся, когда будут деньги».</DefaultText>
+      <DefaultText>«Очень жаль. Возвращайся, когда разбогатеешь».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
