@@ -5237,13 +5237,13 @@
     </Entry>
     <Entry>
       <ID>1047</ID>
-      <DefaultText>Если мы безродные, значит безроден даже наш господин, но это не так. Мы едины.</DefaultText>
+      <DefaultText>Если корня нет, то даже наш создатель — лишь родственник. Все мы едины.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>1048</ID>
-      <DefaultText>Простил ли я его или себя? Какова суть нашего сожаления?</DefaultText>
-      <FemaleText>Простил ли я её или себя? Какова суть нашего сожаления?</FemaleText>
+      <DefaultText>Простил его или себя? В чём *суть* нашего сожаления?</DefaultText>
+      <FemaleText>Простил её или себя? В чём *суть* нашего сожаления?</FemaleText>
     </Entry>
     <Entry>
       <ID>1049</ID>
