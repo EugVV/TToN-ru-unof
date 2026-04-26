@@ -16,7 +16,7 @@
     </Entry>
     <Entry>
       <ID>3</ID>
-      <DefaultText>«Я слышал, что они убили своего спутника. Почему они его тоже убили?»</DefaultText>
+      <DefaultText>«Говорят, он убил своего товарища. Зачем он ещё и убил?»</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -37,11 +37,11 @@
     <Entry>
       <ID>7</ID>
       <DefaultText>«Ты один из *них*! Ты точно не должен быть там, вместе с ним?»</DefaultText>
-      <FemaleText />
+      <FemaleText>«Ты одна из *них*! Ты точно не должна быть там, вместе с ним?»</FemaleText>
     </Entry>
     <Entry>
       <ID>8</ID>
-      <DefaultText>«А, для меня вы все одинаковые».</DefaultText>
+      <DefaultText>«А, для меня вы все на одно лицо».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
