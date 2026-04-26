@@ -36,23 +36,23 @@
     </Entry>
     <Entry>
       <ID>7</ID>
-      <DefaultText>«Держитесь подальше, уважаемый. Преступник заключён в клетку, но всё ещё опасен».</DefaultText>
-      <FemaleText>«Держитесь подальше, уважаемая. Преступник заключён в клетку, но всё ещё опасен».</FemaleText>
+      <DefaultText>«Держись подальше, уважаемый. Преступник заключён в клетку, но всё ещё опасен».</DefaultText>
+      <FemaleText>«Держись подальше, уважаемая. Преступник заключён в клетку, но всё ещё опасен».</FemaleText>
     </Entry>
     <Entry>
       <ID>8</ID>
-      <DefaultText>«Вы отвлекаете меня от моих обязанностей, сударь».</DefaultText>
-      <FemaleText>«Вы отвлекаете меня от моих обязанностей, сударыня».</FemaleText>
+      <DefaultText>«Ты отвлекаешь меня от моих обязанностей, сударь».</DefaultText>
+      <FemaleText>«Ты отвлекаешь меня от моих обязанностей, сударыня».</FemaleText>
     </Entry>
     <Entry>
       <ID>9</ID>
-      <DefaultText>«Где ваш гид, сударь?»</DefaultText>
-      <FemaleText>«Где ваш гид, сударыня?»</FemaleText>
+      <DefaultText>«Где твой гид, сударь?»</DefaultText>
+      <FemaleText>«Где твой гид, сударыня?»</FemaleText>
     </Entry>
     <Entry>
       <ID>10</ID>
-      <DefaultText>«Следите за ценными вещами, уважаемый».</DefaultText>
-      <FemaleText>«Следите за ценными вещами, уважаемая».</FemaleText>
+      <DefaultText>«Следи за ценными вещами, сударь».</DefaultText>
+      <FemaleText>«Следи за ценными вещами, сударыня».</FemaleText>
     </Entry>
     <Entry>
       <ID>11</ID>
