@@ -6,12 +6,12 @@
   <Entries>
     <Entry>
       <ID>1</ID>
-      <DefaultText>«Моему сыну это понравится».</DefaultText>
+      <DefaultText>«Моему сыну бы это понравилось».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>2</ID>
-      <DefaultText>«Интересно, позволят ли они нам прийти ещё раз после школы».</DefaultText>
+      <DefaultText>«Интересно, пустят ли нас сюда ещё раз после школы?»</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -26,7 +26,7 @@
     </Entry>
     <Entry>
       <ID>5</ID>
-      <DefaultText>«Сыну нужен коралл для школьного проекта. Почему он всегда говорит мне в последнюю минуту?»</DefaultText>
+      <DefaultText>«Сыну нужен коралл для школьного проекта. Почему он всегда говорит мне в последний момент?»</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
