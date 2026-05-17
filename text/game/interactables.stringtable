@@ -661,12 +661,12 @@
     </Entry>
     <Entry>
       <ID>131</ID>
-      <DefaultText>Открыть емкость.</DefaultText>
+      <DefaultText>Открыть ёмкость.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>132</ID>
-      <DefaultText>Вскрыть емкость.</DefaultText>
+      <DefaultText>Вскрыть ёмкость.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1171,7 +1171,7 @@
     </Entry>
     <Entry>
       <ID>233</ID>
-      <DefaultText>Пленка, натянутая на металлический каркас, покрыта подробными изображениями различных частей тела.</DefaultText>
+      <DefaultText>Плёнка, натянутая на металлический каркас, покрыта подробными изображениями различных частей тела.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -3446,17 +3446,17 @@
     </Entry>
     <Entry>
       <ID>688</ID>
-      <DefaultText>Переливающаяся пленка оказывается прочной, как сталь.</DefaultText>
+      <DefaultText>Переливающаяся плёнка оказывается прочной, как сталь.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>689</ID>
-      <DefaultText>Вода, льющаяся из труб, имеет вкус чабреца.</DefaultText>
+      <DefaultText>Из труб льётся вода с привкусом тимьяна.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>690</ID>
-      <DefaultText>В сосудах и емкостях, словно выставленных на продажу, находятся странные жидкости и даже существа. Однако они неподвижны, как камень.</DefaultText>
+      <DefaultText>В сосудах и ёмкостях, словно выставленные на продажу, налиты странные жидкости и даже сидят существа. Однако они неподвижны, как камень.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
