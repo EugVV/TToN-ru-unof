@@ -59,7 +59,7 @@
     </Entry>
     <Entry>
       <ID>9</ID>
-      <DefaultText>«Напомни, чем занимается ваша группировка?»</DefaultText>
+      <DefaultText>«Напомни, чем занимается ваше подразделение?»</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -101,12 +101,12 @@
     </Entry>
     <Entry>
       <ID>17</ID>
-      <DefaultText>«Что твоя команда делает в Сагусе?»</DefaultText>
+      <DefaultText>«Что твоя рота делает в Сагусе?»</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>18</ID>
-      <DefaultText>«Повтори, что твоя команда делает в Сагусе?»</DefaultText>
+      <DefaultText>«Повтори, что твоя рота делает в Сагусе?»</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
