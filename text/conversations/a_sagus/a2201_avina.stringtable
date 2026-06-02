@@ -136,7 +136,7 @@
     </Entry>
     <Entry>
       <ID>28</ID>
-      <DefaultText>«Скажи мне ещё раз, кто здесь живёт?»</DefaultText>
+      <DefaultText>«Повтори, кто здесь живёт?»</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -268,12 +268,12 @@
     </Entry>
     <Entry>
       <ID>54</ID>
-      <DefaultText>«Они мои друзья. Они сильно скучают по своему отцу, но всё же нам здесь весело. Зебб присматривает за нами, а я учу Ним играть на флейте».</DefaultText>
+      <DefaultText>«Они мои друзья. Ребята сильно скучают по своему отцу, но всё же нам здесь весело. Зебб присматривает за нами, а я учу Ним играть на флейте».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>55</ID>
-      <DefaultText>«Они мои друзья. Они почти моя семья».</DefaultText>
+      <DefaultText>«Они мои друзья. Почти моя семья».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -354,12 +354,12 @@
     </Entry>
     <Entry>
       <ID>70</ID>
-      <DefaultText>«Расскажи мне о себе».</DefaultText>
+      <DefaultText>«Расскажи о себе».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>71</ID>
-      <DefaultText>«Расскажи мне снова свою историю».</DefaultText>
+      <DefaultText>«Расскажи снова свою историю».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
