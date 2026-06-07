@@ -4671,7 +4671,7 @@
     </Entry>
     <Entry>
       <ID>934</ID>
-      <DefaultText>Когда Мэткина находиться в состоянии [FettleIcon: Status][Color: PositiveModifier]Скрытность[/Color] или на противника наложен эффект [FettleIcon: Debuff][Color: NegativeModifier]Ослепление[/Color], она получает улучшение [PassiveEffectsBasic] и может наложить на цель или продлить действие эффекта [Fettles] ([FettleDescriptions]) [Duration].</DefaultText>
+      <DefaultText>Когда Мэткина находится в состоянии [FettleIcon: Status][Color: PositiveModifier]Скрытность[/Color] или на противника наложен эффект [FettleIcon: Debuff][Color: NegativeModifier]Ослепление[/Color], она получает улучшение [PassiveEffectsBasic] и может наложить на цель или продлить действие эффекта [Fettles] ([FettleDescriptions]) [Duration].</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -6586,7 +6586,7 @@
     </Entry>
     <Entry>
       <ID>1317</ID>
-      <DefaultText>Эрритис сильнее и быстрее других героев. На самом деле, вообще *всех* героев. Ведь он величайший герой из всех живших на свете!</DefaultText>
+      <DefaultText>Эрритис сильнее и быстрее других героев. На самом деле, вообще *всех* героев. Ведь он — величайший герой из всех живших на свете!</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
