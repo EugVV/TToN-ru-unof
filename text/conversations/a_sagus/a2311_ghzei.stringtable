@@ -127,7 +127,7 @@
     </Entry>
     <Entry>
       <ID>22</ID>
-      <DefaultText>«Ты не думаешь, что Киятава или Маллет могли убить?»</DefaultText>
+      <DefaultText>«Как думаешь, Киятава или Маллет могли кого-нибудь убить?»</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -862,12 +862,12 @@
     </Entry>
     <Entry>
       <ID>163</ID>
-      <DefaultText>«Ты не думаешь, что Киятава или Маллет могли кого-нибудь убить?»</DefaultText>
+      <DefaultText>«Как думаешь, Киятава или Маллет могли кого-нибудь убить?»</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>164</ID>
-      <DefaultText>«Довольно про убийства».</DefaultText>
+      <DefaultText>«Довольно об убийствах».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
