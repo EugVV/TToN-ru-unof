@@ -11,7 +11,7 @@
     </Entry>
     <Entry>
       <ID>2</ID>
-      <DefaultText>«Это посланники нашего труса-создателя! Становись в очередь! Помни об участи нано и обходи опоры стороной!»</DefaultText>
+      <DefaultText>«Это посланники нашего труса-создателя! Держать строй! Помните об участи нано и обходите опоры стороной!»</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -36,7 +36,7 @@
     </Entry>
     <Entry>
       <ID>7</ID>
-      <DefaultText>«Становись в очередь! Посланники Труса здесь! Помни об участи нано и обходи опоры стороной!»</DefaultText>
+      <DefaultText>«Держать строй! Посланники Труса здесь! Помните об участи нано и обходите опоры стороной!»</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -61,7 +61,7 @@
     </Entry>
     <Entry>
       <ID>12</ID>
-      <DefaultText>«Наконец-то! Не придётся тратить на тебя время».</DefaultText>
+      <DefaultText>«Наконец-то! Не придётся больше тратить на тебя время».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -71,7 +71,7 @@
     </Entry>
     <Entry>
       <ID>16</ID>
-      <DefaultText>«Ты! Быстро! Помоги пройти мимо этого кретина в ту дверь!»</DefaultText>
+      <DefaultText>«Ты! Быстро, помоги пройти мимо этого кретина в ту дверь!»</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -81,7 +81,7 @@
     </Entry>
     <Entry>
       <ID>18</ID>
-      <DefaultText>«Останови их! Они не должны добраться до Согласователя!»</DefaultText>
+      <DefaultText>«Остановить их! Они не должны добраться до Согласователя!»</DefaultText>
       <FemaleText />
     </Entry>
   </Entries>
