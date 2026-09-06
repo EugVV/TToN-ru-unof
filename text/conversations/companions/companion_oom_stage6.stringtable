@@ -113,7 +113,7 @@
     </Entry>
     <Entry>
       <ID>23</ID>
-      <DefaultText>«Мы можем поговорить о тебе, Оом?»</DefaultText>
+      <DefaultText>«Можем мы поговорить о тебе, Оом?»</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -133,7 +133,7 @@
     </Entry>
     <Entry>
       <ID>27</ID>
-      <DefaultText>::срлк:: — говорит Оом, сужая глаза. Каким-то образом вы понимаете, что это хотя и вынужденное, но твёрдое «нет».</DefaultText>
+      <DefaultText>::срлк:: — говорит Оом, сужая глаза. Каким-то образом вы понимаете, что это хотя и вынужденное, но твёрдое «не сейчас».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -173,7 +173,7 @@
     </Entry>
     <Entry>
       <ID>35</ID>
-      <DefaultText>«Давай лучше сменим тему».</DefaultText>
+      <DefaultText>«Лучше продолжим путь».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -213,7 +213,7 @@
     </Entry>
     <Entry>
       <ID>43</ID>
-      <DefaultText>::с-с-с-с:: — произносит Оом, оседая на землю. Когда вы решаете уйти, за вами он не идёт.</DefaultText>
+      <DefaultText>::с-с-с-с:: — произносит Оом, поникая. Когда вы решаете уйти, за вами он не идёт.</DefaultText>
       <FemaleText />
     </Entry>
   </Entries>
