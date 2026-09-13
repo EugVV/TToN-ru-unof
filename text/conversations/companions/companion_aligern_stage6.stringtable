@@ -11,7 +11,7 @@
     </Entry>
     <Entry>
       <ID>2</ID>
-      <DefaultText>«Что происходит? Тебе помочь?»</DefaultText>
+      <DefaultText>«Что происходит? Тебе нужна помощь?»</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -21,7 +21,7 @@
     </Entry>
     <Entry>
       <ID>4</ID>
-      <DefaultText>«Расскажи о себе».</DefaultText>
+      <DefaultText>«Поведай свою историю».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -41,7 +41,7 @@
     </Entry>
     <Entry>
       <ID>8</ID>
-      <DefaultText>«Что будем делать дальше?»</DefaultText>
+      <DefaultText>«Что посоветуешь делать дальше?»</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -51,7 +51,7 @@
     </Entry>
     <Entry>
       <ID>10</ID>
-      <DefaultText>«Продолжим».</DefaultText>
+      <DefaultText>«Продолжим путь».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -66,7 +66,7 @@
     </Entry>
     <Entry>
       <ID>15</ID>
-      <DefaultText>Он качает головой: «Если ты не знаешь моей истории до настоящего времени, я уже теряю надежду, что ты в принципе когда-либо узнаешь её».</DefaultText>
+      <DefaultText>Он качает головой: «Если ты до сих пор не знаешь моей истории, я уже теряю надежду, что ты в принципе когда-либо узнаешь её».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -81,12 +81,12 @@
     </Entry>
     <Entry>
       <ID>18</ID>
-      <DefaultText>Он качает головой: «Если ты не знаешь моей истории до настоящего времени, я уже теряю надежду, что ты в принципе когда-либо узнаешь её».</DefaultText>
+      <DefaultText>Он качает головой: «Если ты до сих пор не знаешь моей истории, я уже теряю надежду, что ты в принципе когда-либо узнаешь её».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>22</ID>
-      <DefaultText>«Не самое лучшее время для этого, не так ли? Давай. Мы уже почти закончили».</DefaultText>
+      <DefaultText>«Не самое лучшее время для этого, не думаешь? Ну же. Мы уже почти закончили».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -96,22 +96,22 @@
     </Entry>
     <Entry>
       <ID>24</ID>
-      <DefaultText>Он беспомощно пожимает плечами: «Это страна грёз отверженного. Я просто иду за тобой».</DefaultText>
-      <FemaleText>Он беспомощно пожимает плечами: «Это страна грёз отверженной. Я просто иду за тобой».</FemaleText>
+      <DefaultText>Он беспомощно пожимает плечами: «Это область грёз отверженного. Я просто следую за тобой».</DefaultText>
+      <FemaleText>Он беспомощно пожимает плечами: «Это область грёз отверженной. Я просто следую за тобой».</FemaleText>
     </Entry>
     <Entry>
       <ID>25</ID>
-      <DefaultText>«Нет настроения для болтовни. Мы должны продолжать двигаться».</DefaultText>
+      <DefaultText>«Нет настроения для болтовни. Нам нужно продолжить путь».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>26</ID>
-      <DefaultText>{disbelief} «Ты собираешься оставить меня одного в этой стране грез? Прекрасно. Я постараюсь не делать много вреда, пока ты будешь отсутствовать».</DefaultText>
+      <DefaultText>{с недоверием} «Ты собираешься оставить меня одного в этом пространстве грёз? Прекрасно. Я постараюсь не причинить много вреда, пока тебя не будет».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>28</ID>
-      <DefaultText>«Так долго».</DefaultText>
+      <DefaultText>«Пока».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -121,7 +121,7 @@
     </Entry>
     <Entry>
       <ID>30</ID>
-      <DefaultText>«Ты хочешь снова присоединиться ко мне?»</DefaultText>
+      <DefaultText>«Не хочешь снова присоединиться ко мне?»</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -161,12 +161,12 @@
     </Entry>
     <Entry>
       <ID>38</ID>
-      <DefaultText>«Так как мне здесь нечем особо заняться… ладно».</DefaultText>
+      <DefaultText>«Так как мне здесь особо нечем заняться… ладно».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>39</ID>
-      <DefaultText>«Давай отправляться в путь».</DefaultText>
+      <DefaultText>«В путь».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
