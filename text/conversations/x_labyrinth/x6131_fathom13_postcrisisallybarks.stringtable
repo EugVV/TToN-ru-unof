@@ -11,7 +11,7 @@
     </Entry>
     <Entry>
       <ID>2</ID>
-      <DefaultText>Из-за *этого* весь сыр-бор? Думаю, надо открыть и узнать.</DefaultText>
+      <DefaultText>Из-за *этого* весь сыр-бор? Думаю, стоит открыть и посмотреть.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -26,7 +26,7 @@
     </Entry>
     <Entry>
       <ID>5</ID>
-      <DefaultText>Потрясающе! Ментальные барьеры из металла. Ну? Открывать будешь?</DefaultText>
+      <DefaultText>Потрясающе! Ментальные барьеры выглядят конструкциями из металла. Ну? Открывать будешь?</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -36,17 +36,17 @@
     </Entry>
     <Entry>
       <ID>7</ID>
-      <DefaultText>Так вот зачем наш создатель охотился всё это время… Открывай! Давай посмотрим, стоило ли оно того.</DefaultText>
+      <DefaultText>Так вот к чему стремился наш создатель всё это время. Открывай! Давай посмотрим, стоило ли оно того.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>8</ID>
-      <DefaultText>Последняя дверь… если я забыл упомянуть, это было моим *лучшим* приключением. Повезло тебе.</DefaultText>
+      <DefaultText>Последняя дверь… Если я ещё не упоминал, это было моим *лучшим* приключением. Повезло тебе.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>9</ID>
-      <DefaultText>Значит… эта дверь вернёт нас домой? Надеюсь, так и будет.</DefaultText>
+      <DefaultText>Значит… эта дверь вернёт нас домой? Боги, надеюсь, так и будет.</DefaultText>
       <FemaleText />
     </Entry>
   </Entries>
