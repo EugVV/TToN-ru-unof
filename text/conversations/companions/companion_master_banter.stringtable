@@ -241,17 +241,17 @@
     </Entry>
     <Entry>
       <ID>55</ID>
-      <DefaultText>{slightly disgusted}«Из-за тебя возможность смерти во время нашего путешествия кажется не таким уж и плохим вариантом».</DefaultText>
+      <DefaultText>{с лёгким отвращением}«Из-за тебя возможность смерти во время нашего путешествия кажется не таким уж плохим вариантом».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>57</ID>
-      <DefaultText>«Надо же. У каждого из нас свои личные трагедии, нас преследуют неописуемые кошмары, а ты говоришь, это шутка. Но мне не смешно».</DefaultText>
+      <DefaultText>«Надо же. У каждого из нас свои личные трагедии, нас преследуют неописуемые кошмары, а ты говоришь, что это шутка. Но мне не смешно».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>58</ID>
-      <DefaultText>«Я и не сказал, что это *хорошая* шутка».</DefaultText>
+      <DefaultText>«Я не говорил, что это *хорошая* шутка».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -261,7 +261,7 @@
     </Entry>
     <Entry>
       <ID>60</ID>
-      <DefaultText>«То есть, удалым, красивым, ловким и наделенным безупречным чувством времени?»</DefaultText>
+      <DefaultText>«То есть удалым, красивым, ловким и наделённым безупречным чувством времени?»</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -271,7 +271,7 @@
     </Entry>
     <Entry>
       <ID>62</ID>
-      <DefaultText>{confused, slightly threatening} «…что ты сказала?»</DefaultText>
+      <DefaultText>{сбивчиво, с лёгкой угрозой}«…что ты сказала?»</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
