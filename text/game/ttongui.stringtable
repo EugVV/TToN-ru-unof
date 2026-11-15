@@ -2216,12 +2216,12 @@
     </Entry>
     <Entry>
       <ID>442</ID>
-      <DefaultText>{0} получает эффект {1}</DefaultText>
+      <DefaultText>{0} получает эффект «{1}»</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>443</ID>
-      <DefaultText>{0} лишается эффекта {1}</DefaultText>
+      <DefaultText>{0} лишается эффекта «{1}»</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -2261,12 +2261,12 @@
     </Entry>
     <Entry>
       <ID>451</ID>
-      <DefaultText>{0} получает эффект {1}.</DefaultText>
+      <DefaultText>{0} получает эффект «{1}».</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>452</ID>
-      <DefaultText>{0} получает эффект {1} до следующего отдыха всей группы.</DefaultText>
+      <DefaultText>{0} получает эффект «{1}» до следующего отдыха всей группы.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -2626,7 +2626,7 @@
     </Entry>
     <Entry>
       <ID>525</ID>
-      <DefaultText>Снимает эффект {0}</DefaultText>
+      <DefaultText>Снимает эффект «{0}»</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -2741,7 +2741,7 @@
     </Entry>
     <Entry>
       <ID>548</ID>
-      <DefaultText>Недоступно: требуется эффект {0}</DefaultText>
+      <DefaultText>Недоступно: требуется эффект «{0}»</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
